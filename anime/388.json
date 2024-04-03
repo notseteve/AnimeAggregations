@@ -74,8 +74,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.57,
-      "total" : 389
+      "rating" : 5.58,
+      "total" : 390
     },
     "REVIEW" : {
       "rating" : 7.33,
@@ -83,14 +83,19 @@
     },
     "TEMPORARY" : {
       "rating" : 6.76,
-      "total" : 390
+      "total" : 391
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "160116" ],
+    "ANIME_NFO" : [ "802,ndefbz" ],
+    "ANISON" : [ "3944" ],
     "ANN" : [ "2120" ],
     "IMDB" : [ "tt0784145" ],
     "MAL" : [ "757" ],
-    "OTHER" : [ "3:802/ndefbz", "4:http://cinema.werde.com/new/kaze_shonen.html", "6:The_Boy_Who_Saw_the_Wind", "7:風を見た少年", "9:160116", "10:3944" ]
+    "WEBSITE" : [ "http://cinema.werde.com/new/kaze_shonen.html" ],
+    "WIKIPEDIA_EN" : [ "The_Boy_Who_Saw_the_Wind" ],
+    "WIKIPEDIA_JP" : [ "風を見た少年" ]
   },
   "similar" : {
     "78" : {
@@ -623,6 +628,14 @@
       "info_box" : false,
       "name" : "hostage situation",
       "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

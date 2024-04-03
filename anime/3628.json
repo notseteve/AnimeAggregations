@@ -550,15 +550,31 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "235580" ],
+    "ANISON" : [ "1440" ],
     "ANN" : [ "4726" ],
-    "MAL" : [ "7625" ],
-    "OTHER" : [ "9:235580", "10:1440" ]
+    "MAL" : [ "7625" ]
   },
   "start_date" : "1992-06-07",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -570,6 +586,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

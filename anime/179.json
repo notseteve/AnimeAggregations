@@ -350,7 +350,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 4.57,
+        "rating" : 4.56,
         "total" : 8
       },
       "recap" : false,
@@ -438,7 +438,7 @@
       "length" : 1,
       "number" : 2,
       "rating" : {
-        "rating" : 1.45,
+        "rating" : 1.44,
         "total" : 2
       },
       "recap" : false,
@@ -605,8 +605,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.14,
-      "total" : 2722
+      "rating" : 6.13,
+      "total" : 2725
     },
     "REVIEW" : {
       "rating" : 8.31,
@@ -614,22 +614,31 @@
     },
     "TEMPORARY" : {
       "rating" : 7.11,
-      "total" : 2747
+      "total" : 2750
     }
   },
   "related" : {
     "PARENT" : [ 13899 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "159838" ],
+    "ANIME_NFO" : [ "82,jlneed" ],
+    "ANISON" : [ "3460" ],
     "ANN" : [ "247" ],
     "CRUNCHY_ROLL" : [ "GMEHMEN92" ],
+    "LAIN" : [ "mediadb/media/581" ],
     "MAL" : [ "369" ],
-    "OTHER" : [ "3:82/jlneed", "4:http://web.archive.org/web/20070309184239/http://www.vap.co.jp/boogie/", "6:Boogiepop_Phantom", "7:ブギーポップは笑わない", "9:159838", "10:3460", "11:mediadb/media/581", "15:2000/boogiepop", "17:boogiepop", "31:7092" ]
+    "MARUMEGANEL" : [ "2000/boogiepop" ],
+    "MEDIA_ART_DATABASE" : [ "7092" ],
+    "TV_ANIMATION_MUSEUM" : [ "boogiepop" ],
+    "WEBSITE" : [ "http://web.archive.org/web/20070309184239/http://www.vap.co.jp/boogie/" ],
+    "WIKIPEDIA_EN" : [ "Boogiepop_Phantom" ],
+    "WIKIPEDIA_JP" : [ "ブギーポップは笑わない" ]
   },
   "similar" : {
     "99" : {
-      "rating" : 8.83495145631068,
-      "total" : 103
+      "rating" : 8.846153846153847,
+      "total" : 104
     },
     "1265" : {
       "rating" : 7.0,
@@ -828,6 +837,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2748" : {
+      "info_box" : false,
+      "name" : "sex",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2750" : {
       "info_box" : true,
@@ -1072,6 +1089,14 @@
       "info_box" : false,
       "name" : "mind fuck",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5884" : {
+      "info_box" : false,
+      "name" : "slow-paced",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

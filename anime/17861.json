@@ -6,6 +6,10 @@
       "name" : "Akira",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 68078,
+      "name" : "Asuka",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 66449,
       "name" : "Ataru no Chichi",
       "type" : "CHARACTER"
@@ -22,6 +26,10 @@
       "name" : "Kakugari",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 139174,
+      "name" : "Kayoko",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 68080,
       "name" : "Lum no Chichi",
       "type" : "CHARACTER"
@@ -30,12 +38,44 @@
       "name" : "Lum no Haha",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 104453,
+      "name" : "Mendou no Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 104475,
+      "name" : "Mizunokouji Tobimaro",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139177,
+      "name" : "Mizunokouji no Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139178,
+      "name" : "Mizunokouji no Haha",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 68069,
       "name" : "Ryuunosuke no Chichi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 139176,
+      "name" : "Saizou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139175,
+      "name" : "Shingo",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 127030,
       "name" : "Shirai Kousuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139173,
+      "name" : "Youko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139172,
+      "name" : "Yukie",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -169,7 +209,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.66,
+        "rating" : 6.68,
         "total" : 5
       },
       "recap" : false,
@@ -274,7 +314,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.47,
+        "rating" : 4.45,
         "total" : 5
       },
       "recap" : false,
@@ -295,8 +335,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.87,
-        "total" : 4
+        "rating" : 6.53,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -316,8 +356,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.04,
-        "total" : 1
+        "rating" : 7.74,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -336,6 +376,10 @@
       "episode_id" : 277681,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 7.44,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -353,10 +397,20 @@
       "episode_id" : 277682,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 6.68,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ayakashi no Mendou / Saigo no Date"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Haunted Mendo / Last Date"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あやかしの面堂 / 最後のデート"
       } ],
       "type" : "REGULAR"
     }, {
@@ -366,8 +420,14 @@
       "number" : 11,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kouchou Ouda Jiken / Himitsu no Hanazono / Namida no Kateihoumon: Jikogu no Moroboshi-ke Hen"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "The Case of the Battered Principal / The Secret Flower Garden / The Home Visit Blues: Hellish Moroboshi Edition"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "校長殴打事件 / 秘密の花園 / 涙の家庭訪問 地獄の諸星家編"
       } ],
       "type" : "REGULAR"
     }, {
@@ -416,22 +476,28 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.51,
-      "total" : 17
+      "rating" : 6.22,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 6.44,
-      "total" : 17
+      "rating" : 6.3,
+      "total" : 21
     }
   },
   "related" : {
     "PREQUEL" : [ 17096 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "388633" ],
     "ANN" : [ "27576" ],
+    "HIDIVE" : [ "tv/urusei-yatsura/season-3" ],
     "MAL" : [ "54829" ],
-    "OTHER" : [ "4:https://uy-allstars.com/", "6:Urusei_Yatsura", "7:うる星やつら_(アニメ)", "8:6937", "9:388633", "23:uy_allstars", "42:tv/urusei-yatsura/season-3" ],
-    "TMDB" : [ "tv/154524" ]
+    "SYOBOI" : [ "6937" ],
+    "TMDB" : [ "tv/154524" ],
+    "TWITTER" : [ "uy_allstars" ],
+    "WEBSITE" : [ "https://uy-allstars.com/" ],
+    "WIKIPEDIA_EN" : [ "Urusei_Yatsura" ],
+    "WIKIPEDIA_JP" : [ "うる星やつら_(アニメ)" ]
   },
   "start_date" : "2024-01-12",
   "tags" : {

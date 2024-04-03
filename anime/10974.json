@@ -803,9 +803,14 @@
     "OTHER" : [ 10374 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "351043" ],
+    "ANISON" : [ "18126" ],
     "ANN" : [ "16637" ],
     "MAL" : [ "28835", "34960" ],
-    "OTHER" : [ "4:http://www.ntv.co.jp/tesabu/3ki/index.html", "6:Tesagure!_Bukatsu-mono", "7:てさぐれ!部活もの", "8:3678", "9:351043", "10:18126" ]
+    "SYOBOI" : [ "3678" ],
+    "WEBSITE" : [ "http://www.ntv.co.jp/tesabu/3ki/index.html" ],
+    "WIKIPEDIA_EN" : [ "Tesagure!_Bukatsu-mono" ],
+    "WIKIPEDIA_JP" : [ "てさぐれ!部活もの" ]
   },
   "start_date" : "2015-04-05",
   "tags" : {
@@ -862,9 +867,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6717" : {
+      "info_box" : false,
+      "name" : "improvised dialogue",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

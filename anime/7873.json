@@ -547,7 +547,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.57,
-      "total" : 3138
+      "total" : 3139
     },
     "REVIEW" : {
       "rating" : 6.59,
@@ -555,14 +555,26 @@
     },
     "TEMPORARY" : {
       "rating" : 6.98,
-      "total" : 3153
+      "total" : 3154
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "338497" ],
+    "AMAZON" : [ "B00OME5G6I" ],
+    "ANIME_NFO" : [ "4808,fcwqct" ],
+    "ANISON" : [ "13213" ],
     "ANN" : [ "11796" ],
     "CRUNCHY_ROLL" : [ "GRZXZ9EGY" ],
+    "FUNIMATION" : [ "fractale/" ],
+    "LAIN" : [ "mediadb/media/2708" ],
     "MAL" : [ "9314" ],
-    "OTHER" : [ "3:4808/fcwqct", "4:http://fractale-anime.com/", "6:Fractale", "7:フラクタル_(テレビアニメ)", "8:2094", "9:338497", "10:13213", "11:mediadb/media/2708", "15:2011/fractale", "23:fractale_system", "31:14369", "32:B00OME5G6I", "45:fractale/" ]
+    "MARUMEGANEL" : [ "2011/fractale" ],
+    "MEDIA_ART_DATABASE" : [ "14369" ],
+    "SYOBOI" : [ "2094" ],
+    "TWITTER" : [ "fractale_system" ],
+    "WEBSITE" : [ "http://fractale-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "Fractale" ],
+    "WIKIPEDIA_JP" : [ "フラクタル_(テレビアニメ)" ]
   },
   "similar" : {
     "40" : {
@@ -622,6 +634,14 @@
       "spoiler" : true,
       "verified" : false,
       "weight" : 0
+    },
+    "1049" : {
+      "info_box" : false,
+      "name" : "bicycling",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "1446" : {
       "info_box" : false,
@@ -942,6 +962,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2882" : {
       "info_box" : true,

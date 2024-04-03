@@ -172,7 +172,7 @@
       "length" : 70,
       "number" : 1,
       "rating" : {
-        "rating" : 8.93,
+        "rating" : 8.91,
         "total" : 11
       },
       "recap" : false,
@@ -236,8 +236,8 @@
       "length" : 60,
       "number" : 5,
       "rating" : {
-        "rating" : 8.92,
-        "total" : 7
+        "rating" : 8.41,
+        "total" : 8
       },
       "recap" : false,
       "titles" : [ {
@@ -300,7 +300,7 @@
       "length" : 4,
       "number" : 1,
       "rating" : {
-        "rating" : 8.77,
+        "rating" : 8.8,
         "total" : 1
       },
       "recap" : false,
@@ -353,30 +353,37 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.4,
-      "total" : 322
+      "rating" : 8.39,
+      "total" : 347
     },
     "REVIEW" : {
       "rating" : 6.5,
       "total" : 2
     },
     "TEMPORARY" : {
-      "rating" : 7.91,
-      "total" : 325
+      "rating" : 7.89,
+      "total" : 350
     }
   },
   "related" : {
     "ALTERNATIVE_SETTING" : [ 1440 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "360980" ],
+    "ANISON" : [ "25118" ],
     "ANN" : [ "27132" ],
     "MAL" : [ "35737" ],
-    "OTHER" : [ "4:https://pluto-anime.com/", "6:Pluto_(manga)", "7:PLUTO", "9:360980", "10:25118", "23:pluto_anime_", "26:watch?v=5J6xczoE-as", "26:watch?v=KHSt5U0l3Wc", "26:watch?v=pJro2RLnIUk", "41:81281344" ]
+    "NETFLIX" : [ "81281344" ],
+    "TWITTER" : [ "pluto_anime_" ],
+    "WEBSITE" : [ "https://pluto-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "Pluto_(manga)" ],
+    "WIKIPEDIA_JP" : [ "PLUTO" ],
+    "YOUTUBE" : [ "watch?v=5J6xczoE-as", "watch?v=KHSt5U0l3Wc", "watch?v=pJro2RLnIUk" ]
   },
   "similar" : {
     "578" : {
-      "rating" : 4.0,
-      "total" : 5
+      "rating" : 3.333333333333333,
+      "total" : 6
     },
     "1539" : {
       "rating" : 7.058823529411765,
@@ -808,12 +815,32 @@
     "title" : "PLUTO",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "PLUTO 冥王",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "PLUTO 冥王",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "Pluto",
     "type" : "OFFICIAL"
   }, {
+    "language" : "RUSSIAN",
+    "title" : "ПЛУТОН",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "UKRAINIAN",
+    "title" : "ПЛУТОН",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ARABIC",
     "title" : "بلونو",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "플루토",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

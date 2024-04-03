@@ -2224,9 +2224,15 @@
     "OTHER" : [ 3588 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "235555" ],
+    "ANIMEMORIAL" : [ "212" ],
+    "ANISON" : [ "1307" ],
     "ANN" : [ "2314" ],
     "MAL" : [ "6262" ],
-    "OTHER" : [ "4:http://www.madhouse.co.jp/works/1983-1973/works_tv_sekaimukashi.html", "7:まんが世界昔ばなし", "8:4560", "9:235555", "10:1307", "16:212", "31:859" ]
+    "MEDIA_ART_DATABASE" : [ "859" ],
+    "SYOBOI" : [ "4560" ],
+    "WEBSITE" : [ "http://www.madhouse.co.jp/works/1983-1973/works_tv_sekaimukashi.html" ],
+    "WIKIPEDIA_JP" : [ "まんが世界昔ばなし" ]
   },
   "start_date" : "1976-10-07",
   "tags" : {
@@ -2248,6 +2254,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -2295,6 +2308,14 @@
       "info_box" : false,
       "name" : "folklore",
       "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

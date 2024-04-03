@@ -79,15 +79,82 @@
     } ]
   },
   "description" : "* Based on a fantasy romantic light novel series written by http://anidb.net/cr58843 [Shuu] and illustrated by http://anidb.net/cr42094 [Shizuma Yoshinori].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-12",
+      "episode_id" : 278772,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-19",
+      "episode_id" : 278773,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-26",
+      "episode_id" : 278774,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-03",
+      "episode_id" : 278775,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "related" : {
     "PREQUEL" : [ 16101 ]
   },
   "resources" : {
+    "ANN" : [ "30100" ],
     "MAL" : [ "48418" ],
-    "OTHER" : [ "4:https://maohgakuin.com/", "6:The_Misfit_of_Demon_King_Academy", "7:魔王学院の不適合者_〜史上最強の魔王の始祖、転生して子孫たちの学校へ通う〜", "23:maohgakuin" ]
+    "SYOBOI" : [ "7003" ],
+    "TWITTER" : [ "maohgakuin" ],
+    "WEBSITE" : [ "https://maohgakuin.com/" ],
+    "WIKIPEDIA_EN" : [ "The_Misfit_of_Demon_King_Academy" ],
+    "WIKIPEDIA_JP" : [ "魔王学院の不適合者_〜史上最強の魔王の始祖、転生して子孫たちの学校へ通う〜" ]
   },
   "start_date" : "2024-04-12",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -109,6 +176,10 @@
     "title" : "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou II (2024)",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "The Misfit of Demon King Academy: History`s Strongest Demon King Reincarnates and Goes to School with His Descendants II (2024)",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "魔王学院の不適合者 ~史上最強の魔王の始祖, 転生して子孫たちの学校へ通う~ II (2024)",
     "type" : "OFFICIAL"
@@ -116,10 +187,6 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "maogaku s3",
     "type" : "SHORT"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "The Misfit of Demon King Academy: History`s Strongest Demon King Reincarnates and Goes to School with His Descendants II (2024)",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://maohgakuin.com/"

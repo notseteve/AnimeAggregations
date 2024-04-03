@@ -409,7 +409,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.11,
+        "rating" : 7.12,
         "total" : 10
       },
       "recap" : false,
@@ -484,7 +484,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.64,
+        "rating" : 8.65,
         "total" : 10
       },
       "recap" : false,
@@ -584,24 +584,31 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.35,
-      "total" : 2388
+      "total" : 2398
     },
     "REVIEW" : {
       "rating" : 7.66,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 8.01,
-      "total" : 2396
+      "rating" : 8.02,
+      "total" : 2406
     }
   },
   "related" : {
     "PREQUEL" : [ 9606 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "347788" ],
+    "ANISON" : [ "16212" ],
     "ANN" : [ "15751" ],
+    "FUNIMATION" : [ "silver-spoon/" ],
     "MAL" : [ "19363" ],
-    "OTHER" : [ "4:http://www.ginsaji-anime.com/", "6:Silver_Spoon_(manga)", "7:銀の匙_Silver_Spoon", "8:3268", "9:347788", "10:16212", "23:ezono_official", "45:silver-spoon/" ]
+    "SYOBOI" : [ "3268" ],
+    "TWITTER" : [ "ezono_official" ],
+    "WEBSITE" : [ "http://www.ginsaji-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "Silver_Spoon_(manga)" ],
+    "WIKIPEDIA_JP" : [ "銀の匙_Silver_Spoon" ]
   },
   "start_date" : "2014-01-10",
   "tags" : {
@@ -850,6 +857,14 @@
       "info_box" : false,
       "name" : "everybody is nice",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4164" : {
+      "info_box" : false,
+      "name" : "promotional",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

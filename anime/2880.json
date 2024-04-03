@@ -457,12 +457,25 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "89545" ],
+    "ANIMEMORIAL" : [ "137" ],
+    "ANIME_NFO" : [ "1862,ffuqks" ],
+    "ANISON" : [ "1507" ],
     "ANN" : [ "1481" ],
     "MAL" : [ "6868" ],
-    "OTHER" : [ "3:1862/ffuqks", "4:http://tezukaosamu.net/jp/anime/42.html", "6:Little_Wansa", "7:ワンサくん#.E3.82.A2.E3.83.8B.E3.83.A1.E3.80.8E.E3.83.AF.E3.83.B3.E3.82.B5.E3.81.8F.E3.82.93.E3.80.8F", "9:89545", "10:1507", "16:137" ]
+    "WEBSITE" : [ "http://tezukaosamu.net/jp/anime/42.html" ],
+    "WIKIPEDIA_EN" : [ "Little_Wansa" ],
+    "WIKIPEDIA_JP" : [ "ワンサくん#.E3.82.A2.E3.83.8B.E3.83.A1.E3.80.8E.E3.83.AF.E3.83.B3.E3.82.B5.E3.81.8F.E3.82.93.E3.80.8F" ]
   },
   "start_date" : "1973-04-02",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
@@ -477,6 +490,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

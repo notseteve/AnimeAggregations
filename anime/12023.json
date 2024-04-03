@@ -143,7 +143,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.45,
+        "rating" : 3.44,
         "total" : 8
       },
       "recap" : false,
@@ -209,7 +209,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.64,
+        "rating" : 3.63,
         "total" : 7
       },
       "recap" : false,
@@ -231,7 +231,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 2.29,
+        "rating" : 2.28,
         "total" : 8
       },
       "recap" : false,
@@ -253,7 +253,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 5.86,
+        "rating" : 5.88,
         "total" : 1
       },
       "recap" : false,
@@ -296,12 +296,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.06,
-      "total" : 627
+      "rating" : 4.05,
+      "total" : 632
     },
     "TEMPORARY" : {
-      "rating" : 5.84,
-      "total" : 629
+      "rating" : 5.83,
+      "total" : 634
     }
   },
   "related" : {
@@ -309,11 +309,19 @@
     "SEQUEL" : [ 13258 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "361117" ],
+    "AMAZON" : [ "B07D9T14CN" ],
+    "ANISON" : [ "21028" ],
     "ANN" : [ "19820", "20791" ],
     "CRUNCHY_ROLL" : [ "GRDK3DD4Y" ],
     "IMDB" : [ "tt7112160" ],
     "MAL" : [ "33010" ],
-    "OTHER" : [ "4:http://flcl-anime.com/progre/", "6:FLCL#Sequel_series", "7:フリクリ", "8:5226", "9:361117", "10:21028", "23:FLCL_JAPAN/", "26:watch?v=Ix7mDEclKxU", "32:B07D9T14CN" ]
+    "SYOBOI" : [ "5226" ],
+    "TWITTER" : [ "FLCL_JAPAN/" ],
+    "WEBSITE" : [ "http://flcl-anime.com/progre/" ],
+    "WIKIPEDIA_EN" : [ "FLCL#Sequel_series" ],
+    "WIKIPEDIA_JP" : [ "フリクリ" ],
+    "YOUTUBE" : [ "watch?v=Ix7mDEclKxU" ]
   },
   "start_date" : "2018-06-03",
   "tags" : {
@@ -503,6 +511,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2821" : {
       "info_box" : false,
       "name" : "sudden naked girl appearance",
@@ -630,6 +646,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4064" : {
       "info_box" : false,
       "name" : "CGI",
@@ -698,6 +722,14 @@
       "info_box" : false,
       "name" : "surreal",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

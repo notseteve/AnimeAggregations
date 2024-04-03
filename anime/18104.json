@@ -111,10 +111,21 @@
   "resources" : {
     "ANN" : [ "28953" ],
     "MAL" : [ "55888" ],
-    "OTHER" : [ "4:https://mushokutensei.jp/", "6:Mushoku_Tensei", "7:無職転生_〜異世界行ったら本気だす〜_(アニメ)", "23:mushokutensei_A" ]
+    "SYOBOI" : [ "6982" ],
+    "TWITTER" : [ "mushokutensei_A" ],
+    "WEBSITE" : [ "https://mushokutensei.jp/" ],
+    "WIKIPEDIA_EN" : [ "Mushoku_Tensei" ],
+    "WIKIPEDIA_JP" : [ "無職転生_〜異世界行ったら本気だす〜_(アニメ)" ]
   },
   "start_date" : "2024-04-08",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -137,6 +148,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
@@ -150,6 +169,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Mushoku Tensei II: Isekai Ittara Honki Dasu (2024)",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Mushoku Tensei: Jobless Reincarnation Season 2 (2024)",
+    "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "无职转生～到了异世界就拿出真本事～ 第二季 第二季度",

@@ -789,7 +789,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.77,
+      "rating" : 5.78,
       "total" : 127
     },
     "TEMPORARY" : {
@@ -802,9 +802,14 @@
     "PREQUEL" : [ 10010 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "348086" ],
+    "ANISON" : [ "16822" ],
     "ANN" : [ "15792" ],
     "MAL" : [ "21851" ],
-    "OTHER" : [ "4:http://www.ntv.co.jp/tesabu/", "6:Tesagure!_Bukatsu-mono", "7:てさぐれ!部活もの", "8:3292", "9:348086", "10:16822" ]
+    "SYOBOI" : [ "3292" ],
+    "WEBSITE" : [ "http://www.ntv.co.jp/tesabu/" ],
+    "WIKIPEDIA_EN" : [ "Tesagure!_Bukatsu-mono" ],
+    "WIKIPEDIA_JP" : [ "てさぐれ!部活もの" ]
   },
   "start_date" : "2014-01-12",
   "tags" : {
@@ -822,6 +827,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2797" : {
       "info_box" : true,
       "name" : "new",
@@ -829,6 +841,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "3955" : {
       "info_box" : false,
@@ -863,6 +883,14 @@
     "6494" : {
       "info_box" : true,
       "name" : "half-length episodes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6717" : {
+      "info_box" : false,
+      "name" : "improvised dialogue",
       "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,

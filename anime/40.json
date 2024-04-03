@@ -1429,7 +1429,7 @@
       "length" : 3,
       "number" : 3,
       "rating" : {
-        "rating" : 6.61,
+        "rating" : 6.6,
         "total" : 3
       },
       "recap" : false,
@@ -1489,7 +1489,7 @@
       "length" : 4,
       "number" : 7,
       "rating" : {
-        "rating" : 6.61,
+        "rating" : 6.6,
         "total" : 3
       },
       "recap" : false,
@@ -1903,7 +1903,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.24,
-      "total" : 1775
+      "total" : 1776
     },
     "REVIEW" : {
       "rating" : 7.69,
@@ -1911,19 +1911,26 @@
     },
     "TEMPORARY" : {
       "rating" : 7.54,
-      "total" : 1795
+      "total" : 1796
     }
   },
   "related" : {
     "SEQUEL" : [ 603 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "89135" ],
+    "ANIME_NFO" : [ "281,zxubqv" ],
+    "ANISON" : [ "1162" ],
     "ANN" : [ "48" ],
     "IMDB" : [ "tt0096591", "tt29923123" ],
     "MAL" : [ "1251", "3381" ],
-    "OTHER" : [ "3:281/zxubqv", "4:https://web.archive.org/web/20141031132146/http://www.gainax.co.jp/anime/nadia/index.html", "4:https://www.nhk-character.com/chara/nadia/", "6:Nadia:_The_Secret_of_Blue_Water", "7:ふしぎの海のナディア", "8:372", "9:89135", "10:1162", "31:3223" ],
+    "MEDIA_ART_DATABASE" : [ "3223" ],
+    "SYOBOI" : [ "372" ],
     "TMDB" : [ "tv/24710" ],
-    "VNDB" : [ "v4553" ]
+    "VNDB" : [ "v4553" ],
+    "WEBSITE" : [ "https://web.archive.org/web/20141031132146/http://www.gainax.co.jp/anime/nadia/index.html", "https://www.nhk-character.com/chara/nadia/" ],
+    "WIKIPEDIA_EN" : [ "Nadia:_The_Secret_of_Blue_Water" ],
+    "WIKIPEDIA_JP" : [ "ふしぎの海のナディア" ]
   },
   "similar" : {
     "330" : {
@@ -1992,6 +1999,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "1049" : {
+      "info_box" : false,
+      "name" : "bicycling",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2604" : {
       "info_box" : false,
@@ -2201,6 +2216,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2887" : {
       "info_box" : true,

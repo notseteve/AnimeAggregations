@@ -944,9 +944,13 @@
     "PREQUEL" : [ 5044 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "330264" ],
+    "ANIME_NFO" : [ "4282,mvaszu" ],
     "ANN" : [ "9815" ],
     "MAL" : [ "4197" ],
-    "OTHER" : [ "3:4282/mvaszu", "4:http://pierrot.jp/title/bluedragon/index.html", "4:https://www.tv-tokyo.co.jp/contents/bluedragon/index.html", "5:http://www.viz.com/anime/streaming/blue-dragon-seven-shadows", "8:1370", "9:330264" ]
+    "SYOBOI" : [ "1370" ],
+    "WEBSITE" : [ "http://pierrot.jp/title/bluedragon/index.html", "https://www.tv-tokyo.co.jp/contents/bluedragon/index.html" ],
+    "WEBSITE_EN" : [ "http://www.viz.com/anime/streaming/blue-dragon-seven-shadows" ]
   },
   "start_date" : "2008-04-05",
   "tags" : {
@@ -1010,6 +1014,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

@@ -674,11 +674,18 @@
     "PREQUEL" : [ 1787 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "88901" ],
+    "ANIME_NFO" : [ "2041,bgozoa" ],
+    "ANISON" : [ "1263" ],
     "ANN" : [ "1445" ],
     "IMDB" : [ "tt0189283" ],
     "MAL" : [ "3571" ],
-    "OTHER" : [ "3:2041/bgozoa", "4:http://www.tatsunoko.co.jp/works/mach-go-go-go-new", "5:https://www.speedracergogogo.com/", "6:Speed_Racer_X", "7:マッハGoGoGo#マッハGoGoGo（第2作）（1997年）", "8:1876", "9:88901", "10:1263" ],
-    "TMDB" : [ "tv/37568" ]
+    "SYOBOI" : [ "1876" ],
+    "TMDB" : [ "tv/37568" ],
+    "WEBSITE" : [ "http://www.tatsunoko.co.jp/works/mach-go-go-go-new" ],
+    "WEBSITE_EN" : [ "https://www.speedracergogogo.com/" ],
+    "WIKIPEDIA_EN" : [ "Speed_Racer_X" ],
+    "WIKIPEDIA_JP" : [ "マッハGoGoGo#マッハGoGoGo（第2作）（1997年）" ]
   },
   "start_date" : "1997-01-09",
   "tags" : {
@@ -774,6 +781,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Speed Racer X",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ARABIC",
+    "title" : "سبيد ريسر 1999",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

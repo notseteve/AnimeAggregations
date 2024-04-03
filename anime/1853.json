@@ -38,8 +38,10 @@
   "resources" : {
     "ANN" : [ "5530" ],
     "MAL" : [ "9501" ],
-    "OTHER" : [ "6:Olympus_Guardian", "7:オリンポスガーディアン", "19:올림포스_가디언" ],
-    "TMDB" : [ "movie/416316" ]
+    "TMDB" : [ "movie/416316" ],
+    "WIKIPEDIA_EN" : [ "Olympus_Guardian" ],
+    "WIKIPEDIA_JP" : [ "オリンポスガーディアン" ],
+    "WIKIPEDIA_KO" : [ "올림포스_가디언" ]
   },
   "start_date" : "2005-07-28",
   "tags" : {
@@ -76,6 +78,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -202,6 +211,14 @@
       "info_box" : false,
       "name" : "mythology",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

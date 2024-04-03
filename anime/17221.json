@@ -9,6 +9,23 @@
       "character_id" : 2818,
       "name" : "Kraft Lawrence",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 14879,
+      "name" : "Hans Remerio",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 14877,
+      "name" : "Liechten Marheit",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 7874,
+      "name" : "Nora Arendt",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 14872,
+      "name" : "Soren",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -19,6 +36,10 @@
     "3211" : [ {
       "name" : "Takahashi Takeo",
       "type" : "CHIEF_DIRECTOR"
+    } ],
+    "11871" : [ {
+      "name" : "Haneda Kouji",
+      "type" : "CHARACTER_DESIGN"
     } ],
     "35245" : [ {
       "name" : "Passione",
@@ -35,6 +56,51 @@
   },
   "description" : "* Based on a light novel series written by http://anidb.net/cr1432 [Hasekura Isuna].\nhttp://anidb.net/ch2818 [Lawrence] is a traveling merchant selling various goods from a horse-drawn cart. One day, he arrives at a village and meets a beautiful girl with the ears and tail of an animal! Her name is http://anidb.net/ch29 [Holo] the Wisewolf and she brings bountiful harvests. She wishes to return to her homeland, and Lawrence offers to take her. Now, the once-lonely merchant and the once-lonely wisewolf begin their journey north.\nSource: Crunchyroll",
   "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-02",
+      "episode_id" : 278704,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-09",
+      "episode_id" : 278705,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-16",
+      "episode_id" : 278706,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-23",
+      "episode_id" : 278707,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2023-06-29",
       "episode_id" : 277253,
@@ -75,12 +141,33 @@
     "ALTERNATIVE_SETTING" : [ 5406 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "390065" ],
     "ANN" : [ "28812" ],
     "MAL" : [ "51122" ],
-    "OTHER" : [ "4:https://spice-and-wolf.com/", "6:Spice_and_Wolf", "7:狼と香辛料", "9:390065", "23:Spicy_Wolf_Prj", "26:watch?v=87qP9hwrSAs", "26:watch?v=DuWQOwwI9z4" ]
+    "SYOBOI" : [ "7033" ],
+    "TWITTER" : [ "Spicy_Wolf_Prj" ],
+    "WEBSITE" : [ "https://spice-and-wolf.com/" ],
+    "WIKIPEDIA_EN" : [ "Spice_and_Wolf" ],
+    "WIKIPEDIA_JP" : [ "狼と香辛料" ],
+    "YOUTUBE" : [ "watch?v=87qP9hwrSAs", "watch?v=DuWQOwwI9z4" ]
   },
-  "start_date" : "2024-04",
+  "start_date" : "2024-04-02",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

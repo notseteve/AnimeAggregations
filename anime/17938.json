@@ -11,11 +11,28 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 136041,
-      "name" : "Watase Kiwi",
+      "name" : "Watase Kiui",
       "type" : "CHARACTER"
     }, {
       "character_id" : 136040,
       "name" : "Yamanouchi Kano",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 138913,
+      "name" : "Miko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138916,
+      "name" : "Setou Melo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138915,
+      "name" : "Suzumura Akari",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138914,
+      "name" : "Yanagi Momoko",
       "type" : "CHARACTER"
     } ]
   },
@@ -52,10 +69,63 @@
       "type" : "SERIES_COMPOSITION"
     } ]
   },
+  "description" : "Shibuya is a city full of identity. It is here on Shibuya`s late night streets that illustrator http://anidb.net/ch136039 [Kouzuki Mahiru], former idol http://anidb.net/ch136040 [Yamanouchi Kano], Vtuber http://anidb.net/ch136041 [Watase Kiui]and composer http://anidb.net/ch136042 [Takanashi Kim Anouk Mei] — four young women who are slightly outside the world — join together and form an anonymous artist group called JELEE. \"I\" also want to shine like someone else. If it`s not me but \"we\" then we might be able to shine.\nSource: HIDIVE",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-07",
+      "episode_id" : 278852,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-14",
+      "episode_id" : 278853,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-21",
+      "episode_id" : 278854,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-28",
+      "episode_id" : 278855,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "388777" ],
     "ANN" : [ "27601" ],
     "MAL" : [ "54839" ],
-    "OTHER" : [ "4:https://yorukura-anime.com/", "6:Jellyfish_Can't_Swim_in_the_Night", "7:夜のクラゲは泳げない", "9:388777", "23:yorukura_anime" ]
+    "SYOBOI" : [ "6980" ],
+    "TWITTER" : [ "yorukura_anime" ],
+    "WEBSITE" : [ "https://yorukura-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "Jellyfish_Can't_Swim_in_the_Night" ],
+    "WIKIPEDIA_JP" : [ "夜のクラゲは泳げない" ]
   },
   "start_date" : "2024-04-07",
   "tags" : {
@@ -80,6 +150,10 @@
     "title" : "Yoru no Kurage wa Oyogenai",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Jellyfish Can`t Swim in the Night",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "夜のクラゲは泳げない",
     "type" : "OFFICIAL"
@@ -91,10 +165,6 @@
     "language" : "JAPANESE",
     "title" : "ヨルクラ",
     "type" : "SHORT"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Jellyfish Can`t Swim in the Night",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://yorukura-anime.com/"

@@ -19,11 +19,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 1.44,
-      "total" : 176
+      "total" : 177
     },
     "TEMPORARY" : {
       "rating" : 2.98,
-      "total" : 177
+      "total" : 178
     }
   },
   "resources" : {
@@ -34,6 +34,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -49,6 +56,14 @@
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -233,8 +233,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.95,
-        "total" : 8
+        "rating" : 6.09,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -261,8 +261,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.84,
-        "total" : 4
+        "rating" : 7.21,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -289,8 +289,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.29,
-        "total" : 4
+        "rating" : 6.47,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -317,8 +317,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.67,
-        "total" : 4
+        "rating" : 7.42,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -345,7 +345,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.91,
+        "rating" : 8.92,
         "total" : 4
       },
       "recap" : false,
@@ -373,7 +373,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.25,
+        "rating" : 8.26,
         "total" : 5
       },
       "recap" : false,
@@ -401,7 +401,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.99,
+        "rating" : 5.98,
         "total" : 3
       },
       "recap" : false,
@@ -429,7 +429,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.14,
+        "rating" : 8.15,
         "total" : 4
       },
       "recap" : false,
@@ -457,7 +457,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.54,
+        "rating" : 6.55,
         "total" : 4
       },
       "recap" : false,
@@ -485,7 +485,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 8.62,
+        "rating" : 8.63,
         "total" : 3
       },
       "recap" : false,
@@ -513,7 +513,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 7.48,
+        "rating" : 7.49,
         "total" : 3
       },
       "recap" : false,
@@ -541,7 +541,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 8.25,
+        "rating" : 8.24,
         "total" : 4
       },
       "recap" : false,
@@ -711,22 +711,29 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.1,
-      "total" : 854
+      "rating" : 8.13,
+      "total" : 873
     },
     "TEMPORARY" : {
       "rating" : 7.82,
-      "total" : 860
+      "total" : 878
     }
   },
   "related" : {
     "PREQUEL" : [ 14941 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "379532" ],
+    "ANISON" : [ "24569" ],
     "ANN" : [ "24878" ],
     "CRUNCHY_ROLL" : [ "GY190DKQR" ],
+    "FUNIMATION" : [ "mob-psycho-100" ],
     "MAL" : [ "50172" ],
-    "OTHER" : [ "4:https://mobpsycho100.com/", "6:Mob_Psycho_100", "7:モブサイコ100", "8:6442", "9:379532", "10:24569", "23:mobpsycho_anime", "45:mob-psycho-100" ]
+    "SYOBOI" : [ "6442" ],
+    "TWITTER" : [ "mobpsycho_anime" ],
+    "WEBSITE" : [ "https://mobpsycho100.com/" ],
+    "WIKIPEDIA_EN" : [ "Mob_Psycho_100" ],
+    "WIKIPEDIA_JP" : [ "モブサイコ100" ]
   },
   "start_date" : "2022-10-06",
   "tags" : {
@@ -743,6 +750,21 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2788" : {
       "info_box" : false,

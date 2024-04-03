@@ -156,7 +156,7 @@
       "total" : 2
     },
     "TEMPORARY" : {
-      "rating" : 5.56,
+      "rating" : 5.55,
       "total" : 866
     }
   },
@@ -165,9 +165,15 @@
     "CHARACTER" : [ 841 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "88260" ],
+    "ANIME_NFO" : [ "649,bqiksi" ],
+    "ANISON" : [ "1817" ],
     "ANN" : [ "356" ],
     "MAL" : [ "1496" ],
-    "OTHER" : [ "3:649/bqiksi", "4:http://www.madhouse.co.jp/works/1997-1994/works_ova_fushiginokuni.html", "6:Miyuki-chan_in_Wonderland", "7:不思議の国の美幸ちゃん", "8:1583", "9:88260", "10:1817" ]
+    "SYOBOI" : [ "1583" ],
+    "WEBSITE" : [ "http://www.madhouse.co.jp/works/1997-1994/works_ova_fushiginokuni.html" ],
+    "WIKIPEDIA_EN" : [ "Miyuki-chan_in_Wonderland" ],
+    "WIKIPEDIA_JP" : [ "不思議の国の美幸ちゃん" ]
   },
   "start_date" : "1995-06-21",
   "tags" : {
@@ -316,6 +322,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2817" : {
       "info_box" : false,
       "name" : "skimpy clothing",
@@ -455,6 +469,14 @@
       "info_box" : false,
       "name" : "predominantly female cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

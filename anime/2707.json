@@ -61,7 +61,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.24,
+        "rating" : 4.25,
         "total" : 2
       },
       "recap" : false,
@@ -151,7 +151,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.24,
+        "rating" : 4.25,
         "total" : 2
       },
       "recap" : false,
@@ -301,7 +301,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 4.24,
+        "rating" : 4.25,
         "total" : 2
       },
       "recap" : false,
@@ -361,7 +361,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 4.24,
+        "rating" : 4.25,
         "total" : 2
       },
       "recap" : false,
@@ -451,7 +451,7 @@
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 4.24,
+        "rating" : 4.25,
         "total" : 2
       },
       "recap" : false,
@@ -571,7 +571,7 @@
       "length" : 25,
       "number" : 19,
       "rating" : {
-        "rating" : 4.24,
+        "rating" : 4.25,
         "total" : 2
       },
       "recap" : false,
@@ -601,7 +601,7 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 4.24,
+        "rating" : 4.25,
         "total" : 2
       },
       "recap" : false,
@@ -631,7 +631,7 @@
       "length" : 25,
       "number" : 21,
       "rating" : {
-        "rating" : 4.24,
+        "rating" : 4.25,
         "total" : 2
       },
       "recap" : false,
@@ -881,17 +881,22 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.85,
-      "total" : 199
+      "total" : 200
     },
     "TEMPORARY" : {
       "rating" : 6.43,
-      "total" : 204
+      "total" : 205
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "89396" ],
+    "ANIME_NFO" : [ "991,osxvvm" ],
+    "ANISON" : [ "1513" ],
     "ANN" : [ "1307" ],
     "MAL" : [ "3761" ],
-    "OTHER" : [ "3:991/osxvvm", "4:http://www.nippon-animation.co.jp/work/1404/", "6:Dogtanian_and_the_Three_Muskehounds", "7:ワンワン三銃士", "9:89396", "10:1513" ]
+    "WEBSITE" : [ "http://www.nippon-animation.co.jp/work/1404/" ],
+    "WIKIPEDIA_EN" : [ "Dogtanian_and_the_Three_Muskehounds" ],
+    "WIKIPEDIA_JP" : [ "ワンワン三銃士" ]
   },
   "start_date" : "1981-10-02",
   "tags" : {
@@ -986,6 +991,14 @@
       "verified" : false,
       "weight" : 500
     },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -1042,10 +1055,34 @@
       "verified" : false,
       "weight" : 200
     },
+    "3430" : {
+      "info_box" : true,
+      "name" : "Western comics",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4259" : {
       "info_box" : false,
       "name" : "animal world",
       "parent_tag_id" : 2857,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

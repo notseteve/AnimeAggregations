@@ -723,7 +723,7 @@
       "length" : 25,
       "number" : 18,
       "rating" : {
-        "rating" : 3.52,
+        "rating" : 3.53,
         "total" : 7
       },
       "recap" : false,
@@ -1023,7 +1023,7 @@
       "length" : 25,
       "number" : 30,
       "rating" : {
-        "rating" : 3.01,
+        "rating" : 3.02,
         "total" : 6
       },
       "recap" : false,
@@ -1592,13 +1592,24 @@
       } ],
       "type" : "REGULAR"
     } ],
+    "SPECIAL" : [ {
+      "episode_id" : 278346,
+      "length" : 7,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Live Event"
+      } ],
+      "type" : "SPECIAL"
+    } ],
     "CREDITS" : [ {
       "air_date" : "2007-04-01",
       "episode_id" : 125806,
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.92,
+        "rating" : 4.93,
         "total" : 1
       },
       "recap" : false,
@@ -1666,6 +1677,26 @@
         "title" : "Ending 4"
       } ],
       "type" : "CREDITS"
+    }, {
+      "episode_id" : 278344,
+      "length" : 2,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening 3"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "episode_id" : 278345,
+      "length" : 5,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 52 Ending"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "episode_id" : 68678,
@@ -1702,7 +1733,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.75,
-      "total" : 5257
+      "total" : 5256
     },
     "REVIEW" : {
       "rating" : 7.05,
@@ -1710,7 +1741,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.75,
-      "total" : 5332
+      "total" : 5331
     }
   },
   "related" : {
@@ -1719,10 +1750,17 @@
     "SEQUEL" : [ 6389 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "327104" ],
+    "ANIME_NFO" : [ "3961,dseptv" ],
+    "ANISON" : [ "8867" ],
     "ANN" : [ "7490" ],
     "CRUNCHY_ROLL" : [ "GYQ4MG4P6" ],
+    "HIDIVE" : [ "tv/hayate-the-combat-butler" ],
     "MAL" : [ "2026" ],
-    "OTHER" : [ "3:3961/dseptv", "4:http://hayatenogotoku.com/1ki/index.html", "6:Hayate_no_Gotoku", "7:ハヤテのごとく!", "8:1133", "9:327104", "10:8867", "42:tv/hayate-the-combat-butler" ]
+    "SYOBOI" : [ "1133" ],
+    "WEBSITE" : [ "http://hayatenogotoku.com/1ki/index.html" ],
+    "WIKIPEDIA_EN" : [ "Hayate_no_Gotoku" ],
+    "WIKIPEDIA_JP" : [ "ハヤテのごとく!" ]
   },
   "similar" : {
     "2165" : {
@@ -1758,8 +1796,8 @@
       "total" : 10
     },
     "6304" : {
-      "rating" : 2.0,
-      "total" : 5
+      "rating" : 3.333333333333333,
+      "total" : 6
     },
     "7008" : {
       "rating" : 1.1764705882352942,

@@ -255,7 +255,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.36,
-      "total" : 4724
+      "total" : 4736
     },
     "REVIEW" : {
       "rating" : 9.04,
@@ -263,7 +263,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.18,
-      "total" : 4746
+      "total" : 4758
     }
   },
   "related" : {
@@ -271,11 +271,22 @@
     "OTHER" : [ 5099 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "89778" ],
+    "ANIME_NFO" : [ "330,kqflqm" ],
+    "ANISON" : [ "1339" ],
     "ANN" : [ "847" ],
     "IMDB" : [ "tt0113824" ],
+    "LAIN" : [ "mediadb/media/1165" ],
     "MAL" : [ "585" ],
-    "OTHER" : [ "3:330/kqflqm", "4:https://www.ghibli.jp/works/mimi/", "5:http://www.nausicaa.net/miyazaki/mimi/", "5:https://movies.disney.com/whisper-of-the-heart", "6:Whisper_of_the_Heart_(film)", "7:耳をすませば", "8:3049", "9:89778", "10:1339", "11:mediadb/media/1165", "19:귀를_기울이면", "20:心之谷", "41:70045021" ],
-    "TMDB" : [ "movie/37797" ]
+    "NETFLIX" : [ "70045021" ],
+    "SYOBOI" : [ "3049" ],
+    "TMDB" : [ "movie/37797" ],
+    "WEBSITE" : [ "https://www.ghibli.jp/works/mimi/" ],
+    "WEBSITE_EN" : [ "http://www.nausicaa.net/miyazaki/mimi/", "https://movies.disney.com/whisper-of-the-heart" ],
+    "WIKIPEDIA_EN" : [ "Whisper_of_the_Heart_(film)" ],
+    "WIKIPEDIA_JP" : [ "耳をすませば" ],
+    "WIKIPEDIA_KO" : [ "귀를_기울이면" ],
+    "WIKIPEDIA_ZH" : [ "心之谷" ]
   },
   "similar" : {
     "112" : {
@@ -329,6 +340,14 @@
       "info_box" : false,
       "name" : "middle school",
       "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "1049" : {
+      "info_box" : false,
+      "name" : "bicycling",
+      "parent_tag_id" : 2881,
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
@@ -527,6 +546,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2883" : {
       "info_box" : false,
       "name" : "the arts",
@@ -574,6 +601,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4164" : {
+      "info_box" : false,
+      "name" : "promotional",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4227" : {
       "info_box" : false,
       "name" : "detailed landscapes",
@@ -593,6 +628,14 @@
     "4323" : {
       "info_box" : false,
       "name" : "spacing out",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4344" : {
+      "info_box" : false,
+      "name" : "motivational anime",
       "parent_tag_id" : 2931,
       "spoiler" : false,
       "verified" : false,

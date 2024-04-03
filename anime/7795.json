@@ -44,9 +44,9 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "161200" ],
     "ANN" : [ "23145" ],
-    "MAL" : [ "15663" ],
-    "OTHER" : [ "9:161200" ]
+    "MAL" : [ "15663" ]
   },
   "start_date" : "1993-08-21",
   "tags" : {
@@ -110,6 +110,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -141,6 +149,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

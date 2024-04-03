@@ -11,6 +11,10 @@
       "name" : "Doctor Eggman",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 32856,
+      "name" : "Knuckles the Echidna",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 32623,
       "name" : "Tails",
       "type" : "CHARACTER"
@@ -106,12 +110,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.4,
-      "total" : 381
+      "rating" : 4.42,
+      "total" : 382
     },
     "TEMPORARY" : {
-      "rating" : 5.99,
-      "total" : 383
+      "rating" : 6.0,
+      "total" : 384
     }
   },
   "related" : {
@@ -119,9 +123,12 @@
     "SAME_SETTING" : [ 6394 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "88213" ],
+    "ANIME_NFO" : [ "3271,nztwav" ],
+    "ANISON" : [ "6750" ],
     "ANN" : [ "221" ],
     "MAL" : [ "2263" ],
-    "OTHER" : [ "3:3271/nztwav", "6:Sonic_the_Hedgehog_(OVA)", "9:88213", "10:6750" ]
+    "WIKIPEDIA_EN" : [ "Sonic_the_Hedgehog_(OVA)" ]
   },
   "start_date" : "1996-01-26",
   "tags" : {
@@ -193,6 +200,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2800" : {
       "info_box" : true,
       "name" : "game",
@@ -233,6 +248,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "3430" : {
+      "info_box" : true,
+      "name" : "Western comics",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5954" : {
       "info_box" : false,
       "name" : "call my name",
@@ -260,6 +291,14 @@
       "info_box" : false,
       "name" : "speculative fiction",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7793" : {
+      "info_box" : false,
+      "name" : "American-Japanese co-production",
+      "parent_tag_id" : 6173,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

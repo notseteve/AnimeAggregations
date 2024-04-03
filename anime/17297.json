@@ -119,18 +119,18 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.39,
-      "total" : 102
+      "rating" : 4.53,
+      "total" : 105
     },
     "TEMPORARY" : {
-      "rating" : 5.85,
-      "total" : 106
+      "rating" : 5.93,
+      "total" : 109
     }
   },
   "resources" : {
     "MAL" : [ "51723" ],
-    "OTHER" : [ "4:https://www.pinkpineapple.co.jp/detail.php?did=2335", "4:https://www.pinkpineapple.co.jp/detail.php?did=2337" ],
-    "TMDB" : [ "tv/197532" ]
+    "TMDB" : [ "tv/197532" ],
+    "WEBSITE" : [ "https://www.pinkpineapple.co.jp/detail.php?did=2335", "https://www.pinkpineapple.co.jp/detail.php?did=2337" ]
   },
   "start_date" : "2022-06-24",
   "tags" : {
@@ -144,6 +144,13 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -177,6 +184,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2646" : {
+      "info_box" : false,
+      "name" : "demon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2693" : {
       "info_box" : false,
       "name" : "handjob",
@@ -201,9 +216,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "2705" : {
+      "info_box" : false,
+      "name" : "creampie",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2712" : {
+      "info_box" : false,
+      "name" : "sex toys",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2713" : {
       "info_box" : false,
       "name" : "oral",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2722" : {
+      "info_box" : false,
+      "name" : "doggy style",
       "parent_tag_id" : 2848,
       "spoiler" : false,
       "verified" : false,
@@ -241,6 +280,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2859" : {
       "info_box" : true,
       "name" : "harem",
@@ -248,6 +303,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2879" : {
+      "info_box" : false,
+      "name" : "alcohol",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2891" : {
       "info_box" : false,
@@ -265,10 +328,26 @@
       "verified" : false,
       "weight" : 100
     },
+    "2900" : {
+      "info_box" : false,
+      "name" : "dildos - vibrators",
+      "parent_tag_id" : 2712,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2918" : {
       "info_box" : false,
       "name" : "cunnilingus",
       "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3718" : {
+      "info_box" : false,
+      "name" : "love between enemies",
+      "parent_tag_id" : 2858,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -300,6 +379,22 @@
       "info_box" : false,
       "name" : "FFM threesome",
       "parent_tag_id" : 2696,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7247" : {
+      "info_box" : false,
+      "name" : "sumata",
+      "parent_tag_id" : 2848,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

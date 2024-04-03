@@ -59,8 +59,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.9,
-        "total" : 1
+        "rating" : 9.05,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -83,8 +83,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.9,
-        "total" : 1
+        "rating" : 7.47,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -107,8 +107,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.9,
-        "total" : 1
+        "rating" : 4.64,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -131,8 +131,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.9,
-        "total" : 1
+        "rating" : 7.47,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -155,8 +155,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.9,
-        "total" : 1
+        "rating" : 7.47,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -179,8 +179,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.9,
-        "total" : 1
+        "rating" : 7.47,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -626,7 +626,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.1,
-      "total" : 343
+      "total" : 345
     },
     "REVIEW" : {
       "rating" : 4.0,
@@ -634,13 +634,18 @@
     },
     "TEMPORARY" : {
       "rating" : 6.14,
-      "total" : 347
+      "total" : 349
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "89298" ],
+    "AMAZON" : [ "B01J71J61Q" ],
+    "ANIME_NFO" : [ "391,szaywk" ],
     "ANN" : [ "450" ],
     "MAL" : [ "4503" ],
-    "OTHER" : [ "3:391/szaywk", "4:http://www.tatsunoko.co.jp/works/archive/southerncross.html", "6:Super_Dimensional_Cavalry_Southern_Cross", "7:超時空騎団サザンクロス", "9:89298", "32:B01J71J61Q" ]
+    "WEBSITE" : [ "http://www.tatsunoko.co.jp/works/archive/southerncross.html" ],
+    "WIKIPEDIA_EN" : [ "Super_Dimensional_Cavalry_Southern_Cross" ],
+    "WIKIPEDIA_JP" : [ "超時空騎団サザンクロス" ]
   },
   "start_date" : "1984-04-15",
   "tags" : {
@@ -790,6 +795,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2800" : {
+      "info_box" : true,
+      "name" : "game",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2841" : {
       "info_box" : true,
       "name" : "action",
@@ -806,6 +819,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "3430" : {
+      "info_box" : true,
+      "name" : "Western comics",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4004" : {
       "info_box" : false,
       "name" : "organic mecha",
@@ -813,6 +842,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

@@ -2,6 +2,10 @@
   "anime_id" : 17926,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 139194,
+      "name" : "Achillus",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 137339,
       "name" : "Bianca Fox",
       "type" : "CHARACTER"
@@ -72,6 +76,10 @@
     }, {
       "character_id" : 137336,
       "name" : "Miguel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139193,
+      "name" : "Nius",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137337,
@@ -276,7 +284,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.89,
+        "rating" : 6.86,
         "total" : 5
       },
       "recap" : false,
@@ -301,7 +309,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.15,
+        "rating" : 4.14,
         "total" : 5
       },
       "recap" : false,
@@ -326,7 +334,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.21,
+        "rating" : 4.19,
         "total" : 5
       },
       "recap" : false,
@@ -351,7 +359,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.0,
+        "rating" : 3.97,
         "total" : 5
       },
       "recap" : false,
@@ -376,7 +384,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.49,
+        "rating" : 3.48,
         "total" : 5
       },
       "recap" : false,
@@ -401,8 +409,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 3.94,
-        "total" : 5
+        "rating" : 3.44,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -426,7 +434,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.3,
+        "rating" : 3.28,
         "total" : 5
       },
       "recap" : false,
@@ -451,7 +459,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 4.48,
+        "rating" : 4.46,
         "total" : 5
       },
       "recap" : false,
@@ -471,24 +479,52 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-03-14",
+      "description" : "En route to Venus, Rouge and Naomi learn that Cyan has stowed away on their ship. She`s convinced Rouge is her big sister and insists on traveling with her, despite Naomi`s protests. Ahead of them, Gene reaches Venus and meets the Puppetmaster...\nSource: crunchyroll",
       "episode_id" : 277935,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 2.19,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUXPDJ3" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Family Portrait"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kazoku no Shouzou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "家族の肖像"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-03-21",
+      "description" : "After making an emergency landing on Venus, Rouge`s group enters the Cloud Plant to find Gene, but Silvia picks up on their movements. As Gene looks on, the Puppetmaster begins to talk about his mother, Eva Kristella, and her creation, Code Eve.\nSource: Crunchyroll",
       "episode_id" : 277936,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 1.84,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU07GD0" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nerawareta Hoshi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Target Planet"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "狙われた星"
       } ],
       "type" : "REGULAR"
     }, {
@@ -520,8 +556,8 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 7.78,
-        "total" : 2
+        "rating" : 7.86,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -535,8 +571,8 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 4.82,
-        "total" : 2
+        "rating" : 5.92,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -548,20 +584,26 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.72,
-      "total" : 72
+      "rating" : 3.73,
+      "total" : 77
     },
     "TEMPORARY" : {
-      "rating" : 5.4,
-      "total" : 72
+      "rating" : 5.44,
+      "total" : 77
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "391497" ],
+    "ANISON" : [ "25224" ],
     "ANN" : [ "27568" ],
     "CRUNCHY_ROLL" : [ "G24H1NWMJ" ],
     "MAL" : [ "54794" ],
-    "OTHER" : [ "4:https://metallicrouge.jp/", "6:Metallic_Rouge", "7:メタリックルージュ", "8:6904", "9:391497", "10:25224", "23:MetallicRouge" ],
-    "TMDB" : [ "tv/222787" ]
+    "SYOBOI" : [ "6904" ],
+    "TMDB" : [ "tv/222787" ],
+    "TWITTER" : [ "MetallicRouge" ],
+    "WEBSITE" : [ "https://metallicrouge.jp/" ],
+    "WIKIPEDIA_EN" : [ "Metallic_Rouge" ],
+    "WIKIPEDIA_JP" : [ "メタリックルージュ" ]
   },
   "start_date" : "2024-01-11",
   "tags" : {

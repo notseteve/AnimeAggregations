@@ -118,7 +118,7 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 5.97,
+        "rating" : 6.02,
         "total" : 1
       },
       "recap" : false,
@@ -190,18 +190,18 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.97,
-      "total" : 33
+      "rating" : 5.83,
+      "total" : 34
     },
     "TEMPORARY" : {
-      "rating" : 6.51,
-      "total" : 34
+      "rating" : 6.41,
+      "total" : 35
     }
   },
   "resources" : {
     "MAL" : [ "55524" ],
-    "OTHER" : [ "4:https://www.lune-soft.jp/ova/25927", "4:https://www.lune-soft.jp/ova/25928", "4:https://www.lune-soft.jp/ova/26141", "4:https://www.lune-soft.jp/ova/26142", "4:https://www.lune-soft.jp/ova/26509", "4:https://www.lune-soft.jp/ova/26532" ],
-    "TMDB" : [ "tv/228448" ]
+    "TMDB" : [ "tv/228448" ],
+    "WEBSITE" : [ "https://www.lune-soft.jp/ova/25927", "https://www.lune-soft.jp/ova/25928", "https://www.lune-soft.jp/ova/26141", "https://www.lune-soft.jp/ova/26142", "https://www.lune-soft.jp/ova/26509", "https://www.lune-soft.jp/ova/26532" ]
   },
   "start_date" : "2023-09-01",
   "tags" : {
@@ -301,6 +301,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2704" : {
+      "info_box" : false,
+      "name" : "cum play",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2705" : {
       "info_box" : false,
@@ -584,6 +592,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6218" : {
+      "info_box" : false,
+      "name" : "gokkun",
+      "parent_tag_id" : 2704,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

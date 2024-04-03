@@ -347,21 +347,28 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.2,
-      "total" : 1758
+      "total" : 1761
     },
     "REVIEW" : {
       "rating" : 6.49,
       "total" : 2
     },
     "TEMPORARY" : {
-      "rating" : 6.38,
-      "total" : 1795
+      "rating" : 6.39,
+      "total" : 1799
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "345324" ],
+    "ANISON" : [ "15929" ],
     "ANN" : [ "14570" ],
+    "HIDIVE" : [ "tv/flowers-of-evil" ],
     "MAL" : [ "16201" ],
-    "OTHER" : [ "4:http://akunohana-anime.jp/", "6:The_Flowers_of_Evil_(manga)", "7:惡の華", "8:2929", "9:345324", "10:15929", "26:watch?v=agNACZm_J7U", "42:tv/flowers-of-evil" ]
+    "SYOBOI" : [ "2929" ],
+    "WEBSITE" : [ "http://akunohana-anime.jp/" ],
+    "WIKIPEDIA_EN" : [ "The_Flowers_of_Evil_(manga)" ],
+    "WIKIPEDIA_JP" : [ "惡の華" ],
+    "YOUTUBE" : [ "watch?v=agNACZm_J7U" ]
   },
   "similar" : {
     "99" : {
@@ -908,6 +915,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Flowers of Evil",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "FRENCH",
+    "title" : "Les Fleurs du Mal",
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",

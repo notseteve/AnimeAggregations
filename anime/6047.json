@@ -371,7 +371,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 7.59,
+        "rating" : 7.6,
         "total" : 2
       },
       "recap" : false,
@@ -466,7 +466,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.7,
-      "total" : 1350
+      "total" : 1351
     },
     "REVIEW" : {
       "rating" : 6.16,
@@ -474,13 +474,19 @@
     },
     "TEMPORARY" : {
       "rating" : 7.24,
-      "total" : 1359
+      "total" : 1360
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "331520" ],
+    "ANIME_NFO" : [ "4438,ixibxp" ],
+    "ANISON" : [ "10427" ],
     "ANN" : [ "10153" ],
     "MAL" : [ "4879", "6736" ],
-    "OTHER" : [ "3:4438/ixibxp", "4:http://www.ntv.co.jp/mouryou/", "6:Mouryou_no_Hako", "7:魍魎の匣", "8:1501", "9:331520", "10:10427" ]
+    "SYOBOI" : [ "1501" ],
+    "WEBSITE" : [ "http://www.ntv.co.jp/mouryou/" ],
+    "WIKIPEDIA_EN" : [ "Mouryou_no_Hako" ],
+    "WIKIPEDIA_JP" : [ "魍魎の匣" ]
   },
   "similar" : {
     "1539" : {
@@ -765,6 +771,14 @@
       "info_box" : false,
       "name" : "unrequited love",
       "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
@@ -1088,6 +1102,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4222" : {
+      "info_box" : false,
+      "name" : "walls of text",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4244" : {
       "info_box" : false,
       "name" : "healthcare and medicine",
@@ -1095,6 +1117,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "4251" : {
+      "info_box" : false,
+      "name" : "ensemble cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "4314" : {
       "info_box" : false,

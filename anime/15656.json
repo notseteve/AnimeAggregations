@@ -181,7 +181,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.68,
+        "rating" : 5.66,
         "total" : 10
       },
       "recap" : false,
@@ -209,7 +209,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.2,
+        "rating" : 5.18,
         "total" : 10
       },
       "recap" : false,
@@ -237,7 +237,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.41,
+        "rating" : 8.38,
         "total" : 6
       },
       "recap" : false,
@@ -265,7 +265,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.38,
+        "rating" : 6.36,
         "total" : 6
       },
       "recap" : false,
@@ -293,7 +293,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.45,
+        "rating" : 6.43,
         "total" : 6
       },
       "recap" : false,
@@ -321,7 +321,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.64,
+        "rating" : 5.62,
         "total" : 6
       },
       "recap" : false,
@@ -349,7 +349,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.33,
+        "rating" : 7.27,
         "total" : 4
       },
       "recap" : false,
@@ -377,7 +377,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.33,
+        "rating" : 7.27,
         "total" : 4
       },
       "recap" : false,
@@ -405,7 +405,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.28,
+        "rating" : 6.24,
         "total" : 4
       },
       "recap" : false,
@@ -433,7 +433,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 8.69,
+        "rating" : 8.66,
         "total" : 4
       },
       "recap" : false,
@@ -461,7 +461,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 4.11,
+        "rating" : 4.08,
         "total" : 6
       },
       "recap" : false,
@@ -489,7 +489,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 3.67,
+        "rating" : 3.64,
         "total" : 6
       },
       "recap" : false,
@@ -517,7 +517,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.92,
+        "rating" : 4.93,
         "total" : 1
       },
       "recap" : false,
@@ -532,7 +532,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 4.92,
+        "rating" : 4.93,
         "total" : 1
       },
       "recap" : false,
@@ -631,23 +631,30 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.34,
-      "total" : 520
+      "rating" : 4.35,
+      "total" : 522
     },
     "REVIEW" : {
       "rating" : 4.83,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.17,
-      "total" : 523
+      "rating" : 6.18,
+      "total" : 525
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "377517" ],
+    "ANISON" : [ "23755" ],
     "ANN" : [ "24461" ],
     "CRUNCHY_ROLL" : [ "GZJH3DPM1" ],
     "MAL" : [ "42544" ],
-    "OTHER" : [ "4:https://fena-pirate-princess.com/", "6:Fena:_Pirate_Princess", "7:海賊王女", "8:6160", "9:377517", "10:23755", "23:fena_anime", "23:fena_pirate", "26:watch?v=5yjtOm_bQkc", "26:watch?v=5zi1UrxDJCA", "26:watch?v=EeX-dya-6c4", "26:watch?v=K9V4RTigr2Q", "26:watch?v=xhM5dp7y4aw" ]
+    "SYOBOI" : [ "6160" ],
+    "TWITTER" : [ "fena_anime", "fena_pirate" ],
+    "WEBSITE" : [ "https://fena-pirate-princess.com/" ],
+    "WIKIPEDIA_EN" : [ "Fena:_Pirate_Princess" ],
+    "WIKIPEDIA_JP" : [ "海賊王女" ],
+    "YOUTUBE" : [ "watch?v=5yjtOm_bQkc", "watch?v=5zi1UrxDJCA", "watch?v=EeX-dya-6c4", "watch?v=K9V4RTigr2Q", "watch?v=xhM5dp7y4aw" ]
   },
   "similar" : {
     "40" : {
@@ -1016,6 +1023,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3805" : {
       "info_box" : false,
       "name" : "European stylised",
@@ -1084,6 +1099,14 @@
       "info_box" : false,
       "name" : "imperial stormtrooper marksmanship academy",
       "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

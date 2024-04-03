@@ -264,7 +264,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.81,
+        "rating" : 5.8,
         "total" : 2
       },
       "recap" : false,
@@ -292,7 +292,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.7,
+        "rating" : 6.69,
         "total" : 1
       },
       "recap" : false,
@@ -320,7 +320,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.96,
+        "rating" : 3.95,
         "total" : 1
       },
       "recap" : false,
@@ -348,7 +348,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.06,
+        "rating" : 2.05,
         "total" : 1
       },
       "recap" : false,
@@ -376,7 +376,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.96,
+        "rating" : 3.95,
         "total" : 1
       },
       "recap" : false,
@@ -404,7 +404,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.7,
+        "rating" : 6.69,
         "total" : 1
       },
       "recap" : false,
@@ -649,19 +649,26 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.59,
-      "total" : 515
+      "rating" : 3.6,
+      "total" : 522
     },
     "TEMPORARY" : {
-      "rating" : 5.87,
-      "total" : 517
+      "rating" : 5.88,
+      "total" : 524
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "374717" ],
+    "ANISON" : [ "23653" ],
     "ANN" : [ "24129" ],
     "CRUNCHY_ROLL" : [ "G8DHV7DG7" ],
     "MAL" : [ "43814" ],
-    "OTHER" : [ "4:https://dea5-anime.com/", "6:Battle_Game_in_5_Seconds", "7:出会って5秒でバトル", "8:6059", "9:374717", "10:23653", "23:dea5_anime", "26:watch?v=3xkIIxVqV_I", "26:watch?v=WjO8E1NlXgU" ]
+    "SYOBOI" : [ "6059" ],
+    "TWITTER" : [ "dea5_anime" ],
+    "WEBSITE" : [ "https://dea5-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "Battle_Game_in_5_Seconds" ],
+    "WIKIPEDIA_JP" : [ "出会って5秒でバトル" ],
+    "YOUTUBE" : [ "watch?v=3xkIIxVqV_I", "watch?v=WjO8E1NlXgU" ]
   },
   "start_date" : "2021-07-13",
   "tags" : {
@@ -686,6 +693,21 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2798" : {
       "info_box" : true,

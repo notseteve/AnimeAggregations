@@ -638,10 +638,13 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "239381" ],
+    "ANIME_NFO" : [ "1020,wvvxgj" ],
     "ANN" : [ "5243" ],
     "IMDB" : [ "tt5304494", "tt8743068" ],
     "MAL" : [ "3132" ],
-    "OTHER" : [ "3:1020/wvvxgj", "4:http://www.nippon-animation.co.jp/work/1636/", "7:冒険者_(テレビアニメ)", "9:239381" ]
+    "WEBSITE" : [ "http://www.nippon-animation.co.jp/work/1636/" ],
+    "WIKIPEDIA_JP" : [ "冒険者_(テレビアニメ)" ]
   },
   "start_date" : "1992-11-28",
   "tags" : {
@@ -655,6 +658,14 @@
     "2797" : {
       "info_box" : true,
       "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
       "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,

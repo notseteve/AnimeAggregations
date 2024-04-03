@@ -160,7 +160,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.67,
+        "rating" : 7.66,
         "total" : 11
       },
       "recap" : false,
@@ -181,7 +181,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.23,
+        "rating" : 7.22,
         "total" : 7
       },
       "recap" : false,
@@ -223,7 +223,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.65,
+        "rating" : 6.63,
         "total" : 7
       },
       "recap" : false,
@@ -244,8 +244,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.09,
-        "total" : 6
+        "rating" : 6.58,
+        "total" : 7
       },
       "recap" : false,
       "titles" : [ {
@@ -265,8 +265,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.94,
-        "total" : 5
+        "rating" : 3.73,
+        "total" : 6
       },
       "recap" : false,
       "titles" : [ {
@@ -286,7 +286,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.98,
+        "rating" : 6.96,
         "total" : 6
       },
       "recap" : false,
@@ -328,7 +328,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.96,
+        "rating" : 7.94,
         "total" : 5
       },
       "recap" : false,
@@ -349,8 +349,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 9.82,
-        "total" : 4
+        "rating" : 9.91,
+        "total" : 6
       },
       "recap" : false,
       "titles" : [ {
@@ -369,6 +369,10 @@
       "episode_id" : 277436,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 7.87,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -386,10 +390,20 @@
       "episode_id" : 277437,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 8.18,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sousui Magia Baiser no Ketsudan"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Supreme Commander Magia Baiser Calls the Shots"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "総帥マジアベーゼの決断"
       } ],
       "type" : "REGULAR"
     }, {
@@ -400,7 +414,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 13"
+        "title" : "Still Gushing over Magical Girls"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yappari Mahou Shoujo ni Akogarete"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "やっぱり魔法少女にあこがれて"
       } ],
       "type" : "REGULAR"
     } ],
@@ -428,7 +448,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 6.04,
+        "rating" : 6.06,
         "total" : 1
       },
       "recap" : false,
@@ -443,7 +463,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 6.04,
+        "rating" : 6.06,
         "total" : 1
       },
       "recap" : false,
@@ -456,33 +476,40 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.01,
-      "total" : 99
+      "rating" : 6.25,
+      "total" : 111
     },
     "TEMPORARY" : {
-      "rating" : 6.9,
-      "total" : 102
+      "rating" : 7.05,
+      "total" : 114
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "390123" ],
+    "ANISON" : [ "25248" ],
     "ANN" : [ "27415" ],
+    "HIDIVE" : [ "tv/gushing-over-magical-girls" ],
     "IMDB" : [ "tt29605390" ],
     "MAL" : [ "54722" ],
-    "OTHER" : [ "4:https://mahoako-anime.com/", "6:Gushing_over_Magical_Girls", "7:魔法少女にあこがれて", "8:6897", "9:390123", "10:25248", "23:mahoako_anime", "42:tv/gushing-over-magical-girls" ],
-    "TMDB" : [ "tv/236338" ]
+    "SYOBOI" : [ "6897" ],
+    "TMDB" : [ "tv/236338" ],
+    "TWITTER" : [ "mahoako_anime" ],
+    "WEBSITE" : [ "https://mahoako-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "Gushing_over_Magical_Girls" ],
+    "WIKIPEDIA_JP" : [ "魔法少女にあこがれて" ]
   },
   "similar" : {
     "4149" : {
-      "rating" : 6.0,
-      "total" : 5
+      "rating" : 5.0,
+      "total" : 6
     },
     "7529" : {
-      "rating" : 5.0,
-      "total" : 4
+      "rating" : 2.0,
+      "total" : 5
     },
     "8287" : {
-      "rating" : 8.0,
-      "total" : 5
+      "rating" : 8.333333333333334,
+      "total" : 6
     }
   },
   "start_date" : "2024-01-03",
@@ -947,6 +974,14 @@
       "info_box" : false,
       "name" : "colour coded",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5527" : {
+      "info_box" : false,
+      "name" : "spanking",
+      "parent_tag_id" : 2729,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

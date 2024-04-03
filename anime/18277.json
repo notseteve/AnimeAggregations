@@ -1,13 +1,234 @@
 {
   "anime_id" : 18277,
-  "description" : "* Based on a science fiction comedy manga by http://anidb.net/cr1902 [Toriyama Akira].",
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 131550,
+      "name" : "Beelzebub",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131551,
+      "name" : "Rao",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131548,
+      "name" : "Thief",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 131547,
+      "name" : "Al-shougun",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 134688,
+      "name" : "Satan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 134689,
+      "name" : "Swimmers Papa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131549,
+      "name" : "Zeu-taishougun",
+      "type" : "CHARACTER"
+    } ]
+  },
+  "creators" : {
+    "726" : [ {
+      "name" : "Sunrise",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "1902" : [ {
+      "name" : "Toriyama Akira",
+      "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Toriyama Akira",
+      "type" : "ORIGINAL_WORK"
+    } ],
+    "3330" : [ {
+      "name" : "Studio Anima",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "6306" : [ {
+      "name" : "Kanno Yuugo",
+      "type" : "MUSIC"
+    } ],
+    "9390" : [ {
+      "name" : "Kanno Toshiyuki",
+      "type" : "ANIMATION_CHARACTER_DESIGN"
+    } ],
+    "44124" : [ {
+      "name" : "Kamikaze Douga",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "47180" : [ {
+      "name" : "Yokoshima Toshihisa",
+      "type" : "DIRECTOR"
+    } ],
+    "60283" : [ {
+      "name" : "Mori Hayashi",
+      "type" : "SERIES_COMPOSITION"
+    } ]
+  },
+  "description" : "* Based on a science fiction comedy manga by http://anidb.net/cr1902 [Toriyama Akira].\nIn a desert world where both demons and humans suffer from an extreme water shortage, http://anidb.net/ch131550 [Beelzebub], the prince of demons, and http://anidb.net/ch131551 [Rao], a small-town sheriff, form a tag-team and set off on an adventure in search of the Legendary Spring somewhere in the desert.\nSource: Official Website",
   "end_date" : "2024-05-01",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-03-20",
+      "episode_id" : 278663,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 5.53,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akuma to Ningen no Tabidachi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Departure"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "悪魔と人間の旅立ち"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-03-20",
+      "episode_id" : 278664,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kokuougun no Himitsu"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Royal Army`s Secret"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "国王軍の秘密"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-03-20",
+      "episode_id" : 278665,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Man Called Legend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Densetsu to Yobareta Otoko"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "伝説と呼ばれた男"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-03-20",
+      "episode_id" : 278666,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Beyond the Sandstorm"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sunaarashi no Mukou ni"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "砂嵐の向こうに"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-03-20",
+      "episode_id" : 278667,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyoufu no Mushi Ningen"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Terrifying Insect Men"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "恐怖の虫人間"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-03-20",
+      "episode_id" : 278668,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akuma no Beelzebub"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Fiend Beelzebub"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "悪魔のベルゼブブ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-03-20",
+      "episode_id" : 278669,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Iza! Arata na Bouken e"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "On to a New Adventure"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "いざ! 新たな冒険へ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-03-27",
+      "episode_id" : 278670,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.98,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 7.37,
+      "total" : 8
+    }
+  },
   "related" : {
     "OTHER" : [ 17770 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "392307" ],
+    "ANN" : [ "30616" ],
     "MAL" : [ "57160" ],
-    "OTHER" : [ "4:https://sandland.jp/theseries/", "6:Sand_Land", "7:SAND_LAND", "23:sandland_pj_jp" ]
+    "TWITTER" : [ "sandland_pj_jp" ],
+    "WEBSITE" : [ "https://sandland.jp/theseries/" ],
+    "WIKIPEDIA_EN" : [ "Sand_Land" ],
+    "WIKIPEDIA_JP" : [ "SAND_LAND" ]
   },
   "start_date" : "2024-03-20",
   "tags" : {

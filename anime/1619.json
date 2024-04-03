@@ -784,12 +784,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.5,
-      "total" : 164
+      "rating" : 6.51,
+      "total" : 165
     },
     "TEMPORARY" : {
-      "rating" : 6.95,
-      "total" : 166
+      "rating" : 6.96,
+      "total" : 167
     }
   },
   "related" : {
@@ -797,9 +797,16 @@
     "PREQUEL" : [ 311 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "159951" ],
+    "ANIME_NFO" : [ "1041,ylichb" ],
+    "ANISON" : [ "3787" ],
     "ANN" : [ "2031" ],
+    "LAIN" : [ "mediadb/media/1225" ],
     "MAL" : [ "332" ],
-    "OTHER" : [ "3:1041/ylichb", "4:http://www.nippon-animation.co.jp/na/guru2/index.htm", "6:Mahōjin_Guru_Guru", "7:魔法陣グルグル", "9:159951", "10:3787", "11:mediadb/media/1225", "15:2000/guruguru" ]
+    "MARUMEGANEL" : [ "2000/guruguru" ],
+    "WEBSITE" : [ "http://www.nippon-animation.co.jp/na/guru2/index.htm" ],
+    "WIKIPEDIA_EN" : [ "Mahōjin_Guru_Guru" ],
+    "WIKIPEDIA_JP" : [ "魔法陣グルグル" ]
   },
   "start_date" : "2000-04-04",
   "tags" : {
@@ -807,6 +814,14 @@
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1244" : {
+      "info_box" : false,
+      "name" : "summoning",
+      "parent_tag_id" : 2094,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -819,9 +834,24 @@
       "verified" : false,
       "weight" : 400
     },
+    "2346" : {
+      "info_box" : false,
+      "name" : "angel",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -833,9 +863,88 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2646" : {
+      "info_box" : false,
+      "name" : "demon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2651" : {
+      "info_box" : false,
+      "name" : "absurdist humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2654" : {
+      "info_box" : false,
+      "name" : "medium awareness",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2655" : {
+      "info_box" : true,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2774" : {
+      "info_box" : false,
+      "name" : "spellcasting",
+      "parent_tag_id" : 2094,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -863,6 +972,62 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "3108" : {
+      "info_box" : false,
+      "name" : "catastrophic gadgets",
+      "parent_tag_id" : 2653,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3759" : {
+      "info_box" : false,
+      "name" : "teamwork",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3843" : {
+      "info_box" : false,
+      "name" : "saving the world",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5543" : {
+      "info_box" : false,
+      "name" : "magic school",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5781" : {
+      "info_box" : false,
+      "name" : "exorcism",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5889" : {
+      "info_box" : false,
+      "name" : "magic weapons",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

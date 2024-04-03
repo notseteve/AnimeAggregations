@@ -259,10 +259,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-02-26",
+      "description" : "In front of Finn stands the famous sorcerer from the fairy tales, Lala Val Den Klein . He tells Finn about the truth behind the cards, San Galgano`s goal, and the joker. Then Lala asks Finn to kill him to end the misfortune created by the cards.\nSource: crunchyroll",
       "episode_id" : 276660,
       "length" : 25,
       "number" : 8,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1U2N1GZ" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE",
         "title" : "LALA VALDENKLEIN"
@@ -280,9 +284,18 @@
       "length" : 25,
       "number" : 9,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUNKZ8D" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "COMING DAY"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Coming Day"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Coming Day"
       } ],
       "type" : "REGULAR"
     }, {
@@ -291,9 +304,18 @@
       "length" : 25,
       "number" : 10,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUZD0ED" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "WINNER OR LOSER"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Winner or Loser"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Winner or Loser"
       } ],
       "type" : "REGULAR"
     }, {
@@ -303,8 +325,14 @@
       "number" : 11,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "SWEET HOME"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Sweet Home"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sweet Home"
       } ],
       "type" : "REGULAR"
     }, {
@@ -322,28 +350,58 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.89,
-      "total" : 13
+      "rating" : 3.58,
+      "total" : 15
     },
     "TEMPORARY" : {
-      "rating" : 5.3,
-      "total" : 13
+      "rating" : 5.33,
+      "total" : 15
     }
   },
   "related" : {
     "PREQUEL" : [ 16373 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "390768" ],
+    "ANISON" : [ "24715" ],
     "ANN" : [ "27640" ],
     "CRUNCHY_ROLL" : [ "G8DHV74W5" ],
     "MAL" : [ "54869" ],
-    "OTHER" : [ "4:https://highcard-anime.jp/", "6:High_Card", "7:HIGH_CARD", "8:6914", "9:390768", "10:24715", "23:highcard_pj" ]
+    "SYOBOI" : [ "6914" ],
+    "TMDB" : [ "tv/194665" ],
+    "TWITTER" : [ "highcard_pj" ],
+    "WEBSITE" : [ "https://highcard-anime.jp/" ],
+    "WIKIPEDIA_EN" : [ "High_Card" ],
+    "WIKIPEDIA_JP" : [ "HIGH_CARD" ]
   },
   "start_date" : "2024-01-08",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

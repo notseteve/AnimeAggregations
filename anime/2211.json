@@ -27,7 +27,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.83,
+        "rating" : 5.82,
         "total" : 1
       },
       "recap" : false,
@@ -51,7 +51,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.06,
+        "rating" : 3.05,
         "total" : 1
       },
       "recap" : false,
@@ -75,7 +75,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 2.33,
+        "rating" : 2.32,
         "total" : 1
       },
       "recap" : false,
@@ -99,7 +99,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.55,
+        "rating" : 2.54,
         "total" : 1
       },
       "recap" : false,
@@ -123,7 +123,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 2.55,
+        "rating" : 2.54,
         "total" : 1
       },
       "recap" : false,
@@ -147,7 +147,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 2.13,
+        "rating" : 2.12,
         "total" : 1
       },
       "recap" : false,
@@ -601,15 +601,42 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "89063" ],
+    "ANIME_NFO" : [ "2180,knkzfw" ],
+    "ANISON" : [ "1150" ],
     "ANN" : [ "2196" ],
     "MAL" : [ "4468" ],
-    "OTHER" : [ "3:2180/knkzfw", "4:http://www.enokifilmsusa.com/library/pussboots.htm", "7:ファンタジーアドベンチャー_長靴をはいた猫の冒険", "9:89063", "10:1150" ]
+    "WEBSITE" : [ "http://www.enokifilmsusa.com/library/pussboots.htm" ],
+    "WIKIPEDIA_JP" : [ "ファンタジーアドベンチャー_長靴をはいた猫の冒険" ]
   },
   "start_date" : "1992-04-01",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -621,6 +648,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

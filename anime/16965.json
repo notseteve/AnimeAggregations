@@ -232,7 +232,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.52,
+        "rating" : 5.53,
         "total" : 2
       },
       "recap" : false,
@@ -288,7 +288,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.83,
+        "rating" : 7.84,
         "total" : 1
       },
       "recap" : false,
@@ -344,7 +344,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.83,
+        "rating" : 7.84,
         "total" : 1
       },
       "recap" : false,
@@ -372,7 +372,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.76,
+        "rating" : 9.77,
         "total" : 1
       },
       "recap" : false,
@@ -400,7 +400,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 9.76,
+        "rating" : 9.77,
         "total" : 1
       },
       "recap" : false,
@@ -428,7 +428,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 9.76,
+        "rating" : 9.77,
         "total" : 1
       },
       "recap" : false,
@@ -456,7 +456,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 9.76,
+        "rating" : 9.77,
         "total" : 1
       },
       "recap" : false,
@@ -484,7 +484,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 9.76,
+        "rating" : 9.77,
         "total" : 1
       },
       "recap" : false,
@@ -512,7 +512,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 7.83,
+        "rating" : 7.84,
         "total" : 1
       },
       "recap" : false,
@@ -540,7 +540,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 9.76,
+        "rating" : 9.77,
         "total" : 1
       },
       "recap" : false,
@@ -568,7 +568,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 9.76,
+        "rating" : 9.77,
         "total" : 1
       },
       "recap" : false,
@@ -597,7 +597,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.72,
+        "rating" : 4.81,
         "total" : 1
       },
       "recap" : false,
@@ -645,12 +645,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.64,
-      "total" : 266
+      "rating" : 7.66,
+      "total" : 277
     },
     "TEMPORARY" : {
-      "rating" : 7.58,
-      "total" : 268
+      "rating" : 7.59,
+      "total" : 279
     }
   },
   "related" : {
@@ -658,11 +658,18 @@
     "SEQUEL" : [ 17962 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "379936" ],
+    "ANISON" : [ "19033" ],
     "ANN" : [ "24953" ],
     "CRUNCHY_ROLL" : [ "GR5VXQ8PR" ],
+    "FUNIMATION" : [ "bungo-stray-dogs/" ],
     "IMDB" : [ "tt5679720" ],
     "MAL" : [ "50330" ],
-    "OTHER" : [ "4:https://bungosd.com/", "6:Bungo_Stray_Dogs", "7:文豪ストレイドッグス", "8:6575", "9:379936", "10:19033", "23:bungosd_anime", "45:bungo-stray-dogs/" ]
+    "SYOBOI" : [ "6575" ],
+    "TWITTER" : [ "bungosd_anime" ],
+    "WEBSITE" : [ "https://bungosd.com/" ],
+    "WIKIPEDIA_EN" : [ "Bungo_Stray_Dogs" ],
+    "WIKIPEDIA_JP" : [ "文豪ストレイドッグス" ]
   },
   "start_date" : "2023-01-04",
   "tags" : {
@@ -672,6 +679,21 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2798" : {
       "info_box" : true,

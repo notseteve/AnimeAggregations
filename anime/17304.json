@@ -14,6 +14,10 @@
       "name" : "Mikado",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 139331,
+      "name" : "Ookaito Asahi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 133929,
       "name" : "Saimori Sumi",
       "type" : "CHARACTER"
@@ -135,7 +139,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.94,
+        "rating" : 6.93,
         "total" : 5
       },
       "recap" : false,
@@ -156,7 +160,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.9,
+        "rating" : 5.92,
         "total" : 5
       },
       "recap" : false,
@@ -177,7 +181,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.67,
+        "rating" : 5.69,
         "total" : 5
       },
       "recap" : false,
@@ -198,7 +202,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.76,
+        "rating" : 5.8,
         "total" : 5
       },
       "recap" : false,
@@ -219,7 +223,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.65,
+        "rating" : 7.64,
         "total" : 4
       },
       "recap" : false,
@@ -261,7 +265,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.22,
+        "rating" : 5.24,
         "total" : 5
       },
       "recap" : false,
@@ -282,7 +286,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.55,
+        "rating" : 6.54,
         "total" : 6
       },
       "recap" : false,
@@ -303,7 +307,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.69,
+        "rating" : 6.68,
         "total" : 6
       },
       "recap" : false,
@@ -324,7 +328,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.82,
+        "rating" : 6.81,
         "total" : 6
       },
       "recap" : false,
@@ -381,6 +385,23 @@
         "title" : "暗闇の中の光"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-03-15",
+      "episode_id" : 278591,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 13"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Watashi no Shiawase No Katachi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "わたしの幸せのかたち"
+      } ],
+      "type" : "REGULAR"
     } ],
     "CREDITS" : [ {
       "air_date" : "2023-07-12",
@@ -388,7 +409,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.5,
+        "rating" : 2.48,
         "total" : 1
       },
       "recap" : false,
@@ -403,7 +424,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 2.5,
+        "rating" : 2.48,
         "total" : 1
       },
       "recap" : false,
@@ -416,22 +437,29 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.43,
-      "total" : 402
+      "rating" : 6.5,
+      "total" : 420
     },
     "TEMPORARY" : {
-      "rating" : 7.11,
-      "total" : 402
+      "rating" : 7.15,
+      "total" : 420
     }
   },
   "related" : {
     "SEQUEL" : [ 18205 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "382296" ],
+    "ANISON" : [ "24962" ],
     "ANN" : [ "25495" ],
     "MAL" : [ "51552" ],
-    "OTHER" : [ "4:https://watakon-anime.com/", "6:My_Happy_Marriage", "7:わたしの幸せな結婚", "8:6738", "9:382296", "10:24962", "23:watashino_info", "41:81564905" ],
-    "TMDB" : [ "tv/196944" ]
+    "NETFLIX" : [ "81564905" ],
+    "SYOBOI" : [ "6738" ],
+    "TMDB" : [ "tv/196944" ],
+    "TWITTER" : [ "watashino_info" ],
+    "WEBSITE" : [ "https://watakon-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "My_Happy_Marriage" ],
+    "WIKIPEDIA_JP" : [ "わたしの幸せな結婚" ]
   },
   "start_date" : "2023-06-04",
   "tags" : {
@@ -719,6 +747,14 @@
     "title" : "Watashi no Shiawase na Kekkon",
     "type" : "MAIN"
   }, {
+    "language" : "VIETNAMESE",
+    "title" : "Cuộc hôn nhân hạnh phúc của tôi",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ROMANIAN",
+    "title" : "Căsnicia mea fericită",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ITALIAN",
     "title" : "Il mio matrimonio felice",
     "type" : "OFFICIAL"
@@ -727,8 +763,16 @@
     "title" : "Meine ganz besondere Hochzeit",
     "type" : "OFFICIAL"
   }, {
+    "language" : "PORTUGUESE_BRAZIL",
+    "title" : "Meu Casamento Feliz",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "SPANISH",
     "title" : "Mi feliz matrimonio",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CROATIAN",
+    "title" : "Moj sretni brak",
     "type" : "OFFICIAL"
   }, {
     "language" : "POLISH",
@@ -739,13 +783,57 @@
     "title" : "My Happy Marriage",
     "type" : "OFFICIAL"
   }, {
+    "language" : "PORTUGUESE",
+    "title" : "O Meu Casamento Feliz",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CZECH",
+    "title" : "Šťastně vdaná",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GREEK",
+    "title" : "Ο Ευτυχισμένος Γάμος μου",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "RUSSIAN",
+    "title" : "Мой счастливый брак",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "UKRAINIAN",
+    "title" : "Мій щасливий шлюб",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "HEBREW",
+    "title" : "הנישואים המאושרים שלי",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ARABIC",
+    "title" : "زواجي السعيد",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "THAI",
+    "title" : "ขอให้รักเรานี้ได้มีความสุข",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "わたしの幸せな結婚",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "我的幸福婚約",
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "我的幸福婚约",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "나의 행복한 결혼",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "HUNGARIAN",
+    "title" : "Van remény a boldogságra",
+    "type" : "SHORT"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "watakon",

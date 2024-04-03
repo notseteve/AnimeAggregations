@@ -548,7 +548,7 @@
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 7.6,
+        "rating" : 7.59,
         "total" : 6
       },
       "recap" : false,
@@ -598,7 +598,7 @@
       "length" : 25,
       "number" : 17,
       "rating" : {
-        "rating" : 8.69,
+        "rating" : 8.68,
         "total" : 6
       },
       "recap" : false,
@@ -698,7 +698,7 @@
       "length" : 25,
       "number" : 21,
       "rating" : {
-        "rating" : 8.77,
+        "rating" : 8.76,
         "total" : 5
       },
       "recap" : false,
@@ -773,7 +773,7 @@
       "length" : 25,
       "number" : 24,
       "rating" : {
-        "rating" : 5.52,
+        "rating" : 5.51,
         "total" : 4
       },
       "recap" : false,
@@ -1066,22 +1066,33 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.15,
-      "total" : 2702
+      "total" : 2704
     },
     "REVIEW" : {
       "rating" : 4.38,
       "total" : 3
     },
     "TEMPORARY" : {
-      "rating" : 7.31,
-      "total" : 2728
+      "rating" : 7.3,
+      "total" : 2730
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "333371" ],
+    "AMAZON" : [ "amzn1" ],
+    "ANIME_NFO" : [ "4446,nhzjan" ],
+    "ANISON" : [ "10834" ],
     "ANN" : [ "10436" ],
     "CRUNCHY_ROLL" : [ "GR751Q2ZY" ],
+    "FUNIMATION" : [ "pandorahearts/" ],
+    "IMDB" : [ "tt1343645" ],
+    "LAIN" : [ "mediadb/media/2327" ],
     "MAL" : [ "5530", "6896" ],
-    "OTHER" : [ "3:4446/nhzjan", "4:http://www.tbs.co.jp/anime/ph/", "4:http://www.xebec-inc.co.jp/anime/pandorahearts/", "6:Pandora_Hearts", "7:PandoraHearts", "8:1593", "9:333371", "10:10834", "11:mediadb/media/2327", "15:2009/pandorahearts" ]
+    "MARUMEGANEL" : [ "2009/pandorahearts" ],
+    "SYOBOI" : [ "1593" ],
+    "WEBSITE" : [ "http://www.tbs.co.jp/anime/ph/", "http://www.xebec-inc.co.jp/anime/pandorahearts/" ],
+    "WIKIPEDIA_EN" : [ "Pandora_Hearts" ],
+    "WIKIPEDIA_JP" : [ "PandoraHearts" ]
   },
   "similar" : {
     "1052" : {
@@ -1315,6 +1326,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2838" : {
       "info_box" : true,
       "name" : "parallel world",
@@ -1462,6 +1481,14 @@
       "info_box" : false,
       "name" : "flashback",
       "parent_tag_id" : 6148,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

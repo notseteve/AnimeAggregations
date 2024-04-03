@@ -1509,12 +1509,22 @@
         "title" : "CM"
       } ],
       "type" : "PROMOTION"
+    }, {
+      "episode_id" : 278060,
+      "length" : 2,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "PV (1:31): English PV"
+      } ],
+      "type" : "PROMOTION"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.32,
-      "total" : 5021
+      "rating" : 7.31,
+      "total" : 5035
     },
     "REVIEW" : {
       "rating" : 6.74,
@@ -1522,13 +1532,24 @@
     },
     "TEMPORARY" : {
       "rating" : 7.69,
-      "total" : 5070
+      "total" : 5084
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "335855" ],
+    "AMAZON" : [ "B00DSWQ1D2" ],
+    "ANIME_NFO" : [ "4685,zpcfal" ],
+    "ANISON" : [ "12784" ],
     "ANN" : [ "11302" ],
+    "LAIN" : [ "mediadb/media/2617" ],
     "MAL" : [ "7724", "10083" ],
-    "OTHER" : [ "3:4685/zpcfal", "4:http://www.okiagari.net/", "6:Shiki_(novel_series)", "7:屍鬼", "8:1977", "9:335855", "10:12784", "11:mediadb/media/2617", "15:2010/shiki", "26:watch?v=eGKtRtmiw8k", "31:11758", "31:15219", "31:15222", "32:B00DSWQ1D2" ]
+    "MARUMEGANEL" : [ "2010/shiki" ],
+    "MEDIA_ART_DATABASE" : [ "11758", "15219", "15222" ],
+    "SYOBOI" : [ "1977" ],
+    "WEBSITE" : [ "http://www.okiagari.net/" ],
+    "WIKIPEDIA_EN" : [ "Shiki_(novel_series)" ],
+    "WIKIPEDIA_JP" : [ "屍鬼" ],
+    "YOUTUBE" : [ "watch?v=eGKtRtmiw8k" ]
   },
   "similar" : {
     "784" : {
@@ -1605,6 +1626,14 @@
       "info_box" : false,
       "name" : "glowing eyes",
       "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

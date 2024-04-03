@@ -639,9 +639,15 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "89657" ],
+    "ANIMEMORIAL" : [ "13" ],
+    "ANIME_NFO" : [ "1751,iimgxo" ],
+    "ANISON" : [ "136" ],
     "ANN" : [ "1504" ],
     "MAL" : [ "12897" ],
-    "OTHER" : [ "3:1751/iimgxo", "4:http://www.toei-anim.co.jp/lineup/tv/hoppa/", "5:http://www.toei-animation.com/en/catalog/spacekidjun", "7:宇宙パトロールホッパ", "9:89657", "10:136", "16:13" ]
+    "WEBSITE" : [ "http://www.toei-anim.co.jp/lineup/tv/hoppa/" ],
+    "WEBSITE_EN" : [ "http://www.toei-animation.com/en/catalog/spacekidjun" ],
+    "WIKIPEDIA_JP" : [ "宇宙パトロールホッパ" ]
   },
   "start_date" : "1965-02-01",
   "tags" : {
@@ -730,6 +736,10 @@
     "language" : "JAPANESE",
     "title" : "宇宙パトロールホッパ",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "hopper",
+    "type" : "SHORT"
   }, {
     "language" : "ENGLISH",
     "title" : "Space Patrol Hopper",

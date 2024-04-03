@@ -152,7 +152,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.76,
+        "rating" : 4.75,
         "total" : 2
       },
       "recap" : false,
@@ -180,7 +180,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.1,
+        "rating" : 6.09,
         "total" : 2
       },
       "recap" : false,
@@ -208,7 +208,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.56,
+        "rating" : 3.54,
         "total" : 2
       },
       "recap" : false,
@@ -236,7 +236,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 1.59,
+        "rating" : 1.58,
         "total" : 1
       },
       "recap" : false,
@@ -264,7 +264,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 1.59,
+        "rating" : 1.58,
         "total" : 1
       },
       "recap" : false,
@@ -289,7 +289,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 1.59,
+        "rating" : 1.58,
         "total" : 1
       },
       "recap" : false,
@@ -441,35 +441,95 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.44,
-      "total" : 135
+      "rating" : 3.46,
+      "total" : 138
     },
     "REVIEW" : {
       "rating" : 2.5,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 5.66,
-      "total" : 136
+      "rating" : 5.67,
+      "total" : 139
     }
   },
   "related" : {
     "SEQUEL" : [ 18206 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "387018" ],
+    "ANISON" : [ "24987" ],
     "ANN" : [ "26335" ],
     "MAL" : [ "53026" ],
-    "OTHER" : [ "4:https://synduality-noir.com/", "6:Synduality", "7:SYNDUALITY", "8:6729", "9:387018", "10:24987", "23:SYN_noir" ],
-    "TMDB" : [ "tv/210181" ]
+    "SYOBOI" : [ "6729" ],
+    "TMDB" : [ "tv/210181" ],
+    "TWITTER" : [ "SYN_noir" ],
+    "WEBSITE" : [ "https://synduality-noir.com/" ],
+    "WIKIPEDIA_EN" : [ "Synduality" ],
+    "WIKIPEDIA_JP" : [ "SYNDUALITY" ]
   },
   "start_date" : "2023-07-11",
   "tags" : {
+    "1278" : {
+      "info_box" : true,
+      "name" : "android",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2274" : {
+      "info_box" : false,
+      "name" : "robot",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2626" : {
+      "info_box" : false,
+      "name" : "future",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2638" : {
+      "info_box" : true,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2797" : {
       "info_box" : true,
@@ -479,9 +539,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "6083" : {
+      "info_box" : false,
+      "name" : "master-servant relationship",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

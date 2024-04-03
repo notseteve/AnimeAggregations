@@ -122,12 +122,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.15,
-      "total" : 922
+      "rating" : 8.16,
+      "total" : 924
     },
     "TEMPORARY" : {
       "rating" : 7.86,
-      "total" : 926
+      "total" : 928
     }
   },
   "related" : {
@@ -135,12 +135,32 @@
     "SIDE_STORY" : [ 14797 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "364780" ],
+    "ANISON" : [ "21686" ],
     "ANN" : [ "21649" ],
     "MAL" : [ "38249" ],
-    "OTHER" : [ "4:http://www.saikikusuo.com/index.html", "7:斉木楠雄のΨ難", "8:4776", "9:364780", "10:21686", "23:saikikusuo_pr" ]
+    "SYOBOI" : [ "4776" ],
+    "TWITTER" : [ "saikikusuo_pr" ],
+    "WEBSITE" : [ "http://www.saikikusuo.com/index.html" ],
+    "WIKIPEDIA_JP" : [ "斉木楠雄のΨ難" ]
   },
   "start_date" : "2018-12-28",
   "tags" : {
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

@@ -638,9 +638,17 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "330116" ],
+    "ANIME_NFO" : [ "4197,zipfdq" ],
+    "ANISON" : [ "9854" ],
     "ANN" : [ "8844" ],
+    "HIDIVE" : [ "tv/monochrome-factor" ],
+    "LAIN" : [ "mediadb/media/2137" ],
     "MAL" : [ "3656" ],
-    "OTHER" : [ "3:4197/zipfdq", "4:http://www.monochro.tv/", "6:Monochrome_Factor", "7:モノクローム・ファクター", "8:1354", "9:330116", "10:9854", "11:mediadb/media/2137", "42:tv/monochrome-factor" ]
+    "SYOBOI" : [ "1354" ],
+    "WEBSITE" : [ "http://www.monochro.tv/" ],
+    "WIKIPEDIA_EN" : [ "Monochrome_Factor" ],
+    "WIKIPEDIA_JP" : [ "モノクローム・ファクター" ]
   },
   "start_date" : "2008-04-08",
   "tags" : {
@@ -662,6 +670,14 @@
     "922" : {
       "info_box" : true,
       "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1077" : {
+      "info_box" : true,
+      "name" : "shoujo",
       "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,

@@ -41,12 +41,23 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "89930" ],
+    "ANIME_NFO" : [ "3156,kwqbwr" ],
+    "ANISON" : [ "2526" ],
     "ANN" : [ "23391" ],
     "MAL" : [ "20229" ],
-    "OTHER" : [ "3:3156/kwqbwr", "7:まっ黒なおべんとう", "9:89930", "10:2526" ]
+    "WIKIPEDIA_JP" : [ "まっ黒なおべんとう" ]
   },
   "start_date" : "1990-06-12",
   "tags" : {
+    "1049" : {
+      "info_box" : false,
+      "name" : "bicycling",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -158,6 +169,14 @@
     "2874" : {
       "info_box" : false,
       "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,

@@ -24,7 +24,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.23,
+      "rating" : 4.24,
       "total" : 97
     },
     "TEMPORARY" : {
@@ -34,7 +34,14 @@
   },
   "resources" : {
     "MAL" : [ "11795" ],
-    "OTHER" : [ "6:Systematic_Chaos#Forsaken", "26:watch?v=dRBP1rpE5y8" ]
+    "WIKIPEDIA_EN" : [ "Systematic_Chaos#Forsaken" ],
+    "YOUTUBE" : [ "watch?v=dRBP1rpE5y8" ]
+  },
+  "similar" : {
+    "12491" : {
+      "rating" : 5.0,
+      "total" : 2
+    }
   },
   "start_date" : "2008-01-26",
   "tags" : {
@@ -52,6 +59,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2794" : {
       "info_box" : false,
       "name" : "music",
@@ -64,6 +78,14 @@
       "info_box" : false,
       "name" : "the arts",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

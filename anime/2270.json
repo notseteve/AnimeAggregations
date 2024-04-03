@@ -37,10 +37,12 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "148014" ],
+    "ANIME_NFO" : [ "3119,uubqdk" ],
+    "ANISON" : [ "3690" ],
     "ANN" : [ "3651" ],
     "IMDB" : [ "tt2224031" ],
-    "MAL" : [ "3757" ],
-    "OTHER" : [ "3:3119/uubqdk", "9:148014", "10:3690" ]
+    "MAL" : [ "3757" ]
   },
   "start_date" : "1982-03-13",
   "tags" : {
@@ -54,6 +56,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -89,10 +98,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3876" : {
       "info_box" : false,
       "name" : "folklore",
       "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

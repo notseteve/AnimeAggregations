@@ -115,26 +115,32 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.07,
-      "total" : 1505
+      "rating" : 7.08,
+      "total" : 1510
     },
     "REVIEW" : {
       "rating" : 7.88,
       "total" : 3
     },
     "TEMPORARY" : {
-      "rating" : 7.31,
-      "total" : 1510
+      "rating" : 7.32,
+      "total" : 1515
     }
   },
   "related" : {
     "PREQUEL" : [ 424 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "240210" ],
+    "ANIME_NFO" : [ "1150,iirnyx" ],
+    "ANISON" : [ "5879" ],
     "ANN" : [ "2115" ],
     "IMDB" : [ "tt1160949" ],
     "MAL" : [ "976" ],
-    "OTHER" : [ "3:1150/iirnyx", "4:http://www.sonymusic.co.jp/Animation/yokohama/", "6:Yokohama_Kaidashi_Kikō", "7:ヨコハマ買い出し紀行", "8:470", "9:240210", "10:5879" ]
+    "SYOBOI" : [ "470" ],
+    "WEBSITE" : [ "http://www.sonymusic.co.jp/Animation/yokohama/" ],
+    "WIKIPEDIA_EN" : [ "Yokohama_Kaidashi_Kikō" ],
+    "WIKIPEDIA_JP" : [ "ヨコハマ買い出し紀行" ]
   },
   "similar" : {
     "410" : {
@@ -440,6 +446,14 @@
       "info_box" : false,
       "name" : "iyashi-kei",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4164" : {
+      "info_box" : false,
+      "name" : "promotional",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

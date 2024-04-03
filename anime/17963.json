@@ -25,6 +25,19 @@
       "character_id" : 135905,
       "name" : "Umemiya Hajime",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 138864,
+      "name" : "Kiryuu Mitsuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138865,
+      "name" : "Tachibana Kotoha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138863,
+      "name" : "Tsugeura Taiga",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -43,10 +56,13 @@
     "54000" : [ {
       "name" : "Kawakami Taishi",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Kawakami Taishi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "54910" : [ {
       "name" : "Clover Works",
-      "type" : "ANIMATION_WORK"
+      "type" : "WORK"
     } ],
     "71342" : [ {
       "name" : "Nii Satoru",
@@ -54,13 +70,80 @@
     } ]
   },
   "description" : "* Based on an yankee manga by http://anidb.net/cr71342 [Nii Satoru].\nSakura Haruka wants nothing to do with weaklings—he`s only interested in the strongest of the strong. He`s from Fuurin High School, a school of near-dropout degenerates known only for their brawling strength. And in a town known for its territorial disputes, Haruka`s got only one goal—become the hero his town deserves.\nSource: Kodansha",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-05",
+      "episode_id" : 278816,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-12",
+      "episode_id" : 278817,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-19",
+      "episode_id" : 278818,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-26",
+      "episode_id" : 278819,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "392019" ],
     "ANN" : [ "27706" ],
     "MAL" : [ "54900" ],
-    "OTHER" : [ "4:https://wb-anime.net/", "6:Wind_Breaker_(manga)", "7:WIND_BREAKER_(漫画)", "23:winbre_sakura" ]
+    "SYOBOI" : [ "6990" ],
+    "TWITTER" : [ "winbre_sakura" ],
+    "WEBSITE" : [ "https://wb-anime.net/" ],
+    "WIKIPEDIA_EN" : [ "Wind_Breaker_(manga)" ],
+    "WIKIPEDIA_JP" : [ "WIND_BREAKER_(漫画)" ]
   },
-  "start_date" : "2024-04",
+  "start_date" : "2024-04-05",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -84,6 +167,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "WIND BREAKER",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Wind Breaker",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

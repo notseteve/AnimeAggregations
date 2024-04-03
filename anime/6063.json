@@ -81,7 +81,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.76,
-      "total" : 2130
+      "total" : 2132
     },
     "REVIEW" : {
       "rating" : 5.72,
@@ -89,18 +89,25 @@
     },
     "TEMPORARY" : {
       "rating" : 6.71,
-      "total" : 2154
+      "total" : 2156
     }
   },
   "related" : {
     "PREQUEL" : [ 2656 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "334887" ],
+    "ANISON" : [ "12337" ],
     "ANN" : [ "10181" ],
     "CRUNCHY_ROLL" : [ "G5PHNMW59" ],
+    "FUNIMATION" : [ "afro-samurai" ],
     "IMDB" : [ "tt1265998" ],
+    "LAIN" : [ "mediadb/media/2496" ],
     "MAL" : [ "4970" ],
-    "OTHER" : [ "4:http://www.afrosamurai2.jp/", "5:http://www.afrosamurai.com/", "6:Afro_Samurai:_Resurrection", "8:2010", "9:334887", "10:12337", "11:mediadb/media/2496", "45:afro-samurai" ]
+    "SYOBOI" : [ "2010" ],
+    "WEBSITE" : [ "http://www.afrosamurai2.jp/" ],
+    "WEBSITE_EN" : [ "http://www.afrosamurai.com/" ],
+    "WIKIPEDIA_EN" : [ "Afro_Samurai:_Resurrection" ]
   },
   "similar" : {
     "1543" : {
@@ -288,6 +295,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -364,6 +379,14 @@
       "info_box" : false,
       "name" : "original in English",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

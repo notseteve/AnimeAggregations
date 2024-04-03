@@ -26,7 +26,7 @@
       "length" : 60,
       "number" : 1,
       "rating" : {
-        "rating" : 3.14,
+        "rating" : 3.13,
         "total" : 1
       },
       "recap" : false,
@@ -51,16 +51,24 @@
     "PARENT" : [ 524 ]
   },
   "resources" : {
+    "ANIMEMORIAL" : [ "269" ],
     "ANN" : [ "3308" ],
     "IMDB" : [ "tt3329696" ],
     "MAL" : [ "4509" ],
-    "OTHER" : [ "8:4312", "16:269" ]
+    "SYOBOI" : [ "4312" ]
   },
   "start_date" : "1978-12-31",
   "tags" : {
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -79,6 +87,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "5939" : {
       "info_box" : false,
@@ -131,6 +147,10 @@
   }, {
     "language" : "FRENCH",
     "title" : "Capitaine Flam : L`ultime course à travers le système solaire",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Captain Future - The Brilliant Solar System Race",
     "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",

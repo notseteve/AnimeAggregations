@@ -206,7 +206,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.29,
+        "rating" : 7.28,
         "total" : 5
       },
       "recap" : false,
@@ -729,21 +729,33 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.25,
-      "total" : 544
+      "rating" : 6.26,
+      "total" : 553
     },
     "TEMPORARY" : {
       "rating" : 6.98,
-      "total" : 555
+      "total" : 563
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "382520" ],
+    "AMAZON_PRIME" : [ "0R3H4DVV12ED4XH8L47T3WSQBC" ],
+    "ANISON" : [ "24681" ],
     "ANN" : [ "25571" ],
+    "BAIDU_BAIKE" : [ "别当哥哥了！/61738383" ],
+    "BANGUMI" : [ "378862" ],
+    "BILI_BILI" : [ "bangumi/media/md28480920/" ],
     "CRUNCHY_ROLL" : [ "GZJH3D0P5" ],
+    "DOUBAN" : [ "35880801" ],
     "IMDB" : [ "tt21929424" ],
     "MAL" : [ "51678" ],
-    "OTHER" : [ "4:https://onimai.jp/", "6:Onimai:_I'm_Now_Your_Sister!", "7:お兄ちゃんはおしまい!", "8:6556", "9:382520", "10:24681", "23:onimai_anime", "26:watch?v=nR4jAy77AoY", "33:别当哥哥了！/61738383", "38:378862", "39:35880801", "47:bangumi/media/md28480920/", "48:0R3H4DVV12ED4XH8L47T3WSQBC" ],
-    "TMDB" : [ "tv/198152" ]
+    "SYOBOI" : [ "6556" ],
+    "TMDB" : [ "tv/198152" ],
+    "TWITTER" : [ "onimai_anime" ],
+    "WEBSITE" : [ "https://onimai.jp/" ],
+    "WIKIPEDIA_EN" : [ "Onimai:_I'm_Now_Your_Sister!" ],
+    "WIKIPEDIA_JP" : [ "お兄ちゃんはおしまい!" ],
+    "YOUTUBE" : [ "watch?v=nR4jAy77AoY" ]
   },
   "start_date" : "2022-12-24",
   "tags" : {
@@ -995,6 +1007,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3797" : {
+      "info_box" : false,
+      "name" : "trapped in the body of a child",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4223" : {
       "info_box" : false,
       "name" : "running gag",
@@ -1030,6 +1050,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

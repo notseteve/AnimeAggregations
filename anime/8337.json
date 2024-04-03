@@ -107,20 +107,25 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.61,
-      "total" : 267
+      "rating" : 2.62,
+      "total" : 268
     },
     "TEMPORARY" : {
-      "rating" : 4.95,
-      "total" : 269
+      "rating" : 4.96,
+      "total" : 270
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "339500" ],
+    "ANIME_NFO" : [ "4408,aovcbj" ],
+    "ANISON" : [ "14616" ],
     "ANN" : [ "12782" ],
     "IMDB" : [ "tt1999166" ],
     "MAL" : [ "4713" ],
-    "OTHER" : [ "3:4408/aovcbj", "4:http://quinrose.com/game/alice_h_m/top.html", "6:Alice_in_the_Country_of_Hearts", "7:ハートの国のアリス_〜Wonderful_Wonder_World〜", "9:339500", "10:14616" ],
-    "VNDB" : [ "v801" ]
+    "VNDB" : [ "v801" ],
+    "WEBSITE" : [ "http://quinrose.com/game/alice_h_m/top.html" ],
+    "WIKIPEDIA_EN" : [ "Alice_in_the_Country_of_Hearts" ],
+    "WIKIPEDIA_JP" : [ "ハートの国のアリス_〜Wonderful_Wonder_World〜" ]
   },
   "similar" : {
     "8914" : {
@@ -251,6 +256,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2800" : {
       "info_box" : true,
       "name" : "game",
@@ -311,6 +324,22 @@
       "info_box" : false,
       "name" : "Alice`s Adventures in Wonderland",
       "parent_tag_id" : 6397,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

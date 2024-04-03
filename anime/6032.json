@@ -364,7 +364,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.77,
+        "rating" : 7.76,
         "total" : 8
       },
       "recap" : false,
@@ -514,7 +514,7 @@
       "length" : 25,
       "number" : 16,
       "rating" : {
-        "rating" : 6.07,
+        "rating" : 6.06,
         "total" : 8
       },
       "recap" : false,
@@ -564,7 +564,7 @@
       "length" : 25,
       "number" : 18,
       "rating" : {
-        "rating" : 5.44,
+        "rating" : 5.43,
         "total" : 9
       },
       "recap" : false,
@@ -714,7 +714,7 @@
       "length" : 25,
       "number" : 24,
       "rating" : {
-        "rating" : 6.57,
+        "rating" : 6.56,
         "total" : 8
       },
       "recap" : false,
@@ -760,7 +760,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 7.81,
+        "rating" : 7.8,
         "total" : 4
       },
       "recap" : false,
@@ -815,7 +815,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.48,
-      "total" : 3144
+      "total" : 3152
     },
     "REVIEW" : {
       "rating" : 7.83,
@@ -823,17 +823,24 @@
     },
     "TEMPORARY" : {
       "rating" : 7.45,
-      "total" : 3176
+      "total" : 3184
     }
   },
   "related" : {
     "ALTERNATIVE_SETTING" : [ 1445, 1561 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "331525" ],
+    "ANIME_NFO" : [ "4381,weuyrx" ],
+    "ANISON" : [ "10433" ],
     "ANN" : [ "9702" ],
     "CRUNCHY_ROLL" : [ "GYNQEDGGY" ],
+    "FUNIMATION" : [ "casshern-sins/" ],
     "MAL" : [ "4981" ],
-    "OTHER" : [ "3:4381/weuyrx", "4:http://casshern-sins.jp/", "6:Casshern_Sins", "7:キャシャーン_Sins", "8:1490", "9:331525", "10:10433", "45:casshern-sins/" ]
+    "SYOBOI" : [ "1490" ],
+    "WEBSITE" : [ "http://casshern-sins.jp/" ],
+    "WIKIPEDIA_EN" : [ "Casshern_Sins" ],
+    "WIKIPEDIA_JP" : [ "キャシャーン_Sins" ]
   },
   "similar" : {
     "53" : {
@@ -882,6 +889,14 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

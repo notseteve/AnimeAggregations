@@ -1341,9 +1341,14 @@
     "CHARACTER" : [ 4043, 7501 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "162305" ],
+    "ANISON" : [ "4327" ],
     "ANN" : [ "1209" ],
     "MAL" : [ "2824" ],
-    "OTHER" : [ "4:https://pierrot.jp/archive/1995/tv90_27.html", "6:Barbapapa", "7:バーバパパ", "9:162305", "10:4327", "20:奇妙家庭變形豆" ]
+    "WEBSITE" : [ "https://pierrot.jp/archive/1995/tv90_27.html" ],
+    "WIKIPEDIA_EN" : [ "Barbapapa" ],
+    "WIKIPEDIA_JP" : [ "バーバパパ" ],
+    "WIKIPEDIA_ZH" : [ "奇妙家庭變形豆" ]
   },
   "start_date" : "1999-07-05",
   "tags" : {
@@ -1365,6 +1370,13 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1416,6 +1428,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4614" : {
       "info_box" : false,
       "name" : "narration",
@@ -1442,6 +1462,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7700" : {
+      "info_box" : false,
+      "name" : "French-Japanese co-production",
+      "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7793" : {
+      "info_box" : false,
+      "name" : "American-Japanese co-production",
+      "parent_tag_id" : 6173,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

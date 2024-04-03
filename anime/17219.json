@@ -122,20 +122,25 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.41,
-      "total" : 103
+      "rating" : 7.39,
+      "total" : 123
     },
     "TEMPORARY" : {
-      "rating" : 7.36,
-      "total" : 103
+      "rating" : 7.32,
+      "total" : 124
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "381626" ],
+    "ANISON" : [ "24670" ],
     "ANN" : [ "25375" ],
     "IMDB" : [ "tt22868842" ],
     "MAL" : [ "51116" ],
-    "OTHER" : [ "4:https://movies.shochiku.co.jp/kagaminokojo/", "6:Lonely_Castle_in_the_Mirror", "7:かがみの孤城", "9:381626", "10:24670" ],
-    "TMDB" : [ "movie/942881" ]
+    "SYOBOI" : [ "6972" ],
+    "TMDB" : [ "movie/942881" ],
+    "WEBSITE" : [ "https://movies.shochiku.co.jp/kagaminokojo/" ],
+    "WIKIPEDIA_EN" : [ "Lonely_Castle_in_the_Mirror" ],
+    "WIKIPEDIA_JP" : [ "かがみの孤城" ]
   },
   "start_date" : "2022-12-23",
   "tags" : {
@@ -157,6 +162,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -230,6 +242,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2834" : {
       "info_box" : false,
@@ -347,6 +367,14 @@
       "info_box" : false,
       "name" : "ensemble cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

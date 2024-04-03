@@ -532,7 +532,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.31,
+        "rating" : 7.3,
         "total" : 21
       },
       "recap" : false,
@@ -672,7 +672,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.38,
+        "rating" : 5.39,
         "total" : 19
       },
       "recap" : false,
@@ -1586,7 +1586,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.48,
+        "rating" : 2.47,
         "total" : 2
       },
       "recap" : false,
@@ -1657,7 +1657,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.6,
-      "total" : 5719
+      "total" : 5728
     },
     "REVIEW" : {
       "rating" : 4.91,
@@ -1665,13 +1665,21 @@
     },
     "TEMPORARY" : {
       "rating" : 6.95,
-      "total" : 5771
+      "total" : 5780
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "348580" ],
+    "ANISON" : [ "17296" ],
     "ANN" : [ "15919" ],
+    "HIDIVE" : [ "tv/akame-ga-kill" ],
     "MAL" : [ "22199", "25241", "26449" ],
-    "OTHER" : [ "4:http://akame.tv/", "6:Akame_ga_Kill", "7:アカメが斬る!", "8:3427", "9:348580", "10:17296", "23:akame_tv/", "41:80052714", "42:tv/akame-ga-kill" ]
+    "NETFLIX" : [ "80052714" ],
+    "SYOBOI" : [ "3427" ],
+    "TWITTER" : [ "akame_tv/" ],
+    "WEBSITE" : [ "http://akame.tv/" ],
+    "WIKIPEDIA_EN" : [ "Akame_ga_Kill" ],
+    "WIKIPEDIA_JP" : [ "アカメが斬る!" ]
   },
   "similar" : {
     "4521" : {
@@ -1728,6 +1736,14 @@
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1438" : {
+      "info_box" : false,
+      "name" : "ruthless",
+      "parent_tag_id" : 6149,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

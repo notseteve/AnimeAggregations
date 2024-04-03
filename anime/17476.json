@@ -99,19 +99,78 @@
     } ]
   },
   "description" : "* Based on the light novel series written by http://anidb.net/cr34043 [Tachibana Koushi] and illustrated by http://anidb.net/cr34044 [Tsunako].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-10",
+      "episode_id" : 278872,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-17",
+      "episode_id" : 278873,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-24",
+      "episode_id" : 278874,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-01",
+      "episode_id" : 278875,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "related" : {
     "PREQUEL" : [ 15106 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "391941" ],
     "ANN" : [ "25912" ],
     "MAL" : [ "52196" ],
-    "OTHER" : [ "4:https://date-a-live5th-anime.com/", "6:Date_A_Live", "7:デート・ア・ライブ", "8:7017", "9:391941", "23:date_a_info" ]
+    "SYOBOI" : [ "7017" ],
+    "TWITTER" : [ "date_a_info" ],
+    "WEBSITE" : [ "https://date-a-live5th-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "Date_A_Live" ],
+    "WIKIPEDIA_JP" : [ "デート・ア・ライブ" ]
   },
   "start_date" : "2024-04-10",
   "tags" : {
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -123,6 +182,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2859" : {
+      "info_box" : true,
+      "name" : "harem",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "6173" : {
       "info_box" : false,
@@ -144,6 +211,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Date a Live V",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Date a Live V",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "デート・ア・ライブV",

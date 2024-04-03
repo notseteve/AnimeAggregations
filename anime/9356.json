@@ -268,22 +268,29 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.93,
-      "total" : 1645
+      "rating" : 6.94,
+      "total" : 1650
     },
     "TEMPORARY" : {
-      "rating" : 7.32,
-      "total" : 1653
+      "rating" : 7.33,
+      "total" : 1658
     }
   },
   "related" : {
     "PREQUEL" : [ 8181 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "345373" ],
+    "ANIME_NFO" : [ "5176,avuwxe" ],
+    "ANISON" : [ "16240" ],
     "ANN" : [ "15154" ],
     "IMDB" : [ "tt2323836" ],
     "MAL" : [ "15039" ],
-    "OTHER" : [ "3:5176/avuwxe", "4:http://www.anohana.jp/", "6:Anohana:_The_Flower_We_Saw_That_Day", "7:あの日見た花の名前を僕達はまだ知らない。", "8:4672", "9:345373", "10:16240", "31:18005" ]
+    "MEDIA_ART_DATABASE" : [ "18005" ],
+    "SYOBOI" : [ "4672" ],
+    "WEBSITE" : [ "http://www.anohana.jp/" ],
+    "WIKIPEDIA_EN" : [ "Anohana:_The_Flower_We_Saw_That_Day" ],
+    "WIKIPEDIA_JP" : [ "あの日見た花の名前を僕達はまだ知らない。" ]
   },
   "start_date" : "2013-08-31",
   "tags" : {
@@ -298,6 +305,14 @@
       "info_box" : false,
       "name" : "awards",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

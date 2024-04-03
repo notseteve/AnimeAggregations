@@ -81,7 +81,7 @@
       "length" : 30,
       "number" : 2,
       "rating" : {
-        "rating" : 7.61,
+        "rating" : 7.62,
         "total" : 17
       },
       "recap" : false,
@@ -130,7 +130,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.37,
-      "total" : 1788
+      "total" : 1793
     },
     "REVIEW" : {
       "rating" : 7.08,
@@ -138,19 +138,29 @@
     },
     "TEMPORARY" : {
       "rating" : 7.39,
-      "total" : 1795
+      "total" : 1800
     }
   },
   "related" : {
     "SEQUEL" : [ 468 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "88163" ],
+    "ANIME_NFO" : [ "852,vntzxi" ],
+    "ANISON" : [ "3800" ],
     "ANN" : [ "1156" ],
     "IMDB" : [ "tt1160947" ],
+    "LAIN" : [ "mediadb/media/726" ],
     "MAL" : [ "975" ],
-    "OTHER" : [ "3:852/vntzxi", "6:Yokohama_Kaidashi_Kikō", "7:ヨコハマ買い出し紀行", "8:469", "9:88163", "10:3800", "11:mediadb/media/726" ]
+    "SYOBOI" : [ "469" ],
+    "WIKIPEDIA_EN" : [ "Yokohama_Kaidashi_Kikō" ],
+    "WIKIPEDIA_JP" : [ "ヨコハマ買い出し紀行" ]
   },
   "similar" : {
+    "286" : {
+      "rating" : 10.0,
+      "total" : 2
+    },
     "410" : {
       "rating" : 3.333333333333333,
       "total" : 12
@@ -478,6 +488,14 @@
       "info_box" : false,
       "name" : "mono no aware",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4164" : {
+      "info_box" : false,
+      "name" : "promotional",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

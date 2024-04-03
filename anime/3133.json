@@ -48,19 +48,24 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.85,
-      "total" : 320
+      "rating" : 3.86,
+      "total" : 321
     },
     "TEMPORARY" : {
       "rating" : 5.79,
-      "total" : 322
+      "total" : 323
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "88478" ],
+    "ANIME_NFO" : [ "3259,rivfbn" ],
+    "ANISON" : [ "2712" ],
     "ANN" : [ "3338" ],
     "IMDB" : [ "tt2148760" ],
     "MAL" : [ "1076" ],
-    "OTHER" : [ "3:3259/rivfbn", "4:http://www.tms-e.com/library/old/ova/data/m_wizardry.html", "7:ウィザードリィ#OVA", "9:88478", "10:2712" ]
+    "WEBSITE" : [ "http://www.tms-e.com/library/old/ova/data/m_wizardry.html" ],
+    "WIKIPEDIA_EN" : [ "Wizardry:_Proving_Grounds_of_the_Mad_Overlord" ],
+    "WIKIPEDIA_JP" : [ "ウィザードリィ#OVA" ]
   },
   "start_date" : "1991-02-21",
   "tags" : {
@@ -435,6 +440,14 @@
       "info_box" : false,
       "name" : "ensemble cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

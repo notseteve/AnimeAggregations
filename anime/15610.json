@@ -15,6 +15,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 139501,
+      "name" : "Adam Smasher",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 125287,
       "name" : "Dorio",
       "type" : "CHARACTER"
@@ -279,7 +283,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.92,
+        "rating" : 7.93,
         "total" : 11
       },
       "recap" : false,
@@ -329,7 +333,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 6.47,
+        "rating" : 6.49,
         "total" : 3
       },
       "recap" : false,
@@ -344,7 +348,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 5.48,
+        "rating" : 5.51,
         "total" : 5
       },
       "recap" : false,
@@ -360,7 +364,7 @@
       "length" : 3,
       "number" : 1,
       "rating" : {
-        "rating" : 4.33,
+        "rating" : 4.35,
         "total" : 1
       },
       "recap" : false,
@@ -373,8 +377,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.75,
-      "total" : 1476
+      "rating" : 7.76,
+      "total" : 1498
     },
     "REVIEW" : {
       "rating" : 5.5,
@@ -382,14 +386,23 @@
     },
     "TEMPORARY" : {
       "rating" : 7.74,
-      "total" : 1489
+      "total" : 1511
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "373091" ],
+    "ANISON" : [ "24541" ],
     "ANN" : [ "25775" ],
+    "IMDB" : [ "tt12590266" ],
     "MAL" : [ "42310" ],
-    "OTHER" : [ "4:https://www.cyberpunk.net/edgerunners", "6:Cyberpunk:_Edgerunners", "7:サイバーパンク2077", "9:373091", "10:24541", "23:edgerunners", "26:watch?v=E7dKVCw7bkE", "41:81054853" ],
-    "TMDB" : [ "tv/105248" ]
+    "NETFLIX" : [ "81054853" ],
+    "SYOBOI" : [ "6975" ],
+    "TMDB" : [ "tv/105248" ],
+    "TWITTER" : [ "edgerunners" ],
+    "WEBSITE" : [ "https://www.cyberpunk.net/edgerunners" ],
+    "WIKIPEDIA_EN" : [ "Cyberpunk:_Edgerunners" ],
+    "WIKIPEDIA_JP" : [ "サイバーパンク2077" ],
+    "YOUTUBE" : [ "watch?v=E7dKVCw7bkE" ]
   },
   "similar" : {
     "61" : {
@@ -399,6 +412,37 @@
   },
   "start_date" : "2022-09-13",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "204" : {
+      "info_box" : false,
+      "name" : "violent",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1179" : {
+      "info_box" : false,
+      "name" : "indecisive",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1438" : {
+      "info_box" : false,
+      "name" : "ruthless",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1955" : {
       "info_box" : false,
       "name" : "child soldier",
@@ -809,6 +853,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -858,6 +910,10 @@
     "title" : "CYBERPUNK: EDGERUNNERS",
     "type" : "OFFICIAL"
   }, {
+    "language" : "THAI",
+    "title" : "CYBERPUNK: อาชญากรแดนเถื่อน",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "Cyberpunk: Edgerunners",
     "type" : "OFFICIAL"
@@ -872,6 +928,14 @@
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "赛博浪客",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "電馭叛客：邊緣行者",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "사이버펑크: 엣지러너",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

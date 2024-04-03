@@ -172,22 +172,25 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.25,
-      "total" : 636
+      "rating" : 6.26,
+      "total" : 638
     },
     "TEMPORARY" : {
       "rating" : 6.99,
-      "total" : 641
+      "total" : 644
     }
   },
   "related" : {
     "PARENT" : [ 10145 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "356217", "356218" ],
+    "ANISON" : [ "18061" ],
     "ANN" : [ "16551", "17580" ],
     "CRUNCHY_ROLL" : [ "GY8VM8MWY" ],
     "MAL" : [ "25303", "35806" ],
-    "OTHER" : [ "4:http://www.j-haikyu.com/anime/", "9:356217", "9:356218", "10:18061", "23:animehaikyu_com" ]
+    "TWITTER" : [ "animehaikyu_com" ],
+    "WEBSITE" : [ "http://www.j-haikyu.com/anime/" ]
   },
   "start_date" : "2014-11-09",
   "tags" : {
@@ -393,6 +396,10 @@
     "language" : "JAPANESE",
     "title" : "ハイキュー!! (2014)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Haikyuu OVAs",
+    "type" : "SYNONYM"
   }, {
     "language" : "RUSSIAN",
     "title" : "Волейбол OVA-1",

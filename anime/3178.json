@@ -48,9 +48,10 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "235589" ],
+    "ANISON" : [ "10241" ],
     "ANN" : [ "8997" ],
-    "MAL" : [ "10755" ],
-    "OTHER" : [ "9:235589", "10:10241" ]
+    "MAL" : [ "10755" ]
   },
   "start_date" : "1981-05-05",
   "tags" : {
@@ -129,6 +130,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4919" : {
+      "info_box" : false,
+      "name" : "Sherlock Holmes",
+      "parent_tag_id" : 6397,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6005" : {
       "info_box" : false,
       "name" : "battle of wits",
@@ -175,6 +184,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "6397" : {
+      "info_box" : false,
+      "name" : "tales",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "7885" : {
       "info_box" : false,

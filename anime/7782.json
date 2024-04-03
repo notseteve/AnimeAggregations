@@ -41,15 +41,80 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "150839" ],
+    "ANIME_NFO" : [ "2538,sxoxvg" ],
+    "ANISON" : [ "11511" ],
     "ANN" : [ "9156" ],
-    "MAL" : [ "9291" ],
-    "OTHER" : [ "3:2538/sxoxvg", "9:150839", "10:11511" ]
+    "MAL" : [ "9291" ]
   },
   "start_date" : "1989-07-22",
   "tags" : {
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3055" : {
+      "info_box" : false,
+      "name" : "fairy tale",
+      "parent_tag_id" : 3876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3876" : {
+      "info_box" : false,
+      "name" : "folklore",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

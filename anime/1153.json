@@ -250,8 +250,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.25,
-      "total" : 2219
+      "rating" : 7.26,
+      "total" : 2220
     },
     "REVIEW" : {
       "rating" : 7.28,
@@ -259,19 +259,43 @@
     },
     "TEMPORARY" : {
       "rating" : 7.61,
-      "total" : 2233
+      "total" : 2234
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "241893" ],
+    "ANIME_NFO" : [ "1452,vpldos" ],
     "ANN" : [ "2391" ],
     "IMDB" : [ "tt0368667" ],
     "MAL" : [ "731" ],
-    "OTHER" : [ "3:1452/vpldos", "4:https://web.archive.org/web/20030902054619/http://www.bacfilms.com/site/interstella/", "6:Interstella_5555:_The_5tory_of_the_5ecret_5tar_5ystem", "7:インターステラ5555", "9:241893" ]
+    "WEBSITE" : [ "https://web.archive.org/web/20030902054619/http://www.bacfilms.com/site/interstella/" ],
+    "WIKIPEDIA_EN" : [ "Interstella_5555:_The_5tory_of_the_5ecret_5tar_5ystem" ],
+    "WIKIPEDIA_JP" : [ "インターステラ5555" ]
   },
   "similar" : {
+    "517" : {
+      "rating" : 3.333333333333333,
+      "total" : 3
+    },
+    "3146" : {
+      "rating" : 5.0,
+      "total" : 2
+    },
+    "6748" : {
+      "rating" : 5.0,
+      "total" : 2
+    },
     "7952" : {
       "rating" : 10.0,
       "total" : 6
+    },
+    "9169" : {
+      "rating" : 5.0,
+      "total" : 2
+    },
+    "12491" : {
+      "rating" : 5.0,
+      "total" : 2
     }
   },
   "start_date" : "2003-05-18",
@@ -318,6 +342,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -464,10 +495,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4278" : {
       "info_box" : false,
       "name" : "stand-alone movie",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

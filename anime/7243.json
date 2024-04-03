@@ -310,7 +310,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.63,
+        "rating" : 7.62,
         "total" : 17
       },
       "recap" : false,
@@ -490,15 +490,15 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.93,
-      "total" : 3483
+      "total" : 3494
     },
     "REVIEW" : {
       "rating" : 6.28,
       "total" : 8
     },
     "TEMPORARY" : {
-      "rating" : 8.19,
-      "total" : 3512
+      "rating" : 8.2,
+      "total" : 3523
     }
   },
   "related" : {
@@ -506,9 +506,18 @@
     "SEQUEL" : [ 16533 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "336384" ],
+    "ANIME_NFO" : [ "4653,jylldc" ],
+    "ANISON" : [ "12519" ],
     "ANN" : [ "11200" ],
+    "FUNIMATION" : [ "the-tatami-galaxy/" ],
+    "LAIN" : [ "mediadb/media/2574" ],
     "MAL" : [ "7785", "8985" ],
-    "OTHER" : [ "3:4653/jylldc", "4:http://yojouhan.noitamina.tv/", "6:The_Tatami_Galaxy", "7:四畳半神話大系", "8:1867", "9:336384", "10:12519", "11:mediadb/media/2574", "31:11704", "31:11994", "45:the-tatami-galaxy/" ]
+    "MEDIA_ART_DATABASE" : [ "11704", "11994" ],
+    "SYOBOI" : [ "1867" ],
+    "WEBSITE" : [ "http://yojouhan.noitamina.tv/" ],
+    "WIKIPEDIA_EN" : [ "The_Tatami_Galaxy" ],
+    "WIKIPEDIA_JP" : [ "四畳半神話大系" ]
   },
   "similar" : {
     "4121" : {
@@ -757,6 +766,22 @@
       "verified" : false,
       "weight" : 100
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2752" : {
       "info_box" : false,
       "name" : "tennis",
@@ -788,6 +813,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2791" : {
+      "info_box" : false,
+      "name" : "stereotypes",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2799" : {
       "info_box" : true,
@@ -876,6 +909,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3191" : {
       "info_box" : false,
       "name" : "hanami",
@@ -904,6 +945,22 @@
       "info_box" : true,
       "name" : "noitaminA",
       "parent_tag_id" : 6153,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3934" : {
+      "info_box" : false,
+      "name" : "non-linear",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3953" : {
+      "info_box" : false,
+      "name" : "in medias res",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -940,10 +997,58 @@
       "verified" : false,
       "weight" : 0
     },
+    "4480" : {
+      "info_box" : false,
+      "name" : "happy ending",
+      "parent_tag_id" : 6246,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4588" : {
+      "info_box" : false,
+      "name" : "fast-paced",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5417" : {
       "info_box" : false,
       "name" : "mind fuck",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5593" : {
+      "info_box" : false,
+      "name" : "branching story",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5697" : {
+      "info_box" : false,
+      "name" : "randomness",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5789" : {
+      "info_box" : false,
+      "name" : "back to square one",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5807" : {
+      "info_box" : false,
+      "name" : "cosmic reset",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -964,10 +1069,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6034" : {
       "info_box" : false,
       "name" : "Engrish",
       "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6055" : {
+      "info_box" : false,
+      "name" : "time loop",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1026,6 +1147,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6232" : {
       "info_box" : false,
       "name" : "character related tags which need deleting or merging",
@@ -1038,6 +1167,14 @@
       "info_box" : false,
       "name" : "tropes",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1065,6 +1202,10 @@
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
+    "title" : "The Tatami Galaxy",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "FRENCH",
     "title" : "The Tatami Galaxy",
     "type" : "OFFICIAL"
   }, {

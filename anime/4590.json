@@ -129,25 +129,45 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.02,
-      "total" : 288
+      "total" : 290
     },
     "TEMPORARY" : {
-      "rating" : 6.28,
-      "total" : 290
+      "rating" : 6.27,
+      "total" : 292
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "325868" ],
+    "ANIME_NFO" : [ "3754,bidngl" ],
+    "ANISON" : [ "8672" ],
     "ANN" : [ "6581" ],
     "IMDB" : [ "tt1190545" ],
     "MAL" : [ "2950" ],
-    "OTHER" : [ "3:3754/bidngl", "6:Dōbutsu_no_Mori_(film)", "7:劇場版_どうぶつの森", "8:1476", "9:325868", "10:8672" ]
+    "SYOBOI" : [ "1476" ],
+    "WIKIPEDIA_EN" : [ "Dōbutsu_no_Mori_(film)" ],
+    "WIKIPEDIA_JP" : [ "劇場版_どうぶつの森" ]
   },
   "start_date" : "2006-12-16",
   "tags" : {
+    "7" : {
+      "info_box" : true,
+      "name" : "juujin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "1846" : {
       "info_box" : true,
       "name" : "kodomo",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -196,6 +216,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2850" : {
+      "info_box" : false,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2853" : {
       "info_box" : false,
       "name" : "comedy",
@@ -212,6 +240,46 @@
       "verified" : false,
       "weight" : 400
     },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4259" : {
+      "info_box" : false,
+      "name" : "animal world",
+      "parent_tag_id" : 2857,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4480" : {
+      "info_box" : false,
+      "name" : "happy ending",
+      "parent_tag_id" : 6246,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
     "4498" : {
       "info_box" : false,
       "name" : "heart-warming",
@@ -220,9 +288,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

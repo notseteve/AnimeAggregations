@@ -247,7 +247,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.12,
+        "rating" : 5.13,
         "total" : 9
       },
       "recap" : false,
@@ -322,7 +322,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.19,
+        "rating" : 3.2,
         "total" : 9
       },
       "recap" : false,
@@ -584,8 +584,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.31,
-      "total" : 1636
+      "rating" : 4.3,
+      "total" : 1641
     },
     "REVIEW" : {
       "rating" : 5.33,
@@ -593,13 +593,20 @@
     },
     "TEMPORARY" : {
       "rating" : 6.35,
-      "total" : 1645
+      "total" : 1650
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "347838" ],
+    "ANISON" : [ "16707" ],
     "ANN" : [ "15508" ],
+    "FUNIMATION" : [ "no-rin" ],
     "MAL" : [ "18095" ],
-    "OTHER" : [ "4:http://www.no-rin.tv/", "6:No-Rin", "7:のうりん", "8:3248", "9:347838", "10:16707", "23:norin_anime", "45:no-rin" ]
+    "SYOBOI" : [ "3248" ],
+    "TWITTER" : [ "norin_anime" ],
+    "WEBSITE" : [ "http://www.no-rin.tv/" ],
+    "WIKIPEDIA_EN" : [ "No-Rin" ],
+    "WIKIPEDIA_JP" : [ "のうりん" ]
   },
   "similar" : {
     "1726" : {
@@ -627,8 +634,8 @@
       "total" : 20
     },
     "17290" : {
-      "rating" : 10.0,
-      "total" : 1
+      "rating" : 5.0,
+      "total" : 2
     }
   },
   "start_date" : "2014-01-11",
@@ -928,6 +935,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "4164" : {
+      "info_box" : false,
+      "name" : "promotional",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4344" : {
+      "info_box" : false,
+      "name" : "motivational anime",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4386" : {
       "info_box" : false,
       "name" : "eating Pocky",
@@ -980,6 +1003,14 @@
       "info_box" : false,
       "name" : "Engrish",
       "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6075" : {
+      "info_box" : false,
+      "name" : "educational",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

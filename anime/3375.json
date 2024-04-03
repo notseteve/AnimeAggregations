@@ -604,15 +604,33 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "235175" ],
+    "ANISON" : [ "5269" ],
     "ANN" : [ "1076" ],
     "MAL" : [ "8812" ],
-    "OTHER" : [ "6:Alice_SOS", "7:アリスSOS", "9:235175", "10:5269" ]
+    "WIKIPEDIA_EN" : [ "Alice_SOS" ],
+    "WIKIPEDIA_JP" : [ "アリスSOS" ]
   },
   "start_date" : "1998-04-06",
   "tags" : {
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -629,6 +647,14 @@
       "info_box" : false,
       "name" : "damsel in distress",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

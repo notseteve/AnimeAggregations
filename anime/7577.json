@@ -121,21 +121,23 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.06,
-      "total" : 862
+      "total" : 863
     },
     "TEMPORARY" : {
       "rating" : 6.14,
-      "total" : 880
+      "total" : 881
     }
   },
   "related" : {
     "ALTERNATIVE_SETTING" : [ 6438 ]
   },
   "resources" : {
+    "ANIME_NFO" : [ "4776,tldbpd" ],
+    "ANISON" : [ "12869" ],
     "ANN" : [ "11802" ],
     "MAL" : [ "8918" ],
-    "OTHER" : [ "3:4776/tldbpd", "4:http://www.el-soft.jp/plv_01/", "4:http://www.el-soft.jp/plv_02/", "10:12869" ],
-    "VNDB" : [ "v765" ]
+    "VNDB" : [ "v765" ],
+    "WEBSITE" : [ "http://www.el-soft.jp/plv_01/", "http://www.el-soft.jp/plv_02/" ]
   },
   "similar" : {
     "10893" : {
@@ -440,6 +442,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -467,6 +476,14 @@
       "info_box" : false,
       "name" : "unexpected inheritance",
       "parent_tag_id" : 6243,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6349" : {
+      "info_box" : false,
+      "name" : "multi-segment episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

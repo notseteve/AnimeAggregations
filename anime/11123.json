@@ -709,7 +709,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 8.31,
+        "rating" : 8.32,
         "total" : 32
       },
       "recap" : false,
@@ -777,7 +777,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 9.68,
+        "rating" : 9.69,
         "total" : 36
       },
       "recap" : false,
@@ -835,7 +835,7 @@
       "length" : 15,
       "number" : 2,
       "rating" : {
-        "rating" : 6.67,
+        "rating" : 6.68,
         "total" : 14
       },
       "recap" : false,
@@ -859,7 +859,7 @@
       "length" : 15,
       "number" : 3,
       "rating" : {
-        "rating" : 4.8,
+        "rating" : 4.81,
         "total" : 13
       },
       "recap" : false,
@@ -883,7 +883,7 @@
       "length" : 15,
       "number" : 4,
       "rating" : {
-        "rating" : 6.37,
+        "rating" : 6.38,
         "total" : 14
       },
       "recap" : false,
@@ -1245,7 +1245,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 8.05,
+        "rating" : 8.06,
         "total" : 15
       },
       "recap" : false,
@@ -1442,8 +1442,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.72,
-      "total" : 8663
+      "rating" : 8.71,
+      "total" : 8697
     },
     "REVIEW" : {
       "rating" : 5.9,
@@ -1451,7 +1451,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.33,
-      "total" : 8748
+      "total" : 8781
     }
   },
   "related" : {
@@ -1459,15 +1459,24 @@
     "SEQUEL" : [ 12430 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "352273" ],
+    "AMAZON" : [ "B0722CW61V" ],
+    "ANISON" : [ "18535" ],
     "ANN" : [ "16840", "17988" ],
     "CRUNCHY_ROLL" : [ "G63K98PZ6" ],
+    "FUNIMATION" : [ "one-punch-man/" ],
     "MAL" : [ "30276", "31772" ],
-    "OTHER" : [ "4:http://onepunchman-anime.net/", "4:http://www.tv-tokyo.co.jp/anime/onepunchman/", "6:One-Punch_Man", "7:ワンパンマン", "8:3915", "9:352273", "10:18535", "26:watch?v=6Bdb1V0Io_g", "26:watch?v=O7QzR07W0c0", "26:watch?v=QeaFvbUi7mU", "26:watch?v=RzmFKUDOUgw", "26:watch?v=YDsi15x281g", "26:watch?v=myLdOyuPeQM", "26:watch?v=tMblzsXwAKo", "32:B0722CW61V", "41:80117291", "45:one-punch-man/" ]
+    "NETFLIX" : [ "80117291" ],
+    "SYOBOI" : [ "3915" ],
+    "WEBSITE" : [ "http://onepunchman-anime.net/", "http://www.tv-tokyo.co.jp/anime/onepunchman/" ],
+    "WIKIPEDIA_EN" : [ "One-Punch_Man" ],
+    "WIKIPEDIA_JP" : [ "ワンパンマン" ],
+    "YOUTUBE" : [ "watch?v=6Bdb1V0Io_g", "watch?v=O7QzR07W0c0", "watch?v=QeaFvbUi7mU", "watch?v=RzmFKUDOUgw", "watch?v=YDsi15x281g", "watch?v=myLdOyuPeQM", "watch?v=tMblzsXwAKo" ]
   },
   "similar" : {
     "3468" : {
-      "rating" : 5.0,
-      "total" : 18
+      "rating" : 4.7368421052631575,
+      "total" : 19
     },
     "4575" : {
       "rating" : 1.0,
@@ -1524,6 +1533,14 @@
   },
   "start_date" : "2015-10-05",
   "tags" : {
+    "1049" : {
+      "info_box" : false,
+      "name" : "bicycling",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "1802" : {
       "info_box" : true,
       "name" : "seinen",
@@ -1788,6 +1805,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2907" : {
       "info_box" : false,

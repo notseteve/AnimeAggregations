@@ -2,8 +2,24 @@
   "anime_id" : 17320,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 139407,
+      "name" : "Alize",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139406,
+      "name" : "Amiris",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 138269,
       "name" : "Clope",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139404,
+      "name" : "Guild Master (Wolf)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139410,
+      "name" : "Isaac",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137993,
@@ -12,6 +28,10 @@
     }, {
       "character_id" : 138267,
       "name" : "Laura",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139408,
+      "name" : "Lilian",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137992,
@@ -29,6 +49,18 @@
       "character_id" : 138268,
       "name" : "Raiz",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 139405,
+      "name" : "Ryuntus",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139412,
+      "name" : "Sonchou no Tsuma",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139411,
+      "name" : "Village Kid",
+      "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 133438,
@@ -36,6 +68,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 139409,
+      "name" : "Edel",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 133439,
       "name" : "Lorraine Vivie",
       "type" : "CHARACTER"
@@ -100,7 +136,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.5,
+        "rating" : 7.49,
         "total" : 9
       },
       "recap" : false,
@@ -128,7 +164,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.76,
+        "rating" : 7.74,
         "total" : 5
       },
       "recap" : false,
@@ -156,7 +192,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.91,
+        "rating" : 6.87,
         "total" : 5
       },
       "recap" : false,
@@ -184,7 +220,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.16,
+        "rating" : 6.11,
         "total" : 4
       },
       "recap" : false,
@@ -212,7 +248,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.52,
+        "rating" : 5.47,
         "total" : 4
       },
       "recap" : false,
@@ -240,7 +276,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.07,
+        "rating" : 7.05,
         "total" : 4
       },
       "recap" : false,
@@ -268,8 +304,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.1,
-        "total" : 3
+        "rating" : 6.15,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -296,8 +332,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.8,
-        "total" : 2
+        "rating" : 6.15,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -319,16 +355,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-03-01",
+      "description" : "Rentt heads off to a dangerous swamp in search of a medicinal herb for a group of young orphans.\nSource: crunchyroll",
       "episode_id" : 277491,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 5.7,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UD1NV3" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Dragonblood Flower"
       }, {
+        "language" : "FRENCH",
+        "title" : "La fleur de sang de dragon"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Ryuuketsu Hana"
+        "title" : "Ryuuketsuka"
       }, {
         "language" : "JAPANESE",
         "title" : "竜血花"
@@ -336,24 +383,58 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-03-08",
+      "description" : "Rentt is given a job by a secretive and important family that has great influence over the city of Maalt.\nSource: crunchyroll",
       "episode_id" : 277492,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 6.82,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9U3KGD9" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "A Strange Man and a Strange Job"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kimyou na Otoko to Kimyou na Irai"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Un homme mystérieux et une curieuse demande"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "奇妙な男と奇妙な依頼"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-03-15",
+      "description" : "Rentt makes his way through a complex maze, and its owner gives him his choice of magic item as a reward.\nSource: crunchyroll",
       "episode_id" : 277493,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 4.52,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUXPEGJ" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Le labyrinthe"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Teien Meikyuu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "The Garden Labyrinth"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "庭園迷宮"
       } ],
       "type" : "REGULAR"
     }, {
@@ -364,36 +445,48 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Rentt Faina"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Rentt Faina"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "レント・ファイナ"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.75,
-      "total" : 87
+      "rating" : 5.66,
+      "total" : 96
     },
     "TEMPORARY" : {
-      "rating" : 6.84,
-      "total" : 89
+      "rating" : 6.77,
+      "total" : 98
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "390171" ],
+    "ANISON" : [ "25271" ],
     "ANN" : [ "25566" ],
     "CRUNCHY_ROLL" : [ "GW4HM7WZQ" ],
     "MAL" : [ "51648" ],
-    "OTHER" : [ "4:https://www.nozomanufushi-anime.jp/", "6:The_Unwanted_Undead_Adventurer", "7:望まぬ不死の冒険者", "8:6919", "9:390171", "10:25271", "23:nozomanufushiPR" ],
-    "TMDB" : [ "tv/197848" ]
+    "SYOBOI" : [ "6919" ],
+    "TMDB" : [ "tv/197848" ],
+    "TWITTER" : [ "nozomanufushiPR" ],
+    "WEBSITE" : [ "https://www.nozomanufushi-anime.jp/" ],
+    "WIKIPEDIA_EN" : [ "The_Unwanted_Undead_Adventurer" ],
+    "WIKIPEDIA_JP" : [ "望まぬ不死の冒険者" ]
   },
   "similar" : {
     "10816" : {
-      "rating" : 5.0,
-      "total" : 2
+      "rating" : 6.666666666666666,
+      "total" : 3
     },
     "16262" : {
       "rating" : 10.0,
-      "total" : 3
+      "total" : 6
     }
   },
   "start_date" : "2024-01-05",

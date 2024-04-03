@@ -18,6 +18,10 @@
       "name" : "Shinpu",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 138960,
+      "name" : "Yosei",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 91395,
       "name" : "Zack",
       "type" : "CHARACTER"
@@ -120,7 +124,7 @@
       "length" : 20,
       "number" : 3,
       "rating" : {
-        "rating" : 5.79,
+        "rating" : 5.8,
         "total" : 4
       },
       "recap" : false,
@@ -139,17 +143,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.18,
-      "total" : 195
+      "rating" : 5.2,
+      "total" : 196
     },
     "TEMPORARY" : {
       "rating" : 6.16,
-      "total" : 198
+      "total" : 199
     }
   },
   "resources" : {
     "MAL" : [ "35446" ],
-    "OTHER" : [ "4:http://www.km-produce.com/works/kmeg-018", "4:http://www.km-produce.com/works/kmeg-019", "4:http://www.km-produce.com/works/kmeg-020" ]
+    "WEBSITE" : [ "http://www.km-produce.com/works/kmeg-018", "http://www.km-produce.com/works/kmeg-019", "http://www.km-produce.com/works/kmeg-020" ]
   },
   "start_date" : "2017-05-12",
   "tags" : {
@@ -157,6 +161,54 @@
       "info_box" : false,
       "name" : "lingerie",
       "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "780" : {
+      "info_box" : false,
+      "name" : "fairy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "893" : {
+      "info_box" : false,
+      "name" : "dominatrix",
+      "parent_tag_id" : 2729,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1760" : {
+      "info_box" : false,
+      "name" : "bishounen",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1864" : {
+      "info_box" : false,
+      "name" : "extrasensory perception",
+      "parent_tag_id" : 2623,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2008" : {
+      "info_box" : true,
+      "name" : "small breasts",
+      "parent_tag_id" : 2891,
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
@@ -177,6 +229,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2391" : {
+      "info_box" : false,
+      "name" : "bishoujo",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2429" : {
       "info_box" : true,
       "name" : "futanari",
@@ -185,9 +245,32 @@
       "verified" : false,
       "weight" : 400
     },
+    "2535" : {
+      "info_box" : false,
+      "name" : "ghost",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2566" : {
+      "info_box" : false,
+      "name" : "loli",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -220,9 +303,32 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -235,6 +341,38 @@
       "verified" : false,
       "weight" : 0
     },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2641" : {
+      "info_box" : true,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "2646" : {
       "info_box" : false,
       "name" : "demon",
@@ -243,10 +381,50 @@
       "verified" : false,
       "weight" : 200
     },
+    "2649" : {
+      "info_box" : false,
+      "name" : "dark fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2693" : {
+      "info_box" : false,
+      "name" : "handjob",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2696" : {
+      "info_box" : false,
+      "name" : "threesome",
+      "parent_tag_id" : 7957,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2698" : {
+      "info_box" : false,
+      "name" : "pantyjob",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2699" : {
       "info_box" : false,
       "name" : "sixty-nine",
       "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2704" : {
+      "info_box" : false,
+      "name" : "cum play",
+      "parent_tag_id" : 2848,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -275,6 +453,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2710" : {
+      "info_box" : false,
+      "name" : "squirting",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2713" : {
       "info_box" : false,
       "name" : "oral",
@@ -291,6 +477,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "2718" : {
+      "info_box" : false,
+      "name" : "male rape victim",
+      "parent_tag_id" : 2715,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2722" : {
+      "info_box" : false,
+      "name" : "doggy style",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2725" : {
       "info_box" : false,
       "name" : "ahegao",
@@ -298,6 +500,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2729" : {
+      "info_box" : false,
+      "name" : "BDSM",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2732" : {
+      "info_box" : false,
+      "name" : "female rapes female",
+      "parent_tag_id" : 2715,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2733" : {
       "info_box" : false,
@@ -339,6 +557,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2774" : {
+      "info_box" : false,
+      "name" : "spellcasting",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -346,6 +572,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2816" : {
+      "info_box" : false,
+      "name" : "sexual fantasies",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "2842" : {
       "info_box" : false,
@@ -443,10 +677,50 @@
       "verified" : false,
       "weight" : 200
     },
+    "2914" : {
+      "info_box" : false,
+      "name" : "bukkake",
+      "parent_tag_id" : 2704,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2918" : {
       "info_box" : false,
       "name" : "cunnilingus",
       "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2921" : {
+      "info_box" : false,
+      "name" : "throat fucking",
+      "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2983" : {
+      "info_box" : false,
+      "name" : "body sharing",
+      "parent_tag_id" : 6347,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3395" : {
+      "info_box" : false,
+      "name" : "promise",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -467,6 +741,70 @@
       "verified" : false,
       "weight" : 0
     },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3854" : {
+      "info_box" : false,
+      "name" : "breast expansion",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3953" : {
+      "info_box" : false,
+      "name" : "in medias res",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4046" : {
+      "info_box" : false,
+      "name" : "foursome",
+      "parent_tag_id" : 7957,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4327" : {
+      "info_box" : false,
+      "name" : "be careful what you wish for",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5790" : {
+      "info_box" : false,
+      "name" : "family without mother",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5993" : {
       "info_box" : false,
       "name" : "black humour",
@@ -474,6 +812,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6019" : {
+      "info_box" : false,
+      "name" : "brainwashing",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6021" : {
       "info_box" : false,
@@ -493,6 +847,30 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6218" : {
+      "info_box" : false,
+      "name" : "gokkun",
+      "parent_tag_id" : 2704,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -521,6 +899,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6573" : {
+      "info_box" : false,
+      "name" : "MMF threesome",
+      "parent_tag_id" : 2696,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7050" : {
       "info_box" : false,
       "name" : "speculative fiction",
@@ -537,6 +923,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "7221" : {
+      "info_box" : false,
+      "name" : "psychological sexual abuse",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "7420" : {
+      "info_box" : false,
+      "name" : "spitroast",
+      "parent_tag_id" : 2696,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7871" : {
+      "info_box" : false,
+      "name" : "medium breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
@@ -549,6 +959,22 @@
       "info_box" : true,
       "name" : "large breasts",
       "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "7957" : {
+      "info_box" : false,
+      "name" : "group sex",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8038" : {
+      "info_box" : false,
+      "name" : "nipple play",
+      "parent_tag_id" : 2848,
       "spoiler" : false,
       "verified" : false,
       "weight" : 400

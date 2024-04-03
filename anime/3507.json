@@ -147,7 +147,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.63,
+        "rating" : 5.62,
         "total" : 1
       },
       "recap" : false,
@@ -178,7 +178,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.63,
+        "rating" : 5.62,
         "total" : 1
       },
       "recap" : false,
@@ -209,7 +209,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.63,
+        "rating" : 5.62,
         "total" : 1
       },
       "recap" : false,
@@ -240,7 +240,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.63,
+        "rating" : 5.62,
         "total" : 1
       },
       "recap" : false,
@@ -271,7 +271,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.63,
+        "rating" : 5.62,
         "total" : 1
       },
       "recap" : false,
@@ -1555,7 +1555,7 @@
       "length" : 1,
       "number" : 1,
       "rating" : {
-        "rating" : 4.92,
+        "rating" : 4.93,
         "total" : 1
       },
       "recap" : false,
@@ -1578,19 +1578,27 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.3,
-      "total" : 370
+      "rating" : 4.29,
+      "total" : 371
     },
     "TEMPORARY" : {
-      "rating" : 6.24,
-      "total" : 376
+      "rating" : 6.23,
+      "total" : 377
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "89377" ],
+    "ANIME_NFO" : [ "2021,pcidkh" ],
+    "ANISON" : [ "1112" ],
     "ANN" : [ "1452" ],
     "CRUNCHY_ROLL" : [ "GR3VK50W6" ],
+    "LAIN" : [ "mediadb/media/1726" ],
     "MAL" : [ "1448" ],
-    "OTHER" : [ "3:2021/pcidkh", "6:Beast_King_GoLion", "7:百獣王ゴライオン", "9:89377", "10:1112", "11:mediadb/media/1726", "15:1981/golion", "19:백수왕_고라이온", "20:聖戰士_(百獸王)" ]
+    "MARUMEGANEL" : [ "1981/golion" ],
+    "WIKIPEDIA_EN" : [ "Beast_King_GoLion" ],
+    "WIKIPEDIA_JP" : [ "百獣王ゴライオン" ],
+    "WIKIPEDIA_KO" : [ "백수왕_고라이온" ],
+    "WIKIPEDIA_ZH" : [ "聖戰士_(百獸王)" ]
   },
   "start_date" : "1981-03-04",
   "tags" : {
@@ -1780,6 +1788,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4096" : {
       "info_box" : false,
       "name" : "gore",
@@ -1792,6 +1808,14 @@
       "info_box" : false,
       "name" : "daikaijuu",
       "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

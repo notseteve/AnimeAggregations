@@ -186,7 +186,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.54,
+        "rating" : 3.53,
         "total" : 6
       },
       "recap" : false,
@@ -211,7 +211,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.22,
+        "rating" : 4.21,
         "total" : 4
       },
       "recap" : false,
@@ -472,10 +472,16 @@
     "ALTERNATIVE_SETTING" : [ 2874 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "352925" ],
+    "AMAZON" : [ "B0184CQC5C" ],
+    "ANISON" : [ "18285" ],
     "ANN" : [ "16593" ],
     "CRUNCHY_ROLL" : [ "GRVD9Z47R" ],
     "MAL" : [ "28619" ],
-    "OTHER" : [ "4:http://www.rampokitan.com/", "6:Ranpo_Kitan:_Game_of_Laplace", "7:乱歩奇譚_Game_of_Laplace", "8:3829", "9:352925", "10:18285", "32:B0184CQC5C" ]
+    "SYOBOI" : [ "3829" ],
+    "WEBSITE" : [ "http://www.rampokitan.com/" ],
+    "WIKIPEDIA_EN" : [ "Ranpo_Kitan:_Game_of_Laplace" ],
+    "WIKIPEDIA_JP" : [ "乱歩奇譚_Game_of_Laplace" ]
   },
   "similar" : {
     "7268" : {
@@ -770,6 +776,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4919" : {
+      "info_box" : false,
+      "name" : "Sherlock Holmes",
+      "parent_tag_id" : 6397,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5993" : {
       "info_box" : false,
       "name" : "black humour",
@@ -811,6 +825,14 @@
     "6242" : {
       "info_box" : false,
       "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6397" : {
+      "info_box" : false,
+      "name" : "tales",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,

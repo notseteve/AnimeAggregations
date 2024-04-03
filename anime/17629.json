@@ -154,7 +154,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.02,
+        "rating" : 5.03,
         "total" : 4
       },
       "recap" : false,
@@ -179,7 +179,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.02,
+        "rating" : 5.03,
         "total" : 4
       },
       "recap" : false,
@@ -486,19 +486,31 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.35,
+        "rating" : 2.36,
         "total" : 1
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Opening"
+        "title" : "Opening 1a"
       } ],
       "type" : "CREDITS"
     }, {
-      "episode_id" : 277185,
+      "air_date" : "2023-07-15",
+      "episode_id" : 278280,
       "length" : 2,
       "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening 1b"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2023-07-22",
+      "episode_id" : 277185,
+      "length" : 2,
+      "number" : 3,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -506,9 +518,10 @@
       } ],
       "type" : "CREDITS"
     }, {
+      "air_date" : "2023-09-02",
       "episode_id" : 277186,
       "length" : 2,
-      "number" : 3,
+      "number" : 4,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -519,22 +532,29 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.77,
-      "total" : 241
+      "rating" : 4.81,
+      "total" : 252
     },
     "TEMPORARY" : {
       "rating" : 6.49,
-      "total" : 242
+      "total" : 254
     }
   },
   "related" : {
     "PREQUEL" : [ 15743 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "387156" ],
+    "ANISON" : [ "22839" ],
     "ANN" : [ "26340" ],
     "CRUNCHY_ROLL" : [ "G6QWV3976" ],
     "MAL" : [ "53050" ],
-    "OTHER" : [ "4:https://kanokari-official.com/", "6:Rent-A-Girlfriend", "7:彼女、お借りします", "8:6756", "9:387156", "10:22839", "23:kanokari_anime", "26:watch?v=NK5k5i5BTqU", "26:watch?v=azzkfgKqmpo", "26:watch?v=ioydFHHzxuc", "26:watch?v=pHXJO-V6JH8" ]
+    "SYOBOI" : [ "6756" ],
+    "TWITTER" : [ "kanokari_anime" ],
+    "WEBSITE" : [ "https://kanokari-official.com/" ],
+    "WIKIPEDIA_EN" : [ "Rent-A-Girlfriend" ],
+    "WIKIPEDIA_JP" : [ "彼女、お借りします" ],
+    "YOUTUBE" : [ "watch?v=NK5k5i5BTqU", "watch?v=azzkfgKqmpo", "watch?v=ioydFHHzxuc", "watch?v=pHXJO-V6JH8" ]
   },
   "start_date" : "2023-07-08",
   "tags" : {

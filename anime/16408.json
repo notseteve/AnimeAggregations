@@ -142,20 +142,27 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.91,
-      "total" : 60
+      "rating" : 5.9,
+      "total" : 71
     },
     "TEMPORARY" : {
-      "rating" : 6.66,
-      "total" : 60
+      "rating" : 6.71,
+      "total" : 71
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "377677" ],
+    "ANISON" : [ "25063" ],
     "ANN" : [ "24483" ],
     "IMDB" : [ "tt14935892" ],
     "MAL" : [ "49303" ],
-    "OTHER" : [ "4:https://maboroshi.movie/", "6:Alice_to_Therese_no_Maboroshi_Kōjō", "7:アリスとテレスのまぼろし工場", "9:377677", "10:25063", "23:maboroshi_2023", "26:watch?v=lEJToD1Ji8U", "41:81450803" ],
-    "TMDB" : [ "movie/845387" ]
+    "NETFLIX" : [ "81450803" ],
+    "TMDB" : [ "movie/845387" ],
+    "TWITTER" : [ "maboroshi_2023" ],
+    "WEBSITE" : [ "https://maboroshi.movie/" ],
+    "WIKIPEDIA_EN" : [ "Alice_to_Therese_no_Maboroshi_Kōjō" ],
+    "WIKIPEDIA_JP" : [ "アリスとテレスのまぼろし工場" ],
+    "YOUTUBE" : [ "watch?v=lEJToD1Ji8U" ]
   },
   "start_date" : "2023-09-15",
   "tags" : {
@@ -547,12 +554,52 @@
     "title" : "Maboroshi",
     "type" : "OFFICIAL"
   }, {
+    "language" : "HUNGARIAN",
+    "title" : "Maboroshi – Az illúziók gyára",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CZECH",
+    "title" : "Maboroši: Továrna na iluze",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "POLISH",
     "title" : "maboroshi",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "maboroshi：愛麗絲與特蕾絲的虛幻工廠",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "maboroshi：爱丽丝和特蕾丝的梦幻工厂",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "RUSSIAN",
+    "title" : "Мабороси",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "UKRAINIAN",
+    "title" : "мабороші",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "HEBREW",
+    "title" : "מאבורושי",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "THAI",
+    "title" : "มาโบโรชิ",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ARABIC",
+    "title" : "‎مابوروشي",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "アリスとテレスのまぼろし工場",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "마보로시",
     "type" : "OFFICIAL"
   } ],
   "type" : "MOVIE",

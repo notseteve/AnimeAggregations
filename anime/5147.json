@@ -536,8 +536,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.8,
-      "total" : 2532
+      "rating" : 5.79,
+      "total" : 2534
     },
     "REVIEW" : {
       "rating" : 7.27,
@@ -545,13 +545,21 @@
     },
     "TEMPORARY" : {
       "rating" : 7.34,
-      "total" : 2558
+      "total" : 2560
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "327717" ],
+    "ANIME_NFO" : [ "4009,daghek" ],
+    "ANISON" : [ "9083" ],
     "ANN" : [ "7802" ],
+    "LAIN" : [ "mediadb/media/1770" ],
     "MAL" : [ "2602" ],
-    "OTHER" : [ "3:4009/daghek", "4:http://www.maql.co.jp/special/umisho/index2.htm", "6:Kenkō_Zenrakei_Suieibu_Umishō", "7:ケンコー全裸系水泳部_ウミショー", "8:1173", "9:327717", "10:9083", "11:mediadb/media/1770", "15:2007/umisho" ]
+    "MARUMEGANEL" : [ "2007/umisho" ],
+    "SYOBOI" : [ "1173" ],
+    "WEBSITE" : [ "http://www.maql.co.jp/special/umisho/index2.htm" ],
+    "WIKIPEDIA_EN" : [ "Kenkō_Zenrakei_Suieibu_Umishō" ],
+    "WIKIPEDIA_JP" : [ "ケンコー全裸系水泳部_ウミショー" ]
   },
   "similar" : {
     "5356" : {
@@ -992,6 +1000,14 @@
       "info_box" : false,
       "name" : "excessive censoring",
       "parent_tag_id" : 3842,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4164" : {
+      "info_box" : false,
+      "name" : "promotional",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

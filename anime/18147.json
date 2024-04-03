@@ -52,13 +52,47 @@
   "resources" : {
     "ANN" : [ "29306" ],
     "MAL" : [ "56189" ],
-    "OTHER" : [ "4:https://grendizer-official.net/", "6:Grendizer", "7:UFOロボ_グレンダイザー", "23:grendizer_anime" ]
+    "TWITTER" : [ "grendizer_anime" ],
+    "WEBSITE" : [ "https://grendizer-official.net/" ],
+    "WIKIPEDIA_EN" : [ "Grendizer" ],
+    "WIKIPEDIA_JP" : [ "UFOロボ_グレンダイザー" ]
   },
   "start_date" : "2024",
   "tags" : {
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2638" : {
+      "info_box" : true,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

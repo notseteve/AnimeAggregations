@@ -101,12 +101,26 @@
       "type" : "ANIMATION_CHARACTER_DESIGN"
     } ]
   },
-  "description" : "Note: The series will be split into 3 parts for theatrical pre-screening in Japan beginning in October 2023. The TV broadcast will start in April 2024.",
+  "description" : "Note: The series will be split into 3 parts for theatrical pre-screening in Japan beginning in October 2023. The TV broadcast started on 6 April 2024.",
   "end_date" : "2024-01-05",
+  "ratings" : {
+    "TEMPORARY" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
+  },
+  "related" : {
+    "SEQUEL" : [ 18523 ]
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "388589" ],
     "ANN" : [ "27521" ],
     "MAL" : [ "54758" ],
-    "OTHER" : [ "4:https://shinycolors-anime.idolmaster-official.jp/", "6:The_Idolmaster_Shiny_Colors", "7:アイドルマスター_シャイニーカラーズ", "9:388589", "23:shinyc_official" ]
+    "SYOBOI" : [ "7012" ],
+    "TWITTER" : [ "shinyc_official" ],
+    "WEBSITE" : [ "https://shinycolors-anime.idolmaster-official.jp/" ],
+    "WIKIPEDIA_EN" : [ "The_Idolmaster_Shiny_Colors" ],
+    "WIKIPEDIA_JP" : [ "アイドルマスター_シャイニーカラーズ" ]
   },
   "start_date" : "2023-10-27",
   "tags" : {
@@ -133,6 +147,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "THE IDOLM@STER SHINY COLORS",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "The Idolmaster Shiny Colors",
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",

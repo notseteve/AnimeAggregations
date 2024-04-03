@@ -235,7 +235,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.21,
+        "rating" : 3.17,
         "total" : 1
       },
       "recap" : false,
@@ -682,11 +682,19 @@
     "SUMMARY" : [ 13484 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "356141" ],
+    "AMAZON" : [ "B079FQVMZL" ],
+    "ANISON" : [ "19547" ],
     "ANN" : [ "18182" ],
     "CRUNCHY_ROLL" : [ "GY5VEEK5Y" ],
+    "FUNIMATION" : [ "touken-ranbu-hanamaru" ],
     "IMDB" : [ "tt8424906" ],
     "MAL" : [ "33023" ],
-    "OTHER" : [ "4:http://touken-hanamaru.jp/", "6:Touken_Ranbu:_Hanamaru", "7:刀剣乱舞", "8:4293", "9:356141", "10:19547", "23:touken_hanamaru", "32:B079FQVMZL", "45:touken-ranbu-hanamaru" ]
+    "SYOBOI" : [ "4293" ],
+    "TWITTER" : [ "touken_hanamaru" ],
+    "WEBSITE" : [ "http://touken-hanamaru.jp/" ],
+    "WIKIPEDIA_EN" : [ "Touken_Ranbu:_Hanamaru" ],
+    "WIKIPEDIA_JP" : [ "刀剣乱舞" ]
   },
   "similar" : {
     "14256" : {
@@ -703,6 +711,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "1077" : {
       "info_box" : true,

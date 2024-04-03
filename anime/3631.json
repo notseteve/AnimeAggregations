@@ -413,7 +413,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.76,
+      "rating" : 3.75,
       "total" : 11
     },
     "TEMPORARY" : {
@@ -421,10 +421,16 @@
       "total" : 11
     }
   },
+  "related" : {
+    "ALTERNATIVE_SETTING" : [ 3669 ]
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "89081" ],
+    "ANISON" : [ "691" ],
     "ANN" : [ "4739" ],
     "MAL" : [ "3451" ],
-    "OTHER" : [ "6:The_Wonderful_Galaxy_of_Oz", "7:スペースオズの冒険", "9:89081", "10:691" ]
+    "WIKIPEDIA_EN" : [ "The_Wonderful_Galaxy_of_Oz" ],
+    "WIKIPEDIA_JP" : [ "スペースオズの冒険" ]
   },
   "start_date" : "1992-10-05",
   "tags" : {
@@ -435,9 +441,32 @@
       "verified" : false,
       "weight" : 0
     },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -450,6 +479,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -461,6 +506,14 @@
       "info_box" : false,
       "name" : "tales",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6446" : {
+      "info_box" : true,
+      "name" : "television programme",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

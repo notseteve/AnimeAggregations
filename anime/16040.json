@@ -90,16 +90,27 @@
         "title" : "Complete Movie"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "episode_id" : 278902,
+      "length" : 10,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Toki no Meikyuu Theater Short"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.84,
-      "total" : 50
+      "rating" : 5.88,
+      "total" : 51
     },
     "TEMPORARY" : {
-      "rating" : 6.22,
-      "total" : 50
+      "rating" : 6.21,
+      "total" : 51
     }
   },
   "related" : {
@@ -107,9 +118,13 @@
     "PREQUEL" : [ 7959 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "375810" ],
+    "ANISON" : [ "23871" ],
     "ANN" : [ "24491" ],
+    "IMDB" : [ "tt13997618" ],
     "MAL" : [ "47409" ],
-    "OTHER" : [ "4:https://macross.jp/special/fmovie/", "7:劇場版_マクロスF", "9:375810", "10:23871" ]
+    "WEBSITE" : [ "https://macross.jp/special/fmovie/" ],
+    "WIKIPEDIA_JP" : [ "劇場版_マクロスF" ]
   },
   "start_date" : "2021-10-08",
   "tags" : {

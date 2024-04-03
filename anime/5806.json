@@ -39,8 +39,10 @@
     "OTHER" : [ 4409 ]
   },
   "resources" : {
-    "ANN" : [ "20519" ],
-    "OTHER" : [ "3:3125/sfrofr", "9:150714", "10:3291" ]
+    "ALL_CINEMA" : [ "150714" ],
+    "ANIME_NFO" : [ "3125,sfrofr" ],
+    "ANISON" : [ "3291" ],
+    "ANN" : [ "20519" ]
   },
   "start_date" : "1989-03-11",
   "tags" : {
@@ -51,10 +53,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3955" : {
       "info_box" : false,
       "name" : "DESCRIPTION MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -70,6 +95,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7378" : {
+      "info_box" : false,
+      "name" : "Korean-Japanese co-production",
+      "parent_tag_id" : 6173,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

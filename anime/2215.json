@@ -41,10 +41,16 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "143656" ],
+    "ANIMEMORIAL" : [ "m047" ],
+    "ANIME_NFO" : [ "3141,qwcsaa" ],
+    "ANISON" : [ "3451" ],
     "ANN" : [ "3529" ],
     "IMDB" : [ "tt0066781" ],
     "MAL" : [ "3843" ],
-    "OTHER" : [ "3:3141/qwcsaa", "4:http://www.toei-anim.co.jp/lineup/movie/movie_aribaba/", "6:Ali_Baba_and_the_Forty_Thieves_(1971_film)", "7:アリババと40匹の盗賊", "9:143656", "10:3451", "16:m047" ]
+    "WEBSITE" : [ "http://www.toei-anim.co.jp/lineup/movie/movie_aribaba/" ],
+    "WIKIPEDIA_EN" : [ "Ali_Baba_and_the_Forty_Thieves_(1971_film)" ],
+    "WIKIPEDIA_JP" : [ "アリババと40匹の盗賊" ]
   },
   "start_date" : "1971-07-18",
   "tags" : {
@@ -59,6 +65,13 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -101,6 +114,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2833" : {
       "info_box" : false,
       "name" : "Middle East",
@@ -133,10 +154,26 @@
       "verified" : false,
       "weight" : 100
     },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4278" : {
       "info_box" : false,
       "name" : "stand-alone movie",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -56,11 +56,32 @@
   },
   "description" : "* Based on a slice-of-life romantic manga by http://anidb.net/cr54531 [Matoba].\nhttp://anidb.net/ch135600 [Tokumitsu Shintarou] is a high schooler living all alone, but things take an unexpected turn when a girl named http://anidb.net/ch135599 [Towa] shows up on his balcony! Not only is she incredibly pure and sweet, but there`s something different about her—something...divine. Just who is Shintarou`s new roommate, and what adorable high jinks lie in store?!\nSource: Yen Press",
   "resources" : {
+    "ALL_CINEMA" : [ "392790" ],
+    "ANN" : [ "30153" ],
     "MAL" : [ "56838" ],
-    "OTHER" : [ "4:https://tenshitsuki.com/", "6:Studio_Apartment,_Good_Lighting,_Angel_Included", "7:ワンルーム、日当たり普通、天使つき。", "23:tenshitsuki_off" ]
+    "SYOBOI" : [ "7039" ],
+    "TWITTER" : [ "tenshitsuki_off" ],
+    "WEBSITE" : [ "https://tenshitsuki.com/" ],
+    "WIKIPEDIA_EN" : [ "Studio_Apartment,_Good_Lighting,_Angel_Included" ],
+    "WIKIPEDIA_JP" : [ "ワンルーム、日当たり普通、天使つき。" ]
   },
-  "start_date" : "2024-04",
+  "start_date" : "2024-03-30",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

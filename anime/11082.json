@@ -176,7 +176,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.01,
+        "rating" : 6.0,
         "total" : 8
       },
       "recap" : false,
@@ -204,7 +204,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.92,
+        "rating" : 5.91,
         "total" : 7
       },
       "recap" : false,
@@ -232,7 +232,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.81,
+        "rating" : 7.8,
         "total" : 7
       },
       "recap" : false,
@@ -260,7 +260,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.53,
+        "rating" : 6.52,
         "total" : 7
       },
       "recap" : false,
@@ -288,7 +288,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.41,
+        "rating" : 5.4,
         "total" : 7
       },
       "recap" : false,
@@ -316,7 +316,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.68,
+        "rating" : 7.67,
         "total" : 7
       },
       "recap" : false,
@@ -344,7 +344,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.4,
+        "rating" : 6.39,
         "total" : 7
       },
       "recap" : false,
@@ -372,7 +372,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.2,
+        "rating" : 7.19,
         "total" : 7
       },
       "recap" : false,
@@ -400,7 +400,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.77,
+        "rating" : 6.76,
         "total" : 6
       },
       "recap" : false,
@@ -428,7 +428,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 8.85,
+        "rating" : 8.84,
         "total" : 5
       },
       "recap" : false,
@@ -456,7 +456,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 8.22,
+        "rating" : 8.21,
         "total" : 6
       },
       "recap" : false,
@@ -540,21 +540,30 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.8,
-      "total" : 2402
+      "total" : 2419
     },
     "TEMPORARY" : {
       "rating" : 7.33,
-      "total" : 2408
+      "total" : 2425
     }
   },
   "related" : {
     "SEQUEL" : [ 11524 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "352083" ],
+    "AMAZON" : [ "B01NAWP0J4" ],
+    "ANISON" : [ "18269" ],
     "ANN" : [ "16792" ],
     "CRUNCHY_ROLL" : [ "GRZJ7QN86" ],
+    "FUNIMATION" : [ "snow-white-with-the-red-hair" ],
     "MAL" : [ "30123" ],
-    "OTHER" : [ "4:http://clarines-kingdom.com/", "6:Akagami_no_Shirayukihime", "7:赤髪の白雪姫", "8:3819", "9:352083", "10:18269", "23:akagami_anime", "26:watch?v=JNo5n_XmA2I", "26:watch?v=XzXLibJm6GE", "32:B01NAWP0J4", "45:snow-white-with-the-red-hair" ]
+    "SYOBOI" : [ "3819" ],
+    "TWITTER" : [ "akagami_anime" ],
+    "WEBSITE" : [ "http://clarines-kingdom.com/" ],
+    "WIKIPEDIA_EN" : [ "Akagami_no_Shirayukihime" ],
+    "WIKIPEDIA_JP" : [ "赤髪の白雪姫" ],
+    "YOUTUBE" : [ "watch?v=JNo5n_XmA2I", "watch?v=XzXLibJm6GE" ]
   },
   "similar" : {
     "10395" : {
@@ -570,8 +579,8 @@
       "total" : 8
     },
     "17870" : {
-      "rating" : 7.857142857142857,
-      "total" : 14
+      "rating" : 7.333333333333333,
+      "total" : 15
     }
   },
   "start_date" : "2015-07-07",
@@ -673,9 +682,25 @@
       "verified" : false,
       "weight" : 400
     },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
       "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
@@ -793,6 +818,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3805" : {
       "info_box" : false,
       "name" : "European stylised",
@@ -845,6 +878,14 @@
       "info_box" : false,
       "name" : "court politics",
       "parent_tag_id" : 2867,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

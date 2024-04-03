@@ -39,7 +39,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.67,
+      "rating" : 4.66,
       "total" : 17
     },
     "TEMPORARY" : {
@@ -51,9 +51,12 @@
     "ALTERNATIVE_SETTING" : [ 4781 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "235410" ],
+    "ANIMEMORIAL" : [ "296" ],
+    "ANISON" : [ "17604" ],
     "ANN" : [ "3813" ],
     "MAL" : [ "5900" ],
-    "OTHER" : [ "7:ジャン・バルジャン物語", "9:235410", "10:17604", "16:296" ]
+    "WIKIPEDIA_JP" : [ "ジャン・バルジャン物語" ]
   },
   "start_date" : "1979-09-15",
   "tags" : {
@@ -95,17 +98,17 @@
       "verified" : false,
       "weight" : 0
     },
-    "4424" : {
-      "info_box" : true,
-      "name" : "American derived",
-      "parent_tag_id" : 2609,
+    "6173" : {
+      "info_box" : false,
+      "name" : "origin",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
     },
-    "6173" : {
+    "7700" : {
       "info_box" : false,
-      "name" : "origin",
+      "name" : "French-Japanese co-production",
+      "parent_tag_id" : 6173,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

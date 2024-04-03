@@ -166,21 +166,27 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.14,
-      "total" : 1345
+      "rating" : 5.15,
+      "total" : 1354
     },
     "TEMPORARY" : {
-      "rating" : 6.45,
-      "total" : 1348
+      "rating" : 6.46,
+      "total" : 1357
     }
   },
   "related" : {
     "PREQUEL" : [ 9390 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "340739" ],
+    "ANIME_NFO" : [ "5237,qckxsl" ],
+    "ANISON" : [ "14206" ],
     "ANN" : [ "13434" ],
     "MAL" : [ "10893" ],
-    "OTHER" : [ "3:5237/qckxsl", "4:http://www.kyousogiga.com/", "6:Kyousogiga", "7:京騒戯画", "8:2384", "9:340739", "10:14206" ]
+    "SYOBOI" : [ "2384" ],
+    "WEBSITE" : [ "http://www.kyousogiga.com/" ],
+    "WIKIPEDIA_EN" : [ "Kyousogiga" ],
+    "WIKIPEDIA_JP" : [ "京騒戯画" ]
   },
   "start_date" : "2011-12-01",
   "tags" : {
@@ -245,6 +251,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2841" : {
       "info_box" : true,
       "name" : "action",
@@ -288,6 +302,14 @@
       "info_box" : false,
       "name" : "surreal",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

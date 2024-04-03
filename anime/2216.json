@@ -83,13 +83,25 @@
     "SEQUEL" : [ 2225 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "143915" ],
+    "ANIMEMORIAL" : [ "m050" ],
+    "ANIME_NFO" : [ "3064,rlqris" ],
+    "ANISON" : [ "1556" ],
     "ANN" : [ "3586" ],
     "IMDB" : [ "tt1073670" ],
     "MAL" : [ "5006" ],
-    "OTHER" : [ "3:3064/rlqris", "4:http://www.toei-anim.co.jp/lineup/movie/movie_nagagutsu_sanjushi/", "7:ながぐつ三銃士#.E5.8A.87.E5.A0.B4.E7.89.88.E3.82.A2.E3.83.8B.E3.83.A1", "9:143915", "10:1556", "16:m050" ]
+    "WEBSITE" : [ "http://www.toei-anim.co.jp/lineup/movie/movie_nagagutsu_sanjushi/" ],
+    "WIKIPEDIA_JP" : [ "ながぐつ三銃士#.E5.8A.87.E5.A0.B4.E7.89.88.E3.82.A2.E3.83.8B.E3.83.A1" ]
   },
   "start_date" : "1972-03-18",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2610" : {
       "info_box" : false,
       "name" : "setting",
@@ -120,6 +132,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2812" : {
       "info_box" : false,
       "name" : "United States",
@@ -144,10 +172,26 @@
       "verified" : false,
       "weight" : 600
     },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3795" : {
       "info_box" : false,
       "name" : "remastered version available",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

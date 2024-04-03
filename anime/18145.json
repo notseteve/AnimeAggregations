@@ -71,16 +71,83 @@
     } ]
   },
   "description" : "* Based on a sport school life manga by http://anidb.net/cr62137 [Mikawa Eko].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-10",
+      "episode_id" : 278868,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-17",
+      "episode_id" : 278869,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-24",
+      "episode_id" : 278870,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-01",
+      "episode_id" : 278871,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "related" : {
     "OTHER" : [ 15765 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "392849" ],
     "ANN" : [ "29271" ],
     "MAL" : [ "56165" ],
-    "OTHER" : [ "4:https://boukyaku-battery.com/", "6:Bōkyaku_Battery", "7:忘却バッテリー", "23:boukyakubattery" ]
+    "SYOBOI" : [ "7042" ],
+    "TWITTER" : [ "boukyakubattery" ],
+    "WEBSITE" : [ "https://boukyaku-battery.com/" ],
+    "WIKIPEDIA_EN" : [ "Oblivion_Battery" ],
+    "WIKIPEDIA_JP" : [ "忘却バッテリー" ]
   },
-  "start_date" : "2024-04",
+  "start_date" : "2024-04-10",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -101,6 +168,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Boukyaku Battery (2024)",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Oblivion Battery",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "忘却バッテリー (2024)",

@@ -86,7 +86,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.94,
+        "rating" : 5.93,
         "total" : 5
       },
       "recap" : false,
@@ -108,8 +108,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.82,
-        "total" : 4
+        "rating" : 3.92,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -344,6 +344,17 @@
       } ],
       "type" : "REGULAR"
     } ],
+    "SPECIAL" : [ {
+      "episode_id" : 278349,
+      "length" : 3,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Art Gallery"
+      } ],
+      "type" : "SPECIAL"
+    } ],
     "CREDITS" : [ {
       "episode_id" : 37540,
       "length" : 2,
@@ -373,15 +384,15 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.66,
-      "total" : 518
+      "total" : 519
     },
     "REVIEW" : {
       "rating" : 9.66,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 7.04,
-      "total" : 520
+      "rating" : 7.03,
+      "total" : 521
     }
   },
   "related" : {
@@ -389,10 +400,17 @@
     "OTHER" : [ 8488, 9397, 10055, 14926, 17743 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "319998" ],
+    "AMAZON" : [ "B07FZ7X2NJ" ],
+    "ANIME_NFO" : [ "1322,maeuxc" ],
+    "ANISON" : [ "6466" ],
     "ANN" : [ "3459" ],
     "CRUNCHY_ROLL" : [ "G64PE3D0R" ],
     "MAL" : [ "1371" ],
-    "OTHER" : [ "3:1322/maeuxc", "4:http://www.nhk.or.jp/anime/hinotori/", "6:Hi_no_Tori", "7:火の鳥_(漫画)", "8:352", "9:319998", "10:6466", "32:B07FZ7X2NJ" ]
+    "SYOBOI" : [ "352" ],
+    "WEBSITE" : [ "http://www.nhk.or.jp/anime/hinotori/" ],
+    "WIKIPEDIA_EN" : [ "Hi_no_Tori" ],
+    "WIKIPEDIA_JP" : [ "火の鳥_(漫画)" ]
   },
   "similar" : {
     "575" : {
@@ -426,6 +444,14 @@
   },
   "start_date" : "2004-03-21",
   "tags" : {
+    "7" : {
+      "info_box" : false,
+      "name" : "juujin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "922" : {
       "info_box" : true,
       "name" : "shounen",
@@ -458,13 +484,21 @@
       "verified" : false,
       "weight" : 100
     },
+    "2202" : {
+      "info_box" : false,
+      "name" : "alien",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2274" : {
       "info_box" : false,
       "name" : "robot",
       "parent_tag_id" : 2638,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 200
     },
     "2604" : {
       "info_box" : false,
@@ -585,7 +619,7 @@
       "parent_tag_id" : 2846,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 200
     },
     "2640" : {
       "info_box" : false,
@@ -667,6 +701,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2791" : {
+      "info_box" : false,
+      "name" : "stereotypes",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -697,7 +739,7 @@
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 200
+      "weight" : 300
     },
     "2846" : {
       "info_box" : true,
@@ -718,6 +760,22 @@
     "2850" : {
       "info_box" : false,
       "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2851" : {
+      "info_box" : false,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2857" : {
+      "info_box" : false,
+      "name" : "anthropomorphism",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
@@ -782,6 +840,14 @@
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3269" : {
+      "info_box" : false,
+      "name" : "genocide",
+      "parent_tag_id" : 4316,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -866,6 +932,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "4227" : {
+      "info_box" : false,
+      "name" : "detailed landscapes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4522" : {
+      "info_box" : false,
+      "name" : "social commentary",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4537" : {
       "info_box" : false,
       "name" : "time skip",
@@ -906,6 +996,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4831" : {
+      "info_box" : false,
+      "name" : "alien invasion",
+      "parent_tag_id" : 2202,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6028" : {
       "info_box" : false,
       "name" : "Shintoism",
@@ -932,6 +1030,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

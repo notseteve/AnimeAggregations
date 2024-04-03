@@ -6,12 +6,48 @@
       "name" : "Adam Taurus",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 139360,
+      "name" : "Bashful Klein",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139358,
+      "name" : "Dopey Klein",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139357,
+      "name" : "Grumpy Klein",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139372,
+      "name" : "Happy Klein",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 124608,
       "name" : "Jacques Schnee",
       "type" : "CHARACTER"
     }, {
       "character_id" : 124610,
       "name" : "Klein Sieben",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139374,
+      "name" : "Lisa Lavender",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139362,
+      "name" : "Little Weiss",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139366,
+      "name" : "Nicholas Schnee",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139355,
+      "name" : "Nightmare Whitley",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139359,
+      "name" : "Sleepy Klein",
       "type" : "CHARACTER"
     }, {
       "character_id" : 124605,
@@ -24,6 +60,19 @@
     }, {
       "character_id" : 124607,
       "name" : "Winter Schnee",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139356,
+      "name" : "Zwei",
+      "type" : "CHARACTER"
+    } ],
+    "CAMEO" : [ {
+      "character_id" : 139352,
+      "name" : "Cardin Winchester",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139350,
+      "name" : "Cinder Fall",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -44,6 +93,14 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 139367,
+      "name" : "Big Nicholas",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139361,
+      "name" : "Dream Pyrrha",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 124139,
       "name" : "Glynda Goodwitch",
       "type" : "CHARACTER"
@@ -54,6 +111,18 @@
     }, {
       "character_id" : 122902,
       "name" : "Lie Ren",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139349,
+      "name" : "Nightmare Blake",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139364,
+      "name" : "Nightmare Jacques",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139346,
+      "name" : "Nightmare Weiss",
       "type" : "CHARACTER"
     }, {
       "character_id" : 122898,
@@ -532,7 +601,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 7.68,
+        "rating" : 7.69,
         "total" : 2
       },
       "recap" : false,
@@ -558,7 +627,7 @@
       "length" : 2,
       "number" : 3,
       "rating" : {
-        "rating" : 6.13,
+        "rating" : 6.14,
         "total" : 2
       },
       "recap" : false,
@@ -573,7 +642,7 @@
       "length" : 2,
       "number" : 4,
       "rating" : {
-        "rating" : 4.32,
+        "rating" : 4.33,
         "total" : 1
       },
       "recap" : false,
@@ -586,24 +655,40 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.01,
-      "total" : 272
+      "rating" : 3.04,
+      "total" : 275
     },
     "REVIEW" : {
       "rating" : 4.33,
       "total" : 2
     },
     "TEMPORARY" : {
-      "rating" : 5.32,
-      "total" : 275
+      "rating" : 5.33,
+      "total" : 278
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "382112" ],
+    "AMAZON" : [ "amzn1" ],
+    "AMAZON_PRIME" : [ "RWBY" ],
+    "ANISON" : [ "24390" ],
     "ANN" : [ "25471" ],
     "CRUNCHY_ROLL" : [ "GVDHX8JP2" ],
     "IMDB" : [ "tt19389868" ],
     "MAL" : [ "51381" ],
-    "OTHER" : [ "4:https://anime.team-rwby-project.jp/", "5:https://anime.team-rwby-project.jp/en/", "6:RWBY:_Ice_Queendom", "7:RWBY", "8:6365", "9:382112", "10:24390", "23:TeamRWBYPrj_en", "23:TeamRWBYProject", "26:watch?v=0UFyKiN24mY", "32:amzn1", "48:RWBY" ]
+    "SYOBOI" : [ "6365" ],
+    "TWITTER" : [ "TeamRWBYPrj_en", "TeamRWBYProject" ],
+    "WEBSITE" : [ "https://anime.team-rwby-project.jp/" ],
+    "WEBSITE_EN" : [ "https://anime.team-rwby-project.jp/en/" ],
+    "WIKIPEDIA_EN" : [ "RWBY:_Ice_Queendom" ],
+    "WIKIPEDIA_JP" : [ "RWBY" ],
+    "YOUTUBE" : [ "watch?v=0UFyKiN24mY" ]
+  },
+  "similar" : {
+    "7654" : {
+      "rating" : 5.0,
+      "total" : 2
+    }
   },
   "start_date" : "2022-06-24",
   "tags" : {

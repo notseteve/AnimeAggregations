@@ -36,7 +36,7 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 3.21,
+        "rating" : 3.23,
         "total" : 2
       },
       "recap" : false,
@@ -51,7 +51,7 @@
       "length" : 20,
       "number" : 2,
       "rating" : {
-        "rating" : 2.61,
+        "rating" : 2.62,
         "total" : 2
       },
       "recap" : false,
@@ -75,18 +75,18 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.17,
-      "total" : 28
+      "rating" : 4.13,
+      "total" : 30
     },
     "TEMPORARY" : {
-      "rating" : 5.2,
-      "total" : 29
+      "rating" : 5.12,
+      "total" : 31
     }
   },
   "resources" : {
     "MAL" : [ "56654" ],
-    "OTHER" : [ "4:https://www.mediabank.co.jp/product.php?model=QNB-M122", "4:https://www.mediabank.co.jp/product.php?model=QNB-M125" ],
-    "TMDB" : [ "tv/239673" ]
+    "TMDB" : [ "tv/239673" ],
+    "WEBSITE" : [ "https://www.mediabank.co.jp/product.php?model=QNB-M122", "https://www.mediabank.co.jp/product.php?model=QNB-M125" ]
   },
   "start_date" : "2023-11-10",
   "tags" : {
@@ -107,6 +107,13 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -268,6 +275,14 @@
       "verified" : false,
       "weight" : 500
     },
+    "2895" : {
+      "info_box" : false,
+      "name" : "dark-skinned girl",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2896" : {
       "info_box" : false,
       "name" : "deflowering",
@@ -276,10 +291,25 @@
       "verified" : false,
       "weight" : 100
     },
+    "3663" : {
+      "info_box" : false,
+      "name" : "body takeover",
+      "parent_tag_id" : 6347,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4333" : {
       "info_box" : false,
       "name" : "predominantly female cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -303,6 +333,22 @@
       "info_box" : false,
       "name" : "fellatio",
       "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6347" : {
+      "info_box" : false,
+      "name" : "body and host",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6494" : {
+      "info_box" : true,
+      "name" : "half-length episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

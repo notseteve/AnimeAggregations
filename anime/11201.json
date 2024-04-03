@@ -81,7 +81,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.02,
+        "rating" : 5.01,
         "total" : 7
       },
       "recap" : false,
@@ -281,7 +281,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.4,
+        "rating" : 6.39,
         "total" : 6
       },
       "recap" : false,
@@ -306,7 +306,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.64,
+        "rating" : 7.63,
         "total" : 6
       },
       "recap" : false,
@@ -447,9 +447,17 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "354693" ],
+    "ANISON" : [ "19177" ],
     "ANN" : [ "16986" ],
+    "HIDIVE" : [ "tv/long-riders" ],
     "MAL" : [ "30652", "34367" ],
-    "OTHER" : [ "4:http://anime-longriders.com/", "6:Long_Riders!", "7:ろんぐらいだぁす!", "8:4318", "9:354693", "10:19177", "23:animelongriders", "31:20525", "42:tv/long-riders" ]
+    "MEDIA_ART_DATABASE" : [ "20525" ],
+    "SYOBOI" : [ "4318" ],
+    "TWITTER" : [ "animelongriders" ],
+    "WEBSITE" : [ "http://anime-longriders.com/" ],
+    "WIKIPEDIA_EN" : [ "Long_Riders!" ],
+    "WIKIPEDIA_JP" : [ "ろんぐらいだぁす!" ]
   },
   "similar" : {
     "11253" : {
@@ -621,9 +629,24 @@
       "verified" : false,
       "weight" : 600
     },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3028" : {
       "info_box" : false,
       "name" : "real-world location",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4164" : {
+      "info_box" : false,
+      "name" : "promotional",
       "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
@@ -633,6 +656,14 @@
       "info_box" : false,
       "name" : "predominantly female cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4344" : {
+      "info_box" : false,
+      "name" : "motivational anime",
+      "parent_tag_id" : 2931,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -68,16 +68,46 @@
     "SEQUEL" : [ 2216 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "142792" ],
+    "ANIMEMORIAL" : [ "m025" ],
+    "ANIME_NFO" : [ "3092,bksgox" ],
+    "ANISON" : [ "984" ],
     "ANN" : [ "3799" ],
     "IMDB" : [ "tt0064714" ],
     "MAL" : [ "2279" ],
-    "OTHER" : [ "3:3092/bksgox", "4:http://www.toei-anim.co.jp/lineup/movie/movie_nagagutsu/", "6:Puss_in_Boots_(1969_film)", "7:長靴猫シリーズ", "8:2416", "9:142792", "10:984", "16:m025" ]
+    "SYOBOI" : [ "2416" ],
+    "WEBSITE" : [ "http://www.toei-anim.co.jp/lineup/movie/movie_nagagutsu/" ],
+    "WIKIPEDIA_EN" : [ "Puss_in_Boots_(1969_film)" ],
+    "WIKIPEDIA_JP" : [ "長靴猫シリーズ" ]
   },
   "start_date" : "1969-03-18",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -89,6 +119,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "3795" : {
       "info_box" : false,
@@ -102,6 +140,14 @@
       "info_box" : false,
       "name" : "stand-alone movie",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

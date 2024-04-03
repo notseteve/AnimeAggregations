@@ -50,13 +50,86 @@
     } ]
   },
   "description" : "* Based on a light novel series written by http://anidb.net/cr69876 [Nigatsu Kou] and illustrated by http://anidb.net/cr69376 [Sabamizore].\nhttp://anidb.net/ch128812 [Yuugure Yuuhi] and http://anidb.net/ch128811 [Utatane Yasumi], two high school voice actresses who just happened to attend the same school and coincidentally got placed into the same class, are the two hosts of a radio weekly program. As fellow classmates and voice actresses, they show all the listeners their great friendship! At least, on the surface. In reality, the quiet girl Chika and the gyaru Yumiko are complete opposites. And they absolutely cannot stand each other. Off air, chaos and insults erupt. On air, they`re the best of friends. Just where will this tumultuous relationship lead them?\nSource: M-U",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-10",
+      "episode_id" : 278876,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yuuhi to Yasumi wa Kakushi Kirenai?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夕陽とやすみは隠しきれない?"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-17",
+      "episode_id" : 278877,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-24",
+      "episode_id" : 278878,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-01",
+      "episode_id" : 278879,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "390579" ],
     "ANN" : [ "26759" ],
     "MAL" : [ "53912" ],
-    "OTHER" : [ "4:https://seiyuradio-anime.com/", "6:Seiyū_Radio_no_Ura_Omote", "7:声優ラジオのウラオモテ", "9:390579", "23:sayyouradio_prj" ]
+    "SYOBOI" : [ "7011" ],
+    "TWITTER" : [ "sayyouradio_prj" ],
+    "WEBSITE" : [ "https://seiyuradio-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "The_Many_Sides_of_Voice_Actor_Radio" ],
+    "WIKIPEDIA_JP" : [ "声優ラジオのウラオモテ" ]
   },
   "start_date" : "2024-04-10",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -77,6 +150,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Seiyuu Radio no Uraomote",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "The Many Sides of Voice Actor Radio",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "声優ラジオのウラオモテ",

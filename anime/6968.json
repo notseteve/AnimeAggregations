@@ -646,7 +646,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.86,
-      "total" : 5285
+      "total" : 5287
     },
     "REVIEW" : {
       "rating" : 4.33,
@@ -654,14 +654,22 @@
     },
     "TEMPORARY" : {
       "rating" : 6.9,
-      "total" : 5330
+      "total" : 5332
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "336377" ],
+    "AMAZON" : [ "B00DAA5ZPW" ],
+    "ANIME_NFO" : [ "4655,ykkiln" ],
+    "ANISON" : [ "12524" ],
     "ANN" : [ "11179" ],
     "CRUNCHY_ROLL" : [ "GRGG58V1R" ],
+    "HIDIVE" : [ "tv/demon-king-daimao" ],
     "MAL" : [ "7088", "8465" ],
-    "OTHER" : [ "3:4655/ykkiln", "4:http://www.mmv.co.jp/special/daimao/", "6:Ichiban_Ushiro_no_Dai_Maō", "7:いちばんうしろの大魔王", "8:1888", "9:336377", "10:12524", "32:B00DAA5ZPW", "42:tv/demon-king-daimao" ]
+    "SYOBOI" : [ "1888" ],
+    "WEBSITE" : [ "http://www.mmv.co.jp/special/daimao/" ],
+    "WIKIPEDIA_EN" : [ "Ichiban_Ushiro_no_Dai_Maō" ],
+    "WIKIPEDIA_JP" : [ "いちばんうしろの大魔王" ]
   },
   "similar" : {
     "5273" : {
@@ -681,12 +689,12 @@
       "total" : 160
     },
     "8861" : {
-      "rating" : 8.7,
-      "total" : 100
+      "rating" : 8.712871287128714,
+      "total" : 101
     },
     "9015" : {
-      "rating" : 8.930817610062894,
-      "total" : 159
+      "rating" : 8.9375,
+      "total" : 160
     },
     "9999" : {
       "rating" : 5.0,
@@ -705,8 +713,8 @@
       "total" : 16
     },
     "15131" : {
-      "rating" : 3.333333333333333,
-      "total" : 9
+      "rating" : 4.0,
+      "total" : 10
     },
     "17937" : {
       "rating" : 2.5,
@@ -734,6 +742,14 @@
       "info_box" : false,
       "name" : "perverted",
       "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

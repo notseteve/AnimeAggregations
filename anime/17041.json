@@ -144,21 +144,26 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.27,
-      "total" : 544
+      "rating" : 8.25,
+      "total" : 574
     },
     "TEMPORARY" : {
-      "rating" : 7.89,
-      "total" : 550
+      "rating" : 7.88,
+      "total" : 579
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "380638" ],
+    "ANISON" : [ "24650" ],
     "ANN" : [ "25057" ],
     "CRUNCHY_ROLL" : [ "GP5HJ8425" ],
     "IMDB" : [ "tt16428256" ],
     "MAL" : [ "50594" ],
-    "OTHER" : [ "4:https://suzume-tojimari-movie.jp/", "6:Suzume_(film)", "7:すずめの戸締まり", "9:380638", "10:24650", "23:suzume_tojimari" ],
-    "TMDB" : [ "movie/916224" ]
+    "TMDB" : [ "movie/916224" ],
+    "TWITTER" : [ "suzume_tojimari" ],
+    "WEBSITE" : [ "https://suzume-tojimari-movie.jp/" ],
+    "WIKIPEDIA_EN" : [ "Suzume_(film)" ],
+    "WIKIPEDIA_JP" : [ "すずめの戸締まり" ]
   },
   "start_date" : "2022-11-11",
   "tags" : {
@@ -523,6 +528,10 @@
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
+    "title" : "Suzume",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "FRENCH",
     "title" : "Suzume",
     "type" : "OFFICIAL"
   }, {

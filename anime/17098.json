@@ -114,12 +114,32 @@
     "PREQUEL" : [ 11980 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "393064" ],
     "ANN" : [ "29053" ],
     "MAL" : [ "50713" ],
-    "OTHER" : [ "4:https://mahouka.jp/3rd/", "6:The_Irregular_at_Magic_High_School", "7:魔法科高校の劣等生", "9:393064", "23:mahouka_anime" ]
+    "SYOBOI" : [ "7028" ],
+    "TWITTER" : [ "mahouka_anime" ],
+    "WEBSITE" : [ "https://mahouka.jp/3rd/" ],
+    "WIKIPEDIA_EN" : [ "The_Irregular_at_Magic_High_School" ],
+    "WIKIPEDIA_JP" : [ "魔法科高校の劣等生" ]
   },
   "start_date" : "2024-04-05",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -141,6 +161,14 @@
     "title" : "Mahouka Koukou no Rettousei (2024)",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "The Irregular at Magic High School (2024)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
+    "title" : "The Irregular at Magic High School: Staffel 3",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "魔法科高校の劣等生 (2024)",
     "type" : "OFFICIAL"
@@ -148,10 +176,6 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "mahouka: zokuhen",
     "type" : "SHORT"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "The Irregular at Magic High School (2024)",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://mahouka.jp/3rd/"

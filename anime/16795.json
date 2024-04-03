@@ -301,7 +301,7 @@
       "length" : 1,
       "number" : 1,
       "rating" : {
-        "rating" : 4.44,
+        "rating" : 4.47,
         "total" : 2
       },
       "recap" : false,
@@ -316,7 +316,7 @@
       "length" : 1,
       "number" : 2,
       "rating" : {
-        "rating" : 2.49,
+        "rating" : 2.48,
         "total" : 1
       },
       "recap" : false,
@@ -451,7 +451,7 @@
       "length" : 1,
       "number" : 11,
       "rating" : {
-        "rating" : 2.49,
+        "rating" : 2.48,
         "total" : 1
       },
       "recap" : false,
@@ -464,19 +464,26 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.45,
-      "total" : 307
+      "rating" : 7.46,
+      "total" : 309
     },
     "TEMPORARY" : {
-      "rating" : 7.36,
-      "total" : 309
+      "rating" : 7.37,
+      "total" : 311
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "379033" ],
+    "ANISON" : [ "24193" ],
     "ANN" : [ "24767" ],
     "IMDB" : [ "tt15490038" ],
     "MAL" : [ "49909" ],
-    "OTHER" : [ "4:https://kotaro-anime.com/", "6:Kotaro_Lives_Alone", "7:コタローは1人暮らし", "8:6598", "9:379033", "10:24193", "23:kotaro1_anime", "41:81275353" ]
+    "NETFLIX" : [ "81275353" ],
+    "SYOBOI" : [ "6598" ],
+    "TWITTER" : [ "kotaro1_anime" ],
+    "WEBSITE" : [ "https://kotaro-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "Kotaro_Lives_Alone" ],
+    "WIKIPEDIA_JP" : [ "コタローは1人暮らし" ]
   },
   "similar" : {
     "8211" : {
@@ -707,8 +714,60 @@
     "title" : "Kotaro Lives Alone",
     "type" : "OFFICIAL"
   }, {
+    "language" : "PORTUGUESE_BRAZIL",
+    "title" : "Kotaro Vai Morar Sozinho",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "FRENCH",
+    "title" : "Kotaro en solo",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CZECH",
+    "title" : "Kotaro je sám",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ROMANIAN",
+    "title" : "Kotaro locuiește singur",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "VIETNAMESE",
+    "title" : "Kotaro sống một mình",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "SPANISH",
     "title" : "Kotaro vive solo",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CROATIAN",
+    "title" : "Kotaro živi sam",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "HUNGARIAN",
+    "title" : "Kotaro, aki egyedül lakik",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GREEK",
+    "title" : "Ο Κόταρο Ζει Μόνος του",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "RUSSIAN",
+    "title" : "Котаро живет один",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "UKRAINIAN",
+    "title" : "Котаро, що живе сам",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "HEBREW",
+    "title" : "קוטארו גר לבד",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ARABIC",
+    "title" : "كوتارو يعيش وحده",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "THAI",
+    "title" : "โคทาโร่อยู่คนเดียว",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
@@ -717,6 +776,14 @@
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "小太郎一个人生活",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "小太郎一個人生活",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "코타로는 1인 가구",
     "type" : "OFFICIAL"
   } ],
   "type" : "WEB",

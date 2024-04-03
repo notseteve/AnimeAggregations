@@ -759,18 +759,26 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.29,
-      "total" : 101
+      "rating" : 6.3,
+      "total" : 103
     },
     "TEMPORARY" : {
-      "rating" : 6.54,
-      "total" : 104
+      "rating" : 6.53,
+      "total" : 106
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "235448" ],
+    "ANIME_NFO" : [ "4233,tndemc" ],
+    "ANISON" : [ "1036" ],
     "ANN" : [ "1655" ],
+    "IMDB" : [ "tt4060956" ],
     "MAL" : [ "1466" ],
-    "OTHER" : [ "3:4233/tndemc", "4:http://www.at-x.com/program/detail/3549", "6:Hakugei:_Legend_of_the_Moby_Dick", "7:白鯨伝説", "8:2520", "9:235448", "10:1036" ]
+    "SYOBOI" : [ "2520" ],
+    "WEBSITE" : [ "http://www.at-x.com/program/detail/3549" ],
+    "WIKIPEDIA_EN" : [ "Hakugei:_Legend_of_the_Moby_Dick" ],
+    "WIKIPEDIA_JP" : [ "白鯨伝説" ],
+    "YOUTUBE" : [ "playlist?list=PLxWdOqdXOeThnnxNyPLfkzZQw3k1cELNw" ]
   },
   "similar" : {
     "7443" : {
@@ -825,6 +833,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -923,6 +938,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2841" : {
       "info_box" : true,
       "name" : "action",
@@ -1015,6 +1038,14 @@
       "info_box" : false,
       "name" : "suicide",
       "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

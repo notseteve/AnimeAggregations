@@ -60,19 +60,23 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.46,
-      "total" : 50
+      "rating" : 4.43,
+      "total" : 51
     },
     "TEMPORARY" : {
-      "rating" : 5.56,
-      "total" : 50
+      "rating" : 5.54,
+      "total" : 51
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "151061" ],
+    "ANIME_NFO" : [ "3195,nsfwmy" ],
+    "ANISON" : [ "2520" ],
     "ANN" : [ "8239" ],
     "IMDB" : [ "tt0204365" ],
     "MAL" : [ "5936" ],
-    "OTHER" : [ "3:3195/nsfwmy", "6:Flight_of_the_White_Wolf", "7:走れ!白いオオカミ", "9:151061", "10:2520" ]
+    "WIKIPEDIA_EN" : [ "Flight_of_the_White_Wolf" ],
+    "WIKIPEDIA_JP" : [ "走れ!白いオオカミ" ]
   },
   "similar" : {
     "2360" : {
@@ -248,6 +252,14 @@
       "info_box" : false,
       "name" : "stand-alone movie",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

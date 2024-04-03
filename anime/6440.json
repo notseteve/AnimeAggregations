@@ -345,25 +345,99 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.99,
-      "total" : 12
+      "rating" : 3.17,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 3.5,
-      "total" : 12
+      "rating" : 3.57,
+      "total" : 14
     }
+  },
+  "related" : {
+    "PARENT" : [ 2966 ]
   },
   "resources" : {
     "ANN" : [ "8943" ],
     "MAL" : [ "9770" ],
-    "OTHER" : [ "4:http://www.tfc-dvd.net/stumpvillage/" ]
+    "TMDB" : [ "tv/231586" ],
+    "WEBSITE" : [ "http://www.tfc-dvd.net/stumpvillage/" ],
+    "WIKIPEDIA_EN" : [ "List_of_Hello_Kitty_animated_series#Hello_Kitty's_Stump_Village_(2005)" ]
   },
   "start_date" : "2005",
   "tags" : {
+    "1846" : {
+      "info_box" : true,
+      "name" : "kodomo",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3206" : {
+      "info_box" : false,
+      "name" : "stop motion",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4171" : {
       "info_box" : false,
       "name" : "claymation",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -383,9 +457,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "6166" : {
+      "info_box" : false,
+      "name" : "South Korean production",
+      "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6399" : {
+      "info_box" : false,
+      "name" : "episodic",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7378" : {
+      "info_box" : false,
+      "name" : "Korean-Japanese co-production",
+      "parent_tag_id" : 6173,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

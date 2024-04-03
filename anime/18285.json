@@ -9,7 +9,7 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 8.07,
+        "rating" : 8.05,
         "total" : 1
       },
       "recap" : false,
@@ -33,7 +33,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.36,
+        "rating" : 7.34,
         "total" : 1
       },
       "recap" : false,
@@ -57,7 +57,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.07,
+        "rating" : 8.05,
         "total" : 1
       },
       "recap" : false,
@@ -81,7 +81,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.06,
+        "rating" : 3.05,
         "total" : 1
       },
       "recap" : false,
@@ -283,19 +283,20 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.45,
-      "total" : 25
+      "rating" : 6.06,
+      "total" : 27
     },
     "TEMPORARY" : {
-      "rating" : 6.94,
-      "total" : 25
+      "rating" : 6.83,
+      "total" : 27
     }
   },
   "resources" : {
     "ANN" : [ "26385" ],
     "IMDB" : [ "tt28612257" ],
-    "OTHER" : [ "6:My_Daemon", "41:81261227" ],
-    "TMDB" : [ "tv/211051" ]
+    "NETFLIX" : [ "81261227" ],
+    "TMDB" : [ "tv/211051" ],
+    "WIKIPEDIA_EN" : [ "My_Daemon" ]
   },
   "start_date" : "2023-11-23",
   "tags" : {
@@ -799,6 +800,7 @@
     "8103" : {
       "info_box" : false,
       "name" : "Thai production",
+      "parent_tag_id" : 6173,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

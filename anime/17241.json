@@ -51,27 +51,45 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.37,
-      "total" : 8
+      "rating" : 6.99,
+      "total" : 9
     },
     "REVIEW" : {
       "rating" : 6.16,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 5.62,
-      "total" : 8
+      "rating" : 6.11,
+      "total" : 9
     }
   },
   "related" : {
     "PREQUEL" : [ 15663 ]
   },
   "resources" : {
-    "MAL" : [ "50407" ],
-    "OTHER" : [ "33:雾山五行", "38:312658", "39:35178776", "47:bangumi/media/md28228714" ]
+    "BAIDU_BAIKE" : [ "雾山五行" ],
+    "BANGUMI" : [ "312658" ],
+    "BILI_BILI" : [ "bangumi/media/md28228714" ],
+    "DOUBAN" : [ "35178776" ],
+    "MAL" : [ "50407" ]
   },
   "start_date" : "2023-07-26",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6152" : {
       "info_box" : false,
       "name" : "Chinese production",

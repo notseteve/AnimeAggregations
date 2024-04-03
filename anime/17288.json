@@ -10,8 +10,16 @@
       "name" : "Baphomet",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 139348,
+      "name" : "Behemoth",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 138212,
       "name" : "Botka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139271,
+      "name" : "Demetrius",
       "type" : "CHARACTER"
     }, {
       "character_id" : 138219,
@@ -36,6 +44,14 @@
     }, {
       "character_id" : 138220,
       "name" : "Hayward",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139272,
+      "name" : "Hecate",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139273,
+      "name" : "Hecate",
       "type" : "CHARACTER"
     }, {
       "character_id" : 138216,
@@ -115,6 +131,10 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 126112,
+      "name" : "Yuria",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139353,
       "name" : "Yuria",
       "type" : "CHARACTER"
     }, {
@@ -327,7 +347,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.43,
+        "rating" : 7.42,
         "total" : 1
       },
       "recap" : false,
@@ -375,7 +395,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.43,
+        "rating" : 7.42,
         "total" : 1
       },
       "recap" : false,
@@ -399,7 +419,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.43,
+        "rating" : 7.42,
         "total" : 1
       },
       "recap" : false,
@@ -471,7 +491,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.43,
+        "rating" : 7.42,
         "total" : 1
       },
       "recap" : false,
@@ -516,18 +536,25 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.25,
-      "total" : 334
+      "rating" : 5.24,
+      "total" : 342
     },
     "TEMPORARY" : {
       "rating" : 6.58,
-      "total" : 336
+      "total" : 344
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "382197" ],
+    "ANISON" : [ "24957" ],
     "ANN" : [ "25475" ],
+    "HIDIVE" : [ "tv/level-1-demon-lord-one-room-hero" ],
     "MAL" : [ "51458" ],
-    "OTHER" : [ "4:https://lv1room.com/", "6:Level_1_Demon_Lord_and_One_Room_Hero", "7:Lv1魔王とワンルーム勇者", "8:6746", "9:382197", "10:24957", "23:lv1room/", "42:tv/level-1-demon-lord-one-room-hero" ]
+    "SYOBOI" : [ "6746" ],
+    "TWITTER" : [ "lv1room/" ],
+    "WEBSITE" : [ "https://lv1room.com/" ],
+    "WIKIPEDIA_EN" : [ "Level_1_Demon_Lord_and_One_Room_Hero" ],
+    "WIKIPEDIA_JP" : [ "Lv1魔王とワンルーム勇者" ]
   },
   "start_date" : "2023-06-24",
   "tags" : {

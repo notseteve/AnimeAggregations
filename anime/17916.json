@@ -10,12 +10,32 @@
       "name" : "Grandmother",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 127257,
+      "name" : "Hotaru",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 138844,
       "name" : "Kouhachi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 138294,
       "name" : "Kunugi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139422,
+      "name" : "Kureha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139434,
+      "name" : "Masumi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139432,
+      "name" : "Ms. Ibushi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139433,
+      "name" : "On",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139114,
@@ -135,6 +155,7 @@
     } ]
   },
   "description" : "* Based on a children`s fantasy novel written by http://anidb.net/cr62377 [Hinata Rieko] and illustrated by http://anidb.net/cr2283 [Yamada Akihiro].\nOutside the magical barriers lies a world overrun by fiery beasts known as Flame Demons, and the only ones who can protect humanity are the Fire Hunters. In the dark woods where the beasts roam is where Toko, a young villager, is rescued from attack by one of these skilled trackers, Koshi. But their meeting was no accident, and a new destiny begins.\nSource: crunchyroll",
+  "end_date" : "2024-03-17",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-01-14",
@@ -193,7 +214,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.05,
+        "rating" : 5.06,
         "total" : 2
       },
       "recap" : false,
@@ -218,7 +239,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.05,
+        "rating" : 5.06,
         "total" : 2
       },
       "recap" : false,
@@ -293,7 +314,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.05,
+        "rating" : 5.06,
         "total" : 2
       },
       "recap" : false,
@@ -318,8 +339,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.62,
-        "total" : 1
+        "rating" : 7.03,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -343,8 +364,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 1.5,
-        "total" : 1
+        "rating" : 5.06,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -366,7 +387,14 @@
       "episode_id" : 277813,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 9.77,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU41K52" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Lamplight"
@@ -404,22 +432,31 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.35,
-      "total" : 22
+      "rating" : 4.29,
+      "total" : 52
+    },
+    "REVIEW" : {
+      "rating" : 5.66,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 5.93,
-      "total" : 22
+      "rating" : 5.65,
+      "total" : 52
     }
   },
   "related" : {
     "PREQUEL" : [ 15832 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "391841" ],
     "ANN" : [ "27459" ],
     "CRUNCHY_ROLL" : [ "GJ0H7Q5X9" ],
     "MAL" : [ "54754" ],
-    "OTHER" : [ "4:https://hikarinoou-anime.com/", "6:The_Fire_Hunter", "7:火狩りの王", "8:6929", "9:391841", "23:Hikarino_Ou" ]
+    "SYOBOI" : [ "6929" ],
+    "TWITTER" : [ "Hikarino_Ou" ],
+    "WEBSITE" : [ "https://hikarinoou-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "The_Fire_Hunter" ],
+    "WIKIPEDIA_JP" : [ "火狩りの王" ]
   },
   "start_date" : "2024-01-14",
   "tags" : {
@@ -465,6 +502,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "火狩りの王 (2024)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "狩火之王 第二季",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

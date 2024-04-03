@@ -71,17 +71,60 @@
     "PREQUEL" : [ 2216 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "145425" ],
+    "ANIMEMORIAL" : [ "m066" ],
+    "ANIME_NFO" : [ "3093,yjswkl" ],
+    "ANISON" : [ "4403" ],
     "ANN" : [ "3614" ],
     "IMDB" : [ "tt0086160" ],
     "MAL" : [ "3752" ],
-    "OTHER" : [ "3:3093/yjswkl", "7:長靴をはいた猫_80日間世界一周#.E5.8A.87.E5.A0.B4.E7.89.88.E3.82.A2.E3.83.8B.E3.83.A1", "9:145425", "10:4403", "16:m066" ]
+    "WIKIPEDIA_JP" : [ "長靴をはいた猫_80日間世界一周#.E5.8A.87.E5.A0.B4.E7.89.88.E3.82.A2.E3.83.8B.E3.83.A1" ]
   },
   "start_date" : "1976-03-20",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3795" : {
       "info_box" : false,
       "name" : "remastered version available",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

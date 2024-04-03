@@ -107,7 +107,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.53,
-      "total" : 11687
+      "total" : 11697
     },
     "REVIEW" : {
       "rating" : 8.01,
@@ -115,16 +115,26 @@
     },
     "TEMPORARY" : {
       "rating" : 8.43,
-      "total" : 11797
+      "total" : 11807
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "324826" ],
+    "AMAZON" : [ "B01GJ9DNYA" ],
+    "ANIME_NFO" : [ "3594,ralvoq" ],
+    "ANISON" : [ "8200" ],
     "ANN" : [ "6733" ],
     "CRUNCHY_ROLL" : [ "G4PH0WZVE" ],
     "IMDB" : [ "tt0808506" ],
     "MAL" : [ "2236" ],
-    "OTHER" : [ "3:3594/ralvoq", "4:http://www.kadokawa.co.jp/tokikake/", "6:The_Girl_Who_Leapt_Through_Time_(2006_film)", "7:時をかける少女_(アニメ映画)", "8:1197", "8:2804", "9:324826", "10:8200", "19:시간을_달리는_소녀_(2006년_영화)", "20:跳躍吧！時空少女", "32:B01GJ9DNYA", "41:70108975" ],
-    "TMDB" : [ "movie/14069" ]
+    "NETFLIX" : [ "70108975" ],
+    "SYOBOI" : [ "1197", "2804" ],
+    "TMDB" : [ "movie/14069" ],
+    "WEBSITE" : [ "http://www.kadokawa.co.jp/tokikake/" ],
+    "WIKIPEDIA_EN" : [ "The_Girl_Who_Leapt_Through_Time_(2006_film)" ],
+    "WIKIPEDIA_JP" : [ "時をかける少女_(アニメ映画)" ],
+    "WIKIPEDIA_KO" : [ "시간을_달리는_소녀_(2006년_영화)" ],
+    "WIKIPEDIA_ZH" : [ "跳躍吧！時空少女" ]
   },
   "similar" : {
     "336" : {
@@ -168,8 +178,8 @@
       "total" : 10
     },
     "17802" : {
-      "rating" : 5.0,
-      "total" : 2
+      "rating" : 6.666666666666666,
+      "total" : 3
     }
   },
   "start_date" : "2006-07-15",
@@ -181,6 +191,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "1049" : {
+      "info_box" : false,
+      "name" : "bicycling",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2043" : {
       "info_box" : true,

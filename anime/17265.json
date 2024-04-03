@@ -43,7 +43,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.49,
+        "rating" : 2.48,
         "total" : 1
       },
       "recap" : false,
@@ -64,7 +64,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 2.49,
+        "rating" : 2.48,
         "total" : 1
       },
       "recap" : false,
@@ -86,7 +86,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.49,
+        "rating" : 2.48,
         "total" : 1
       },
       "recap" : false,
@@ -99,12 +99,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.18,
-      "total" : 56
+      "rating" : 3.21,
+      "total" : 61
     },
     "TEMPORARY" : {
       "rating" : 5.01,
-      "total" : 56
+      "total" : 61
     }
   },
   "related" : {
@@ -113,10 +113,42 @@
   "resources" : {
     "ANN" : [ "25448" ],
     "MAL" : [ "51305" ],
-    "OTHER" : [ "6:FLCL", "7:フリクリ" ]
+    "WIKIPEDIA_EN" : [ "FLCL" ],
+    "WIKIPEDIA_JP" : [ "フリクリ" ]
   },
   "start_date" : "2023-10-01",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

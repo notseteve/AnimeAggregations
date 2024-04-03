@@ -2,6 +2,10 @@
   "anime_id" : 3146,
   "characters" : {
     "SECONDARY" : [ {
+      "character_id" : 139484,
+      "name" : "Major Elliot",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 84762,
       "name" : "Zevi Wolmark",
       "type" : "CHARACTER"
@@ -105,7 +109,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.17,
-      "total" : 4163
+      "total" : 4167
     },
     "REVIEW" : {
       "rating" : 6.66,
@@ -113,19 +117,58 @@
     },
     "TEMPORARY" : {
       "rating" : 6.6,
-      "total" : 4189
+      "total" : 4193
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "233818" ],
+    "AMAZON" : [ "amzn1" ],
+    "AMAZON_PRIME" : [ "Final" ],
     "ANN" : [ "3806" ],
     "IMDB" : [ "tt0173840" ],
     "MAL" : [ "1361" ],
-    "OTHER" : [ "4:http://www.finalfantasysoundtrack.com/", "6:Final_Fantasy:_The_Spirits_Within", "7:ファイナルファンタジー_(映画)", "8:1108", "9:233818" ]
+    "SYOBOI" : [ "1108" ],
+    "WEBSITE" : [ "http://www.finalfantasysoundtrack.com/" ],
+    "WIKIPEDIA_EN" : [ "Final_Fantasy:_The_Spirits_Within" ],
+    "WIKIPEDIA_JP" : [ "ファイナルファンタジー_(映画)" ],
+    "YOUTUBE" : [ "watch?v=51AF-M8X2W0" ]
   },
   "similar" : {
+    "517" : {
+      "rating" : 2.5,
+      "total" : 4
+    },
+    "1153" : {
+      "rating" : 5.0,
+      "total" : 2
+    },
+    "5921" : {
+      "rating" : 5.0,
+      "total" : 2
+    },
+    "6748" : {
+      "rating" : 5.0,
+      "total" : 2
+    },
+    "8674" : {
+      "rating" : 5.0,
+      "total" : 2
+    },
     "9169" : {
       "rating" : 6.0,
       "total" : 10
+    },
+    "13436" : {
+      "rating" : 5.0,
+      "total" : 2
+    },
+    "14481" : {
+      "rating" : 5.0,
+      "total" : 2
+    },
+    "14511" : {
+      "rating" : 5.0,
+      "total" : 2
     }
   },
   "start_date" : "2001-07-02",
@@ -285,6 +328,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3267" : {
+      "info_box" : false,
+      "name" : "everybody dies",
+      "parent_tag_id" : 6242,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
     "3795" : {
       "info_box" : false,
       "name" : "remastered version available",
@@ -363,10 +414,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7050" : {
       "info_box" : false,
       "name" : "speculative fiction",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7793" : {
+      "info_box" : false,
+      "name" : "American-Japanese co-production",
+      "parent_tag_id" : 6173,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

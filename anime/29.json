@@ -120,6 +120,9 @@
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Encounter"
+      }, {
+        "language" : "PORTUGUESE",
+        "title" : "O Encontro"
       } ],
       "type" : "REGULAR"
     }, {
@@ -141,6 +144,9 @@
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Awakening"
+      }, {
+        "language" : "PORTUGUESE",
+        "title" : "O Despertar"
       } ],
       "type" : "REGULAR"
     }, {
@@ -154,6 +160,9 @@
       },
       "recap" : false,
       "titles" : [ {
+        "language" : "PORTUGUESE",
+        "title" : "A Regeneração"
+      }, {
         "language" : "ENGLISH",
         "title" : "Regeneration"
       }, {
@@ -181,9 +190,17 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "159472" ],
+    "ANIME_NFO" : [ "44,iiqopg" ],
+    "ANISON" : [ "3936" ],
     "ANN" : [ "458" ],
+    "LAIN" : [ "mediadb/media/617" ],
     "MAL" : [ "51" ],
-    "OTHER" : [ "3:44/iiqopg", "4:http://web.archive.org/web/20080330232756/http://www.hal-film.co.jp/syoukai/05.htm", "6:Angel_Sanctuary", "7:天使禁猟区", "8:1087", "9:159472", "10:3936", "11:mediadb/media/617", "31:7345" ]
+    "MEDIA_ART_DATABASE" : [ "7345" ],
+    "SYOBOI" : [ "1087" ],
+    "WEBSITE" : [ "http://web.archive.org/web/20080330232756/http://www.hal-film.co.jp/syoukai/05.htm" ],
+    "WIKIPEDIA_EN" : [ "Angel_Sanctuary" ],
+    "WIKIPEDIA_JP" : [ "天使禁猟区" ]
   },
   "start_date" : "2000-05-25",
   "tags" : {
@@ -731,6 +748,10 @@
     "type" : "OFFICIAL"
   }, {
     "language" : "POLISH",
+    "title" : "Angel Sanctuary",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "PORTUGUESE",
     "title" : "Angel Sanctuary",
     "type" : "OFFICIAL"
   }, {

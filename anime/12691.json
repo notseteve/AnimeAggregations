@@ -789,8 +789,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.61,
-      "total" : 1560
+      "rating" : 8.62,
+      "total" : 1565
     },
     "REVIEW" : {
       "rating" : 6.33,
@@ -798,7 +798,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.17,
-      "total" : 1564
+      "total" : 1569
     }
   },
   "related" : {
@@ -807,9 +807,15 @@
     "SIDE_STORY" : [ 14797 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "361306" ],
+    "ANISON" : [ "20860" ],
     "ANN" : [ "20177" ],
     "MAL" : [ "34612" ],
-    "OTHER" : [ "4:http://www.saikikusuo.com/", "4:http://www.tv-tokyo.co.jp/anime/saikikusuo/", "6:The_Disastrous_Life_of_Saiki_K.", "7:斉木楠雄のΨ難", "8:4776", "9:361306", "10:20860", "23:saikikusuo_PR" ]
+    "SYOBOI" : [ "4776" ],
+    "TWITTER" : [ "saikikusuo_PR" ],
+    "WEBSITE" : [ "http://www.saikikusuo.com/", "http://www.tv-tokyo.co.jp/anime/saikikusuo/" ],
+    "WIKIPEDIA_EN" : [ "The_Disastrous_Life_of_Saiki_K." ],
+    "WIKIPEDIA_JP" : [ "斉木楠雄のΨ難" ]
   },
   "start_date" : "2018-01-17",
   "tags" : {
@@ -856,6 +862,21 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2798" : {
       "info_box" : true,

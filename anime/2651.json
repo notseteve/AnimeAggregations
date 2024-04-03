@@ -47,7 +47,7 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 8.45,
+        "rating" : 8.46,
         "total" : 11
       },
       "recap" : false,
@@ -83,7 +83,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.7,
-      "total" : 2663
+      "total" : 2667
     },
     "REVIEW" : {
       "rating" : 7.49,
@@ -91,17 +91,23 @@
     },
     "TEMPORARY" : {
       "rating" : 7.76,
-      "total" : 2670
+      "total" : 2674
     }
   },
   "related" : {
     "PARENT" : [ 575 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "321903" ],
+    "ANIME_NFO" : [ "1749,ticqml" ],
+    "ANISON" : [ "7195" ],
     "ANN" : [ "4381" ],
     "IMDB" : [ "tt0471767" ],
     "MAL" : [ "1379", "3466" ],
-    "OTHER" : [ "3:1749/ticqml", "4:http://www.kinonotabi.com/", "6:Kino's_Journey#Films", "7:キノの旅#.E5.8A.87.E5.A0.B4.E7.89.88.E3.82.A2.E3.83.8B.E3.83.A1", "8:434", "9:321903", "10:7195" ]
+    "SYOBOI" : [ "434" ],
+    "WEBSITE" : [ "http://www.kinonotabi.com/" ],
+    "WIKIPEDIA_EN" : [ "Kino's_Journey#Films" ],
+    "WIKIPEDIA_JP" : [ "キノの旅#.E5.8A.87.E5.A0.B4.E7.89.88.E3.82.A2.E3.83.8B.E3.83.A1" ]
   },
   "start_date" : "2005-02-19",
   "tags" : {
@@ -297,6 +303,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4164" : {
+      "info_box" : false,
+      "name" : "promotional",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4522" : {
       "info_box" : false,
       "name" : "social commentary",
@@ -317,6 +331,13 @@
       "info_box" : false,
       "name" : "TO BE MOVED TO CHARACTER",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

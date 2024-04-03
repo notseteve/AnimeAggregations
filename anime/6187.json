@@ -346,7 +346,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.51,
+        "rating" : 7.52,
         "total" : 15
       },
       "recap" : false,
@@ -1270,7 +1270,7 @@
       "length" : 25,
       "number" : 44,
       "rating" : {
-        "rating" : 8.19,
+        "rating" : 8.2,
         "total" : 9
       },
       "recap" : false,
@@ -1624,21 +1624,28 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.42,
-      "total" : 2097
+      "total" : 2098
     },
     "REVIEW" : {
       "rating" : 7.24,
       "total" : 6
     },
     "TEMPORARY" : {
-      "rating" : 8.16,
-      "total" : 2118
+      "rating" : 8.15,
+      "total" : 2119
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "332637" ],
+    "ANIME_NFO" : [ "4400,wahenu" ],
+    "ANISON" : [ "10652" ],
     "ANN" : [ "10291" ],
     "MAL" : [ "5420", "7904" ],
-    "OTHER" : [ "3:4400/wahenu", "4:http://www.production-ig.co.jp/works/erin/", "4:http://www6.nhk.or.jp/anime/program/detail.html?i=erin", "6:Kemono_no_Souja", "7:獣の奏者", "8:1521", "9:332637", "10:10652", "31:11027" ]
+    "MEDIA_ART_DATABASE" : [ "11027" ],
+    "SYOBOI" : [ "1521" ],
+    "WEBSITE" : [ "http://www.production-ig.co.jp/works/erin/", "http://www6.nhk.or.jp/anime/program/detail.html?i=erin" ],
+    "WIKIPEDIA_EN" : [ "Kemono_no_Souja" ],
+    "WIKIPEDIA_JP" : [ "獣の奏者" ]
   },
   "similar" : {
     "7" : {
@@ -1646,8 +1653,8 @@
       "total" : 16
     },
     "26" : {
-      "rating" : 6.052631578947368,
-      "total" : 152
+      "rating" : 6.078431372549019,
+      "total" : 153
     },
     "640" : {
       "rating" : 1.25,
@@ -1660,6 +1667,10 @@
     "14727" : {
       "rating" : 4.705882352941177,
       "total" : 17
+    },
+    "17504" : {
+      "rating" : 3.333333333333333,
+      "total" : 3
     }
   },
   "start_date" : "2009-01-10",

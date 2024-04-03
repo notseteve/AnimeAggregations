@@ -279,7 +279,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.83,
+        "rating" : 6.84,
         "total" : 4
       },
       "recap" : false,
@@ -379,7 +379,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.12,
+        "rating" : 7.13,
         "total" : 3
       },
       "recap" : false,
@@ -489,7 +489,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 8.4,
+        "rating" : 8.41,
         "total" : 1
       },
       "recap" : false,
@@ -504,7 +504,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 8.4,
+        "rating" : 8.41,
         "total" : 1
       },
       "recap" : false,
@@ -519,7 +519,7 @@
       "length" : 2,
       "number" : 3,
       "rating" : {
-        "rating" : 4.92,
+        "rating" : 4.93,
         "total" : 1
       },
       "recap" : false,
@@ -534,7 +534,7 @@
       "length" : 2,
       "number" : 4,
       "rating" : {
-        "rating" : 4.92,
+        "rating" : 4.93,
         "total" : 1
       },
       "recap" : false,
@@ -564,7 +564,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.92,
+        "rating" : 4.93,
         "total" : 1
       },
       "recap" : false,
@@ -578,7 +578,7 @@
       "length" : 1,
       "number" : 2,
       "rating" : {
-        "rating" : 4.92,
+        "rating" : 4.93,
         "total" : 1
       },
       "recap" : false,
@@ -592,7 +592,7 @@
       "length" : 1,
       "number" : 3,
       "rating" : {
-        "rating" : 4.92,
+        "rating" : 4.93,
         "total" : 1
       },
       "recap" : false,
@@ -617,11 +617,26 @@
     "SIDE_STORY" : [ 11720 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "353067" ],
+    "ANISON" : [ "19028" ],
     "ANN" : [ "17959" ],
+    "HIDIVE" : [ "tv/bakuon" ],
     "MAL" : [ "30795", "34623" ],
-    "OTHER" : [ "4:http://bakuon-anime.com/", "6:Bakuon!!", "7:ばくおん!!", "8:4105", "9:353067", "10:19028", "23:bakuon_anime", "42:tv/bakuon" ]
+    "SYOBOI" : [ "4105" ],
+    "TWITTER" : [ "bakuon_anime" ],
+    "WEBSITE" : [ "http://bakuon-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "Bakuon!!" ],
+    "WIKIPEDIA_JP" : [ "ばくおん!!" ]
   },
   "similar" : {
+    "1292" : {
+      "rating" : 10.0,
+      "total" : 1
+    },
+    "5072" : {
+      "rating" : 10.0,
+      "total" : 1
+    },
     "6257" : {
       "rating" : 5.454545454545454,
       "total" : 11
@@ -630,9 +645,17 @@
       "rating" : 8.461538461538462,
       "total" : 13
     },
+    "9591" : {
+      "rating" : 10.0,
+      "total" : 1
+    },
     "11201" : {
       "rating" : 7.5,
       "total" : 20
+    },
+    "11492" : {
+      "rating" : 5.0,
+      "total" : 2
     },
     "15260" : {
       "rating" : 4.615384615384616,
@@ -655,6 +678,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "1049" : {
+      "info_box" : false,
+      "name" : "bicycling",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "1279" : {
       "info_box" : false,
@@ -786,6 +817,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3751" : {
+      "info_box" : false,
+      "name" : "grandiose displays of wealth",
+      "parent_tag_id" : 6243,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4164" : {
       "info_box" : false,
       "name" : "promotional",
@@ -809,6 +848,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "5420" : {
+      "info_box" : false,
+      "name" : "wealth-related humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "5916" : {
       "info_box" : false,
@@ -844,6 +891,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6243" : {
+      "info_box" : false,
+      "name" : "money",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

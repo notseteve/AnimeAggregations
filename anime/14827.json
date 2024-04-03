@@ -96,7 +96,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.74,
+        "rating" : 4.73,
         "total" : 4
       },
       "recap" : false,
@@ -625,19 +625,28 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.31,
-      "total" : 520
+      "rating" : 6.3,
+      "total" : 526
     },
     "TEMPORARY" : {
       "rating" : 6.92,
-      "total" : 523
+      "total" : 529
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "367980" ],
+    "AMAZON" : [ "B08FMV325C" ],
+    "ANISON" : [ "22646" ],
     "ANN" : [ "22570" ],
     "CRUNCHY_ROLL" : [ "GMEHME8EZ" ],
+    "FUNIMATION" : [ "diary-of-our-days-at-the-breakwater/" ],
     "MAL" : [ "39730" ],
-    "OTHER" : [ "4:https://teibotv.com/", "6:Hōkago_Teibō_Nisshi", "7:放課後ていぼう日誌", "8:5620", "9:367980", "10:22646", "23:teibo_bu", "26:watch?v=I-4fzURroFw", "26:watch?v=PAvLwvItvts", "32:B08FMV325C", "45:diary-of-our-days-at-the-breakwater/" ]
+    "SYOBOI" : [ "5620" ],
+    "TWITTER" : [ "teibo_bu" ],
+    "WEBSITE" : [ "https://teibotv.com/" ],
+    "WIKIPEDIA_EN" : [ "Hōkago_Teibō_Nisshi" ],
+    "WIKIPEDIA_JP" : [ "放課後ていぼう日誌" ],
+    "YOUTUBE" : [ "watch?v=I-4fzURroFw", "watch?v=PAvLwvItvts" ]
   },
   "similar" : {
     "9257" : {
@@ -658,6 +667,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "1049" : {
+      "info_box" : false,
+      "name" : "bicycling",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "1973" : {
       "info_box" : false,
@@ -897,6 +914,14 @@
       "info_box" : false,
       "name" : "facial distortion",
       "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4164" : {
+      "info_box" : false,
+      "name" : "promotional",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

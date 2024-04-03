@@ -108,7 +108,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.95,
+        "rating" : 7.94,
         "total" : 8
       },
       "recap" : false,
@@ -136,7 +136,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.98,
+        "rating" : 7.97,
         "total" : 8
       },
       "recap" : false,
@@ -192,7 +192,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.76,
+        "rating" : 8.75,
         "total" : 7
       },
       "recap" : false,
@@ -220,7 +220,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.97,
+        "rating" : 7.96,
         "total" : 7
       },
       "recap" : false,
@@ -304,7 +304,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.54,
+        "rating" : 7.53,
         "total" : 6
       },
       "recap" : false,
@@ -476,7 +476,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.55,
+        "rating" : 4.54,
         "total" : 2
       },
       "recap" : false,
@@ -491,7 +491,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 2.5,
+        "rating" : 2.48,
         "total" : 1
       },
       "recap" : false,
@@ -538,21 +538,29 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.55,
-      "total" : 660
+      "rating" : 6.57,
+      "total" : 670
     },
     "TEMPORARY" : {
-      "rating" : 7.07,
-      "total" : 661
+      "rating" : 7.08,
+      "total" : 671
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "372554" ],
+    "ANISON" : [ "23472" ],
     "ANN" : [ "23261" ],
     "CRUNCHY_ROLL" : [ "GJ0H7QM1J" ],
+    "FUNIMATION" : [ "super-cub/" ],
     "IMDB" : [ "tt12285778" ],
     "MAL" : [ "40685" ],
-    "OTHER" : [ "4:https://supercub-anime.com/", "6:Super_Cub_(novel_series)", "7:スーパーカブ_(小説)", "8:5943", "9:372554", "10:23472", "23:supercub_anime", "26:watch?v=NbWU6B0qjMY", "45:super-cub/" ],
-    "TMDB" : [ "tv/95631" ]
+    "SYOBOI" : [ "5943" ],
+    "TMDB" : [ "tv/95631" ],
+    "TWITTER" : [ "supercub_anime" ],
+    "WEBSITE" : [ "https://supercub-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "Super_Cub_(novel_series)" ],
+    "WIKIPEDIA_JP" : [ "スーパーカブ_(小説)" ],
+    "YOUTUBE" : [ "watch?v=NbWU6B0qjMY" ]
   },
   "similar" : {
     "424" : {
@@ -563,9 +571,17 @@
       "rating" : 10.0,
       "total" : 8
     },
+    "11201" : {
+      "rating" : 10.0,
+      "total" : 1
+    },
     "11253" : {
       "rating" : 4.615384615384616,
       "total" : 13
+    },
+    "11492" : {
+      "rating" : 10.0,
+      "total" : 1
     },
     "12743" : {
       "rating" : 7.352941176470589,
@@ -584,6 +600,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "1049" : {
+      "info_box" : false,
+      "name" : "bicycling",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2043" : {
       "info_box" : false,
@@ -740,6 +764,13 @@
       "verified" : false,
       "weight" : 400
     },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3028" : {
       "info_box" : false,
       "name" : "real-world location",
@@ -804,6 +835,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4164" : {
+      "info_box" : false,
+      "name" : "promotional",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4176" : {
       "info_box" : false,
       "name" : "OP and ED sung by cast",
@@ -824,6 +863,14 @@
       "info_box" : false,
       "name" : "predominantly female cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4344" : {
+      "info_box" : false,
+      "name" : "motivational anime",
+      "parent_tag_id" : 2931,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -872,6 +919,14 @@
       "info_box" : false,
       "name" : "product placement",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6075" : {
+      "info_box" : false,
+      "name" : "educational",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -487,9 +487,14 @@
     "SEQUEL" : [ 5905 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "329113" ],
+    "ANIME_NFO" : [ "4010,nossql" ],
+    "ANISON" : [ "9738" ],
     "ANN" : [ "11491" ],
     "MAL" : [ "10526" ],
-    "OTHER" : [ "3:4010/nossql", "4:http://www.tv-tokyo.co.jp/contents/zero_duelmasters/", "7:デュエル・マスターズ_ゼロ#.E3.83.87.E3.83.A5.E3.82.A8.E3.83.AB.E3.83.BB.E3.83.9E.E3.82.B9.E3.82.BF.E3.83.BC.E3.82.BA_.E3.82.BC.E3.83.AD", "8:895", "9:329113", "10:9738" ]
+    "SYOBOI" : [ "895" ],
+    "WEBSITE" : [ "http://www.tv-tokyo.co.jp/contents/zero_duelmasters/" ],
+    "WIKIPEDIA_JP" : [ "デュエル・マスターズ_ゼロ#.E3.83.87.E3.83.A5.E3.82.A8.E3.83.AB.E3.83.BB.E3.83.9E.E3.82.B9.E3.82.BF.E3.83.BC.E3.82.BA_.E3.82.BC.E3.83.AD" ]
   },
   "start_date" : "2007-10-06",
   "tags" : {
@@ -619,6 +624,22 @@
       "info_box" : false,
       "name" : "sports",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

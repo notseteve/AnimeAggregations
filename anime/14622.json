@@ -42,18 +42,23 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.17,
-      "total" : 186
+      "rating" : 6.19,
+      "total" : 187
     },
     "TEMPORARY" : {
-      "rating" : 6.47,
-      "total" : 186
+      "rating" : 6.48,
+      "total" : 187
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "365144" ],
     "ANN" : [ "22356" ],
     "MAL" : [ "38292" ],
-    "OTHER" : [ "4:http://mutafukaz.jp/", "5:http://www.mutafukaz.com/", "6:Mutafukaz", "7:ムタフカズ_-MUTAFUKAZ-", "9:365144", "23:mutafukaz_ja" ]
+    "TWITTER" : [ "mutafukaz_ja" ],
+    "WEBSITE" : [ "http://mutafukaz.jp/" ],
+    "WEBSITE_EN" : [ "http://www.mutafukaz.com/" ],
+    "WIKIPEDIA_EN" : [ "Mutafukaz" ],
+    "WIKIPEDIA_JP" : [ "ムタフカズ_-MUTAFUKAZ-" ]
   },
   "start_date" : "2017-06-13",
   "tags" : {
@@ -134,6 +139,29 @@
       "verified" : false,
       "weight" : 0
     },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4664" : {
+      "info_box" : true,
+      "name" : "short movie",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -145,6 +173,22 @@
       "info_box" : false,
       "name" : "speculative fiction",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7075" : {
+      "info_box" : false,
+      "name" : "adapted into Japanese movie",
+      "parent_tag_id" : 7242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7242" : {
+      "info_box" : false,
+      "name" : "adapted into other media",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

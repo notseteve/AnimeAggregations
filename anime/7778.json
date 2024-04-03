@@ -65,9 +65,9 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "161197" ],
     "ANN" : [ "24382" ],
-    "MAL" : [ "17951" ],
-    "OTHER" : [ "9:161197" ]
+    "MAL" : [ "17951" ]
   },
   "start_date" : "1993-07-21",
   "tags" : {
@@ -81,6 +81,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -101,6 +108,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3876" : {
       "info_box" : false,
       "name" : "folklore",
@@ -113,6 +128,14 @@
       "info_box" : false,
       "name" : "DESCRIPTION MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

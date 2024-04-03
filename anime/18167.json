@@ -1,11 +1,86 @@
 {
   "anime_id" : 18167,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 100872,
+      "name" : "Aku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 100874,
+      "name" : "Kunai Hakuto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 100873,
+      "name" : "Luna Elegant",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 139244,
+      "name" : "Eagle",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139245,
+      "name" : "Fujisaki Akane",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103359,
+      "name" : "Kirisame Zero",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103356,
+      "name" : "Mink",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103352,
+      "name" : "Organ",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 104568,
+      "name" : "Tahara Isami",
+      "type" : "CHARACTER"
+    } ]
+  },
+  "creators" : {
+    "2836" : [ {
+      "name" : "Takayama Katsuhiko",
+      "type" : "SERIES_COMPOSITION"
+    } ],
+    "15951" : [ {
+      "name" : "Koga Kazuomi",
+      "type" : "DIRECTOR"
+    } ],
+    "39050" : [ {
+      "name" : "Homura Minori",
+      "type" : "CHARACTER_DESIGN"
+    } ],
+    "44485" : [ {
+      "name" : "Supa Love",
+      "type" : "MUSIC"
+    } ],
+    "56202" : [ {
+      "name" : "Kanzaki Kurone",
+      "type" : "ORIGINAL_WORK"
+    } ],
+    "68440" : [ {
+      "name" : "Gekkou",
+      "type" : "WORK"
+    } ],
+    "73290" : [ {
+      "name" : "Minotake Amaru",
+      "type" : "ORIGINAL_WORK"
+    } ]
+  },
   "description" : "* Based on a fantasy light novel series written by http://anidb.net/cr56202 [Kanzaki Kurone] and illustrated by http://anidb.net/cr43465 [Iino Makoto].",
+  "related" : {
+    "PREQUEL" : [ 14391 ]
+  },
   "resources" : {
     "MAL" : [ "56400" ],
-    "OTHER" : [ "6:Demon_Lord,_Retry!", "7:魔王様、リトライ!" ]
+    "TWITTER" : [ "maousama_anime" ],
+    "WIKIPEDIA_EN" : [ "Demon_Lord,_Retry!" ],
+    "WIKIPEDIA_JP" : [ "魔王様、リトライ!" ]
   },
-  "start_date" : "1970-01-01",
+  "start_date" : "2024",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -28,9 +103,13 @@
     "title" : "Maou-sama, Retry! R",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Demon Lord, Retry! R",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "魔王様, リトライ! R",
     "type" : "OFFICIAL"
   } ],
-  "type" : "UNKNOWN"
+  "type" : "SERIES"
 }

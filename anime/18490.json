@@ -1,5 +1,45 @@
 {
   "anime_id" : 18490,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 139091,
+      "name" : "Shimura Kouta",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 139094,
+      "name" : "Asamiya Kaho",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139089,
+      "name" : "Hamaken",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139096,
+      "name" : "Kaneko Tooru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139095,
+      "name" : "Meguro Rumi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139092,
+      "name" : "Ougi Tatsuya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139093,
+      "name" : "Shinjou Reo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139097,
+      "name" : "Toukei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139090,
+      "name" : "Yashio Aki",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "9848" : [ {
       "name" : "Hishida Masakazu",
@@ -12,6 +52,9 @@
     "25035" : [ {
       "name" : "Miyazaki Satomi",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Miyazaki Satomi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "40358" : [ {
       "name" : "Yamada Yutaka",
@@ -26,16 +69,93 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "Scrawny high school student Hobin Yu is probably the last guy you’d expect to star in a NewTube channel that revolves around fighting. But after following some advice from a mysterious NewTube channel, Hobin is soon knocking out guys stronger than him and raking in more money than he could have ever dreamed of. Can Hobin keep this up, or will he eventually meet his match?\nSource: Webtoon",
-  "resources" : {
-    "MAL" : [ "58080" ],
-    "OTHER" : [ "4:https://kenkadokugaku.com/", "6:Viral_Hit", "7:喧嘩独学", "19:싸움독학", "23:kenkadokugaku_A/" ]
+  "description" : "Scrawny high school student http://anidb.net/ch139091 [Shimura Kouta] is probably the last guy you`d expect to star in a NewTube channel that revolves around fighting. But after following some advice from a mysterious NewTube channel, Kouta is soon knocking out guys stronger than him and raking in more money than he could have ever dreamed of. Can Kouta keep this up, or will he eventually meet his match?\nSource: Webtoon",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-11",
+      "episode_id" : 278880,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-18",
+      "episode_id" : 278881,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-25",
+      "episode_id" : 278882,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-02",
+      "episode_id" : 278883,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
   },
-  "start_date" : "2024-04",
+  "resources" : {
+    "ALL_CINEMA" : [ "393579" ],
+    "ANN" : [ "32055" ],
+    "MAL" : [ "58080" ],
+    "SYOBOI" : [ "7043" ],
+    "TWITTER" : [ "kenkadokugaku_A/" ],
+    "WEBSITE" : [ "https://kenkadokugaku.com/" ],
+    "WIKIPEDIA_EN" : [ "Viral_Hit" ],
+    "WIKIPEDIA_JP" : [ "喧嘩独学" ],
+    "WIKIPEDIA_KO" : [ "싸움독학" ]
+  },
+  "start_date" : "2024-04-11",
   "tags" : {
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6153" : {
+      "info_box" : false,
+      "name" : "multi-anime projects",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7129" : {
+      "info_box" : false,
+      "name" : "Plus Ultra",
+      "parent_tag_id" : 6153,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

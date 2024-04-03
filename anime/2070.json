@@ -165,7 +165,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.14,
+        "rating" : 3.13,
         "total" : 1
       },
       "recap" : false,
@@ -204,7 +204,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.14,
+        "rating" : 3.13,
         "total" : 1
       },
       "recap" : false,
@@ -722,26 +722,33 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.5,
-      "total" : 263
+      "rating" : 6.49,
+      "total" : 264
     },
     "TEMPORARY" : {
       "rating" : 6.93,
-      "total" : 269
+      "total" : 270
     }
   },
   "related" : {
     "SEQUEL" : [ 2071 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "160013" ],
+    "ANIME_NFO" : [ "2101,libvkr" ],
+    "ANISON" : [ "539" ],
     "ANN" : [ "3588" ],
     "MAL" : [ "2903" ],
-    "OTHER" : [ "3:2101/libvkr", "4:http://www.toei-anim.co.jp/lineup/tv/otokojuku/", "6:Sakigake!!_Otokojuku", "7:魁!!男塾#.E3.82.A2.E3.83.8B.E3.83.A1", "8:3974", "9:160013", "10:539", "31:2500" ]
+    "MEDIA_ART_DATABASE" : [ "2500" ],
+    "SYOBOI" : [ "3974" ],
+    "WEBSITE" : [ "http://www.toei-anim.co.jp/lineup/tv/otokojuku/" ],
+    "WIKIPEDIA_EN" : [ "Sakigake!!_Otokojuku" ],
+    "WIKIPEDIA_JP" : [ "魁!!男塾#.E3.82.A2.E3.83.8B.E3.83.A1" ]
   },
   "similar" : {
     "1099" : {
-      "rating" : 5.217391304347826,
-      "total" : 23
+      "rating" : 5.0,
+      "total" : 24
     },
     "7934" : {
       "rating" : 4.0,

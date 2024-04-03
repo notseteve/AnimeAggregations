@@ -192,7 +192,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.39,
+        "rating" : 6.4,
         "total" : 4
       },
       "recap" : false,
@@ -242,7 +242,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.38,
+        "rating" : 6.39,
         "total" : 5
       },
       "recap" : false,
@@ -267,7 +267,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.58,
+        "rating" : 6.59,
         "total" : 6
       },
       "recap" : false,
@@ -317,7 +317,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.41,
+        "rating" : 5.42,
         "total" : 5
       },
       "recap" : false,
@@ -342,7 +342,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.07,
+        "rating" : 6.08,
         "total" : 4
       },
       "recap" : false,
@@ -367,7 +367,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.07,
+        "rating" : 6.08,
         "total" : 4
       },
       "recap" : false,
@@ -392,7 +392,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.24,
+        "rating" : 8.26,
         "total" : 4
       },
       "recap" : false,
@@ -442,7 +442,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 9.08,
+        "rating" : 9.09,
         "total" : 4
       },
       "recap" : false,
@@ -492,7 +492,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 7.84,
+        "rating" : 7.86,
         "total" : 2
       },
       "recap" : false,
@@ -507,7 +507,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 7.84,
+        "rating" : 7.86,
         "total" : 2
       },
       "recap" : false,
@@ -520,12 +520,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.66,
-      "total" : 415
+      "rating" : 7.67,
+      "total" : 429
     },
     "TEMPORARY" : {
-      "rating" : 7.52,
-      "total" : 418
+      "rating" : 7.53,
+      "total" : 432
     }
   },
   "related" : {
@@ -533,9 +533,15 @@
     "SEQUEL" : [ 17664 ]
   },
   "resources" : {
+    "ANISON" : [ "23965" ],
     "ANN" : [ "24619" ],
     "MAL" : [ "51367" ],
-    "OTHER" : [ "4:https://jojo-portal.com/anime/so/", "6:JoJo's_Bizarre_Adventure:_Stone_Ocean", "7:ジョジョの奇妙な冒険_(テレビアニメ)", "8:6450", "10:23965", "23:anime_jojo", "41:80179831" ]
+    "NETFLIX" : [ "80179831" ],
+    "SYOBOI" : [ "6450" ],
+    "TWITTER" : [ "anime_jojo" ],
+    "WEBSITE" : [ "https://jojo-portal.com/anime/so/" ],
+    "WIKIPEDIA_EN" : [ "JoJo's_Bizarre_Adventure:_Stone_Ocean" ],
+    "WIKIPEDIA_JP" : [ "ジョジョの奇妙な冒険_(テレビアニメ)" ]
   },
   "start_date" : "2022-09-01",
   "tags" : {
@@ -545,6 +551,21 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2798" : {
       "info_box" : true,
@@ -580,6 +601,10 @@
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
+    "title" : "JoJo`s Bizarre Adventure: Stone Ocean (Part 2)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "FRENCH",
     "title" : "JoJo`s Bizarre Adventure: Stone Ocean (Part 2)",
     "type" : "OFFICIAL"
   }, {

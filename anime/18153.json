@@ -11,12 +11,24 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 138749,
+      "name" : "Igarashi Shouta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138750,
+      "name" : "Saitou Kaede",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 136239,
       "name" : "Saitou Mino",
       "type" : "CHARACTER"
     }, {
       "character_id" : 136241,
       "name" : "Saitou Shiori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138751,
+      "name" : "Saitou Yoshiaki",
       "type" : "CHARACTER"
     } ]
   },
@@ -46,11 +58,64 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "resources" : {
-    "MAL" : [ "56230" ],
-    "OTHER" : [ "4:https://jisanbasan.com/", "6:Jii-san_Baa-san_Wakagaeru", "7:じいさんばあさん若返る", "23:jisanbasan_prj" ]
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-07",
+      "episode_id" : 278840,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-14",
+      "episode_id" : 278841,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-21",
+      "episode_id" : 278842,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-28",
+      "episode_id" : 278843,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
   },
-  "start_date" : "2024-04",
+  "resources" : {
+    "ALL_CINEMA" : [ "392446" ],
+    "ANN" : [ "29353" ],
+    "MAL" : [ "56230" ],
+    "SYOBOI" : [ "6999" ],
+    "TWITTER" : [ "jisanbasan_prj" ],
+    "WEBSITE" : [ "https://jisanbasan.com/" ],
+    "WIKIPEDIA_EN" : [ "Jii-san_Baa-san_Wakagaeru" ],
+    "WIKIPEDIA_JP" : [ "じいさんばあさん若返る" ]
+  },
+  "start_date" : "2024-04-07",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -72,6 +137,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Jii-san Baa-san Wakagaeru",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Grandpa and Grandma Turn Young Again",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "じいさんばあさん若返る",

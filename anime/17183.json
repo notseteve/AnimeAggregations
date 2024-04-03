@@ -123,7 +123,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.94,
+        "rating" : 5.95,
         "total" : 2
       },
       "recap" : false,
@@ -205,7 +205,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.85,
+        "rating" : 7.84,
         "total" : 1
       },
       "recap" : false,
@@ -398,7 +398,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.21,
+        "rating" : 5.19,
         "total" : 1
       },
       "recap" : false,
@@ -426,7 +426,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.21,
+        "rating" : 5.19,
         "total" : 1
       },
       "recap" : false,
@@ -454,7 +454,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 5.21,
+        "rating" : 5.19,
         "total" : 1
       },
       "recap" : false,
@@ -482,7 +482,7 @@
       "length" : 25,
       "number" : 14,
       "rating" : {
-        "rating" : 7.85,
+        "rating" : 7.84,
         "total" : 1
       },
       "recap" : false,
@@ -509,7 +509,7 @@
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 2.89,
+        "rating" : 2.87,
         "total" : 1
       },
       "recap" : false,
@@ -536,7 +536,7 @@
       "length" : 25,
       "number" : 16,
       "rating" : {
-        "rating" : 7.85,
+        "rating" : 7.84,
         "total" : 1
       },
       "recap" : false,
@@ -563,7 +563,7 @@
       "length" : 25,
       "number" : 17,
       "rating" : {
-        "rating" : 5.21,
+        "rating" : 5.19,
         "total" : 1
       },
       "recap" : false,
@@ -591,7 +591,7 @@
       "length" : 25,
       "number" : 18,
       "rating" : {
-        "rating" : 7.85,
+        "rating" : 7.84,
         "total" : 1
       },
       "recap" : false,
@@ -618,7 +618,7 @@
       "length" : 25,
       "number" : 19,
       "rating" : {
-        "rating" : 7.85,
+        "rating" : 7.84,
         "total" : 1
       },
       "recap" : false,
@@ -672,7 +672,7 @@
       "length" : 25,
       "number" : 21,
       "rating" : {
-        "rating" : 7.85,
+        "rating" : 7.84,
         "total" : 1
       },
       "recap" : false,
@@ -699,7 +699,7 @@
       "length" : 25,
       "number" : 22,
       "rating" : {
-        "rating" : 7.85,
+        "rating" : 7.84,
         "total" : 1
       },
       "recap" : false,
@@ -753,7 +753,7 @@
       "length" : 25,
       "number" : 24,
       "rating" : {
-        "rating" : 7.85,
+        "rating" : 7.84,
         "total" : 1
       },
       "recap" : false,
@@ -808,7 +808,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 3.28,
+        "rating" : 3.29,
         "total" : 1
       },
       "recap" : false,
@@ -834,7 +834,7 @@
       "length" : 2,
       "number" : 3,
       "rating" : {
-        "rating" : 3.01,
+        "rating" : 3.02,
         "total" : 1
       },
       "recap" : false,
@@ -858,22 +858,28 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.15,
-      "total" : 115
+      "rating" : 5.12,
+      "total" : 116
     },
     "TEMPORARY" : {
-      "rating" : 6.35,
-      "total" : 116
+      "rating" : 6.32,
+      "total" : 117
     }
   },
   "related" : {
     "PREQUEL" : [ 15597 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "384871" ],
+    "ANISON" : [ "23489" ],
     "ANN" : [ "25307" ],
     "CRUNCHY_ROLL" : [ "G79H23XJJ" ],
     "MAL" : [ "50002" ],
-    "OTHER" : [ "4:https://edens-zero.net/", "6:Edens_Zero", "7:EDENS_ZERO", "8:6634", "9:384871", "10:23489", "23:EDENSZERO_PJ" ]
+    "SYOBOI" : [ "6634" ],
+    "TWITTER" : [ "EDENSZERO_PJ" ],
+    "WEBSITE" : [ "https://edens-zero.net/" ],
+    "WIKIPEDIA_EN" : [ "Edens_Zero" ],
+    "WIKIPEDIA_JP" : [ "EDENS_ZERO" ]
   },
   "start_date" : "2023-04-02",
   "tags" : {
@@ -898,6 +904,37 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2627" : {
+      "info_box" : false,
+      "name" : "space",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2661" : {
+      "info_box" : false,
+      "name" : "shipboard",
+      "parent_tag_id" : 2627,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2798" : {
       "info_box" : true,
