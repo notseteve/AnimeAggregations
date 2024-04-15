@@ -77,42 +77,83 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "http://anidb.net/ch133033 [Allen] is banished from the Duchy of Westfeldt on account of his low level and lack of a god-given Gift, and all seems lost. But with his memories of a past life as a hero intact, Allen sees this twist of fate as a blessing—he can finally live his life as he pleases! That momentary peace is cut short when Allen saves his http://anidb.net/ch137600 [ex-fiancée], beginning a new saga for the banished former hero.\nSource: Crunchyroll",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-02",
+      "description" : "Alan is deemed to be a failure and cast out of his family. He is delighted to leave his stifling life behind and sets off on a journey to find the peace he longs for. Then, he happens to run across his ex-fiancée, Lise, being attacked by monsters.\nSource: crunchyroll",
       "episode_id" : 278700,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.68,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUNKK83" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Banni"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Cast Out"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsuihou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "追放"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-02",
+      "description" : "After an unexpected battle, Alan decides to travel with Lise and Béatrice for a while longer. Lise wants to introduce him to a friend, a swordsmith in a village in the borderlands, but when they arrive, they find Lise`s friend has collapsed!\nSource: crunchyroll",
+      "episode_id" : 278701,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 2.93,
+        "total" : 5
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUZDDE8" ]
+      },
+      "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "L’épée sacrée du maître forgeron"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Seiken no Kajishi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Master Blacksmith of the Sacred Sword"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "聖剣の鍛冶師"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-04-09",
-      "episode_id" : 278701,
-      "length" : 25,
-      "number" : 2,
-      "recap" : false,
-      "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 2"
-      } ],
-      "type" : "REGULAR"
-    }, {
-      "air_date" : "2024-04-16",
       "episode_id" : 278702,
       "length" : 25,
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Iji to Kakugo"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Stubbornness and Determination"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "意地と覚悟"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-04-23",
+      "air_date" : "2024-04-16",
       "episode_id" : 278703,
       "length" : 25,
       "number" : 4,
@@ -124,9 +165,21 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.98,
+      "total" : 33
+    },
+    "TEMPORARY" : {
+      "rating" : 3.9,
+      "total" : 33
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "393388" ],
+    "ANISON" : [ "25371" ],
     "ANN" : [ "28700" ],
+    "CRUNCHY_ROLL" : [ "G4PH0WJPN" ],
     "MAL" : [ "55717" ],
     "SYOBOI" : [ "7008" ],
     "TWITTER" : [ "dekisoko_pr" ],
@@ -134,8 +187,29 @@
     "WIKIPEDIA_EN" : [ "Dekisokonai_to_Yobareta_Moto_Eiyū_wa,_Jikka_Kara_Tsuihōsareta_node_Suki_Katte_ni_Ikiru_Koto_ni_Shita" ],
     "WIKIPEDIA_JP" : [ "出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした" ]
   },
+  "similar" : {
+    "16792" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
+  },
   "start_date" : "2024-04-02",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -164,6 +238,10 @@
     "language" : "JAPANESE",
     "title" : "出来損ないと呼ばれた元英雄は, 実家から追放されたので好き勝手に生きることにした",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Dekisoko",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://www.dekisoko-anime.com/"

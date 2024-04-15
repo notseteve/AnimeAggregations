@@ -29,7 +29,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.19,
+        "rating" : 6.2,
         "total" : 6
       },
       "recap" : false,
@@ -59,7 +59,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.49,
+        "rating" : 4.48,
         "total" : 6
       },
       "recap" : false,
@@ -104,8 +104,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.56,
-        "total" : 2
+        "rating" : 4.59,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -118,6 +118,10 @@
       "episode_id" : 278206,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 3.42,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -129,22 +133,70 @@
       "episode_id" : 278207,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 2.41,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-07",
+      "episode_id" : 279486,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-14",
+      "episode_id" : 279487,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-21",
+      "episode_id" : 279488,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-28",
+      "episode_id" : 279489,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.14,
-      "total" : 31
+      "rating" : 5.12,
+      "total" : 42
     },
     "TEMPORARY" : {
-      "rating" : 7.48,
-      "total" : 33
+      "rating" : 7.08,
+      "total" : 44
     }
   },
   "resources" : {
@@ -154,6 +206,44 @@
   },
   "start_date" : "2024-02-11",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4096" : {
+      "info_box" : false,
+      "name" : "gore",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

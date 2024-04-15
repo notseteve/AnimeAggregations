@@ -1,6 +1,35 @@
 {
   "anime_id" : 18153,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 140096,
+      "name" : "Igarashi Daiki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140097,
+      "name" : "Igarashi Heisuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140099,
+      "name" : "Koukichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140100,
+      "name" : "Matsunosuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140095,
+      "name" : "Saitou Ine",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140094,
+      "name" : "Saitou Shouzou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140098,
+      "name" : "Sano",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 136238,
       "name" : "Saitou Ine",
@@ -58,16 +87,31 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "After eating a mysterious apple from their farm, an elderly pair of lovebirds, Shouzou and Ine, experience a miraculous transformation into their younger selves. Despite their newfound youth and beauty, the two continue in their cute senior ways. Witness an enduring bond that`s stronger and more precious than ever before.\nSource: crunchyroll",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-07",
+      "description" : "Shouzou and Ine, an old married couple, are known to everyone as a pair of lovebirds. One day, they wake up to find they look like their younger selves! When Mino, their granddaughter, sees them, she`s shocked by their transformation, and she`s not alone!\nSource: crunchyroll",
       "episode_id" : 278840,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.44,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DUE0ZE2" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Grandpa and Grandma and the Sports Festival"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jiisan Baasan to Undoukai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "じいさんばあさんと運動会"
       } ],
       "type" : "REGULAR"
     }, {
@@ -78,7 +122,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Grandpa and Grandma and Their Children"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jiisan Baasan no Kodomo-tachi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "じいさんばあさんの子供たち"
       } ],
       "type" : "REGULAR"
     }, {
@@ -103,20 +153,65 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-03-01",
+      "episode_id" : 279813,
+      "length" : 45,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saishin Jouhou Kaikin Tokuban: Saito-ke e Youkoso!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "最新情報解禁特番 ~斎藤家へようこそ!~"
+      } ],
+      "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.15,
+      "total" : 25
+    },
+    "TEMPORARY" : {
+      "rating" : 5.87,
+      "total" : 25
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "392446" ],
     "ANN" : [ "29353" ],
+    "CRUNCHY_ROLL" : [ "GW4HM7W99" ],
     "MAL" : [ "56230" ],
     "SYOBOI" : [ "6999" ],
     "TWITTER" : [ "jisanbasan_prj" ],
     "WEBSITE" : [ "https://jisanbasan.com/" ],
     "WIKIPEDIA_EN" : [ "Jii-san_Baa-san_Wakagaeru" ],
-    "WIKIPEDIA_JP" : [ "じいさんばあさん若返る" ]
+    "WIKIPEDIA_JP" : [ "じいさんばあさん若返る" ],
+    "YOUTUBE" : [ "watch?v=PfO7lb42VSQ" ]
   },
   "start_date" : "2024-04-07",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -135,7 +230,7 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Jii-san Baa-san Wakagaeru",
+    "title" : "Jiisan Baasan Wakagaeru",
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",

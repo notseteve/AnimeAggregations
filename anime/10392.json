@@ -228,11 +228,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.81,
-      "total" : 692
+      "total" : 693
     },
     "TEMPORARY" : {
       "rating" : 7.28,
-      "total" : 700
+      "total" : 701
     }
   },
   "related" : {
@@ -347,9 +347,25 @@
       "verified" : false,
       "weight" : 100
     },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
       "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
@@ -395,10 +411,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "3055" : {
+      "info_box" : false,
+      "name" : "fairy tale",
+      "parent_tag_id" : 3876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3411" : {
       "info_box" : false,
       "name" : "fighting",
       "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -411,10 +451,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "3876" : {
+      "info_box" : false,
+      "name" : "folklore",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4052" : {
       "info_box" : false,
       "name" : "treasure hunting",
       "parent_tag_id" : 2850,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

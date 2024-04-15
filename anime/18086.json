@@ -13,6 +13,31 @@
       "character_id" : 128520,
       "name" : "Hoshino Ruby",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 130523,
+      "name" : "Arima Kana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133323,
+      "name" : "Kamoshida Sakuya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131354,
+      "name" : "Kurokawa Akane",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131353,
+      "name" : "Mem-cho",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132216,
+      "name" : "Narushima Melt",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133325,
+      "name" : "Uehara Taiki",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -32,6 +57,10 @@
       "name" : "Yokoyari Mengo",
       "type" : "ORIGINAL_WORK"
     } ],
+    "43888" : [ {
+      "name" : "Iga Takurou",
+      "type" : "MUSIC"
+    } ],
     "49858" : [ {
       "name" : "Hirayama Kanna",
       "type" : "CHARACTER_DESIGN"
@@ -46,15 +75,46 @@
     "PREQUEL" : [ 17449 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "392545" ],
     "ANN" : [ "28810" ],
     "MAL" : [ "55791" ],
     "TWITTER" : [ "anime_oshinoko" ],
-    "WEBSITE" : [ "https://ichigoproduction.com/" ],
+    "WEBSITE" : [ "https://ichigoproduction.com/Season2/" ],
     "WIKIPEDIA_EN" : [ "Oshi_no_Ko" ],
     "WIKIPEDIA_JP" : [ "【推しの子】" ]
   },
-  "start_date" : "2024",
+  "start_date" : "2024-07",
   "tags" : {
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -76,14 +136,14 @@
     "title" : "\"Oshi no Ko\" (2024)",
     "type" : "MAIN"
   }, {
-    "language" : "JAPANESE",
-    "title" : "[推しの子] 2",
+    "language" : "ENGLISH",
+    "title" : "Oshi no Ko (2024)",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Oshi no Ko 2",
-    "type" : "SYNONYM"
+    "language" : "JAPANESE",
+    "title" : "[推しの子] (2024)",
+    "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",
-  "url" : "https://ichigoproduction.com/"
+  "url" : "https://ichigoproduction.com/Season2/"
 }

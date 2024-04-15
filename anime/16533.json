@@ -121,7 +121,7 @@
       "length" : 20,
       "number" : 2,
       "rating" : {
-        "rating" : 7.15,
+        "rating" : 7.14,
         "total" : 5
       },
       "recap" : false,
@@ -136,7 +136,7 @@
       "length" : 20,
       "number" : 3,
       "rating" : {
-        "rating" : 7.42,
+        "rating" : 7.41,
         "total" : 5
       },
       "recap" : false,
@@ -195,11 +195,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.59,
-      "total" : 236
+      "total" : 245
     },
     "TEMPORARY" : {
-      "rating" : 7.77,
-      "total" : 238
+      "rating" : 7.79,
+      "total" : 248
     }
   },
   "related" : {
@@ -216,11 +216,39 @@
     "WIKIPEDIA_EN" : [ "The_Tatami_Galaxy" ],
     "WIKIPEDIA_JP" : [ "四畳半タイムマシンブルース" ]
   },
+  "similar" : {
+    "1865" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
+  },
   "start_date" : "2022-09-14",
   "tags" : {
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -325,6 +353,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2778" : {
       "info_box" : false,
       "name" : "slow when it comes to love",
@@ -389,6 +425,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3546" : {
+      "info_box" : false,
+      "name" : "experimental animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3946" : {
       "info_box" : false,
       "name" : "filmmaking",
@@ -404,6 +448,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "4584" : {
       "info_box" : false,
@@ -447,6 +499,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

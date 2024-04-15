@@ -95,7 +95,7 @@
       "length" : 140,
       "number" : 1,
       "rating" : {
-        "rating" : 6.38,
+        "rating" : 6.39,
         "total" : 1
       },
       "recap" : false,
@@ -272,11 +272,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.22,
-      "total" : 471
+      "total" : 474
     },
     "TEMPORARY" : {
       "rating" : 5.82,
-      "total" : 471
+      "total" : 474
     }
   },
   "related" : {
@@ -341,6 +341,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -479,6 +486,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2826" : {
       "info_box" : false,
       "name" : "pantsu",
@@ -614,6 +629,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3932" : {
       "info_box" : false,
       "name" : "older female younger male",
@@ -674,6 +697,14 @@
       "info_box" : false,
       "name" : "surreal",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

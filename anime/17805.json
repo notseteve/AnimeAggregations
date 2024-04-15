@@ -219,7 +219,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.08,
+        "rating" : 4.03,
         "total" : 8
       },
       "recap" : false,
@@ -240,7 +240,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.33,
+        "rating" : 6.3,
         "total" : 3
       },
       "recap" : false,
@@ -261,7 +261,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.43,
+        "rating" : 4.41,
         "total" : 4
       },
       "recap" : false,
@@ -282,7 +282,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.93,
+        "rating" : 4.91,
         "total" : 5
       },
       "recap" : false,
@@ -324,7 +324,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.99,
+        "rating" : 5.98,
         "total" : 2
       },
       "recap" : false,
@@ -366,7 +366,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.15,
+        "rating" : 7.14,
         "total" : 2
       },
       "recap" : false,
@@ -387,7 +387,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 3.18,
+        "rating" : 3.16,
         "total" : 3
       },
       "recap" : false,
@@ -408,7 +408,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.84,
+        "rating" : 5.85,
         "total" : 3
       },
       "recap" : false,
@@ -429,7 +429,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 3.01,
+        "rating" : 2.99,
         "total" : 3
       },
       "recap" : false,
@@ -450,7 +450,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 3.14,
+        "rating" : 3.1,
         "total" : 4
       },
       "recap" : false,
@@ -541,7 +541,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 5.41,
+        "rating" : 5.58,
         "total" : 2
       },
       "recap" : false,
@@ -556,7 +556,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 5.41,
+        "rating" : 5.58,
         "total" : 2
       },
       "recap" : false,
@@ -572,7 +572,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.86,
+        "rating" : 4.52,
         "total" : 1
       },
       "recap" : false,
@@ -642,12 +642,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.19,
-      "total" : 244
+      "rating" : 4.77,
+      "total" : 325
     },
     "TEMPORARY" : {
-      "rating" : 6.21,
-      "total" : 247
+      "rating" : 6.58,
+      "total" : 328
     }
   },
   "resources" : {
@@ -665,6 +665,22 @@
   },
   "start_date" : "2023-10-07",
   "tags" : {
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1409" : {
+      "info_box" : true,
+      "name" : "vampire",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
@@ -675,6 +691,13 @@
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -695,9 +718,41 @@
       "verified" : false,
       "weight" : 0
     },
+    "2821" : {
+      "info_box" : false,
+      "name" : "sudden naked girl appearance",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -1,6 +1,23 @@
 {
   "anime_id" : 17676,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 130668,
+      "name" : "Chikuwa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140020,
+      "name" : "Hahaoya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140019,
+      "name" : "Hana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 94862,
+      "name" : "Shinshiro Hajime",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 91023,
       "name" : "Inuyama Aoi",
@@ -23,6 +40,26 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 137647,
+      "name" : "Inuyama Akari",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 92740,
+      "name" : "Kagamihara Sakura",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139766,
+      "name" : "Mizunami Ema",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139765,
+      "name" : "Nakatsugawa Mei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 94566,
+      "name" : "Toba Minami",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 114149,
       "name" : "Toki Ayano",
       "type" : "CHARACTER"
@@ -33,9 +70,20 @@
       "name" : "Tosaka Shin",
       "type" : "DIRECTOR"
     } ],
+    "14212" : [ {
+      "name" : "Matsuo Masahiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "14861" : [ {
+      "name" : "Toyoda Akiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "20695" : [ {
       "name" : "Hashimoto Takanori",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Hashimoto Takanori",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "21883" : [ {
       "name" : "8bit",
@@ -54,8 +102,114 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on http://anidb.net/cr48518 [Afro]`s slow outdoor seinen manga.",
+  "description" : "* Based on http://anidb.net/cr48518 [Afro]`s slow outdoor seinen manga.\nNadeshiko, a high school student who had moved from Shizuoka to Yamanashi, decides to see the famous, 1000 yen-bill-featured Mount Fuji. Even though she manages to bike all the way to Motosu, she`s forced to turn back because of worsening weather. Unable to set her eyes on her goal, she faints partway to her destination. When she wakes up, it`s night, in a place she`s never been before, with no way of knowing how to get home. Nadeshiko is saved when she encounters Rin, a girl who is out camping by herself. This outdoorsy girls story begins with this first encounter between Nadeshiko and Rin.\nSource: crunchyroll\nNote: The first three episodes received an early screening at a special event on February 24, 2024 at Shinjuku Piccadilly in Tokyo and 16 additional venues across Japan. The regular TV broadcast started on April 4, 2024.",
   "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-04",
+      "description" : "Rin thinks back to how her grandpa got her into camping. Meanwhile, the Outdoor Activities Club gets back together for the first time in a while. They build an alcohol stove and plan their next outing.\nSource: crunchyroll",
+      "episode_id" : 278800,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 7.63,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUQV533" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsugi, Doko Ikouka"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Where Should We Go Next?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "次, どこ行こうか"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-11",
+      "episode_id" : 278801,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Mini Camping and Yard Camping"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Petit Camp to Niwa Camp"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "プチキャンと庭キャン"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-18",
+      "episode_id" : 278802,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-25",
+      "episode_id" : 278803,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-03-28",
+      "episode_id" : 279607,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chokuzen Tokuban: \"Yuru Camp\" e Youkoso - Shin Member Kangei Special"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "直前特番 ~「ゆるキャン△」へようこそ~ 新メンバー歓迎スペシャル"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-04-04",
+      "episode_id" : 279884,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-04-04",
+      "episode_id" : 279885,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2023-09-28",
       "episode_id" : 271434,
@@ -75,12 +229,24 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.89,
+      "total" : 17
+    },
+    "TEMPORARY" : {
+      "rating" : 7.35,
+      "total" : 17
+    }
+  },
   "related" : {
-    "PREQUEL" : [ 14437 ]
+    "PREQUEL" : [ 14438 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "390289" ],
+    "ANISON" : [ "25358" ],
     "ANN" : [ "26481" ],
+    "CRUNCHY_ROLL" : [ "GRWEW95KR" ],
     "MAL" : [ "53410" ],
     "SYOBOI" : [ "6991" ],
     "TWITTER" : [ "yurucamp_anime" ],

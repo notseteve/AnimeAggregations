@@ -38,6 +38,10 @@
       "name" : "Hezera",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 127651,
+      "name" : "Leonica",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 132552,
       "name" : "Mergubude",
       "type" : "CHARACTER"
@@ -62,10 +66,6 @@
       "name" : "Shantioras",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 134626,
-      "name" : "Starria Reese",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 134977,
       "name" : "Taratectora",
       "type" : "CHARACTER"
@@ -88,12 +88,12 @@
       "name" : "Grumwerte",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 127651,
-      "name" : "Leonica",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 134452,
       "name" : "Slime",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 134626,
+      "name" : "Starria Reese",
       "type" : "CHARACTER"
     }, {
       "character_id" : 134449,
@@ -164,7 +164,7 @@
       "length" : 50,
       "number" : 1,
       "rating" : {
-        "rating" : 3.59,
+        "rating" : 3.6,
         "total" : 3
       },
       "recap" : false,
@@ -188,7 +188,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 1.54,
+        "rating" : 1.55,
         "total" : 2
       },
       "recap" : false,
@@ -212,7 +212,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 9.76,
+        "rating" : 9.81,
         "total" : 1
       },
       "recap" : false,
@@ -236,7 +236,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.49,
+        "rating" : 4.52,
         "total" : 2
       },
       "recap" : false,
@@ -260,7 +260,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.99,
+        "rating" : 4.0,
         "total" : 3
       },
       "recap" : false,
@@ -284,7 +284,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.91,
+        "rating" : 6.92,
         "total" : 3
       },
       "recap" : false,
@@ -308,7 +308,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 3.33,
+        "rating" : 3.35,
         "total" : 2
       },
       "recap" : false,
@@ -332,7 +332,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 4.49,
+        "rating" : 4.52,
         "total" : 2
       },
       "recap" : false,
@@ -356,7 +356,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.18,
+        "rating" : 5.23,
         "total" : 1
       },
       "recap" : false,
@@ -380,7 +380,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.18,
+        "rating" : 5.23,
         "total" : 1
       },
       "recap" : false,
@@ -428,7 +428,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.82,
+        "rating" : 7.89,
         "total" : 1
       },
       "recap" : false,
@@ -452,7 +452,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 7.82,
+        "rating" : 7.89,
         "total" : 1
       },
       "recap" : false,
@@ -476,7 +476,7 @@
       "length" : 25,
       "number" : 14,
       "rating" : {
-        "rating" : 7.82,
+        "rating" : 7.89,
         "total" : 1
       },
       "recap" : false,
@@ -500,7 +500,7 @@
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 7.82,
+        "rating" : 7.89,
         "total" : 1
       },
       "recap" : false,
@@ -521,7 +521,7 @@
       "length" : 25,
       "number" : 16,
       "rating" : {
-        "rating" : 7.82,
+        "rating" : 7.89,
         "total" : 1
       },
       "recap" : false,
@@ -545,7 +545,7 @@
       "length" : 25,
       "number" : 17,
       "rating" : {
-        "rating" : 5.18,
+        "rating" : 5.23,
         "total" : 1
       },
       "recap" : false,
@@ -569,7 +569,7 @@
       "length" : 25,
       "number" : 18,
       "rating" : {
-        "rating" : 2.87,
+        "rating" : 2.89,
         "total" : 1
       },
       "recap" : false,
@@ -617,7 +617,7 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 7.82,
+        "rating" : 7.89,
         "total" : 1
       },
       "recap" : false,
@@ -641,7 +641,7 @@
       "length" : 25,
       "number" : 21,
       "rating" : {
-        "rating" : 9.76,
+        "rating" : 9.81,
         "total" : 1
       },
       "recap" : false,
@@ -664,8 +664,15 @@
       "episode_id" : 278168,
       "length" : 25,
       "number" : 22,
+      "rating" : {
+        "rating" : 7.89,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Le roi des Ailés"
+      }, {
         "language" : "ENGLISH",
         "title" : "The Winged Monarch"
       }, {
@@ -681,10 +688,23 @@
       "episode_id" : 278169,
       "length" : 25,
       "number" : 23,
+      "rating" : {
+        "rating" : 9.81,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Le dieu de la foudre"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 23"
+        "title" : "Lightning God"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Raijin"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "雷神"
       } ],
       "type" : "REGULAR"
     }, {
@@ -694,8 +714,17 @@
       "number" : 24,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hikari"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 24"
+        "title" : "Light"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Lumière"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "光"
       } ],
       "type" : "REGULAR"
     } ],
@@ -744,7 +773,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.92,
+        "rating" : 4.91,
         "total" : 1
       },
       "recap" : false,
@@ -757,12 +786,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.65,
-      "total" : 115
+      "rating" : 5.32,
+      "total" : 224
     },
     "TEMPORARY" : {
-      "rating" : 6.65,
-      "total" : 117
+      "rating" : 6.59,
+      "total" : 224
     }
   },
   "resources" : {
@@ -781,8 +810,8 @@
   },
   "similar" : {
     "16296" : {
-      "rating" : 2.0,
-      "total" : 5
+      "rating" : 1.4285714285714284,
+      "total" : 7
     }
   },
   "start_date" : "2023-10-01",

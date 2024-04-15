@@ -1,6 +1,35 @@
 {
   "anime_id" : 18213,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 135334,
+      "name" : "Evelyn",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 118362,
+      "name" : "Gerbera",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 118956,
+      "name" : "Keto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135335,
+      "name" : "Millie",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135333,
+      "name" : "Pfeifer",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135332,
+      "name" : "Sarah Sunroad",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 118955,
+      "name" : "Teto",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 115214,
       "name" : "Alice Lendrott",
@@ -19,12 +48,28 @@
       "name" : "Dulles",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 135123,
+      "name" : "Free",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135124,
+      "name" : "Ichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135125,
+      "name" : "Nico",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 117230,
       "name" : "Rob",
       "type" : "CHARACTER"
     }, {
       "character_id" : 118364,
       "name" : "Sade",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 119744,
+      "name" : "Sharon Lendrott",
       "type" : "CHARACTER"
     }, {
       "character_id" : 117231,
@@ -71,12 +116,90 @@
     } ]
   },
   "description" : "* Based on a romance comedy manga by http://anidb.net/cr62867 [Inoue].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-07",
+      "description" : "The Duke, Alice, Cuff, and Zain spend some time at the wizardry school. Meanwhile, Daleth finds someone rather unexpected in the Underworld and takes them to the Duke`s mansion.\nSource: crunchyroll",
+      "episode_id" : 279019,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 6.06,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU0MN2P" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bocchan to Alice to Saikai no Haha"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Duke, Alice, and Reuniting with Mom"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "坊ちゃんとアリスと再会の母"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-14",
+      "episode_id" : 279020,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bocchan to Alice to Nazo no Bunshin"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Duke, Alice, and the Mysterious Clone"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "坊ちゃんとアリスと謎の分身"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-21",
+      "episode_id" : 279021,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-28",
+      "episode_id" : 279022,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.56,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 5.28,
+      "total" : 7
+    }
+  },
   "related" : {
     "PREQUEL" : [ 16755 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "393062" ],
     "ANN" : [ "30082" ],
+    "CRUNCHY_ROLL" : [ "G79H23V0G" ],
     "MAL" : [ "56738" ],
     "SYOBOI" : [ "7034" ],
     "TWITTER" : [ "bocchan_anime" ],
@@ -86,6 +209,36 @@
   },
   "start_date" : "2024-04-07",
   "tags" : {
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

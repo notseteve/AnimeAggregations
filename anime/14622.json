@@ -29,7 +29,7 @@
       "length" : 95,
       "number" : 1,
       "rating" : {
-        "rating" : 6.48,
+        "rating" : 6.47,
         "total" : 2
       },
       "recap" : false,
@@ -42,17 +42,20 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.19,
-      "total" : 187
+      "rating" : 6.2,
+      "total" : 188
     },
     "TEMPORARY" : {
-      "rating" : 6.48,
-      "total" : 187
+      "rating" : 6.47,
+      "total" : 188
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "365144" ],
+    "AMAZON" : [ "B07PVQ57RX" ],
+    "AMAZON_PRIME" : [ "MFKZ" ],
     "ANN" : [ "22356" ],
+    "IMDB" : [ "tt4717402" ],
     "MAL" : [ "38292" ],
     "TWITTER" : [ "mutafukaz_ja" ],
     "WEBSITE" : [ "http://mutafukaz.jp/" ],
@@ -123,9 +126,25 @@
       "verified" : false,
       "weight" : 400
     },
+    "3315" : {
+      "info_box" : false,
+      "name" : "superhero",
+      "parent_tag_id" : 2623,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "3430" : {
       "info_box" : true,
       "name" : "Western comics",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
       "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,

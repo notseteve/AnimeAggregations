@@ -1,6 +1,19 @@
 {
   "anime_id" : 18019,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 140076,
+      "name" : "Chuuzai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140073,
+      "name" : "Wataru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140072,
+      "name" : "Yuuma",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 137318,
       "name" : "Igarashi Kazuyoshi",
@@ -8,6 +21,27 @@
     }, {
       "character_id" : 137319,
       "name" : "Ooi Tonbo",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 140074,
+      "name" : "Adaniya Youko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140071,
+      "name" : "Bunpei Tadashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140075,
+      "name" : "Kanchou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140070,
+      "name" : "Mitsushima Setsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140069,
+      "name" : "Ooi Gonzou",
       "type" : "CHARACTER"
     } ]
   },
@@ -19,6 +53,9 @@
     "6389" : [ {
       "name" : "Takeuchi Akira",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Takeuchi Akira",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "7370" : [ {
       "name" : "Hirota Mitsutaka",
@@ -37,12 +74,17 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "A dramatic tale of golf and humans, set on the beautiful Tokara Islands. http://anidb.net/ch137318 [Igarashi] has thrown away his past and fled society, relocating to Hinoshima Island. Here, on \"Japan`s last hidden paradise,\" he meets http://anidb.net/ch137319 [Tonbo], the island`s only middle schooler. To his surprise, this girl harbors an extraordinary talent for golf!? This encounter marks the beginning of a significant change in their destinies.\nSource: Amazon",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-06",
       "episode_id" : 278828,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.77,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -62,6 +104,12 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "3 Tetsu no Himitsu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "3鉄の秘密"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 2"
       } ],
@@ -88,10 +136,40 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-03-31",
+      "episode_id" : 279765,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Anime-ka Kinen SP \"Narita Misuzu Pro to Kawasaki Ken-sensei no Osanpo Golf\""
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アニメ化記念ＳＰ『成田美寿々プロとかわさき健先生のおさんぽゴルフ』"
+      } ],
+      "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.63,
+      "total" : 6
+    },
+    "TEMPORARY" : {
+      "rating" : 5.16,
+      "total" : 6
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "391824" ],
+    "AMAZON" : [ "B0CVN825JL" ],
+    "ANISON" : [ "25398" ],
     "ANN" : [ "28078" ],
     "MAL" : [ "55194" ],
     "SYOBOI" : [ "7029" ],
@@ -102,6 +180,21 @@
   },
   "start_date" : "2024-04-06",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -122,6 +215,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Oi! Tonbo",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Tonbo!",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "オーイ! とんぼ",

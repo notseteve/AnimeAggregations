@@ -93,9 +93,21 @@
       "name" : "Hayashi Yuuki",
       "type" : "MUSIC"
     } ],
+    "35981" : [ {
+      "name" : "10 Gauge",
+      "type" : "SERIES_COMPOSITION"
+    } ],
+    "36242" : [ {
+      "name" : "Yoda Nobutaka",
+      "type" : "SERIES_COMPOSITION"
+    } ],
     "44143" : [ {
       "name" : "Horikoshi Kouhei",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "61421" : [ {
+      "name" : "Kobayashi Atsushi",
+      "type" : "SERIES_COMPOSITION"
     } ]
   },
   "description" : "* Based on a super hero manga series written and illustrated by http://anidb.net/cr44143 [Horikoshi Kouhei].",
@@ -144,6 +156,51 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-04-06",
+      "episode_id" : 279630,
+      "length" : 25,
+      "number" : 1,
+      "recap" : true,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-04-13",
+      "episode_id" : 279631,
+      "length" : 25,
+      "number" : 2,
+      "recap" : true,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S2"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-04-20",
+      "episode_id" : 279632,
+      "length" : 25,
+      "number" : 3,
+      "recap" : true,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S3"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-04-27",
+      "episode_id" : 279633,
+      "length" : 25,
+      "number" : 4,
+      "recap" : true,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S4"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "related" : {
@@ -152,6 +209,7 @@
   "resources" : {
     "ALL_CINEMA" : [ "392791" ],
     "ANN" : [ "27621" ],
+    "CRUNCHY_ROLL" : [ "G6NQ5DWZ6" ],
     "MAL" : [ "54789" ],
     "SYOBOI" : [ "7049" ],
     "TWITTER" : [ "heroaca_anime" ],
@@ -161,6 +219,36 @@
   },
   "start_date" : "2024-05-04",
   "tags" : {
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -186,6 +274,10 @@
     "title" : "My Hero Academia Saison 7",
     "type" : "OFFICIAL"
   }, {
+    "language" : "ENGLISH",
+    "title" : "My Hero Academia Season 7",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "GERMAN",
     "title" : "My Hero Academia Staffel 7",
     "type" : "OFFICIAL"
@@ -208,10 +300,6 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Boku no Hero Academia Season 7",
-    "type" : "SYNONYM"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "My Hero Academia Season 7",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

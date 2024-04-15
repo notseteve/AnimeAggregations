@@ -44,6 +44,9 @@
     "23162" : [ {
       "name" : "Satou Akiko",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Satou Akiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "27995" : [ {
       "name" : "Yamazo",
@@ -57,15 +60,132 @@
       "name" : "East Fish Studio",
       "type" : "ANIMATION_WORK"
     } ],
+    "58709" : [ {
+      "name" : "Good Smile Film",
+      "type" : "ANIMATION_WORK"
+    } ],
     "72230" : [ {
       "name" : "Morino Megumi",
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on a school life romantic manga by http://anidb.net/cr72230 [Morino Megumi].\nHotaru is a 16-year-old high school first-year who has always been ambivalent about love, preferring instead to have a lively life with her family and friends. So when she sees her schoolmate, Hananoi-kun, sitting in the snow after a messy, public breakup, she thinks nothing of offering to share her umbrella. But when he asks her out in the middle of her classroom the next day, she can`t help but feel that her life is about to change in a big way...\nSource: Kodansha",
+  "description" : "* Based on a school life romantic manga by http://anidb.net/cr72230 [Morino Megumi].\nhttp://anidb.net/ch136152 [Hotaru] is a 16-year-old high school first-year who has always been ambivalent about love, preferring instead to have a lively life with her family and friends. So when she sees her schoolmate, http://anidb.net/ch136153 [Hananoi-kun], sitting in the snow after a messy, public breakup, she thinks nothing of offering to share her umbrella. But when he asks her out in the middle of her classroom the next day, she can`t help but feel that her life is about to change in a big way...\nSource: Kodansha",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-04",
+      "episode_id" : 278712,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 1.02,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU417VN" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hajimemashite"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Nice to Meet You"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "はじめまして"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-12",
+      "episode_id" : 278713,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-18",
+      "episode_id" : 278714,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-25",
+      "episode_id" : 278715,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-04-04",
+      "episode_id" : 279613,
+      "length" : 55,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 1 Wa Chokuzen Tokuban"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第1話直前特番"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-04-04",
+      "episode_id" : 279634,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-04-04",
+      "episode_id" : 279635,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.78,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 5.56,
+      "total" : 8
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "392272" ],
+    "ANISON" : [ "25423" ],
     "ANN" : [ "28531" ],
+    "CRUNCHY_ROLL" : [ "GP5HJ84QX" ],
     "MAL" : [ "55597" ],
     "SYOBOI" : [ "7018" ],
     "TWITTER" : [ "hananoikun_pr" ],
@@ -75,6 +195,21 @@
   },
   "start_date" : "2024-04-04",
   "tags" : {
+    "1077" : {
+      "info_box" : true,
+      "name" : "shoujo",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",

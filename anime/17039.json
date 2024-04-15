@@ -7,6 +7,10 @@
       "episode_id" : 253681,
       "length" : 11,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.38,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -29,6 +33,10 @@
       "episode_id" : 253683,
       "length" : 11,
       "number" : 3,
+      "rating" : {
+        "rating" : 9.38,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -51,6 +59,10 @@
       "episode_id" : 253685,
       "length" : 11,
       "number" : 5,
+      "rating" : {
+        "rating" : 9.38,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -73,6 +85,10 @@
       "episode_id" : 253687,
       "length" : 11,
       "number" : 7,
+      "rating" : {
+        "rating" : 9.38,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -128,6 +144,10 @@
       "episode_id" : 253692,
       "length" : 11,
       "number" : 12,
+      "rating" : {
+        "rating" : 9.38,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -194,6 +214,10 @@
       "episode_id" : 253698,
       "length" : 11,
       "number" : 18,
+      "rating" : {
+        "rating" : 9.38,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -666,20 +690,24 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.1,
-      "total" : 7
+      "rating" : 4.01,
+      "total" : 8
     },
     "TEMPORARY" : {
-      "rating" : 4.85,
-      "total" : 7
+      "rating" : 5.25,
+      "total" : 8
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 18582 ]
   },
   "resources" : {
     "BAIDU_BAIKE" : [ "神医九小姐/56023538" ],
     "BANGUMI" : [ "345828" ],
     "DOUBAN" : [ "35622991" ],
     "MAL" : [ "50521" ],
-    "QQ" : [ "x/mzc00200scmerwj.html" ]
+    "QQ" : [ "x/mzc00200scmerwj.html" ],
+    "TMDB" : [ "tv/152323" ]
   },
   "start_date" : "2021-11-30",
   "tags" : {
@@ -725,6 +753,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Great Doctor Miss Nine",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_TRANSLITERATED",
+    "title" : "Shenyi Jiu Xiaojie",
     "type" : "SYNONYM"
   } ],
   "type" : "WEB"

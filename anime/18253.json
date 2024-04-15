@@ -3,11 +3,100 @@
   "characters" : {
     "MAIN" : [ {
       "character_id" : 137778,
-      "name" : "Wakamiya",
+      "name" : "Nazukihiko",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137779,
       "name" : "Yukiya",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 139911,
+      "name" : "Akira",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139895,
+      "name" : "Asebi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139900,
+      "name" : "Atsufusa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139908,
+      "name" : "Chanohana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139910,
+      "name" : "Fujinami no Miya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139897,
+      "name" : "Gen`ya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139902,
+      "name" : "Hamayuu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139901,
+      "name" : "Haruhito",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139907,
+      "name" : "Karamushi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139909,
+      "name" : "Kikuno",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139906,
+      "name" : "Masuho no Susuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139913,
+      "name" : "Natsuka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139912,
+      "name" : "Rokon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139905,
+      "name" : "Shiratama",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139904,
+      "name" : "Sumio",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139903,
+      "name" : "Takimoto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139898,
+      "name" : "Tooru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139896,
+      "name" : "Ukogi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139915,
+      "name" : "Yukichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139916,
+      "name" : "Yukima",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139914,
+      "name" : "Yukimasa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139899,
+      "name" : "Yuuzemi",
       "type" : "CHARACTER"
     } ]
   },
@@ -57,8 +146,14 @@
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bachigai na Himegimi"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "場違いな姫君"
       } ],
       "type" : "REGULAR"
     }, {
@@ -68,8 +163,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bonkura Jinan"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ぼんくら次男"
       } ],
       "type" : "REGULAR"
     }, {
@@ -96,9 +197,21 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.33,
+      "total" : 1
+    },
+    "TEMPORARY" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "391997" ],
+    "ANISON" : [ "25404" ],
     "ANN" : [ "30476" ],
+    "CRUNCHY_ROLL" : [ "G5PHNM92J" ],
     "MAL" : [ "56980" ],
     "SYOBOI" : [ "7013" ],
     "TWITTER" : [ "nep_yatagarasu" ],
@@ -144,20 +257,16 @@
     "title" : "Karasu wa Aruji o Erabanai",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Yatagarasu: The Raven Does Not Choose Its Master",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "烏は主を選ばない",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
     "title" : "Prince Without a Servant: The Chronicle of Yatagarasu",
-    "type" : "SYNONYM"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "The Raven Does Not Choose Its Master",
-    "type" : "SYNONYM"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Yatagarasu",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

@@ -1,6 +1,35 @@
 {
   "anime_id" : 17673,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 140153,
+      "name" : "Goshima Keiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139983,
+      "name" : "Itami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139981,
+      "name" : "Kamishima",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140155,
+      "name" : "Lapin no Chief",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139982,
+      "name" : "Maki Yuusuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139980,
+      "name" : "Ogura no Taishou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140154,
+      "name" : "Yajima",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 12467,
       "name" : "Sasakura Ryuu",
@@ -50,9 +79,6 @@
     } ],
     "7879" : [ {
       "name" : "Ushijima Yuuji",
-      "type" : "CHARACTER_DESIGN"
-    }, {
-      "name" : "Ushijima Yuuji",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "9774" : [ {
@@ -80,17 +106,31 @@
       "type" : "ANIMATION_WORK"
     } ]
   },
-  "description" : "* Based on the popular cocktail manga by http://anidb.net/cr21010 [Jou Araki], serialised in http://anidb.net/cr29944 [Super Jump].",
+  "description" : "* Based on the popular cocktail manga by http://anidb.net/cr21010 [Jou Araki], serialised in http://anidb.net/cr29944 [Super Jump].\nAt Eden Hall, each glass has a story. A quiet bar lies tucked away in the streets of Tokyo, and it seems only the most desperate souls burdened by their own troubles manage to find its doors. But after a glass of God poured by the brilliant bartender Ryu, they leave renewed. Ryu has a gift—he knows how to soothe the soul with the perfect drink. Who will he meet next?\nSource: crunchyroll",
   "episodes" : {
     "REGULAR" : [ {
-      "air_date" : "2024-04-04",
+      "air_date" : "2024-03-29",
+      "description" : "The workers of the Business Planning Division for Hotel Cardinal are desperate to find a bartender. The chairman has declared that they must find someone capable of making the \"Glass of God.\" This is no simple task when they have no idea what that means.\nSource: crunchyroll",
       "episode_id" : 278796,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.74,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UZV03E" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "A Gentle Perch"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yasashii Tomarigi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "優しい止まり木"
       } ],
       "type" : "REGULAR"
     }, {
@@ -98,10 +138,23 @@
       "episode_id" : 278797,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.23,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU8J2ZK" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Furuki Nakama / One for the Road"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Old Pal / One for the Road"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "古き仲間 / One for the Road"
       } ],
       "type" : "REGULAR"
     }, {
@@ -111,8 +164,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kanpeki na Aji"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Perfect Taste"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "完璧な味"
       } ],
       "type" : "REGULAR"
     }, {
@@ -126,14 +185,49 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-03-29",
+      "episode_id" : 279637,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-03-29",
+      "episode_id" : 279638,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.29,
+      "total" : 22
+    },
+    "TEMPORARY" : {
+      "rating" : 6.27,
+      "total" : 22
+    }
   },
   "related" : {
     "OTHER" : [ 4681 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "389140" ],
+    "ANISON" : [ "25422" ],
     "ANN" : [ "28005" ],
+    "CRUNCHY_ROLL" : [ "GVDHX85DV" ],
     "MAL" : [ "53407" ],
     "SYOBOI" : [ "7025" ],
     "TWITTER" : [ "bartender_anime" ],
@@ -187,8 +281,16 @@
     "title" : "Bartender: Glass of God",
     "type" : "OFFICIAL"
   }, {
+    "language" : "RUSSIAN",
+    "title" : "Бармен: Бокал бога",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "バーテンダー 神のグラス",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "王牌酒保 Glass of God",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

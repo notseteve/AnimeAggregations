@@ -26,6 +26,10 @@
       "name" : "Jun",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 139864,
+      "name" : "Kuga Arata",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139330,
       "name" : "Laura",
       "type" : "CHARACTER"
@@ -52,6 +56,10 @@
     }, {
       "character_id" : 139327,
       "name" : "Morobishi Meisei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139629,
+      "name" : "Morobishi Shingo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139315,
@@ -244,7 +252,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.07,
+        "rating" : 3.05,
         "total" : 9
       },
       "recap" : false,
@@ -268,7 +276,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.87,
+        "rating" : 3.84,
         "total" : 10
       },
       "recap" : false,
@@ -293,7 +301,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.0,
+        "rating" : 3.97,
         "total" : 8
       },
       "recap" : false,
@@ -318,7 +326,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.31,
+        "rating" : 7.29,
         "total" : 8
       },
       "recap" : false,
@@ -343,7 +351,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.41,
+        "rating" : 5.4,
         "total" : 8
       },
       "recap" : false,
@@ -368,7 +376,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 2.69,
+        "rating" : 2.66,
         "total" : 6
       },
       "recap" : false,
@@ -393,7 +401,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.84,
+        "rating" : 5.85,
         "total" : 5
       },
       "recap" : false,
@@ -418,8 +426,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 4.13,
-        "total" : 5
+        "rating" : 4.22,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -438,10 +446,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-03-24",
+      "description" : "Out of the blue, a \"job-change quest\" pops up in Jinwoo`s window. Feeling that it may help him get stronger, he enters the gate. Inside, he fights wave after wave of enemies, culminating in a knight who brings back memories of the Cartenon Temple.\nSource: crunchyroll",
       "episode_id" : 277517,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 5.39,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UV37Z0" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A Knight Who Defends an Empty Throne"
@@ -455,13 +471,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-03-31",
+      "description" : "Drained from endless battle, Jinwoo sees a phantom of his past self. To overcome his own past as the Weakest Hunter of All Mankind, he struggles to find a way to clear the job-change quest.\nSource: crunchyroll",
       "episode_id" : 277518,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 4.05,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUG3W0X" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Arise"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Arise"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Arise"
       } ],
       "type" : "REGULAR"
     } ],
@@ -530,17 +560,20 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.52,
-      "total" : 171
+      "rating" : 6.82,
+      "total" : 695
     },
     "REVIEW" : {
       "rating" : 4.0,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 7.19,
-      "total" : 177
+      "rating" : 7.31,
+      "total" : 702
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 18576 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "383712" ],

@@ -147,7 +147,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.36,
+        "rating" : 5.37,
         "total" : 6
       },
       "recap" : false,
@@ -203,7 +203,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.95,
+        "rating" : 6.96,
         "total" : 5
       },
       "recap" : false,
@@ -231,7 +231,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.33,
+        "rating" : 6.34,
         "total" : 6
       },
       "recap" : false,
@@ -259,7 +259,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.34,
+        "rating" : 5.35,
         "total" : 6
       },
       "recap" : false,
@@ -315,7 +315,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.0,
+        "rating" : 6.02,
         "total" : 4
       },
       "recap" : false,
@@ -343,7 +343,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.31,
+        "rating" : 6.33,
         "total" : 4
       },
       "recap" : false,
@@ -371,7 +371,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.01,
+        "rating" : 6.03,
         "total" : 4
       },
       "recap" : false,
@@ -399,7 +399,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.83,
+        "rating" : 5.85,
         "total" : 4
       },
       "recap" : false,
@@ -427,7 +427,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.6,
+        "rating" : 5.62,
         "total" : 4
       },
       "recap" : false,
@@ -455,7 +455,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.37,
+        "rating" : 6.39,
         "total" : 4
       },
       "recap" : false,
@@ -483,7 +483,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 8.72,
+        "rating" : 8.83,
         "total" : 3
       },
       "recap" : false,
@@ -498,7 +498,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 7.8,
+        "rating" : 7.84,
         "total" : 2
       },
       "recap" : false,
@@ -511,12 +511,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.36,
-      "total" : 245
+      "rating" : 5.35,
+      "total" : 261
     },
     "TEMPORARY" : {
-      "rating" : 6.48,
-      "total" : 246
+      "rating" : 6.52,
+      "total" : 262
     }
   },
   "resources" : {
@@ -533,9 +533,40 @@
   },
   "start_date" : "2023-10-06",
   "tags" : {
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2282" : {
+      "info_box" : false,
+      "name" : "martial arts",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2572" : {
+      "info_box" : true,
+      "name" : "ninja",
+      "parent_tag_id" : 2282,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -546,6 +577,44 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2749" : {
       "info_box" : false,
@@ -571,6 +640,38 @@
       "verified" : false,
       "weight" : 0
     },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2979" : {
       "info_box" : false,
       "name" : "mutilation",
@@ -593,6 +694,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6254" : {
+      "info_box" : false,
+      "name" : "terrorism",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7885" : {
       "info_box" : false,

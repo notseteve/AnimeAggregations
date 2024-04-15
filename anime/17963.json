@@ -3,7 +3,7 @@
   "characters" : {
     "MAIN" : [ {
       "character_id" : 135903,
-      "name" : "Hiragi Touma",
+      "name" : "Hiiragi Touma",
       "type" : "CHARACTER"
     }, {
       "character_id" : 135906,
@@ -69,17 +69,34 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on an yankee manga by http://anidb.net/cr71342 [Nii Satoru].\nSakura Haruka wants nothing to do with weaklings—he`s only interested in the strongest of the strong. He`s from Fuurin High School, a school of near-dropout degenerates known only for their brawling strength. And in a town known for its territorial disputes, Haruka`s got only one goal—become the hero his town deserves.\nSource: Kodansha",
+  "description" : "* Based on a yankee manga by http://anidb.net/cr71342 [Nii Satoru].\nhttp://anidb.net/ch135904 [Sakura Haruka] wants nothing to do with weaklings—he`s only interested in the strongest of the strong. He`s from Fuurin High School, a school of near-dropout degenerates known only for their brawling strength. And in a town known for its territorial disputes, Haruka`s got only one goal—become the hero his town deserves.\nSource: Kodansha\nNote: The first episode received an early screening at a special event on March 31, 2024 at Shinjuku Wald 9 in Tokyo. The regular TV broadcast started on April 5, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-05",
+      "description" : "An admirer of strong people with a complete disinterest in the weak, Haruka Sakura, a loner and delinquent high school student, aims to be a fighter at the top of Furin High School. Coming from outside the city, Sakura enrolls in Furin High School, infamous for its delinquents.\nSource: crunchyroll",
       "episode_id" : 278816,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.68,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU07MPE" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Sakura Arrives at Furin"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Sakura et Fûrin"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sakura to Fuurin"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "サクラとフウリン"
       } ],
       "type" : "REGULAR"
     }, {
@@ -115,11 +132,58 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-03-29",
+      "episode_id" : 279614,
+      "length" : 30,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "\"Oretachi ga, Shibuya o Mamoru\" Shibuya Kekki Shuukai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "\"防風鈴[オレたち]が, 渋谷を守る\" 渋谷決起集会"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-04-04",
+      "episode_id" : 279615,
+      "length" : 55,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Chokuzen Kaimaku Shiki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前開幕式"
+      } ],
+      "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.41,
+      "total" : 23
+    },
+    "TEMPORARY" : {
+      "rating" : 6.28,
+      "total" : 23
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "392019" ],
+    "ANISON" : [ "25397" ],
     "ANN" : [ "27706" ],
+    "CRUNCHY_ROLL" : [ "G3KHEVDPE" ],
     "MAL" : [ "54900" ],
     "SYOBOI" : [ "6990" ],
     "TWITTER" : [ "winbre_sakura" ],
@@ -171,6 +235,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Wind Breaker",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "RUSSIAN",
+    "title" : "Ветролом",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

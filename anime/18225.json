@@ -52,12 +52,125 @@
     "60475" : [ {
       "name" : "Uetake Yuuya",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Uetake Yuuya",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "* Based on a slice-of-life romantic manga by http://anidb.net/cr54531 [Matoba].\nhttp://anidb.net/ch135600 [Tokumitsu Shintarou] is a high schooler living all alone, but things take an unexpected turn when a girl named http://anidb.net/ch135599 [Towa] shows up on his balcony! Not only is she incredibly pure and sweet, but there`s something different about her—something...divine. Just who is Shintarou`s new roommate, and what adorable high jinks lie in store?!\nSource: Yen Press",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-03-30",
+      "description" : "One morning, Tokumitsu Shintaro finds a strange girl asleep on his balcony. She seems nice, but she also claims that she`s an angel and that she has nowhere to go...\nSource: Crunchyroll",
+      "episode_id" : 278696,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 6.13,
+        "total" : 5
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1U2NN13" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Towa and Shintaro"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Towa to Shintarou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "とわと森太郎"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-06",
+      "description" : "Towa and Shintaro start settling into life sharing the apartment, but they have a lot to learn about living together. Still, they begin to find a rhythm before Shintaro has to return to school and insists that Towa can`t follow him.\nSource: crunchyroll",
+      "episode_id" : 278697,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 6.55,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUNKKZ1" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "May I Cook You Lunch?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Obentou Tsukutte mo Ii Desuka?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "お弁当作ってもいいですか?"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-13",
+      "episode_id" : 278698,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Cold Friend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsumetai Tomodachi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "つめたい友達"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-20",
+      "episode_id" : 278699,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-03-31",
+      "episode_id" : 279454,
+      "length" : 60,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 1 Wa Saisoku Haishin Kinen Abema Tokuban"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第1話最速配信記念ABEMA特番"
+      } ],
+      "type" : "SPECIAL"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.55,
+      "total" : 31
+    },
+    "TEMPORARY" : {
+      "rating" : 5.08,
+      "total" : 31
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "392790" ],
     "ANN" : [ "30153" ],
+    "CRUNCHY_ROLL" : [ "G9VHN9QWQ" ],
     "MAL" : [ "56838" ],
     "SYOBOI" : [ "7039" ],
     "TWITTER" : [ "tenshitsuki_off" ],
@@ -67,6 +180,21 @@
   },
   "start_date" : "2024-03-30",
   "tags" : {
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -103,13 +231,17 @@
     "title" : "One Room, Hiatari Futsuu, Tenshi-tsuki.",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Studio Apartment, Good Lighting, Angel Included",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ワンルーム, 日当たり普通, 天使つき.",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Studio Apartment, Good Lighting, Angel Included",
-    "type" : "SYNONYM"
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "tenshitsuki",
+    "type" : "SHORT"
   } ],
   "type" : "SERIES",
   "url" : "https://tenshitsuki.com/"

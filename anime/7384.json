@@ -414,7 +414,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 2.92,
-      "total" : 699
+      "total" : 703
     },
     "REVIEW" : {
       "rating" : 2.66,
@@ -422,11 +422,11 @@
     },
     "TEMPORARY" : {
       "rating" : 5.44,
-      "total" : 706
+      "total" : 710
     }
   },
   "related" : {
-    "SAME_SETTING" : [ 7723, 8058, 8162 ]
+    "SAME_SETTING" : [ 7723, 8058, 8162, 10409 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "338404" ],
@@ -701,6 +701,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3833" : {
+      "info_box" : false,
+      "name" : "there can be only one",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4424" : {
       "info_box" : true,
       "name" : "American derived",
@@ -720,6 +728,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

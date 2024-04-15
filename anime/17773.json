@@ -19,8 +19,24 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 139922,
+      "name" : "Aoi Sui",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139919,
+      "name" : "Fudou Rin",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 135910,
-      "name" : "Goriate",
+      "name" : "Goliath",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139921,
+      "name" : "Inugami Ouga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139920,
+      "name" : "Kirisaki Ayaka",
       "type" : "CHARACTER"
     }, {
       "character_id" : 135913,
@@ -72,17 +88,27 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on an action-adventure comedy manga by http://anidb.net/cr69806 [Gondaira Hitsuji].\nhttp://anidb.net/ch135472 [Asano Taiyou] has been on his own ever since his parents died and the only one who seems to care for him is his childhood friend and classmate, http://anidb.net/ch135470 [Yozakura Mutsumi]. But Mutsumi has a secret—she is the head of a family of spies! And on top of that, her brother http://anidb.net/ch135471 [Kyouichirou] is dangerously protective of her! To stop Kyouichirou from killing him, Taiyou and Mutsumi must take the ultimate leap—marriage! Because in the Yozakura family, family cannot kill family.\nSource: Viz",
+  "description" : "* Based on an action-adventure comedy manga by http://anidb.net/cr69806 [Gondaira Hitsuji].\nhttp://anidb.net/ch135472 [Asano Taiyou] has been on his own ever since his parents died and the only one who seems to care for him is his childhood friend and classmate, http://anidb.net/ch135470 [Yozakura Mutsumi]. But Mutsumi has a secret—she is the head of a family of spies! And on top of that, her brother http://anidb.net/ch135471 [Kyouichirou] is dangerously protective of her! To stop Kyouichirou from killing him, Taiyou and Mutsumi must take the ultimate leap—marriage! Because in the Yozakura family, family cannot kill family.\nSource: Viz\nNote: The first three episodes received an early screening at a special event on March 30, 2024 at TOHO Cinemas Ikebukuro in Tokyo. The regular TV broadcast started on April 7, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-07",
       "episode_id" : 278756,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.98,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sakura no Yubiwa"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Cherry Blossom Ring"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "桜の指輪"
       } ],
       "type" : "REGULAR"
     }, {
@@ -93,7 +119,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Yozakuras` Lifeline"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yozakura no Inochi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夜桜の命"
       } ],
       "type" : "REGULAR"
     }, {
@@ -120,10 +152,24 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.51,
+      "total" : 12
+    },
+    "TEMPORARY" : {
+      "rating" : 5.5,
+      "total" : 12
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "392016" ],
+    "ANISON" : [ "25430" ],
     "ANN" : [ "26739" ],
+    "IMDB" : [ "tt31131310" ],
+    "MAL" : [ "53865" ],
     "SYOBOI" : [ "7004" ],
+    "TMDB" : [ "tv/216467" ],
     "TWITTER" : [ "OfficialHitsuji" ],
     "WEBSITE" : [ "https://mission-yozakura-family.com/" ],
     "WIKIPEDIA_EN" : [ "Mission:_Yozakura_Family" ],

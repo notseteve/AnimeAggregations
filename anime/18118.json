@@ -5,6 +5,11 @@
       "character_id" : 133965,
       "name" : "Alina Clover",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 139559,
+      "name" : "Jade Scrade",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -35,6 +40,7 @@
   },
   "description" : "* Based on a light novel series written by http://anidb.net/cr72676 [Kousaka Mato] and illustrated by http://anidb.net/cr72677 [Gaou].\nhttp://anidb.net/ch133965 [Alina Clover] signed up to be a receptionist for the Adventurers Guild thinking it would be her ticket to the good life. Unfortunately, her dream gig turns into an overtime nightmare whenever the adventurers get stuck clearing a dungeon. To save herself from a mountain of paperwork, Alina takes to beating down monsters herself to solve the problem! Now she just needs to keep her activities a secret...\nSource: Yen Press",
   "resources" : {
+    "ALL_CINEMA" : [ "394178" ],
     "ANN" : [ "29055" ],
     "MAL" : [ "55997" ],
     "TWITTER" : [ "girumasu001" ],
@@ -44,9 +50,55 @@
   },
   "start_date" : "2024",
   "tags" : {
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "5205" : {
+      "info_box" : false,
+      "name" : "dungeon",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

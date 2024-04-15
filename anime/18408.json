@@ -27,12 +27,20 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 85307,
+      "name" : "Aizen Kunitoshi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 86202,
       "name" : "Ichigo Hitofuri",
       "type" : "CHARACTER"
     }, {
       "character_id" : 86200,
       "name" : "Kousetsu Samonji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 87007,
+      "name" : "Nagasone Kotetsu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 84012,
@@ -45,6 +53,10 @@
     }, {
       "character_id" : 84259,
       "name" : "Shokudaikiri Mitsutada",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 85817,
+      "name" : "Taroutachi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 85309,
@@ -82,6 +94,7 @@
       "type" : "MUSIC"
     } ]
   },
+  "description" : "Note: The first two episodes received an early screening at a special event on March 31, 2024 at TOHO Cinema Hibiya in Tokyo and 8 additional venues across Japan. The regular TV broadcast started on April 2, 2024.",
   "end_date" : "2024-05-21",
   "episodes" : {
     "REGULAR" : [ {
@@ -89,10 +102,20 @@
       "episode_id" : 278792,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.63,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaiten Suru Yume"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "廻転する夢"
       } ],
       "type" : "REGULAR"
     }, {
@@ -130,9 +153,24 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.06,
+      "total" : 5
+    },
+    "TEMPORARY" : {
+      "rating" : 4.4,
+      "total" : 5
+    }
+  },
+  "related" : {
+    "OTHER" : [ 12031 ]
+  },
   "resources" : {
     "ALL_CINEMA" : [ "393176" ],
+    "ANISON" : [ "25367" ],
     "ANN" : [ "31517" ],
+    "MAL" : [ "51859" ],
     "SYOBOI" : [ "7024" ],
     "TWITTER" : [ "touken_kai" ],
     "WEBSITE" : [ "https://touken-kai.jp/" ],

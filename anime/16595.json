@@ -7,6 +7,19 @@
       "type" : "CHARACTER"
     } ]
   },
+  "creators" : {
+    "46246" : [ {
+      "name" : "Wang Xin",
+      "type" : "DIRECTOR"
+    }, {
+      "name" : "Wang Xin",
+      "type" : "SERIES_COMPOSITION"
+    } ],
+    "48260" : [ {
+      "name" : "Kohta Yamamoto",
+      "type" : "MUSIC"
+    } ]
+  },
   "description" : "* Based on a series of novels by Jiang Nan (江南).\nWelcome to the real world! This piece of history that holds the dragons, where the efforts and sacrifices of generations have been recorded. The young man embarks on his own path to become a king, gaining friendship, love, and growth along the way...",
   "end_date" : "2022-11-25",
   "episodes" : {
@@ -189,33 +202,49 @@
     } ],
     "SPECIAL" : [ {
       "air_date" : "2022-08-19",
+      "description" : "Lu Mingfei is a high school student who receives an invitation from a mysterious university in a foreign land. He has a crush on a girl at his school, though, and is forced to choose between his love and future.\nSource: crunchyroll",
       "episode_id" : 258706,
       "length" : 50,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.02,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WUN1JGV" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 0"
+        "title" : "An Invitation from a Foreign Land"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ikoku kara no Shoutaijou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "異国からの招待状"
       } ],
       "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.18,
-      "total" : 19
+      "rating" : 6.06,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 7.18,
-      "total" : 19
+      "rating" : 6.98,
+      "total" : 21
     }
   },
   "resources" : {
     "BAIDU_BAIKE" : [ "龙族/53189743" ],
     "BANGUMI" : [ "312297" ],
+    "CRUNCHY_ROLL" : [ "GDKHZEJN0" ],
     "DOUBAN" : [ "35170003" ],
     "MAL" : [ "44408" ],
-    "WEBSITE" : [ "https://v.qq.com/detail/m/mzc00200fr1ry1o.html" ],
+    "TWITTER" : [ "ryuzoku_jp" ],
+    "WEBSITE" : [ "https://ryuzoku-anime.com/", "https://v.qq.com/detail/m/mzc00200fr1ry1o.html" ],
     "WIKIPEDIA_EN" : [ "Dragon_Raja_(Chinese_novels)" ],
     "WIKIPEDIA_ZH" : [ "龙族_(江南)" ]
   },
@@ -310,6 +339,18 @@
     "language" : "CHINESE_TRANSLITERATED",
     "title" : "Long Zu",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Dragon Raja: The Blazing Dawn",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Ryuuzoku: The Blazing Dawn",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE",
+    "title" : "龍族 -The Blazing Dawn-",
+    "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "龙族",

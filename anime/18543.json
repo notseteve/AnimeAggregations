@@ -1,5 +1,31 @@
 {
   "anime_id" : 18543,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 134443,
+      "name" : "Tsukiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 134446,
+      "name" : "Yamato Jinka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 134702,
+      "name" : "Yamato Jinka",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 135287,
+      "name" : "Nau",
+      "type" : "CHARACTER"
+    } ]
+  },
+  "creators" : {
+    "23570" : [ {
+      "name" : "Mizukami Satoshi",
+      "type" : "ORIGINAL_WORK"
+    } ]
+  },
   "description" : "* Based on an adventure fantasy manga by http://anidb.net/cr23570 [Mizukami Satoshi].",
   "related" : {
     "PREQUEL" : [ 18156 ]
@@ -11,8 +37,23 @@
     "WIKIPEDIA_EN" : [ "Sengoku_Youko" ],
     "WIKIPEDIA_JP" : [ "戦国妖狐" ]
   },
-  "start_date" : "1970-01-01",
+  "start_date" : "2024-07",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -31,12 +72,16 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Sengoku Youko 2",
+    "title" : "Sengoku Youko (2024)",
     "type" : "MAIN"
   }, {
     "language" : "JAPANESE",
-    "title" : "戦国妖狐 2",
+    "title" : "戦国妖狐 (2024)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Sengoku Youko (2024)",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://sengoku-youko.com/"

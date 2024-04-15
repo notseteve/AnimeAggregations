@@ -50,12 +50,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.41,
-      "total" : 17
+      "rating" : 3.14,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 5.02,
-      "total" : 17
+      "rating" : 5.07,
+      "total" : 21
     }
   },
   "related" : {
@@ -71,9 +71,32 @@
   },
   "start_date" : "2023-05-26",
   "tags" : {
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2851" : {
+      "info_box" : true,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

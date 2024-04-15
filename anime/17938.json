@@ -19,8 +19,32 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 140079,
+      "name" : "Ari Eru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140081,
+      "name" : "Honami-tenchou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140085,
+      "name" : "Jelee-chan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140080,
+      "name" : "Kaho",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140082,
+      "name" : "Koharu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 138913,
-      "name" : "Miko",
+      "name" : "Miiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140083,
+      "name" : "Mion",
       "type" : "CHARACTER"
     }, {
       "character_id" : 138916,
@@ -33,6 +57,10 @@
     }, {
       "character_id" : 138914,
       "name" : "Yanagi Momoko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140084,
+      "name" : "Yukine",
       "type" : "CHARACTER"
     } ]
   },
@@ -69,17 +97,27 @@
       "type" : "SERIES_COMPOSITION"
     } ]
   },
-  "description" : "Shibuya is a city full of identity. It is here on Shibuya`s late night streets that illustrator http://anidb.net/ch136039 [Kouzuki Mahiru], former idol http://anidb.net/ch136040 [Yamanouchi Kano], Vtuber http://anidb.net/ch136041 [Watase Kiui]and composer http://anidb.net/ch136042 [Takanashi Kim Anouk Mei] — four young women who are slightly outside the world — join together and form an anonymous artist group called JELEE. \"I\" also want to shine like someone else. If it`s not me but \"we\" then we might be able to shine.\nSource: HIDIVE",
+  "description" : "Shibuya is a city full of identity. It is here on Shibuya`s late night streets that illustrator http://anidb.net/ch136039 [Kouzuki Mahiru], former idol http://anidb.net/ch136040 [Yamanouchi Kano], Vtuber http://anidb.net/ch136041 [Watase Kiui] and composer http://anidb.net/ch136042 [Takanashi Kim Anouk Mei] — four young women who are slightly outside the world — join together and form an anonymous artist group called JELEE. \"I\" also want to shine like someone else. If it`s not me but \"we\" then we might be able to shine.\nSource: HIDIVE\nNote: The first two episodes received an early screening at a special event on March 3, 2024 at Marunouchi Piccadilly in Tokyo and 4 additional venues across Japan. The regular TV broadcast started on April 7, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-07",
       "episode_id" : 278852,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.06,
+        "total" : 6
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Jellyfish in the Night"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yoru no Kurage"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夜のクラゲ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -87,6 +125,10 @@
       "episode_id" : 278853,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.23,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -98,6 +140,10 @@
       "episode_id" : 278854,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 9.23,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -117,6 +163,16 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.8,
+      "total" : 26
+    },
+    "TEMPORARY" : {
+      "rating" : 6.53,
+      "total" : 26
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "388777" ],
     "ANN" : [ "27601" ],
@@ -129,6 +185,21 @@
   },
   "start_date" : "2024-04-07",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

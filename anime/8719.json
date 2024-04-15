@@ -148,7 +148,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.77,
+        "rating" : 5.75,
         "total" : 20
       },
       "recap" : false,
@@ -173,7 +173,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.83,
+        "rating" : 5.81,
         "total" : 19
       },
       "recap" : false,
@@ -470,7 +470,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.93,
+        "rating" : 4.91,
         "total" : 1
       },
       "recap" : false,
@@ -485,7 +485,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 4.93,
+        "rating" : 4.91,
         "total" : 1
       },
       "recap" : false,
@@ -500,7 +500,7 @@
       "length" : 2,
       "number" : 3,
       "rating" : {
-        "rating" : 4.93,
+        "rating" : 4.91,
         "total" : 1
       },
       "recap" : false,
@@ -556,15 +556,15 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.68,
-      "total" : 3101
+      "total" : 3110
     },
     "REVIEW" : {
       "rating" : 5.33,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.58,
-      "total" : 3123
+      "rating" : 6.59,
+      "total" : 3132
     }
   },
   "related" : {
@@ -599,16 +599,16 @@
       "total" : 71
     },
     "8888" : {
-      "rating" : 3.333333333333333,
-      "total" : 18
+      "rating" : 3.1578947368421053,
+      "total" : 19
     },
     "9479" : {
       "rating" : 10.0,
       "total" : 5
     },
     "10323" : {
-      "rating" : 9.25925925925926,
-      "total" : 27
+      "rating" : 9.285714285714286,
+      "total" : 28
     },
     "12091" : {
       "rating" : 4.2105263157894735,
@@ -936,6 +936,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2851" : {
+      "info_box" : false,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2853" : {
       "info_box" : true,
       "name" : "comedy",
@@ -1007,10 +1015,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "3055" : {
+      "info_box" : false,
+      "name" : "fairy tale",
+      "parent_tag_id" : 3876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3094" : {
       "info_box" : false,
       "name" : "befriend attack",
       "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3876" : {
+      "info_box" : false,
+      "name" : "folklore",
+      "parent_tag_id" : 3597,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1051,6 +1083,14 @@
       "info_box" : false,
       "name" : "predominantly female cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

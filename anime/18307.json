@@ -51,23 +51,65 @@
     "REGULAR" : [ {
       "air_date" : "2024-04-12",
       "episode_id" : 273720,
-      "length" : 0,
+      "length" : 65,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XU07X77" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Complete Movie"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-04-12",
+      "episode_id" : 279907,
+      "length" : 5,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.95,
+      "total" : 5
+    },
+    "TEMPORARY" : {
+      "rating" : 6.45,
+      "total" : 5
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "392715" ],
+    "ANISON" : [ "25439" ],
     "ANN" : [ "30968" ],
+    "CRUNCHY_ROLL" : [ "GNVHKN9Z2" ],
     "WEBSITE" : [ "https://www.kurayukaba.jp/kuramerukagari/" ]
   },
   "start_date" : "2024-04-12",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -90,6 +132,10 @@
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
+    "title" : "Kuramerukagari",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
     "title" : "Kuramerukagari",
     "type" : "OFFICIAL"
   }, {

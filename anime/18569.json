@@ -1,5 +1,19 @@
 {
   "anime_id" : 18569,
+  "creators" : {
+    "11848" : [ {
+      "name" : "Watase Toshihiro",
+      "type" : "DIRECTOR"
+    } ],
+    "58334" : [ {
+      "name" : "Shion",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "75848" : [ {
+      "name" : "Gen",
+      "type" : "ORIGINAL_WORK"
+    } ]
+  },
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-06-28",
@@ -24,6 +38,9 @@
       } ],
       "type" : "REGULAR"
     } ]
+  },
+  "resources" : {
+    "WEBSITE" : [ "https://www.pinkpineapple.co.jp/detail.php?did=2468&cid=4", "https://www.pinkpineapple.co.jp/detail.php?did=2470&cid=4" ]
   },
   "start_date" : "2024-06-28",
   "tags" : {
@@ -79,6 +96,21 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6173" : {
+      "info_box" : false,
+      "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7885" : {
+      "info_box" : false,
+      "name" : "Japanese production",
+      "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     }
   },
   "titles" : [ {
@@ -94,5 +126,6 @@
     "title" : "Sefure no Senpai",
     "type" : "SYNONYM"
   } ],
-  "type" : "OVA"
+  "type" : "OVA",
+  "url" : "https://www.pinkpineapple.co.jp/detail.php?did=2468&cid=4"
 }

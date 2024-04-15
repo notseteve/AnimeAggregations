@@ -1,6 +1,19 @@
 {
   "anime_id" : 17221,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 2819,
+      "name" : "Chloe",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139929,
+      "name" : "Myuri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139928,
+      "name" : "Yarei",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 29,
       "name" : "Holo",
@@ -40,6 +53,9 @@
     "11871" : [ {
       "name" : "Haneda Kouji",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Haneda Kouji",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "35245" : [ {
       "name" : "Passione",
@@ -54,17 +70,30 @@
       "type" : "MUSIC"
     } ]
   },
-  "description" : "* Based on a light novel series written by http://anidb.net/cr1432 [Hasekura Isuna].\nhttp://anidb.net/ch2818 [Lawrence] is a traveling merchant selling various goods from a horse-drawn cart. One day, he arrives at a village and meets a beautiful girl with the ears and tail of an animal! Her name is http://anidb.net/ch29 [Holo] the Wisewolf and she brings bountiful harvests. She wishes to return to her homeland, and Lawrence offers to take her. Now, the once-lonely merchant and the once-lonely wisewolf begin their journey north.\nSource: Crunchyroll",
+  "description" : "* Based on a light novel series written by http://anidb.net/cr1432 [Hasekura Isuna].\nhttp://anidb.net/ch2818 [Lawrence] is a traveling merchant selling various goods from a horse-drawn cart. One day, he arrives at a village and meets a beautiful girl with the ears and tail of an animal! Her name is http://anidb.net/ch29 [Holo] the Wisewolf and she brings bountiful harvests. She wishes to return to her homeland, and Lawrence offers to take her. Now, the once-lonely merchant and the once-lonely wisewolf begin their journey north.\nSource: Crunchyroll\nNote: The first four episodes received an early screening at a special event on March 17, 2024 at TOHO Cinemas Ikebukuro and TOHO Cinemas Tokyo in Tokyo, and at TOHO Cinemas Umeda in Osaka. The regular TV broadcast started on April 2, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-02",
       "episode_id" : 278704,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.78,
+        "total" : 9
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9UQWW0P" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shuukakusai to Semaku Natta Gyoshadai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Harvest Festival and the Crowded Driver`s Box"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "収穫祭と狭くなった御者台"
       } ],
       "type" : "REGULAR"
     }, {
@@ -74,8 +103,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Itazura Ookami to Waraenai Joudan"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Mischievous Wolf and No Laughing Matter"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "いたずら狼と笑えない冗談"
       } ],
       "type" : "REGULAR"
     }, {
@@ -101,11 +136,51 @@
       } ],
       "type" : "REGULAR"
     } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-04-02",
+      "episode_id" : 279525,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-04-02",
+      "episode_id" : 279526,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ],
     "PROMOTION" : [ {
+      "air_date" : "2022-02-25",
+      "episode_id" : 279307,
+      "length" : 1,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Completely New Anime Production Announcement! (0:40)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kanzen Shinsaku Anime Seisaku Kettei!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "完全新作アニメ制作決定!"
+      } ],
+      "type" : "PROMOTION"
+    }, {
       "air_date" : "2023-06-29",
       "episode_id" : 277253,
       "length" : 2,
-      "number" : 1,
+      "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -122,7 +197,7 @@
       "air_date" : "2024-01-31",
       "episode_id" : 277254,
       "length" : 1,
-      "number" : 2,
+      "number" : 3,
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -135,21 +210,50 @@
         "title" : "第2弾PV"
       } ],
       "type" : "PROMOTION"
+    }, {
+      "air_date" : "2024-03-21",
+      "episode_id" : 279306,
+      "length" : 2,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hon Yokoku"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Main Trailer (1:36)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "本予告"
+      } ],
+      "type" : "PROMOTION"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 8.29,
+      "total" : 36
+    },
+    "TEMPORARY" : {
+      "rating" : 7.83,
+      "total" : 36
+    }
   },
   "related" : {
     "ALTERNATIVE_SETTING" : [ 5406 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "390065" ],
+    "ANISON" : [ "25399" ],
     "ANN" : [ "28812" ],
+    "CRUNCHY_ROLL" : [ "G1XHJV08M" ],
     "MAL" : [ "51122" ],
     "SYOBOI" : [ "7033" ],
     "TWITTER" : [ "Spicy_Wolf_Prj" ],
     "WEBSITE" : [ "https://spice-and-wolf.com/" ],
     "WIKIPEDIA_EN" : [ "Spice_and_Wolf" ],
     "WIKIPEDIA_JP" : [ "狼と香辛料" ],
-    "YOUTUBE" : [ "watch?v=87qP9hwrSAs", "watch?v=DuWQOwwI9z4" ]
+    "YOUTUBE" : [ "watch?v=87qP9hwrSAs", "watch?v=DuWQOwwI9z4", "watch?v=Fr50ydw5H_Q", "watch?v=ix2xD1rz1JQ" ]
   },
   "start_date" : "2024-04-02",
   "tags" : {
@@ -194,8 +298,16 @@
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
-    "title" : "狼と香辛料 merchant meets the wise wolf",
+    "title" : "狼と香辛料 MERCHANT MEETS THE WISE WOLF",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "狼与香辛料 行商邂逅贤狼",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Spice and Wolf (2024)",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://spice-and-wolf.com/"

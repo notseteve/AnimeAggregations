@@ -52,7 +52,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 130589,
-      "name" : "Sofia B. Tokitou",
+      "name" : "Sophia B. Tokitou",
       "type" : "CHARACTER"
     } ]
   },
@@ -65,6 +65,10 @@
       "name" : "Kouno Takamitsu",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "11103" : [ {
+      "name" : "Fujima Takuya",
+      "type" : "CHARACTER_DESIGN"
+    } ],
     "17190" : [ {
       "name" : "Studio A-CAT",
       "type" : "ANIMATION_WORK"
@@ -74,9 +78,89 @@
       "type" : "MUSIC"
     } ]
   },
+  "description" : "http://anidb.net/ch125042 [Rindou Rin], who once dreamt of becoming a ballet dancer before being sidelined by injury, is embracing a quiet life with her grandmother until she is unexpectedly thrust into the high-speed world of racing. Now, she faces a new adrenaline-fueled reality in the NEX Race, a revolutionary motorsport event exceeding speeds of 500 km/h.\nSource: Crunchyroll\nNote: The first two episodes received an early screening at a special event on March 17, 2024 at United Cinemas Toyosu in Tokyo. The regular TV broadcast started on April 6, 2024.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-06",
+      "description" : "A new form of energy called HyPER gives rise to a new racing series, NEX Race, where human drivers and AI compete at speeds exceeding 500 kph. Five years later, the season finale is contested by the undisputed champ and the Queen of the race track.\nSource: crunchyroll",
+      "episode_id" : 278824,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.38,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DUEM0QM" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fuji no Sora no Shita de"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Underneath Fuji`s Sky"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "富士の空の下で"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-13",
+      "episode_id" : 278825,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Debut!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Debut!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "デビュー!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-20",
+      "episode_id" : 278826,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-27",
+      "episode_id" : 278827,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.75,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 3.12,
+      "total" : 8
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "390126" ],
+    "ANISON" : [ "25361" ],
     "ANN" : [ "26074" ],
+    "CRUNCHY_ROLL" : [ "GZJH3D879" ],
     "MAL" : [ "52405" ],
     "SYOBOI" : [ "7019" ],
     "TWITTER" : [ "HSE_Project_PR" ],
@@ -92,6 +176,21 @@
   },
   "start_date" : "2024-04-06",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -114,7 +213,11 @@
     "type" : "MAIN"
   }, {
     "language" : "JAPANESE",
-    "title" : "HIGHSPEED Etoile",
+    "title" : "HIGHSPEED Étoile",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Highspeed Etoile",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

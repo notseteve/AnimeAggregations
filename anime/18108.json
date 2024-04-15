@@ -78,17 +78,32 @@
       "name" : "Tezuka Productions",
       "type" : "ANIMATION_WORK"
     } ],
-    "5003" : [ {
-      "name" : "Hayama Jun`ichi",
-      "type" : "CHARACTER_DESIGN"
-    } ],
     "6190" : [ {
       "name" : "Ooshita Kyuuma",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Ooshita Kyuuma",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "11685" : [ {
+      "name" : "Emoto Masahiro",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "14960" : [ {
+      "name" : "Maruyama Shuuji",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "21527" : [ {
+      "name" : "Nakajima Daisuke",
+      "type" : "DIRECTOR"
     } ],
     "22177" : [ {
       "name" : "Hasegawa Saki",
       "type" : "CHARACTER_DESIGN"
+    } ],
+    "30157" : [ {
+      "name" : "Saitou Itaru",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "36348" : [ {
       "name" : "Fukuhiro Shuuichirou",
@@ -110,10 +125,23 @@
       "episode_id" : 278748,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.43,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Déménagement"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Moving"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ohikkoshi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "お引っ越し"
       } ],
       "type" : "REGULAR"
     }, {
@@ -124,7 +152,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "A Wonderful Night"
       } ],
       "type" : "REGULAR"
     }, {
@@ -149,11 +177,46 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-04-07",
+      "episode_id" : 279806,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-04-07",
+      "episode_id" : 279807,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.98,
+      "total" : 14
+    },
+    "TEMPORARY" : {
+      "rating" : 6.07,
+      "total" : 14
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "392015" ],
+    "ANISON" : [ "25411" ],
     "ANN" : [ "28984" ],
+    "MAL" : [ "55911" ],
     "SYOBOI" : [ "7030" ],
     "TWITTER" : [ "the_fable_anime" ],
     "WEBSITE" : [ "https://www.vap.co.jp/the-fable-anime/" ],
@@ -162,6 +225,21 @@
   },
   "start_date" : "2024-04-07",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -182,6 +260,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "The Fable",
     "type" : "MAIN"
+  }, {
+    "language" : "RUSSIAN",
+    "title" : "Басня",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "ザ・ファブル",

@@ -515,7 +515,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.84,
-      "total" : 1224
+      "total" : 1225
     },
     "REVIEW" : {
       "rating" : 7.12,
@@ -523,7 +523,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.84,
-      "total" : 1231
+      "total" : 1232
     }
   },
   "resources" : {
@@ -689,6 +689,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2610" : {
       "info_box" : false,
       "name" : "setting",
@@ -807,6 +814,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2826" : {
       "info_box" : false,
       "name" : "pantsu",
@@ -918,6 +933,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3876" : {
       "info_box" : false,
       "name" : "folklore",
@@ -930,6 +953,14 @@
       "info_box" : false,
       "name" : "you`re my hidden weapon!",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1017,6 +1048,14 @@
       "info_box" : false,
       "name" : "family life",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6374" : {
+      "info_box" : false,
+      "name" : "Cinderella",
+      "parent_tag_id" : 6397,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

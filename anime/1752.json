@@ -130,7 +130,7 @@
       "length" : 30,
       "number" : 2,
       "rating" : {
-        "rating" : 4.33,
+        "rating" : 4.34,
         "total" : 3
       },
       "recap" : false,
@@ -200,6 +200,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -288,12 +295,12 @@
       "weight" : 500
     },
     "2641" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "historical",
       "parent_tag_id" : 2625,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 500
     },
     "2672" : {
       "info_box" : false,
@@ -375,6 +382,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2852" : {
+      "info_box" : false,
+      "name" : "thriller",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2885" : {
       "info_box" : false,
       "name" : "law and order",
@@ -422,6 +437,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5965" : {
       "info_box" : false,
       "name" : "incomplete story",
@@ -448,6 +471,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

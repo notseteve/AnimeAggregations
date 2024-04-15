@@ -11,6 +11,14 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 139649,
+      "name" : "Asamura Taichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139650,
+      "name" : "Ayase Akiko",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 125140,
       "name" : "Maru Tomokazu",
       "type" : "CHARACTER"
@@ -52,11 +60,27 @@
     "ANN" : [ "26123" ],
     "MAL" : [ "52481" ],
     "TWITTER" : [ "gimaiseikatsu" ],
+    "WEBSITE" : [ "https://gimaiseikatsu-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Days_with_My_Stepsister" ],
     "WIKIPEDIA_JP" : [ "義妹生活" ]
   },
   "start_date" : "2024-07",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -86,5 +110,6 @@
     "title" : "Days with My Step Sister",
     "type" : "SYNONYM"
   } ],
-  "type" : "SERIES"
+  "type" : "SERIES",
+  "url" : "https://gimaiseikatsu-anime.com/"
 }

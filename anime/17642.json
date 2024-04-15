@@ -71,8 +71,8 @@
       "length" : 35,
       "number" : 1,
       "rating" : {
-        "rating" : 5.34,
-        "total" : 3
+        "rating" : 6.42,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -92,8 +92,8 @@
       "length" : 30,
       "number" : 2,
       "rating" : {
-        "rating" : 7.31,
-        "total" : 2
+        "rating" : 8.0,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -113,8 +113,8 @@
       "length" : 30,
       "number" : 3,
       "rating" : {
-        "rating" : 7.31,
-        "total" : 2
+        "rating" : 8.0,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -134,8 +134,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.31,
-        "total" : 2
+        "rating" : 8.0,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -155,8 +155,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.31,
-        "total" : 2
+        "rating" : 8.0,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -176,8 +176,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.31,
-        "total" : 2
+        "rating" : 8.61,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -197,8 +197,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.31,
-        "total" : 2
+        "rating" : 8.0,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -218,8 +218,8 @@
       "length" : 35,
       "number" : 8,
       "rating" : {
-        "rating" : 7.31,
-        "total" : 2
+        "rating" : 8.0,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -240,7 +240,7 @@
       "length" : 3,
       "number" : 1,
       "rating" : {
-        "rating" : 2.48,
+        "rating" : 2.49,
         "total" : 1
       },
       "recap" : false,
@@ -253,12 +253,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.62,
-      "total" : 63
+      "rating" : 4.57,
+      "total" : 68
     },
     "TEMPORARY" : {
-      "rating" : 6.23,
-      "total" : 65
+      "rating" : 6.24,
+      "total" : 70
     }
   },
   "related" : {
@@ -273,10 +273,134 @@
   },
   "start_date" : "2023-11-02",
   "tags" : {
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2257" : {
+      "info_box" : false,
+      "name" : "zombie",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2641" : {
+      "info_box" : false,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2648" : {
+      "info_box" : false,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2800" : {
+      "info_box" : true,
+      "name" : "game",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2851" : {
+      "info_box" : false,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "4064" : {
       "info_box" : false,
       "name" : "CGI",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4096" : {
+      "info_box" : false,
+      "name" : "gore",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -299,6 +423,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7793" : {
+      "info_box" : false,
+      "name" : "American-Japanese co-production",
+      "parent_tag_id" : 6173,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

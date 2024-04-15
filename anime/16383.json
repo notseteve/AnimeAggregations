@@ -1,20 +1,148 @@
 {
   "anime_id" : 16383,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 139574,
+      "name" : "Charlotte",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139575,
+      "name" : "Jacob",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139576,
+      "name" : "Wilhelm",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
-    "747" : [ {
-      "name" : "Clamp",
+    "7612" : [ {
+      "name" : "Oosugi Naohiro",
       "type" : "CHARACTER_DESIGN"
+    } ],
+    "13868" : [ {
+      "name" : "Miyagawa Akira",
+      "type" : "MUSIC"
     } ],
     "34645" : [ {
       "name" : "Wit Studio",
       "type" : "ANIMATION_WORK"
     } ]
   },
+  "end_date" : "2024-04-17",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-17",
+      "episode_id" : 278959,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Cinderella"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Cinderella"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "シンデレラ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-17",
+      "episode_id" : 278960,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akazukin"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Little Red Riding Hood"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "赤ずきん"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-17",
+      "episode_id" : 278961,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Hansel and Gretel"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hansel to Gretel"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ヘンゼルとグレーテル"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-17",
+      "episode_id" : 278962,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kobito no Kutsuya"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Elves and the Shoemaker"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "小人の靴屋"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-17",
+      "episode_id" : 278963,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bremen no Ongakutai"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Town Musicians of Bremen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ブレーメンの音楽隊"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-17",
+      "episode_id" : 278964,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hameln no Fuefuki"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pied Piper of Hamelin"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ハーメルンの笛吹き"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "resources" : {
     "ALL_CINEMA" : [ "377516" ],
-    "MAL" : [ "49210" ]
+    "ANN" : [ "32522" ],
+    "MAL" : [ "49210" ],
+    "NETFLIX" : [ "81050090" ],
+    "WIKIPEDIA_EN" : [ "The_Grimm_Variations" ]
   },
-  "start_date" : "1970-01-01",
+  "start_date" : "2024-04-17",
   "tags" : {
     "2609" : {
       "info_box" : false,
@@ -49,11 +177,15 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Grimm (Web)",
+    "title" : "Grimm Kumikyoku",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "The Grimm Variations",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
-    "title" : "グリム (Web)",
+    "title" : "グリム組曲",
     "type" : "OFFICIAL"
   } ],
   "type" : "WEB"

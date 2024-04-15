@@ -180,8 +180,8 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 8.32,
-        "total" : 3
+        "rating" : 7.45,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -204,7 +204,7 @@
       "length" : 20,
       "number" : 2,
       "rating" : {
-        "rating" : 6.79,
+        "rating" : 6.78,
         "total" : 2
       },
       "recap" : false,
@@ -252,8 +252,8 @@
       "length" : 20,
       "number" : 4,
       "rating" : {
-        "rating" : 5.92,
-        "total" : 2
+        "rating" : 6.41,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -276,8 +276,8 @@
       "length" : 15,
       "number" : 5,
       "rating" : {
-        "rating" : 7.99,
-        "total" : 1
+        "rating" : 5.48,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -297,8 +297,8 @@
       "length" : 20,
       "number" : 6,
       "rating" : {
-        "rating" : 7.99,
-        "total" : 1
+        "rating" : 6.61,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -318,8 +318,8 @@
       "length" : 15,
       "number" : 7,
       "rating" : {
-        "rating" : 6.21,
-        "total" : 1
+        "rating" : 5.68,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -464,6 +464,10 @@
       "episode_id" : 217905,
       "length" : 15,
       "number" : 14,
+      "rating" : {
+        "rating" : 7.99,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -481,6 +485,10 @@
       "episode_id" : 225848,
       "length" : 15,
       "number" : 15,
+      "rating" : {
+        "rating" : 6.21,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -498,6 +506,10 @@
       "episode_id" : 239908,
       "length" : 15,
       "number" : 16,
+      "rating" : {
+        "rating" : 6.21,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -515,6 +527,10 @@
       "episode_id" : 250513,
       "length" : 15,
       "number" : 17,
+      "rating" : {
+        "rating" : 6.21,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -532,6 +548,10 @@
       "episode_id" : 267865,
       "length" : 15,
       "number" : 18,
+      "rating" : {
+        "rating" : 7.99,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -626,7 +646,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 9.01,
+        "rating" : 9.02,
         "total" : 2
       },
       "recap" : false,
@@ -696,7 +716,7 @@
       "length" : 2,
       "number" : 7,
       "rating" : {
-        "rating" : 4.81,
+        "rating" : 4.85,
         "total" : 1
       },
       "recap" : false,
@@ -970,12 +990,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.21,
-      "total" : 154
+      "rating" : 7.23,
+      "total" : 156
     },
     "TEMPORARY" : {
       "rating" : 7.52,
-      "total" : 155
+      "total" : 157
     }
   },
   "related" : {
@@ -996,6 +1016,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2605" : {
       "info_box" : false,
@@ -1029,6 +1056,14 @@
       "info_box" : false,
       "name" : "demon",
       "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
       "spoiler" : false,
       "verified" : false,
       "weight" : 200

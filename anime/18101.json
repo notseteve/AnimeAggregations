@@ -10,12 +10,20 @@
       "name" : "Ashioki Oushi (Shounenki)",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 139620,
+      "name" : "Itsuomi no Chichi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 138281,
       "name" : "Konno",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137248,
       "name" : "Mitoki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139621,
+      "name" : "Nagi Itsuomi (Shounenki)",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137247,
@@ -128,7 +136,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.64,
+        "rating" : 5.57,
         "total" : 7
       },
       "recap" : false,
@@ -153,7 +161,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.74,
+        "rating" : 4.72,
         "total" : 4
       },
       "recap" : false,
@@ -178,7 +186,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.87,
+        "rating" : 5.85,
         "total" : 4
       },
       "recap" : false,
@@ -203,7 +211,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.89,
+        "rating" : 4.82,
         "total" : 3
       },
       "recap" : false,
@@ -228,7 +236,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.64,
+        "rating" : 6.55,
         "total" : 3
       },
       "recap" : false,
@@ -253,7 +261,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.83,
+        "rating" : 5.74,
         "total" : 3
       },
       "recap" : false,
@@ -278,7 +286,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.02,
+        "rating" : 3.91,
         "total" : 3
       },
       "recap" : false,
@@ -303,7 +311,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.02,
+        "rating" : 4.9,
         "total" : 3
       },
       "recap" : false,
@@ -328,7 +336,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 3.78,
+        "rating" : 3.68,
         "total" : 3
       },
       "recap" : false,
@@ -353,8 +361,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 1.33,
-        "total" : 1
+        "rating" : 3.24,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -378,8 +386,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 1.33,
-        "total" : 1
+        "rating" : 3.06,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -398,10 +406,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-03-23",
+      "description" : "Yuki and Itsuomi have their first date as a couple, and it leads to them learning more about each other.\nSource: Crunchyroll",
       "episode_id" : 277769,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 2.9,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU8J08V" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Our World"
@@ -420,7 +436,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.35,
+        "rating" : 4.31,
         "total" : 2
       },
       "recap" : false,
@@ -435,7 +451,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 6.72,
+        "rating" : 6.68,
         "total" : 2
       },
       "recap" : false,
@@ -448,12 +464,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.59,
-      "total" : 70
+      "rating" : 7.05,
+      "total" : 177
     },
     "TEMPORARY" : {
-      "rating" : 6.82,
-      "total" : 71
+      "rating" : 7.24,
+      "total" : 178
     }
   },
   "resources" : {
@@ -584,6 +600,14 @@
       "verified" : false,
       "weight" : 500
     },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2786" : {
       "info_box" : false,
       "name" : "love polygon",
@@ -648,6 +672,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3813" : {
       "info_box" : false,
       "name" : "winter",
@@ -660,6 +692,14 @@
       "info_box" : false,
       "name" : "facial distortion",
       "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4222" : {
+      "info_box" : false,
+      "name" : "walls of text",
+      "parent_tag_id" : 3683,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -783,6 +823,14 @@
     "language" : "JAPANESE",
     "title" : "ゆびさきと恋々",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "指尖相触，恋恋不舍",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "yubiren",
+    "type" : "SHORT"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "yubisaki",

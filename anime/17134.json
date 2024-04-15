@@ -130,6 +130,10 @@
       "name" : "Yanagi Shinsuke",
       "type" : "DIRECTOR"
     } ],
+    "12201" : [ {
+      "name" : "Ogawa Eri",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "26964" : [ {
       "name" : "Mizuno Takahiro",
       "type" : "CHIEF_ANIMATION_DIRECTION"
@@ -160,7 +164,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.58,
+        "rating" : 7.41,
         "total" : 1
       },
       "recap" : false,
@@ -394,24 +398,44 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-03-20",
+      "description" : "Tomozaki tries to show Kikuchi the issues with her world view. Mimimi and Tomozaki perform their comedy routine. The curtain rises on the class play.\nSource: Crunchyroll",
       "episode_id" : 277673,
       "length" : 25,
       "number" : 12,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWUKV81V" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saisho no Machi ni Aru Komonjo ga, Last Dungeon no Kagi Dattari Suru"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Sometimes the Ancient Tome in the First Town Is the Key to the Final Dungeon"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "最初の街にある古文書が, ラストダンジョンの鍵だったりする"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-03-27",
+      "description" : "The class play goes off without a hitch, but with a surprise twist. Afterward, Tomozaki seeks out Kikuchi for a conversation about their relationship.\nSource: crunchyroll",
       "episode_id" : 277674,
       "length" : 25,
       "number" : 13,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XU0GN87" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mahou no Tobira no Saki ni wa Kitto, Hoshikatta Mono ga Korogatte Iru"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 13"
+        "title" : "You`re Sure to Find What You Want on the Other Side of the Magic Door"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "魔法の扉の先にはきっと, 欲しかったものが転がっている"
       } ],
       "type" : "REGULAR"
     } ],
@@ -432,16 +456,33 @@
         "title" : "放送直前生配信! 経験値上げちゃってステージ2もクリアだSP"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-02-15",
+      "episode_id" : 279284,
+      "length" : 40,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "1日遅れのバレンタインニコ生"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode S2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ichinichi Okure no Valentine Nico Nama"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.39,
-      "total" : 35
+      "rating" : 4.2,
+      "total" : 137
     },
     "TEMPORARY" : {
-      "rating" : 5.87,
-      "total" : 35
+      "rating" : 6.09,
+      "total" : 138
     }
   },
   "related" : {
@@ -457,7 +498,8 @@
     "TWITTER" : [ "tomozakikoshiki" ],
     "WEBSITE" : [ "http://tomozaki-koushiki.com/" ],
     "WIKIPEDIA_EN" : [ "Bottom-tier_Character_Tomozaki" ],
-    "WIKIPEDIA_JP" : [ "弱キャラ友崎くん" ]
+    "WIKIPEDIA_JP" : [ "弱キャラ友崎くん" ],
+    "YOUTUBE" : [ "watch?v=JxSyduCgDII" ]
   },
   "start_date" : "2024-01-03",
   "tags" : {
@@ -490,6 +532,45 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2676" : {
+      "info_box" : false,
+      "name" : "Tokyo",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2790" : {
       "info_box" : false,
       "name" : "plot continuity",
@@ -502,6 +583,14 @@
       "info_box" : true,
       "name" : "novel",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -605,6 +694,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "弱キャラ友崎くん 2nd STAGE",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "弱势角色友崎君 2nd STAGE",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "弱角友崎同學 2nd STAGE",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

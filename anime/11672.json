@@ -224,7 +224,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.56,
+        "rating" : 5.55,
         "total" : 8
       },
       "recap" : false,
@@ -249,7 +249,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.35,
+        "rating" : 5.34,
         "total" : 5
       },
       "recap" : false,
@@ -274,7 +274,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.97,
+        "rating" : 5.95,
         "total" : 5
       },
       "recap" : false,
@@ -299,7 +299,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.72,
+        "rating" : 6.71,
         "total" : 5
       },
       "recap" : false,
@@ -324,7 +324,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.72,
+        "rating" : 6.71,
         "total" : 5
       },
       "recap" : false,
@@ -349,7 +349,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.07,
+        "rating" : 7.05,
         "total" : 5
       },
       "recap" : false,
@@ -374,7 +374,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.12,
+        "rating" : 7.1,
         "total" : 6
       },
       "recap" : false,
@@ -399,7 +399,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.61,
+        "rating" : 6.6,
         "total" : 6
       },
       "recap" : false,
@@ -424,7 +424,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.72,
+        "rating" : 5.71,
         "total" : 6
       },
       "recap" : false,
@@ -449,7 +449,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.9,
+        "rating" : 6.89,
         "total" : 6
       },
       "recap" : false,
@@ -474,7 +474,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 3.67,
+        "rating" : 3.66,
         "total" : 6
       },
       "recap" : false,
@@ -499,7 +499,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.2,
+        "rating" : 6.18,
         "total" : 6
       },
       "recap" : false,
@@ -524,7 +524,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 5.39,
+        "rating" : 5.37,
         "total" : 6
       },
       "recap" : false,
@@ -577,12 +577,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.83,
-      "total" : 1251
+      "rating" : 6.84,
+      "total" : 1256
     },
     "TEMPORARY" : {
       "rating" : 7.37,
-      "total" : 1260
+      "total" : 1265
     }
   },
   "related" : {
@@ -653,9 +653,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "2796" : {
+      "info_box" : true,
+      "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
       "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
@@ -677,10 +693,50 @@
       "verified" : false,
       "weight" : 200
     },
+    "3055" : {
+      "info_box" : false,
+      "name" : "fairy tale",
+      "parent_tag_id" : 3876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3322" : {
       "info_box" : false,
       "name" : "remake",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3714" : {
+      "info_box" : true,
+      "name" : "Western animated cartoon",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3876" : {
+      "info_box" : false,
+      "name" : "folklore",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

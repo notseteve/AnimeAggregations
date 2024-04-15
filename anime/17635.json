@@ -33,6 +33,13 @@
       "name" : "Hanada Jukki",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "12852" : [ {
+      "name" : "Satou Michio",
+      "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Satou Michio",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "38556" : [ {
       "name" : "Katou Makoto",
       "type" : "DIRECTOR"
@@ -41,12 +48,16 @@
       "name" : "Troyca",
       "type" : "ANIMATION_WORK"
     } ],
+    "41231" : [ {
+      "name" : "Matsumoto Fuminori",
+      "type" : "MUSIC"
+    } ],
     "68839" : [ {
       "name" : "Aniplex.exe",
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on a visual novel game developed by Frontwing and Makura (枕) and published by Aniplex.exe.\nIn the near future, a sudden and unexplained sea rise has left much of human civilization underwater. Ikaruga Natsuki, a boy who lost his mother and his leg in an accident some years earlier, returns disillusioned from a harsh life in the big city to find his old countryside home half-swallowed by the sea. Left without a family, all he has to his name is the ship and submarine left to him by his oceanologist grandmother, and her debts. His only hope to restore the dreams for the future that he has lost is to take up an opportunity presented to him by the suspicious debt collector Catherine. They set sail to search the sunken ruins of his grandmother`s laboratory in order to find a treasure rumor says she left there. But what they find is not riches or jewels; it is a strange girl lying asleep in a coffin at the bottom of the sea. Atri. Atri is a robot, but her appearance and her wealth of emotions would fool anyone into think she`s a living, breathing human being. In gratitude for being salvaged, she makes a declaration to Natsuki.\n\"I want to fulfil my master`s final order. Until I do, I`ll be your leg!\"\nIn a little town slowly being enveloped by the ocean, an unforgettable summer is about to begin for this boy and this mysterious robot girl...\nSource: Official Game Website",
+  "description" : "* Based on a visual novel game developed by Frontwing and Makura (枕) and published by Aniplex.exe.\nIn the near future, a sudden and unexplained sea rise has left much of human civilization underwater. http://anidb.net/ch135144 [Ikaruga Natsuki], a boy who lost his mother and his leg in an accident some years earlier, returns disillusioned from a harsh life in the big city to find his old countryside home half-swallowed by the sea. Left without a family, all he has to his name is the ship and submarine left to him by his oceanologist grandmother, and her debts. His only hope to restore the dreams for the future that he has lost is to take up an opportunity presented to him by the suspicious debt collector http://anidb.net/ch135143 [Catherine]. They set sail to search the sunken ruins of his grandmother`s laboratory in order to find a treasure rumor says she left there. But what they find is not riches or jewels; it is a strange girl lying asleep in a coffin at the bottom of the sea. http://anidb.net/ch135142 [Atri]. Atri is a robot, but her appearance and her wealth of emotions would fool anyone into think she`s a living, breathing human being. In gratitude for being salvaged, she makes a declaration to Natsuki.\n\"I want to fulfil my master`s final order. Until I do, I`ll be your leg!\"\nIn a little town slowly being enveloped by the ocean, an unforgettable summer is about to begin for this boy and this mysterious robot girl...\nSource: Official Game Website",
   "resources" : {
     "ALL_CINEMA" : [ "384950" ],
     "ANN" : [ "26372" ],
@@ -57,8 +68,31 @@
     "WIKIPEDIA_EN" : [ "Atri:_My_Dear_Moments" ],
     "WIKIPEDIA_JP" : [ "ATRI_-My_Dear_Moments-" ]
   },
-  "start_date" : "2024",
+  "start_date" : "2024-07",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2800" : {
+      "info_box" : true,
+      "name" : "game",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2804" : {
+      "info_box" : true,
+      "name" : "visual novel",
+      "parent_tag_id" : 2800,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

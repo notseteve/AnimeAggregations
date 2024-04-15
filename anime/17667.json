@@ -17,6 +17,19 @@
       "character_id" : 134140,
       "name" : "Shinonome Akira",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 139832,
+      "name" : "Nakatomi Youka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139833,
+      "name" : "Pochi-san",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139831,
+      "name" : "Zenjirou",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -44,16 +57,31 @@
       "type" : "MUSIC"
     } ]
   },
+  "description" : "In a seemingly ordinary rural town, something strange is happening to the residents. But http://anidb.net/ch133838 [Chikura Shizuru] is more concerned for her missing http://anidb.net/ch139832 [friend]. Determined to find her, Shizuru and three other girls board an abandoned train and travel to the outside world, unsure if they`ll make it back alive. As they venture toward the unknown, the question looms: What awaits them at the final stop?\nSource: Crunchyroll\nNote: The first three episodes received an early screening at a special event on March 3, 2024 at Grand Cinema Sunshine Ikebukuro in Tokyo. The regular TV broadcast started on April 1, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-01",
+      "description" : "Two years after the world as we know it has ended, Shizuru leads an uneventful life in her hometown of Agano. But one day, she finds a clue that will lead her on a journey into the unknown to find her missing friend.\nSource: crunchyroll",
       "episode_id" : 278788,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.43,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9UQWW7D" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chotto Itte Kuru"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "I`ll Be Going Now"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ちょっと行ってくる"
       } ],
       "type" : "REGULAR"
     }, {
@@ -89,11 +117,46 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-04-01",
+      "episode_id" : 279509,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-04-01",
+      "episode_id" : 279527,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.29,
+      "total" : 17
+    },
+    "TEMPORARY" : {
+      "rating" : 5.52,
+      "total" : 17
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "390741" ],
+    "ANISON" : [ "25413" ],
     "ANN" : [ "26454" ],
+    "CRUNCHY_ROLL" : [ "GXJHM3GNX" ],
     "MAL" : [ "53356" ],
     "SYOBOI" : [ "7005" ],
     "TWITTER" : [ "shumatsu_train" ],
@@ -103,6 +166,21 @@
   },
   "start_date" : "2024-04-01",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -126,6 +204,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Train to the End of the World",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "末班列车去哪里了？",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

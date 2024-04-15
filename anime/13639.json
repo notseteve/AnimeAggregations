@@ -32,7 +32,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.19,
+      "rating" : 5.2,
       "total" : 19
     },
     "REVIEW" : {
@@ -63,6 +63,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -106,6 +113,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2641" : {
+      "info_box" : false,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2750" : {
       "info_box" : false,
       "name" : "violence",
@@ -145,6 +160,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4616" : {
+      "info_box" : false,
+      "name" : "based on real events",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "4664" : {
       "info_box" : true,

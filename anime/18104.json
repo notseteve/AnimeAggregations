@@ -100,16 +100,121 @@
     } ],
     "58987" : [ {
       "name" : "Studio Bind",
-      "type" : "WORK"
+      "type" : "ANIMATION_WORK"
+    } ],
+    "75935" : [ {
+      "name" : "Sun Honzhi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
-  "description" : "* Based on an isekai light novel series by http://anidb.net/cr57653 [Rifujin na Magonote].",
+  "description" : "* Based on an isekai light novel series by http://anidb.net/cr57653 [Rifujin na Magonote].\nNote: The first two episodes received an early screening at a special event on March 30, 2024 at Shinjuku Wald 9 in Tokyo. The regular TV broadcast started on April 8, 2024.",
   "end_date" : "2024-06",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-04-08",
+      "description" : "Newly cured and brimming with confidence, Rudeus resolves to marry Sylphie. Just one problem: he has no idea how marriage works in this world. And when friends tell him any newlywed needs a house, he winds up with a haunted mansion.\nSource: crunchyroll",
+      "episode_id" : 278760,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 5.53,
+        "total" : 6
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU4J725" ]
+      },
+      "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "La maison de ses rêves"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "My Dream Home"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yume no My Home"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夢のマイホーム"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-15",
+      "episode_id" : 278761,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hirouen"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Wedding Reception"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "披露宴"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-22",
+      "episode_id" : 278762,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-29",
+      "episode_id" : 278763,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-03-30",
+      "episode_id" : 279816,
+      "length" : 40,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 2 Cour Senkoujouei Event"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Second Cour Advance Screening Stage Greeting Event"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第2クール先行上映イベント"
+      } ],
+      "type" : "SPECIAL"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.67,
+      "total" : 21
+    },
+    "TEMPORARY" : {
+      "rating" : 7.2,
+      "total" : 22
+    }
+  },
   "related" : {
     "PREQUEL" : [ 17236 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "383711" ],
+    "ANISON" : [ "24955" ],
     "ANN" : [ "28953" ],
+    "CRUNCHY_ROLL" : [ "G24H1N3MP" ],
     "MAL" : [ "55888" ],
     "SYOBOI" : [ "6982" ],
     "TWITTER" : [ "mushokutensei_A" ],
@@ -181,6 +286,10 @@
     "language" : "JAPANESE",
     "title" : "無職転生II ~異世界行ったら本気だす~ (2024)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+    "type" : "SYNONYM"
   }, {
     "language" : "CHINESE_TRADITIONAL",
     "title" : "無職轉生～到了異世界就拿出真本事～ 第二季 第二季度",

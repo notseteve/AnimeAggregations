@@ -98,7 +98,7 @@
       "length" : 2,
       "number" : 3,
       "rating" : {
-        "rating" : 2.8,
+        "rating" : 2.79,
         "total" : 5
       },
       "recap" : false,
@@ -198,7 +198,7 @@
       "length" : 2,
       "number" : 7,
       "rating" : {
-        "rating" : 4.07,
+        "rating" : 4.06,
         "total" : 5
       },
       "recap" : false,
@@ -271,11 +271,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.06,
-      "total" : 1012
+      "total" : 1013
     },
     "TEMPORARY" : {
       "rating" : 5.6,
-      "total" : 1018
+      "total" : 1019
     }
   },
   "related" : {
@@ -292,6 +292,14 @@
   },
   "start_date" : "2010-03-17",
   "tags" : {
+    "618" : {
+      "info_box" : false,
+      "name" : "trap",
+      "parent_tag_id" : 2565,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "1802" : {
       "info_box" : true,
       "name" : "seinen",
@@ -307,6 +315,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2565" : {
+      "info_box" : false,
+      "name" : "cross-dressing",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2604" : {
       "info_box" : false,
@@ -332,6 +348,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -373,6 +396,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2648" : {
+      "info_box" : false,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2655" : {
       "info_box" : true,
       "name" : "parody",
@@ -397,6 +428,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2851" : {
+      "info_box" : false,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2853" : {
       "info_box" : true,
       "name" : "comedy",
@@ -405,10 +452,42 @@
       "verified" : false,
       "weight" : 600
     },
+    "3055" : {
+      "info_box" : false,
+      "name" : "fairy tale",
+      "parent_tag_id" : 3876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3876" : {
+      "info_box" : false,
+      "name" : "folklore",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4200" : {
       "info_box" : false,
       "name" : "flash animation",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -455,6 +534,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
