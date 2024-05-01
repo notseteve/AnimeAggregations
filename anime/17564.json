@@ -18,6 +18,10 @@
       "name" : "Doni",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 140278,
+      "name" : "Falin Touden",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 137157,
       "name" : "Fionil",
       "type" : "CHARACTER"
@@ -48,6 +52,10 @@
     }, {
       "character_id" : 137155,
       "name" : "Marcille no Haha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140188,
+      "name" : "Red Dragon",
       "type" : "CHARACTER"
     }, {
       "character_id" : 138452,
@@ -186,7 +194,7 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 6.22,
+        "rating" : 6.21,
         "total" : 11
       },
       "recap" : false,
@@ -207,7 +215,7 @@
       "length" : 30,
       "number" : 2,
       "rating" : {
-        "rating" : 5.83,
+        "rating" : 5.84,
         "total" : 9
       },
       "recap" : false,
@@ -246,7 +254,7 @@
     }, {
       "air_date" : "2024-01-25",
       "episode_id" : 274893,
-      "length" : 25,
+      "length" : 30,
       "number" : 4,
       "rating" : {
         "rating" : 4.83,
@@ -309,10 +317,10 @@
     }, {
       "air_date" : "2024-02-15",
       "episode_id" : 276814,
-      "length" : 25,
+      "length" : 30,
       "number" : 7,
       "rating" : {
-        "rating" : 8.48,
+        "rating" : 8.49,
         "total" : 6
       },
       "recap" : false,
@@ -351,10 +359,10 @@
     }, {
       "air_date" : "2024-02-29",
       "episode_id" : 277712,
-      "length" : 25,
+      "length" : 30,
       "number" : 9,
       "rating" : {
-        "rating" : 9.15,
+        "rating" : 9.16,
         "total" : 5
       },
       "recap" : false,
@@ -396,7 +404,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 9.36,
+        "rating" : 9.37,
         "total" : 7
       },
       "recap" : false,
@@ -438,7 +446,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 8.74,
+        "rating" : 8.75,
         "total" : 5
       },
       "recap" : false,
@@ -479,13 +487,17 @@
       "episode_id" : 278675,
       "length" : 25,
       "number" : 15,
+      "rating" : {
+        "rating" : 9.88,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
-        "language" : "JAPANESE_TRANSLITERATED",
+        "language" : "ENGLISH",
         "title" : "Dryad / Cockatrice"
       }, {
-        "language" : "ENGLISH",
-        "title" : "Episode 15"
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dryad / Cockatrice"
       }, {
         "language" : "JAPANESE",
         "title" : "ドライアド / コカトリス"
@@ -496,10 +508,64 @@
       "episode_id" : 278676,
       "length" : 25,
       "number" : 16,
+      "rating" : {
+        "rating" : 9.12,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 16"
+        "title" : "Cleaners / Dried with Sweet Sake"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Soujiya / Mirinboshi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "掃除屋 / みりん干し"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-04-25",
+      "episode_id" : 280079,
+      "length" : 25,
+      "number" : 17,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 17"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-02",
+      "episode_id" : 280080,
+      "length" : 25,
+      "number" : 18,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 18"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-09",
+      "episode_id" : 280081,
+      "length" : 25,
+      "number" : 19,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 19"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-16",
+      "episode_id" : 280082,
+      "length" : 25,
+      "number" : 20,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 20"
       } ],
       "type" : "REGULAR"
     } ],
@@ -509,7 +575,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 8.21,
+        "rating" : 8.23,
         "total" : 2
       },
       "recap" : false,
@@ -524,7 +590,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 2.43,
+        "rating" : 2.44,
         "total" : 2
       },
       "recap" : false,
@@ -537,16 +603,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.9,
-      "total" : 151
+      "rating" : 7.03,
+      "total" : 161
     },
     "REVIEW" : {
       "rating" : 3.16,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 7.32,
-      "total" : 154
+      "rating" : 7.37,
+      "total" : 163
     }
   },
   "related" : {
@@ -567,7 +633,7 @@
   "similar" : {
     "8142" : {
       "rating" : 10.0,
-      "total" : 2
+      "total" : 3
     },
     "12385" : {
       "rating" : 6.0,

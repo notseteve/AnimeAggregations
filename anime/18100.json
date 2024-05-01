@@ -1,6 +1,23 @@
 {
   "anime_id" : 18100,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 140229,
+      "name" : "Cheslock",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140228,
+      "name" : "Clayton",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140231,
+      "name" : "Johann Agares",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140230,
+      "name" : "Macmillan",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 11141,
       "name" : "Ciel Phantomhive",
@@ -69,17 +86,37 @@
       "type" : "WORK"
     } ]
   },
-  "description" : "* Based on a supernatural fantasy shounen manga by http://anidb.net/cr8740 [Toboso Yana].",
+  "description" : "* Based on a supernatural fantasy shounen manga by http://anidb.net/cr8740 [Toboso Yana].\nCiel Phantomhive is the most powerful boy in all of England, but he bears the scars of unspeakable suffering. Forced to watch as his beloved parents were brutally murdered, Ciel was subsequently abducted and violently tortured. Desperate to end his suffering, the boy traded his own soul for a chance at vengeance, casting his lot with the one person on whom he could depend: Sebastian, a demon Butler summoned from the very pits of hell. Together, they’ll prowl the darkest alleys of London on a mission to snuff out those who would do evil.\nSource: crunchyroll\nNote: The first episode received an early screening at a special event on March 24, 2024 at United Cinemas Aqua City Odaiba in Tokyo. The regular TV broadcast started on April 13, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-13",
+      "description" : "Ciel begins attending England’s prestigious Weston College. This insular school values tradition, is bound by strict discipline, and is ruled by the prefects of its four boarding houses, collectively known as \"P4\".\nSource: crunchyroll",
       "episode_id" : 278776,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.45,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWU2W1N5" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "His Butler, at School"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le majordome va à l’école"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Sein Butler – in der Schule"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sono Shitsuji, Toukou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "その執事, 登校"
       } ],
       "type" : "REGULAR"
     }, {
@@ -91,6 +128,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sono Shitsuji, Gisou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "その執事, 偽装"
       } ],
       "type" : "REGULAR"
     }, {
@@ -117,12 +160,24 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.61,
+      "total" : 10
+    },
+    "TEMPORARY" : {
+      "rating" : 5.9,
+      "total" : 10
+    }
+  },
   "related" : {
     "PREQUEL" : [ 11696 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "391424" ],
+    "ANISON" : [ "25406" ],
     "ANN" : [ "28897" ],
+    "CRUNCHY_ROLL" : [ "GYQ43P3E6" ],
     "MAL" : [ "55855" ],
     "SYOBOI" : [ "7038" ],
     "TWITTER" : [ "kuroshitsuji_pr" ],
@@ -183,6 +238,10 @@
     "title" : "Kuroshitsuji: Kishuku Gakkou Hen",
     "type" : "MAIN"
   }, {
+    "language" : "GERMAN",
+    "title" : "Black Butler -Public School Arc-",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "Black Butler: Public School Arc",
     "type" : "OFFICIAL"
@@ -190,6 +249,10 @@
     "language" : "JAPANESE",
     "title" : "黒執事 -寄宿学校編-",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Kuroshitsuji - Kishuku Gakkou-hen",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://www.kuroshitsuji.tv/"

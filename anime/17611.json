@@ -219,7 +219,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.74,
+        "rating" : 4.73,
         "total" : 5
       },
       "recap" : false,
@@ -269,7 +269,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.23,
+        "rating" : 5.25,
         "total" : 4
       },
       "recap" : false,
@@ -294,7 +294,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.38,
+        "rating" : 5.36,
         "total" : 4
       },
       "recap" : false,
@@ -319,7 +319,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.19,
+        "rating" : 6.18,
         "total" : 4
       },
       "recap" : false,
@@ -344,7 +344,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.3,
+        "rating" : 6.28,
         "total" : 4
       },
       "recap" : false,
@@ -369,7 +369,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.65,
+        "rating" : 6.64,
         "total" : 4
       },
       "recap" : false,
@@ -444,7 +444,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.92,
         "total" : 1
       },
       "recap" : false,
@@ -459,7 +459,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.92,
         "total" : 1
       },
       "recap" : false,
@@ -516,12 +516,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.24,
-      "total" : 522
+      "rating" : 3.22,
+      "total" : 531
     },
     "TEMPORARY" : {
-      "rating" : 5.86,
-      "total" : 527
+      "rating" : 5.85,
+      "total" : 536
     }
   },
   "resources" : {
@@ -557,6 +557,21 @@
   },
   "start_date" : "2023-07-02",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1291" : {
+      "info_box" : false,
+      "name" : "aristocrat",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2094" : {
       "info_box" : true,
       "name" : "magic",
@@ -639,6 +654,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2774" : {
+      "info_box" : false,
+      "name" : "spellcasting",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -655,6 +686,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2849" : {
       "info_box" : true,
       "name" : "fantasy",
@@ -663,10 +702,65 @@
       "verified" : false,
       "weight" : 600
     },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3148" : {
       "info_box" : false,
       "name" : "open-ended",
       "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3508" : {
+      "info_box" : false,
+      "name" : "school for the rich elite",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3528" : {
+      "info_box" : false,
+      "name" : "reincarnation",
+      "parent_tag_id" : 2931,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -679,9 +773,89 @@
       "verified" : false,
       "weight" : 0
     },
+    "3805" : {
+      "info_box" : false,
+      "name" : "European stylised",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3822" : {
+      "info_box" : false,
+      "name" : "strong male lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4522" : {
+      "info_box" : false,
+      "name" : "social commentary",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4611" : {
+      "info_box" : false,
+      "name" : "nearly almighty protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5543" : {
+      "info_box" : false,
+      "name" : "magic school",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6030" : {
+      "info_box" : false,
+      "name" : "otaku culture",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6083" : {
+      "info_box" : false,
+      "name" : "master-servant relationship",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -725,6 +899,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "8027" : {
+      "info_box" : false,
+      "name" : "space magic",
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 100
     }
   },
   "titles" : [ {

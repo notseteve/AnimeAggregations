@@ -111,12 +111,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.84,
-      "total" : 121
+      "rating" : 4.86,
+      "total" : 122
     },
     "TEMPORARY" : {
       "rating" : 5.76,
-      "total" : 122
+      "total" : 123
     }
   },
   "resources" : {
@@ -217,6 +217,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2779" : {
+      "info_box" : false,
+      "name" : "multiple couples",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -232,6 +240,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "2891" : {
       "info_box" : false,
@@ -313,6 +337,10 @@
     "language" : "JAPANESE",
     "title" : "君が好き. THE ANIMATION",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "RUSSIAN",
+    "title" : "Я тебя люблю",
+    "type" : "SYNONYM"
   }, {
     "language" : "KOREAN",
     "title" : "네가 좋아",

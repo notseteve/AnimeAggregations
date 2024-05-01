@@ -2,8 +2,45 @@
   "anime_id" : 16595,
   "characters" : {
     "MAIN" : [ {
+      "character_id" : 140422,
+      "name" : "Lu Mingfei",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 137322,
       "name" : "Mingze Lu",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 140429,
+      "name" : "Aki Sakatoku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140425,
+      "name" : "Caesar Gattuso",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140420,
+      "name" : "Chen Motong",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140424,
+      "name" : "Chu Zihang",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140423,
+      "name" : "Finger Von Frings",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140427,
+      "name" : "Hilbert Ron Anjou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140426,
+      "name" : "Norma Rohens",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140428,
+      "name" : "Ye Sheng",
       "type" : "CHARACTER"
     } ]
   },
@@ -25,46 +62,102 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2022-08-19",
+      "description" : "Lu Mingfei takes a special train to the mysterious Cassel College, and discovers the school`s true purpose.\nSource: crunchyroll",
       "episode_id" : 258690,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.75,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUG35VM", "GZ7UVEG2M" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tabiji"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Travels"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "旅路"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2022-08-19",
+      "description" : "Lu Mingfei arrives at Cassel on the Day of Freedom, a day when anything is allowed. Within his first few minutes of arriving, he finds himself in the middle of a gunfight...\nSource: crunchyroll",
       "episode_id" : 258691,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.49,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UZV0XG", "GD9UV3MQV" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Day of Freedom"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jiyuu no Hi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "自由の日"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2022-08-26",
+      "description" : "When Lu Mingfei fails to react at all to the 3E test, the professors suspect that he is heir to a powerful legacy...\nSource: crunchyroll",
       "episode_id" : 258692,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.77,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU47DZ4", "GZ7UVGM04" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nitai no Ryuuou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Two Dragon Emperors"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "二体の龍王"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2022-09-02",
+      "description" : "Two students of Cassel College become trapped in a mysterious dragon palace at the bottom of a dam site lake.\nSource: crunchyroll",
       "episode_id" : 258693,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 8.75,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DUE02Q9", "GD9UVMGP8" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ryuuguu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "The Dragon Palace"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "龍宮"
       } ],
       "type" : "REGULAR"
     }, {
@@ -207,12 +300,12 @@
       "length" : 50,
       "number" : 1,
       "rating" : {
-        "rating" : 8.02,
+        "rating" : 8.05,
         "total" : 1
       },
       "recap" : false,
       "resources" : {
-        "CRUNCHY_ROLL" : [ "G8WUN1JGV" ]
+        "CRUNCHY_ROLL" : [ "G2XU0G74X", "G8WUN1JGV" ]
       },
       "titles" : [ {
         "language" : "ENGLISH",
@@ -229,20 +322,22 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.06,
-      "total" : 21
+      "rating" : 5.5,
+      "total" : 29
     },
     "TEMPORARY" : {
-      "rating" : 6.98,
-      "total" : 21
+      "rating" : 6.61,
+      "total" : 29
     }
   },
   "resources" : {
+    "ANISON" : [ "25381" ],
     "BAIDU_BAIKE" : [ "龙族/53189743" ],
     "BANGUMI" : [ "312297" ],
     "CRUNCHY_ROLL" : [ "GDKHZEJN0" ],
     "DOUBAN" : [ "35170003" ],
     "MAL" : [ "44408" ],
+    "SYOBOI" : [ "7056" ],
     "TWITTER" : [ "ryuzoku_jp" ],
     "WEBSITE" : [ "https://ryuzoku-anime.com/", "https://v.qq.com/detail/m/mzc00200fr1ry1o.html" ],
     "WIKIPEDIA_EN" : [ "Dragon_Raja_(Chinese_novels)" ],

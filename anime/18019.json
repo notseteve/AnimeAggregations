@@ -82,13 +82,13 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.77,
-        "total" : 1
+        "rating" : 3.87,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Tonbo and the 3-Iron"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Tonbo to 3 Ban Iron"
@@ -111,7 +111,7 @@
         "title" : "3鉄の秘密"
       }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Secret of the 3-Iron"
       } ],
       "type" : "REGULAR"
     }, {
@@ -121,8 +121,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Wedge to Koukai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Wedges and Regrets"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ウェッジと後悔"
       } ],
       "type" : "REGULAR"
     }, {
@@ -154,16 +160,39 @@
         "title" : "アニメ化記念ＳＰ『成田美寿々プロとかわさき健先生のおさんぽゴルフ』"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-04-06",
+      "episode_id" : 279988,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening 1"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-04-06",
+      "episode_id" : 279989,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.63,
-      "total" : 6
+      "rating" : 5.45,
+      "total" : 8
     },
     "TEMPORARY" : {
-      "rating" : 5.16,
-      "total" : 6
+      "rating" : 5.5,
+      "total" : 8
     }
   },
   "resources" : {
@@ -180,12 +209,97 @@
   },
   "start_date" : "2024-04-06",
   "tags" : {
+    "1018" : {
+      "info_box" : false,
+      "name" : "middle school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2631" : {
+      "info_box" : false,
+      "name" : "island",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2762" : {
+      "info_box" : true,
+      "name" : "golf",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2798" : {
       "info_box" : true,
@@ -195,9 +309,81 @@
       "verified" : false,
       "weight" : 0
     },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2881" : {
+      "info_box" : true,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3378" : {
+      "info_box" : false,
+      "name" : "redemption",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3606" : {
+      "info_box" : false,
+      "name" : "family without father",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5790" : {
+      "info_box" : false,
+      "name" : "family without mother",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

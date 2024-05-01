@@ -28,7 +28,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 132303,
-      "name" : "Reeds Muses",
+      "name" : "Rietz Muses",
       "type" : "CHARACTER"
     }, {
       "character_id" : 132304,
@@ -66,17 +66,21 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-07",
+      "description" : "Three-year-old Ars Louvent has the power to visualize the innate talents of others. One day he meets Rietz, a man of an undesirable social class but with incredible talents, only Ars can see. Can he overcome prejudice to take him into his retinue?\nSource: crunchyroll",
       "episode_id" : 278744,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.27,
-        "total" : 3
+        "rating" : 5.73,
+        "total" : 7
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU82V7P" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Reincarnation and Appraisal"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Tensei to Kantei"
@@ -87,24 +91,52 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-04-14",
+      "description" : "To prepare for the political turmoil ahead, Ars is now determined to recruit the most talented people he can find with the help of his Appraisal skill, and he`s off to a larger town to see if he can scout someone with an aptitude for magic.\nSource: crunchyroll",
       "episode_id" : 278745,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.09,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1U2JWXE" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Above and Below"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ue to Shita"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "上と下"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-04-21",
+      "description" : "Ars has discovered someone with an extraordinary talent for magic, just as he`d hoped. The hitch is that she has no interest whatsoever in serving him. Can Ars win her over, much less help her out of the terrible predicament she`s in?\nSource: crunchyroll",
       "episode_id" : 278746,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.31,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN2GM4" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Answer"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kotae"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "答え"
       } ],
       "type" : "REGULAR"
     }, {
@@ -116,23 +148,42 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sainou no Ibasho"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "才能の居場所"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-05",
+      "episode_id" : 280169,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.83,
-      "total" : 1
+      "rating" : 4.89,
+      "total" : 31
     },
     "TEMPORARY" : {
-      "rating" : 4.0,
-      "total" : 1
+      "rating" : 6.07,
+      "total" : 31
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "392276" ],
+    "ANISON" : [ "25419" ],
     "ANN" : [ "28178" ],
+    "CRUNCHY_ROLL" : [ "GG5H5XQMD" ],
     "MAL" : [ "55265" ],
     "SYOBOI" : [ "6983" ],
     "TWITTER" : [ "kanteiskill" ],
@@ -142,6 +193,21 @@
   },
   "start_date" : "2024-04-07",
   "tags" : {
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -155,6 +221,29 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2799" : {
       "info_box" : true,

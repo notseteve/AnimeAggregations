@@ -80,7 +80,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 138310,
-      "name" : "Urabe Geien",
+      "name" : "Urabe Eigen",
       "type" : "CHARACTER"
     }, {
       "character_id" : 138314,
@@ -105,6 +105,10 @@
       "name" : "Ike Yoshihiro",
       "type" : "MUSIC"
     } ],
+    "10956" : [ {
+      "name" : "Nakatake Manabu",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "19347" : [ {
       "name" : "Oochi Keiichirou",
       "type" : "SERIES_COMPOSITION"
@@ -116,6 +120,13 @@
     "62016" : [ {
       "name" : "Yostar Pictures",
       "type" : "ANIMATION_WORK"
+    } ],
+    "75933" : [ {
+      "name" : "Koseki Kahoko",
+      "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Koseki Kahoko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "When the Monster Army invaded Earth thirteen years ago, the Divine Dragon Rangers rose up to stop them! With the war raging on, these great heroes are mankind`s last hope!\n...or are they?\nIn truth, the invaders were subjugated within a year, forced to continue to crank out a monster a week for the Rangers to crush in front of their adoring fans! But one monster has had enough. Something has to change! He`ll rebel against the might of the Dragon Rangers and destroy them all...from the inside!\nSource: Kodansha\nNote: The first two episodes received an early screening at a special event on March 3, 2024 at Shinjuku Piccadilly in Tokyo. The regular TV broadcast started on April 7, 2024.",
@@ -125,13 +136,17 @@
       "episode_id" : 278740,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.07,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Oretachi Seigi sa! Ryuujin Sentai Dragon Keeper!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "We Are Justice! The Dragon Keepers!"
       }, {
         "language" : "JAPANESE",
         "title" : "俺たち正義さ! 竜神戦隊ドラゴンキーパー!"
@@ -142,10 +157,20 @@
       "episode_id" : 278741,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.11,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Go! Fighter D!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Susume! Sentouin D!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "進め! 戦闘員D!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -153,10 +178,20 @@
       "episode_id" : 278742,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.74,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Itsuka, Aku no Hana wa Saku Darou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Our Evil Will Bloom, Someday"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "いつか, 悪の花は咲くだろう"
       } ],
       "type" : "REGULAR"
     }, {
@@ -166,11 +201,42 @@
       "number" : 4,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ai no Soldier Hibiki!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "The Soldier with Love, Hibiki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "愛のソルジャー日々輝!"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "episode_id" : 280002,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 6.3,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.77,
+      "total" : 30
+    },
+    "TEMPORARY" : {
+      "rating" : 6.41,
+      "total" : 31
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "392308" ],
@@ -220,12 +286,24 @@
     "title" : "Sentai Dai Shikkaku",
     "type" : "MAIN"
   }, {
+    "language" : "FRENCH",
+    "title" : "No Longer Rangers",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "SPANISH",
+    "title" : "Ranger Reject",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "戦隊大失格",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
     "title" : "Go! Go! Loser Ranger!",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Sentai Daishikkaku",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

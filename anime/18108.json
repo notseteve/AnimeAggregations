@@ -78,6 +78,10 @@
       "name" : "Tezuka Productions",
       "type" : "ANIMATION_WORK"
     } ],
+    "4109" : [ {
+      "name" : "Sugino Akio",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "6190" : [ {
       "name" : "Ooshita Kyuuma",
       "type" : "CHARACTER_DESIGN"
@@ -100,6 +104,9 @@
     "22177" : [ {
       "name" : "Hasegawa Saki",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Hasegawa Saki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "30157" : [ {
       "name" : "Saitou Itaru",
@@ -149,10 +156,23 @@
       "episode_id" : 278749,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.43,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A Wonderful Night"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Subarashii Yoru"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Une soirée merveilleuse"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "素晴らしい夜"
       } ],
       "type" : "REGULAR"
     }, {
@@ -162,8 +182,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Onigokko"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Tag"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "鬼ごっこ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -204,12 +230,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.98,
-      "total" : 14
+      "rating" : 5.64,
+      "total" : 23
     },
     "TEMPORARY" : {
-      "rating" : 6.07,
-      "total" : 14
+      "rating" : 6.52,
+      "total" : 23
     }
   },
   "resources" : {

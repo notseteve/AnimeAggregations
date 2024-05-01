@@ -1,6 +1,27 @@
 {
   "anime_id" : 17998,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 140274,
+      "name" : "Hibino Hanao",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140272,
+      "name" : "Iseri Muneo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140273,
+      "name" : "Iseri Suzune",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140271,
+      "name" : "Kyouko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140275,
+      "name" : "Leather Jacket",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 132602,
       "name" : "Awa Subaru",
@@ -41,16 +62,27 @@
       "type" : "CHARACTER_DESIGN"
     } ]
   },
+  "description" : "http://anidb.net/ch132601 [Iseri Nina] drops out of high school in her second year, and aims at entering a university while working alone in Tokyo. http://anidb.net/ch132603 [A girl] is betrayed by her friends and doesn`t know what to do. Another girl is abandoned by her parents, and tries to survive in the city by doing part-time jobs.\nThis world lets us down all the time. Nothing goes as planned. But we want something that we can continue to like. We believe there`s a place where we belong. That`s why we sing.\nSource: Official YouTube Channel",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-06",
       "episode_id" : 278820,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.11,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tokyo Wasshoi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "東京ワッショイ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -58,10 +90,20 @@
       "episode_id" : 278821,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.62,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yakousei no Ikimono Sanbiki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夜行性の生き物3匹"
       } ],
       "type" : "REGULAR"
     }, {
@@ -73,6 +115,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Zukkoke Mondou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ズッコケ問答"
       } ],
       "type" : "REGULAR"
     }, {
@@ -84,29 +132,74 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kansha (Odoroki)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "感謝 (驚)"
       } ],
       "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.91,
+      "total" : 12
+    },
+    "TEMPORARY" : {
+      "rating" : 4.73,
+      "total" : 13
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "392900" ],
     "ANISON" : [ "25400" ],
     "ANN" : [ "28002" ],
+    "BANGUMI" : [ "431767" ],
+    "DOUBAN" : [ "35758408" ],
+    "IMDB" : [ "tt31250134" ],
     "MAL" : [ "55102" ],
     "SYOBOI" : [ "6995" ],
+    "TMDB" : [ "tv/241928" ],
     "TWITTER" : [ "girlsbandcry" ],
     "WEBSITE" : [ "https://girls-band-cry.com/" ],
     "WIKIPEDIA_EN" : [ "Girls_Band_Cry" ],
-    "WIKIPEDIA_JP" : [ "ガールズバンドクライ" ]
+    "WIKIPEDIA_JP" : [ "ガールズバンドクライ" ],
+    "WIKIPEDIA_KO" : [ "걸즈_밴드_크라이" ],
+    "WIKIPEDIA_ZH" : [ "Girls_Band_Cry" ]
   },
   "start_date" : "2024-04-06",
   "tags" : {
+    "1876" : {
+      "info_box" : true,
+      "name" : "musical band",
+      "parent_tag_id" : 2794,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2794" : {
+      "info_box" : true,
+      "name" : "music",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2797" : {
       "info_box" : true,
@@ -115,6 +208,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2883" : {
+      "info_box" : true,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "6173" : {
       "info_box" : false,

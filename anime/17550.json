@@ -1,6 +1,47 @@
 {
   "anime_id" : 17550,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 140318,
+      "name" : "Bakko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140213,
+      "name" : "Kafka Youshouki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140219,
+      "name" : "Kinugasa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140216,
+      "name" : "Miike Ichitaka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140214,
+      "name" : "Mizoguchi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140218,
+      "name" : "Mori Hiroto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140220,
+      "name" : "Nazo no Youjuu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140317,
+      "name" : "Sebasu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140215,
+      "name" : "Tokuda Masahide",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140217,
+      "name" : "Yoshimura",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 131207,
       "name" : "Ashiro Mina",
@@ -77,39 +118,83 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "With the highest kaiju-emergence rates in the world, Japan is no stranger to attack by deadly monsters. Enter the Japan Defense Force, a military organization tasked with the neutralization of kaiju. http://anidb.net/ch131187 [Hibino Kafka], a kaiju-corpse cleanup man, has always dreamed of joining the force. But when he gets another shot at achieving his childhood dream, he undergoes an unexpected http://anidb.net/ch131163 [transformation]. How can he fight kaiju now that he`s become one himself?!\nSource: Viz",
+  "description" : "With the highest kaiju-emergence rates in the world, Japan is no stranger to attack by deadly monsters. Enter the Japan Defense Force, a military organization tasked with the neutralization of kaiju. http://anidb.net/ch131187 [Hibino Kafka], a kaiju-corpse cleanup man, has always dreamed of joining the force. But when he gets another shot at achieving his childhood dream, he undergoes an unexpected http://anidb.net/ch131163 [transformation]. How can he fight kaiju now that he`s become one himself?!\nSource: Viz\nNote: The first two episodes received an early screening at a special event on March 31, 2024 at TOHO Cinemas Hibiya in Tokyo and 29 additional venues across Japan. The regular TV broadcast started on April 13, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-13",
+      "description" : "Kafka Hibino has almost abandoned his dream of joining the anti-Kaiju \"Defense Force.\" He now works in Kaiju clean-up, disposing of the bodies of slain Kaiju and thinking back with regret to the days he spent with his childhood friend Mina Ashiro, captain of Defense Force`s Third Division.\nSource: crunchyroll",
       "episode_id" : 278884,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.11,
+        "total" : 10
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UVG338" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaijuu ni Natta Otoko"
+      }, {
+        "language" : "FRENCH",
+        "title" : "L’homme devenu kaiju"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Man Who Became a Kaiju"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "怪獣になった男"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-04-20",
+      "description" : "After turning into a Kaiju, Kafka is forced to flee. His escape is interrupted, however, by the arrival of another Kaiju...\nSource: crunchyroll",
       "episode_id" : 278885,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.98,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UVMZZK" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaijuu o Taosu Kaijuu"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le kaiju extermine ses pairs"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Kaiju Who Defeats Kaiju"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "怪獣を倒す怪獣"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-04-27",
+      "description" : "Kafka arrives for one last shot at the Defense Force entry exam... but can he pass while keeping his Kaiju powers a secret?\nSource: crunchyroll",
       "episode_id" : 278886,
       "length" : 25,
       "number" : 3,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUG500K" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Revenge Match"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Revenge Match"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "リベンジマッチ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -125,8 +210,19 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.43,
+      "total" : 51
+    },
+    "TEMPORARY" : {
+      "rating" : 7.56,
+      "total" : 52
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "388537" ],
+    "ANISON" : [ "25402" ],
     "ANN" : [ "26176" ],
     "CRUNCHY_ROLL" : [ "GG5H5XQ7D" ],
     "MAL" : [ "52588" ],
@@ -146,6 +242,60 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -154,9 +304,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "4215" : {
+      "info_box" : false,
+      "name" : "daikaijuu",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

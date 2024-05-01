@@ -178,7 +178,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.65,
+        "rating" : 2.64,
         "total" : 2
       },
       "recap" : false,
@@ -203,7 +203,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 2.65,
+        "rating" : 2.64,
         "total" : 2
       },
       "recap" : false,
@@ -327,7 +327,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 9.91,
+        "rating" : 9.92,
         "total" : 2
       },
       "recap" : false,
@@ -417,12 +417,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.51,
-      "total" : 89
+      "rating" : 6.48,
+      "total" : 97
     },
     "TEMPORARY" : {
       "rating" : 6.83,
-      "total" : 90
+      "total" : 98
     }
   },
   "resources" : {
@@ -472,6 +472,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2655" : {
+      "info_box" : true,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2797" : {
       "info_box" : true,
       "name" : "new",
@@ -484,6 +492,14 @@
       "info_box" : false,
       "name" : "science fiction",
       "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

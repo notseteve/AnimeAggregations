@@ -1,5 +1,21 @@
 {
   "anime_id" : 18320,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 140369,
+      "name" : "Shiori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140367,
+      "name" : "Yuuta",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 140368,
+      "name" : "Kousuke",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "74815" : [ {
       "name" : "Gonza",
@@ -34,12 +50,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.69,
-      "total" : 7
+      "rating" : 2.97,
+      "total" : 11
     },
     "TEMPORARY" : {
-      "rating" : 4.42,
-      "total" : 7
+      "rating" : 4.68,
+      "total" : 11
     }
   },
   "resources" : {
@@ -106,6 +122,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2706" : {
+      "info_box" : false,
+      "name" : "masturbation",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2713" : {
       "info_box" : false,
@@ -195,6 +219,10 @@
     "language" : "JAPANESE",
     "title" : "断れない母",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "거절을 못하는 엄마",
+    "type" : "SYNONYM"
   } ],
   "type" : "OVA"
 }

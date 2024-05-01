@@ -15,8 +15,16 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 140221,
+      "name" : "Girato Estrea",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 138957,
       "name" : "Kagerou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140223,
+      "name" : "Kuore Estrea",
       "type" : "CHARACTER"
     }, {
       "character_id" : 138422,
@@ -33,6 +41,10 @@
     }, {
       "character_id" : 138423,
       "name" : "Wilhelm Avis",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140222,
+      "name" : "Wolfgang Estrea",
       "type" : "CHARACTER"
     }, {
       "character_id" : 138421,
@@ -90,13 +102,30 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-14",
+      "description" : "When Shin finds himself trapped in a video game turned deadly with thousands of other players, he fights until the bitter end to free everyone. His reward? Waking up inside the game five hundred years later, where he must now forge a new legend!\nSource: crunchyroll",
       "episode_id" : 278780,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.54,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN2XWE" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 3 no Shinjitsu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Third Truth"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Troisième réalité"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第3の真実"
       } ],
       "type" : "REGULAR"
     }, {
@@ -107,7 +136,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "A Little Partner"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chiisana Aibou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "小さな相棒"
       } ],
       "type" : "REGULAR"
     }, {
@@ -134,9 +169,20 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.26,
+      "total" : 17
+    },
+    "TEMPORARY" : {
+      "rating" : 5.41,
+      "total" : 17
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "392280" ],
     "ANN" : [ "30589" ],
+    "CRUNCHY_ROLL" : [ "GMEHME7Z1" ],
     "MAL" : [ "57100" ],
     "SYOBOI" : [ "7023" ],
     "TWITTER" : [ "thenewgateanime" ],

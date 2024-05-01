@@ -10,6 +10,10 @@
       "name" : "Igarashi Heisuke",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 140239,
+      "name" : "Kaccha",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140099,
       "name" : "Koukichi",
       "type" : "CHARACTER"
@@ -24,6 +28,10 @@
     }, {
       "character_id" : 140094,
       "name" : "Saitou Shouzou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140241,
+      "name" : "Saitou Takahiro",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140098,
@@ -96,7 +104,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.44,
+        "rating" : 4.43,
         "total" : 4
       },
       "recap" : false,
@@ -116,10 +124,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-04-14",
+      "description" : "Shouzou and Ine often have visitors dropping by. One day, their granddaughter, Shiori, comes to their house after a fight with her father, Takahiro. He`s a doctor. Shiori aims to follow in his footsteps, but she`s worried about her grades and friendships.\nSource: crunchyroll",
       "episode_id" : 278841,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.22,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9UQE1QQ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Grandpa and Grandma and Their Children"
@@ -139,7 +155,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Grandpa Turns Old Again"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jiisan, Jiisan ni Modoru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "じいさん, じいさんに戻る"
       } ],
       "type" : "REGULAR"
     }, {
@@ -175,12 +197,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.15,
-      "total" : 25
+      "rating" : 4.3,
+      "total" : 30
     },
     "TEMPORARY" : {
-      "rating" : 5.87,
-      "total" : 25
+      "rating" : 5.45,
+      "total" : 30
     }
   },
   "resources" : {
@@ -197,12 +219,89 @@
   },
   "start_date" : "2024-04-07",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2651" : {
+      "info_box" : false,
+      "name" : "absurdist humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2656" : {
+      "info_box" : false,
+      "name" : "satire",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2798" : {
       "info_box" : true,
@@ -212,9 +311,136 @@
       "verified" : false,
       "weight" : 0
     },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2842" : {
+      "info_box" : false,
+      "name" : "incest",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "4131" : {
+      "info_box" : false,
+      "name" : "cultural references",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4669" : {
+      "info_box" : false,
+      "name" : "parenting",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4951" : {
+      "info_box" : false,
+      "name" : "age change",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5865" : {
+      "info_box" : false,
+      "name" : "manly tears",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5883" : {
+      "info_box" : false,
+      "name" : "dreams",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6086" : {
+      "info_box" : false,
+      "name" : "the power of love",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

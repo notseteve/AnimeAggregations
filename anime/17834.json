@@ -16,7 +16,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 139665,
-      "name" : "Ama Ako",
+      "name" : "Amau Ako",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137392,
@@ -87,6 +87,10 @@
       "name" : "Yamagishi Daigo",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "42322" : [ {
+      "name" : "Geso Ikuo",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "43259" : [ {
       "name" : "Candy Box",
       "type" : "ANIMATION_WORK"
@@ -103,10 +107,20 @@
       "episode_id" : 278832,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.21,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Abydos Koutougakkou: Haikou Taisaku Iinkai"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アビドス高等学校 廃校対策委員会"
       } ],
       "type" : "REGULAR"
     }, {
@@ -114,10 +128,20 @@
       "episode_id" : 278833,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.98,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Watashi wa Mitomenai!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "私は認めない!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -125,10 +149,20 @@
       "episode_id" : 278834,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 4.68,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Benriya 68 ni Omakase Kudasai!"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "便利屋68にお任せください!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -140,15 +174,99 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fukumen Mizugidan"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "覆面水着団☆"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-05",
+      "episode_id" : 280344,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-12",
+      "episode_id" : 280345,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-19",
+      "episode_id" : 280346,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-26",
+      "episode_id" : 280347,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-04-07",
+      "episode_id" : 279917,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-04-07",
+      "episode_id" : 279918,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.83,
+      "total" : 27
+    },
+    "TEMPORARY" : {
+      "rating" : 5.37,
+      "total" : 28
+    }
   },
   "related" : {
     "OTHER" : [ 17724, 17730 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "393268" ],
+    "ANISON" : [ "25425" ],
     "ANN" : [ "26994" ],
     "MAL" : [ "54309" ],
     "SYOBOI" : [ "7032" ],
@@ -197,6 +315,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "ブルーアーカイブ The Animation",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "蔚藍檔案 The Animation",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

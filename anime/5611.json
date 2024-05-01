@@ -19,6 +19,10 @@
       "name" : "Anna Ramirez",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 140134,
+      "name" : "B-Devil",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 51811,
       "name" : "Cassandra",
       "type" : "CHARACTER"
@@ -49,6 +53,10 @@
     }, {
       "character_id" : 138741,
       "name" : "Sal Maroni",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140135,
+      "name" : "The Russian",
       "type" : "CHARACTER"
     }, {
       "character_id" : 138651,
@@ -268,7 +276,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.4,
-      "total" : 1262
+      "total" : 1263
     },
     "REVIEW" : {
       "rating" : 7.83,
@@ -276,7 +284,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.79,
-      "total" : 1269
+      "total" : 1270
     }
   },
   "related" : {
@@ -458,14 +466,6 @@
       "verified" : false,
       "weight" : 500
     },
-    "2796" : {
-      "info_box" : true,
-      "name" : "movie",
-      "parent_tag_id" : 2609,
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 0
-    },
     "2812" : {
       "info_box" : false,
       "name" : "United States",
@@ -542,6 +542,14 @@
       "info_box" : true,
       "name" : "Western comics",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3546" : {
+      "info_box" : false,
+      "name" : "experimental animation",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -679,5 +687,5 @@
     "type" : "SYNONYM"
   } ],
   "type" : "OVA",
-  "url" : "http://www.warnervideo.com/batmangothamknight/"
+  "url" : "http://www.production-ig.co.jp/works/batman/"
 }

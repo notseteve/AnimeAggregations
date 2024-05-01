@@ -366,7 +366,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.92,
+        "rating" : 5.91,
         "total" : 10
       },
       "recap" : false,
@@ -434,7 +434,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.88,
+        "rating" : 5.89,
         "total" : 10
       },
       "recap" : false,
@@ -468,7 +468,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 2.01,
+        "rating" : 2.0,
         "total" : 11
       },
       "recap" : false,
@@ -502,7 +502,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.75,
+        "rating" : 3.74,
         "total" : 9
       },
       "recap" : false,
@@ -684,7 +684,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 6.3,
+        "rating" : 6.29,
         "total" : 2
       },
       "recap" : false,
@@ -699,7 +699,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 6.3,
+        "rating" : 6.29,
         "total" : 2
       },
       "recap" : false,
@@ -849,7 +849,7 @@
       "length" : 2,
       "number" : 12,
       "rating" : {
-        "rating" : 5.27,
+        "rating" : 5.26,
         "total" : 1
       },
       "recap" : false,
@@ -864,7 +864,7 @@
       "length" : 2,
       "number" : 13,
       "rating" : {
-        "rating" : 5.27,
+        "rating" : 5.26,
         "total" : 1
       },
       "recap" : false,
@@ -879,7 +879,7 @@
       "length" : 2,
       "number" : 14,
       "rating" : {
-        "rating" : 5.27,
+        "rating" : 5.26,
         "total" : 1
       },
       "recap" : false,
@@ -894,7 +894,7 @@
       "length" : 2,
       "number" : 15,
       "rating" : {
-        "rating" : 5.27,
+        "rating" : 5.26,
         "total" : 1
       },
       "recap" : false,
@@ -909,7 +909,7 @@
       "length" : 2,
       "number" : 16,
       "rating" : {
-        "rating" : 5.27,
+        "rating" : 5.26,
         "total" : 1
       },
       "recap" : false,
@@ -924,7 +924,7 @@
       "length" : 2,
       "number" : 17,
       "rating" : {
-        "rating" : 5.27,
+        "rating" : 5.26,
         "total" : 1
       },
       "recap" : false,
@@ -939,7 +939,7 @@
       "length" : 2,
       "number" : 18,
       "rating" : {
-        "rating" : 5.27,
+        "rating" : 5.26,
         "total" : 1
       },
       "recap" : false,
@@ -954,7 +954,7 @@
       "length" : 2,
       "number" : 19,
       "rating" : {
-        "rating" : 5.27,
+        "rating" : 5.26,
         "total" : 1
       },
       "recap" : false,
@@ -1110,7 +1110,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.2,
-      "total" : 3140
+      "total" : 3159
     },
     "REVIEW" : {
       "rating" : 4.49,
@@ -1118,7 +1118,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.12,
-      "total" : 3158
+      "total" : 3177
     }
   },
   "related" : {
@@ -1290,6 +1290,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2750" : {
       "info_box" : false,
       "name" : "violence",
@@ -1305,6 +1313,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2791" : {
+      "info_box" : false,
+      "name" : "stereotypes",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2799" : {
       "info_box" : true,
@@ -1405,6 +1429,14 @@
       "info_box" : false,
       "name" : "monologues",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1529,6 +1561,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4611" : {
+      "info_box" : false,
+      "name" : "nearly almighty protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4642" : {
       "info_box" : false,
       "name" : "economics",
@@ -1545,6 +1585,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "5505" : {
+      "info_box" : false,
+      "name" : "deus ex machina",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5835" : {
       "info_box" : false,
       "name" : "Gainax bounce",
@@ -1557,6 +1605,14 @@
       "info_box" : false,
       "name" : "absurdly powerful student council",
       "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6005" : {
+      "info_box" : false,
+      "name" : "battle of wits",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1587,6 +1643,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

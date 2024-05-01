@@ -1,5 +1,26 @@
 {
   "anime_id" : 18236,
+  "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 140226,
+      "name" : "Leci Lucas",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140227,
+      "name" : "Red Dragon",
+      "type" : "CHARACTER"
+    } ],
+    "MAIN" : [ {
+      "character_id" : 140224,
+      "name" : "Jed Dauphin",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 140225,
+      "name" : "Jaina Stord",
+      "type" : "CHARACTER"
+    } ]
+  },
   "description" : "After defeating the Demon King, our Hero saves the princess and rides off into the horizon to start a new life - In his dreams - Little did he know that unemployment and mediocrity awaited him.\nsource: imdb",
   "end_date" : "2023-09-11",
   "episodes" : {
@@ -147,12 +168,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.79,
-      "total" : 10
+      "rating" : 4.66,
+      "total" : 13
     },
     "TEMPORARY" : {
-      "rating" : 6.05,
-      "total" : 10
+      "rating" : 6.26,
+      "total" : 13
     }
   },
   "resources" : {
@@ -165,6 +186,52 @@
   },
   "start_date" : "2023-07-17",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "5010" : {
+      "info_box" : true,
+      "name" : "manhwa",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5852" : {
       "info_box" : true,
       "name" : "short episodes",
@@ -191,6 +258,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

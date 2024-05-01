@@ -34,12 +34,57 @@
   },
   "start_date" : "2017-07-13",
   "tags" : {
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2619" : {
+      "info_box" : false,
+      "name" : "gunfights",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2797" : {
       "info_box" : true,
@@ -48,6 +93,78 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2850" : {
+      "info_box" : true,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2878" : {
+      "info_box" : true,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2882" : {
+      "info_box" : true,
+      "name" : "dystopia",
+      "parent_tag_id" : 2952,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2952" : {
+      "info_box" : false,
+      "name" : "rotten world",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "4096" : {
+      "info_box" : false,
+      "name" : "gore",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4203" : {
+      "info_box" : false,
+      "name" : "rebellion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "6152" : {
       "info_box" : false,
@@ -60,6 +177,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

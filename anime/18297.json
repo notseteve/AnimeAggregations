@@ -49,6 +49,10 @@
       "name" : "Telecom Animation Film",
       "type" : "ANIMATION_WORK"
     } ],
+    "10027" : [ {
+      "name" : "Nishida Miyako",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "21427" : [ {
       "name" : "Kasugamori Haruki",
       "type" : "DIRECTOR"
@@ -78,8 +82,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.38,
-        "total" : 4
+        "rating" : 5.33,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -92,10 +96,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-04-12",
+      "description" : "Takumi tries to make sense of what he heard Mira say, but his efforts to figure it out only make the confusion worse. Meanwhile, Astro Lodge gets a pair of mysterious visitors.\nSource: crunchyroll",
       "episode_id" : 278717,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.39,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UV3MPD" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
@@ -103,10 +115,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-04-19",
+      "description" : "Shoin`s appearance causes a big fuss among all the residents of Astro Lodge, except Ren, who is more worried about his field trip.\nSource: crunchyroll",
       "episode_id" : 278718,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 2.73,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUG35PP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
@@ -114,13 +134,65 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-04-26",
+      "description" : "Takumi hatches a plan to catch the breakfast thief, only to fish up more than he bargained for!\nSource: Crunchyroll",
       "episode_id" : 278719,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 2.87,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UZV079" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-03",
+      "episode_id" : 280355,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-10",
+      "episode_id" : 280356,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-17",
+      "episode_id" : 280357,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-24",
+      "episode_id" : 280358,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -149,12 +221,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.46,
-      "total" : 14
+      "rating" : 3.25,
+      "total" : 38
     },
     "TEMPORARY" : {
-      "rating" : 5.02,
-      "total" : 14
+      "rating" : 5.12,
+      "total" : 38
     }
   },
   "resources" : {
@@ -171,12 +243,96 @@
   },
   "start_date" : "2024-04-05",
   "tags" : {
+    "2202" : {
+      "info_box" : true,
+      "name" : "alien",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2775" : {
+      "info_box" : true,
+      "name" : "humanoid alien",
+      "parent_tag_id" : 2202,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2797" : {
       "info_box" : true,
@@ -186,9 +342,161 @@
       "verified" : false,
       "weight" : 0
     },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2857" : {
+      "info_box" : false,
+      "name" : "anthropomorphism",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3738" : {
+      "info_box" : false,
+      "name" : "aliens living on Earth",
+      "parent_tag_id" : 2202,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3896" : {
+      "info_box" : false,
+      "name" : "bloodless wounds",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3992" : {
+      "info_box" : false,
+      "name" : "nostalgia",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4081" : {
+      "info_box" : false,
+      "name" : "space battles",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4431" : {
+      "info_box" : false,
+      "name" : "love at first sight",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4440" : {
+      "info_box" : false,
+      "name" : "boy meets girl",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4498" : {
+      "info_box" : false,
+      "name" : "heart-warming",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

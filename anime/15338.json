@@ -78,8 +78,8 @@
       "length" : 4,
       "number" : 1,
       "rating" : {
-        "rating" : 2.3,
-        "total" : 3
+        "rating" : 1.63,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -106,8 +106,8 @@
       "length" : 4,
       "number" : 2,
       "rating" : {
-        "rating" : 1.96,
-        "total" : 1
+        "rating" : 1.21,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -134,8 +134,8 @@
       "length" : 4,
       "number" : 3,
       "rating" : {
-        "rating" : 1.62,
-        "total" : 1
+        "rating" : 1.28,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -162,8 +162,8 @@
       "length" : 4,
       "number" : 4,
       "rating" : {
-        "rating" : 1.96,
-        "total" : 1
+        "rating" : 1.59,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -187,8 +187,8 @@
       "length" : 4,
       "number" : 5,
       "rating" : {
-        "rating" : 1.96,
-        "total" : 1
+        "rating" : 1.21,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -212,8 +212,8 @@
       "length" : 4,
       "number" : 6,
       "rating" : {
-        "rating" : 1.96,
-        "total" : 1
+        "rating" : 1.21,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -237,8 +237,8 @@
       "length" : 4,
       "number" : 7,
       "rating" : {
-        "rating" : 1.62,
-        "total" : 1
+        "rating" : 1.28,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -262,8 +262,8 @@
       "length" : 4,
       "number" : 8,
       "rating" : {
-        "rating" : 1.96,
-        "total" : 1
+        "rating" : 1.21,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -287,8 +287,8 @@
       "length" : 4,
       "number" : 9,
       "rating" : {
-        "rating" : 1.96,
-        "total" : 1
+        "rating" : 1.21,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -312,8 +312,8 @@
       "length" : 4,
       "number" : 10,
       "rating" : {
-        "rating" : 2.42,
-        "total" : 1
+        "rating" : 1.47,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -337,8 +337,8 @@
       "length" : 4,
       "number" : 11,
       "rating" : {
-        "rating" : 1.62,
-        "total" : 1
+        "rating" : 1.16,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -362,8 +362,8 @@
       "length" : 4,
       "number" : 12,
       "rating" : {
-        "rating" : 1.62,
-        "total" : 1
+        "rating" : 1.16,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -413,16 +413,50 @@
         "title" : "スタッフクレジット (中&小)"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2020-10-03",
+      "episode_id" : 279929,
+      "length" : 1,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2020-10-31",
+      "episode_id" : 279930,
+      "length" : 1,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 2"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2020-11-28",
+      "episode_id" : 279931,
+      "length" : 1,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 3"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
       "rating" : 1.9,
-      "total" : 282
+      "total" : 284
     },
     "TEMPORARY" : {
       "rating" : 4.41,
-      "total" : 283
+      "total" : 285
     }
   },
   "related" : {
@@ -450,6 +484,13 @@
   },
   "start_date" : "2020-10-03",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
@@ -463,6 +504,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2800" : {
       "info_box" : true,

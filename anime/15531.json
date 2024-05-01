@@ -1,6 +1,15 @@
 {
   "anime_id" : 15531,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 140255,
+      "name" : "Fukumentou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140256,
+      "name" : "Kudagitsune",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 118011,
       "name" : "Soutarou",
@@ -13,6 +22,10 @@
     "SECONDARY" : [ {
       "character_id" : 118923,
       "name" : "Inarizaka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140254,
+      "name" : "Otafuku",
       "type" : "CHARACTER"
     }, {
       "character_id" : 118403,
@@ -58,10 +71,18 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-12",
+      "description" : "\"Yes, Ootsuji Detective Agency\" In the purple smoke lies a faint dream, and in the town, rumors swirl like smoke. Now, facing the strangeness of the \"mass disappearance\" bewildering society, detective Soutarou confronts it! With no witnesses and unclear intentions, the identity of the \"ominous tracks\" that always appear in its footsteps... In search of clues, the detective delves into the underground realm of the town called \"Kuragari.\" There, the encounter with the black iron armored train and its commander, Tanne, will significantly shake the fate of the detective!\nSource: crunchyroll",
       "episode_id" : 273719,
       "length" : 65,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.24,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWUK9N9V" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Complete Movie"
@@ -77,8 +98,26 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Pilot Film"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Pilot Film"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "パイロットフィルム"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-04-12",
+      "episode_id" : 279908,
+      "length" : 5,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2020-07-28",
@@ -105,7 +144,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Joushou Hon Yokoku"
+        "title" : "Joshou: Hon Yokoku"
       }, {
         "language" : "ENGLISH",
         "title" : "PV 2 (0:49)"
@@ -116,9 +155,25 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.32,
+      "total" : 17
+    },
+    "TEMPORARY" : {
+      "rating" : 6.5,
+      "total" : 17
+    }
+  },
+  "related" : {
+    "SAME_SETTING" : [ 18307 ]
+  },
   "resources" : {
     "ALL_CINEMA" : [ "377679", "392713" ],
+    "ANISON" : [ "25440" ],
     "ANN" : [ "24480" ],
+    "CRUNCHY_ROLL" : [ "GNVHKN9Z2" ],
+    "MAL" : [ "56553" ],
     "TWITTER" : [ "kurayukabainfo" ],
     "WEBSITE" : [ "https://www.kurayukaba.jp/kurayukaba/" ],
     "WIKIPEDIA_JP" : [ "クラユカバ-昏行者-" ],
@@ -148,6 +203,10 @@
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
+    "title" : "Kurayukaba",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
     "title" : "Kurayukaba",
     "type" : "OFFICIAL"
   }, {

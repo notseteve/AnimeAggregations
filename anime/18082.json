@@ -192,7 +192,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.06,
+        "rating" : 7.07,
         "total" : 11
       },
       "recap" : false,
@@ -211,7 +211,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.65,
+        "rating" : 6.66,
         "total" : 6
       },
       "recap" : false,
@@ -230,7 +230,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.53,
+        "rating" : 6.54,
         "total" : 5
       },
       "recap" : false,
@@ -268,7 +268,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.44,
+        "rating" : 7.46,
         "total" : 5
       },
       "recap" : false,
@@ -287,7 +287,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.76,
+        "rating" : 6.77,
         "total" : 5
       },
       "recap" : false,
@@ -325,7 +325,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.53,
+        "rating" : 6.54,
         "total" : 5
       },
       "recap" : false,
@@ -363,7 +363,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 8.2,
+        "rating" : 8.21,
         "total" : 5
       },
       "recap" : false,
@@ -381,7 +381,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 8.16,
+        "rating" : 8.17,
         "total" : 5
       },
       "recap" : false,
@@ -400,7 +400,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.71,
+        "rating" : 6.72,
         "total" : 5
       },
       "recap" : false,
@@ -471,7 +471,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 5.13,
+        "rating" : 5.15,
         "total" : 2
       },
       "recap" : false,
@@ -499,12 +499,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.86,
-      "total" : 140
+      "rating" : 4.79,
+      "total" : 159
     },
     "TEMPORARY" : {
-      "rating" : 6.2,
-      "total" : 141
+      "rating" : 6.21,
+      "total" : 160
     }
   },
   "related" : {
@@ -526,11 +526,18 @@
   "similar" : {
     "15095" : {
       "rating" : 10.0,
-      "total" : 4
+      "total" : 5
     }
   },
   "start_date" : "2024-01-09",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -569,9 +576,41 @@
       "verified" : false,
       "weight" : 200
     },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
