@@ -14,12 +14,20 @@
       "name" : "Hashida Maya",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 140469,
+      "name" : "Higuchi Takashi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 98423,
       "name" : "Hitomi Lala",
       "type" : "CHARACTER"
     }, {
       "character_id" : 98393,
       "name" : "Kabutodani Eru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 99412,
+      "name" : "Kikkawa Maya",
       "type" : "CHARACTER"
     }, {
       "character_id" : 98895,
@@ -34,6 +42,10 @@
       "name" : "Morimoto Michiyo",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 140463,
+      "name" : "Nase Amika",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 98399,
       "name" : "Oda Meiko",
       "type" : "CHARACTER"
@@ -46,12 +58,36 @@
       "name" : "Oumae Kentarou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 140465,
+      "name" : "Saijou Kanon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140466,
+      "name" : "Saijou Mion",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 85383,
+      "name" : "Sasaki Azusa",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 98890,
       "name" : "Takahisa Chieri",
       "type" : "CHARACTER"
     }, {
       "character_id" : 99407,
       "name" : "Takami Suguru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140468,
+      "name" : "Takekawa Yuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140467,
+      "name" : "Togawa Shiho",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140464,
+      "name" : "Tsukinaga Gen`ichirou",
       "type" : "CHARACTER"
     }, {
       "character_id" : 98883,
@@ -61,6 +97,10 @@
       "character_id" : 99404,
       "name" : "Yoshizawa Akiko",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 76146,
+      "name" : "Kitauji Koukou Suisougaku Bu",
+      "type" : "ORGANIZATION"
     } ],
     "MAIN" : [ {
       "character_id" : 72337,
@@ -179,7 +219,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.01,
+        "rating" : 7.0,
         "total" : 5
       },
       "recap" : false,
@@ -204,8 +244,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.31,
-        "total" : 3
+        "rating" : 7.33,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -224,13 +264,21 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-04-21",
+      "description" : "The concert band begins taking itself very seriously to give itself the best chance possible of winning gold at Nationals. Unfortunately, the intense environment has some of the new recruits discouraged and intimidated.\nSource: crunchyroll",
       "episode_id" : 278738,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 8.84,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN2GW2" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Blue Prelude"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Mizuiro Prelude"
@@ -244,10 +292,73 @@
       "episode_id" : 278739,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 5.82,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUZ7JQJ" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Etude with You"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kimi to no Etude"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "きみとのエチュード"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-05",
+      "episode_id" : 280452,
+      "length" : 25,
+      "number" : 5,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 5"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Futari de Twilight"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ふたりでトワイライト"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-12",
+      "episode_id" : 280453,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-19",
+      "episode_id" : 280454,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-26",
+      "episode_id" : 280455,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -290,12 +401,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.98,
-      "total" : 19
+      "rating" : 7.74,
+      "total" : 27
     },
     "TEMPORARY" : {
-      "rating" : 7.63,
-      "total" : 19
+      "rating" : 7.78,
+      "total" : 28
     }
   },
   "related" : {

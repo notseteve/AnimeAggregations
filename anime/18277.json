@@ -18,8 +18,16 @@
       "name" : "104 gousha",
       "type" : "VESSEL"
     }, {
+      "character_id" : 140494,
+      "name" : "Bred Mecha",
+      "type" : "VESSEL"
+    }, {
       "character_id" : 139741,
       "name" : "Hikou Tank Fune",
+      "type" : "VESSEL"
+    }, {
+      "character_id" : 140495,
+      "name" : "Kuuchuu Yousai Garam",
       "type" : "VESSEL"
     }, {
       "character_id" : 139742,
@@ -54,6 +62,18 @@
     }, {
       "character_id" : 139729,
       "name" : "Bred-taishougun",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140493,
+      "name" : "Jam Kokuou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140491,
+      "name" : "Lango",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140492,
+      "name" : "Lilith Ouhi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139728,
@@ -180,7 +200,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.02,
+        "rating" : 6.03,
         "total" : 2
       },
       "recap" : false,
@@ -201,7 +221,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.02,
+        "rating" : 6.03,
         "total" : 2
       },
       "recap" : false,
@@ -222,7 +242,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.37,
+        "rating" : 7.38,
         "total" : 2
       },
       "recap" : false,
@@ -243,7 +263,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.37,
+        "rating" : 7.38,
         "total" : 2
       },
       "recap" : false,
@@ -264,7 +284,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.02,
+        "rating" : 6.03,
         "total" : 2
       },
       "recap" : false,
@@ -285,8 +305,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.24,
-        "total" : 1
+        "rating" : 6.03,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -306,8 +326,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 2.89,
-        "total" : 1
+        "rating" : 4.68,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -327,8 +347,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.24,
-        "total" : 1
+        "rating" : 6.03,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -368,13 +388,17 @@
       "episode_id" : 279282,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 9.83,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 12"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Saishuu Kessen!!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Final Battle!"
       }, {
         "language" : "JAPANESE",
         "title" : "最終決戦!!"
@@ -383,24 +407,34 @@
     }, {
       "air_date" : "2024-05-01",
       "episode_id" : 279283,
-      "length" : 25,
+      "length" : 30,
       "number" : 13,
+      "rating" : {
+        "rating" : 9.83,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tatakai no Hate ni"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 13"
+        "title" : "The Battle Comes to an End"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "戦いの果てに"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.02,
-      "total" : 13
+      "rating" : 6.72,
+      "total" : 27
     },
     "TEMPORARY" : {
-      "rating" : 7.5,
-      "total" : 14
+      "rating" : 7.1,
+      "total" : 28
     }
   },
   "related" : {

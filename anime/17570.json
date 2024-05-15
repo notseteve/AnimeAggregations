@@ -34,8 +34,14 @@
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Das Play-off der Müllhalde"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Gomi Suteba no Kessen"
+      }, {
+        "language" : "SPANISH",
+        "title" : "La Batalla del Basurero"
       }, {
         "language" : "ENGLISH",
         "title" : "The Dumpster Battle"
@@ -45,6 +51,16 @@
       } ],
       "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 10.0,
+      "total" : 1
+    },
+    "TEMPORARY" : {
+      "rating" : 8.5,
+      "total" : 1
+    }
   },
   "related" : {
     "PREQUEL" : [ 15283 ]

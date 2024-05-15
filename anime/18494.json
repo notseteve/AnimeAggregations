@@ -39,6 +39,16 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.67,
+      "total" : 3
+    },
+    "TEMPORARY" : {
+      "rating" : 4.5,
+      "total" : 4
+    }
+  },
   "resources" : {
     "MAL" : [ "58185" ],
     "WEBSITE" : [ "https://www.lune-soft.jp/ova/26825", "https://www.lune-soft.jp/ova/26828" ]
@@ -111,6 +121,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2695" : {
+      "info_box" : false,
+      "name" : "yuri",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2705" : {
       "info_box" : false,
       "name" : "creampie",
@@ -126,6 +144,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2709" : {
+      "info_box" : false,
+      "name" : "netorare",
+      "parent_tag_id" : 4656,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 600
     },
     "2712" : {
       "info_box" : false,
@@ -143,10 +169,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "2715" : {
+      "info_box" : true,
+      "name" : "rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 600
+    },
     "2722" : {
       "info_box" : false,
       "name" : "doggy style",
       "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2732" : {
+      "info_box" : false,
+      "name" : "female rapes female",
+      "parent_tag_id" : 2715,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2747" : {
+      "info_box" : false,
+      "name" : "hidden vibrator",
+      "parent_tag_id" : 2900,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -231,10 +281,26 @@
       "verified" : false,
       "weight" : 200
     },
+    "2900" : {
+      "info_box" : false,
+      "name" : "dildos - vibrators",
+      "parent_tag_id" : 2712,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2918" : {
       "info_box" : false,
       "name" : "cunnilingus",
       "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4656" : {
+      "info_box" : false,
+      "name" : "infidelity",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -250,6 +316,14 @@
       "info_box" : false,
       "name" : "fellatio",
       "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7220" : {
+      "info_box" : false,
+      "name" : "sexual abuse",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -287,6 +361,10 @@
     "language" : "JAPANESE",
     "title" : "OVA みだれうち",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "OVA 미다레우치",
+    "type" : "SYNONYM"
   } ],
   "type" : "OVA",
   "url" : "https://www.lune-soft.jp/ova/26825"

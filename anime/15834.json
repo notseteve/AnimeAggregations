@@ -531,6 +531,29 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2861" : {
+      "info_box" : true,
+      "name" : "cyberpunk",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "4064" : {
       "info_box" : false,
       "name" : "CGI",
@@ -565,6 +588,14 @@
       "info_box" : true,
       "name" : "television programme",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

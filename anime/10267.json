@@ -49,12 +49,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.03,
-      "total" : 44
+      "rating" : 2.02,
+      "total" : 45
     },
     "TEMPORARY" : {
-      "rating" : 4.02,
-      "total" : 44
+      "rating" : 3.97,
+      "total" : 45
     }
   },
   "resources" : {
@@ -69,6 +69,13 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -149,10 +156,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "2848" : {
+      "info_box" : false,
+      "name" : "pornography",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3457" : {
       "info_box" : false,
       "name" : "Alice`s Adventures in Wonderland",
       "parent_tag_id" : 6397,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4318" : {
+      "info_box" : false,
+      "name" : "plot with porn",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -168,6 +199,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

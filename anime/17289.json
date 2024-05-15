@@ -1,6 +1,11 @@
 {
   "anime_id" : 17289,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 140336,
+      "name" : "Serpent",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 136387,
       "name" : "Fuchibiyama Jiroubou",
@@ -85,7 +90,7 @@
       "type" : "ANIMATION_WORK"
     } ],
     "60660" : [ {
-      "name" : "Yamauchi Ami",
+      "name" : "Yamauchi Aimi",
       "type" : "DIRECTOR"
     } ],
     "65046" : [ {
@@ -110,8 +115,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.92,
-        "total" : 3
+        "rating" : 3.84,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -129,8 +134,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.96,
-        "total" : 3
+        "rating" : 3.39,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -143,10 +148,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-04-21",
+      "description" : "Takumi and Buchio encounter a mythical beast said to bring misfortune to those who hear its voice. Mutsumi learns that Jiro once killed a giant serpent, but it turns out the serpent remained as a vengeful spirit...\nSource: crunchyroll",
       "episode_id" : 278850,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 5.99,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUQ5777" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
@@ -154,13 +167,65 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-04-28",
+      "description" : "Buchio starts attending driving school, where he meets a tsukumogami who`s inhabited a car. Meanwhile, at the elementary school, a raiju falls from a rift in the sky...\nSource: crunchyroll",
       "episode_id" : 278851,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 3.37,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14U47PP4" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-05",
+      "episode_id" : 280399,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-12",
+      "episode_id" : 280400,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-19",
+      "episode_id" : 280401,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-05-26",
+      "episode_id" : 280402,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -190,12 +255,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.26,
-      "total" : 19
+      "rating" : 5.26,
+      "total" : 28
     },
     "TEMPORARY" : {
-      "rating" : 5.73,
-      "total" : 19
+      "rating" : 6.1,
+      "total" : 28
     }
   },
   "resources" : {
@@ -212,6 +277,69 @@
   },
   "start_date" : "2024-04-07",
   "tags" : {
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2642" : {
+      "info_box" : false,
+      "name" : "alternative present",
+      "parent_tag_id" : 2624,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

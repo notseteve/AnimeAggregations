@@ -39,6 +39,10 @@
       "name" : "Norma Rohens",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 140430,
+      "name" : "Rin",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140428,
       "name" : "Ye Sheng",
       "type" : "CHARACTER"
@@ -92,7 +96,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 9.49,
+        "rating" : 9.5,
         "total" : 2
       },
       "recap" : false,
@@ -117,7 +121,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.77,
+        "rating" : 6.79,
         "total" : 2
       },
       "recap" : false,
@@ -162,46 +166,102 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2022-09-09",
+      "description" : "Aki and Ye Sheng fight to escape from the underwater palace before their air runs out, but something terrible waits for them down below...\nSource: crunchyroll",
       "episode_id" : 258694,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 9.07,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUG5ZPV", "GX9UQE4G2" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Senrihin"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Spoils of Victory"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "戦利品"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2022-09-16",
+      "description" : "As Lu Mingfei is invited to a fancy party, a group of intruders assaults the campus.\nSource: crunchyroll",
       "episode_id" : 258695,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 7.22,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUQ57J4", "G50UZ0D7V" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Intruders"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shinnyuusha"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "侵入者"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2022-09-23",
+      "description" : "With the Night Watchman`s protective Yanling disabled, the students are free to unleash their full powers.\nSource: crunchyroll",
       "episode_id" : 258696,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 6.35,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14U47P0K", "GWDU82352" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kotodama Kaihou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Unleashing Yanling"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "言霊解放"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2022-09-30",
+      "description" : "As Lu Mingfei speaks with Nono atop a mountain, the battle for the urn comes to a conclusion.\nSource: crunchyroll",
       "episode_id" : 258697,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 8.06,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1U2JVQW", "GJWU2W1G4" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Seidou to Honoo no Ryuuou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "The Dragon Emperor of Bronze and Flames"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "青銅と炎の龍王"
       } ],
       "type" : "REGULAR"
     }, {
@@ -300,7 +360,7 @@
       "length" : 50,
       "number" : 1,
       "rating" : {
-        "rating" : 8.05,
+        "rating" : 8.06,
         "total" : 1
       },
       "recap" : false,
@@ -322,12 +382,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.5,
-      "total" : 29
+      "rating" : 5.3,
+      "total" : 33
     },
     "TEMPORARY" : {
-      "rating" : 6.61,
-      "total" : 29
+      "rating" : 6.56,
+      "total" : 33
     }
   },
   "resources" : {
@@ -353,6 +413,13 @@
       "verified" : false,
       "weight" : 500
     },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -374,6 +441,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
@@ -381,6 +456,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2642" : {
+      "info_box" : false,
+      "name" : "alternative present",
+      "parent_tag_id" : 2624,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2799" : {
       "info_box" : true,
@@ -390,10 +497,26 @@
       "verified" : false,
       "weight" : 0
     },
-    "2849" : {
+    "2834" : {
       "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2849" : {
+      "info_box" : true,
       "name" : "fantasy",
       "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -406,6 +529,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "3898" : {
+      "info_box" : false,
+      "name" : "science and magic coexist",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6152" : {
       "info_box" : false,
       "name" : "Chinese production",
@@ -417,6 +548,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

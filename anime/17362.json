@@ -531,11 +531,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.35,
-      "total" : 227
+      "total" : 236
     },
     "TEMPORARY" : {
-      "rating" : 6.21,
-      "total" : 228
+      "rating" : 6.23,
+      "total" : 237
     }
   },
   "resources" : {
@@ -552,6 +552,13 @@
   },
   "start_date" : "2023-04-06",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -567,9 +574,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

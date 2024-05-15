@@ -1,6 +1,119 @@
 {
   "anime_id" : 17931,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 80749,
+      "name" : "Aoyama Yuuga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80747,
+      "name" : "Ashido Mina",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 79458,
+      "name" : "Asui Tsuyu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 78627,
+      "name" : "Bakugou Katsuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140573,
+      "name" : "Biggs",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 118303,
+      "name" : "Chikazoku Tomoyasu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140571,
+      "name" : "Ethan Drive",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80924,
+      "name" : "Hagakure Tooru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 78892,
+      "name" : "Iida Ten`ya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80746,
+      "name" : "Jirou Kyouka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 79911,
+      "name" : "Kaminari Denki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 79912,
+      "name" : "Kirishima Eijirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80925,
+      "name" : "Kouda Kouji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140575,
+      "name" : "Kurozukin Kanbu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 79457,
+      "name" : "Mineta Minoru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80921,
+      "name" : "Ojiro Mashirao",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 81010,
+      "name" : "Present Mic",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80923,
+      "name" : "Satou Rikidou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80922,
+      "name" : "Sero Hanta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80748,
+      "name" : "Shouji Mezou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 90901,
+      "name" : "Stain",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140572,
+      "name" : "Timothy Agpar",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 79988,
+      "name" : "Todoroki Shouto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 79661,
+      "name" : "Tokoyami Fumikage",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 87742,
+      "name" : "Tsukauchi Naomasa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 78891,
+      "name" : "Uraraka Ochako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140574,
+      "name" : "Wedge",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 79660,
+      "name" : "Yaoyorozu Momo",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 78986,
       "name" : "Deku",
@@ -17,6 +130,10 @@
     }, {
       "character_id" : 92488,
       "name" : "All for One",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 90904,
+      "name" : "Best Jeanist",
       "type" : "CHARACTER"
     }, {
       "character_id" : 92569,
@@ -80,6 +197,9 @@
     "2208" : [ {
       "name" : "Umakoshi Yoshihiko",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Umakoshi Yoshihiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "8070" : [ {
       "name" : "Nagasaki Kenji",
@@ -88,6 +208,9 @@
     "9757" : [ {
       "name" : "Odashima Hitomi",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Odashima Hitomi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "18616" : [ {
       "name" : "Nakayama Naomi",
@@ -118,13 +241,33 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-05-04",
+      "description" : "As jailbreakers run rampant in Japan, Star and Stripe flies from the U.S. to Japan to help and finds Shigaraki waiting for her in the middle of her flight path.\nSource: crunchyroll",
       "episode_id" : 279027,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.19,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWUK9KD8" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "In the Nick of Time! A Big-Time Maverick from the West!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Oubei Girgiri!! Bucchigiri no Sugoi Yatsu"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Top-Notch Support aus dem Westen in letzter Sekunde!"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Une tornade de puissance venue de l`Ouest"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "欧米ギリギリ!! ぶっちぎりの凄い奴"
       } ],
       "type" : "REGULAR"
     }, {
@@ -134,8 +277,17 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bourei"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Geist"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Specter"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "亡霊"
       } ],
       "type" : "REGULAR"
     }, {
@@ -196,7 +348,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.02,
+        "rating" : 2.03,
         "total" : 2
       },
       "recap" : true,
@@ -224,7 +376,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 2.02,
+        "rating" : 2.03,
         "total" : 2
       },
       "recap" : true,
@@ -247,10 +399,18 @@
       "type" : "SPECIAL"
     }, {
       "air_date" : "2024-04-27",
+      "description" : "When Tomura Shigaraki was a child, a tragic accident led to the death of his family, which continues to fuel his desire to destroy.\nSource: crunchyroll",
       "episode_id" : 279633,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 1.27,
+        "total" : 2
+      },
       "recap" : true,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9UQWE09" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shigaraki Tomura: Destruction"
@@ -265,7 +425,48 @@
         "title" : "死柄木弔: Destruction"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-05-04",
+      "episode_id" : 280772,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 5.88,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-05-04",
+      "episode_id" : 280773,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 5.88,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.28,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 7.57,
+      "total" : 7
+    }
   },
   "related" : {
     "PREQUEL" : [ 16793 ]
@@ -361,6 +562,10 @@
     "language" : "UNKNOWN",
     "title" : "bnha7, heroaca7",
     "type" : "SHORT"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Boku no Hero Academia 7th Season",
+    "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Boku no Hero Academia Season 7",

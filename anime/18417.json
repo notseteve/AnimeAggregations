@@ -31,6 +31,16 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.73,
+      "total" : 6
+    },
+    "TEMPORARY" : {
+      "rating" : 5.42,
+      "total" : 7
+    }
+  },
   "resources" : {
     "MAL" : [ "57861" ]
   },
@@ -57,10 +67,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2615" : {
       "info_box" : true,
       "name" : "18 restricted",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2739" : {
+      "info_box" : false,
+      "name" : "brother-sister incest",
+      "parent_tag_id" : 2842,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -89,6 +114,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2842" : {
+      "info_box" : true,
+      "name" : "incest",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -113,6 +146,10 @@
     "language" : "JAPANESE",
     "title" : "好みじゃないけど-ムカつく姉と相性抜群エッチ-",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "좋아하진 않지만 ~짜증나는 누나와 찰떡궁합~",
+    "type" : "SYNONYM"
   } ],
   "type" : "OVA"
 }

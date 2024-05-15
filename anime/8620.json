@@ -259,7 +259,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.53,
+        "rating" : 7.52,
         "total" : 12
       },
       "recap" : false,
@@ -431,7 +431,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 9.35,
+        "rating" : 9.36,
         "total" : 4
       },
       "recap" : false,
@@ -457,7 +457,7 @@
       "length" : 2,
       "number" : 3,
       "rating" : {
-        "rating" : 3.09,
+        "rating" : 3.1,
         "total" : 3
       },
       "recap" : false,
@@ -521,7 +521,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.22,
-      "total" : 3643
+      "total" : 3650
     },
     "REVIEW" : {
       "rating" : 6.41,
@@ -529,7 +529,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.22,
-      "total" : 3668
+      "total" : 3675
     }
   },
   "resources" : {
@@ -648,6 +648,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
@@ -746,6 +753,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2775" : {
       "info_box" : true,

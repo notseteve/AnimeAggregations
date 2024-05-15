@@ -197,8 +197,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.63,
-        "total" : 7
+        "rating" : 5.04,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -247,7 +247,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.41,
+        "rating" : 5.42,
         "total" : 4
       },
       "recap" : false,
@@ -297,7 +297,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.52,
+        "rating" : 5.53,
         "total" : 4
       },
       "recap" : false,
@@ -347,7 +347,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.13,
+        "rating" : 8.12,
         "total" : 2
       },
       "recap" : false,
@@ -372,7 +372,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.05,
+        "rating" : 7.03,
         "total" : 2
       },
       "recap" : false,
@@ -397,7 +397,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.05,
+        "rating" : 7.03,
         "total" : 2
       },
       "recap" : false,
@@ -472,7 +472,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 3.84,
+        "rating" : 3.86,
         "total" : 2
       },
       "recap" : false,
@@ -985,13 +985,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.59,
-      "total" : 586
+      "rating" : 5.61,
+      "total" : 590
     },
     "TEMPORARY" : {
-      "rating" : 6.6,
-      "total" : 590
+      "rating" : 6.61,
+      "total" : 594
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 18607 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "362444" ],
@@ -1267,6 +1270,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2779" : {
+      "info_box" : false,
+      "name" : "multiple couples",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2785" : {
       "info_box" : false,
       "name" : "unrequited love",
@@ -1498,6 +1509,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3823" : {
       "info_box" : false,
       "name" : "recap in opening",
@@ -1510,6 +1537,14 @@
       "info_box" : false,
       "name" : "folklore",
       "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3909" : {
+      "info_box" : false,
+      "name" : "talking is a free action",
+      "parent_tag_id" : 3683,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1666,6 +1701,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5826" : {
+      "info_box" : false,
+      "name" : "rivalry",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "5851" : {
       "info_box" : false,
       "name" : "female protagonist",
@@ -1710,6 +1753,14 @@
       "info_box" : false,
       "name" : "human - non-human relationship",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6073" : {
+      "info_box" : false,
+      "name" : "age difference romance",
+      "parent_tag_id" : 2858,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

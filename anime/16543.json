@@ -258,12 +258,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.56,
-      "total" : 126
+      "rating" : 4.59,
+      "total" : 127
     },
     "TEMPORARY" : {
       "rating" : 5.72,
-      "total" : 127
+      "total" : 128
     }
   },
   "related" : {
@@ -273,8 +273,10 @@
     "ALL_CINEMA" : [ "378520" ],
     "ANISON" : [ "23868" ],
     "ANN" : [ "24645" ],
+    "IMDB" : [ "tt15385960", "tt22046348" ],
     "MAL" : [ "49637" ],
     "SYOBOI" : [ "6137" ],
+    "TMDB" : [ "tv/131660" ],
     "TWITTER" : [ "af_originalMENS" ],
     "WEBSITE" : [ "https://showtime1.af-original.com/" ],
     "WEBSITE_EN" : [ "https://coolmic.me/anime/video_titles/29" ],
@@ -283,9 +285,24 @@
   },
   "start_date" : "2021-10-04",
   "tags" : {
+    "2438" : {
+      "info_box" : true,
+      "name" : "idol",
+      "parent_tag_id" : 2794,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -297,9 +314,31 @@
       "verified" : false,
       "weight" : 0
     },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -376,10 +415,42 @@
       "verified" : false,
       "weight" : 600
     },
+    "2794" : {
+      "info_box" : false,
+      "name" : "music",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2848" : {
       "info_box" : false,
       "name" : "pornography",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -392,10 +463,90 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3170" : {
+      "info_box" : false,
+      "name" : "occupation and career",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3971" : {
+      "info_box" : false,
+      "name" : "entertainment industry",
+      "parent_tag_id" : 3170,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4318" : {
+      "info_box" : false,
+      "name" : "plot with porn",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4577" : {
+      "info_box" : false,
+      "name" : "family values",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5790" : {
+      "info_box" : false,
+      "name" : "family without mother",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5834" : {
       "info_box" : false,
       "name" : "show within a show",
       "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -412,6 +563,14 @@
       "info_box" : false,
       "name" : "safer sex",
       "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -438,10 +597,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6233" : {
       "info_box" : false,
       "name" : "tropes",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -485,6 +676,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "8038" : {
+      "info_box" : false,
+      "name" : "nipple play",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     }
   },
   "titles" : [ {

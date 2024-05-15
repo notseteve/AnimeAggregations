@@ -332,7 +332,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.55,
+        "rating" : 7.54,
         "total" : 4
       },
       "recap" : false,
@@ -429,12 +429,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.14,
-      "total" : 309
+      "rating" : 6.18,
+      "total" : 319
     },
     "TEMPORARY" : {
-      "rating" : 6.88,
-      "total" : 310
+      "rating" : 6.89,
+      "total" : 320
     }
   },
   "resources" : {
@@ -451,6 +451,13 @@
   },
   "start_date" : "2023-07-08",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -462,6 +469,37 @@
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6097" : {
+      "info_box" : false,
+      "name" : "3D CG animation",
+      "parent_tag_id" : 4064,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -1,6 +1,27 @@
 {
   "anime_id" : 18545,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 130065,
+      "name" : "Godou Yoshito",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133162,
+      "name" : "Takaihito",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133163,
+      "name" : "Tatsuishi Kazushi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132700,
+      "name" : "Tsuruki Arata",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 130064,
+      "name" : "Yurie",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 123119,
       "name" : "Kudou Kiyoka",
@@ -8,6 +29,19 @@
     }, {
       "character_id" : 123120,
       "name" : "Saimori Miyo",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 134538,
+      "name" : "Kudou Hazuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139331,
+      "name" : "Ookaito Asahi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135414,
+      "name" : "Ookaito Masashi",
       "type" : "CHARACTER"
     } ]
   },
@@ -29,6 +63,10 @@
       "episode_id" : 278591,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -39,12 +77,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.83,
-      "total" : 19
+      "rating" : 7.25,
+      "total" : 28
     },
     "TEMPORARY" : {
-      "rating" : 7.07,
-      "total" : 19
+      "rating" : 7.25,
+      "total" : 28
     }
   },
   "related" : {
@@ -60,9 +98,125 @@
   },
   "start_date" : "2024-03-15",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2641" : {
+      "info_box" : true,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2692" : {
+      "info_box" : true,
+      "name" : "Bakumatsu - Meiji Period",
+      "parent_tag_id" : 2641,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

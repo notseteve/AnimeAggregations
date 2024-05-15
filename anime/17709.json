@@ -18,6 +18,10 @@
       "name" : "Carrion",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 99349,
+      "name" : "Clayman",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 119263,
       "name" : "Daggrull",
       "type" : "CHARACTER"
@@ -26,11 +30,11 @@
       "name" : "Deeno",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 116572,
-      "name" : "Edmaris",
+      "character_id" : 98998,
+      "name" : "Dord",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 140054,
+      "character_id" : 116572,
       "name" : "Edmaris",
       "type" : "CHARACTER"
     }, {
@@ -52,6 +56,10 @@
     }, {
       "character_id" : 101838,
       "name" : "Frey",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140541,
+      "name" : "Getsuyou-shi Dina",
       "type" : "CHARACTER"
     }, {
       "character_id" : 114735,
@@ -80,6 +88,14 @@
     }, {
       "character_id" : 97709,
       "name" : "Kaijin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140542,
+      "name" : "Kayou-shi Ars",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140543,
+      "name" : "Kinyou-shi Vina",
       "type" : "CHARACTER"
     }, {
       "character_id" : 97710,
@@ -114,6 +130,10 @@
       "name" : "Muller",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 140540,
+      "name" : "Nicolaus Speltus",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 101836,
       "name" : "Phobio",
       "type" : "CHARACTER"
@@ -140,6 +160,10 @@
     }, {
       "character_id" : 96300,
       "name" : "Shizu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 100533,
+      "name" : "Souka",
       "type" : "CHARACTER"
     }, {
       "character_id" : 114737,
@@ -340,8 +364,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.75,
-        "total" : 7
+        "rating" : 4.85,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -371,8 +395,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.98,
-        "total" : 5
+        "rating" : 3.93,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -402,8 +426,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 1.24,
-        "total" : 2
+        "rating" : 3.19,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -425,11 +449,22 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-04-26",
+      "description" : "Responding to Rimuru`s concerns about monsters in the forest harming humans, Vesta and Kaijin reveal a new invention they hope will keep the road to Tempest safe. Also, Rimuru assigns a new task to Geld.\nSource: crunchyroll",
       "episode_id" : 278731,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 2.89,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9U3KKW2" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Chacun son rôle"
+      }, {
         "language" : "ENGLISH",
         "title" : "Everyone Has a Part to Play"
       }, {
@@ -442,13 +477,30 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-05-03",
+      "description" : "A war council led by Hinata is held in the Holy Empire of Lubelius. Moments after Hinata declares her intent to meet Rimuru and talk to him, she receives a hostile message from Rimuru.\nSource: crunchyroll",
       "episode_id" : 280104,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 2.29,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUXPP03" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Le conseil des deux factions"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Meeting of Both Sides"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ryouyoku Kaigi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "両翼会議"
       } ],
       "type" : "REGULAR"
     }, {
@@ -458,8 +510,14 @@
       "number" : 6,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Semarikuru Mono-tachi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Those Approaching"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "迫り来る者達"
       } ],
       "type" : "REGULAR"
     }, {
@@ -492,7 +550,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.49,
+        "rating" : 2.5,
         "total" : 1
       },
       "recap" : true,
@@ -520,12 +578,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.5,
-      "total" : 41
+      "rating" : 6.14,
+      "total" : 50
     },
     "TEMPORARY" : {
-      "rating" : 7.17,
-      "total" : 41
+      "rating" : 6.83,
+      "total" : 51
     }
   },
   "related" : {

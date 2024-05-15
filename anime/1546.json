@@ -170,7 +170,7 @@
       "length" : 30,
       "number" : 3,
       "rating" : {
-        "rating" : 2.64,
+        "rating" : 2.65,
         "total" : 2
       },
       "recap" : false,
@@ -238,6 +238,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -780,6 +787,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "5742" : {
+      "info_box" : false,
+      "name" : "Taishou period",
+      "parent_tag_id" : 2641,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6019" : {
       "info_box" : false,
       "name" : "brainwashing",
@@ -814,6 +837,14 @@
       "info_box" : false,
       "name" : "gokkun",
       "parent_tag_id" : 2704,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
