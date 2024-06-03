@@ -34,6 +34,10 @@
       "name" : "Kirarin Bear",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 140917,
+      "name" : "Kirarin Kojika",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140059,
       "name" : "Kirarin Lion",
       "type" : "CHARACTER"
@@ -74,6 +78,10 @@
       "name" : "Pon",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 140941,
+      "name" : "Saruwatari",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139931,
       "name" : "Torie",
       "type" : "CHARACTER"
@@ -84,6 +92,15 @@
     }, {
       "character_id" : 139930,
       "name" : "Youda",
+      "type" : "CHARACTER"
+    } ],
+    "CAMEO" : [ {
+      "character_id" : 8382,
+      "name" : "Nohara Shinnosuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 8393,
+      "name" : "Shiro",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -440,6 +457,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-05-05",
+      "description" : "Yuki isn’t feeling well, so Mayu brings her to Iroha’s house. Iroha suggests that she spend the night to keep watch over Yuki, but the next morning Komugi senses the presence of a Garugaru.\nSource: crunchyroll",
       "episode_id" : 280154,
       "length" : 25,
       "number" : 14,
@@ -460,13 +478,23 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-05-12",
+      "description" : "Komugi and the others spend a day helping Mey Mey take care of the Kirarin Animals in Niko Garden. But the Kirarin Animals seem to be hiding something.\nSource: crunchyroll",
       "episode_id" : 280155,
       "length" : 25,
       "number" : 15,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9UQE2NW" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 15"
+        "title" : "A Day in the Life of Mey Mey the Butler-Sheep!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hitsuji no Shitsuji: Mey Mey no Ichinichi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ヒツジの執事 メエメエの一日"
       } ],
       "type" : "REGULAR"
     }, {
@@ -475,9 +503,18 @@
       "length" : 25,
       "number" : 16,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUQ5DP5" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kagami Ishi no Fushigi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 16"
+        "title" : "The Mystery of the Mirror Stone"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "鏡石のふしぎ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -488,7 +525,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 17"
+        "title" : "I Will Protect You"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Watashi ga, Anata o Mamoru!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "私が, あなたを守る!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -528,12 +571,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.14,
-      "total" : 8
+      "rating" : 7.32,
+      "total" : 9
     },
     "TEMPORARY" : {
-      "rating" : 6.68,
-      "total" : 8
+      "rating" : 6.83,
+      "total" : 9
     }
   },
   "related" : {

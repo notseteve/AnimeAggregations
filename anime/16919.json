@@ -84,10 +84,21 @@
     "48254" : [ {
       "name" : "Nut",
       "type" : "ANIMATION_WORK"
+    }, {
+      "name" : "Nut",
+      "type" : "WORK"
     } ],
     "65326" : [ {
       "name" : "Ishizuka Shin`ichi",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "76683" : [ {
+      "name" : "Uehara Hiromi",
+      "type" : "MUSIC"
+    }, {
+      "name" : "Uehara Hiromi",
+      "other" : "Keyboard",
+      "type" : "OTHER"
     } ]
   },
   "description" : "http://anidb.net/ch128669 [Dai] lived a normal high school life in Sendai: a city of hot summer days and rainy nights. Between basketball, part time jobs, and an uncertain future, something was missing. And that thing was music. With his days in senior year running out, Dai swears a heartfelt vow: “I’m gonna be the best jazz player in the world.”\nBut what do you need to be the best? Talent? Effort? A lucky break? Or maybe just a deep, pure love for music, and too much stubbornness to know when to quit.\nSource: Seven Seas Entertainment",
@@ -99,7 +110,7 @@
       "length" : 120,
       "number" : 1,
       "rating" : {
-        "rating" : 2.86,
+        "rating" : 2.89,
         "total" : 2
       },
       "recap" : false,
@@ -127,6 +138,19 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "First Day Theater Greeting Event"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "episode_id" : 281782,
+      "length" : 16,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Q&A with Hiromi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Q&A with Hiromi"
       } ],
       "type" : "SPECIAL"
     } ],
@@ -204,12 +228,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.79,
-      "total" : 78
+      "rating" : 8.87,
+      "total" : 89
     },
     "TEMPORARY" : {
-      "rating" : 7.97,
-      "total" : 78
+      "rating" : 7.95,
+      "total" : 90
     }
   },
   "resources" : {
@@ -229,6 +253,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -295,6 +326,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2834" : {
       "info_box" : false,

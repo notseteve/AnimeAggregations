@@ -160,7 +160,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.78,
+        "rating" : 5.77,
         "total" : 6
       },
       "recap" : false,
@@ -309,7 +309,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.07,
+        "rating" : 6.09,
         "total" : 7
       },
       "recap" : false,
@@ -451,7 +451,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 6.44,
+        "rating" : 6.52,
         "total" : 2
       },
       "recap" : false,
@@ -466,7 +466,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 7.48,
+        "rating" : 7.52,
         "total" : 2
       },
       "recap" : false,
@@ -501,12 +501,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.67,
-      "total" : 473
+      "rating" : 4.72,
+      "total" : 489
     },
     "TEMPORARY" : {
-      "rating" : 6.42,
-      "total" : 473
+      "rating" : 6.45,
+      "total" : 489
     }
   },
   "resources" : {
@@ -541,6 +541,10 @@
     "17688" : {
       "rating" : 8.181818181818182,
       "total" : 11
+    },
+    "17766" : {
+      "rating" : 10.0,
+      "total" : 1
     }
   },
   "start_date" : "2024-01-09",
@@ -658,6 +662,30 @@
       "verified" : false,
       "weight" : 200
     },
+    "2778" : {
+      "info_box" : false,
+      "name" : "slow when it comes to love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2786" : {
+      "info_box" : true,
+      "name" : "love polygon",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -689,6 +717,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2869" : {
       "info_box" : true,

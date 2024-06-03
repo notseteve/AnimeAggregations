@@ -268,7 +268,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.01,
+        "rating" : 7.02,
         "total" : 8
       },
       "recap" : false,
@@ -324,7 +324,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.46,
+        "rating" : 6.47,
         "total" : 7
       },
       "recap" : false,
@@ -352,7 +352,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.34,
+        "rating" : 8.35,
         "total" : 6
       },
       "recap" : false,
@@ -380,7 +380,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.9,
+        "rating" : 6.91,
         "total" : 6
       },
       "recap" : false,
@@ -436,7 +436,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.12,
+        "rating" : 6.13,
         "total" : 4
       },
       "recap" : false,
@@ -464,7 +464,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.12,
+        "rating" : 6.13,
         "total" : 4
       },
       "recap" : false,
@@ -492,7 +492,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 4.86,
+        "rating" : 4.87,
         "total" : 4
       },
       "recap" : false,
@@ -520,7 +520,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.11,
+        "rating" : 7.12,
         "total" : 4
       },
       "recap" : false,
@@ -604,7 +604,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 6.43,
+        "rating" : 6.44,
         "total" : 4
       },
       "recap" : false,
@@ -652,12 +652,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.09,
-      "total" : 363
+      "rating" : 8.02,
+      "total" : 371
     },
     "TEMPORARY" : {
-      "rating" : 7.83,
-      "total" : 363
+      "rating" : 7.8,
+      "total" : 371
     }
   },
   "related" : {
@@ -708,6 +708,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2612" : {
       "info_box" : false,
       "name" : "time",
@@ -723,6 +730,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2619" : {
+      "info_box" : false,
+      "name" : "gunfights",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2625" : {
       "info_box" : false,
@@ -787,6 +810,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "6004" : {
       "info_box" : false,

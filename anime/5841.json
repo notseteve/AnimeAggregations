@@ -509,7 +509,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.97,
+        "rating" : 7.98,
         "total" : 23
       },
       "recap" : false,
@@ -885,7 +885,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 9.38,
+        "rating" : 9.37,
         "total" : 45
       },
       "recap" : false,
@@ -933,7 +933,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 9.37,
+        "rating" : 9.36,
         "total" : 2
       },
       "recap" : false,
@@ -948,7 +948,7 @@
       "length" : 2,
       "number" : 3,
       "rating" : {
-        "rating" : 9.37,
+        "rating" : 9.36,
         "total" : 2
       },
       "recap" : false,
@@ -963,7 +963,7 @@
       "length" : 2,
       "number" : 4,
       "rating" : {
-        "rating" : 9.37,
+        "rating" : 9.36,
         "total" : 2
       },
       "recap" : false,
@@ -978,7 +978,7 @@
       "length" : 2,
       "number" : 5,
       "rating" : {
-        "rating" : 9.37,
+        "rating" : 9.36,
         "total" : 2
       },
       "recap" : false,
@@ -1039,7 +1039,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 9.23,
-      "total" : 9046
+      "total" : 9051
     },
     "REVIEW" : {
       "rating" : 8.53,
@@ -1047,7 +1047,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.74,
-      "total" : 9254
+      "total" : 9259
     }
   },
   "related" : {
@@ -1160,6 +1160,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2605" : {
       "info_box" : false,
@@ -1274,6 +1281,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2748" : {
+      "info_box" : false,
+      "name" : "sex",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2770" : {
       "info_box" : false,

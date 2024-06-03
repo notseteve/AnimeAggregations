@@ -125,7 +125,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.65,
+        "rating" : 2.66,
         "total" : 11
       },
       "recap" : false,
@@ -138,6 +138,9 @@
       }, {
         "language" : "FRENCH",
         "title" : "Tu peux compter sur moi !"
+      }, {
+        "language" : "RUSSIAN",
+        "title" : "Я выложусь по полной! / Мир, о котором она даже не подозревала"
       }, {
         "language" : "JAPANESE",
         "title" : "ひたむきに頑張ります! / 少女の知らない世界"
@@ -164,6 +167,9 @@
         "language" : "FRENCH",
         "title" : "Un coup de tonnerre / Au bord du gouffre"
       }, {
+        "language" : "RUSSIAN",
+        "title" : "Гром среди ясного неба / Умирающий охотник"
+      }, {
         "language" : "JAPANESE",
         "title" : "晴天の霹靂 / 瀕死の狩人"
       } ],
@@ -188,6 +194,9 @@
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Minna de Asobou / Anata ga Hajimete Desu"
+      }, {
+        "language" : "RUSSIAN",
+        "title" : "Давай поиграем вместе / Ты у меня первый"
       }, {
         "language" : "JAPANESE",
         "title" : "みんなで遊ぼう / あなたが初めてです"
@@ -214,6 +223,9 @@
         "language" : "ENGLISH",
         "title" : "Doctor Murder / White and Black"
       }, {
+        "language" : "RUSSIAN",
+        "title" : "Доктор Мёрдер / Черное и Белое"
+      }, {
         "language" : "JAPANESE",
         "title" : "ドクター・マーダー / 白と黒"
       } ],
@@ -238,6 +250,9 @@
       }, {
         "language" : "ENGLISH",
         "title" : "The Secret of Berserk / A Feast of Flesh"
+      }, {
+        "language" : "RUSSIAN",
+        "title" : "Секрет безумия / Мясное пиршество"
       }, {
         "language" : "JAPANESE",
         "title" : "キョウカのヒミツ / 肉の宴"
@@ -264,6 +279,9 @@
         "language" : "FRENCH",
         "title" : "Mayday / Une nouvelle famille"
       }, {
+        "language" : "RUSSIAN",
+        "title" : "Мейди / Новый член семьи"
+      }, {
         "language" : "JAPANESE",
         "title" : "メーデー / 新しい家族"
       } ],
@@ -288,6 +306,9 @@
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Murige / Mint Ice"
+      }, {
+        "language" : "RUSSIAN",
+        "title" : "Миссия невыполнима / Мятный лед"
       }, {
         "language" : "JAPANESE",
         "title" : "ムリゲー / ミントアイス"
@@ -314,6 +335,9 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kanzen Nenshou / Arigatou"
       }, {
+        "language" : "RUSSIAN",
+        "title" : "Сжечь дотла / Спасибо"
+      }, {
         "language" : "JAPANESE",
         "title" : "完全燃焼 / ありがとう"
       } ],
@@ -338,6 +362,9 @@
       }, {
         "language" : "ENGLISH",
         "title" : "The Golden Eggs / Something Soft"
+      }, {
+        "language" : "RUSSIAN",
+        "title" : "Золотое яйцо / Кое-что очень мягкое"
       }, {
         "language" : "JAPANESE",
         "title" : "金のタマゴ / やわらかいもの"
@@ -364,6 +391,9 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Yureru Omoi / Idai na Chichi"
       }, {
+        "language" : "RUSSIAN",
+        "title" : "Колеблющиеся эмоции / Прекрасный отец"
+      }, {
         "language" : "JAPANESE",
         "title" : "揺れる思い / 偉大な父"
       } ],
@@ -389,6 +419,9 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shiwayose wa Hashitte Kuru / New World"
       }, {
+        "language" : "RUSSIAN",
+        "title" : "Кое-какие затруднения / Новый мир"
+      }, {
         "language" : "JAPANESE",
         "title" : "しわ寄せは走ってくる / ニューワールド"
       } ],
@@ -413,6 +446,9 @@
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kyou wa Kaeritakunai / Nazotoki Little"
+      }, {
+        "language" : "RUSSIAN",
+        "title" : "Я не хочу идти домой сейчас / Решение загадки"
       }, {
         "language" : "JAPANESE",
         "title" : "今日は帰りたくない / 謎解きリトル"
@@ -609,12 +645,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.93,
-      "total" : 456
+      "rating" : 3.95,
+      "total" : 461
     },
     "TEMPORARY" : {
-      "rating" : 6.04,
-      "total" : 459
+      "rating" : 6.05,
+      "total" : 464
     }
   },
   "resources" : {
@@ -625,6 +661,7 @@
     "IMDB" : [ "tt18566706" ],
     "MAL" : [ "51212" ],
     "SYOBOI" : [ "6462" ],
+    "TMDB" : [ "tv/194831" ],
     "TWITTER" : [ "futoku_anime/" ],
     "WEBSITE" : [ "https://futoku-no-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Immoral_Guild" ],
@@ -1053,6 +1090,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Guild of Depravity",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "RUSSIAN",
+    "title" : "Развращённая гильдия",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

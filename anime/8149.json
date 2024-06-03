@@ -627,7 +627,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.22,
-      "total" : 4132
+      "total" : 4140
     },
     "REVIEW" : {
       "rating" : 5.66,
@@ -635,7 +635,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.9,
-      "total" : 4163
+      "total" : 4171
     }
   },
   "resources" : {
@@ -766,6 +766,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2667" : {
       "info_box" : false,
       "name" : "university",
@@ -813,6 +821,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2858" : {
       "info_box" : false,
@@ -1039,6 +1055,14 @@
       "info_box" : false,
       "name" : "family life",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

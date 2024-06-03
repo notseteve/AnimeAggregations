@@ -2,6 +2,10 @@
   "anime_id" : 18100,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 87694,
+      "name" : "Alexis Midford",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140229,
       "name" : "Cheslock",
       "type" : "CHARACTER"
@@ -14,12 +18,20 @@
       "name" : "Edward Midford",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 18411,
+      "name" : "Elizabeth Midford",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140338,
       "name" : "Joanne Harcourt",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140231,
       "name" : "Johann Agares",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 18408,
+      "name" : "Lau",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140230,
@@ -30,8 +42,16 @@
       "name" : "Maurice Cole",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 18421,
+      "name" : "Ran-Mao",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 18409,
       "name" : "Soma Asman Kadar",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 18405,
+      "name" : "Tanaka",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -77,6 +97,10 @@
       "name" : "Shimizu Yumi",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "11790" : [ {
+      "name" : "Itou Kaori",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "15726" : [ {
       "name" : "Takata Akira",
       "type" : "CHIEF_ANIMATION_DIRECTION"
@@ -103,6 +127,7 @@
     } ]
   },
   "description" : "* Based on a supernatural fantasy shounen manga by http://anidb.net/cr8740 [Toboso Yana].\nCiel Phantomhive is the most powerful boy in all of England, but he bears the scars of unspeakable suffering. Forced to watch as his beloved parents were brutally murdered, Ciel was subsequently abducted and violently tortured. Desperate to end his suffering, the boy traded his own soul for a chance at vengeance, casting his lot with the one person on whom he could depend: Sebastian, a demon Butler summoned from the very pits of hell. Together, they’ll prowl the darkest alleys of London on a mission to snuff out those who would do evil.\nSource: crunchyroll\nNote: The first episode received an early screening at a special event on March 24, 2024 at United Cinemas Aqua City Odaiba in Tokyo. The regular TV broadcast started on April 13, 2024.",
+  "end_date" : "2024-06-22",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-13",
@@ -142,7 +167,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.94,
+        "rating" : 5.98,
         "total" : 1
       },
       "recap" : false,
@@ -173,7 +198,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 2.29,
+        "rating" : 2.33,
         "total" : 1
       },
       "recap" : false,
@@ -188,7 +213,7 @@
         "title" : "Le majordome complote"
       }, {
         "language" : "GERMAN",
-        "title" : "Sein Butler - intrigierend"
+        "title" : "Sein Butler – intrigierend"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Sono Shitsuji, Sakubou"
@@ -199,11 +224,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-05-04",
+      "description" : "Ciel wins the P4`s trust, but he still can`t find a chance to get close to the Head Master. And so he brings up the subject of Derrick Arden with the P4 and their drudges. When he does, the expressions on the prefects` faces change...\nSource: crunchyroll",
       "episode_id" : 278779,
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.29,
+        "rating" : 2.33,
         "total" : 1
       },
       "recap" : false,
@@ -218,7 +244,7 @@
         "title" : "Le majordome est de connivence"
       }, {
         "language" : "GERMAN",
-        "title" : "Sein Butler - sich absprechend"
+        "title" : "Sein Butler – konferierend"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Sono Shitsuji, Dangou"
@@ -229,16 +255,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-05-11",
+      "description" : "Ciel hears some promising information: the ever-busy Head Master will be attending Weston`s traditional cricket tournament, and evidently the student who exhibits the most sportsmanlike behaviour will be invited to the Head Master`s \"midnight tea party.\"\nSource: crunchyroll",
       "episode_id" : 280384,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 3.88,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU0M2N9" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "His Butler, Gaining Admittance"
       }, {
+        "language" : "FRENCH",
+        "title" : "Le majordome fait son entrée"
+      }, {
         "language" : "GERMAN",
-        "title" : "Sein Butler – tritt ein"
+        "title" : "Sein Butler – erhält Zugang"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Sono Shitsuji, Nyuujou"
@@ -249,24 +286,60 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-05-18",
+      "description" : "Ciel is chosen to play cricket, but the boys of Sapphire Owl House are the perennial wooden spooners. They`ve had just one victory in the history of the tournament. Ciel resolves to wrest another victory for his House—without any miracles.\nSource: crunchyroll",
       "episode_id" : 280385,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 1.13,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UXN2KZ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "His Butler, Scheming"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le majordome manœuvre"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Sein Butler – Kniffe anwendend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sono Shitsuji, Sakudou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "その執事, 策動"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-05-25",
+      "description" : "Ciel and the rest of Sapphire Owl House have won their way into the deciding match. As the cricketers exercise their talents to the fullest, Sebastian pursues the Head Master, who has appeared at last.\nSource: crunchyroll",
       "episode_id" : 280386,
       "length" : 25,
       "number" : 7,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWUK9XNZ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "His Butler, Final Match"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le majordome est en finale"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Sein Butler – Im Endkampf"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sono Shitsuji, Kesshou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "その執事, 決勝"
       } ],
       "type" : "REGULAR"
     }, {
@@ -275,21 +348,75 @@
       "length" : 25,
       "number" : 8,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XU07VXG" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "His Butler, Locking Up"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Sein Butler – schließt ab"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sono Shitsuji, Sejou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "その執事, 施錠"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-08",
+      "episode_id" : 281345,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "His Butler, Having a Laugh"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Sein Butler – lacht herzlich"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sono Shitsuji, Roushou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "その執事, 朗笑"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-15",
+      "episode_id" : 281346,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-22",
+      "episode_id" : 281347,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.46,
-      "total" : 12
+      "rating" : 5.78,
+      "total" : 15
     },
     "TEMPORARY" : {
-      "rating" : 5.83,
-      "total" : 12
+      "rating" : 6.2,
+      "total" : 15
     }
   },
   "related" : {

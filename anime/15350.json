@@ -212,7 +212,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.86,
+        "rating" : 4.87,
         "total" : 11
       },
       "recap" : false,
@@ -237,7 +237,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.13,
+        "rating" : 4.14,
         "total" : 10
       },
       "recap" : false,
@@ -262,7 +262,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.31,
+        "rating" : 6.32,
         "total" : 10
       },
       "recap" : false,
@@ -462,7 +462,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 4.62,
+        "rating" : 4.61,
         "total" : 8
       },
       "recap" : false,
@@ -537,7 +537,7 @@
       "length" : 25,
       "number" : 14,
       "rating" : {
-        "rating" : 7.71,
+        "rating" : 7.72,
         "total" : 8
       },
       "recap" : false,
@@ -562,7 +562,7 @@
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 6.89,
+        "rating" : 6.9,
         "total" : 9
       },
       "recap" : false,
@@ -587,7 +587,7 @@
       "length" : 25,
       "number" : 16,
       "rating" : {
-        "rating" : 4.49,
+        "rating" : 4.5,
         "total" : 8
       },
       "recap" : false,
@@ -637,7 +637,7 @@
       "length" : 25,
       "number" : 18,
       "rating" : {
-        "rating" : 7.55,
+        "rating" : 7.56,
         "total" : 8
       },
       "recap" : false,
@@ -787,7 +787,7 @@
       "length" : 25,
       "number" : 24,
       "rating" : {
-        "rating" : 7.0,
+        "rating" : 7.01,
         "total" : 8
       },
       "recap" : false,
@@ -838,7 +838,7 @@
       "length" : 2,
       "number" : 3,
       "rating" : {
-        "rating" : 6.63,
+        "rating" : 6.62,
         "total" : 2
       },
       "recap" : false,
@@ -915,7 +915,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.82,
-      "total" : 747
+      "total" : 750
     },
     "REVIEW" : {
       "rating" : 8.16,
@@ -923,7 +923,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.72,
-      "total" : 755
+      "total" : 758
     }
   },
   "related" : {
@@ -1063,6 +1063,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2800" : {
       "info_box" : true,
       "name" : "game",
@@ -1127,11 +1135,27 @@
       "verified" : false,
       "weight" : 300
     },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3267" : {
       "info_box" : false,
       "name" : "everybody dies",
       "parent_tag_id" : 6242,
       "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3276" : {
+      "info_box" : false,
+      "name" : "plot twists",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
       "verified" : false,
       "weight" : 0
     },
@@ -1269,6 +1293,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6730" : {
       "info_box" : false,
       "name" : "torture",
@@ -1276,6 +1308,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "6877" : {
+      "info_box" : false,
+      "name" : "misleading beginning",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "7050" : {
       "info_box" : false,

@@ -667,12 +667,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.5,
-      "total" : 2
+      "rating" : 2.59,
+      "total" : 3
     },
     "TEMPORARY" : {
-      "rating" : 3.5,
-      "total" : 2
+      "rating" : 3.0,
+      "total" : 3
     }
   },
   "resources" : {
@@ -685,6 +685,44 @@
   },
   "start_date" : "2023-06-16",
   "tags" : {
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6097" : {
+      "info_box" : false,
+      "name" : "3D CG animation",
+      "parent_tag_id" : 4064,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6152" : {
       "info_box" : false,
       "name" : "Chinese production",
@@ -696,6 +734,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

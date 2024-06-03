@@ -26,6 +26,10 @@
       "name" : "Makio",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 105066,
+      "name" : "Murata",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 105381,
       "name" : "Nakahara Sumi",
       "type" : "CHARACTER"
@@ -40,6 +44,10 @@
     }, {
       "character_id" : 105382,
       "name" : "Takada Naho",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140815,
+      "name" : "Takeuchi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 104023,
@@ -150,17 +158,39 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on an action fantasy shounen manga by http://anidb.net/cr55200 [Gotouge Koyoharu].",
+  "description" : "* Based on an action fantasy shounen manga by http://anidb.net/cr55200 [Gotouge Koyoharu].\nNote: The first episode received an early screening in cinemas worldwide starting on Febuary 2, 2024 at TOHO Cinemas Hibiya in Tokyo. The regular TV broadcast started on May 12, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-05-12",
       "episode_id" : 279031,
       "length" : 50,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.76,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUG5WZ5" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kibutsuji Muzan o Taosu Tame ni"
+      }, {
+        "language" : "HUNGARIAN",
+        "title" : "Legyőzni Kibutsuji Muzant"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Pour vaincre Kibutsuji Muzan"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "To Defeat Muzan Kibutsuji"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Um Kibutsuji Muzan zu besiegen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "鬼舞辻無惨を倒すために"
       } ],
       "type" : "REGULAR"
     }, {
@@ -170,8 +200,17 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Der Schmerz der Wassersäule Tomioka Giyū"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mizubashira: Tomioka Giyuu no Itami"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Water Hashira Giyu Tomioka`s Pain"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "水柱・冨岡義勇の痛み"
       } ],
       "type" : "REGULAR"
     }, {
@@ -196,16 +235,34 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-05-04",
+      "episode_id" : 281013,
+      "length" : 35,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kimetsu TV: Hashira Geiko Hen Housou Chokuzen SP"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "鬼滅テレビ -柱稽古編放送直前SP-"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 9.14,
-      "total" : 1
+      "rating" : 8.6,
+      "total" : 19
     },
     "TEMPORARY" : {
-      "rating" : 8.0,
-      "total" : 1
+      "rating" : 8.31,
+      "total" : 19
     }
   },
   "related" : {
@@ -221,7 +278,8 @@
     "WEBSITE" : [ "https://kimetsu.com/anime/hashirageikohen/" ],
     "WEBSITE_EN" : [ "https://demonslayer-anime.com/hta/" ],
     "WIKIPEDIA_EN" : [ "Demon_Slayer:_Kimetsu_no_Yaiba" ],
-    "WIKIPEDIA_JP" : [ "鬼滅の刃_(アニメ)" ]
+    "WIKIPEDIA_JP" : [ "鬼滅の刃_(アニメ)" ],
+    "YOUTUBE" : [ "watch?v=-Rwpi6mHvB0" ]
   },
   "start_date" : "2024-05-12",
   "tags" : {
@@ -267,6 +325,10 @@
   }, {
     "language" : "GERMAN",
     "title" : "Demon Slayer: Hashira Training Arc",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "SPANISH",
+    "title" : "Guardianes de la Noche: Kimetsu no Yaiba - Arco del entrenamiento de los Pilares",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

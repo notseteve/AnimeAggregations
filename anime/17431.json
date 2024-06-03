@@ -22,6 +22,10 @@
       "name" : "Dust",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 80993,
+      "name" : "Eris",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140164,
       "name" : "Hagen",
       "type" : "CHARACTER"
@@ -36,6 +40,14 @@
     }, {
       "character_id" : 140375,
       "name" : "Mary",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140875,
+      "name" : "Maxwell",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140660,
+      "name" : "Outo Guild Shokuin",
       "type" : "CHARACTER"
     }, {
       "character_id" : 109295,
@@ -117,9 +129,21 @@
       "name" : "Kikuta Kouichi",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "6827" : [ {
+      "name" : "Kitamura Tomoyuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "8492" : [ {
       "name" : "Kanasaki Takaomi",
       "type" : "CHIEF_DIRECTOR"
+    } ],
+    "21842" : [ {
+      "name" : "Ushinohama Yui",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "24381" : [ {
+      "name" : "Takemoto Yoshiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "37306" : [ {
       "name" : "Kouda Masato",
@@ -139,6 +163,7 @@
     } ]
   },
   "description" : "The dysfunctional party is back, but they may be short a member soon `cause http://anidb.net/ch78020 [Kazuma] is over it. Disillusioned with adventure, he wants to become a monk, but http://anidb.net/ch78019 [Aqua], http://anidb.net/ch78018 [Megumin], and http://anidb.net/ch78021 [Darkness] call bull. However, the career dispute gets put on hold when a princess requests to hear all about their tales. Will the taste of fame at the royal castle keep them together or will this mark their farewell tour?\nSource: Crunchyroll\nNote: The first two episodes received an early screening at a special event on March 2, 2024 at TOHO Cinemas Susukino in Hokkaido and 6 additional venues across Japan. The regular TV broadcast started on April 10, 2024.",
+  "end_date" : "2024-06-19",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-10",
@@ -147,8 +172,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.48,
-        "total" : 11
+        "rating" : 7.0,
+        "total" : 12
       },
       "recap" : false,
       "resources" : {
@@ -175,8 +200,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.33,
-        "total" : 6
+        "rating" : 7.94,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -203,8 +228,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.92,
-        "total" : 6
+        "rating" : 7.06,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -231,8 +256,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.22,
-        "total" : 4
+        "rating" : 7.67,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -254,16 +279,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-05-08",
+      "description" : "The Devil King`s army attack alarm rings in the royal capital! The adventurer`s guild calls on high-level adventurers to join the battle. Having failed to capture the thief at Alderp`s mansion, Kazuma joins the fight in order to redeem his reputation.\nSource: crunchyroll",
       "episode_id" : 280282,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 8.68,
+        "total" : 8
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN2GJV" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kono Hakoiri Oujo ni Akuyuu o!"
       }, {
         "language" : "ENGLISH",
         "title" : "Nefarious Friends for This Sheltered Princess!"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Une mauvaise influence pour la princesse qui a été trop couvée !"
       }, {
         "language" : "JAPANESE",
         "title" : "この箱入り王女に悪友を!"
@@ -274,10 +310,26 @@
       "episode_id" : 280283,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 8.41,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUZ7JN5" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "A Farewell to This Lavish Lifestyle!"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Des adieux à cette vie de rêve !"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kono Suteki na Kurashi ni Sayonara o!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "この素敵な暮らしにさよならを!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -287,8 +339,14 @@
       "number" : 7,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kono Nariagari Boukensha ni mo Ansoku o!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Rest for This Up-and-Coming Adventurer!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "この成り上がり冒険者にも安息を!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -358,12 +416,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.4,
-      "total" : 51
+      "rating" : 7.27,
+      "total" : 63
     },
     "TEMPORARY" : {
       "rating" : 7.43,
-      "total" : 52
+      "total" : 66
     }
   },
   "related" : {

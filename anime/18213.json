@@ -2,8 +2,16 @@
   "anime_id" : 18213,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 131391,
+      "name" : "Amelia",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 135334,
       "name" : "Evelyn",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140577,
+      "name" : "Free",
       "type" : "CHARACTER"
     }, {
       "character_id" : 118362,
@@ -30,6 +38,14 @@
       "name" : "Pfeifer",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 118361,
+      "name" : "Philip",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140576,
+      "name" : "Philip no Imouto",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 135332,
       "name" : "Sarah Sunroad",
       "type" : "CHARACTER"
@@ -40,6 +56,10 @@
     }, {
       "character_id" : 135468,
       "name" : "Viktor",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131392,
+      "name" : "Zachou",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -132,6 +152,7 @@
     } ]
   },
   "description" : "* Based on a romance comedy manga by http://anidb.net/cr62867 [Inoue].",
+  "end_date" : "2024-06-23",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-07",
@@ -140,7 +161,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.45,
+        "rating" : 6.51,
         "total" : 2
       },
       "recap" : false,
@@ -165,8 +186,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.07,
-        "total" : 1
+        "rating" : 6.51,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -190,8 +211,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.07,
-        "total" : 1
+        "rating" : 6.51,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -215,8 +236,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.37,
-        "total" : 1
+        "rating" : 9.9,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -235,10 +256,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-05-05",
+      "description" : "The Duke and Alice visit the family mansion, where a fancy ball is about to take place.\nSource: crunchyroll",
       "episode_id" : 280456,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 6.51,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WUNJ3P8" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Butoukai (Zenpen)"
@@ -252,13 +281,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-05-12",
+      "description" : "Daleth tells Walter that she wants to become human, and Nico arrives to tell the group that final preparations are complete.\nSource: crunchyroll",
       "episode_id" : 280457,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 6.51,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UVGQMK" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Butoukai (Kouhen)"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Dance Party (Part 2)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "舞踏会 (後編)"
       } ],
       "type" : "REGULAR"
     }, {
@@ -266,10 +309,23 @@
       "episode_id" : 280458,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 9.37,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UVM9G5" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Coming Together"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shuuketsu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "集結"
       } ],
       "type" : "REGULAR"
     }, {
@@ -280,19 +336,69 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Persuasion"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Settoku"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "説得"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-02",
+      "episode_id" : 281353,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-09",
+      "episode_id" : 281354,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-16",
+      "episode_id" : 281355,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-23",
+      "episode_id" : 281356,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.4,
-      "total" : 16
+      "rating" : 5.39,
+      "total" : 22
     },
     "TEMPORARY" : {
-      "rating" : 6.06,
-      "total" : 16
+      "rating" : 6.27,
+      "total" : 22
     }
   },
   "related" : {

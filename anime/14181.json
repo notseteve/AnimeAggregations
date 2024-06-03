@@ -38,7 +38,7 @@
     "REGULAR" : [ {
       "air_date" : "2019-03-09",
       "episode_id" : 211977,
-      "length" : 0,
+      "length" : 25,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
@@ -46,20 +46,44 @@
         "title" : "Complete Movie"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2019-03-09",
+      "episode_id" : 281048,
+      "length" : 1,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2019-03-09",
+      "episode_id" : 281049,
+      "length" : 1,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 1.93,
-      "total" : 1
+      "rating" : 4.58,
+      "total" : 7
     },
     "TEMPORARY" : {
-      "rating" : 5.0,
-      "total" : 1
+      "rating" : 5.14,
+      "total" : 7
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "365917" ],
+    "ANISON" : [ "21990" ],
     "ANN" : [ "22110" ],
     "MAL" : [ "38014" ],
     "SYOBOI" : [ "5395" ],
@@ -108,12 +132,16 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Captain Bal",
+    "title" : "Captain Bal: Bal Kaizokudan! / Isogashi Sugiru Fune",
     "type" : "MAIN"
   }, {
     "language" : "JAPANESE",
-    "title" : "キャプテン・バル",
+    "title" : "キャプテン・バル バル海賊団 / いそがしすぎる船",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Captain Bal: The Bal Pirates! / The Too Busy Ship",
+    "type" : "SYNONYM"
   } ],
   "type" : "MOVIE",
   "url" : "http://animetamago.jp/2019/title.php?id=4"

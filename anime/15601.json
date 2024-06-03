@@ -662,7 +662,7 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 3.98,
+        "rating" : 3.99,
         "total" : 3
       },
       "recap" : false,
@@ -1060,7 +1060,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 7.31,
+        "rating" : 7.3,
         "total" : 2
       },
       "recap" : false,
@@ -1158,7 +1158,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.72,
-      "total" : 1065
+      "total" : 1073
     },
     "REVIEW" : {
       "rating" : 4.0,
@@ -1166,7 +1166,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.95,
-      "total" : 1073
+      "total" : 1081
     }
   },
   "related" : {
@@ -1205,10 +1205,32 @@
   },
   "start_date" : "2021-04-11",
   "tags" : {
+    "627" : {
+      "info_box" : false,
+      "name" : "lingerie",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "922" : {
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1281,6 +1303,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -1305,9 +1335,57 @@
       "verified" : false,
       "weight" : 400
     },
+    "2844" : {
+      "info_box" : true,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2887" : {
+      "info_box" : true,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

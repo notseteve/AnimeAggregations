@@ -47,7 +47,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.81,
+      "rating" : 4.8,
       "total" : 53
     },
     "TEMPORARY" : {
@@ -96,6 +96,21 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -103,6 +118,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "3618" : {
+      "info_box" : false,
+      "name" : "ocean",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "5939" : {
       "info_box" : false,

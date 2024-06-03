@@ -1,5 +1,17 @@
 {
   "anime_id" : 14029,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 140556,
+      "name" : "Tian Chang",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 140555,
+      "name" : "Mama",
+      "type" : "CHARACTER"
+    } ]
+  },
   "end_date" : "2018-08-09",
   "episodes" : {
     "REGULAR" : [ {
@@ -182,11 +194,11 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.09,
+      "rating" : 4.17,
       "total" : 49
     },
     "TEMPORARY" : {
-      "rating" : 5.73,
+      "rating" : 5.76,
       "total" : 49
     }
   },
@@ -202,6 +214,52 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2094" : {
+      "info_box" : true,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -237,10 +295,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6850" : {
       "info_box" : false,
       "name" : "STAFF MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -257,6 +331,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "My Holy Weapon",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_TRANSLITERATED",
+    "title" : "Wo De Nitian Shenqi",
     "type" : "SYNONYM"
   } ],
   "type" : "WEB"

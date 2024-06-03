@@ -18,6 +18,10 @@
       "name" : "Elliott Baldwin Woodman (Seinen)",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 140895,
+      "name" : "Elliott Baldwin Woodman (Youshouki)",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140291,
       "name" : "Ernest Brennan",
       "type" : "CHARACTER"
@@ -30,8 +34,16 @@
       "name" : "Hazakura Mai",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 140538,
+      "name" : "Homura Haruko",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140372,
       "name" : "Irene Fox",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140896,
+      "name" : "Isaac Ray Pelham Westcott(Youshouki)",
       "type" : "CHARACTER"
     }, {
       "character_id" : 51322,
@@ -78,6 +90,10 @@
       "name" : "Okamine Mikie",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 48985,
+      "name" : "Okamine Tamae",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 106257,
       "name" : "Phantom",
       "type" : "CHARACTER"
@@ -86,8 +102,8 @@
       "name" : "Shiizaki Hinako",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 140197,
-      "name" : "Takamiya Mio",
+      "character_id" : 140539,
+      "name" : "Takamiya Shinji",
       "type" : "CHARACTER"
     }, {
       "character_id" : 106608,
@@ -112,6 +128,10 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 124460,
+      "name" : "Takamiya Mio",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140197,
       "name" : "Takamiya Mio",
       "type" : "CHARACTER"
     }, {
@@ -219,6 +239,7 @@
     } ]
   },
   "description" : "* Based on the light novel series written by http://anidb.net/cr34043 [Tachibana Koushi] and illustrated by http://anidb.net/cr34044 [Tsunako].",
+  "end_date" : "2024-06-26",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-10",
@@ -227,7 +248,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.23,
+        "rating" : 5.28,
         "total" : 3
       },
       "recap" : false,
@@ -255,7 +276,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.36,
+        "rating" : 3.42,
         "total" : 2
       },
       "recap" : false,
@@ -283,7 +304,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 2.92,
+        "rating" : 2.94,
         "total" : 3
       },
       "recap" : false,
@@ -311,8 +332,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.12,
-        "total" : 2
+        "rating" : 5.72,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -334,13 +355,24 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-05-08",
+      "description" : "Shido is flooded with memories as the girl named Mio Takamiya stands before him. She was the person with whom Shido once shared his feelings when he was Shinji Takamiya. Meanwhile, Kotori and the others learn of Reine`s true identity.\nSource: crunchyroll",
       "episode_id" : 280278,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 2.82,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN2G87" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Haha Naru Zero"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Maman zéro"
       }, {
         "language" : "ENGLISH",
         "title" : "Mother Mio"
@@ -354,10 +386,26 @@
       "episode_id" : 280279,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 2.82,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUZ7JEE" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Les trois mages"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sannin no Majutsushi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Three Magi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "三人の魔術師"
       } ],
       "type" : "REGULAR"
     }, {
@@ -367,8 +415,14 @@
       "number" : 7,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sekaiju wa Rakuyoushi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "The World Tree Sheds Leaves"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "世界樹は落葉し"
       } ],
       "type" : "REGULAR"
     }, {
@@ -386,12 +440,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.84,
-      "total" : 17
+      "rating" : 6.37,
+      "total" : 23
     },
     "TEMPORARY" : {
-      "rating" : 6.88,
-      "total" : 18
+      "rating" : 7.16,
+      "total" : 24
     }
   },
   "related" : {

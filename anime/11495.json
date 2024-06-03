@@ -632,7 +632,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.83,
+        "rating" : 8.84,
         "total" : 9
       },
       "recap" : false,
@@ -744,7 +744,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.35,
+        "rating" : 7.36,
         "total" : 7
       },
       "recap" : false,
@@ -828,7 +828,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.12,
+        "rating" : 7.13,
         "total" : 7
       },
       "recap" : false,
@@ -1120,7 +1120,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.84,
-      "total" : 957
+      "total" : 959
     },
     "REVIEW" : {
       "rating" : 5.33,
@@ -1128,7 +1128,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.56,
-      "total" : 964
+      "total" : 966
     }
   },
   "related" : {
@@ -1172,6 +1172,13 @@
       "info_box" : true,
       "name" : "seinen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1322,6 +1329,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3245" : {
       "info_box" : false,
       "name" : "strategy",
@@ -1362,6 +1377,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5823" : {
+      "info_box" : false,
+      "name" : "predominantly male cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5929" : {
       "info_box" : false,
       "name" : "space opera",
@@ -1378,9 +1401,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

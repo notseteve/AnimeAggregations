@@ -101,17 +101,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.99,
-      "total" : 173
+      "rating" : 3.98,
+      "total" : 174
     },
     "TEMPORARY" : {
-      "rating" : 5.33,
-      "total" : 176
+      "rating" : 5.31,
+      "total" : 177
     }
   },
   "resources" : {
     "MAL" : [ "33153" ],
-    "WEBSITE" : [ "http://www.mediabank.co.jp/mediabank/product?page=product&model=QNB-M025", "http://www.mediabank.co.jp/mediabank/product?page=product&model=QNB-M028" ]
+    "WEBSITE" : [ "http://www.mediabank.co.jp/mediabank/product?page=product&model=QNB-M025", "http://www.mediabank.co.jp/mediabank/product?page=product&model=QNB-M028", "https://www.mediabank.co.jp/product.php?model=QNB-M025", "https://www.mediabank.co.jp/product.php?model=QNB-M028" ]
   },
   "start_date" : "2016-06-17",
   "tags" : {
@@ -261,6 +261,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -325,6 +333,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3086" : {
+      "info_box" : false,
+      "name" : "parricide",
+      "parent_tag_id" : 4316,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3976" : {
       "info_box" : false,
       "name" : "impregnation",
@@ -332,6 +348,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "4656" : {
       "info_box" : false,
@@ -351,6 +375,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
