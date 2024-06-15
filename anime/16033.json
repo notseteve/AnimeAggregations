@@ -224,7 +224,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.91,
+        "rating" : 6.9,
         "total" : 13
       },
       "recap" : false,
@@ -249,7 +249,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.69,
+        "rating" : 6.68,
         "total" : 11
       },
       "recap" : false,
@@ -424,7 +424,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.85,
+        "rating" : 8.86,
         "total" : 8
       },
       "recap" : false,
@@ -599,7 +599,7 @@
       "length" : 25,
       "number" : 16,
       "rating" : {
-        "rating" : 8.32,
+        "rating" : 8.33,
         "total" : 7
       },
       "recap" : false,
@@ -674,7 +674,7 @@
       "length" : 25,
       "number" : 19,
       "rating" : {
-        "rating" : 8.89,
+        "rating" : 8.9,
         "total" : 8
       },
       "recap" : false,
@@ -749,7 +749,7 @@
       "length" : 25,
       "number" : 22,
       "rating" : {
-        "rating" : 9.81,
+        "rating" : 9.82,
         "total" : 7
       },
       "recap" : false,
@@ -774,7 +774,7 @@
       "length" : 25,
       "number" : 23,
       "rating" : {
-        "rating" : 7.93,
+        "rating" : 7.94,
         "total" : 7
       },
       "recap" : false,
@@ -799,7 +799,7 @@
       "length" : 25,
       "number" : 24,
       "rating" : {
-        "rating" : 8.52,
+        "rating" : 8.54,
         "total" : 7
       },
       "recap" : false,
@@ -824,7 +824,7 @@
       "length" : 25,
       "number" : 25,
       "rating" : {
-        "rating" : 7.39,
+        "rating" : 7.4,
         "total" : 10
       },
       "recap" : false,
@@ -920,12 +920,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.09,
-      "total" : 1280
+      "rating" : 8.43,
+      "total" : 1090
     },
     "TEMPORARY" : {
-      "rating" : 7.42,
-      "total" : 1291
+      "rating" : 7.99,
+      "total" : 1101
     }
   },
   "resources" : {
@@ -1105,6 +1105,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -1185,6 +1193,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3276" : {
+      "info_box" : false,
+      "name" : "plot twists",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3314" : {
       "info_box" : false,
       "name" : "fate",
@@ -1222,6 +1238,14 @@
       "name" : "murder",
       "parent_tag_id" : 6242,
       "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4480" : {
+      "info_box" : false,
+      "name" : "happy ending",
+      "parent_tag_id" : 6246,
+      "spoiler" : true,
       "verified" : false,
       "weight" : 0
     },
@@ -1347,6 +1371,14 @@
       "info_box" : false,
       "name" : "death",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

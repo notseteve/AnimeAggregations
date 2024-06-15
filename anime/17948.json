@@ -90,7 +90,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 1.9,
+        "rating" : 1.89,
         "total" : 2
       },
       "recap" : false,
@@ -111,7 +111,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 1.9,
+        "rating" : 1.89,
         "total" : 2
       },
       "recap" : false,
@@ -132,7 +132,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.85,
+        "rating" : 6.86,
         "total" : 1
       },
       "recap" : false,
@@ -153,7 +153,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.85,
+        "rating" : 6.86,
         "total" : 1
       },
       "recap" : false,
@@ -174,7 +174,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 2.49,
+        "rating" : 2.48,
         "total" : 1
       },
       "recap" : false,
@@ -195,7 +195,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 2.49,
+        "rating" : 2.48,
         "total" : 1
       },
       "recap" : false,
@@ -215,6 +215,10 @@
       "episode_id" : 280521,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 6.86,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -232,6 +236,10 @@
       "episode_id" : 280522,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 2.48,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -270,6 +278,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 10"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Taisha"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "代謝"
       } ],
       "type" : "REGULAR"
     }, {
@@ -337,10 +351,143 @@
   },
   "start_date" : "2024-04-09",
   "tags" : {
+    "1049" : {
+      "info_box" : false,
+      "name" : "bicycling",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3759" : {
+      "info_box" : false,
+      "name" : "teamwork",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "4064" : {
       "info_box" : false,
       "name" : "CGI",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4498" : {
+      "info_box" : false,
+      "name" : "heart-warming",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5826" : {
+      "info_box" : false,
+      "name" : "rivalry",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -363,6 +510,38 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

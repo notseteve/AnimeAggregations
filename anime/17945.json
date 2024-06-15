@@ -13,6 +13,15 @@
       "character_id" : 138100,
       "name" : "Taiga Ryuuji",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 141393,
+      "name" : "Hanaoka Mika",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141392,
+      "name" : "Taiga Konatsu",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -67,9 +76,38 @@
   },
   "start_date" : "2024-07-05",
   "tags" : {
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2614" : {
+      "info_box" : true,
+      "name" : "josei",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -81,6 +119,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "3865" : {
       "info_box" : true,
@@ -133,6 +187,10 @@
     "language" : "JAPANESE",
     "title" : "先輩はおとこのこ",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Senpai Is an Otokonoko: this is him (can`t be anyone else)",
+    "type" : "TITLE_CARD"
   } ],
   "type" : "SERIES",
   "url" : "https://senpaiha-otokonoko.com/"

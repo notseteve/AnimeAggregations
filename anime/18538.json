@@ -1,6 +1,71 @@
 {
   "anime_id" : 18538,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 141037,
+      "name" : "Aoi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141124,
+      "name" : "Aoi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141125,
+      "name" : "Arata",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141126,
+      "name" : "Asahi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141129,
+      "name" : "Isami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141039,
+      "name" : "Mashima",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141038,
+      "name" : "Mei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141122,
+      "name" : "Satoshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141036,
+      "name" : "Shiori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141127,
+      "name" : "Tanimoto Haruto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141128,
+      "name" : "Tanimoto Hinata",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141040,
+      "name" : "Tazawa Ai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141123,
+      "name" : "Touko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141042,
+      "name" : "Yatsuse Kaede",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141041,
+      "name" : "Yatsuse Mikuri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141121,
+      "name" : "Yukimura",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 139288,
       "name" : "Tsumugi",
@@ -8,6 +73,43 @@
     }, {
       "character_id" : 139289,
       "name" : "Yatsuse Hiiragi",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 141043,
+      "name" : "Gozen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141044,
+      "name" : "Izuru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141046,
+      "name" : "Shion",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141050,
+      "name" : "Takahashi Mio",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141051,
+      "name" : "Takahashi Ryuuji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141049,
+      "name" : "Tanimoto Youichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141047,
+      "name" : "Yamashita Naoya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141048,
+      "name" : "Yamashita Shimako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141045,
+      "name" : "Yatsuse Mikio",
       "type" : "CHARACTER"
     } ]
   },
@@ -34,8 +136,12 @@
     "REGULAR" : [ {
       "air_date" : "2024-05-24",
       "episode_id" : 278587,
-      "length" : 115,
+      "length" : 105,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.15,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -44,7 +150,18 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.03,
+      "total" : 40
+    },
+    "TEMPORARY" : {
+      "rating" : 6.55,
+      "total" : 40
+    }
+  },
   "resources" : {
+    "ANISON" : [ "25485" ],
     "MAL" : [ "58449" ],
     "NETFLIX" : [ "81582442" ],
     "WEBSITE" : [ "https://www.amanojaku-movie.com/" ],
@@ -73,6 +190,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Suki demo Kirai na Amanojaku",
     "type" : "MAIN"
+  }, {
+    "language" : "SPANISH",
+    "title" : "Mi querida Oni",
+    "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
     "title" : "My Oni Girl",

@@ -232,6 +232,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2023-11-24",
+      "description" : "The Road to W.I.N.G. documentary airs on TV, and the idols of 283 Productions reflect on their performances.\nSource: crunchyroll",
       "episode_id" : 279037,
       "length" : 25,
       "number" : 7,
@@ -252,13 +253,17 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2023-11-24",
+      "description" : "The Producer announces 283 Productions 1st Live, featuring all units. ALSTROEMERIA and The Hokago Climax Girls help promote the show by hosting a radio program.\nSource: crunchyroll",
       "episode_id" : 279038,
       "length" : 25,
       "number" : 8,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14U47JJV" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Shining Upon Each Other"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Terashiau Keshiki"
@@ -269,24 +274,44 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-01-05",
+      "description" : "As 283 Production`s concert draws near, Mano must choose whether or not to accept the producer`s offer and stand in the center.\nSource: crunchyroll",
       "episode_id" : 279039,
       "length" : 25,
       "number" : 9,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWU2W77K" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saisho no Yuuki"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "The First Source of Courage"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "最初の勇気"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-01-05",
+      "description" : "The girls participate in a two-day training camp, while Mano finds her confidence as the center.\nSource: crunchyroll",
       "episode_id" : 279040,
       "length" : 25,
       "number" : 10,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UDMKK3" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Irotoridori no Image"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Like a Rainbow of Colors"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "色とりどりのイメージ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -296,8 +321,14 @@
       "number" : 11,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Baton o Tsunaide"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 11"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "バトンをつないで"
       } ],
       "type" : "REGULAR"
     }, {
@@ -315,11 +346,11 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.99,
-      "total" : 11
+      "rating" : 4.04,
+      "total" : 12
     },
     "TEMPORARY" : {
-      "rating" : 5.33,
+      "rating" : 5.0,
       "total" : 12
     }
   },
@@ -340,9 +371,71 @@
   },
   "start_date" : "2023-10-27",
   "tags" : {
+    "1876" : {
+      "info_box" : true,
+      "name" : "musical band",
+      "parent_tag_id" : 2794,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2438" : {
+      "info_box" : true,
+      "name" : "idol",
+      "parent_tag_id" : 2794,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2794" : {
+      "info_box" : true,
+      "name" : "music",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

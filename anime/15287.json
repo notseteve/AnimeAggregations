@@ -175,12 +175,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.49,
-      "total" : 823
+      "rating" : 8.5,
+      "total" : 826
     },
     "TEMPORARY" : {
-      "rating" : 7.99,
-      "total" : 830
+      "rating" : 8.0,
+      "total" : 833
     }
   },
   "resources" : {
@@ -218,6 +218,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -262,6 +269,14 @@
       "info_box" : false,
       "name" : "place",
       "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2614" : {
+      "info_box" : true,
+      "name" : "josei",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

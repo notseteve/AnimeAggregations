@@ -110,11 +110,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.55,
-      "total" : 260
+      "total" : 263
     },
     "TEMPORARY" : {
-      "rating" : 6.28,
-      "total" : 263
+      "rating" : 6.27,
+      "total" : 266
     }
   },
   "resources" : {
@@ -156,6 +156,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -659,6 +666,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6083" : {
       "info_box" : false,
       "name" : "master-servant relationship",
@@ -678,6 +693,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6218" : {
+      "info_box" : false,
+      "name" : "gokkun",
+      "parent_tag_id" : 2704,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -745,6 +776,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "8038" : {
+      "info_box" : false,
+      "name" : "nipple play",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     }
   },
   "titles" : [ {

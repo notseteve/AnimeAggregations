@@ -24,11 +24,19 @@
       "name" : "Demoto Ai",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141342,
+      "name" : "Gichou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139473,
       "name" : "Hirama Rin",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139479,
+      "name" : "Kohiruimaki Ken`ichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141343,
       "name" : "Kohiruimaki Ken`ichi",
       "type" : "CHARACTER"
     }, {
@@ -40,16 +48,36 @@
       "name" : "Kurihara Kiho",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141033,
+      "name" : "Miura Tarou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139478,
       "name" : "Nakagawa Hiroshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141034,
+      "name" : "Ogino",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141035,
+      "name" : "Ojiro-senpai",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139471,
       "name" : "Ooba Keita",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141031,
+      "name" : "Sumaru Hikari",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139476,
       "name" : "Tainuma Makoto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141032,
+      "name" : "Takarada",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139475,
@@ -107,7 +135,7 @@
     }, {
       "air_date" : "2024-05-24",
       "episode_id" : 279895,
-      "length" : 0,
+      "length" : 120,
       "number" : 2,
       "recap" : false,
       "titles" : [ {
@@ -170,13 +198,21 @@
     } ]
   },
   "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.66,
+      "total" : 3
+    },
     "TEMPORARY" : {
-      "rating" : 10.0,
-      "total" : 1
+      "rating" : 6.6,
+      "total" : 5
     }
+  },
+  "related" : {
+    "FULL_STORY" : [ 18670 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "391348", "391349" ],
+    "ANISON" : [ "25376" ],
     "ANN" : [ "25464" ],
     "MAL" : [ "51358" ],
     "SYOBOI" : [ "7052" ],
@@ -240,9 +276,17 @@
     "title" : "Dededede",
     "type" : "SHORT"
   }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "d8",
+    "type" : "SHORT"
+  }, {
     "language" : "JAPANESE",
     "title" : "デデデデ",
     "type" : "SHORT"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Dead Dead Demons Dededede Destruction",
+    "type" : "SYNONYM"
   } ],
   "type" : "MOVIE",
   "url" : "https://dededede.jp/"

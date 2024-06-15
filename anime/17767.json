@@ -2,6 +2,14 @@
   "anime_id" : 17767,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 141202,
+      "name" : "Bardalos",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141200,
+      "name" : "Cecilia",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140665,
       "name" : "Doan",
       "type" : "CHARACTER"
@@ -24,6 +32,10 @@
     }, {
       "character_id" : 140525,
       "name" : "Miralys",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141201,
+      "name" : "Nessan",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140526,
@@ -121,6 +133,10 @@
     "69788" : [ {
       "name" : "Furumiya Kuji",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "76085" : [ {
+      "name" : "Tanaka Shiori",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "* Based on a fantasy light novel series written by http://anidb.net/cr69788 [Furumiya Kuji] and illustrated by http://anidb.net/cr69789 [Chibi].\nClimbing a deadly tower, http://anidb.net/ch128616 [Oscar] seeks the power of its master, the Witch of the Azure Moon. He hopes her incredible magic can break a curse that will kill any woman he takes for a wife. When the prince sees how beautiful http://anidb.net/ch128617 [Tinasha] is, though, he has a better idea-since she`s surely strong enough to survive his curse, she should just marry him instead! Tinasha isn`t keen on the idea, but agrees to live with Oscar in the royal castle for a year while researching the spell placed on the prince. The witch`s pretty face hides several lifetimes of dark secrets, however-secrets that begin resurfacing...\nSource: Yen Press\nNote: The first episode received an advance release on Kadokawa`s YouTube channel on April 3, 2024. The regular TV broadcast started on April 9, 2024.",
@@ -133,7 +149,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.87,
+        "rating" : 5.01,
         "total" : 6
       },
       "recap" : false,
@@ -161,7 +177,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.05,
+        "rating" : 5.04,
         "total" : 4
       },
       "recap" : false,
@@ -245,7 +261,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.86,
+        "rating" : 3.88,
         "total" : 1
       },
       "recap" : false,
@@ -272,7 +288,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.97,
+        "rating" : 5.98,
         "total" : 1
       },
       "recap" : false,
@@ -298,8 +314,18 @@
       "episode_id" : 280255,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 5.98,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUQ5KEP" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "La fin du rêve"
+      }, {
         "language" : "ENGLISH",
         "title" : "The End of the Dream"
       }, {
@@ -316,21 +342,92 @@
       "length" : 25,
       "number" : 8,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14U47QW3" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Green Vines"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le sarment rouge"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Midori no Tsuru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "緑の蔓"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-04",
+      "episode_id" : 281461,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWU2WN5J" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "The Things Unknown"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Wakaranai Koto"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "分からないこと"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-11",
+      "episode_id" : 281462,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Blank Slate Children"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hakushi no Kodomo-tachi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "白紙の子供たち"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-18",
+      "episode_id" : 281463,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-25",
+      "episode_id" : 281464,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.1,
-      "total" : 46
+      "rating" : 4.87,
+      "total" : 56
     },
     "TEMPORARY" : {
-      "rating" : 6.08,
-      "total" : 46
+      "rating" : 6.05,
+      "total" : 56
     }
   },
   "resources" : {

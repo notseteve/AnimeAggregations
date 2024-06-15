@@ -14,12 +14,20 @@
       "name" : "Beretta",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 136044,
+      "name" : "Blanc",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140056,
       "name" : "Carlos",
       "type" : "CHARACTER"
     }, {
       "character_id" : 99966,
       "name" : "Carrion",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 136047,
+      "name" : "Chloe Aubert",
       "type" : "CHARACTER"
     }, {
       "character_id" : 99349,
@@ -66,6 +74,10 @@
       "name" : "Frey",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141237,
+      "name" : "Gaston",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140541,
       "name" : "Getsuyou-shi Dena",
       "type" : "CHARACTER"
@@ -108,6 +120,10 @@
     }, {
       "character_id" : 97709,
       "name" : "Kaijin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 119294,
+      "name" : "Kakushin",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140542,
@@ -194,6 +210,10 @@
       "name" : "Suiyou-shi Melis",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 119192,
+      "name" : "Sukerou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 114737,
       "name" : "Suphia",
       "type" : "CHARACTER"
@@ -212,6 +232,10 @@
     }, {
       "character_id" : 98295,
       "name" : "Vesta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 119193,
+      "name" : "Yashichi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 101839,
@@ -300,8 +324,16 @@
       "name" : "Maribel Rosso",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141370,
+      "name" : "Masayuki Honjou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 96305,
       "name" : "Milim Nava",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141371,
+      "name" : "Momiji",
       "type" : "CHARACTER"
     }, {
       "character_id" : 99972,
@@ -354,6 +386,10 @@
     } ]
   },
   "creators" : {
+    "1424" : [ {
+      "name" : "Kikuchi Yasuhito",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "1543" : [ {
       "name" : "Nemoto Toshizou",
       "type" : "SERIES_COMPOSITION"
@@ -412,7 +448,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.85,
+        "rating" : 4.86,
         "total" : 8
       },
       "recap" : false,
@@ -502,7 +538,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.07,
+        "rating" : 4.08,
         "total" : 5
       },
       "recap" : false,
@@ -530,7 +566,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.63,
+        "rating" : 5.64,
         "total" : 3
       },
       "recap" : false,
@@ -558,7 +594,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.59,
+        "rating" : 3.6,
         "total" : 3
       },
       "recap" : false,
@@ -585,8 +621,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.42,
-        "total" : 2
+        "rating" : 7.1,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -611,13 +647,26 @@
       "episode_id" : 280107,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 7.63,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWUKVVMM" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Button no Kakechigai"
       }, {
+        "language" : "HUNGARIAN",
+        "title" : "Félreértés"
+      }, {
         "language" : "ENGLISH",
         "title" : "Misunderstanding"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Une succession de malentendus"
       }, {
         "language" : "JAPANESE",
         "title" : "ボタンのかけ違い"
@@ -629,9 +678,21 @@
       "length" : 25,
       "number" : 9,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XU0GG9P" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Le complot des Septenniens"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shichiyou Anyaku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "The Scheming of the Seven Days"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "七曜暗躍"
       } ],
       "type" : "REGULAR"
     }, {
@@ -640,9 +701,21 @@
       "length" : 25,
       "number" : 10,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WUN115K" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "God and Demon Lord"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kami to Maou"
+      }, {
+        "language" : "FRENCH",
+        "title" : "La déesse et le roi-démon"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "神と魔王"
       } ],
       "type" : "REGULAR"
     }, {
@@ -653,7 +726,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Reconciliation and Agreement"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Wakai to Kyoutei"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "和解と協定"
       } ],
       "type" : "REGULAR"
     }, {
@@ -675,7 +754,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.49,
+        "rating" : 2.48,
         "total" : 1
       },
       "recap" : true,
@@ -699,16 +778,39 @@
         "title" : "閑話: ディアブロ日記"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-04-05",
+      "episode_id" : 281853,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-04-05",
+      "episode_id" : 281854,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.79,
-      "total" : 66
+      "rating" : 6.13,
+      "total" : 82
     },
     "TEMPORARY" : {
-      "rating" : 6.67,
-      "total" : 67
+      "rating" : 6.94,
+      "total" : 83
     }
   },
   "related" : {
@@ -728,9 +830,23 @@
   },
   "start_date" : "2024-04-05",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -743,9 +859,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -772,9 +912,17 @@
     "title" : "О моём перерождении в слизь (2024)",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "关于我转生变成史莱姆这档事 第三季",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "転生したらスライムだった件 (2024)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "TenSura 3",
+    "type" : "SHORT"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "tensura s3",

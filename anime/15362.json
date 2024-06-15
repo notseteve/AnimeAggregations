@@ -198,7 +198,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.2,
+        "rating" : 6.19,
         "total" : 2
       },
       "recap" : false,
@@ -223,7 +223,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.47,
+        "rating" : 7.46,
         "total" : 2
       },
       "recap" : false,
@@ -248,7 +248,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.47,
+        "rating" : 7.46,
         "total" : 2
       },
       "recap" : false,
@@ -273,7 +273,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.47,
+        "rating" : 7.46,
         "total" : 2
       },
       "recap" : false,
@@ -323,7 +323,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 7.47,
+        "rating" : 7.46,
         "total" : 2
       },
       "recap" : false,
@@ -348,7 +348,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.47,
+        "rating" : 7.46,
         "total" : 2
       },
       "recap" : false,
@@ -393,12 +393,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.84,
-      "total" : 595
+      "rating" : 4.83,
+      "total" : 604
     },
     "TEMPORARY" : {
-      "rating" : 6.35,
-      "total" : 599
+      "rating" : 6.34,
+      "total" : 608
     }
   },
   "resources" : {
@@ -442,9 +442,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -489,6 +504,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "3852" : {
       "info_box" : false,
       "name" : "Bright slap",
@@ -527,6 +550,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "6233" : {
       "info_box" : false,

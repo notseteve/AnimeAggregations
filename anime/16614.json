@@ -68,8 +68,23 @@
     "WIKIPEDIA_EN" : [ "Kijin_Gentōshō" ],
     "WIKIPEDIA_JP" : [ "鬼人幻燈抄" ]
   },
-  "start_date" : "2024-06-27",
+  "start_date" : "2025",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -87,6 +102,10 @@
     }
   },
   "titles" : [ {
+    "language" : "JAPANESE",
+    "title" : "きじんげんとうしょう",
+    "type" : "KANA_READING"
+  }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Kijin Gentou Shou",
     "type" : "MAIN"

@@ -14,12 +14,20 @@
       "name" : "Hinatsuru",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 105766,
+      "name" : "Kanamori Kozo",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 105383,
       "name" : "Kanzaki Aoi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 101649,
       "name" : "Kasugaigarasu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 104020,
+      "name" : "Kibutsuji Muzan",
       "type" : "CHARACTER"
     }, {
       "character_id" : 121073,
@@ -32,6 +40,14 @@
     }, {
       "character_id" : 105381,
       "name" : "Nakahara Sumi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105647,
+      "name" : "Rengoku Kyoujurou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 101648,
+      "name" : "Sabito",
       "type" : "CHARACTER"
     }, {
       "character_id" : 101645,
@@ -58,8 +74,20 @@
       "name" : "Terauchi Kiyo",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 140938,
+      "name" : "Tomioka Tsutako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 130769,
+      "name" : "Tsugikuni Yoriichi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 117808,
       "name" : "Ubuyashiki Amane",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105757,
+      "name" : "Ubuyashiki Hinaki",
       "type" : "CHARACTER"
     }, {
       "character_id" : 101646,
@@ -72,6 +100,18 @@
     }, {
       "character_id" : 101644,
       "name" : "Ubuyashiki Kiriya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105759,
+      "name" : "Ubuyashiki Nichika",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 101650,
+      "name" : "Urokodaki Sakonji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 104024,
+      "name" : "Yushirou",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -106,6 +146,10 @@
     }, {
       "character_id" : 105068,
       "name" : "Kochou Shinobu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105768,
+      "name" : "Nakime",
       "type" : "CHARACTER"
     }, {
       "character_id" : 105758,
@@ -166,8 +210,8 @@
       "length" : 50,
       "number" : 1,
       "rating" : {
-        "rating" : 7.76,
-        "total" : 6
+        "rating" : 7.85,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -198,10 +242,23 @@
       "episode_id" : 279032,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.8,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU82Z05" ]
+      },
       "titles" : [ {
+        "language" : "HUNGARIAN",
+        "title" : "A Víz Oszlop, Tomioka Giyuu fájdalma"
+      }, {
         "language" : "GERMAN",
         "title" : "Der Schmerz der Wassersäule Tomioka Giyū"
+      }, {
+        "language" : "FRENCH",
+        "title" : "La souffrance de Tomioka Giyû, pilier de l’eau"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Mizubashira: Tomioka Giyuu no Itami"
@@ -218,10 +275,29 @@
       "episode_id" : 279033,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 5.8,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1U2JP1Q" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Fully Recovered Tanjiro Joins the Hashira Training!!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tanjirou Zenkai!! Hashira Geiko Dai Sanka"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Tanjirô est rétabli et se joint à l’entraînement !"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Tanjirō wieder topfit! Auf zum Säulentraining!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "炭治郎全快‼ 柱稽古大参加"
       } ],
       "type" : "REGULAR"
     }, {
@@ -229,10 +305,82 @@
       "episode_id" : 279034,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.02,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN2EZP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Egao ni Nareru"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Ein Lächeln im Gesicht!"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Souris"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "To Bring a Smile to One`s Face"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "笑顔になれる"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-09",
+      "episode_id" : 281399,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Einen Teufel zu fressen ..."
+      }, {
+        "language" : "ENGLISH",
+        "title" : "I Even Ate Demons..."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Oni o Kutte made..."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "鬼を喰ってまで..."
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-16",
+      "episode_id" : 281400,
+      "length" : 25,
+      "number" : 6,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-23",
+      "episode_id" : 281401,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-30",
+      "episode_id" : 281402,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -253,16 +401,41 @@
         "title" : "鬼滅テレビ -柱稽古編放送直前SP-"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "episode_id" : 281404,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "episode_id" : 281536,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 7.44,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.6,
-      "total" : 19
+      "rating" : 8.3,
+      "total" : 39
     },
     "TEMPORARY" : {
-      "rating" : 8.31,
-      "total" : 19
+      "rating" : 8.08,
+      "total" : 40
     }
   },
   "related" : {
@@ -270,6 +443,7 @@
   },
   "resources" : {
     "ALL_CINEMA" : [ "393490" ],
+    "ANISON" : [ "21875", "25318" ],
     "ANN" : [ "28695" ],
     "CRUNCHY_ROLL" : [ "GY5P48XEY" ],
     "MAL" : [ "55701" ],
@@ -333,6 +507,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "鬼滅の刃 柱稽古編",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "鬼灭之刃 柱训练篇",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

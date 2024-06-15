@@ -2,6 +2,10 @@
   "anime_id" : 18104,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 121103,
+      "name" : "Geese Nukadia",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 121115,
       "name" : "Ginger York",
       "type" : "CHARACTER"
@@ -10,13 +14,37 @@
       "name" : "Hitogami",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141282,
+      "name" : "Jinas Halfas",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 113238,
+      "name" : "Lillia",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 113236,
       "name" : "Paul Greyrat",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 121108,
+      "name" : "Shierra",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 116111,
+      "name" : "Talhand",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 121109,
+      "name" : "Vierra",
       "type" : "CHARACTER"
     }, {
       "character_id" : 114692,
       "name" : "Zense no Otoko",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 141281,
+      "name" : "Ranoa Mahou Daigaku",
+      "type" : "ORGANIZATION"
     } ],
     "MAIN" : [ {
       "character_id" : 128444,
@@ -72,6 +100,10 @@
       "name" : "Pursena Adoldia",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 110770,
+      "name" : "Roxy Migurdia",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 113235,
       "name" : "Ruijerd Superdia",
       "type" : "CHARACTER"
@@ -124,7 +156,7 @@
     } ]
   },
   "description" : "* Based on an isekai light novel series by http://anidb.net/cr57653 [Rifujin na Magonote].\nNote: The first two episodes received an early screening at a special event on March 30, 2024 at Shinjuku Wald 9 in Tokyo. The regular TV broadcast started on April 8, 2024.",
-  "end_date" : "2024-06-24",
+  "end_date" : "2024-07-01",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-08",
@@ -133,7 +165,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.51,
+        "rating" : 5.53,
         "total" : 10
       },
       "recap" : false,
@@ -164,7 +196,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.86,
+        "rating" : 5.93,
         "total" : 10
       },
       "recap" : false,
@@ -226,7 +258,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.08,
+        "rating" : 5.09,
         "total" : 6
       },
       "recap" : false,
@@ -257,7 +289,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.71,
+        "rating" : 7.72,
         "total" : 7
       },
       "recap" : false,
@@ -288,8 +320,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.09,
-        "total" : 5
+        "rating" : 6.12,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -313,11 +345,19 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-05-20",
+      "air_date" : "2024-05-27",
+      "description" : "With Nanahoshi`s help, Rudeus gains a way to shorten his journey, but he and Elinalise will still need to hurry if they hope to return before Sylphie gives birth. Their first obstacle: the harsh desert of Begaritt and its monstrous denizens.\nSource: crunchyroll",
       "episode_id" : 280484,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 4.45,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1U2JWMV" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Desert Journey"
@@ -325,19 +365,88 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Sabaku no Tabi"
       }, {
+        "language" : "FRENCH",
+        "title" : "Voyage dans le désert"
+      }, {
         "language" : "JAPANESE",
         "title" : "砂漠の旅"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-05-27",
+      "air_date" : "2024-06-03",
       "episode_id" : 280485,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 6.79,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN2G3N" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Into the Labyrinth"
+      }, {
+        "language" : "FRENCH",
+        "title" : "L`entrée dans le labyrinthe"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Meikyuu Iri"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "迷宮入り"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-10",
+      "episode_id" : 281386,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai Roku Kaisou no Mahoujin"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Magic Circles of the Sixth Stratum"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第六階層の魔法陣"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-17",
+      "episode_id" : 281387,
+      "length" : 25,
+      "number" : 10,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-24",
+      "episode_id" : 281388,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-01",
+      "episode_id" : 281389,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -358,16 +467,37 @@
         "title" : "第2クール先行上映イベント"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-05-20",
+      "episode_id" : 281390,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ten`i Meikyuu Hen: Housou Chokuzen Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "転移迷宮編 放送直前スペシャル"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.49,
-      "total" : 76
+      "total" : 91
+    },
+    "REVIEW" : {
+      "rating" : 3.66,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 7.44,
-      "total" : 79
+      "rating" : 7.47,
+      "total" : 94
     }
   },
   "related" : {
@@ -449,6 +579,10 @@
     "language" : "JAPANESE",
     "title" : "無職転生II ~異世界行ったら本気だす~ (2024)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "UNKNOWN",
+    "title" : "mushokutensei s2p2",
+    "type" : "SHORT"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",

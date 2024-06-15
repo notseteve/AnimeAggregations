@@ -199,7 +199,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.15,
+        "rating" : 7.16,
         "total" : 33
       },
       "recap" : false,
@@ -274,7 +274,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.79,
+        "rating" : 5.8,
         "total" : 24
       },
       "recap" : false,
@@ -349,7 +349,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.39,
+        "rating" : 7.4,
         "total" : 23
       },
       "recap" : false,
@@ -399,7 +399,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.21,
+        "rating" : 8.22,
         "total" : 26
       },
       "recap" : false,
@@ -474,7 +474,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.57,
+        "rating" : 6.58,
         "total" : 20
       },
       "recap" : false,
@@ -599,7 +599,7 @@
       "length" : 25,
       "number" : 17,
       "rating" : {
-        "rating" : 7.28,
+        "rating" : 7.29,
         "total" : 18
       },
       "recap" : false,
@@ -649,7 +649,7 @@
       "length" : 25,
       "number" : 19,
       "rating" : {
-        "rating" : 7.31,
+        "rating" : 7.32,
         "total" : 20
       },
       "recap" : false,
@@ -749,7 +749,7 @@
       "length" : 25,
       "number" : 23,
       "rating" : {
-        "rating" : 8.8,
+        "rating" : 8.81,
         "total" : 15
       },
       "recap" : false,
@@ -774,7 +774,7 @@
       "length" : 25,
       "number" : 24,
       "rating" : {
-        "rating" : 6.75,
+        "rating" : 6.77,
         "total" : 16
       },
       "recap" : false,
@@ -799,7 +799,7 @@
       "length" : 25,
       "number" : 25,
       "rating" : {
-        "rating" : 7.52,
+        "rating" : 7.53,
         "total" : 16
       },
       "recap" : false,
@@ -1122,7 +1122,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 9.02,
-      "total" : 4430
+      "total" : 4441
     },
     "REVIEW" : {
       "rating" : 7.44,
@@ -1130,7 +1130,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.35,
-      "total" : 4459
+      "total" : 4470
     }
   },
   "related" : {
@@ -1165,6 +1165,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "1018" : {
+      "info_box" : false,
+      "name" : "middle school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "1152" : {
       "info_box" : false,
@@ -1294,6 +1302,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
@@ -1310,6 +1326,22 @@
       "verified" : false,
       "weight" : 300
     },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2630" : {
       "info_box" : false,
       "name" : "Earth",
@@ -1325,6 +1357,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2640" : {
+      "info_box" : false,
+      "name" : "alternative past",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2641" : {
+      "info_box" : false,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2642" : {
+      "info_box" : false,
+      "name" : "alternative present",
+      "parent_tag_id" : 2624,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2648" : {
       "info_box" : true,
@@ -1366,6 +1422,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2690" : {
+      "info_box" : false,
+      "name" : "Tokugawa period",
+      "parent_tag_id" : 2641,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2749" : {
       "info_box" : false,
       "name" : "nudity",
@@ -1389,6 +1453,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2799" : {
       "info_box" : true,
@@ -1486,6 +1558,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2964" : {
+      "info_box" : false,
+      "name" : "OP variety",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3013" : {
       "info_box" : false,
       "name" : "Newtype Anime Award",
@@ -1494,10 +1574,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3185" : {
       "info_box" : false,
       "name" : "wordplay",
       "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3276" : {
+      "info_box" : false,
+      "name" : "plot twists",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3546" : {
+      "info_box" : false,
+      "name" : "experimental animation",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1526,10 +1630,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "4222" : {
+      "info_box" : false,
+      "name" : "walls of text",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4333" : {
       "info_box" : false,
       "name" : "predominantly female cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5227" : {
+      "info_box" : false,
+      "name" : "alternating animation style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5697" : {
+      "info_box" : false,
+      "name" : "randomness",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1542,6 +1678,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5875" : {
+      "info_box" : false,
+      "name" : "jealousy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5952" : {
       "info_box" : false,
       "name" : "end of the world",
@@ -1549,6 +1693,14 @@
       "spoiler" : true,
       "verified" : false,
       "weight" : 200
+    },
+    "5980" : {
+      "info_box" : false,
+      "name" : "live-action imagery",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6151" : {
       "info_box" : false,

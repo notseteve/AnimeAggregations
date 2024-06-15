@@ -220,7 +220,7 @@
       "length" : 100,
       "number" : 1,
       "rating" : {
-        "rating" : 6.05,
+        "rating" : 6.04,
         "total" : 5
       },
       "recap" : false,
@@ -251,7 +251,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.23,
-      "total" : 965
+      "total" : 966
     },
     "REVIEW" : {
       "rating" : 6.99,
@@ -259,7 +259,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.44,
-      "total" : 979
+      "total" : 980
     }
   },
   "related" : {
@@ -369,6 +369,14 @@
     "2796" : {
       "info_box" : true,
       "name" : "movie",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
       "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
@@ -485,6 +493,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "DRAGON BALL超[スーパー] ブロリー",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ITALIAN",
+    "title" : "Dragon Ball Super - Broly",
     "type" : "OFFICIAL"
   }, {
     "language" : "PORTUGUESE",

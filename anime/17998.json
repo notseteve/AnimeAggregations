@@ -10,6 +10,10 @@
       "name" : "Awa Tendou (Young)",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141094,
+      "name" : "Hayashi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140274,
       "name" : "Hibino Hanao",
       "type" : "CHARACTER"
@@ -50,6 +54,23 @@
       "character_id" : 132600,
       "name" : "Rupa",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 141090,
+      "name" : "Ai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141092,
+      "name" : "Hina",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141091,
+      "name" : "Nana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141093,
+      "name" : "Rin",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -79,8 +100,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.99,
-        "total" : 5
+        "rating" : 6.04,
+        "total" : 6
       },
       "recap" : false,
       "titles" : [ {
@@ -100,8 +121,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.43,
-        "total" : 4
+        "rating" : 6.51,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -121,8 +142,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.93,
-        "total" : 4
+        "rating" : 5.33,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -142,7 +163,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.41,
+        "rating" : 4.42,
         "total" : 3
       },
       "recap" : false,
@@ -184,8 +205,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.42,
-        "total" : 2
+        "rating" : 5.65,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -205,8 +226,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.26,
-        "total" : 2
+        "rating" : 5.12,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -225,6 +246,10 @@
       "episode_id" : 280374,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 9.79,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -242,10 +267,20 @@
       "episode_id" : 281232,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 2.42,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 9"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaketa Tsuki ga Dete Ita"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "欠けた月が出ていた"
       } ],
       "type" : "REGULAR"
     }, {
@@ -257,6 +292,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 10"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Wandervogel"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ワンダーフォーゲル"
       } ],
       "type" : "REGULAR"
     }, {
@@ -296,12 +337,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.83,
-      "total" : 34
+      "rating" : 5.98,
+      "total" : 39
     },
     "TEMPORARY" : {
-      "rating" : 6.12,
-      "total" : 36
+      "rating" : 6.34,
+      "total" : 42
     }
   },
   "resources" : {
@@ -345,6 +386,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2794" : {
       "info_box" : true,
       "name" : "music",
@@ -368,6 +416,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "5862" : {
+      "info_box" : false,
+      "name" : "melodrama",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

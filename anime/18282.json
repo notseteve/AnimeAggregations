@@ -78,6 +78,7 @@
     "ALL_CINEMA" : [ "393242" ],
     "ANN" : [ "30707" ],
     "MAL" : [ "57217" ],
+    "SYOBOI" : [ "7086" ],
     "TWITTER" : [ "mahoaku_anime" ],
     "WEBSITE" : [ "https://mahoaku-anime.com/" ],
     "WIKIPEDIA_EN" : [ "The_Magical_Girl_and_the_Evil_Lieutenant_Used_to_Be_Archenemies" ],
@@ -85,9 +86,24 @@
   },
   "start_date" : "2024-07-09",
   "tags" : {
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6494" : {
+      "info_box" : true,
+      "name" : "half-length episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

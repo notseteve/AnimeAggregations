@@ -89,12 +89,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.12,
-      "total" : 227
+      "rating" : 4.09,
+      "total" : 229
     },
     "TEMPORARY" : {
-      "rating" : 5.67,
-      "total" : 232
+      "rating" : 5.64,
+      "total" : 234
     }
   },
   "resources" : {
@@ -108,6 +108,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -394,6 +401,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4520" : {
       "info_box" : false,
       "name" : "betrayal",
@@ -418,9 +433,25 @@
       "verified" : false,
       "weight" : 200
     },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

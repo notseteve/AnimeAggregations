@@ -283,18 +283,19 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.66,
-      "total" : 32
+      "rating" : 7.36,
+      "total" : 36
     },
     "TEMPORARY" : {
-      "rating" : 7.04,
-      "total" : 32
+      "rating" : 6.9,
+      "total" : 36
     }
   },
   "related" : {
     "PREQUEL" : [ 15648 ]
   },
   "resources" : {
+    "AMAZON_PRIME" : [ "0JE7VFCVCFISEXJFL6G9HVD38W" ],
     "BAIDU_BAIKE" : [ "天官赐福贰/59274771" ],
     "BANGUMI" : [ "289102" ],
     "BILI_BILI" : [ "bangumi/media/md28235383" ],
@@ -310,6 +311,82 @@
   },
   "start_date" : "2023-10-18",
   "tags" : {
+    "1396" : {
+      "info_box" : false,
+      "name" : "immortality",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1760" : {
+      "info_box" : true,
+      "name" : "bishounen",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2783" : {
+      "info_box" : true,
+      "name" : "shounen ai",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6152" : {
       "info_box" : false,
       "name" : "Chinese production",
@@ -321,6 +398,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
