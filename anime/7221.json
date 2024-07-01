@@ -116,7 +116,7 @@
       "length" : 165,
       "number" : 1,
       "rating" : {
-        "rating" : 9.1,
+        "rating" : 9.11,
         "total" : 24
       },
       "recap" : false,
@@ -267,7 +267,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 9.39,
-      "total" : 6944
+      "total" : 6953
     },
     "REVIEW" : {
       "rating" : 8.09,
@@ -275,7 +275,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.66,
-      "total" : 7005
+      "total" : 7014
     }
   },
   "related" : {
@@ -300,6 +300,10 @@
     "7729" : {
       "rating" : 4.871794871794871,
       "total" : 39
+    },
+    "13691" : {
+      "rating" : 10.0,
+      "total" : 2
     }
   },
   "start_date" : "2010-02-06",
@@ -448,6 +452,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2669" : {
       "info_box" : true,
       "name" : "school clubs",
@@ -472,10 +484,26 @@
       "verified" : false,
       "weight" : 300
     },
+    "2770" : {
+      "info_box" : false,
+      "name" : "violent retribution for accidental infringement",
+      "parent_tag_id" : 2653,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2817" : {
+      "info_box" : false,
+      "name" : "skimpy clothing",
+      "parent_tag_id" : 2856,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -511,6 +539,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2869" : {
       "info_box" : true,
@@ -607,6 +659,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "4222" : {
+      "info_box" : false,
+      "name" : "walls of text",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4227" : {
+      "info_box" : false,
+      "name" : "detailed landscapes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4417" : {
       "info_box" : false,
       "name" : "existentialism",
@@ -623,10 +691,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "4517" : {
+      "info_box" : false,
+      "name" : "inter-dimensional schoolgirl",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4614" : {
       "info_box" : false,
       "name" : "narration",
       "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5227" : {
+      "info_box" : false,
+      "name" : "alternating animation style",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -713,6 +797,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -248,7 +248,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.63,
+        "rating" : 8.64,
         "total" : 14
       },
       "recap" : false,
@@ -273,7 +273,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.79,
+        "rating" : 7.8,
         "total" : 13
       },
       "recap" : false,
@@ -348,7 +348,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.08,
+        "rating" : 7.09,
         "total" : 13
       },
       "recap" : false,
@@ -514,7 +514,7 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 7.55,
+        "rating" : 7.54,
         "total" : 3
       },
       "recap" : false,
@@ -599,11 +599,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.51,
-      "total" : 2627
+      "total" : 2631
     },
     "TEMPORARY" : {
       "rating" : 8.03,
-      "total" : 2640
+      "total" : 2644
     }
   },
   "related" : {
@@ -625,6 +625,14 @@
   },
   "start_date" : "2015-10-04",
   "tags" : {
+    "627" : {
+      "info_box" : false,
+      "name" : "lingerie",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "1152" : {
       "info_box" : false,
       "name" : "undead",
@@ -656,6 +664,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2605" : {
       "info_box" : false,
@@ -715,6 +730,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2624" : {
       "info_box" : false,
       "name" : "present",
@@ -739,6 +762,22 @@
       "verified" : false,
       "weight" : 600
     },
+    "2654" : {
+      "info_box" : false,
+      "name" : "medium awareness",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2655" : {
+      "info_box" : false,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2672" : {
       "info_box" : false,
       "name" : "Japan",
@@ -747,10 +786,50 @@
       "verified" : false,
       "weight" : 600
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2816" : {
+      "info_box" : false,
+      "name" : "sexual fantasies",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2821" : {
+      "info_box" : false,
+      "name" : "sudden naked girl appearance",
+      "parent_tag_id" : 2856,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -771,6 +850,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2844" : {
+      "info_box" : true,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2849" : {
       "info_box" : true,
       "name" : "fantasy",
@@ -778,6 +865,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2852" : {
+      "info_box" : false,
+      "name" : "thriller",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2853" : {
       "info_box" : false,
@@ -787,10 +882,50 @@
       "verified" : false,
       "weight" : 100
     },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2859" : {
+      "info_box" : false,
+      "name" : "harem",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2869" : {
       "info_box" : false,
       "name" : "school life",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2887" : {
+      "info_box" : true,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2910" : {
+      "info_box" : false,
+      "name" : "parental abandonment",
+      "parent_tag_id" : 6249,
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
@@ -803,6 +938,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3185" : {
       "info_box" : false,
       "name" : "wordplay",
@@ -811,10 +954,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "3395" : {
+      "info_box" : false,
+      "name" : "promise",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3683" : {
       "info_box" : false,
       "name" : "storytelling",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3734" : {
+      "info_box" : false,
+      "name" : "school rivalry",
+      "parent_tag_id" : 5826,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -835,10 +994,74 @@
       "verified" : false,
       "weight" : 0
     },
+    "4246" : {
+      "info_box" : false,
+      "name" : "childhood promise",
+      "parent_tag_id" : 3395,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5697" : {
+      "info_box" : false,
+      "name" : "randomness",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5781" : {
       "info_box" : false,
       "name" : "exorcism",
       "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5826" : {
+      "info_box" : false,
+      "name" : "rivalry",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5835" : {
+      "info_box" : false,
+      "name" : "Gainax bounce",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6070" : {
+      "info_box" : false,
+      "name" : "mystery",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -853,6 +1076,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

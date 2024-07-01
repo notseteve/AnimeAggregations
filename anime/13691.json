@@ -138,7 +138,7 @@
       "length" : 150,
       "number" : 1,
       "rating" : {
-        "rating" : 6.77,
+        "rating" : 6.78,
         "total" : 2
       },
       "recap" : false,
@@ -183,7 +183,7 @@
       "length" : 30,
       "number" : 4,
       "rating" : {
-        "rating" : 4.74,
+        "rating" : 4.73,
         "total" : 6
       },
       "recap" : false,
@@ -198,7 +198,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.33,
+        "rating" : 4.32,
         "total" : 6
       },
       "recap" : false,
@@ -213,7 +213,7 @@
       "length" : 30,
       "number" : 6,
       "rating" : {
-        "rating" : 5.77,
+        "rating" : 5.76,
         "total" : 5
       },
       "recap" : false,
@@ -296,12 +296,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.44,
-      "total" : 1088
+      "rating" : 8.45,
+      "total" : 1090
     },
     "TEMPORARY" : {
       "rating" : 7.92,
-      "total" : 1096
+      "total" : 1098
     }
   },
   "related" : {
@@ -318,6 +318,12 @@
     "WEBSITE" : [ "https://www.monogatari-series.com/zokuowarimonogatari/" ],
     "WIKIPEDIA_EN" : [ "Monogatari_(series)" ],
     "WIKIPEDIA_JP" : [ "続・終物語" ]
+  },
+  "similar" : {
+    "7221" : {
+      "rating" : 10.0,
+      "total" : 2
+    }
   },
   "start_date" : "2018-11-10",
   "tags" : {
@@ -395,6 +401,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2630" : {
       "info_box" : false,
       "name" : "Earth",
@@ -455,6 +469,14 @@
       "info_box" : false,
       "name" : "Asia",
       "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2838" : {
+      "info_box" : true,
+      "name" : "parallel world",
+      "parent_tag_id" : 2628,
       "spoiler" : false,
       "verified" : false,
       "weight" : 600

@@ -72,12 +72,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.6,
-      "total" : 59
+      "rating" : 3.74,
+      "total" : 63
     },
     "TEMPORARY" : {
-      "rating" : 5.2,
-      "total" : 62
+      "rating" : 5.25,
+      "total" : 66
     }
   },
   "related" : {
@@ -98,6 +98,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "893" : {
+      "info_box" : false,
+      "name" : "dominatrix",
+      "parent_tag_id" : 2729,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "2072" : {
       "info_box" : false,
       "name" : "maid",
@@ -117,6 +125,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -325,10 +340,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3955" : {
       "info_box" : false,
       "name" : "DESCRIPTION MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -360,6 +391,14 @@
       "name" : "gokkun",
       "parent_tag_id" : 2704,
       "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
       "verified" : false,
       "weight" : 0
     },

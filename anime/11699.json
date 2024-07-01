@@ -235,7 +235,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.81,
+        "rating" : 4.8,
         "total" : 6
       },
       "recap" : false,
@@ -881,12 +881,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.47,
-      "total" : 1239
+      "rating" : 6.48,
+      "total" : 1242
     },
     "TEMPORARY" : {
       "rating" : 7.14,
-      "total" : 1241
+      "total" : 1244
     }
   },
   "related" : {
@@ -923,6 +923,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2565" : {
       "info_box" : false,
@@ -974,9 +982,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1179,6 +1202,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "3618" : {
+      "info_box" : false,
+      "name" : "ocean",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "3683" : {
       "info_box" : false,

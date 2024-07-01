@@ -94,7 +94,7 @@
       "length" : 30,
       "number" : 2,
       "rating" : {
-        "rating" : 7.14,
+        "rating" : 7.13,
         "total" : 3
       },
       "recap" : false,
@@ -125,7 +125,8 @@
     "ALL_CINEMA" : [ "159534" ],
     "ANN" : [ "9359" ],
     "MAL" : [ "4802" ],
-    "VNDB" : [ "v2351" ]
+    "VNDB" : [ "v2351" ],
+    "WIKIPEDIA_JP" : [ "河原崎家の一族" ]
   },
   "start_date" : "1996-11-29",
   "tags" : {
@@ -225,6 +226,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2615" : {
       "info_box" : true,
       "name" : "18 restricted",
@@ -240,6 +249,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2634" : {
+      "info_box" : false,
+      "name" : "countryside",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2695" : {
       "info_box" : false,
@@ -325,6 +342,14 @@
       "info_box" : false,
       "name" : "shibari",
       "parent_tag_id" : 2901,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2747" : {
+      "info_box" : false,
+      "name" : "hidden vibrator",
+      "parent_tag_id" : 2900,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -417,6 +442,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2884" : {
+      "info_box" : false,
+      "name" : "psychoactive drugs",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "2891" : {
       "info_box" : false,
       "name" : "breasts",
@@ -505,10 +538,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "4318" : {
+      "info_box" : false,
+      "name" : "plot with porn",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4333" : {
       "info_box" : false,
       "name" : "predominantly female cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -520,6 +577,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "5786" : {
+      "info_box" : false,
+      "name" : "erotic asphyxiation",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6070" : {
+      "info_box" : false,
+      "name" : "mystery",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6151" : {
       "info_box" : false,
@@ -547,6 +620,22 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -582,6 +671,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7402" : {
+      "info_box" : false,
+      "name" : "corrupt nobility",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "7633" : {
       "info_box" : false,
