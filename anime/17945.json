@@ -1,6 +1,19 @@
 {
   "anime_id" : 17945,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 141918,
+      "name" : "Hanaoka Makoto (Youshouki)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141917,
+      "name" : "Hayase",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141919,
+      "name" : "Taiga Ryuuji (Youshouki)",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 138102,
       "name" : "Aoi Saki",
@@ -44,31 +57,92 @@
     "62746" : [ {
       "name" : "Shinkai Shouto",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Shinkai Shouto",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "71268" : [ {
       "name" : "Pom",
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on a romance manga by http://anidb.net/cr71268 [Pom].\nCan true love really overcome any obstacles? http://anidb.net/ch138102 [Saki], a high school student, confesses her feelings to http://anidb.net/ch138101 [Makoto]. Taken aback, Makoto reveals his secret, but the sudden discovery doesn`t seem to bother Saki who is already head over heels for him. After being rejected, Saki asks http://anidb.net/ch138100 [Ryuuji], Makoto`s childhood friend, for some advice on how to win his heart. A love triangle unfolds when Ryuuji realizes that he might also have some feelings for his old friend.\nSource: Webtoons",
+  "description" : "* Based on a romance manga by http://anidb.net/cr71268 [Pom].\nCan true love really overcome any obstacles? http://anidb.net/ch138102 [Saki], a high school student, confesses her feelings to http://anidb.net/ch138101 [Makoto]. Taken aback, Makoto reveals his secret, but the sudden discovery doesn`t seem to bother Saki who is already head over heels for him. After being rejected, Saki asks http://anidb.net/ch138100 [Ryuuji], Makoto`s childhood friend, for some advice on how to win his heart. A love triangle unfolds when Ryuuji realizes that he might also have some feelings for his old friend.\nSource: Webtoons\nNote: The first three episodes received an early screening at a special event on June 9, 2024 at United Cinemas Aqua City Odaiba in Tokyo. The regular TV broadcast started on July 5, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-07-05",
       "episode_id" : 280789,
-      "length" : 0,
+      "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.99,
+        "total" : 6
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9U3E0GQ" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Senpai Is an Otokonoko"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Senpai wa Otokonoko"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "先輩はおとこのこ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-12",
+      "episode_id" : 283951,
+      "length" : 25,
+      "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-19",
+      "episode_id" : 283952,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-26",
+      "episode_id" : 283953,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.56,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 5.34,
+      "total" : 16
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "392438" ],
     "ANN" : [ "27618" ],
+    "CRUNCHY_ROLL" : [ "GW4HM7WP9" ],
     "MAL" : [ "54855" ],
+    "SYOBOI" : [ "7119" ],
     "TWITTER" : [ "painoko_anime" ],
     "WEBSITE" : [ "https://senpaiha-otokonoko.com/" ],
     "WIKIPEDIA_EN" : [ "Senpai_Is_an_Otokonoko" ],
@@ -187,6 +261,18 @@
     "language" : "JAPANESE",
     "title" : "先輩はおとこのこ",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "學姊是男孩",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "painoko",
+    "type" : "SHORT"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "前辈是伪娘",
+    "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",
     "title" : "Senpai Is an Otokonoko: this is him (can`t be anyone else)",

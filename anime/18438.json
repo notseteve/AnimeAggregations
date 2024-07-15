@@ -15,6 +15,14 @@
       "name" : "Adaka Tomohiro",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141723,
+      "name" : "Civit Gartland",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141722,
+      "name" : "Eve Speed",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140936,
       "name" : "Kashima Kobato",
       "type" : "CHARACTER"
@@ -23,8 +31,16 @@
       "name" : "Kirihara Takuto",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141725,
+      "name" : "Lisbeth",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141724,
+      "name" : "Nyantan Kikipat",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140931,
-      "name" : "Oyamada Shougo",
+      "name" : "Odawara Shougo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140330,
@@ -81,25 +97,89 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on a fantasy isekai light novel series written by http://anidb.net/cr75215 [Shinozaki Kaoru] and illustrated by http://anidb.net/cr75216 [KWKM].\nAbruptly catapulted into a fantasy world, http://anidb.net/ch140332 [Mimori Touka] and his classmates have been summoned by the world`s resident http://anidb.net/ch140331 [Goddess] to serve as heroes. Luckily, most of the students display amazing skills upon arrival—except for Mimori, whose abilities bottom out at a measly E-rank. With no further use for him, the Goddess banishes Mimori to a dungeon from which no one has ever returned alive. Yet, as it turns out, Mimori`s skills aren`t so much worthless as they are abnormal. Abnormally powerful, even. If Mimori can only claw his way back to the surface, nothing will stand in his way from getting revenge.\nSource: Seven Seas Entertainment",
+  "description" : "* Based on a fantasy isekai light novel series written by http://anidb.net/cr75215 [Shinozaki Kaoru] and illustrated by http://anidb.net/cr75216 [KWKM].\nAbruptly catapulted into a fantasy world, http://anidb.net/ch140332 [Mimori Touka] and his classmates have been summoned by the world`s resident http://anidb.net/ch140331 [Goddess] to serve as heroes. Luckily, most of the students display amazing skills upon arrival—except for Mimori, whose abilities bottom out at a measly E-rank. With no further use for him, the Goddess banishes Mimori to a dungeon from which no one has ever returned alive. Yet, as it turns out, Mimori`s skills aren`t so much worthless as they are abnormal. Abnormally powerful, even. If Mimori can only claw his way back to the surface, nothing will stand in his way from getting revenge.\nSource: Seven Seas Entertainment\nNote: The first two episodes received an early screening at a special event on May 19, 2024 at Grand Cinema Sunshine Ikebukuro in Tokyo. The regular TV broadcast started on July 5, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-07-05",
       "episode_id" : 281405,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.12,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWU2WGDJ" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shoukan o Tsugeshi Megami"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Goddess Announcing Her Summons"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "召喚を告[つげ]し女神"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-12",
+      "episode_id" : 283948,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Haiki Iseki"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Ruins of Disposal"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "廃棄遺跡"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-19",
+      "episode_id" : 283949,
+      "length" : 25,
+      "number" : 3,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-26",
+      "episode_id" : 283950,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.36,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 5.5,
+      "total" : 8
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "393265" ],
     "ANN" : [ "31709" ],
+    "CRUNCHY_ROLL" : [ "G3KHEVD3E" ],
     "MAL" : [ "57892" ],
+    "SYOBOI" : [ "7141" ],
     "TWITTER" : [ "hazurewaku_info" ],
     "WEBSITE" : [ "https://hazurewaku-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Failure_Frame" ],
@@ -152,10 +232,25 @@
       "verified" : false,
       "weight" : 400
     },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5205" : {
       "info_box" : false,
       "name" : "dungeon",
       "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -194,23 +289,23 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete o Juurin Suru made",
+    "title" : "Hazure Waku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete o Juurin Suru made",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "ハズレ枠の[状態異常スキル]で最強になった俺がすべてを蹂躙するまで",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells",
-    "type" : "SYNONYM"
-  }, {
-    "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Hazure Waku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete o Juurin Suru made",
-    "type" : "SYNONYM"
-  }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Hazurewaku",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

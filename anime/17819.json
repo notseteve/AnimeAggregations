@@ -85,7 +85,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.99,
+        "rating" : 7.98,
         "total" : 3
       },
       "recap" : false,
@@ -106,7 +106,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.99,
+        "rating" : 7.98,
         "total" : 3
       },
       "recap" : false,
@@ -127,7 +127,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 9.27,
+        "rating" : 9.26,
         "total" : 3
       },
       "recap" : false,
@@ -148,7 +148,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.75,
+        "rating" : 6.74,
         "total" : 3
       },
       "recap" : false,
@@ -169,7 +169,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.99,
+        "rating" : 7.98,
         "total" : 3
       },
       "recap" : false,
@@ -190,7 +190,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.75,
+        "rating" : 6.74,
         "total" : 3
       },
       "recap" : false,
@@ -211,7 +211,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.99,
+        "rating" : 7.98,
         "total" : 3
       },
       "recap" : false,
@@ -232,7 +232,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 4.81,
+        "rating" : 4.8,
         "total" : 2
       },
       "recap" : false,
@@ -252,6 +252,10 @@
       "episode_id" : 281565,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 4.8,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -269,10 +273,20 @@
       "episode_id" : 281566,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 9.38,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ano Hi no Kioku, Ano Hi no Omoi."
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Old Memories, Old Feelings."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あの日の記憶, あの日の想い."
       } ],
       "type" : "REGULAR"
     }, {
@@ -282,7 +296,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Confrontation and Differences."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Taiji to, Kakechigai."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "対峙と, かけ違い."
       } ],
       "type" : "REGULAR"
     }, {
@@ -351,12 +371,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.67,
-      "total" : 48
+      "rating" : 5.43,
+      "total" : 56
     },
     "TEMPORARY" : {
-      "rating" : 5.92,
-      "total" : 48
+      "rating" : 5.91,
+      "total" : 56
     }
   },
   "resources" : {
@@ -379,10 +399,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2782" : {
+      "info_box" : false,
+      "name" : "shoujo ai",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

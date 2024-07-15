@@ -10,6 +10,14 @@
       "name" : "Ema May",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141938,
+      "name" : "Enomoto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141937,
+      "name" : "Fukudanchou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140174,
       "name" : "Iwamoto Tokio",
       "type" : "CHARACTER"
@@ -48,6 +56,10 @@
     }, {
       "character_id" : 140175,
       "name" : "Shizuka Kaoru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141936,
+      "name" : "Shochou",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140177,
@@ -203,17 +215,25 @@
       "type" : "CHARACTER_DESIGN"
     } ]
   },
+  "description" : "Year Seven of the Kowa Period, in the former Hokkaido Block occupied by the Neo-Britannian Empire, live mercenary brothers known as the Nameless Mercenaries. The eldest, http://anidb.net/ch136740 [Ash], has excellent athletic ability and advanced Knightmare Frame controlling skills, while the youngest, http://anidb.net/ch136741 [Rozé], is clearheaded and oversees intel gathering and devising strategies. Due to an impregnable wall of energy called the Situmpe Wall, for four years the 100th emperor who stopped the Black Knights` liberation plan, http://anidb.net/ch139578 [Callis al Britannia], has been trying to plunge the world into chaos once again with the help of his servant, http://anidb.net/ch139587 [Norland], and his Einberg Knights. Upon receiving a request, Rozé and Ash, along with the Seven Shining Stars resistance group confront the Empire to recapture http://anidb.net/ch139583 [Princess Sakuya].\nSource: Disney+\nNote: It received an advance screening in theatres in four parts with episodes 1-3 having aired on May 10, 2024, episodes 4-6 on June 7, 2024, episodes 7-9 on July 5, 2024, and episodes 10-12 on August 2, 2024. The regular broadcast started on June 21, 2024.",
   "end_date" : "2024-08-02",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-05-10",
       "episode_id" : 279902,
-      "length" : 0,
+      "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.93,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Melting Snow"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Neige fondue: Melting Snow"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Yukige: Melting Snow"
@@ -225,15 +245,22 @@
     }, {
       "air_date" : "2024-05-10",
       "episode_id" : 279903,
-      "length" : 0,
+      "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.11,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 2"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Hyouheki: Ice Wall"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Ice Wall"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Mur de glace: Ice Wall"
       }, {
         "language" : "JAPANESE",
         "title" : "氷壁 -Ice Wall-"
@@ -242,15 +269,15 @@
     }, {
       "air_date" : "2024-05-10",
       "episode_id" : 279904,
-      "length" : 0,
+      "length" : 25,
       "number" : 3,
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 3"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kouka: Raspberry"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Raspberry"
       }, {
         "language" : "JAPANESE",
         "title" : "紅霞 -Raspberry-"
@@ -259,40 +286,58 @@
     }, {
       "air_date" : "2024-06-07",
       "episode_id" : 279905,
-      "length" : 0,
+      "length" : 25,
       "number" : 4,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hotarubi: Alliance"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "蛍火 -Alliance-"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-06-07",
       "episode_id" : 281325,
-      "length" : 0,
+      "length" : 25,
       "number" : 5,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 5"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Koubou: Damocles"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "光芒 -Damocles-"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-06-07",
       "episode_id" : 281326,
-      "length" : 0,
+      "length" : 25,
       "number" : 6,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 6"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kunoe: Lavender"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "薫衣 -Lavender-"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-07-05",
       "episode_id" : 281327,
-      "length" : 0,
+      "length" : 25,
       "number" : 7,
       "recap" : false,
       "titles" : [ {
@@ -303,7 +348,7 @@
     }, {
       "air_date" : "2024-07-05",
       "episode_id" : 281328,
-      "length" : 0,
+      "length" : 25,
       "number" : 8,
       "recap" : false,
       "titles" : [ {
@@ -314,7 +359,7 @@
     }, {
       "air_date" : "2024-07-05",
       "episode_id" : 281329,
-      "length" : 0,
+      "length" : 25,
       "number" : 9,
       "recap" : false,
       "titles" : [ {
@@ -325,7 +370,7 @@
     }, {
       "air_date" : "2024-08-02",
       "episode_id" : 281330,
-      "length" : 0,
+      "length" : 25,
       "number" : 10,
       "recap" : false,
       "titles" : [ {
@@ -336,7 +381,7 @@
     }, {
       "air_date" : "2024-08-02",
       "episode_id" : 281331,
-      "length" : 0,
+      "length" : 25,
       "number" : 11,
       "recap" : false,
       "titles" : [ {
@@ -347,7 +392,7 @@
     }, {
       "air_date" : "2024-08-02",
       "episode_id" : 281332,
-      "length" : 0,
+      "length" : 25,
       "number" : 12,
       "recap" : false,
       "titles" : [ {
@@ -357,8 +402,17 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.43,
+      "total" : 15
+    },
+    "TEMPORARY" : {
+      "rating" : 6.7,
+      "total" : 15
+    }
+  },
   "related" : {
-    "OTHER" : [ 4521 ],
     "PREQUEL" : [ 12566 ]
   },
   "resources" : {
@@ -394,12 +448,16 @@
     "title" : "Code Geass: Dakkan no Roze",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Code Geass: Roze of the Recapture",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "コードギアス 奪還のロゼ",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Code Geass: Roze of the Recapture",
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "Code Geass 夺还的罗赛",
     "type" : "SYNONYM"
   } ],
   "type" : "WEB",

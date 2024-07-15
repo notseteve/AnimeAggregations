@@ -26,12 +26,24 @@
       "name" : "Carsa Kurnoah",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141781,
+      "name" : "Ceris Voldigoad",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 128379,
       "name" : "Dai Seirei Leno",
       "type" : "CHARACTER"
     }, {
       "character_id" : 141500,
       "name" : "Dietrich Kreizen Agatha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141869,
+      "name" : "Doldread",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129864,
+      "name" : "Eges Code",
       "type" : "CHARACTER"
     }, {
       "character_id" : 112040,
@@ -76,6 +88,10 @@
     }, {
       "character_id" : 113985,
       "name" : "Jessica Arnate",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129890,
+      "name" : "Kyhilam Jiste",
       "type" : "CHARACTER"
     }, {
       "character_id" : 129867,
@@ -136,6 +152,10 @@
     }, {
       "character_id" : 141389,
       "name" : "Reize Na Ile",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141780,
+      "name" : "Revalschned",
       "type" : "CHARACTER"
     }, {
       "character_id" : 113987,
@@ -259,6 +279,7 @@
     } ]
   },
   "description" : "* Based on a fantasy romantic light novel series written by http://anidb.net/cr58843 [Shuu] and illustrated by http://anidb.net/cr42094 [Shizuma Yoshinori].",
+  "end_date" : "2024-07-25",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-12",
@@ -267,7 +288,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.83,
+        "rating" : 6.86,
         "total" : 2
       },
       "recap" : false,
@@ -298,7 +319,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.76,
+        "rating" : 4.83,
         "total" : 2
       },
       "recap" : false,
@@ -326,7 +347,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.13,
+        "rating" : 5.17,
         "total" : 2
       },
       "recap" : false,
@@ -354,7 +375,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.48,
+        "rating" : 8.5,
         "total" : 2
       },
       "recap" : false,
@@ -382,7 +403,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 1.28,
+        "rating" : 1.29,
         "total" : 2
       },
       "recap" : false,
@@ -410,7 +431,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.49,
+        "rating" : 3.52,
         "total" : 2
       },
       "recap" : false,
@@ -466,7 +487,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.12,
+        "rating" : 3.13,
         "total" : 1
       },
       "recap" : false,
@@ -494,7 +515,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 3.12,
+        "rating" : 3.13,
         "total" : 1
       },
       "recap" : false,
@@ -520,13 +541,23 @@
       "episode_id" : 281560,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 2.35,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWU2W154" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Konsekishin Liebarschend"
       }, {
         "language" : "ENGLISH",
         "title" : "Liebarschend, the God of Vestiges"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Revalschned, le dieu des traces"
       }, {
         "language" : "JAPANESE",
         "title" : "痕跡神リーバルシュネッド"
@@ -538,19 +569,38 @@
       "length" : 25,
       "number" : 11,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UDMJPZ" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "La promesse faite en rêve"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "The Promise Made in a Dream"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yume de Kawashita Yakusoku"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夢で交わした約束"
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2024-07-25",
       "episode_id" : 281562,
       "length" : 25,
       "number" : 12,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kami no Mita Yume"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "The Dream That God Saw"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "神の見た夢"
       } ],
       "type" : "REGULAR"
     } ],
@@ -569,12 +619,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.05,
-      "total" : 33
+      "rating" : 3.99,
+      "total" : 41
     },
     "TEMPORARY" : {
-      "rating" : 5.77,
-      "total" : 34
+      "rating" : 5.96,
+      "total" : 42
     }
   },
   "related" : {

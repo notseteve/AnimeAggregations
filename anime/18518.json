@@ -15,6 +15,14 @@
       "name" : "Kosugi Akari",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141662,
+      "name" : "Mamoru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141663,
+      "name" : "Saionji Rihito",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140527,
       "name" : "Super Mina",
       "type" : "CHARACTER"
@@ -36,6 +44,9 @@
     "11211" : [ {
       "name" : "Ukulele Zenjirou",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Ukulele Zenjirou",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "48386" : [ {
       "name" : "Tabuchi Natsumi",
@@ -53,6 +64,10 @@
       "name" : "Sakuma Kanade",
       "type" : "MUSIC"
     } ],
+    "68514" : [ {
+      "name" : "Zhuge Zijing",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "75686" : [ {
       "name" : "Sugiura Jirou",
       "type" : "ORIGINAL_WORK"
@@ -61,42 +76,159 @@
   "description" : "* Based on a romantic manga by http://anidb.net/cr75686 [Sugiura Jirou].\nhttp://anidb.net/ch138702 [Takuma] is a single guy who does nothing but go to work and come home. Too tired to do chores, he decides to get a robot to cook and keep house. \"http://anidb.net/ch138701 [Mina-chan]\" is such a good housekeeper, Takuma jokes that she should become his wife. Mina takes Takuma`s joke seriously, and slowly the two start doing more things together, like having a picnic outside. As time goes by, Takuma starts to fall for Mina, but can a human and a robot ever have an equal, loving relationship?\nSource: Seven Seas Entertainment",
   "episodes" : {
     "REGULAR" : [ {
-      "air_date" : "2024-07-02",
+      "air_date" : "2024-06-29",
       "episode_id" : 280754,
-      "length" : 0,
+      "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.59,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN25G5" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "An Appliance Became My Wife"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaden ga Tsuma ni Narimashita"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "家電が妻になりました"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-06",
+      "episode_id" : 283762,
+      "length" : 25,
+      "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "I Went Outdoors with My Wife"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsuma to Gaishutsu Shimashita"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "妻と外出しました"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-13",
+      "episode_id" : 283763,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-20",
+      "episode_id" : 283764,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-06-29",
+      "episode_id" : 283765,
+      "length" : 60,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Chokuzen Namahaishin"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前生配信"
+      } ],
+      "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.63,
+      "total" : 17
+    },
+    "TEMPORARY" : {
+      "rating" : 4.0,
+      "total" : 19
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "393945" ],
     "ANN" : [ "32285" ],
+    "CRUNCHY_ROLL" : [ "G79H23ZWX" ],
     "MAL" : [ "58272" ],
     "SYOBOI" : [ "7101" ],
     "TWITTER" : [ "bokutsuma_anime" ],
     "WEBSITE" : [ "https://bokutsuma-anime.com/" ],
     "WIKIPEDIA_EN" : [ "My_Wife_Has_No_Emotion" ],
-    "WIKIPEDIA_JP" : [ "僕の妻は感情がない" ]
+    "WIKIPEDIA_JP" : [ "僕の妻は感情がない" ],
+    "YOUTUBE" : [ "watch?v=YxptYLLm4zw" ]
   },
   "similar" : {
     "12" : {
       "rating" : 10.0,
+      "total" : 4
+    },
+    "5132" : {
+      "rating" : 10.0,
       "total" : 2
     }
   },
-  "start_date" : "2024-07-02",
+  "start_date" : "2024-06-29",
   "tags" : {
+    "1278" : {
+      "info_box" : true,
+      "name" : "android",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2274" : {
+      "info_box" : false,
+      "name" : "robot",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2638" : {
+      "info_box" : true,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2798" : {
       "info_box" : true,
@@ -106,9 +238,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3569" : {
+      "info_box" : false,
+      "name" : "human-android love",
+      "parent_tag_id" : 1278,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -127,13 +283,13 @@
     "title" : "Boku no Tsuma wa Kanjou ga Nai",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "My Wife Has No Emotion",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "僕の妻は感情がない",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "My Wife Has No Emotion",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://bokutsuma-anime.com/"

@@ -7,6 +7,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 141698,
+      "name" : "Ebina Hikari",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141151,
       "name" : "Fujishiro Saaya",
       "type" : "CHARACTER"
@@ -27,6 +31,18 @@
       "name" : "Jin Omi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141697,
+      "name" : "Kasai Kai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141699,
+      "name" : "Kirishima Kou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141695,
+      "name" : "Kisaragi Maria",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141147,
       "name" : "Koutei",
       "type" : "CHARACTER"
@@ -39,8 +55,20 @@
       "name" : "Midou Hisoka",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141694,
+      "name" : "Nihon`yanagi Shuuji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141696,
+      "name" : "Ouno Raion",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141141,
       "name" : "Satou Kazuhiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141693,
+      "name" : "Seraphiel",
       "type" : "CHARACTER"
     }, {
       "character_id" : 141150,
@@ -89,22 +117,83 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "Suddenly, the game begins. \"Tasuuketsu\" is a harsh survival game where the majority of players will lose. To confront the game`s powerful mastermind, http://anidb.net/ch141147 [The Emperor], male and female players will carve out their own destiny using their mysterious special powers, known as \"Privileges.\"\nSource: ANN",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-07-03",
       "episode_id" : 281832,
-      "length" : 0,
+      "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.63,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN2582" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ashita"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Tomorrow"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "明日"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-10",
+      "episode_id" : 283867,
+      "length" : 25,
+      "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-17",
+      "episode_id" : 283868,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-24",
+      "episode_id" : 283869,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.88,
+      "total" : 14
+    },
+    "TEMPORARY" : {
+      "rating" : 4.42,
+      "total" : 14
+    }
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "395358" ],
+    "ANN" : [ "31814" ],
+    "CRUNCHY_ROLL" : [ "G4PH0WJMN" ],
     "MAL" : [ "57945" ],
+    "SYOBOI" : [ "7142" ],
     "TWITTER" : [ "tasuketsu_anime" ],
     "WEBSITE" : [ "https://www.vap.co.jp/tasuketsu_anime/" ],
     "WIKIPEDIA_EN" : [ "Tasūketsu" ],
@@ -112,9 +201,188 @@
   },
   "start_date" : "2024-07-03",
   "tags" : {
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2676" : {
+      "info_box" : false,
+      "name" : "Tokyo",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3185" : {
+      "info_box" : false,
+      "name" : "wordplay",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3267" : {
+      "info_box" : false,
+      "name" : "everybody dies",
+      "parent_tag_id" : 6242,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3977" : {
+      "info_box" : false,
+      "name" : "dialogue driven",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7706" : {
+      "info_box" : false,
+      "name" : "death game",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -143,6 +411,14 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Majority Rule",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Tasuuketsu",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "多数欠",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

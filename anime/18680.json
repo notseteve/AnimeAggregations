@@ -20,6 +20,10 @@
       "type" : "REGULAR"
     } ]
   },
+  "resources" : {
+    "MAL" : [ "59120" ],
+    "WEBSITE" : [ "https://www.mediabank.co.jp/product.php?model=QNB-M140" ]
+  },
   "start_date" : "2024-09-06",
   "tags" : {
     "2604" : {
@@ -39,6 +43,13 @@
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -75,6 +86,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3932" : {
+      "info_box" : false,
+      "name" : "older female younger male",
+      "parent_tag_id" : 6073,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6073" : {
+      "info_box" : false,
+      "name" : "age difference romance",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -100,5 +135,6 @@
     "title" : "少年が大人になった夏",
     "type" : "OFFICIAL"
   } ],
-  "type" : "OVA"
+  "type" : "OVA",
+  "url" : "https://www.mediabank.co.jp/product.php?model=QNB-M140"
 }

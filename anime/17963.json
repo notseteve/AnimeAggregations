@@ -107,7 +107,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.59,
+        "rating" : 6.6,
         "total" : 4
       },
       "recap" : false,
@@ -135,7 +135,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.35,
+        "rating" : 3.37,
         "total" : 4
       },
       "recap" : false,
@@ -163,7 +163,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.48,
+        "rating" : 2.49,
         "total" : 4
       },
       "recap" : false,
@@ -191,7 +191,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.23,
+        "rating" : 6.24,
         "total" : 4
       },
       "recap" : false,
@@ -247,7 +247,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.79,
+        "rating" : 6.8,
         "total" : 3
       },
       "recap" : false,
@@ -275,7 +275,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.27,
+        "rating" : 3.3,
         "total" : 3
       },
       "recap" : false,
@@ -331,7 +331,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 4.02,
+        "rating" : 4.03,
         "total" : 2
       },
       "recap" : false,
@@ -359,8 +359,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 9.85,
-        "total" : 1
+        "rating" : 6.71,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -385,10 +385,26 @@
       "episode_id" : 281506,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 4.03,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUNK20M" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tayorareru Mono"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "The Dependable One"
+      }, {
+        "language" : "FRENCH",
+        "title" : "À la hauteur"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "頼られる者"
       } ],
       "type" : "REGULAR"
     }, {
@@ -396,10 +412,26 @@
       "episode_id" : 281507,
       "length" : 25,
       "number" : 13,
+      "rating" : {
+        "rating" : 4.03,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUZD7G0" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 13"
+        "title" : "For a Friend"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Pour un pote"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tomo no Tame"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "友のため"
       } ],
       "type" : "REGULAR"
     } ],
@@ -437,17 +469,37 @@
         "title" : "放送直前開幕式"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-06-21",
+      "episode_id" : 283587,
+      "length" : 55,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "\"Shibuya no Yoru o Mamorinuku\" Shibuya 109 Sennyuu Tokuban"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "\"渋谷の夜を守り抜く\"渋谷109潜入特番"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode S3"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.0,
-      "total" : 60
+      "rating" : 5.6,
+      "total" : 141
     },
     "TEMPORARY" : {
-      "rating" : 6.09,
-      "total" : 60
+      "rating" : 6.57,
+      "total" : 141
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 18718 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "392019" ],
@@ -578,6 +630,14 @@
   }, {
     "language" : "RUSSIAN",
     "title" : "Ветролом",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "防風少年",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "防风少年",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

@@ -72,8 +72,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.97,
-        "total" : 7
+        "rating" : 6.13,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -97,8 +97,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.06,
-        "total" : 6
+        "rating" : 5.16,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -122,8 +122,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.17,
-        "total" : 6
+        "rating" : 7.03,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -147,8 +147,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.67,
-        "total" : 6
+        "rating" : 4.79,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -172,8 +172,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.78,
-        "total" : 6
+        "rating" : 5.32,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -197,8 +197,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.42,
-        "total" : 4
+        "rating" : 8.22,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -222,8 +222,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.69,
-        "total" : 4
+        "rating" : 6.84,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -247,8 +247,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 2.68,
-        "total" : 3
+        "rating" : 3.71,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -272,8 +272,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.13,
-        "total" : 2
+        "rating" : 6.76,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -298,7 +298,7 @@
       "number" : 10,
       "rating" : {
         "rating" : 7.13,
-        "total" : 2
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -317,10 +317,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-06-16",
+      "description" : "Mireille is making a real impression at House Louvent... and it`s not a good one. Ars believes in her potential, however, leaving him at a crossroads when the complaints start coming in about her. Thankfully, Mireille has an unconventional solution!\nSource: crunchyroll",
       "episode_id" : 281359,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 6.32,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UDMXN1" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Mireille Grangeon"
@@ -334,13 +342,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-06-23",
+      "description" : "The mock battle to decide Mierille`s fate and the future of House Louvent is on!\nSource: crunchyroll",
       "episode_id" : 281360,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 4.51,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9U3EVGE" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chikai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Oath"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "誓い"
       } ],
       "type" : "REGULAR"
     } ],
@@ -365,13 +387,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.69,
-      "total" : 64
+      "rating" : 4.78,
+      "total" : 316
     },
     "TEMPORARY" : {
-      "rating" : 5.99,
-      "total" : 64
+      "rating" : 6.36,
+      "total" : 317
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 18707 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "392276" ],
@@ -388,10 +413,33 @@
   },
   "start_date" : "2024-04-07",
   "tags" : {
+    "36" : {
+      "info_box" : false,
+      "name" : "military",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "922" : {
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -424,6 +472,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
@@ -440,6 +495,30 @@
       "verified" : false,
       "weight" : 600
     },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2772" : {
+      "info_box" : false,
+      "name" : "feudal warfare",
+      "parent_tag_id" : 36,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -448,9 +527,129 @@
       "verified" : false,
       "weight" : 0
     },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3932" : {
+      "info_box" : false,
+      "name" : "older female younger male",
+      "parent_tag_id" : 6073,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4394" : {
+      "info_box" : false,
+      "name" : "defeat means friendship",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4397" : {
+      "info_box" : false,
+      "name" : "court politics",
+      "parent_tag_id" : 2867,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4565" : {
+      "info_box" : false,
+      "name" : "war-zone realities",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4665" : {
+      "info_box" : false,
+      "name" : "propaganda",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5854" : {
+      "info_box" : false,
+      "name" : "wartime propaganda",
+      "parent_tag_id" : 4665,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6073" : {
+      "info_box" : false,
+      "name" : "age difference romance",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -463,10 +662,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8057" : {
+      "info_box" : false,
+      "name" : "medieval European aesthetic",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

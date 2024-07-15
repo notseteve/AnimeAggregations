@@ -19,6 +19,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 142044,
+      "name" : "Kaibara",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141347,
       "name" : "Melos",
       "type" : "CHARACTER"
@@ -27,12 +31,28 @@
       "name" : "Sacchan",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142046,
+      "name" : "Sengoku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142045,
+      "name" : "Suzuki",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141346,
       "name" : "Waldelia",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142048,
+      "name" : "Wolff",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141345,
       "name" : "Ysha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142047,
+      "name" : "Yuriko",
       "type" : "CHARACTER"
     } ]
   },
@@ -73,27 +93,95 @@
   "description" : "An adventure in another world with cute girls by your side and video game-like powers–sounds like an anime fan`s dream, right? Not so for melancholic author Osamu Dazai, who would quite literally prefer to drop dead. Video games haven`t even been invented yet when he gets yanked into another world in 1948. Really, all the fantastical adventure he keeps running into is just getting in the way of his poetic dream of finding the perfect place to die. But no matter how much he risks his hide, everything seems to keep turning out okay.\nSource: Seven Seas Entertainment",
   "episodes" : {
     "REGULAR" : [ {
-      "air_date" : "2024-07-09",
+      "air_date" : "2024-06-22",
       "episode_id" : 282045,
-      "length" : 0,
+      "length" : 25,
       "number" : 1,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1U2J9Q1" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "I Must Commit Double-Suicide!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shinjuu Seneba!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "心中せねば!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-16",
+      "episode_id" : 284091,
+      "length" : 25,
+      "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Episode 2"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-23",
+      "episode_id" : 284092,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-30",
+      "episode_id" : 284093,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-06-22",
+      "episode_id" : 284094,
+      "length" : 50,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Party Member Dai Shuugou! Housou Chokuzen: Shin Jouhou Kaikin Tokuban"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "パーティーメンバー大集合! 放送直前・新情報解禁特番"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "393498" ],
     "ANN" : [ "26062" ],
+    "CRUNCHY_ROLL" : [ "GXJHM3G7X" ],
     "MAL" : [ "52367" ],
     "SYOBOI" : [ "7109" ],
     "TWITTER" : [ "isekaishikkaku" ],
     "WEBSITE" : [ "https://isekaishikkaku.com/" ],
     "WIKIPEDIA_EN" : [ "No_Longer_Allowed_in_Another_World" ],
-    "WIKIPEDIA_JP" : [ "異世界失格" ]
+    "WIKIPEDIA_JP" : [ "異世界失格" ],
+    "YOUTUBE" : [ "watch?v=UuoeI96EFWM" ]
+  },
+  "similar" : {
+    "5083" : {
+      "rating" : 6.666666666666666,
+      "total" : 3
+    }
   },
   "start_date" : "2024-07-09",
   "tags" : {
@@ -125,6 +213,14 @@
     "language" : "JAPANESE",
     "title" : "異世界失格",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "No Longer Human...In Another World",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "异世界失格",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://isekaishikkaku.com/"

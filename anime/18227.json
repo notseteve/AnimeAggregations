@@ -82,7 +82,7 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 3.63,
+        "rating" : 3.62,
         "total" : 3
       },
       "recap" : false,
@@ -124,7 +124,7 @@
       "length" : 35,
       "number" : 3,
       "rating" : {
-        "rating" : 3.22,
+        "rating" : 3.23,
         "total" : 2
       },
       "recap" : false,
@@ -145,7 +145,7 @@
       "length" : 30,
       "number" : 4,
       "rating" : {
-        "rating" : 3.6,
+        "rating" : 3.59,
         "total" : 1
       },
       "recap" : false,
@@ -166,7 +166,7 @@
       "length" : 30,
       "number" : 5,
       "rating" : {
-        "rating" : 3.6,
+        "rating" : 3.59,
         "total" : 1
       },
       "recap" : false,
@@ -187,7 +187,7 @@
       "length" : 30,
       "number" : 6,
       "rating" : {
-        "rating" : 3.6,
+        "rating" : 3.59,
         "total" : 1
       },
       "recap" : false,
@@ -208,7 +208,7 @@
       "length" : 30,
       "number" : 7,
       "rating" : {
-        "rating" : 3.6,
+        "rating" : 3.59,
         "total" : 1
       },
       "recap" : false,
@@ -229,7 +229,7 @@
       "length" : 30,
       "number" : 8,
       "rating" : {
-        "rating" : 3.6,
+        "rating" : 3.59,
         "total" : 1
       },
       "recap" : false,
@@ -250,7 +250,7 @@
       "length" : 30,
       "number" : 9,
       "rating" : {
-        "rating" : 3.6,
+        "rating" : 3.59,
         "total" : 1
       },
       "recap" : false,
@@ -271,7 +271,7 @@
       "length" : 30,
       "number" : 10,
       "rating" : {
-        "rating" : 3.6,
+        "rating" : 3.59,
         "total" : 1
       },
       "recap" : false,
@@ -292,7 +292,7 @@
       "length" : 30,
       "number" : 11,
       "rating" : {
-        "rating" : 3.6,
+        "rating" : 3.59,
         "total" : 1
       },
       "recap" : false,
@@ -351,25 +351,30 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.61,
-      "total" : 8
+      "rating" : 5.35,
+      "total" : 13
     },
     "TEMPORARY" : {
-      "rating" : 5.68,
-      "total" : 8
+      "rating" : 6.34,
+      "total" : 13
     }
   },
   "related" : {
-    "OTHER" : [ 7060 ]
+    "OTHER" : [ 7060 ],
+    "SAME_SETTING" : [ 4922 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "391821" ],
     "ANISON" : [ "25471" ],
     "ANN" : [ "30154" ],
+    "BANGUMI" : [ "50147" ],
+    "IMDB" : [ "tt29402539" ],
     "MAL" : [ "56840" ],
     "NETFLIX" : [ "81497635" ],
+    "TMDB" : [ "tv/236385" ],
     "WIKIPEDIA_EN" : [ "Time_Patrol_Bon" ],
-    "WIKIPEDIA_JP" : [ "T・Pぼん" ]
+    "WIKIPEDIA_JP" : [ "T・Pぼん" ],
+    "WIKIPEDIA_ZH" : [ "時光巡邏隊" ]
   },
   "start_date" : "2024-05-02",
   "tags" : {
@@ -396,6 +401,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Time Patrol Bon",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "POLISH",
+    "title" : "T・P Bon",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

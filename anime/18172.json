@@ -11,6 +11,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 141870,
+      "name" : "Carlo Rossetti",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139504,
       "name" : "Gabriella Jedda",
       "type" : "CHARACTER"
@@ -66,25 +70,93 @@
       "type" : "ANIMATION_WORK"
     } ]
   },
-  "description" : "After dying of overwork in Japan, http://anidb.net/ch136852 [Dahlia] is reborn into a world filled with magic. Raised by a master of magical toolmaking, she develops a passion for the craft and becomes engaged to her father`s apprentice. Before her father can see her wed, however, he suddenly passes away. As if this weren`t enough, on the day before their wedding, her fiancé announces that he`s in love—but not with her! Dahlia finally realizes she needs to live for herself. She vows to be her own woman from now on and devote herself to her craft, even if it`s not quite the quiet life she was hoping for! From a chance encounter with a http://anidb.net/ch136853 [knight] to starting her own company, there are challenges aplenty on the horizon. But this young craftswoman is no longer a shrinking violet—she`s Dahlia, and she`s ready to bloom.\nSource: J-Novel Club",
+  "description" : "After dying of overwork in Japan, http://anidb.net/ch136852 [Dahlia] is reborn into a world filled with magic. Raised by a master of magical toolmaking, she develops a passion for the craft and becomes engaged to her father`s apprentice. Before her father can see her wed, however, he suddenly passes away. As if this weren`t enough, on the day before their wedding, her fiancé announces that he`s in love—but not with her! Dahlia finally realizes she needs to live for herself. She vows to be her own woman from now on and devote herself to her craft, even if it`s not quite the quiet life she was hoping for! From a chance encounter with a http://anidb.net/ch136853 [knight] to starting her own company, there are challenges aplenty on the horizon. But this young craftswoman is no longer a shrinking violet—she`s Dahlia, and she`s ready to bloom.\nSource: J-Novel Club\nNote: The first episode received an early screening on July 5, 2024 at Anime Expo in Los Angeles. The regular TV broadcast started on July 6, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-07-06",
       "episode_id" : 282416,
-      "length" : 0,
+      "length" : 25,
       "number" : 1,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UDM913" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dahlia no Yume"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Dahlia`s Dream"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ダリヤの夢"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-13",
+      "episode_id" : 283883,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Carlo to no Omoide"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Memories of Being with Carlo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カルロとの思い出"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-20",
+      "episode_id" : 283884,
+      "length" : 25,
+      "number" : 3,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Episode 3"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-27",
+      "episode_id" : 283885,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-06-29",
+      "episode_id" : 283886,
+      "length" : 30,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Chokuzen SP"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前SP"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "392948" ],
     "ANN" : [ "29629" ],
+    "CRUNCHY_ROLL" : [ "GDKHZEJW0" ],
     "MAL" : [ "56449" ],
+    "SYOBOI" : [ "7125" ],
     "TWITTER" : [ "dahliya_anime" ],
     "WEBSITE" : [ "https://dahliya-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Dahlia_in_Bloom" ],
@@ -235,12 +307,16 @@
     "title" : "Madougushi Dahlia wa Utsumukanai",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Dahlia in Bloom: Crafting a Fresh Start with Magical Tools",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "魔導具師ダリヤはうつむかない",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Dahlia in Bloom",
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "魔导具师妲莉亚永不妥协",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

@@ -319,7 +319,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.72,
-      "total" : 2783
+      "total" : 2792
     },
     "REVIEW" : {
       "rating" : 6.74,
@@ -327,7 +327,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.14,
-      "total" : 2799
+      "total" : 2808
     }
   },
   "related" : {
@@ -611,6 +611,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2850" : {
+      "info_box" : false,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2851" : {
       "info_box" : false,
       "name" : "horror",
@@ -650,6 +658,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2891" : {
       "info_box" : false,
@@ -726,6 +742,14 @@
       "info_box" : false,
       "name" : "storytelling",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3797" : {
+      "info_box" : false,
+      "name" : "trapped in the body of a child",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -834,6 +858,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6078" : {
+      "info_box" : false,
+      "name" : "gotta catch them all",
+      "parent_tag_id" : 2850,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6083" : {
       "info_box" : false,
       "name" : "master-servant relationship",
@@ -892,6 +924,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -5,22 +5,42 @@
       "character_id" : 137350,
       "name" : "Ike",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 141669,
+      "name" : "Ike",
+      "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 141671,
+      "name" : "Alistair",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 137352,
       "name" : "Cefiro",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137353,
-      "name" : "Diloctene",
+      "name" : "Dairokuten",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141673,
+      "name" : "Fiorentina",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141672,
+      "name" : "Jiron",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137354,
       "name" : "Lilith",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141674,
+      "name" : "Romberg",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 137351,
-      "name" : "Sati",
+      "name" : "Satie",
       "type" : "CHARACTER"
     } ]
   },
@@ -48,31 +68,103 @@
     "75174" : [ {
       "name" : "Hata Ryousuke",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "77339" : [ {
+      "name" : "Anajiro",
+      "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "http://anidb.net/ch141669 [Ike] is a powerful magician and the leader of the Immortal Brigade, part of the Seventh Corps of the Demon Lord`s Army. He single-handedly conquers fortresses and pushes back the armies of humanity. Neither http://anidb.net/ch137353 [Dairokuten], the Demon Lord, nor Ike`s loyal soldiers know his darkest secret—he is http://anidb.net/ch137350 [a human] in hiding! But can he keep his secret safe and bring peaceful coexistence to demons and humans?\nSource: Crunchyroll\nNote: The first two episodes received an early screening at a special event on June 16, 2024 at Shinjuku Piccadilly in Tokyo. The regular broadcast started on June 26, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-06-26",
       "episode_id" : 281930,
-      "length" : 0,
+      "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.24,
+        "total" : 5
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1U2J09J" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fushi Ryodanchou Ike"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Ike, Commander of the Undying Brigade"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Ike, capitaine de la brigade immortelle"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "不死旅団長アイク"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-03",
+      "episode_id" : 283569,
+      "length" : 25,
+      "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-10",
+      "episode_id" : 283570,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-17",
+      "episode_id" : 283571,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.88,
+      "total" : 18
+    },
+    "TEMPORARY" : {
+      "rating" : 5.25,
+      "total" : 18
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "393327" ],
+    "ANISON" : [ "25515" ],
     "ANN" : [ "31656" ],
+    "CRUNCHY_ROLL" : [ "GG5H5XQDD" ],
     "MAL" : [ "57876" ],
     "SYOBOI" : [ "7106" ],
     "TWITTER" : [ "maougun_pr" ],
     "WEBSITE" : [ "https://maougun-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Maō-gun_Saikyō_no_Majutsushi_wa_Ningen_Datta" ],
     "WIKIPEDIA_JP" : [ "魔王軍最強の魔術師は人間だった" ]
+  },
+  "similar" : {
+    "17517" : {
+      "rating" : 6.666666666666666,
+      "total" : 3
+    }
   },
   "start_date" : "2024-06-26",
   "tags" : {
@@ -94,7 +186,7 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Maou Gun Saikyou no Majutsushi wa Ningen datta",
+    "title" : "Maou Gun Saikyou no Majutsushi wa Ningen Datta",
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
@@ -104,6 +196,14 @@
     "language" : "JAPANESE",
     "title" : "魔王軍最強の魔術師は人間だった",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Maou-gun Saikyou no Majutsushi wa Ningen datta",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Maougun Saikyou no Majutsushi wa Ningen Datta",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://maougun-anime.com/"

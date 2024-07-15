@@ -30,6 +30,18 @@
       "name" : "Daniel Harper",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 1688,
+      "name" : "Eileen Canaver",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 34697,
+      "name" : "Erica Simmons",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 22115,
+      "name" : "Ezalia Joule",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141467,
       "name" : "Foster",
       "type" : "CHARACTER"
@@ -66,6 +78,10 @@
       "name" : "Redelard Tradoll",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 19525,
+      "name" : "Shiho Hahnenfuss",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 135490,
       "name" : "Shura Serpentine",
       "type" : "CHARACTER"
@@ -100,6 +116,10 @@
     }, {
       "character_id" : 23164,
       "name" : "GAT-04 Windam",
+      "type" : "MECH"
+    }, {
+      "character_id" : 141920,
+      "name" : "GAT-04+AQM/E-A4E1 Jet Windam",
       "type" : "MECH"
     }, {
       "character_id" : 23167,
@@ -439,6 +459,10 @@
       "episode_id" : 268692,
       "length" : 125,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.75,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -449,12 +473,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.83,
-      "total" : 25
+      "rating" : 7.19,
+      "total" : 40
     },
     "TEMPORARY" : {
-      "rating" : 7.44,
-      "total" : 25
+      "rating" : 7.38,
+      "total" : 40
     }
   },
   "related" : {
@@ -473,12 +497,162 @@
   },
   "start_date" : "2024-01-26",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "638" : {
+      "info_box" : false,
+      "name" : "telepathy",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1286" : {
+      "info_box" : false,
+      "name" : "megalomaniac",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1559" : {
+      "info_box" : false,
+      "name" : "narcissistic",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1864" : {
+      "info_box" : false,
+      "name" : "extrasensory perception",
+      "parent_tag_id" : 2623,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2090" : {
+      "info_box" : false,
+      "name" : "trauma",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2226" : {
+      "info_box" : false,
+      "name" : "idealist",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2636" : {
+      "info_box" : false,
+      "name" : "human enhancement",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2638" : {
+      "info_box" : false,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2643" : {
+      "info_box" : false,
+      "name" : "power suit",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2655" : {
+      "info_box" : false,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2770" : {
+      "info_box" : false,
+      "name" : "violent retribution for accidental infringement",
+      "parent_tag_id" : 2653,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2815" : {
+      "info_box" : false,
+      "name" : "boobs in your face",
+      "parent_tag_id" : 6148,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2821" : {
+      "info_box" : false,
+      "name" : "sudden naked girl appearance",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2846" : {
       "info_box" : true,
@@ -487,6 +661,126 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2907" : {
+      "info_box" : false,
+      "name" : "genetic modification",
+      "parent_tag_id" : 2636,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3135" : {
+      "info_box" : false,
+      "name" : "hero complex",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3277" : {
+      "info_box" : false,
+      "name" : "bendy lasers",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3436" : {
+      "info_box" : false,
+      "name" : "human experimentation",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4081" : {
+      "info_box" : false,
+      "name" : "space battles",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4167" : {
+      "info_box" : false,
+      "name" : "air combat",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4299" : {
+      "info_box" : false,
+      "name" : "flashback",
+      "parent_tag_id" : 6148,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4474" : {
+      "info_box" : false,
+      "name" : "self-parody",
+      "parent_tag_id" : 2655,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4849" : {
+      "info_box" : false,
+      "name" : "Zaku",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5929" : {
+      "info_box" : false,
+      "name" : "space opera",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6019" : {
+      "info_box" : false,
+      "name" : "brainwashing",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6148" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO EPISODE",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

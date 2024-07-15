@@ -62,7 +62,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.2,
+        "rating" : 6.21,
         "total" : 33
       },
       "recap" : false,
@@ -242,7 +242,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.8,
+        "rating" : 7.81,
         "total" : 26
       },
       "recap" : false,
@@ -302,7 +302,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.2,
+        "rating" : 7.21,
         "total" : 24
       },
       "recap" : false,
@@ -362,7 +362,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 6.9,
+        "rating" : 6.91,
         "total" : 22
       },
       "recap" : false,
@@ -392,7 +392,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.65,
+        "rating" : 7.66,
         "total" : 24
       },
       "recap" : false,
@@ -528,7 +528,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.66,
-      "total" : 5349
+      "total" : 5354
     },
     "REVIEW" : {
       "rating" : 7.72,
@@ -536,7 +536,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.33,
-      "total" : 5386
+      "total" : 5391
     }
   },
   "related" : {
@@ -631,8 +631,8 @@
       "total" : 8
     },
     "17617" : {
-      "rating" : 5.957446808510638,
-      "total" : 47
+      "rating" : 6.041666666666666,
+      "total" : 48
     },
     "17712" : {
       "rating" : 1.6666666666666665,
@@ -652,6 +652,22 @@
       "info_box" : false,
       "name" : "military",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "760" : {
+      "info_box" : false,
+      "name" : "robot helper",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "1278" : {
+      "info_box" : false,
+      "name" : "android",
+      "parent_tag_id" : 2274,
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
@@ -679,6 +695,14 @@
       "spoiler" : true,
       "verified" : false,
       "weight" : 0
+    },
+    "2274" : {
+      "info_box" : false,
+      "name" : "robot",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2565" : {
       "info_box" : false,
@@ -784,6 +808,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2638" : {
+      "info_box" : false,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2641" : {
       "info_box" : false,
       "name" : "historical",
@@ -888,6 +920,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "2863" : {
+      "info_box" : false,
+      "name" : "proxy battles",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2866" : {
       "info_box" : false,
       "name" : "slavery",
@@ -911,6 +959,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2874" : {
       "info_box" : false,
@@ -971,6 +1027,22 @@
       "info_box" : false,
       "name" : "rotten world",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3269" : {
+      "info_box" : false,
+      "name" : "genocide",
+      "parent_tag_id" : 4316,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1067,6 +1139,14 @@
       "info_box" : false,
       "name" : "psychological",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

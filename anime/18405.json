@@ -1,6 +1,11 @@
 {
   "anime_id" : 18405,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 141967,
+      "name" : "Shimomura",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 137178,
       "name" : "Kobato Jougorou",
@@ -13,6 +18,14 @@
     "SECONDARY" : [ {
       "character_id" : 139525,
       "name" : "Doujima Kengo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141966,
+      "name" : "Takada",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141965,
+      "name" : "Yoshiguchi",
       "type" : "CHARACTER"
     } ]
   },
@@ -46,28 +59,93 @@
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
+  "description" : "http://anidb.net/ch137178 [Kobato] decides to become an honest, humble citizen after enduring a bitter experience known as \"wisdom work.\" He forms a pact with http://anidb.net/ch137177 [Osanai], his classmate with the same goal, and they plan to enter high school leading quiet lives. But for some reason, inexplicable events and disasters keep happening around them. Will Kobato and Osanai ever manage to live ordinary, peaceful lives?\nSource: Crunchyroll\nNote: The first episode received an early screening at a special event on June 30, 2024 at Kino Cinéma Shinjuku in Tokyo. The regular TV broadcast started on July 7, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-07-07",
       "episode_id" : 282044,
-      "length" : 0,
+      "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.78,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9UQEX14" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hitsuji no Kigurumi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Sheep Costume"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "羊の着ぐるみ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-14",
+      "episode_id" : 284008,
+      "length" : 25,
+      "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-21",
+      "episode_id" : 284009,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-28",
+      "episode_id" : 284010,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.64,
+      "total" : 15
+    },
+    "TEMPORARY" : {
+      "rating" : 6.59,
+      "total" : 16
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "393178" ],
     "ANN" : [ "31486" ],
+    "CRUNCHY_ROLL" : [ "G5PHNM94J" ],
     "MAL" : [ "57810" ],
+    "SYOBOI" : [ "7122" ],
     "TWITTER" : [ "shoshimin_pr" ],
     "WEBSITE" : [ "https://shoshimin-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Shōshimin" ],
     "WIKIPEDIA_JP" : [ "〈小市民〉シリーズ" ]
+  },
+  "similar" : {
+    "8855" : {
+      "rating" : 10.0,
+      "total" : 3
+    }
   },
   "start_date" : "2024-07-07",
   "tags" : {
@@ -92,13 +170,17 @@
     "title" : "Shoushimin Series",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Shoshimin: How to Become Ordinary",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "小市民シリーズ",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "How to Become Ordinary",
-    "type" : "SYNONYM"
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "小市民系列",
+    "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",
   "url" : "https://shoshimin-anime.com/"

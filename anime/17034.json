@@ -175,7 +175,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.43,
+        "rating" : 3.36,
         "total" : 4
       },
       "recap" : false,
@@ -200,7 +200,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.68,
+        "rating" : 4.51,
         "total" : 2
       },
       "recap" : false,
@@ -225,7 +225,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.18,
+        "rating" : 6.82,
         "total" : 1
       },
       "recap" : false,
@@ -250,7 +250,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.23,
+        "rating" : 6.05,
         "total" : 2
       },
       "recap" : false,
@@ -325,7 +325,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 2.06,
+        "rating" : 2.05,
         "total" : 1
       },
       "recap" : false,
@@ -350,7 +350,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 2.06,
+        "rating" : 2.05,
         "total" : 1
       },
       "recap" : false,
@@ -375,7 +375,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 2.06,
+        "rating" : 2.05,
         "total" : 1
       },
       "recap" : false,
@@ -400,7 +400,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 2.06,
+        "rating" : 2.05,
         "total" : 1
       },
       "recap" : false,
@@ -425,7 +425,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 2.06,
+        "rating" : 2.05,
         "total" : 1
       },
       "recap" : false,
@@ -450,7 +450,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 2.06,
+        "rating" : 2.05,
         "total" : 1
       },
       "recap" : false,
@@ -475,7 +475,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 2.06,
+        "rating" : 2.05,
         "total" : 1
       },
       "recap" : false,
@@ -520,12 +520,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.84,
-      "total" : 161
+      "rating" : 5.89,
+      "total" : 165
     },
     "TEMPORARY" : {
-      "rating" : 6.42,
-      "total" : 164
+      "rating" : 6.43,
+      "total" : 168
     }
   },
   "resources" : {
@@ -542,6 +542,13 @@
   },
   "start_date" : "2023-10-02",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -552,6 +559,13 @@
     "2610" : {
       "info_box" : false,
       "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -580,9 +594,73 @@
       "verified" : false,
       "weight" : 0
     },
+    "2852" : {
+      "info_box" : true,
+      "name" : "thriller",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3915" : {
+      "info_box" : false,
+      "name" : "child abuse",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5993" : {
+      "info_box" : false,
+      "name" : "black humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

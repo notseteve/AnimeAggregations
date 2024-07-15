@@ -28,6 +28,10 @@
       "name" : "Adaniya Youko",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141902,
+      "name" : "Adaniya tsubura",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140071,
       "name" : "Bunpei Tadashi",
       "type" : "CHARACTER"
@@ -75,6 +79,7 @@
     } ]
   },
   "description" : "A dramatic tale of golf and humans, set on the beautiful Tokara Islands. http://anidb.net/ch137318 [Igarashi] has thrown away his past and fled society, relocating to Hinoshima Island. Here, on \"Japan`s last hidden paradise,\" he meets http://anidb.net/ch137319 [Tonbo], the island`s only middle schooler. To his surprise, this girl harbors an extraordinary talent for golf!? This encounter marks the beginning of a significant change in their destinies.\nSource: Amazon",
+  "end_date" : "2024-06-29",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-04-06",
@@ -82,8 +87,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.09,
-        "total" : 4
+        "rating" : 5.69,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -145,7 +150,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.93,
+        "rating" : 3.94,
         "total" : 3
       },
       "recap" : false,
@@ -166,7 +171,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.72,
+        "rating" : 3.74,
         "total" : 3
       },
       "recap" : false,
@@ -187,7 +192,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.5,
+        "rating" : 7.51,
         "total" : 2
       },
       "recap" : false,
@@ -208,7 +213,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.17,
+        "rating" : 4.2,
         "total" : 3
       },
       "recap" : false,
@@ -229,7 +234,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.33,
+        "rating" : 5.36,
         "total" : 2
       },
       "recap" : false,
@@ -267,7 +272,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 8.09,
+        "rating" : 8.11,
         "total" : 1
       },
       "recap" : false,
@@ -288,7 +293,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 2.33,
+        "rating" : 2.39,
         "total" : 1
       },
       "recap" : false,
@@ -308,16 +313,37 @@
       "episode_id" : 281240,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 1.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 12"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Massugu na Kimochi"
       }, {
+        "language" : "ENGLISH",
+        "title" : "Straightforward Feelings"
+      }, {
         "language" : "JAPANESE",
         "title" : "真っ直ぐな気持ち"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-29",
+      "episode_id" : 282701,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "I`m Off!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ittekimasu!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "いってきます!"
       } ],
       "type" : "REGULAR"
     } ],
@@ -365,13 +391,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.95,
-      "total" : 25
+      "rating" : 6.83,
+      "total" : 58
     },
     "TEMPORARY" : {
-      "rating" : 6.92,
-      "total" : 26
+      "rating" : 7.05,
+      "total" : 59
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 18721 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "391824" ],
@@ -423,6 +452,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2612" : {
       "info_box" : false,
       "name" : "time",
@@ -463,6 +499,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2672" : {
       "info_box" : false,
       "name" : "Japan",
@@ -478,6 +522,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2778" : {
+      "info_box" : false,
+      "name" : "slow when it comes to love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2798" : {
       "info_box" : true,
@@ -495,6 +547,30 @@
       "verified" : false,
       "weight" : 600
     },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2869" : {
       "info_box" : false,
       "name" : "school life",
@@ -511,6 +587,45 @@
       "verified" : false,
       "weight" : 600
     },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2888" : {
+      "info_box" : false,
+      "name" : "coming of age",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3028" : {
+      "info_box" : false,
+      "name" : "real-world location",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3040" : {
       "info_box" : false,
       "name" : "male protagonist",
@@ -518,6 +633,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "3378" : {
       "info_box" : false,
@@ -535,10 +658,81 @@
       "verified" : false,
       "weight" : 0
     },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3792" : {
+      "info_box" : false,
+      "name" : "iyashi-kei",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3977" : {
+      "info_box" : false,
+      "name" : "dialogue driven",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4712" : {
+      "info_box" : false,
+      "name" : "childhood ties",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5790" : {
       "info_box" : false,
       "name" : "family without mother",
       "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6034" : {
+      "info_box" : false,
+      "name" : "Engrish",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -554,6 +748,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -582,6 +784,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Tonbo!",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "SPANISH_LATIN",
+    "title" : "¡Oye, Tonbo!",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

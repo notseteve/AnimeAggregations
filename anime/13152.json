@@ -141,7 +141,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.68,
+        "rating" : 7.67,
         "total" : 8
       },
       "recap" : false,
@@ -185,7 +185,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.0,
+        "rating" : 6.99,
         "total" : 7
       },
       "recap" : false,
@@ -339,7 +339,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 9.16,
+        "rating" : 9.15,
         "total" : 6
       },
       "recap" : false,
@@ -383,7 +383,7 @@
       "length" : 7,
       "number" : 1,
       "rating" : {
-        "rating" : 7.2,
+        "rating" : 7.19,
         "total" : 4
       },
       "recap" : false,
@@ -404,7 +404,7 @@
       "length" : 8,
       "number" : 2,
       "rating" : {
-        "rating" : 7.27,
+        "rating" : 7.26,
         "total" : 4
       },
       "recap" : false,
@@ -482,7 +482,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.93,
+        "rating" : 4.91,
         "total" : 1
       },
       "recap" : false,
@@ -594,8 +594,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.89,
-      "total" : 597
+      "rating" : 6.88,
+      "total" : 600
     },
     "REVIEW" : {
       "rating" : 8.5,
@@ -603,7 +603,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.04,
-      "total" : 604
+      "total" : 607
     }
   },
   "related" : {
@@ -650,6 +650,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2438" : {
       "info_box" : false,
@@ -741,6 +749,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2666" : {
       "info_box" : false,
       "name" : "art school",
@@ -788,6 +804,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2793" : {
       "info_box" : true,
@@ -845,6 +869,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2853" : {
       "info_box" : false,
       "name" : "comedy",
@@ -893,6 +925,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3395" : {
       "info_box" : false,
       "name" : "promise",
@@ -917,6 +957,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3831" : {
       "info_box" : false,
       "name" : "training",
@@ -929,6 +977,14 @@
       "info_box" : false,
       "name" : "ED variety",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3909" : {
+      "info_box" : false,
+      "name" : "talking is a free action",
+      "parent_tag_id" : 3683,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -973,6 +1029,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5604" : {
       "info_box" : false,
       "name" : "following one`s dream",
@@ -1001,6 +1065,14 @@
       "info_box" : false,
       "name" : "jealousy",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5889" : {
+      "info_box" : false,
+      "name" : "magic weapons",
+      "parent_tag_id" : 2094,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1038,6 +1110,22 @@
     "6233" : {
       "info_box" : false,
       "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,

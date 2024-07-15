@@ -19,7 +19,36 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 135484,
-      "name" : "Rick Gladiatol",
+      "name" : "Rick Gladiator",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 141655,
+      "name" : "Angelica Diarmuit",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141659,
+      "name" : "Freed Diarmuit",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141656,
+      "name" : "Geese Resurrect",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141657,
+      "name" : "Kelvin Urwolf",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141661,
+      "name" : "Linx Laurot",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141660,
+      "name" : "Raster Diarmuit",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141658,
+      "name" : "Snape Resurrect",
       "type" : "CHARACTER"
     } ]
   },
@@ -49,9 +78,85 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "Normally, people choose to become adventurers in their teens. At 32 years old, http://anidb.net/ch135484 [Rick Gladiator] bucks the trend by leaving his job as a guild clerk to become an adventurer. He begins as a novice F-rank with the fighting strength of an S-rank. After two years of brutal training with the continent`s strongest party, Orichalcum Fist, Rick will defeat anyone who underestimates him!\nSource: Crunchyroll",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-07-02",
+      "episode_id" : 283843,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 5.75,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14U47WD0" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "12年遅れのスタート"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Juuninen Okure no Start"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Les débuts douze ans en retard"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Starting 12 Years Late"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-09",
+      "episode_id" : 283844,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-16",
+      "episode_id" : 283845,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-23",
+      "episode_id" : 283846,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.72,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 5.25,
+      "total" : 16
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "393890" ],
+    "ANISON" : [ "25513" ],
     "ANN" : [ "27725" ],
+    "CRUNCHY_ROLL" : [ "GXJHM3GKX" ],
     "MAL" : [ "54913" ],
     "SYOBOI" : [ "7100" ],
     "TWITTER" : [ "shinmaiossan" ],
@@ -61,9 +166,236 @@
   },
   "start_date" : "2024-07-02",
   "tags" : {
+    "1609" : {
+      "info_box" : false,
+      "name" : "elf",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2655" : {
+      "info_box" : false,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2774" : {
+      "info_box" : false,
+      "name" : "spellcasting",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2817" : {
+      "info_box" : false,
+      "name" : "skimpy clothing",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3721" : {
+      "info_box" : false,
+      "name" : "RPG aspects",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4611" : {
+      "info_box" : false,
+      "name" : "nearly almighty protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -89,6 +421,10 @@
     "language" : "JAPANESE",
     "title" : "新米オッサン冒険者, 最強パーティに死ぬほど鍛えられて無敵になる.",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "UNKNOWN",
+    "title" : "Ossan Newbie",
+    "type" : "SHORT"
   }, {
     "language" : "ENGLISH",
     "title" : "The Newbie Middle-aged Adventurer Was Trained to Death by the Strongest Party and Became Unbeatable",

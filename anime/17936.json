@@ -84,12 +84,91 @@
     "71257" : [ {
       "name" : "100 Studio",
       "type" : "ANIMATION_WORK"
+    } ],
+    "77446" : [ {
+      "name" : "Horikawa Daisuke",
+      "type" : "MUSIC"
     } ]
   },
-  "description" : "* Based on an adventure fantasy manga by http://anidb.net/cr71256 [Satou Masamichi].\nhttp://anidb.net/ch131298 [Nikola] is just a village girl working at the inn...until the day dragons invade, and she meets http://anidb.net/ch131299 [Haga], a scholar of everything around him. He`s a part of an elite society called \"Seeker,\" created to address a series of maladies plaguing their usually peaceful world. But both Nikola and Haga have secrets they hide...ones that will change each other`s very existence...\nSource: Kodansha",
+  "description" : "* Based on an adventure fantasy manga by http://anidb.net/cr71256 [Satou Masamichi].\nhttp://anidb.net/ch131298 [Nikola] is just a village girl working at the inn...until the day dragons invade, and she meets http://anidb.net/ch131299 [Haga], a scholar of everything around him. He`s a part of an elite society called \"Seeker,\" created to address a series of maladies plaguing their usually peaceful world. But both Nikola and Haga have secrets they hide...ones that will change each other`s very existence...\nSource: Kodansha\nNote: The first three episodes received an early screening at a special event on June 22, 2024 at Shinjuku Piccadilly in Tokyo. The regular TV broadcast started on July 6, 2024.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-07-06",
+      "episode_id" : 283963,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 6.56,
+        "total" : 5
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUQ5JM5" ]
+      },
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Das Dienstmädchen Nikola"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Nikola the Servant Girl"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shitabataraki no Nikola"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "下働きのニコラ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-13",
+      "episode_id" : 283964,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-20",
+      "episode_id" : 283965,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-27",
+      "episode_id" : 283966,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.3,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 6.06,
+      "total" : 8
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "393497" ],
+    "ANISON" : [ "25546" ],
     "ANN" : [ "27598" ],
+    "CRUNCHY_ROLL" : [ "G24H1NW30" ],
     "MAL" : [ "54835" ],
     "SYOBOI" : [ "7102" ],
     "TWITTER" : [ "konofuka_QA" ],
@@ -139,12 +218,20 @@
     "title" : "Quality Assurance in Another World",
     "type" : "OFFICIAL"
   }, {
+    "language" : "GERMAN",
+    "title" : "Quality Assurance in Another World",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "この世界は不完全すぎる",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
     "title" : "Quality Assurance in another world.",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "这个世界漏洞百出",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

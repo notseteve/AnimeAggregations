@@ -85,7 +85,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.08,
+        "rating" : 5.04,
         "total" : 8
       },
       "recap" : false,
@@ -113,7 +113,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.11,
+        "rating" : 2.1,
         "total" : 7
       },
       "recap" : false,
@@ -141,7 +141,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.65,
+        "rating" : 3.61,
         "total" : 6
       },
       "recap" : false,
@@ -169,7 +169,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.64,
+        "rating" : 2.62,
         "total" : 6
       },
       "recap" : false,
@@ -197,7 +197,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.63,
+        "rating" : 3.6,
         "total" : 6
       },
       "recap" : false,
@@ -225,8 +225,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.05,
-        "total" : 3
+        "rating" : 5.96,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -253,7 +253,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.61,
+        "rating" : 4.52,
         "total" : 3
       },
       "recap" : false,
@@ -281,7 +281,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.82,
+        "rating" : 5.72,
         "total" : 3
       },
       "recap" : false,
@@ -309,7 +309,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.17,
+        "rating" : 6.98,
         "total" : 2
       },
       "recap" : false,
@@ -337,7 +337,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.15,
+        "rating" : 7.14,
         "total" : 1
       },
       "recap" : false,
@@ -365,7 +365,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 7.15,
+        "rating" : 7.14,
         "total" : 1
       },
       "recap" : false,
@@ -392,11 +392,18 @@
       "episode_id" : 281413,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 7.14,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G8WUN11EW" ]
       },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Le sombre palais entre mort et renaissance, Lucemia"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shi to Saisei no \"Meikyuu\" Luceimia"
       }, {
@@ -412,10 +419,26 @@
       "episode_id" : 281414,
       "length" : 25,
       "number" : 13,
+      "rating" : {
+        "rating" : 5.82,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UVEEJJ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 13"
+        "title" : "Good Game Well Played"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Good Game Well Played"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Good Game Well Played"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Good Game Well Played"
       } ],
       "type" : "REGULAR"
     } ],
@@ -440,12 +463,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.47,
-      "total" : 53
+      "rating" : 2.79,
+      "total" : 113
     },
     "TEMPORARY" : {
-      "rating" : 4.53,
-      "total" : 53
+      "rating" : 5.2,
+      "total" : 113
     }
   },
   "resources" : {
@@ -469,6 +492,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2568" : {
+      "info_box" : true,
+      "name" : "deity",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2606" : {
       "info_box" : false,
@@ -522,6 +553,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "3898" : {
+      "info_box" : false,
+      "name" : "science and magic coexist",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

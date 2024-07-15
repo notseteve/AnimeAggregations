@@ -1,16 +1,124 @@
 {
   "anime_id" : 18699,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 99458,
+      "name" : "Kamado Tanjirou",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 105752,
+      "name" : "Himejima Gyoumei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105753,
+      "name" : "Iguro Obanai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105755,
+      "name" : "Kanroji Mitsuri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105068,
+      "name" : "Kochou Shinobu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105758,
+      "name" : "Shinazugawa Sanemi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 104023,
+      "name" : "Tamayo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105754,
+      "name" : "Tokitou Muichirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 99455,
+      "name" : "Tomioka Giyuu",
+      "type" : "CHARACTER"
+    } ]
+  },
+  "creators" : {
+    "1117" : [ {
+      "name" : "Ufotable",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "55200" : [ {
+      "name" : "Gotouge Koyoharu",
+      "type" : "ORIGINAL_WORK"
+    } ]
+  },
   "description" : "* Based on an action fantasy shounen manga by http://anidb.net/cr55200 [Gotouge Koyoharu].",
+  "related" : {
+    "PREQUEL" : [ 18067 ]
+  },
   "resources" : {
+    "MAL" : [ "59192" ],
     "TWITTER" : [ "kimetsu_off" ],
+    "WEBSITE" : [ "https://kimetsu.com/anime/mugenjyohen_movie/" ],
     "WIKIPEDIA_EN" : [ "Demon_Slayer:_Kimetsu_no_Yaiba" ],
     "WIKIPEDIA_JP" : [ "鬼滅の刃" ]
   },
   "start_date" : "1970-01-01",
   "tags" : {
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -26,16 +134,17 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Kimetsu no Yaiba: Mugen-jou Hen",
+    "title" : "Gekijouban Kimetsu no Yaiba: Mugen-jou Hen",
     "type" : "MAIN"
   }, {
-    "language" : "JAPANESE",
-    "title" : "鬼滅の刃 無限城編",
+    "language" : "ENGLISH",
+    "title" : "Demon Slayer: Infinity Castle",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Demon Slayer: Infinity Castle Arc",
-    "type" : "SYNONYM"
+    "language" : "JAPANESE",
+    "title" : "劇場版 鬼滅の刃 無限城編",
+    "type" : "OFFICIAL"
   } ],
-  "type" : "MOVIE"
+  "type" : "MOVIE",
+  "url" : "https://kimetsu.com/anime/mugenjyohen_movie/"
 }

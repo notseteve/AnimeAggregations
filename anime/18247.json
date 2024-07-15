@@ -116,8 +116,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.99,
-        "total" : 7
+        "rating" : 5.4,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -141,8 +141,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.31,
-        "total" : 6
+        "rating" : 6.17,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -166,8 +166,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.56,
-        "total" : 6
+        "rating" : 6.08,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -191,8 +191,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.96,
-        "total" : 6
+        "rating" : 5.63,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -216,8 +216,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.54,
-        "total" : 6
+        "rating" : 7.65,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -241,8 +241,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.96,
-        "total" : 6
+        "rating" : 7.71,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -266,8 +266,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 3.64,
-        "total" : 4
+        "rating" : 4.58,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -291,8 +291,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.34,
-        "total" : 3
+        "rating" : 5.97,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -316,8 +316,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 3.52,
-        "total" : 3
+        "rating" : 4.51,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -341,8 +341,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 2.21,
-        "total" : 3
+        "rating" : 3.24,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -366,8 +366,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 4.14,
-        "total" : 3
+        "rating" : 5.03,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -389,7 +389,14 @@
       "episode_id" : 281409,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 3.56,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14U47QX3" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A Steamy Hot Spring Trip, Part 2"
@@ -405,12 +412,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.29,
-      "total" : 87
+      "rating" : 3.68,
+      "total" : 359
     },
     "TEMPORARY" : {
-      "rating" : 5.99,
-      "total" : 87
+      "rating" : 5.93,
+      "total" : 360
     }
   },
   "resources" : {
@@ -441,6 +448,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2605" : {
       "info_box" : false,
@@ -501,6 +515,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "2748" : {
+      "info_box" : false,
+      "name" : "sex",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -549,6 +579,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4394" : {
+      "info_box" : false,
+      "name" : "defeat means friendship",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4611" : {
       "info_box" : false,
       "name" : "nearly almighty protagonist",
@@ -583,6 +621,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

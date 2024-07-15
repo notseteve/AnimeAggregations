@@ -87,15 +87,86 @@
     "REGULAR" : [ {
       "air_date" : "2024-07-07",
       "episode_id" : 281929,
-      "length" : 0,
+      "length" : 15,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.19,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mori no Yousei"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Elf of the Forest"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "森の妖精"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-14",
+      "episode_id" : 284005,
+      "length" : 15,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-21",
+      "episode_id" : 284006,
+      "length" : 15,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-28",
+      "episode_id" : 284007,
+      "length" : 15,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-07-07",
+      "episode_id" : 284038,
+      "length" : 15,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Naoe-kun Wants You to Lose Weight Appointment 1: Elfuda"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Naoe-kun wa Yasesasetai. Yosaku 1: Elfuda"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "直江くんは痩せさせたい. 予約1 絵留札"
       } ],
-      "type" : "REGULAR"
+      "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.42,
+      "total" : 14
+    },
+    "TEMPORARY" : {
+      "rating" : 5.13,
+      "total" : 15
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "393169" ],
@@ -109,9 +180,24 @@
   },
   "start_date" : "2024-07-07",
   "tags" : {
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6494" : {
+      "info_box" : true,
+      "name" : "half-length episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -140,6 +226,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Elf Can`t Be on a Diet.",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "精灵小姐瘦不了。",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

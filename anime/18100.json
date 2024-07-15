@@ -2,8 +2,16 @@
   "anime_id" : 18100,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 18412,
+      "name" : "Aleister Chamber",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 87694,
       "name" : "Alexis Midford",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 18402,
+      "name" : "Baldroy",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140229,
@@ -20,6 +28,14 @@
     }, {
       "character_id" : 18411,
       "name" : "Elizabeth Midford",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 18403,
+      "name" : "Finnian",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 87693,
+      "name" : "Francis Midford",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140338,
@@ -42,8 +58,16 @@
       "name" : "Maurice Cole",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 18404,
+      "name" : "Mey Rin",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 18421,
       "name" : "Ran-Mao",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 65844,
+      "name" : "Snake",
       "type" : "CHARACTER"
     }, {
       "character_id" : 18409,
@@ -56,6 +80,10 @@
     }, {
       "character_id" : 11143,
       "name" : "Undertaker",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 18424,
+      "name" : "Vincent Phantomhive",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -171,7 +199,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.99,
+        "rating" : 6.01,
         "total" : 1
       },
       "recap" : false,
@@ -202,7 +230,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 2.33,
+        "rating" : 2.35,
         "total" : 1
       },
       "recap" : false,
@@ -233,7 +261,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.33,
+        "rating" : 2.35,
         "total" : 1
       },
       "recap" : false,
@@ -264,7 +292,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.89,
+        "rating" : 3.91,
         "total" : 1
       },
       "recap" : false,
@@ -433,9 +461,18 @@
       "length" : 25,
       "number" : 11,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UVMGZZ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "His Butler, Taking Off"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le majordome glisse"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Sein Butler – hebt ab"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Sono Shitsuji, Kassou"
@@ -448,12 +485,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.34,
-      "total" : 18
+      "rating" : 5.85,
+      "total" : 56
     },
     "TEMPORARY" : {
-      "rating" : 6.55,
-      "total" : 18
+      "rating" : 6.69,
+      "total" : 56
     }
   },
   "related" : {
@@ -477,6 +514,14 @@
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -531,10 +576,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2625" : {
       "info_box" : false,
       "name" : "past",
       "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -579,6 +640,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2809" : {
+      "info_box" : false,
+      "name" : "United Kingdom",
+      "parent_tag_id" : 2831,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2831" : {
+      "info_box" : false,
+      "name" : "Europe",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2849" : {
       "info_box" : false,
       "name" : "fantasy",
@@ -595,6 +672,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2878" : {
+      "info_box" : true,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "3508" : {
       "info_box" : false,
       "name" : "school for the rich elite",
@@ -603,10 +696,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "3863" : {
+      "info_box" : false,
+      "name" : "competition",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5355" : {
+      "info_box" : false,
+      "name" : "tournament",
+      "parent_tag_id" : 3863,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5823" : {
       "info_box" : false,
       "name" : "predominantly male cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6070" : {
+      "info_box" : false,
+      "name" : "mystery",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

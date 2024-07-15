@@ -33,7 +33,7 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 1.48,
+        "rating" : 1.47,
         "total" : 2
       },
       "recap" : false,
@@ -54,7 +54,7 @@
       "length" : 20,
       "number" : 2,
       "rating" : {
-        "rating" : 1.85,
+        "rating" : 1.84,
         "total" : 2
       },
       "recap" : false,
@@ -132,6 +132,13 @@
     "2608" : {
       "info_box" : false,
       "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -221,6 +228,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2800" : {
+      "info_box" : true,
+      "name" : "game",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2848" : {
       "info_box" : false,

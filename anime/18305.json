@@ -313,12 +313,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.77,
-      "total" : 4
+      "rating" : 4.71,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 5.0,
-      "total" : 4
+      "rating" : 5.78,
+      "total" : 14
     }
   },
   "resources" : {
@@ -331,6 +331,14 @@
   },
   "start_date" : "2024-06-22",
   "tags" : {
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2043" : {
       "info_box" : true,
       "name" : "high school",
@@ -339,9 +347,23 @@
       "verified" : false,
       "weight" : 400
     },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -353,6 +375,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2869" : {
       "info_box" : false,

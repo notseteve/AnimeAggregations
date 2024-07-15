@@ -2,10 +2,6 @@
   "anime_id" : 18086,
   "characters" : {
     "MAIN" : [ {
-      "character_id" : 127016,
-      "name" : "Hoshino Ai",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 128518,
       "name" : "Hoshino Aquamarine",
       "type" : "CHARACTER"
@@ -21,6 +17,10 @@
     }, {
       "character_id" : 133324,
       "name" : "GOA",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 127016,
+      "name" : "Hoshino Ai",
       "type" : "CHARACTER"
     }, {
       "character_id" : 133323,
@@ -109,20 +109,104 @@
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
-  "description" : "* Based on a seinen manga written by http://anidb.net/cr55229 [Akasaka Aka] and drawn by http://anidb.net/cr40028 [Yokoyari Mengo].\nNote: The first episode was screened theatrically on June 30 in Germany. The second episode premiered on July 6 at Anime Expo Los Angeles.",
+  "description" : "* Based on a seinen manga written by http://anidb.net/cr55229 [Akasaka Aka] and drawn by http://anidb.net/cr40028 [Yokoyari Mengo].\nhttp://anidb.net/ch128518 [Aqua]`s desire for revenge takes center stage as he navigates the dark underbelly of the entertainment world alongside his twin sister, http://anidb.net/ch128520 [Ruby]. While Ruby follows in their slain http://anidb.net/ch127016 [mother]`s footsteps to become an idol, Aqua joins a famous theater troupe in hopes of uncovering clues to the identity of his father — the man who arranged their mother’s untimely death, and the man who once starred in the same troupe Aqua hopes to infiltrate.\nSource: HIDIVE\nNote: The first episode was screened theatrically on June 30, 2024 in Japan and Germany. Further, the second episode premiered on July 6, 2024 at Anime Expo in Los Angeles. The regular TV broadcast started on July 3, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-07-03",
       "episode_id" : 281600,
-      "length" : 0,
+      "length" : 30,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.97,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Tokyo Blade"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tokyo Blade"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "東京ブレイド"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-10",
+      "episode_id" : 283874,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-17",
+      "episode_id" : 283875,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-24",
+      "episode_id" : 283876,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-07-03",
+      "episode_id" : 283903,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 1.31,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-03",
+      "episode_id" : 283904,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 2.81,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.4,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 7.87,
+      "total" : 8
+    }
   },
   "related" : {
     "PREQUEL" : [ 17449 ]
