@@ -56,6 +56,9 @@
     "21210" : [ {
       "name" : "Tamura Satomi",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Tamura Satomi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "32834" : [ {
       "name" : "Kamoshida Hajime",
@@ -64,6 +67,10 @@
     "54910" : [ {
       "name" : "Clover Works",
       "type" : "WORK"
+    } ],
+    "55636" : [ {
+      "name" : "Fox Capture Plan",
+      "type" : "MUSIC"
     } ]
   },
   "description" : "* Based on the 9th volume of the Seishun Buta Yarou light novel series written by http://anidb.net/cr32834 [Kamoshida Hajime] and illustrated by http://anidb.net/cr28844 [Mizoguchi Keiji].\nFinally, the day of http://anidb.net/ch94420 [Mai]`s high school graduation has arrived. While http://anidb.net/ch94422 [Sakuta] eagerly waits for his girlfriend, an elementary schooler who looks exactly like her appears before him. Suspicious, and for all the wrong reasons... Meanwhile, Sakuta and http://anidb.net/ch94421 [Kaede]`s http://anidb.net/ch99775 [father] suddenly calls, saying that their http://anidb.net/ch100146 [mother] wants to see her daughter. She was hospitalized because Kaede`s condition had been too much for her to bear, so what could she possibly want now?\nSource: Yen Press",
@@ -84,12 +91,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.69,
-      "total" : 23
+      "rating" : 7.68,
+      "total" : 46
     },
     "TEMPORARY" : {
-      "rating" : 8.01,
-      "total" : 23
+      "rating" : 7.7,
+      "total" : 46
     }
   },
   "related" : {
@@ -109,9 +116,31 @@
   },
   "start_date" : "2023-12-01",
   "tags" : {
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -123,6 +152,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "6173" : {
       "info_box" : false,

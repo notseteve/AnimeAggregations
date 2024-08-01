@@ -1,6 +1,11 @@
 {
   "anime_id" : 17529,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 142098,
+      "name" : "Tabata Yumi",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 125142,
       "name" : "Asamura Yuuta",
@@ -65,13 +70,16 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 1.0,
-        "total" : 1
+        "rating" : 2.0,
+        "total" : 5
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWU2WG29" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "I`m Home with a Stranger"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Tanin to Tadaima"
@@ -85,10 +93,17 @@
       "episode_id" : 283835,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.34,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UDM9D1" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "A Deal and a Fried Egg"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Torihiki to Medamayaki"
@@ -102,10 +117,23 @@
       "episode_id" : 283836,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 2.1,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9U3E03E" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hansha to Shuusei"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Reflection and Revision"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "反射と修正"
       } ],
       "type" : "REGULAR"
     }, {
@@ -115,25 +143,76 @@
       "number" : 4,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Keikou to Taisaku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Tendencies and Strategies"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "傾向と対策"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-01",
+      "episode_id" : 284487,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-08",
+      "episode_id" : 284488,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-15",
+      "episode_id" : 284489,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-22",
+      "episode_id" : 284490,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.66,
-      "total" : 3
+      "rating" : 5.97,
+      "total" : 43
     },
     "TEMPORARY" : {
-      "rating" : 5.5,
-      "total" : 4
+      "rating" : 6.35,
+      "total" : 44
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "390632" ],
     "ANN" : [ "26123" ],
+    "CRUNCHY_ROLL" : [ "G0XHWM190" ],
     "MAL" : [ "52481" ],
     "SYOBOI" : [ "7117" ],
     "TWITTER" : [ "gimaiseikatsu" ],
@@ -141,11 +220,28 @@
     "WIKIPEDIA_EN" : [ "Days_with_My_Stepsister" ],
     "WIKIPEDIA_JP" : [ "義妹生活" ]
   },
+  "similar" : {
+    "15943" : {
+      "rating" : 5.0,
+      "total" : 2
+    },
+    "16457" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
+  },
   "start_date" : "2024-06-23",
   "tags" : {
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -158,9 +254,32 @@
       "verified" : false,
       "weight" : 0
     },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7496" : {
+      "info_box" : false,
+      "name" : "preaired episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -186,6 +305,10 @@
     "language" : "JAPANESE",
     "title" : "義妹生活",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "义妹生活",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://gimaiseikatsu-anime.com/"

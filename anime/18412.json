@@ -3,7 +3,7 @@
   "characters" : {
     "MAIN" : [ {
       "character_id" : 137296,
-      "name" : "Erufuda",
+      "name" : "Elfuda",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139639,
@@ -72,6 +72,9 @@
     "14315" : [ {
       "name" : "Satou Katsuyuki",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Satou Katsuyuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "49838" : [ {
       "name" : "Takabayashi Yuuki",
@@ -90,8 +93,8 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 3.19,
-        "total" : 2
+        "rating" : 5.25,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -110,10 +113,20 @@
       "episode_id" : 284005,
       "length" : 15,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.25,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Dark Elf and the Beautiful Flower"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yami no Yousei to Uruwashi no Hana"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "闇の妖精と麗しの花"
       } ],
       "type" : "REGULAR"
     }, {
@@ -121,10 +134,20 @@
       "episode_id" : 284006,
       "length" : 15,
       "number" : 3,
+      "rating" : {
+        "rating" : 4.98,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Neppa no Oni to Midori no Uroko"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Sweaty Ogre and the Turquoise Scales"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "熱波の鬼と緑の鱗"
       } ],
       "type" : "REGULAR"
     }, {
@@ -156,20 +179,101 @@
         "title" : "直江くんは痩せさせたい. 予約1 絵留札"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-07-14",
+      "episode_id" : 284319,
+      "length" : 10,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Naoe-kun Wants You to Lose Weight Appointment 2: Kuroeda"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Naoe-kun wa Yasesasetai. Yosaku 2: Kuroeda"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "直江くんは痩せさせたい. 予約2 黒枝"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-07-21",
+      "episode_id" : 284596,
+      "length" : 15,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Naoe-kun Wants You to Lose Weight Appointment 3: Mero"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Naoe-kun wa Yasesasetai. Yosaku 3: Mero"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "直江くんは痩せさせたい. 予約3 米路"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-07-14",
+      "episode_id" : 284358,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 1.02,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-07",
+      "episode_id" : 284359,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 1.02,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-14",
+      "episode_id" : 284360,
+      "length" : 2,
+      "number" : 3,
+      "rating" : {
+        "rating" : 1.02,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 2"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.42,
-      "total" : 14
+      "rating" : 2.89,
+      "total" : 25
     },
     "TEMPORARY" : {
-      "rating" : 5.13,
-      "total" : 15
+      "rating" : 4.71,
+      "total" : 26
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "393169" ],
+    "ANISON" : [ "25538" ],
     "ANN" : [ "31557" ],
     "MAL" : [ "57845" ],
     "SYOBOI" : [ "7107" ],
@@ -180,6 +284,21 @@
   },
   "start_date" : "2024-07-07",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6151" : {
       "info_box" : false,
       "name" : "technical aspects",

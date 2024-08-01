@@ -53,6 +53,10 @@
       "name" : "Nagahama Norihiko",
       "type" : "DIRECTOR"
     } ],
+    "7438" : [ {
+      "name" : "Chiba Takayuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "17190" : [ {
       "name" : "Studio A-CAT",
       "type" : "ANIMATION_WORK"
@@ -82,8 +86,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.24,
-        "total" : 5
+        "rating" : 4.09,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -108,10 +112,26 @@
       "episode_id" : 283569,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 2.11,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN247G" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Alistair, capitaine de la Rose Blanche"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shiro Bara Kishidanchou Alistair"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "White Rose Knights Commander Alistair"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "白薔薇騎士団長アリステア"
       } ],
       "type" : "REGULAR"
     }, {
@@ -119,10 +139,26 @@
       "episode_id" : 283570,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 2.55,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUZ7K93" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Trahison"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Traitor"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Uragirimono"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "裏切者"
       } ],
       "type" : "REGULAR"
     }, {
@@ -131,21 +167,136 @@
       "length" : 25,
       "number" : 4,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU470QD" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Duel"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Duel"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kettou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "決闘"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-24",
+      "episode_id" : 284445,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ambition"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yabou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "野望"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-31",
+      "episode_id" : 284446,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-07",
+      "episode_id" : 284447,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-14",
+      "episode_id" : 284448,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-07-03",
+      "episode_id" : 283905,
+      "length" : 55,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Special Tokuban! Dai Nana Gundan Kekki Shuukai!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "スペシャル特番! ~第七軍団決起集会!~"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-06-26",
+      "episode_id" : 283924,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 2.89,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-06-26",
+      "episode_id" : 283925,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 1.33,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.88,
-      "total" : 18
+      "rating" : 3.23,
+      "total" : 49
+    },
+    "REVIEW" : {
+      "rating" : 2.5,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 5.25,
-      "total" : 18
+      "rating" : 4.86,
+      "total" : 49
     }
   },
   "resources" : {
@@ -162,8 +313,8 @@
   },
   "similar" : {
     "17517" : {
-      "rating" : 6.666666666666666,
-      "total" : 3
+      "rating" : 8.0,
+      "total" : 5
     }
   },
   "start_date" : "2024-06-26",
@@ -203,6 +354,10 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Maougun Saikyou no Majutsushi wa Ningen Datta",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "魔王军最强的魔术师是人类",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

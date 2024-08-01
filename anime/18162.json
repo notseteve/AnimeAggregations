@@ -8,7 +8,7 @@
     } ],
     "MAIN" : [ {
       "character_id" : 138705,
-      "name" : "Beilheira Langdas",
+      "name" : "Beilleheila Langdass",
       "type" : "CHARACTER"
     }, {
       "character_id" : 138704,
@@ -54,6 +54,10 @@
       "name" : "Takeuchi Toshimitsu",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "16425" : [ {
+      "name" : "Shouji Yasukazu",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "30092" : [ {
       "name" : "Yamai Sayaka",
       "type" : "DIRECTOR"
@@ -61,6 +65,9 @@
     "32553" : [ {
       "name" : "Nakayama Hiromi",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Nakayama Hiromi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "44108" : [ {
       "name" : "Futami Sui",
@@ -75,23 +82,116 @@
       "type" : "MUSIC"
     } ]
   },
-  "description" : "An unexplored dungeon, filled with monsters and traps. An expert thief, searching for her lost father. When http://anidb.net/ch138704 [Clay] delves into the dungeon deeper than any adventurer has ever gone, she is offered a job by the dungeon’s caretaker! Now, instead of exploring, Clay must learn how to interview new monsters, set traps and position slimes around the dungeon. Will this new career path bring her any closer to finding her father?\nSource: Seven Seas Entertainment",
+  "description" : "* Based on a fantasy manga by http://anidb.net/cr44108 [Futami Sui].\nAn unexplored dungeon, filled with monsters and traps. An expert thief, searching for her lost http://anidb.net/ch141407 [father]. When http://anidb.net/ch138704 [Clay] delves into the dungeon deeper than any adventurer has ever gone, she is offered a job by the dungeon`s http://anidb.net/ch138705 [caretaker]! Now, instead of exploring, Clay must learn how to interview new monsters, set traps and position slimes around the dungeon. Will this new career path bring her any closer to finding her father?\nSource: Seven Seas Entertainment",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-07-06",
       "episode_id" : 281724,
-      "length" : 0,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 5.38,
+        "total" : 7
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Person in the Dungeon"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dungeon no Naka ni, Hito"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ダンジョンの中に, ひと"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-13",
+      "episode_id" : 283960,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 4.95,
+        "total" : 6
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dungeon no Shigotohajime"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Starting Work in the Dungeon"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ダンジョンの仕事始め"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-20",
+      "episode_id" : 283961,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hyourou no Kiba"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Ice Wolf`s Fangs"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "氷狼の牙"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-27",
+      "episode_id" : 283962,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-07-06",
+      "episode_id" : 284001,
+      "length" : 2,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Opening"
       } ],
-      "type" : "REGULAR"
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-06",
+      "episode_id" : 284002,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.08,
+      "total" : 30
+    },
+    "TEMPORARY" : {
+      "rating" : 5.96,
+      "total" : 30
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "393948" ],
+    "ANISON" : [ "25547" ],
     "ANN" : [ "29475" ],
     "MAL" : [ "56348" ],
     "SYOBOI" : [ "7094" ],
@@ -102,12 +202,170 @@
   },
   "start_date" : "2024-07-06",
   "tags" : {
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2618" : {
+      "info_box" : false,
+      "name" : "collateral damage",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2655" : {
+      "info_box" : false,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2979" : {
+      "info_box" : false,
+      "name" : "mutilation",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4096" : {
+      "info_box" : false,
+      "name" : "gore",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7141" : {
+      "info_box" : false,
+      "name" : "goblin",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7885" : {
       "info_box" : false,
@@ -129,6 +387,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "ダンジョンの中のひと",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "地下城中的人",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "地下城里的人们",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

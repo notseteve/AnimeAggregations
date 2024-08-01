@@ -78,9 +78,129 @@
       "type" : "MUSIC"
     } ]
   },
+  "description" : "Note: The first two episodes received an advance release on Z-aN on June 8, 2024. Additionally, the first three episodes received an early screening on July 4, 2024 at Anime Expo in Los Angeles. The regular TV broadcast started on July 9, 2024.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-06-08",
+      "episode_id" : 284095,
+      "length" : 15,
+      "number" : 1,
+      "rating" : {
+        "rating" : 5.16,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU82X55" ]
+      },
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "In Liebe statt im Blut"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Koroshi Awanai"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Won`t Kill for Love"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "殺し愛[あ]わない"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-08",
+      "episode_id" : 284096,
+      "length" : 15,
+      "number" : 2,
+      "rating" : {
+        "rating" : 8.61,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1U2J93Q" ]
+      },
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "(Der Auftrag,) Das Magical Girl (zu besiegen,) gehört einzig und allein mir"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mahou Shoujo (o Taosu Shimei, Sore) wa (Hoka demo Nai) Watashi no Mono Da"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The (Taking Down of the) Magical Girl Belongs to (No One but) Me"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "魔法少女 (を倒す使命, それ) は (他でもない) 私のものだ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-23",
+      "episode_id" : 284097,
+      "length" : 15,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Now Back to the Drawing Board"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Soshite Furidashi e"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "そしてふりだしへ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-30",
+      "episode_id" : 284098,
+      "length" : 15,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-06-08",
+      "episode_id" : 284290,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-06-08",
+      "episode_id" : 284291,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.74,
+      "total" : 15
+    },
+    "TEMPORARY" : {
+      "rating" : 5.8,
+      "total" : 15
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "393242" ],
     "ANN" : [ "30707" ],
+    "CRUNCHY_ROLL" : [ "G9VHN9QPQ" ],
     "MAL" : [ "57217" ],
     "SYOBOI" : [ "7086" ],
     "TWITTER" : [ "mahoaku_anime" ],
@@ -88,7 +208,7 @@
     "WIKIPEDIA_EN" : [ "The_Magical_Girl_and_the_Evil_Lieutenant_Used_to_Be_Archenemies" ],
     "WIKIPEDIA_JP" : [ "かつて魔法少女と悪は敵対していた。" ]
   },
-  "start_date" : "2024-07-09",
+  "start_date" : "2024-06-08",
   "tags" : {
     "6151" : {
       "info_box" : false,
@@ -130,9 +250,29 @@
     "title" : "The Magical Girl and the Evil Lieutenant Used to Be Archenemies",
     "type" : "OFFICIAL"
   }, {
+    "language" : "GERMAN",
+    "title" : "The Magical Girl and the Evil Lieutenant Used to Be Archenemies",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "かつて魔法少女と悪は敵対していた.",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "魔法少女与恶曾是敌人。",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "mahoaku",
+    "type" : "SHORT"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Katsute Mahou Shoujo to Aku wa Tekitai shiteita",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "曾经、魔法少女和邪恶相互为敌。",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://mahoaku-anime.com/"

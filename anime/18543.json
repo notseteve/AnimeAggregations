@@ -1,6 +1,23 @@
 {
   "anime_id" : 18543,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 142222,
+      "name" : "Furukoke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142223,
+      "name" : "Kuruigami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142225,
+      "name" : "Tsukiko no Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142224,
+      "name" : "Tsukiko no Haha",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 134442,
       "name" : "Sen`ya",
@@ -17,6 +34,10 @@
     }, {
       "character_id" : 141503,
       "name" : "Hanatora",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 134445,
+      "name" : "Hyoudou Shinsuke",
       "type" : "CHARACTER"
     }, {
       "character_id" : 141502,
@@ -37,9 +58,40 @@
     } ]
   },
   "creators" : {
+    "1555" : [ {
+      "name" : "White Fox",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "1775" : [ {
+      "name" : "Hanada Jukki",
+      "type" : "SERIES_COMPOSITION"
+    } ],
+    "13442" : [ {
+      "name" : "Okuda Yousuke",
+      "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Okuda Yousuke",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "21412" : [ {
+      "name" : "Kobayashi Shinpei",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "22244" : [ {
+      "name" : "Yaegashi Youhei",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "23570" : [ {
       "name" : "Mizukami Satoshi",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "36636" : [ {
+      "name" : "Aizawa Kagetsu",
+      "type" : "DIRECTOR"
+    } ],
+    "39819" : [ {
+      "name" : "Evan Call",
+      "type" : "MUSIC"
     } ]
   },
   "description" : "* Based on an adventure fantasy manga by http://anidb.net/cr23570 [Mizukami Satoshi].\nNote: The first two episodes received an early screening at a special event on June 30, 2024 at Shin Bungeiza in Tokyo. The regular TV broadcast started on July 18, 2024.",
@@ -50,9 +102,21 @@
       "length" : 25,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UVG4NZ" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "La parade des mille démons"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Senki Yakou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Thousand Demon Night March"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "千鬼夜行"
       } ],
       "type" : "REGULAR"
     }, {
@@ -107,6 +171,16 @@
       } ],
       "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.99,
+      "total" : 4
+    },
+    "TEMPORARY" : {
+      "rating" : 6.25,
+      "total" : 4
+    }
   },
   "related" : {
     "PREQUEL" : [ 18156 ]
@@ -170,6 +244,10 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Sengoku Youko: Sen Ma Konton Hen",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "战国妖狐 千魔混沌篇",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE",

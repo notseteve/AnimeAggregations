@@ -98,8 +98,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.56,
-        "total" : 5
+        "rating" : 6.46,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -108,6 +108,9 @@
       "titles" : [ {
         "language" : "GERMAN",
         "title" : "Das Dienstmädchen Nikola"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Nikola l`assistante"
       }, {
         "language" : "ENGLISH",
         "title" : "Nikola the Servant Girl"
@@ -124,10 +127,29 @@
       "episode_id" : 283964,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.3,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14U470EQ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Haga Makoto"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Haga Makoto"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Haga Makoto"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Makoto Haga"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "羽賀マコト"
       } ],
       "type" : "REGULAR"
     }, {
@@ -156,12 +178,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.3,
-      "total" : 8
+      "rating" : 4.2,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 6.06,
-      "total" : 8
+      "rating" : 5.28,
+      "total" : 21
     }
   },
   "resources" : {
@@ -185,10 +207,48 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3610" : {
+      "info_box" : false,
+      "name" : "game references",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3805" : {
+      "info_box" : false,
+      "name" : "European stylised",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -200,10 +260,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8057" : {
+      "info_box" : false,
+      "name" : "medieval European aesthetic",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -225,6 +301,10 @@
     "language" : "JAPANESE",
     "title" : "この世界は不完全すぎる",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "KonoFuka",
+    "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",
     "title" : "Quality Assurance in another world.",

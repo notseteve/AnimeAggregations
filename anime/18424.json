@@ -112,7 +112,7 @@
       "type" : "DIRECTOR"
     } ]
   },
-  "description" : "Note: The first episode received an early screening at a special event on June 30, 2024 at United Cinemas Aqua City Odaiba in Tokyo. The regular broadcast started on July 6, 2024.",
+  "description" : "Now that he has graduated from high school, http://anidb.net/ch8962 [Araragi Koyomi]`s story ends here. His story is truly over now, but the stories of the girls Koyomi saved - their stories - are not over yet.\nThis is the prequel or sequel to their stories and their struggles.\nSource: Official Website\nNote: The first episode received an early screening at a special event on June 30, 2024 at United Cinemas Aqua City Odaiba in Tokyo. The regular broadcast started on July 6, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-07-06",
@@ -120,22 +120,22 @@
       "length" : 35,
       "number" : 1,
       "rating" : {
-        "rating" : 9.14,
-        "total" : 4
+        "rating" : 9.15,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G31UXNDZ7" ]
       },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Orokamonogatari: Dai San Wa - Tsukihi Undo"
+      }, {
         "language" : "ENGLISH",
         "title" : "Orokamonogatari: Tsukihi Undo"
       }, {
-        "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Orokamonogatari: Tsukihi Undo"
-      }, {
         "language" : "JAPANESE",
-        "title" : "愚物語 つきひアンドゥ"
+        "title" : "愚物語 第參話 つきひアンドゥ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -143,10 +143,23 @@
       "episode_id" : 283985,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.76,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWUK94D5" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nademonogatari: Dai Rei Wa - Nadeko Draw Sono Ichi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Nademonogatari: Nadeko Draw - Part One"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "撫物語 第零話 なでこドロー 其ノ壹"
       } ],
       "type" : "REGULAR"
     }, {
@@ -187,12 +200,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 9.57,
-      "total" : 11
+      "rating" : 8.51,
+      "total" : 27
     },
     "TEMPORARY" : {
-      "rating" : 8.63,
-      "total" : 11
+      "rating" : 7.85,
+      "total" : 27
     }
   },
   "related" : {
@@ -206,11 +219,20 @@
     "SYOBOI" : [ "7110" ],
     "TWITTER" : [ "nisioisin_anime" ],
     "WEBSITE" : [ "https://www.monogatari-series.com/oms/" ],
+    "WEBSITE_EN" : [ "https://monogatari-usa.com/oms/" ],
     "WIKIPEDIA_EN" : [ "Monogatari_(series)" ],
-    "WIKIPEDIA_JP" : [ "〈物語〉シリーズ" ]
+    "WIKIPEDIA_JP" : [ "〈物語〉シリーズ_オフ&モンスターシーズン" ]
   },
   "start_date" : "2024-07-06",
   "tags" : {
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1802" : {
       "info_box" : true,
       "name" : "seinen",
@@ -240,6 +262,21 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -247,6 +284,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "3683" : {
       "info_box" : false,
@@ -314,6 +359,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

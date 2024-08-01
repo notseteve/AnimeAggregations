@@ -1,6 +1,11 @@
 {
   "anime_id" : 16828,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 114232,
+      "name" : "Schwartz",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 110931,
       "name" : "Aliceliese Lou Nebulis IX",
@@ -19,12 +24,16 @@
       "name" : "Garganly",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142059,
+      "name" : "Growley",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 111409,
       "name" : "Jhin Syulargun",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139610,
-      "name" : "Johaim",
+      "name" : "Johaim Leo Almadel",
       "type" : "CHARACTER"
     }, {
       "character_id" : 113508,
@@ -40,7 +49,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 139611,
-      "name" : "May",
+      "name" : "Mei",
       "type" : "CHARACTER"
     }, {
       "character_id" : 113026,
@@ -82,6 +91,14 @@
       "character_id" : 113024,
       "name" : "Sisbell Lou Nebulis IX",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 142060,
+      "name" : "Talisman",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142061,
+      "name" : "Vichyssoise Alek Hydra",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -92,6 +109,10 @@
     "38777" : [ {
       "name" : "Iwahashi Seima",
       "type" : "MUSIC"
+    } ],
+    "40876" : [ {
+      "name" : "Ishikawa Shunsuke",
+      "type" : "SERIES_COMPOSITION"
     } ],
     "44479" : [ {
       "name" : "Fujinaga Ryuutarou",
@@ -115,6 +136,9 @@
     "62057" : [ {
       "name" : "Inaba Yuki",
       "type" : "DIRECTOR"
+    }, {
+      "name" : "Inaba Yuki",
+      "type" : "SERIES_COMPOSITION"
     } ],
     "62058" : [ {
       "name" : "Studio Palette",
@@ -125,12 +149,86 @@
     } ]
   },
   "description" : "* Based on an action fantasy light novel series written by http://anidb.net/cr59015 [Sazane Kei] and illustrated by http://anidb.net/cr59016 [Nekonabe Ao].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-07-10",
+      "episode_id" : 284099,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.96,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUQ5ND9" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Majo: Hoshi no Unmei"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Witch: Le destin des astres"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Witch: Planet`s Fate"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "魔女 -星の運命-"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-17",
+      "episode_id" : 284100,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-24",
+      "episode_id" : 284101,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-31",
+      "episode_id" : 284102,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.31,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 5.0,
+      "total" : 7
+    }
+  },
   "related" : {
     "PREQUEL" : [ 15216 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "379211" ],
     "ANN" : [ "24812" ],
+    "CRUNCHY_ROLL" : [ "GVDHX8ZD0" ],
     "MAL" : [ "49981" ],
     "SYOBOI" : [ "7113" ],
     "TWITTER" : [ "kimisen_project" ],
@@ -245,6 +343,14 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "kimisen s2",
     "type" : "SHORT"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "你我战 第二季",
+    "type" : "SHORT"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "你与我最后的战场，亦或是世界起始的圣战 第二季",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://kimisentv.com/"

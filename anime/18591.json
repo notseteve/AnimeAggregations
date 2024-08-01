@@ -117,12 +117,94 @@
       "type" : "SERIES_COMPOSITION"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-07-06",
+      "episode_id" : 283976,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWUK9403" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Destined Showdown"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shukumei Kessen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "宿命決戦"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-13",
+      "episode_id" : 283977,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XU07W5Z" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Infinity vs Zero"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mugen vs Rei"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "無限 vs 零"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-20",
+      "episode_id" : 283978,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Guidance on the Scale"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hakari no Kakerareshi Shirube"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "秤にかけられし標"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-27",
+      "episode_id" : 283979,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.53,
+      "total" : 2
+    },
+    "TEMPORARY" : {
+      "rating" : 3.5,
+      "total" : 2
+    }
+  },
   "related" : {
     "PREQUEL" : [ 18248 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "395483" ],
     "ANN" : [ "32675" ],
+    "CRUNCHY_ROLL" : [ "GXJHM3NJ5" ],
     "MAL" : [ "54143" ],
     "SYOBOI" : [ "7131" ],
     "TWITTER" : [ "cfvanguard_PR" ],
@@ -205,9 +287,17 @@
     "title" : "Cardfight!! Vanguard: Divinez Season 2",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Cardfight!! Vanguard: Divinez Season 2",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "カードファイト!! ヴァンガード Divinez Season2",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "卡片战斗先导者 DivineZ 第二季",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://anime.cf-vanguard.com/vgd/"

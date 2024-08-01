@@ -118,6 +118,10 @@
       "name" : "Froppy",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142123,
+      "name" : "Furasu Maina",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 95719,
       "name" : "Gang Orca",
       "type" : "CHARACTER"
@@ -186,6 +190,10 @@
       "name" : "Kashi Kashiko",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142129,
+      "name" : "Kegami Ronaudo",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 130507,
       "name" : "Kesagiri Man",
       "type" : "CHARACTER"
@@ -234,6 +242,10 @@
       "name" : "Manual",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142128,
+      "name" : "Masuko Mako",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 81759,
       "name" : "Midoriya Inko",
       "type" : "CHARACTER"
@@ -264,6 +276,10 @@
     }, {
       "character_id" : 115257,
       "name" : "Mudman",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142126,
+      "name" : "Nagashiro Fuutou",
       "type" : "CHARACTER"
     }, {
       "character_id" : 111545,
@@ -573,6 +589,10 @@
       "name" : "Nagasaki Kenji",
       "type" : "CHIEF_DIRECTOR"
     } ],
+    "9662" : [ {
+      "name" : "Kakita Hideki",
+      "type" : "EFFECTS_DIRECTOR"
+    } ],
     "9757" : [ {
       "name" : "Odashima Hitomi",
       "type" : "CHARACTER_DESIGN"
@@ -614,7 +634,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.86,
+        "rating" : 5.87,
         "total" : 8
       },
       "recap" : false,
@@ -886,10 +906,20 @@
       "episode_id" : 282057,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 8.81,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN2NJ5" ]
+      },
       "titles" : [ {
         "language" : "GERMAN",
         "title" : "Der brennende Körper, der das Leben erhellt! – Ein verletzter Held!"
+      }, {
+        "language" : "FRENCH",
+        "title" : "La supernova d`un héros blessé"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shoushin Shoumei!! Teoi no Hero"
@@ -908,8 +938,17 @@
       "number" : 11,
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Light Fades To Rain"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Light Fades To Rain"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Light Fades to Rain"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Light Fades to Rain"
       } ],
       "type" : "REGULAR"
     }, {
@@ -931,7 +970,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 1.43,
+        "rating" : 1.44,
         "total" : 2
       },
       "recap" : true,
@@ -959,7 +998,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.08,
+        "rating" : 2.09,
         "total" : 2
       },
       "recap" : true,
@@ -987,7 +1026,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 2.08,
+        "rating" : 2.09,
         "total" : 2
       },
       "recap" : true,
@@ -1015,7 +1054,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 1.29,
+        "rating" : 1.3,
         "total" : 2
       },
       "recap" : true,
@@ -1049,14 +1088,29 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Opening"
+        "title" : "Opening 1"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-13",
+      "episode_id" : 284330,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 7.45,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening 2"
       } ],
       "type" : "CREDITS"
     }, {
       "air_date" : "2024-05-04",
       "episode_id" : 280773,
       "length" : 2,
-      "number" : 2,
+      "number" : 3,
       "rating" : {
         "rating" : 5.87,
         "total" : 1
@@ -1064,19 +1118,34 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Ending"
+        "title" : "Ending 1"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-13",
+      "episode_id" : 284331,
+      "length" : 2,
+      "number" : 4,
+      "rating" : {
+        "rating" : 7.45,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 2"
       } ],
       "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.15,
-      "total" : 39
+      "rating" : 6.16,
+      "total" : 42
     },
     "TEMPORARY" : {
-      "rating" : 7.06,
-      "total" : 41
+      "rating" : 7.01,
+      "total" : 44
     }
   },
   "related" : {

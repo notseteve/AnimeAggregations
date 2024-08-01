@@ -296,12 +296,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.46,
-      "total" : 1098
+      "rating" : 8.45,
+      "total" : 1107
     },
     "TEMPORARY" : {
-      "rating" : 7.93,
-      "total" : 1106
+      "rating" : 7.92,
+      "total" : 1116
     }
   },
   "related" : {
@@ -335,6 +335,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
@@ -352,6 +360,13 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -457,6 +472,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -489,6 +512,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2844" : {
+      "info_box" : false,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2849" : {
       "info_box" : true,
       "name" : "fantasy",
@@ -513,10 +544,34 @@
       "verified" : false,
       "weight" : 200
     },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3185" : {
       "info_box" : false,
       "name" : "wordplay",
       "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3546" : {
+      "info_box" : false,
+      "name" : "experimental animation",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -553,6 +608,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4517" : {
+      "info_box" : false,
+      "name" : "inter-dimensional schoolgirl",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4614" : {
       "info_box" : false,
       "name" : "narration",
@@ -561,9 +632,56 @@
       "verified" : false,
       "weight" : 0
     },
+    "5227" : {
+      "info_box" : false,
+      "name" : "alternating animation style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6070" : {
+      "info_box" : false,
+      "name" : "mystery",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6877" : {
+      "info_box" : false,
+      "name" : "misleading beginning",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -65,9 +65,17 @@
       "name" : "Fujisawa Yoshiaki",
       "type" : "MUSIC"
     } ],
+    "38102" : [ {
+      "name" : "Oota Keiji",
+      "type" : "WORK"
+    } ],
     "51584" : [ {
       "name" : "Mizuno Sayo",
       "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "62175" : [ {
+      "name" : "Marumo Rei",
+      "type" : "WORK"
     } ],
     "71637" : [ {
       "name" : "Fujishima Mio",
@@ -78,24 +86,131 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on an action role-playing simulation video game developed by http://anidb.net/cr75730 [Edelweiss].\nLong ago, the spoiled http://anidb.net/ch139003 [Princess Sakuna] enjoyed a life of leisure in the Mihashira Capital among the gods and spirits of Yanato. But on the floating bridge of heaven separating the immortal Lofty Realm from the Lowly Realm of mortals, a chance encounter with the children of men (or, as they call themselves, the humans) led to a series of mishaps.\nAlas, this culminated in their banishment to Hinoe Island, the so-called Isle of Demons. The ruling deity, http://anidb.net/ch139001 [Lady Kamuhitsuki], charged Sakuna with securing a foothold for the capital and rooting out the hordes of demonic beasts that plague the island. And, of course, as a goddess she must also look after the wayward children of men who were alongside her.  But even a goddess needs to eat, and so the tale of rice and ruin begins...\nSource: XSEED Games",
+  "description" : "* Based on an action role-playing simulation video game developed by http://anidb.net/cr75730 [Edelweiss].\nLong ago, the spoiled http://anidb.net/ch139003 [Princess Sakuna] enjoyed a life of leisure in the Mihashira Capital among the gods and spirits of Yanato. But on the floating bridge of heaven separating the immortal Lofty Realm from the Lowly Realm of mortals, a chance encounter with the children of men (or, as they call themselves, the humans) led to a series of mishaps.\nAlas, this culminated in their banishment to Hinoe Island, the so-called Isle of Demons. The ruling deity, http://anidb.net/ch139001 [Lady Kamuhitsuki], charged Sakuna with securing a foothold for the capital and rooting out the hordes of demonic beasts that plague the island. And, of course, as a goddess she must also look after the wayward children of men who were alongside her.  But even a goddess needs to eat, and so the tale of rice and ruin begins...\nSource: XSEED Games\nNote: The first three episodes received an early screening at a special event on June 29, 2024 at TOHO Cinemas Hibiya in Tokyo and 3 additional venues across Japan. The regular TV broadcast started on July 6, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-07-06",
       "episode_id" : 281564,
-      "length" : 0,
+      "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.01,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DUE0Q5N" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Itadaki no Yo no Sakuna-hime"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Princess Sakuna of the Lofty Realm"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "頂の世のサクナヒメ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-13",
+      "episode_id" : 283991,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 3.15,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9UQEGJ4" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hinoejima ni Sumau"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Living on Hinoe Island"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ヒノエ島に住まう"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-20",
+      "episode_id" : 283992,
+      "length" : 25,
+      "number" : 3,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Taueuta"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "田植唄"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-27",
+      "episode_id" : 283993,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-07-06",
+      "episode_id" : 284119,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 1.02,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-06",
+      "episode_id" : 284120,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 1.32,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.05,
+      "total" : 15
+    },
+    "TEMPORARY" : {
+      "rating" : 5.06,
+      "total" : 15
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "394146" ],
     "ANN" : [ "32383" ],
+    "CRUNCHY_ROLL" : [ "G8DHV78W7" ],
     "MAL" : [ "58357" ],
     "SYOBOI" : [ "7093" ],
     "TWITTER" : [ "sakuna_anime" ],
@@ -132,6 +247,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "天穂のサクナヒメ",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "天穗之咲稻姬",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

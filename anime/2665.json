@@ -121,6 +121,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
@@ -340,6 +347,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2852" : {
+      "info_box" : false,
+      "name" : "thriller",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2918" : {
       "info_box" : false,
       "name" : "cunnilingus",
@@ -348,10 +363,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "4096" : {
+      "info_box" : false,
+      "name" : "gore",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4492" : {
       "info_box" : false,
       "name" : "gang rape",
       "parent_tag_id" : 2715,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4663" : {
+      "info_box" : false,
+      "name" : "tone changes",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -366,6 +413,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -19,6 +19,26 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 142161,
+      "name" : "Amanatsu Konami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142160,
+      "name" : "Asagumo Chihaya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142164,
+      "name" : "Ayano Mitsuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142162,
+      "name" : "Hakamada Sousuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142163,
+      "name" : "Himemiya Karen",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141395,
       "name" : "Nukumizu Kaju",
       "type" : "CHARACTER"
@@ -58,23 +78,81 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "Note: The first two episodes received an early screening at a special event on June 30, 2024 at United Cinemas Toyohashi 18 in Toyohashi and at United Cinemas Toyosu in Tokyo. The regular TV broadcast started on July 14, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-07-14",
       "episode_id" : 282094,
-      "length" : 0,
+      "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UVGZ4G" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Pro Osananajimi Yanami Anna no Makeppuri"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Professional Childhood Friend Yanami Anna`s Style of Losing"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "プロ幼馴染み 八奈見杏菜の負けっぷり"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-21",
+      "episode_id" : 284116,
+      "length" : 25,
+      "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-28",
+      "episode_id" : 284117,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-04",
+      "episode_id" : 284118,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.51,
+      "total" : 12
+    },
+    "TEMPORARY" : {
+      "rating" : 6.41,
+      "total" : 12
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "392808" ],
     "ANN" : [ "31056" ],
+    "CRUNCHY_ROLL" : [ "GJ0H7QGXE" ],
     "MAL" : [ "57524" ],
     "SYOBOI" : [ "7121" ],
     "TWITTER" : [ "makeine_anime" ],
@@ -109,8 +187,16 @@
     "title" : "Makeine: Too Many Losing Heroines!",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "敗北女角太多了！",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "負けヒロインが多すぎる!",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "败犬女主太多了！",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

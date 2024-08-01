@@ -25,6 +25,23 @@
       "character_id" : 137513,
       "name" : "Tanizaki Shion",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 141977,
+      "name" : "Ikutame Hana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141975,
+      "name" : "Inosawa Ichigo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141978,
+      "name" : "Kanzaki Hiiragi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141976,
+      "name" : "Kushida Miyabi",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -61,10 +78,17 @@
       "episode_id" : 282324,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.96,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN2PZX" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Front Tuck Somersault Full Twist Layout"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kakaekomi Ikkai Chuugaeri Ikkai Hineri Kaikyaku Ikkai Shinshin Ikkai Hineri"
@@ -78,10 +102,23 @@
       "episode_id" : 283916,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.54,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUZ7M0Z" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Anyway, Something Like That..."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "tte Kanji de..."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "って感じで..."
       } ],
       "type" : "REGULAR"
     }, {
@@ -92,7 +129,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "I Always Look This Way"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Itsumo Kono Kao Dakara"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "いつもこの顔だから"
       } ],
       "type" : "REGULAR"
     }, {
@@ -110,17 +153,18 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.29,
-      "total" : 1
+      "rating" : 3.3,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 10.0,
-      "total" : 1
+      "rating" : 5.14,
+      "total" : 14
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "392277" ],
     "ANN" : [ "30587" ],
+    "CRUNCHY_ROLL" : [ "GEXH3W2GK" ],
     "MAL" : [ "57099" ],
     "SYOBOI" : [ "7118" ],
     "TWITTER" : [ "narenare_anime" ],
@@ -148,16 +192,28 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Nanare Hananare",
+    "title" : "Na Nare Hana Nare",
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
     "title" : "Narenare: Cheer for You!",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "亦叶亦花",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "菜なれ花なれ",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "变成菜变成花",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "少女如草花绽放",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://narenare-anime.com/"

@@ -1,16 +1,112 @@
 {
   "anime_id" : 18700,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 7247,
+      "name" : "Saotome Ranma",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 7449,
+      "name" : "Saotome Ranma",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 7338,
+      "name" : "Tendou Akane",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 7459,
+      "name" : "Hibiki Ryouga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 7339,
+      "name" : "Saotome Genma",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 7460,
+      "name" : "Shampoo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 7373,
+      "name" : "Tendou Kasumi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 7372,
+      "name" : "Tendou Nabiki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 7371,
+      "name" : "Tendou Souun",
+      "type" : "CHARACTER"
+    } ]
+  },
+  "creators" : {
+    "818" : [ {
+      "name" : "Takahashi Rumiko",
+      "type" : "ORIGINAL_WORK"
+    } ],
+    "1978" : [ {
+      "name" : "Uda Kounosuke",
+      "type" : "DIRECTOR"
+    } ],
+    "2703" : [ {
+      "name" : "Wada Kaoru",
+      "type" : "MUSIC"
+    } ],
+    "11377" : [ {
+      "name" : "Taniguchi Hiromi",
+      "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Taniguchi Hiromi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "13411" : [ {
+      "name" : "Yoshioka Tsuyoshi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "30884" : [ {
+      "name" : "Ueno Kimiko",
+      "type" : "SERIES_COMPOSITION"
+    } ],
+    "31375" : [ {
+      "name" : "MAPPA",
+      "type" : "WORK"
+    } ],
+    "41903" : [ {
+      "name" : "Saitou Yoshiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "45929" : [ {
+      "name" : "Ootsu Nao",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ]
+  },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-10-06",
+      "episode_id" : 284449,
+      "length" : 0,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "related" : {
     "ALTERNATIVE_SETTING" : [ 4576 ]
   },
   "resources" : {
+    "ANN" : [ "32929" ],
     "MAL" : [ "59145" ],
     "TWITTER" : [ "ranma_pr" ],
     "WEBSITE" : [ "https://ranma-pr.com/" ],
     "WIKIPEDIA_EN" : [ "Ranma_½" ],
     "WIKIPEDIA_JP" : [ "らんま1/2#.E3.82.89.E3.82.93.E3.81.BE1.2F2_.E7.86.B1.E9.97.98.E7.B7.A8" ]
   },
-  "start_date" : "1970-01-01",
+  "start_date" : "2024-10-06",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -30,17 +126,17 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Ranma 1/2 (Kanzen Shinsaku Anime)",
+    "title" : "Ranma 1/2 (2024)",
     "type" : "MAIN"
   }, {
     "language" : "JAPANESE",
-    "title" : "らんま1/2 (完全新作アニメ)",
+    "title" : "らんま1/2 (2024)",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
     "title" : "Ranma 1/2 (Completely New Anime)",
     "type" : "SYNONYM"
   } ],
-  "type" : "UNKNOWN",
+  "type" : "SERIES",
   "url" : "https://ranma-pr.com/"
 }

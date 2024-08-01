@@ -3,11 +3,11 @@
   "characters" : {
     "MAIN" : [ {
       "character_id" : 137384,
-      "name" : "Jeanne",
+      "name" : "Jeanne E. Anis",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137383,
-      "name" : "Kai",
+      "name" : "Kai Sakura Vento",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137385,
@@ -16,19 +16,19 @@
     } ],
     "SECONDARY" : [ {
       "character_id" : 139440,
-      "name" : "Assuran",
+      "name" : "Ashran Highroll",
       "type" : "CHARACTER"
     }, {
       "character_id" : 141311,
-      "name" : "Falin",
+      "name" : "Falin Rina Yubikitasu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 141310,
-      "name" : "Reiren",
+      "name" : "Reiren Rail Racheliel",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139441,
-      "name" : "Saki",
+      "name" : "Saki Miscotti",
       "type" : "CHARACTER"
     } ]
   },
@@ -61,13 +61,20 @@
       "episode_id" : 281867,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.33,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9U3E1D0" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Sekai kara Wasurerareta Shounen"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Boy Forgotten by the World"
       }, {
         "language" : "JAPANESE",
         "title" : "世界から忘れられた少年"
@@ -78,10 +85,23 @@
       "episode_id" : 284113,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.98,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUX1KG2" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Rinne"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Rinne"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "リンネ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -108,9 +128,20 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.52,
+      "total" : 23
+    },
+    "TEMPORARY" : {
+      "rating" : 5.56,
+      "total" : 23
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "393449" ],
     "ANN" : [ "29143" ],
+    "CRUNCHY_ROLL" : [ "GJ0H7QGJE" ],
     "MAL" : [ "56062" ],
     "SYOBOI" : [ "7104" ],
     "TWITTER" : [ "nazeboku_pr" ],
@@ -163,6 +194,14 @@
     "language" : "JAPANESE",
     "title" : "なぜ僕の世界を誰も覚えていないのか?",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "nazeboku",
+    "type" : "SHORT"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Naze Boku no Sekai wo Daremo Oboeteinai no ka",
+    "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",
     "title" : "Why nobody remebers my world?",

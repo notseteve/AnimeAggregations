@@ -2,6 +2,22 @@
   "anime_id" : 2803,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 73548,
+      "name" : "Asumi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142041,
+      "name" : "Chloe (Colonel Chloe)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142040,
+      "name" : "Irena (Colonel Irena)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142039,
+      "name" : "Isato",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 120262,
       "name" : "Rush",
       "type" : "CHARACTER"
@@ -163,7 +179,8 @@
     "IMDB" : [ "tt0944069" ],
     "MAL" : [ "2325" ],
     "TMDB" : [ "tv/87835" ],
-    "WEBSITE" : [ "http://www.muse-djf.jp/angel/index.html" ]
+    "WEBSITE" : [ "http://www.muse-djf.jp/angel/index.html" ],
+    "WIKIPEDIA_JP" : [ "エンジェルブレイド" ]
   },
   "similar" : {
     "2511" : {
@@ -348,6 +365,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2623" : {
+      "info_box" : true,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2626" : {
       "info_box" : false,
@@ -698,12 +723,20 @@
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 100
     },
     "3027" : {
       "info_box" : false,
       "name" : "sex tape",
       "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3159" : {
+      "info_box" : false,
+      "name" : "emotions awaken superpowers",
+      "parent_tag_id" : 2623,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -804,6 +837,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5993" : {
+      "info_box" : false,
+      "name" : "black humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6151" : {
       "info_box" : false,
       "name" : "technical aspects",
@@ -881,6 +922,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7199" : {
+      "info_box" : false,
+      "name" : "sexual humour",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7220" : {
       "info_box" : false,

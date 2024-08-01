@@ -105,14 +105,17 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 1.12,
-        "total" : 2
+        "rating" : 2.62,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GJWU2WGDJ" ]
       },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "La déesse invocatrice"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shoukan o Tsugeshi Megami"
       }, {
@@ -128,13 +131,23 @@
       "episode_id" : 283948,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.9,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UDM937" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Haiki Iseki"
       }, {
+        "language" : "FRENCH",
+        "title" : "Les ruines des rebuts"
+      }, {
         "language" : "ENGLISH",
-        "title" : "The Ruins of Disposal"
+        "title" : "Ruins of Disposal"
       }, {
         "language" : "JAPANESE",
         "title" : "廃棄遺跡"
@@ -145,10 +158,26 @@
       "episode_id" : 283949,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.7,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9U3E0PQ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Encounter: Avenger(s)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaikou: Avenger(s)"
+      }, {
+        "language" : "FRENCH",
+        "title" : "La rencontre"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "邂逅 ~AVENGER(S)~"
       } ],
       "type" : "REGULAR"
     }, {
@@ -158,24 +187,75 @@
       "number" : 4,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hime Kishi to Yobareta Onna"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "The Woman Known as the Princess Knight"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "姫騎士と呼ばれた女"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-02",
+      "episode_id" : 284483,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-09",
+      "episode_id" : 284484,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-16",
+      "episode_id" : 284485,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-23",
+      "episode_id" : 284486,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.36,
-      "total" : 8
+      "rating" : 2.67,
+      "total" : 51
     },
     "TEMPORARY" : {
-      "rating" : 5.5,
-      "total" : 8
+      "rating" : 4.87,
+      "total" : 51
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "393265" ],
+    "ANISON" : [ "25551" ],
     "ANN" : [ "31709" ],
     "CRUNCHY_ROLL" : [ "G3KHEVD3E" ],
     "MAL" : [ "57892" ],
@@ -300,12 +380,20 @@
     "title" : "ハズレ枠の[状態異常スキル]で最強になった俺がすべてを蹂躙するまで",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "靠廢柴技能【狀態異常】成為最強的我將蹂躪一切",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Hazurewaku",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "依靠被嫌弃的【状态异常技能】而成为最强的我最终蹂躏一切",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

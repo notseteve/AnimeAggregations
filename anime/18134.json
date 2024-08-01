@@ -1,6 +1,27 @@
 {
   "anime_id" : 18134,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 134045,
+      "name" : "Conna",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 130657,
+      "name" : "Emil",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129905,
+      "name" : "Kin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 134044,
+      "name" : "Machiya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129904,
+      "name" : "Wata",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 125997,
       "name" : "2B",
@@ -19,12 +40,20 @@
       "name" : "Adam",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142087,
+      "name" : "Akai Shoujo",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 129775,
       "name" : "Devola",
       "type" : "CHARACTER"
     }, {
       "character_id" : 127840,
       "name" : "Eve",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129862,
+      "name" : "Jackass",
       "type" : "CHARACTER"
     }, {
       "character_id" : 127893,
@@ -87,22 +116,39 @@
       "name" : "Masuyama Ryouji",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "25072" : [ {
+      "name" : "Horiuchi Takashi",
+      "type" : "DIRECTOR"
+    } ],
     "67435" : [ {
       "name" : "Yokoo Tarou",
       "type" : "SERIES_COMPOSITION"
     } ]
   },
-  "description" : "* Based on an action RPG by http://anidb.net/cr1130 [Square Enix] and http://anidb.net/cr51676 [Platinum Games].",
+  "description" : "* Based on an action RPG by http://anidb.net/cr1130 [Square Enix] and http://anidb.net/cr51676 [Platinum Games].\nThe distant future, 5012. The sudden aerial invasion of Earth by Aliens and their creations Machine Lifeforms led mankind to the brink of extinction. The surviving number of humans who took refuge on the moon organized a counterattack using Android soldiers to recapture Earth. However, the war reaches a stalemate as the Machine Lifeforms continue to multiply infinitely. In turn, humanity deploys a new unit of android soldiers to Earth as an ultimate weapon: YoRHa.\nThe year 11954, YoRHa Soldiers http://anidb.net/ch125997 [2B] and http://anidb.net/ch125998 [9S] are newly dispatched to Earth to carry out and support the 243rd Descent Operation. There, they succeed in destroying the machine lifeform core units, http://anidb.net/ch127839 [Adam] and http://anidb.net/ch127840 [Eve]. With the annihilation of these enemies, the Army of Humanity takes this chance to end this long-lasting war and decides on an all-out attack against the machine lifeforms.\nThis is a record of the battles and hopes of Androids and the fate which dictates them all...\nSource: Ani-One Asia",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-07-05",
       "episode_id" : 283855,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.69,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UV45VP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Reckless Bra[V]ery"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Reckless Bra[V]ery"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "reckless bra[V]ery"
       } ],
       "type" : "REGULAR"
     }, {
@@ -110,10 +156,23 @@
       "episode_id" : 283856,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.49,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1U2J9EQ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Mission [F]ailed"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mission [F]ailed"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "mission [F]ailed"
       } ],
       "type" : "REGULAR"
     }, {
@@ -125,6 +184,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "no [I] in team"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "no [I] in team"
       } ],
       "type" : "REGULAR"
     }, {
@@ -156,14 +221,49 @@
         "title" : "第2クール放送直前特番"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-07-05",
+      "episode_id" : 284320,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-05",
+      "episode_id" : 284321,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.61,
+      "total" : 20
+    },
+    "TEMPORARY" : {
+      "rating" : 6.04,
+      "total" : 21
+    }
   },
   "related" : {
     "PREQUEL" : [ 17214 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "394335" ],
+    "ANISON" : [ "24680" ],
     "ANN" : [ "29144" ],
+    "CRUNCHY_ROLL" : [ "GNVHKNPW1" ],
     "MAL" : [ "56063" ],
     "SYOBOI" : [ "7129" ],
     "TWITTER" : [ "NieR_A_ANIME" ],
@@ -202,6 +302,10 @@
     "language" : "JAPANESE",
     "title" : "NieR:Automata Ver1.1a (2024)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "尼尔：自动人形 Ver1.1a 第2部分",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://nierautomata-anime.com/"

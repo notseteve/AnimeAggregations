@@ -209,7 +209,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.58,
+        "rating" : 6.59,
         "total" : 21
       },
       "recap" : false,
@@ -550,7 +550,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 7.6,
+        "rating" : 7.61,
         "total" : 13
       },
       "recap" : false,
@@ -581,7 +581,7 @@
       "length" : 25,
       "number" : 14,
       "rating" : {
-        "rating" : 7.41,
+        "rating" : 7.42,
         "total" : 17
       },
       "recap" : false,
@@ -736,7 +736,7 @@
       "length" : 25,
       "number" : 19,
       "rating" : {
-        "rating" : 7.35,
+        "rating" : 7.36,
         "total" : 12
       },
       "recap" : false,
@@ -798,7 +798,7 @@
       "length" : 25,
       "number" : 21,
       "rating" : {
-        "rating" : 7.47,
+        "rating" : 7.48,
         "total" : 13
       },
       "recap" : false,
@@ -829,7 +829,7 @@
       "length" : 25,
       "number" : 22,
       "rating" : {
-        "rating" : 8.78,
+        "rating" : 8.79,
         "total" : 12
       },
       "recap" : false,
@@ -891,7 +891,7 @@
       "length" : 25,
       "number" : 24,
       "rating" : {
-        "rating" : 9.34,
+        "rating" : 9.35,
         "total" : 17
       },
       "recap" : false,
@@ -965,7 +965,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.76,
-      "total" : 5597
+      "total" : 5599
     },
     "REVIEW" : {
       "rating" : 7.4,
@@ -973,7 +973,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.8,
-      "total" : 5697
+      "total" : 5699
     }
   },
   "related" : {
@@ -1039,6 +1039,14 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1363" : {
+      "info_box" : false,
+      "name" : "breast fondling",
+      "parent_tag_id" : 2856,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1227,6 +1235,22 @@
       "verified" : false,
       "weight" : 500
     },
+    "2778" : {
+      "info_box" : false,
+      "name" : "slow when it comes to love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2779" : {
+      "info_box" : false,
+      "name" : "multiple couples",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2790" : {
       "info_box" : false,
       "name" : "plot continuity",
@@ -1247,6 +1271,22 @@
       "info_box" : true,
       "name" : "novel",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2816" : {
+      "info_box" : false,
+      "name" : "sexual fantasies",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2817" : {
+      "info_box" : false,
+      "name" : "skimpy clothing",
+      "parent_tag_id" : 2856,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1275,6 +1315,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2850" : {
       "info_box" : true,
       "name" : "adventure",
@@ -1283,10 +1331,42 @@
       "verified" : false,
       "weight" : 400
     },
+    "2851" : {
+      "info_box" : false,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2858" : {
       "info_box" : false,
       "name" : "romance",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2878" : {
+      "info_box" : false,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
@@ -1418,6 +1498,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5794" : {
+      "info_box" : false,
+      "name" : "forbidden love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5826" : {
       "info_box" : false,
       "name" : "rivalry",
@@ -1425,6 +1513,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "5838" : {
+      "info_box" : false,
+      "name" : "fire",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "5996" : {
       "info_box" : false,
@@ -1528,6 +1624,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7075" : {
       "info_box" : false,
       "name" : "adapted into Japanese movie",
@@ -1535,6 +1639,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7220" : {
+      "info_box" : false,
+      "name" : "sexual abuse",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7238" : {
+      "info_box" : false,
+      "name" : "attempted rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7242" : {
       "info_box" : false,

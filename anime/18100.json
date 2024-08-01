@@ -168,7 +168,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.69,
+        "rating" : 3.7,
         "total" : 2
       },
       "recap" : false,
@@ -199,7 +199,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.01,
+        "rating" : 6.05,
         "total" : 1
       },
       "recap" : false,
@@ -230,7 +230,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 2.35,
+        "rating" : 2.4,
         "total" : 1
       },
       "recap" : false,
@@ -261,7 +261,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.35,
+        "rating" : 2.4,
         "total" : 1
       },
       "recap" : false,
@@ -292,7 +292,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.91,
+        "rating" : 3.97,
         "total" : 1
       },
       "recap" : false,
@@ -323,7 +323,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 1.13,
+        "rating" : 1.14,
         "total" : 1
       },
       "recap" : false,
@@ -481,20 +481,44 @@
         "title" : "その執事, 滑走"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-04-13",
+      "episode_id" : 283847,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-04-13",
+      "episode_id" : 283848,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.85,
-      "total" : 56
+      "rating" : 5.87,
+      "total" : 68
     },
     "TEMPORARY" : {
-      "rating" : 6.69,
-      "total" : 56
+      "rating" : 6.72,
+      "total" : 68
     }
   },
   "related" : {
-    "PREQUEL" : [ 11696 ]
+    "PREQUEL" : [ 11696 ],
+    "SEQUEL" : [ 18739 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "391424" ],
@@ -510,6 +534,21 @@
   },
   "start_date" : "2024-04-13",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "428" : {
+      "info_box" : false,
+      "name" : "contractor",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "922" : {
       "info_box" : true,
       "name" : "shounen",
@@ -616,6 +655,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2668" : {
       "info_box" : false,
       "name" : "all-boys school",
@@ -654,7 +701,7 @@
       "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
     },
     "2849" : {
       "info_box" : false,
@@ -688,6 +735,21 @@
       "verified" : false,
       "weight" : 300
     },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3508" : {
       "info_box" : false,
       "name" : "school for the rich elite",
@@ -696,10 +758,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "3805" : {
+      "info_box" : false,
+      "name" : "European stylised",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3863" : {
       "info_box" : false,
       "name" : "competition",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5030" : {
+      "info_box" : false,
+      "name" : "pact",
+      "parent_tag_id" : 2931,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -736,6 +814,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -766,6 +852,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "8057" : {
+      "info_box" : false,
+      "name" : "medieval European aesthetic",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     }
   },
   "titles" : [ {
@@ -787,6 +881,10 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Kuroshitsuji - Kishuku Gakkou-hen",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "黑执事 -寄宿学校篇-",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

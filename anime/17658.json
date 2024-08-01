@@ -26,12 +26,20 @@
       "name" : "Inuyama",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142086,
+      "name" : "Isaak",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139751,
       "name" : "Koishikawa Daigo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139835,
       "name" : "Nagata Chihiro",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142085,
+      "name" : "Natalya",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139752,
@@ -162,7 +170,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.1,
+        "rating" : 6.07,
         "total" : 8
       },
       "recap" : false,
@@ -212,7 +220,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.24,
+        "rating" : 7.23,
         "total" : 4
       },
       "recap" : false,
@@ -262,7 +270,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.82,
+        "rating" : 6.81,
         "total" : 4
       },
       "recap" : false,
@@ -412,7 +420,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 7.4,
+        "rating" : 7.41,
         "total" : 4
       },
       "recap" : false,
@@ -437,7 +445,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.14,
+        "rating" : 7.15,
         "total" : 4
       },
       "recap" : false,
@@ -501,12 +509,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.83,
-      "total" : 195
+      "rating" : 3.85,
+      "total" : 199
     },
     "TEMPORARY" : {
-      "rating" : 5.8,
-      "total" : 196
+      "rating" : 5.77,
+      "total" : 200
     }
   },
   "related" : {
@@ -562,9 +570,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -573,6 +596,14 @@
       "info_box" : true,
       "name" : "super power",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2626" : {
+      "info_box" : false,
+      "name" : "future",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 600

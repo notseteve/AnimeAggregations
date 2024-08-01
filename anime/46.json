@@ -485,7 +485,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.71,
-      "total" : 1666
+      "total" : 1668
     },
     "REVIEW" : {
       "rating" : 7.03,
@@ -493,7 +493,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.94,
-      "total" : 1672
+      "total" : 1674
     }
   },
   "resources" : {
@@ -579,6 +579,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -722,6 +729,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -833,6 +848,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3738" : {
       "info_box" : false,
       "name" : "aliens living on Earth",
@@ -845,6 +868,14 @@
       "info_box" : false,
       "name" : "iyashi-kei",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -897,6 +928,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5884" : {
+      "info_box" : false,
+      "name" : "slow-paced",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5980" : {
       "info_box" : false,
       "name" : "live-action imagery",
@@ -927,10 +974,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6243" : {
       "info_box" : false,
       "name" : "money",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

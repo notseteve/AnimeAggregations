@@ -143,11 +143,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.56,
-      "total" : 691
+      "total" : 693
     },
     "TEMPORARY" : {
       "rating" : 7.54,
-      "total" : 698
+      "total" : 700
     }
   },
   "related" : {
@@ -168,6 +168,13 @@
   },
   "start_date" : "2014-10-25",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "308" : {
       "info_box" : true,
       "name" : "detective",
@@ -175,6 +182,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "428" : {
+      "info_box" : false,
+      "name" : "contractor",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "922" : {
       "info_box" : true,
@@ -195,6 +210,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -297,6 +319,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2686" : {
       "info_box" : false,
       "name" : "Victorian period",
@@ -353,6 +383,37 @@
       "verified" : false,
       "weight" : 400
     },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3805" : {
+      "info_box" : false,
+      "name" : "European stylised",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5030" : {
+      "info_box" : false,
+      "name" : "pact",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6070" : {
       "info_box" : false,
       "name" : "mystery",
@@ -369,9 +430,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -388,6 +465,14 @@
       "info_box" : false,
       "name" : "Japanese production",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8057" : {
+      "info_box" : false,
+      "name" : "medieval European aesthetic",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

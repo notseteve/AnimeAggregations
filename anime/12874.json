@@ -22,7 +22,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.64,
+      "rating" : 3.65,
       "total" : 39
     },
     "TEMPORARY" : {
@@ -31,13 +31,99 @@
     }
   },
   "resources" : {
-    "MAL" : [ "35401" ]
+    "IMDB" : [ "tt0422442" ],
+    "MAL" : [ "35401" ],
+    "WEBSITE_EN" : [ "https://animation.filmarchives.jp/en/works/view/71578" ]
   },
   "start_date" : "1933",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2626" : {
+      "info_box" : false,
+      "name" : "future",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2637" : {
+      "info_box" : true,
+      "name" : "time travel",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "5980" : {
+      "info_box" : false,
+      "name" : "live-action imagery",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

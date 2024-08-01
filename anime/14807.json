@@ -84,12 +84,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.01,
-      "total" : 15
+      "rating" : 3.05,
+      "total" : 16
     },
     "TEMPORARY" : {
-      "rating" : 4.66,
-      "total" : 15
+      "rating" : 4.68,
+      "total" : 16
     }
   },
   "resources" : {
@@ -101,9 +101,63 @@
   },
   "start_date" : "2019-03-29",
   "tags" : {
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2641" : {
+      "info_box" : true,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -118,6 +172,10 @@
     }
   },
   "titles" : [ {
+    "language" : "JAPANESE",
+    "title" : "めごひめ",
+    "type" : "KANA_READING"
+  }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Megohime",
     "type" : "MAIN"
@@ -125,6 +183,18 @@
     "language" : "JAPANESE",
     "title" : "愛姫",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Aihime",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Aihime Megohime",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Mego-hime",
+    "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE",
     "title" : "愛姫MEGOHIME",

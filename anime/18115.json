@@ -1,6 +1,27 @@
 {
   "anime_id" : 18115,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 142062,
+      "name" : "Furuse Chinatsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142221,
+      "name" : "Jinguuji Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142219,
+      "name" : "Jinguuji Haha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142218,
+      "name" : "Shirosaki Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142064,
+      "name" : "Shirosaki Haha",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 139648,
       "name" : "Jinguuji Naori",
@@ -15,6 +36,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 142058,
+      "name" : "Amamiya Shiena",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139645,
       "name" : "Asano Reira",
       "type" : "CHARACTER"
@@ -36,6 +61,9 @@
     "30760" : [ {
       "name" : "Watanabe Mai",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Watanabe Mai",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "53092" : [ {
       "name" : "Utatane Kana",
@@ -57,27 +85,140 @@
   "description" : "* Based on a romantic comedy light novel series written by http://anidb.net/cr72674 [Takamura Shihon] and illustrated by http://anidb.net/cr72675 [Almic].\nhttp://anidb.net/ch139646 [Jun] is childhood friends with two twin girls with different personalities. He ends up in a love triangle with http://anidb.net/ch139647 [Rumi], who looks boyish but is an otome (maiden) on the inside, and her twin sister http://anidb.net/ch139648 [Naori], who is a cute otaku.\nSource: ANN",
   "episodes" : {
     "REGULAR" : [ {
-      "air_date" : "2024-07-10",
+      "air_date" : "2024-06-23",
       "episode_id" : 282046,
-      "length" : 0,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 4.91,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9U3EJ1J" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyou de Owari ni Shiyou"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Let`s End It Tonight"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "今日で終わりにしよう"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-06-23",
+      "episode_id" : 284106,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 6.49,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUX12KK" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "If I Were to Be Asked Out"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Moshi Kokuhaku Sareru Koto ga Attara"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "もし告白されることがあったら"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-24",
+      "episode_id" : 284107,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-31",
+      "episode_id" : 284108,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-06-23",
+      "episode_id" : 284109,
+      "length" : 60,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Houso Chokuzen! FutaKire Houkago Benkyoukai: Online Senkoujoueikai & Cast Talk Show"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前! ふたきれ放課後勉強会 オンライン先行上映会&キャストトークショー"
       } ],
-      "type" : "REGULAR"
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-06-23",
+      "episode_id" : 284305,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-06-23",
+      "episode_id" : 284306,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.73,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 5.68,
+      "total" : 16
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "392789" ],
+    "ANISON" : [ "25527" ],
     "ANN" : [ "29051" ],
+    "CRUNCHY_ROLL" : [ "G5PHNM9EJ" ],
     "MAL" : [ "55996" ],
     "SYOBOI" : [ "7112" ],
     "TWITTER" : [ "futakire" ],
     "WEBSITE" : [ "https://futakire.com/" ],
-    "WIKIPEDIA_EN" : [ "Koi_wa_Futago_de_Warikirenai" ],
-    "WIKIPEDIA_JP" : [ "恋は双子で割り切れない" ]
+    "WIKIPEDIA_EN" : [ "Love_Is_Indivisible_by_Twins" ],
+    "WIKIPEDIA_JP" : [ "恋は双子で割り切れない" ],
+    "YOUTUBE" : [ "watch?v=fxFMVDfHhbc" ]
   },
   "start_date" : "2024-07-10",
   "tags" : {
@@ -125,8 +266,20 @@
     "title" : "恋は双子で割り切れない",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "恋爱没法用双子除尽",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "futakire",
+    "type" : "SHORT"
+  }, {
     "language" : "ENGLISH",
     "title" : "Love Between Twins is Indivisible",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "双生恋情密不可分",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

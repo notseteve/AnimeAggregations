@@ -77,6 +77,10 @@
       "episode_id" : 282416,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.53,
+        "total" : 3
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GN7UDM913" ]
@@ -97,7 +101,14 @@
       "episode_id" : 283883,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.64,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9U3E0K9" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Carlo to no Omoide"
@@ -116,8 +127,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shinjitsu no Ai?"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "True Love?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "真実の愛?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -151,6 +168,16 @@
       "type" : "SPECIAL"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.66,
+      "total" : 24
+    },
+    "TEMPORARY" : {
+      "rating" : 6.5,
+      "total" : 25
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "392948" ],
     "ANN" : [ "29629" ],
@@ -161,6 +188,12 @@
     "WEBSITE" : [ "https://dahliya-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Dahlia_in_Bloom" ],
     "WIKIPEDIA_JP" : [ "魔導具師ダリヤはうつむかない" ]
+  },
+  "similar" : {
+    "17569" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
   },
   "start_date" : "2024-07-06",
   "tags" : {
@@ -314,6 +347,10 @@
     "language" : "JAPANESE",
     "title" : "魔導具師ダリヤはうつむかない",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Madougushi Dahliya wa Utsumukanai",
+    "type" : "SYNONYM"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "魔导具师妲莉亚永不妥协",

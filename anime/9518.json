@@ -437,7 +437,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.74,
+        "rating" : 5.73,
         "total" : 9
       },
       "recap" : false,
@@ -757,7 +757,7 @@
       "length" : 1,
       "number" : 1,
       "rating" : {
-        "rating" : 3.77,
+        "rating" : 3.76,
         "total" : 1
       },
       "recap" : false,
@@ -861,7 +861,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.88,
-      "total" : 4977
+      "total" : 4988
     },
     "REVIEW" : {
       "rating" : 4.87,
@@ -869,7 +869,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.05,
-      "total" : 5005
+      "total" : 5016
     }
   },
   "related" : {
@@ -1046,6 +1046,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
@@ -1077,6 +1085,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2630" : {
       "info_box" : false,
@@ -1157,6 +1173,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2791" : {
+      "info_box" : false,
+      "name" : "stereotypes",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2793" : {
       "info_box" : false,
@@ -1495,6 +1527,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
