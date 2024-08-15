@@ -1,6 +1,11 @@
 {
   "anime_id" : 18454,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 142556,
+      "name" : "Aya",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 139637,
       "name" : "Fuu",
@@ -64,6 +69,10 @@
       "name" : "Shirasaka Hideaki",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "73684" : [ {
+      "name" : "Tepe",
+      "type" : "MUSIC"
+    } ],
     "76138" : [ {
       "name" : "Raku",
       "type" : "MUSIC"
@@ -77,8 +86,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.55,
-        "total" : 3
+        "rating" : 6.42,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -101,8 +110,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 10.0,
-        "total" : 1
+        "rating" : 6.39,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -124,7 +133,14 @@
       "episode_id" : 283912,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 4.71,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UDME7K" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A New Member Joins! Dead or Alive"
@@ -141,10 +157,82 @@
       "episode_id" : 283913,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 6.63,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9U3EJ4N" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "The Star of the Next Video Is Who?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsugi no Kikaku no Shuyaku wa Who?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "次の企画の主役はWho?"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-05",
+      "episode_id" : 284666,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUX124X" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Blood-or-Die! Desert Island Survival"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kesshi! Mujintou Survival"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "血死! 無人島サバイバル"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-12",
+      "episode_id" : 284667,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ichiko no Negai"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Ichiko`s Wish"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "苺子の願い"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-19",
+      "episode_id" : 284668,
+      "length" : 25,
+      "number" : 7,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-26",
+      "episode_id" : 284669,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -186,12 +274,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.37,
-      "total" : 21
+      "rating" : 4.09,
+      "total" : 35
     },
     "TEMPORARY" : {
-      "rating" : 4.9,
-      "total" : 21
+      "rating" : 5.34,
+      "total" : 35
     }
   },
   "resources" : {
@@ -210,18 +298,33 @@
   "similar" : {
     "10948" : {
       "rating" : 10.0,
-      "total" : 1
+      "total" : 2
     },
     "16971" : {
-      "rating" : 7.5,
-      "total" : 8
+      "rating" : 8.0,
+      "total" : 10
     }
   },
   "start_date" : "2024-06-02",
   "tags" : {
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7496" : {
+      "info_box" : false,
+      "name" : "preaired episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

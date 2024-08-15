@@ -133,8 +133,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.45,
-        "total" : 6
+        "rating" : 7.42,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -160,7 +160,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.65,
+        "rating" : 5.66,
         "total" : 6
       },
       "recap" : false,
@@ -187,14 +187,17 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.45,
-        "total" : 3
+        "rating" : 4.78,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G50UZ0PDJ" ]
       },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Commande et observatrice"
+      }, {
         "language" : "ENGLISH",
         "title" : "Order & Watcher"
       }, {
@@ -206,11 +209,18 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-07-28",
+      "air_date" : "2024-08-04",
       "episode_id" : 284014,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 8.44,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU82X39" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Taisai Zen`ya"
@@ -223,18 +233,24 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-08-04",
+      "air_date" : "2024-08-11",
       "episode_id" : 284643,
       "length" : 25,
       "number" : 5,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gouho o Ageyo"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Raise the Starting Pistol"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "号砲を上げよ"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-08-11",
+      "air_date" : "2024-08-18",
       "episode_id" : 284644,
       "length" : 25,
       "number" : 6,
@@ -245,7 +261,7 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-08-18",
+      "air_date" : "2024-08-25",
       "episode_id" : 284645,
       "length" : 25,
       "number" : 7,
@@ -256,7 +272,7 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-08-25",
+      "air_date" : "2024-09-01",
       "episode_id" : 284646,
       "length" : 25,
       "number" : 8,
@@ -266,16 +282,34 @@
         "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-07-28",
+      "episode_id" : 284870,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mada Maniau! Tsue to Tsurugi no Saikou No. 1 Tokuban"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "まだ間に合う! 杖と剣の最高No.1特番"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.38,
-      "total" : 45
+      "rating" : 6.16,
+      "total" : 62
     },
     "TEMPORARY" : {
-      "rating" : 6.63,
-      "total" : 45
+      "rating" : 6.5,
+      "total" : 62
     }
   },
   "resources" : {
@@ -317,6 +351,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -387,6 +428,14 @@
       "info_box" : false,
       "name" : "spellcasting",
       "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

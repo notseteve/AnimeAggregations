@@ -1,6 +1,15 @@
 {
   "anime_id" : 17982,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 142491,
+      "name" : "Moe",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142490,
+      "name" : "Shirou",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 131669,
       "name" : "Kitahama Eiji",
@@ -53,6 +62,10 @@
       "name" : "Kakihara Yuuko",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "6028" : [ {
+      "name" : "Fujita Mariko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "6050" : [ {
       "name" : "Kikuchi Toshihiro",
       "type" : "DIRECTOR"
@@ -81,7 +94,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.0,
+        "rating" : 5.01,
         "total" : 5
       },
       "recap" : false,
@@ -105,7 +118,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.5,
+        "rating" : 5.53,
         "total" : 4
       },
       "recap" : false,
@@ -129,8 +142,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.35,
-        "total" : 4
+        "rating" : 4.99,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -152,10 +165,93 @@
       "episode_id" : 283943,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.28,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUZ721W" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "WOW?"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Wow?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Wow?"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-02",
+      "episode_id" : 284745,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 7.28,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU47ZG8" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Natsuyasumi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Summer Vacation"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夏休み"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-09",
+      "episode_id" : 284746,
+      "length" : 25,
+      "number" : 6,
+      "rating" : {
+        "rating" : 6.91,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DUE0QKV" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "First Date?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hatsu Date?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "初デート?"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-16",
+      "episode_id" : 284747,
+      "length" : 25,
+      "number" : 7,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-23",
+      "episode_id" : 284748,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -232,12 +328,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.82,
-      "total" : 42
+      "rating" : 5.69,
+      "total" : 58
     },
     "TEMPORARY" : {
-      "rating" : 6.64,
-      "total" : 42
+      "rating" : 6.49,
+      "total" : 58
     }
   },
   "resources" : {
@@ -256,15 +352,202 @@
   },
   "similar" : {
     "17360" : {
-      "rating" : 2.5,
-      "total" : 4
+      "rating" : 1.6666666666666665,
+      "total" : 6
     }
   },
   "start_date" : "2024-07-05",
   "tags" : {
+    "2043" : {
+      "info_box" : true,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2669" : {
+      "info_box" : true,
+      "name" : "school clubs",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2883" : {
+      "info_box" : true,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3792" : {
+      "info_box" : false,
+      "name" : "iyashi-kei",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4498" : {
+      "info_box" : false,
+      "name" : "heart-warming",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -224,7 +224,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.57,
+        "rating" : 7.58,
         "total" : 28
       },
       "recap" : false,
@@ -274,7 +274,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.8,
+        "rating" : 5.81,
         "total" : 24
       },
       "recap" : false,
@@ -399,7 +399,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.22,
+        "rating" : 8.23,
         "total" : 26
       },
       "recap" : false,
@@ -524,7 +524,7 @@
       "length" : 25,
       "number" : 14,
       "rating" : {
-        "rating" : 8.14,
+        "rating" : 8.15,
         "total" : 23
       },
       "recap" : false,
@@ -599,7 +599,7 @@
       "length" : 25,
       "number" : 17,
       "rating" : {
-        "rating" : 7.3,
+        "rating" : 7.31,
         "total" : 18
       },
       "recap" : false,
@@ -624,7 +624,7 @@
       "length" : 25,
       "number" : 18,
       "rating" : {
-        "rating" : 7.25,
+        "rating" : 7.26,
         "total" : 20
       },
       "recap" : false,
@@ -674,7 +674,7 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 9.42,
+        "rating" : 9.44,
         "total" : 27
       },
       "recap" : false,
@@ -724,7 +724,7 @@
       "length" : 25,
       "number" : 22,
       "rating" : {
-        "rating" : 8.68,
+        "rating" : 8.69,
         "total" : 16
       },
       "recap" : false,
@@ -774,7 +774,7 @@
       "length" : 25,
       "number" : 24,
       "rating" : {
-        "rating" : 6.78,
+        "rating" : 6.79,
         "total" : 16
       },
       "recap" : false,
@@ -1122,7 +1122,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 9.02,
-      "total" : 4472
+      "total" : 4483
     },
     "REVIEW" : {
       "rating" : 7.44,
@@ -1130,7 +1130,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.34,
-      "total" : 4502
+      "total" : 4514
     }
   },
   "related" : {
@@ -1494,6 +1494,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2847" : {
+      "info_box" : false,
+      "name" : "Western",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2849" : {
       "info_box" : true,
       "name" : "fantasy",
@@ -1501,6 +1509,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2852" : {
+      "info_box" : true,
+      "name" : "thriller",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2853" : {
       "info_box" : false,
@@ -1578,6 +1594,14 @@
       "info_box" : false,
       "name" : "male protagonist",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3092" : {
+      "info_box" : false,
+      "name" : "important haircut",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1670,6 +1694,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5515" : {
+      "info_box" : false,
+      "name" : "faceless background characters",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5697" : {
       "info_box" : false,
       "name" : "randomness",
@@ -1686,10 +1718,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "5824" : {
+      "info_box" : false,
+      "name" : "god is a girl",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5875" : {
       "info_box" : false,
       "name" : "jealousy",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1728,6 +1776,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

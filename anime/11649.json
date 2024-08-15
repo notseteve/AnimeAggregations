@@ -22,11 +22,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 1.71,
-      "total" : 157
+      "total" : 158
     },
     "TEMPORARY" : {
-      "rating" : 3.16,
-      "total" : 159
+      "rating" : 3.17,
+      "total" : 160
     }
   },
   "resources" : {
@@ -44,6 +44,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -85,6 +92,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2797" : {
       "info_box" : true,
       "name" : "new",
@@ -101,6 +116,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2844" : {
+      "info_box" : true,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2856" : {
       "info_box" : false,
       "name" : "ecchi",
@@ -108,6 +131,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2884" : {
       "info_box" : false,
@@ -117,9 +148,33 @@
       "verified" : false,
       "weight" : 100
     },
+    "2887" : {
+      "info_box" : true,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "3546" : {
       "info_box" : false,
       "name" : "experimental animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4340" : {
+      "info_box" : false,
+      "name" : "suicide",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4542" : {
+      "info_box" : false,
+      "name" : "no dialogue",
       "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
@@ -141,6 +196,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5697" : {
+      "info_box" : false,
+      "name" : "randomness",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6151" : {
       "info_box" : false,
       "name" : "technical aspects",
@@ -151,6 +214,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

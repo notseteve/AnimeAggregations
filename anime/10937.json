@@ -284,7 +284,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 9.13,
-      "total" : 5342
+      "total" : 5360
     },
     "REVIEW" : {
       "rating" : 7.09,
@@ -292,7 +292,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.46,
-      "total" : 5378
+      "total" : 5396
     }
   },
   "resources" : {
@@ -336,6 +336,20 @@
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -415,6 +429,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -438,6 +460,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2862" : {
       "info_box" : false,
@@ -502,10 +532,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3741" : {
       "info_box" : false,
       "name" : "bullying",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3977" : {
+      "info_box" : false,
+      "name" : "dialogue driven",
+      "parent_tag_id" : 3683,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

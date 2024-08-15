@@ -681,12 +681,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.32,
-      "total" : 78
+      "rating" : 4.39,
+      "total" : 80
     },
     "TEMPORARY" : {
-      "rating" : 6.26,
-      "total" : 79
+      "rating" : 6.25,
+      "total" : 81
     }
   },
   "related" : {
@@ -724,6 +724,21 @@
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -767,6 +782,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6151" : {
       "info_box" : false,
       "name" : "technical aspects",
@@ -777,6 +800,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

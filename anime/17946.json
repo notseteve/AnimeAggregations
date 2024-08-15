@@ -267,7 +267,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.26,
+        "rating" : 5.27,
         "total" : 2
       },
       "recap" : false,
@@ -317,7 +317,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.26,
+        "rating" : 5.27,
         "total" : 2
       },
       "recap" : false,
@@ -367,7 +367,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.26,
+        "rating" : 5.27,
         "total" : 2
       },
       "recap" : false,
@@ -442,7 +442,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.26,
+        "rating" : 5.27,
         "total" : 2
       },
       "recap" : false,
@@ -467,7 +467,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.26,
+        "rating" : 5.27,
         "total" : 2
       },
       "recap" : false,
@@ -548,12 +548,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.22,
-      "total" : 435
+      "rating" : 7.23,
+      "total" : 453
     },
     "TEMPORARY" : {
-      "rating" : 7.41,
-      "total" : 437
+      "rating" : 7.43,
+      "total" : 456
     }
   },
   "related" : {
@@ -596,9 +596,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -667,6 +682,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "4055" : {
       "info_box" : false,
       "name" : "facial distortion",
@@ -678,6 +701,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

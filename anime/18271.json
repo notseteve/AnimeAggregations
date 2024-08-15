@@ -3,7 +3,7 @@
   "characters" : {
     "MAIN" : [ {
       "character_id" : 137510,
-      "name" : "Anna Aveiro",
+      "name" : "Anna Aveiro Nakamura dos Santos Moreira Cuccittini",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137511,
@@ -69,9 +69,13 @@
     }, {
       "name" : "Miura Nana",
       "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "54806" : [ {
+      "name" : "Tani Naoki",
+      "type" : "MUSIC"
     } ]
   },
-  "description" : "http://anidb.net/ch137512 [Misora Kanata] is a first-year student on the Takanosaki High School cheerleading team. She won a national championship in middle school, but can`t jump after a mistake in a competition. She befriends http://anidb.net/ch137509 [Suzuha], http://anidb.net/ch137513 [Shion], http://anidb.net/ch137510 [Anna], http://anidb.net/ch137508 [Nodoka], and http://anidb.net/ch137511 [Megumi] to form the PoMPoMs. Their new team goes beyond cheerleading to reach the hearts of the people they cheer on. They might just change the world!\nSource: Crunchyroll\nNote: The first three episodes received an early screening at a special event on March 17, 2024 at Takasaki Denkikan in Takasaki. The regular TV broadcast started on July 7, 2024.",
+  "description" : "http://anidb.net/ch137512 [Misora Kanata] is a first-year student on the Takanosaki High School cheerleading team. She won a national championship in middle school, but can`t jump after a mistake in a competition. She befriends http://anidb.net/ch137509 [Suzuha], http://anidb.net/ch137513 [Shion], http://anidb.net/ch137510 [Anna], http://anidb.net/ch137508 [Nodoka], and http://anidb.net/ch137511 [Megumi] to form the PoMPoMs. Their new team goes beyond cheerleading to reach the hearts of the people they cheer on. They might just change the world!\nSource: Crunchyroll\n[i]Note: The first three episodes received an early screening at a special event on March 17, 2024 at Takasaki Denkikan in Takasaki. The regular TV broadcast started on July 7, 2024.\nAdditionally, episodes 4-6 received an early screening at a special event on July 28, 2023 at DMM.com Headquarters Event Space in Tokyo.[/i]",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-07-07",
@@ -79,7 +83,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.96,
+        "rating" : 4.43,
         "total" : 4
       },
       "recap" : false,
@@ -103,7 +107,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.54,
+        "rating" : 3.56,
         "total" : 4
       },
       "recap" : false,
@@ -126,7 +130,14 @@
       "episode_id" : 283917,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.72,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU47E83" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "I Always Look This Way"
@@ -143,26 +154,90 @@
       "episode_id" : 283918,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 4.41,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DUE0J44" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Capoeira Rhapsody"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Capoeira Rhapsody"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カポエイララプソディ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-04",
+      "episode_id" : 284647,
+      "length" : 25,
+      "number" : 5,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "An Exuberant Carnival Dance"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Arittake Carnival Ondo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ありったけカーニバル音頭"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-11",
+      "episode_id" : 284648,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-18",
+      "episode_id" : 284649,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-25",
+      "episode_id" : 284650,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.3,
-      "total" : 14
+      "rating" : 3.77,
+      "total" : 25
     },
     "TEMPORARY" : {
-      "rating" : 5.14,
-      "total" : 14
+      "rating" : 5.36,
+      "total" : 25
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "392277" ],
+    "ANISON" : [ "25534" ],
     "ANN" : [ "30587" ],
     "CRUNCHY_ROLL" : [ "GEXH3W2GK" ],
     "MAL" : [ "57099" ],
@@ -171,6 +246,12 @@
     "WEBSITE" : [ "https://narenare-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Narenare:_Cheer_for_You!" ],
     "WIKIPEDIA_JP" : [ "菜なれ花なれ" ]
+  },
+  "similar" : {
+    "16424" : {
+      "rating" : 5.0,
+      "total" : 2
+    }
   },
   "start_date" : "2024-07-07",
   "tags" : {
@@ -206,6 +287,10 @@
     "language" : "JAPANESE",
     "title" : "菜なれ花なれ",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Nanare Hananare",
+    "type" : "SYNONYM"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "变成菜变成花",

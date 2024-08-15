@@ -1,6 +1,11 @@
 {
   "anime_id" : 18080,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 132923,
+      "name" : "Makuzawa Kikka",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 127521,
       "name" : "Hououji Akane",
@@ -116,6 +121,10 @@
       "name" : "Sakuma Kanade",
       "type" : "MUSIC"
     } ],
+    "71665" : [ {
+      "name" : "Niina Akihiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "72936" : [ {
       "name" : "Okushima Daisuke",
       "type" : "CHIEF_ANIMATION_DIRECTION"
@@ -139,6 +148,10 @@
     "76587" : [ {
       "name" : "Sawada Kaho",
       "type" : "MUSIC"
+    } ],
+    "77637" : [ {
+      "name" : "Shigematsu Haruka",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "* Based on a romantic comedy manga by http://anidb.net/cr10802 [Seo Kouji].\nWhen http://anidb.net/ch127520 [Hayato] returned to his recently deceased http://anidb.net/ch130768 [grandmother]`s house and attached café, he planned to turn them into a parking lot. However, he never expected to find five beautiful young women living in his house and working at the café—or that they would all view his grandmother (and each other) as family. Since that fateful day, despite his prickly personality, Hayato has worked alongside the girls to revitalize the café. But now, dark clouds loom on the horizon as a new set of five beautiful young women begin their quest to destroy Hayato`s café with a café of their own.\nSource: ANN",
@@ -149,7 +162,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.42,
+        "rating" : 4.43,
         "total" : 3
       },
       "recap" : false,
@@ -173,7 +186,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.41,
+        "rating" : 4.43,
         "total" : 3
       },
       "recap" : false,
@@ -196,7 +209,14 @@
       "episode_id" : 283938,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.64,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN2PG0" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Hangeki no Itte"
@@ -213,13 +233,20 @@
       "episode_id" : 283939,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.29,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUZ7MJK" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Danjo 11-nin Kyoudou Seikatsu"
       }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Eleven Co-ed Cohabitors"
       }, {
         "language" : "JAPANESE",
         "title" : "男女11人共同生活"
@@ -230,10 +257,23 @@
       "episode_id" : 284479,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 4.92,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU47EPX" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "A Hot Spring Trip for the Familia Party"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Onsen Ryokou: Familia Goikkou-sama"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "温泉旅行 ファミリア御一行様"
       } ],
       "type" : "REGULAR"
     }, {
@@ -243,8 +283,14 @@
       "number" : 6,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kowai Yume no Owari"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The End of a Scary Dream"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "怖い夢の終わり"
       } ],
       "type" : "REGULAR"
     }, {
@@ -291,12 +337,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.44,
-      "total" : 9
+      "rating" : 4.31,
+      "total" : 10
     },
     "TEMPORARY" : {
-      "rating" : 6.11,
-      "total" : 9
+      "rating" : 5.9,
+      "total" : 10
     }
   },
   "related" : {
@@ -304,6 +350,7 @@
   },
   "resources" : {
     "ALL_CINEMA" : [ "393450" ],
+    "ANISON" : [ "24836" ],
     "ANN" : [ "28764" ],
     "CRUNCHY_ROLL" : [ "GQWH0MPQ7" ],
     "MAL" : [ "55749" ],
@@ -467,6 +514,10 @@
     "language" : "JAPANESE",
     "title" : "女神のカフェテラス (2024)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Goddess Café Terrace 2",
+    "type" : "SYNONYM"
   }, {
     "language" : "UNKNOWN",
     "title" : "女神的露天咖啡厅 第二季",

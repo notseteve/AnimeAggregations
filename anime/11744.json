@@ -1,5 +1,16 @@
 {
   "anime_id" : 11744,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 26675,
+      "name" : "Barnaby Brooks Jr.",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 26674,
+      "name" : "Kaburagi T. Kotetsu",
+      "type" : "CHARACTER"
+    } ]
+  },
   "end_date" : "2016-02-24",
   "episodes" : {
     "REGULAR" : [ {
@@ -17,12 +28,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.08,
-      "total" : 49
+      "rating" : 4.06,
+      "total" : 50
     },
     "TEMPORARY" : {
       "rating" : 5.3,
-      "total" : 49
+      "total" : 50
     }
   },
   "related" : {
@@ -41,6 +52,29 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2638" : {
+      "info_box" : false,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2643" : {
+      "info_box" : false,
+      "name" : "power suit",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2797" : {
       "info_box" : true,
       "name" : "new",
@@ -49,9 +83,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

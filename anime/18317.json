@@ -39,8 +39,16 @@
       "name" : "Himemiya Karen",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142354,
+      "name" : "Konuki Sayo",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141395,
       "name" : "Nukumizu Kaju",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142433,
+      "name" : "Shikiya Yumeko",
       "type" : "CHARACTER"
     }, {
       "character_id" : 141396,
@@ -64,6 +72,9 @@
     "8138" : [ {
       "name" : "Kawakami Tetsuya",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Kawakami Tetsuya",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "53092" : [ {
       "name" : "Utatane Kana",
@@ -86,8 +97,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 10.0,
-        "total" : 1
+        "rating" : 7.78,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -95,7 +106,7 @@
       },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Pro Osananajimi Yanami Anna no Makeppuri"
+        "title" : "Pro Osananajimi: Yanami Anna no Makeppuri"
       }, {
         "language" : "ENGLISH",
         "title" : "Professional Childhood Friend Yanami Anna`s Style of Losing"
@@ -109,10 +120,23 @@
       "episode_id" : 284116,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.96,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UVM589" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Promised Failure for You"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yakusoku Sareta Haiboku o Kimi ni"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "約束された敗北を君に"
       } ],
       "type" : "REGULAR"
     }, {
@@ -120,10 +144,23 @@
       "episode_id" : 284117,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.45,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUG5KQ0" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Losing the Battle Before It Is Ever Fought"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tatakau Mae kara Makete Iru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "戦う前から負けている"
       } ],
       "type" : "REGULAR"
     }, {
@@ -131,22 +168,102 @@
       "episode_id" : 284118,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.05,
+        "total" : 5
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UZ0Q1D" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Make Heroine o Nozoku Toki Make Heroine mo Mata Anata o Nozoite Iru no Da"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "When You Stare into a Losing Heroine, the Losing Heroine Stares Back into You"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "負けヒロインを覗く時負けヒロインもまたあなたを覗いているのだ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-11",
+      "episode_id" : 284824,
+      "length" : 25,
+      "number" : 5,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 5"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-18",
+      "episode_id" : 284825,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-25",
+      "episode_id" : 284826,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-01",
+      "episode_id" : 284827,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-07-21",
+      "episode_id" : 284356,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-14",
+      "episode_id" : 284357,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.51,
-      "total" : 12
+      "rating" : 7.11,
+      "total" : 55
     },
     "TEMPORARY" : {
-      "rating" : 6.41,
-      "total" : 12
+      "rating" : 7.2,
+      "total" : 55
     }
   },
   "resources" : {
@@ -198,6 +315,10 @@
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "败犬女主太多了！",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "makeine",
+    "type" : "SHORT"
   }, {
     "language" : "ENGLISH",
     "title" : "Toooooo Many Losing Heroines!",

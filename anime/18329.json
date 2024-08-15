@@ -5,6 +5,14 @@
       "character_id" : 141686,
       "name" : "Doki",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 141687,
+      "name" : "Inori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139751,
+      "name" : "Koishikawa Daigo",
+      "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 126219,
@@ -141,8 +149,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.27,
-        "total" : 1
+        "rating" : 6.74,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -150,6 +158,9 @@
       },
       "titles" : [ {
         "language" : "ENGLISH",
+        "title" : "Hero`s High"
+      }, {
+        "language" : "GERMAN",
         "title" : "Hero`s High"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -165,8 +176,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.27,
-        "total" : 1
+        "rating" : 6.74,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -175,6 +186,9 @@
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Nishi yori no Kaze"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Westwind"
       }, {
         "language" : "ENGLISH",
         "title" : "Wind Coming from the West"
@@ -189,14 +203,17 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 2.89,
-        "total" : 1
+        "rating" : 7.11,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GQJUG51Z4" ]
       },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Das Herz der Klinge"
+      }, {
         "language" : "ENGLISH",
         "title" : "Heartblade"
       }, {
@@ -212,10 +229,86 @@
       "episode_id" : 283842,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 6.35,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UZ09D2" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Cloud in the Dark"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Cloud in the Dark"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Cloud in the Dark"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "クラウド・イン・ザ・ダーク"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-30",
+      "episode_id" : 284670,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 6.35,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU82W3P" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Storming In"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Totsunyuu"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Vorstoß"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "突入"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-13",
+      "episode_id" : 284671,
+      "length" : 25,
+      "number" : 6,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-20",
+      "episode_id" : 284672,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-27",
+      "episode_id" : 284673,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -243,7 +336,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 9.44,
+        "rating" : 9.49,
         "total" : 1
       },
       "recap" : false,
@@ -258,7 +351,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 1.33,
+        "rating" : 1.35,
         "total" : 1
       },
       "recap" : false,
@@ -271,12 +364,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.68,
-      "total" : 17
+      "rating" : 3.62,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 5.82,
-      "total" : 17
+      "rating" : 5.76,
+      "total" : 21
     }
   },
   "related" : {
@@ -383,6 +476,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "SHY 東京奪還編",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Shy Season 2",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

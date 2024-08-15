@@ -1,6 +1,59 @@
 {
   "anime_id" : 18295,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 142443,
+      "name" : "Dominic",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142441,
+      "name" : "Farrius",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142442,
+      "name" : "Gilm",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142445,
+      "name" : "Granvault Lowain",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142444,
+      "name" : "Iris",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142450,
+      "name" : "Isaac Risner",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142446,
+      "name" : "Johan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142447,
+      "name" : "Luna",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142448,
+      "name" : "Michelle",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142449,
+      "name" : "Rhode",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142452,
+      "name" : "Rudolf",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142451,
+      "name" : "Sagesse",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142453,
+      "name" : "Zach",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 136396,
       "name" : "Alan",
@@ -29,13 +82,28 @@
       "name" : "Nigorikawa Atsushi",
       "type" : "DIRECTOR"
     } ],
+    "28299" : [ {
+      "name" : "Tokugawa Eri",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "29360" : [ {
       "name" : "Nakano Yuki",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Nakano Yuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "43522" : [ {
+      "name" : "EMT Squared",
+      "type" : "ANIMATION_WORK"
     } ],
     "58142" : [ {
       "name" : "Suzuki Akinari",
       "type" : "MUSIC"
+    } ],
+    "60709" : [ {
+      "name" : "B. Bird",
+      "type" : "ANIMATION_WORK"
     } ],
     "74664" : [ {
       "name" : "Minazuki Shizuru",
@@ -50,8 +118,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.43,
-        "total" : 5
+        "rating" : 6.09,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -74,8 +142,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.86,
-        "total" : 5
+        "rating" : 6.22,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -98,8 +166,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.98,
-        "total" : 5
+        "rating" : 5.88,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -121,7 +189,14 @@
       "episode_id" : 284090,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 2.68,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU82XZV" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Onii-chann, Okoruu"
@@ -138,10 +213,23 @@
       "episode_id" : 284339,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1U2J9P5" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Goblin, Taosuu!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "We`re Gonna Beat the Goblins!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ゴブリン, たおすー!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -149,10 +237,23 @@
       "episode_id" : 284340,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN2PEX" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Ocean! It`s Salty!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Umii! Shoppaai!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "うみー! しょっぱーい!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -163,7 +264,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Mermaids! Dragons!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ningyo! Ryuu!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "にんぎょ! りゅー!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -177,16 +284,39 @@
         "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-07-08",
+      "episode_id" : 285019,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-08",
+      "episode_id" : 285020,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.24,
-      "total" : 23
+      "rating" : 2.83,
+      "total" : 41
     },
     "TEMPORARY" : {
-      "rating" : 5.41,
-      "total" : 23
+      "rating" : 4.57,
+      "total" : 41
     }
   },
   "resources" : {
@@ -205,9 +335,47 @@
   },
   "start_date" : "2024-07-08",
   "tags" : {
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7496" : {
+      "info_box" : false,
+      "name" : "preaired episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

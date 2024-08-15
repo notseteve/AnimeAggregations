@@ -307,8 +307,8 @@
       "length" : 60,
       "number" : 1,
       "rating" : {
-        "rating" : 5.94,
-        "total" : 2
+        "rating" : 7.29,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -349,12 +349,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.54,
-      "total" : 169
+      "rating" : 7.57,
+      "total" : 176
     },
     "TEMPORARY" : {
-      "rating" : 7.21,
-      "total" : 170
+      "rating" : 7.23,
+      "total" : 177
     }
   },
   "related" : {
@@ -375,6 +375,13 @@
   },
   "start_date" : "2023-08-04",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -382,10 +389,113 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2669" : {
+      "info_box" : true,
+      "name" : "school clubs",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2794" : {
+      "info_box" : true,
+      "name" : "music",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2883" : {
+      "info_box" : true,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "5917" : {
+      "info_box" : false,
+      "name" : "classical music",
+      "parent_tag_id" : 2794,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -413,6 +523,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "特別編 響け! ユーフォニアム アンサンブルコンテスト編",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "特别篇 吹响吧！上低音号～合奏比赛～",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

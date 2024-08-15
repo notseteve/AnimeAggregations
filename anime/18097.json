@@ -106,7 +106,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.76,
+        "rating" : 2.78,
         "total" : 2
       },
       "recap" : false,
@@ -174,12 +174,15 @@
       "length" : 25,
       "number" : 4,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DUE0Q4V" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Eiga Mitai ni"
       }, {
         "language" : "ENGLISH",
-        "title" : "Just Like a Movie"
+        "title" : "Like the Movies"
       }, {
         "language" : "JAPANESE",
         "title" : "映画みたいに"
@@ -191,9 +194,18 @@
       "length" : 25,
       "number" : 5,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9UQEG2V" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kikuchihara Jin no Nayami"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Kikuchihara Jin`s Troubles"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "菊地原仁の悩み"
       } ],
       "type" : "REGULAR"
     }, {
@@ -202,9 +214,18 @@
       "length" : 25,
       "number" : 6,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUQ5JDP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kikuchihara Jin no Hatsukoi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Kikuchihara Jin`s First Love"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "菊地原仁の初恋"
       } ],
       "type" : "REGULAR"
     }, {
@@ -215,7 +236,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "A Fateful Resolution"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Innen no Kecchaku"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "因縁の決着"
       } ],
       "type" : "REGULAR"
     }, {
@@ -233,12 +260,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.83,
-      "total" : 16
+      "rating" : 3.55,
+      "total" : 20
     },
     "TEMPORARY" : {
-      "rating" : 5.25,
-      "total" : 16
+      "rating" : 4.95,
+      "total" : 20
     }
   },
   "resources" : {
@@ -254,6 +281,13 @@
   },
   "start_date" : "2024-07-04",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -267,6 +301,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2783" : {
       "info_box" : true,

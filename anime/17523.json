@@ -128,7 +128,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.64,
+        "rating" : 4.65,
         "total" : 8
       },
       "recap" : false,
@@ -156,7 +156,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.71,
+        "rating" : 5.72,
         "total" : 7
       },
       "recap" : false,
@@ -184,7 +184,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.52,
+        "rating" : 4.53,
         "total" : 6
       },
       "recap" : false,
@@ -240,7 +240,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.03,
+        "rating" : 5.04,
         "total" : 5
       },
       "recap" : false,
@@ -268,7 +268,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.79,
+        "rating" : 3.8,
         "total" : 5
       },
       "recap" : false,
@@ -324,7 +324,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.39,
+        "rating" : 5.38,
         "total" : 3
       },
       "recap" : false,
@@ -352,7 +352,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 4.84,
+        "rating" : 4.85,
         "total" : 3
       },
       "recap" : false,
@@ -380,7 +380,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.17,
+        "rating" : 6.18,
         "total" : 5
       },
       "recap" : false,
@@ -408,7 +408,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 6.41,
+        "rating" : 6.42,
         "total" : 4
       },
       "recap" : false,
@@ -436,7 +436,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 9.23,
+        "rating" : 9.24,
         "total" : 2
       },
       "recap" : false,
@@ -482,12 +482,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.22,
-      "total" : 572
+      "rating" : 4.23,
+      "total" : 582
     },
     "TEMPORARY" : {
-      "rating" : 6.21,
-      "total" : 575
+      "rating" : 6.19,
+      "total" : 585
     }
   },
   "resources" : {
@@ -508,16 +508,16 @@
       "total" : 9
     },
     "15342" : {
-      "rating" : 8.0,
-      "total" : 15
+      "rating" : 7.5,
+      "total" : 16
     },
     "15505" : {
       "rating" : 3.5714285714285716,
       "total" : 14
     },
     "17530" : {
-      "rating" : 9.0,
-      "total" : 10
+      "rating" : 8.181818181818182,
+      "total" : 11
     }
   },
   "start_date" : "2023-01-08",
@@ -565,12 +565,35 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2651" : {
       "info_box" : false,
@@ -619,6 +642,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2838" : {
+      "info_box" : false,
+      "name" : "parallel world",
+      "parent_tag_id" : 2628,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2841" : {
       "info_box" : false,

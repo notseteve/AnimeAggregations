@@ -2,10 +2,6 @@
   "anime_id" : 17914,
   "characters" : {
     "APPEARANCE" : [ {
-      "character_id" : 141901,
-      "name" : "Alisa Mikhailovna Kujou (Youshouki)",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 141899,
       "name" : "Andou",
       "type" : "CHARACTER"
@@ -14,8 +10,16 @@
       "name" : "Kuze Kyoutarou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141901,
+      "name" : "Maria Mikhailovna Kujou (Youshouki)",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141900,
-      "name" : "Masachika (Youshouki)",
+      "name" : "Suou Masachika",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142482,
+      "name" : "Suou Yumi",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -104,6 +108,10 @@
       "name" : "Tsutsumi Hiroaki",
       "type" : "MUSIC"
     } ],
+    "36487" : [ {
+      "name" : "Osame Takeshi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "52669" : [ {
       "name" : "Atsumi Tomoya",
       "type" : "CHIEF_ANIMATION_DIRECTION"
@@ -133,8 +141,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.11,
-        "total" : 6
+        "rating" : 7.01,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -145,7 +153,7 @@
         "title" : "Alya Hides Her Feelings in Russian"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Russia-go de Dereru Alya-san"
+        "title" : "Rossiya-go de Dereru Alya-san"
       }, {
         "language" : "JAPANESE",
         "title" : "ロシア語でデレるアーリャさん"
@@ -157,8 +165,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.69,
-        "total" : 6
+        "rating" : 8.88,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -180,6 +188,10 @@
       "episode_id" : 283881,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.09,
+        "total" : 7
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GX9UQEGM5" ]
@@ -197,25 +209,215 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-07-24",
+      "description" : "Alya is sent by the student council to mediate a conflict between the soccer and baseball teams about the use of the school fields. When the conflict comes to a standstill, Masachika saves the day and makes an important promise to Alya.\nSource: Crunchyroll",
       "episode_id" : 283882,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 4.3,
+        "total" : 6
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUQ5J02" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Afuredasu Omoi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "An Outpouring of Emotion"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "溢れ出す想い"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-07-31",
+      "episode_id" : 284713,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 7.98,
+        "total" : 6
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14U470JG" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Different People, Common Undercurrent"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sorezore no Ketsui"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "それぞれの決意"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-07",
+      "episode_id" : 284714,
+      "length" : 25,
+      "number" : 6,
+      "rating" : {
+        "rating" : 4.26,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWU2WG79" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Kiss of the Indirect Variety"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Iwayuru Hitotsu no Kansetsu Kiss"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "いわゆるひとつの間接キス"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-14",
+      "episode_id" : 284715,
+      "length" : 25,
+      "number" : 7,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 7"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-21",
+      "episode_id" : 284716,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-07-03",
+      "episode_id" : 284721,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 5.76,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-03",
+      "episode_id" : 284722,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 5.21,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-10",
+      "episode_id" : 284723,
+      "length" : 2,
+      "number" : 3,
+      "rating" : {
+        "rating" : 2.97,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 2"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-17",
+      "episode_id" : 284724,
+      "length" : 2,
+      "number" : 4,
+      "rating" : {
+        "rating" : 3.42,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 3"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-24",
+      "episode_id" : 284725,
+      "length" : 2,
+      "number" : 5,
+      "rating" : {
+        "rating" : 3.05,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 4"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-31",
+      "episode_id" : 284938,
+      "length" : 2,
+      "number" : 6,
+      "rating" : {
+        "rating" : 5.55,
+        "total" : 3
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 5"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-08-07",
+      "episode_id" : 285205,
+      "length" : 2,
+      "number" : 7,
+      "rating" : {
+        "rating" : 2.64,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 6"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.33,
-      "total" : 55
+      "rating" : 6.27,
+      "total" : 91
     },
     "TEMPORARY" : {
-      "rating" : 6.86,
-      "total" : 56
+      "rating" : 6.71,
+      "total" : 94
     }
   },
   "resources" : {
@@ -233,16 +435,16 @@
   },
   "similar" : {
     "13270" : {
-      "rating" : 8.0,
-      "total" : 5
+      "rating" : 6.0,
+      "total" : 10
     },
     "17108" : {
-      "rating" : 8.333333333333334,
-      "total" : 6
+      "rating" : 9.0,
+      "total" : 10
     },
     "17547" : {
-      "rating" : 5.0,
-      "total" : 2
+      "rating" : 2.5,
+      "total" : 4
     }
   },
   "start_date" : "2024-07-03",
@@ -280,7 +482,7 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "title" : "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
@@ -306,6 +508,10 @@
     "language" : "JAPANESE",
     "title" : "ロシデレ",
     "type" : "SHORT"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "type" : "SYNONYM"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "不时轻声地以俄语遮羞的邻座艾莉同学",

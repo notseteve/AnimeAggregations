@@ -232,7 +232,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.26,
+        "rating" : 6.27,
         "total" : 3
       },
       "recap" : false,
@@ -288,7 +288,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.26,
+        "rating" : 7.27,
         "total" : 2
       },
       "recap" : false,
@@ -344,7 +344,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 9.19,
+        "rating" : 9.2,
         "total" : 2
       },
       "recap" : false,
@@ -400,7 +400,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 9.19,
+        "rating" : 9.2,
         "total" : 2
       },
       "recap" : false,
@@ -428,7 +428,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 9.19,
+        "rating" : 9.2,
         "total" : 2
       },
       "recap" : false,
@@ -456,7 +456,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 9.19,
+        "rating" : 9.2,
         "total" : 2
       },
       "recap" : false,
@@ -484,7 +484,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.26,
+        "rating" : 7.27,
         "total" : 2
       },
       "recap" : false,
@@ -574,12 +574,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.19,
-      "total" : 431
+      "rating" : 6.2,
+      "total" : 434
     },
     "TEMPORARY" : {
       "rating" : 6.94,
-      "total" : 435
+      "total" : 438
     }
   },
   "related" : {
@@ -613,6 +613,21 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -620,6 +635,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2872" : {
       "info_box" : false,
@@ -672,6 +695,14 @@
       "info_box" : false,
       "name" : "death",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

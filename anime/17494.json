@@ -382,7 +382,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 8.02,
+        "rating" : 8.03,
         "total" : 7
       },
       "recap" : false,
@@ -721,12 +721,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.03,
-      "total" : 1052
+      "rating" : 7.04,
+      "total" : 1059
     },
     "TEMPORARY" : {
       "rating" : 7.47,
-      "total" : 1056
+      "total" : 1063
     }
   },
   "resources" : {
@@ -821,9 +821,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1004,6 +1019,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "4022" : {
       "info_box" : false,
       "name" : "strong female lead",
@@ -1035,6 +1058,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "4729" : {
       "info_box" : false,
@@ -1121,6 +1152,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "6230" : {
       "info_box" : false,

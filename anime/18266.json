@@ -61,6 +61,10 @@
       "name" : "OLM",
       "type" : "ANIMATION_WORK"
     } ],
+    "5457" : [ {
+      "name" : "Ikeda Yuuji",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "11196" : [ {
       "name" : "Oohashi Toshiaki",
       "type" : "CHIEF_ANIMATION_DIRECTION"
@@ -98,7 +102,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.09,
+        "rating" : 5.1,
         "total" : 8
       },
       "recap" : false,
@@ -122,7 +126,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.44,
+        "rating" : 5.43,
         "total" : 6
       },
       "recap" : false,
@@ -145,10 +149,23 @@
       "episode_id" : 283930,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.0,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "I Parry Taking On a Page"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Je repousse la disciple"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ore wa Deshiiri o Parry Suru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "俺は弟子入りをパリイする"
       } ],
       "type" : "REGULAR"
     }, {
@@ -156,10 +173,80 @@
       "episode_id" : 283931,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 4.49,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "I Parry a Goblin"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Je repousse le goblin"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ore wa Goblin o Parry Suru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "俺はゴブリンをパリイする"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-02",
+      "episode_id" : 284737,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 5.06,
+        "total" : 3
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "I Parry a Frog"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Je repousse le crapaud"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ore wa Kaeru o Parry Suru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "俺はカエルをパリイする"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-09",
+      "episode_id" : 284738,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-16",
+      "episode_id" : 284739,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-23",
+      "episode_id" : 284740,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -207,16 +294,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.69,
-      "total" : 38
+      "rating" : 5.05,
+      "total" : 53
     },
     "TEMPORARY" : {
-      "rating" : 6.23,
-      "total" : 38
+      "rating" : 5.81,
+      "total" : 53
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "394286" ],
+    "ANISON" : [ "25554" ],
     "ANN" : [ "30566" ],
     "MAL" : [ "57058" ],
     "SYOBOI" : [ "7089" ],
@@ -224,6 +312,12 @@
     "WEBSITE" : [ "https://parry-anime.com/" ],
     "WIKIPEDIA_EN" : [ "I_Parry_Everything" ],
     "WIKIPEDIA_JP" : [ "俺は全てを【パリイ】する_〜逆勘違いの世界最強は冒険者になりたい〜" ]
+  },
+  "similar" : {
+    "17965" : {
+      "rating" : 10.0,
+      "total" : 3
+    }
   },
   "start_date" : "2024-07-05",
   "tags" : {

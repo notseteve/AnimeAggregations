@@ -155,7 +155,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.43,
+        "rating" : 6.44,
         "total" : 5
       },
       "recap" : false,
@@ -176,7 +176,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.02,
+        "rating" : 7.03,
         "total" : 5
       },
       "recap" : false,
@@ -197,7 +197,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.1,
+        "rating" : 8.11,
         "total" : 4
       },
       "recap" : false,
@@ -218,7 +218,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.27,
+        "rating" : 6.28,
         "total" : 4
       },
       "recap" : false,
@@ -260,7 +260,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.92,
+        "rating" : 6.93,
         "total" : 4
       },
       "recap" : false,
@@ -281,7 +281,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.61,
+        "rating" : 4.62,
         "total" : 4
       },
       "recap" : false,
@@ -302,8 +302,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.92,
-        "total" : 3
+        "rating" : 4.62,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -365,7 +365,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 3.66,
+        "rating" : 3.67,
         "total" : 3
       },
       "recap" : false,
@@ -407,7 +407,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 6.84,
+        "rating" : 6.85,
         "total" : 1
       },
       "recap" : false,
@@ -420,12 +420,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.97,
-      "total" : 162
+      "rating" : 6.0,
+      "total" : 190
     },
     "TEMPORARY" : {
-      "rating" : 6.61,
-      "total" : 164
+      "rating" : 6.67,
+      "total" : 192
     }
   },
   "related" : {
@@ -444,12 +444,42 @@
   },
   "start_date" : "2024-04-07",
   "tags" : {
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2798" : {
       "info_box" : true,
@@ -458,6 +488,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2854" : {
+      "info_box" : false,
+      "name" : "henshin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "6173" : {
       "info_box" : false,

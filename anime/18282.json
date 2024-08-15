@@ -86,7 +86,7 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 5.16,
+        "rating" : 5.18,
         "total" : 4
       },
       "recap" : false,
@@ -113,8 +113,8 @@
       "length" : 15,
       "number" : 2,
       "rating" : {
-        "rating" : 8.61,
-        "total" : 2
+        "rating" : 7.11,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -139,7 +139,14 @@
       "episode_id" : 284097,
       "length" : 15,
       "number" : 3,
+      "rating" : {
+        "rating" : 4.9,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN2P5P" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Now Back to the Drawing Board"
@@ -156,10 +163,82 @@
       "episode_id" : 284098,
       "length" : 15,
       "number" : 4,
+      "rating" : {
+        "rating" : 4.9,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUZ7M49" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Habit of Chasing What Moves"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ugoku Mono o Ou Shuusei ga Arimasu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "動くものを追う習性があります"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-06",
+      "episode_id" : 284686,
+      "length" : 15,
+      "number" : 5,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU47EX9" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Wareware wa Tekitai Shite Iru"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "We`re Enemies"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "我々は敵対している"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-13",
+      "episode_id" : 284687,
+      "length" : 15,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mahou Shoujo to wa"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "What Magical Girls Are"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "魔法少女とは"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-20",
+      "episode_id" : 284688,
+      "length" : 15,
+      "number" : 7,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-08-27",
+      "episode_id" : 284689,
+      "length" : 15,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -168,6 +247,10 @@
       "episode_id" : 284290,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.36,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -179,6 +262,10 @@
       "episode_id" : 284291,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 2.96,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -189,16 +276,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.74,
-      "total" : 15
+      "rating" : 4.39,
+      "total" : 24
     },
     "TEMPORARY" : {
-      "rating" : 5.8,
-      "total" : 15
+      "rating" : 5.68,
+      "total" : 24
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "393242" ],
+    "ANISON" : [ "25529" ],
     "ANN" : [ "30707" ],
     "CRUNCHY_ROLL" : [ "G9VHN9QPQ" ],
     "MAL" : [ "57217" ],
@@ -272,6 +360,10 @@
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "曾经、魔法少女和邪恶相互为敌。",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "魔法少女与邪恶曾经敌对。",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
