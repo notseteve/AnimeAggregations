@@ -58,6 +58,10 @@
       "name" : "Gajeel Redfox",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 24998,
+      "name" : "Gemini",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 31737,
       "name" : "Gildarts Clive",
       "type" : "CHARACTER"
@@ -140,6 +144,10 @@
     }, {
       "character_id" : 49739,
       "name" : "Rogue Cheney",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 17622,
+      "name" : "Sagittarius",
       "type" : "CHARACTER"
     }, {
       "character_id" : 42932,
@@ -379,6 +387,9 @@
       "length" : 25,
       "number" : 5,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XU07K00" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A Bitter Choice"
@@ -388,6 +399,9 @@
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kujuu no Ketsudan"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Une décision très difficile"
       }, {
         "language" : "JAPANESE",
         "title" : "苦渋の決断"
@@ -399,9 +413,24 @@
       "length" : 25,
       "number" : 6,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WUNJXN7" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Honoo no Keifu"
+      }, {
+        "language" : "FRENCH",
+        "title" : "La généalogie des flammes"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Lineage of Fire"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Stammbaum des Feuers"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "炎の系譜"
       } ],
       "type" : "REGULAR"
     }, {
@@ -409,10 +438,29 @@
       "episode_id" : 284641,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 1.16,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UVGKV9" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "All`s Well That Ends Well"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Ende gut, alles gut"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Finalement, tout va bien"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kekka All Right"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "結果オーライ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -423,7 +471,60 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Aldoron, the Wood Dragon God"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Der Holzdrachengott Aldoron"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Moku Shinryuu Aldoron"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "木神竜アルドロン"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-01",
+      "episode_id" : 285360,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-08",
+      "episode_id" : 285361,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-15",
+      "episode_id" : 285362,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-22",
+      "episode_id" : 285363,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -442,12 +543,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.96,
-      "total" : 12
+      "rating" : 5.16,
+      "total" : 15
     },
     "TEMPORARY" : {
-      "rating" : 5.7,
-      "total" : 12
+      "rating" : 6.16,
+      "total" : 15
     }
   },
   "related" : {

@@ -1,6 +1,15 @@
 {
   "anime_id" : 17635,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 142572,
+      "name" : "Miyo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142571,
+      "name" : "Tooru",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 135142,
       "name" : "Atri",
@@ -32,6 +41,10 @@
     "1775" : [ {
       "name" : "Hanada Jukki",
       "type" : "SERIES_COMPOSITION"
+    } ],
+    "3985" : [ {
+      "name" : "Okuda Atsushi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "12852" : [ {
       "name" : "Satou Michio",
@@ -100,8 +113,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.85,
-        "total" : 3
+        "rating" : 4.89,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -127,7 +140,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.81,
+        "rating" : 5.83,
         "total" : 2
       },
       "recap" : false,
@@ -151,7 +164,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.62,
+        "rating" : 4.64,
         "total" : 2
       },
       "recap" : false,
@@ -174,10 +187,23 @@
       "episode_id" : 285015,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 4.08,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWU2WZV8" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Smiling Under the Night Light"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yatou no Naka de Waratte"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夜灯の中で笑って"
       } ],
       "type" : "REGULAR"
     }, {
@@ -217,12 +243,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.71,
-      "total" : 29
+      "rating" : 5.14,
+      "total" : 33
     },
     "TEMPORARY" : {
-      "rating" : 5.37,
-      "total" : 29
+      "rating" : 5.66,
+      "total" : 33
     }
   },
   "resources" : {

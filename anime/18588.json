@@ -12,6 +12,10 @@
       "episode_id" : 279883,
       "length" : 20,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.37,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -30,6 +34,16 @@
       } ],
       "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.26,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 4.44,
+      "total" : 9
+    }
   },
   "resources" : {
     "MAL" : [ "58638" ],
@@ -144,9 +158,25 @@
       "verified" : false,
       "weight" : 400
     },
+    "2895" : {
+      "info_box" : false,
+      "name" : "dark-skinned girl",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2918" : {
       "info_box" : false,
       "name" : "cunnilingus",
+      "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2920" : {
+      "info_box" : false,
+      "name" : "rimming",
       "parent_tag_id" : 2713,
       "spoiler" : false,
       "verified" : false,
@@ -184,6 +214,10 @@
     "language" : "JAPANESE",
     "title" : "糸を撚る",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "실을 꼬다",
+    "type" : "SYNONYM"
   } ],
   "type" : "OVA",
   "url" : "https://www.mediabank.co.jp/product.php?model=QNB-M135"

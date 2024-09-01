@@ -133,7 +133,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.42,
+        "rating" : 7.43,
         "total" : 7
       },
       "recap" : false,
@@ -160,8 +160,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.66,
-        "total" : 6
+        "rating" : 5.88,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -187,8 +187,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.78,
-        "total" : 6
+        "rating" : 5.11,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -214,14 +214,17 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.44,
-        "total" : 1
+        "rating" : 3.99,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GWDU82X39" ]
       },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "La veille du grand tournoi"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Taisai Zen`ya"
       }, {
@@ -237,8 +240,18 @@
       "episode_id" : 284643,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 3.89,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1U2J9VD" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Coup d’envoi"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Gouho o Ageyo"
       }, {
@@ -254,10 +267,23 @@
       "episode_id" : 284644,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 2.38,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN2PX0" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Between Pride and Passion"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyouji to Netsujou no Aida"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "矜持と熱情の間"
       } ],
       "type" : "REGULAR"
     }, {
@@ -267,8 +293,14 @@
       "number" : 7,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "El Glace Frosse"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Twelve Secret Ice Magics, El Glace Frosse"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "十二の氷秘宝[エル・グラス・フロース]"
       } ],
       "type" : "REGULAR"
     }, {
@@ -304,12 +336,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.16,
-      "total" : 62
+      "rating" : 5.78,
+      "total" : 73
     },
     "TEMPORARY" : {
-      "rating" : 6.5,
-      "total" : 62
+      "rating" : 6.43,
+      "total" : 73
     }
   },
   "resources" : {
@@ -511,6 +543,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3863" : {
+      "info_box" : false,
+      "name" : "competition",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4022" : {
       "info_box" : false,
       "name" : "strong female lead",
@@ -563,6 +603,14 @@
       "info_box" : false,
       "name" : "dungeon",
       "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5355" : {
+      "info_box" : false,
+      "name" : "tournament",
+      "parent_tag_id" : 3863,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

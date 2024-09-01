@@ -5,6 +5,10 @@
       "name" : "Telecom Animation Film",
       "type" : "ANIMATION_WORK"
     } ],
+    "4642" : [ {
+      "name" : "Takahashi Tetsuya",
+      "type" : "MUSIC"
+    } ],
     "8892" : [ {
       "name" : "Sano Takashi",
       "type" : "DIRECTOR"
@@ -13,46 +17,60 @@
   "description" : "Note: The first episode received an early screening on June 30, 2024 at DoKomi in Dusseldorf, Germany.",
   "episodes" : {
     "REGULAR" : [ {
+      "air_date" : "2024-08-16",
       "episode_id" : 283870,
       "length" : 25,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Girl Who Manipulates Time"
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2024-08-23",
       "episode_id" : 283871,
-      "length" : 25,
+      "length" : 20,
       "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Fighting Mother"
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2024-08-30",
       "episode_id" : 283872,
       "length" : 25,
       "number" : 3,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Alien Elle"
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2024-09-06",
       "episode_id" : 283873,
       "length" : 25,
       "number" : 4,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Memories"
       } ],
       "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.85,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 2.88,
+      "total" : 9
+    }
   },
   "resources" : {
     "ANN" : [ "25711" ],
@@ -125,6 +143,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Rick and Morty: The Anime Series",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "BULGARIAN",
+    "title" : "Рик и Морти: Anime",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES"

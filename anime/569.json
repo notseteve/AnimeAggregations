@@ -105,7 +105,7 @@
       "length" : 95,
       "number" : 3,
       "rating" : {
-        "rating" : 9.06,
+        "rating" : 9.05,
         "total" : 6
       },
       "recap" : false,
@@ -335,6 +335,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2878" : {
       "info_box" : false,
       "name" : "conspiracy",
@@ -342,6 +350,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3374" : {
+      "info_box" : false,
+      "name" : "civil war",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "3421" : {
       "info_box" : false,
