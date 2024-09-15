@@ -491,16 +491,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.21,
-      "total" : 208
+      "rating" : 4.17,
+      "total" : 211
     },
     "TEMPORARY" : {
-      "rating" : 5.79,
-      "total" : 211
+      "rating" : 5.77,
+      "total" : 214
     }
   },
   "related" : {
-    "SEQUEL" : [ 11910 ]
+    "SEQUEL" : [ 11910, 18837 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "369392" ],
@@ -516,12 +516,57 @@
   },
   "start_date" : "2019-10-01",
   "tags" : {
+    "1846" : {
+      "info_box" : true,
+      "name" : "kodomo",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2857" : {
+      "info_box" : true,
+      "name" : "anthropomorphism",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "3683" : {
       "info_box" : false,
@@ -535,6 +580,14 @@
       "info_box" : false,
       "name" : "thick line animation",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3968" : {
+      "info_box" : false,
+      "name" : "animal protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -565,6 +618,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

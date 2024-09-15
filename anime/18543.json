@@ -2,6 +2,10 @@
   "anime_id" : 18543,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 142965,
+      "name" : "Ashikaga Yoshiharu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142768,
       "name" : "Banshou-ou",
       "type" : "CHARACTER"
@@ -14,8 +18,16 @@
       "name" : "Furukoke",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143259,
+      "name" : "Furuon",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142763,
       "name" : "Gogakushi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142966,
+      "name" : "Hakkeneko",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142374,
@@ -30,8 +42,16 @@
       "name" : "Jin`un",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142967,
+      "name" : "Kikudoumaru",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139485,
       "name" : "Kojirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 137333,
+      "name" : "Kokugetsusai",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142760,
@@ -90,12 +110,12 @@
       "name" : "Shitari",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 142372,
-      "name" : "Tago",
+      "character_id" : 142968,
+      "name" : "Sonken",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 142479,
-      "name" : "Tama",
+      "character_id" : 142372,
+      "name" : "Tago",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142481,
@@ -119,7 +139,15 @@
       "name" : "Sen`ya",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143116,
+      "name" : "Sen`ya",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 134443,
+      "name" : "Tsukiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143115,
       "name" : "Tsukiko",
       "type" : "CHARACTER"
     } ],
@@ -142,6 +170,14 @@
     }, {
       "character_id" : 135294,
       "name" : "Raidou Zanzou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143260,
+      "name" : "Taizan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142479,
+      "name" : "Tama",
       "type" : "CHARACTER"
     }, {
       "character_id" : 134446,
@@ -198,7 +234,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.85,
+        "rating" : 5.9,
         "total" : 2
       },
       "recap" : false,
@@ -225,7 +261,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.42,
+        "rating" : 6.53,
         "total" : 1
       },
       "recap" : false,
@@ -252,7 +288,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.0,
+        "rating" : 3.09,
         "total" : 1
       },
       "recap" : false,
@@ -279,7 +315,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.42,
+        "rating" : 6.53,
         "total" : 1
       },
       "recap" : false,
@@ -306,8 +342,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.0,
-        "total" : 1
+        "rating" : 6.07,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -332,21 +368,54 @@
       "episode_id" : 284940,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 3.09,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1U2JG7J" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Above the Clouds"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Jusqu`au sommet des nuages"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kumo no Ue made"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "雲の上まで"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-08-29",
+      "description" : "With the battle against Mudo and Matsunaga over, it`s time to return to the road... But some complications may keep Shinsuke from being able to meet up with Tama again, as he originally intended. And just who are the mysterious five who keep hounding Senya?\nSource: Crunchyroll",
       "episode_id" : 284941,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 3.09,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUN283G" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "End of a Journey"
+      }, {
+        "language" : "FRENCH",
+        "title" : "La fin du voyage"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tabi no Owari"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "旅の終わり"
       } ],
       "type" : "REGULAR"
     }, {
@@ -354,17 +423,74 @@
       "episode_id" : 284942,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 6.53,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUZ7EP3" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Furuon"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Furuon"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "古恩"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-12",
+      "episode_id" : 285712,
+      "length" : 25,
+      "number" : 9,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-19",
+      "episode_id" : 285713,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-26",
+      "episode_id" : 285714,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-03",
+      "episode_id" : 285715,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
       "air_date" : "2024-07-11",
       "episode_id" : 283907,
-      "length" : 30,
+      "length" : 25,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
@@ -385,7 +511,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 1.37,
+        "rating" : 1.39,
         "total" : 1
       },
       "recap" : false,
@@ -400,7 +526,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 1.37,
+        "rating" : 1.39,
         "total" : 1
       },
       "recap" : false,
@@ -413,12 +539,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.99,
-      "total" : 13
+      "rating" : 5.69,
+      "total" : 15
     },
     "TEMPORARY" : {
-      "rating" : 6.07,
-      "total" : 13
+      "rating" : 6.0,
+      "total" : 15
     }
   },
   "related" : {
@@ -550,6 +676,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "戦国妖狐 (2024)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "戰國妖狐 千魔混沌篇",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

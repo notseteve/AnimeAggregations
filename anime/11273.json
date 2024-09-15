@@ -669,8 +669,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.56,
-      "total" : 1596
+      "rating" : 5.57,
+      "total" : 1599
     },
     "REVIEW" : {
       "rating" : 7.5,
@@ -678,7 +678,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.83,
-      "total" : 1601
+      "total" : 1604
     }
   },
   "related" : {
@@ -717,6 +717,13 @@
       "verified" : false,
       "weight" : 100
     },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -727,6 +734,14 @@
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2614" : {
+      "info_box" : true,
+      "name" : "josei",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

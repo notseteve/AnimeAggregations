@@ -718,16 +718,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.26,
-      "total" : 3367
+      "rating" : 6.25,
+      "total" : 3374
     },
     "REVIEW" : {
       "rating" : 4.66,
       "total" : 3
     },
     "TEMPORARY" : {
-      "rating" : 7.11,
-      "total" : 3380
+      "rating" : 7.1,
+      "total" : 3387
     }
   },
   "resources" : {
@@ -797,6 +797,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2274" : {
       "info_box" : false,
       "name" : "robot",
@@ -808,6 +816,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

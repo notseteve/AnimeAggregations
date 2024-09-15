@@ -468,7 +468,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 8.02,
+        "rating" : 8.03,
         "total" : 2
       },
       "recap" : false,
@@ -494,7 +494,7 @@
       "length" : 2,
       "number" : 3,
       "rating" : {
-        "rating" : 8.02,
+        "rating" : 8.03,
         "total" : 2
       },
       "recap" : false,
@@ -509,7 +509,7 @@
       "length" : 2,
       "number" : 4,
       "rating" : {
-        "rating" : 8.4,
+        "rating" : 8.41,
         "total" : 1
       },
       "recap" : false,
@@ -523,7 +523,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.7,
-      "total" : 2711
+      "total" : 2716
     },
     "REVIEW" : {
       "rating" : 6.66,
@@ -531,7 +531,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.32,
-      "total" : 2721
+      "total" : 2726
     }
   },
   "resources" : {
@@ -598,6 +598,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -638,6 +645,14 @@
       "info_box" : false,
       "name" : "place",
       "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2614" : {
+      "info_box" : true,
+      "name" : "josei",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

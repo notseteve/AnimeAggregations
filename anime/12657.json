@@ -310,7 +310,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.24,
+        "rating" : 6.23,
         "total" : 9
       },
       "recap" : false,
@@ -394,7 +394,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 4.75,
+        "rating" : 4.74,
         "total" : 10
       },
       "recap" : false,
@@ -1119,7 +1119,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.03,
-      "total" : 2050
+      "total" : 2054
     },
     "REVIEW" : {
       "rating" : 5.66,
@@ -1127,7 +1127,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.98,
-      "total" : 2067
+      "total" : 2071
     }
   },
   "resources" : {
@@ -1157,6 +1157,14 @@
       "info_box" : false,
       "name" : "summoning",
       "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1192,6 +1200,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2607" : {
       "info_box" : false,

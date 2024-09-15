@@ -975,7 +975,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.95,
-      "total" : 1032
+      "total" : 1034
     },
     "REVIEW" : {
       "rating" : 6.27,
@@ -983,7 +983,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.81,
-      "total" : 1042
+      "total" : 1044
     }
   },
   "resources" : {
@@ -1127,6 +1127,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2637" : {
+      "info_box" : true,
+      "name" : "time travel",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "2653" : {
       "info_box" : false,
@@ -1286,6 +1294,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "3648" : {
+      "info_box" : false,
+      "name" : "person from the past",
+      "parent_tag_id" : 2637,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "3703" : {
       "info_box" : false,

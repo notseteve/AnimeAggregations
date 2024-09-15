@@ -285,12 +285,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.37,
-      "total" : 38
+      "rating" : 4.4,
+      "total" : 39
     },
     "TEMPORARY" : {
       "rating" : 5.78,
-      "total" : 39
+      "total" : 40
     }
   },
   "related" : {
@@ -308,6 +308,13 @@
   },
   "start_date" : "2022-07-15",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -326,6 +333,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6399" : {
+      "info_box" : false,
+      "name" : "episodic",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -351,6 +366,10 @@
     "language" : "JAPANESE",
     "title" : "Obey Me! (2022)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Obey Me! Season 2",
+    "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE",
     "title" : "Obey Me! The Anime Season 2",

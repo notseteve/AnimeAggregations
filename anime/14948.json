@@ -269,7 +269,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 2.94,
+        "rating" : 2.95,
         "total" : 1
       },
       "recap" : false,
@@ -365,6 +365,21 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -372,6 +387,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "3315" : {
+      "info_box" : false,
+      "name" : "superhero",
+      "parent_tag_id" : 2623,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "6173" : {
       "info_box" : false,

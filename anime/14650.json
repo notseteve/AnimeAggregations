@@ -1,5 +1,42 @@
 {
   "anime_id" : 14650,
+  "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 143179,
+      "name" : "Hua Lang",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143177,
+      "name" : "Lu Die",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143178,
+      "name" : "Lu Ge",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143176,
+      "name" : "Lu Niang",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143180,
+      "name" : "Ye Luo",
+      "type" : "CHARACTER"
+    } ],
+    "MAIN" : [ {
+      "character_id" : 143173,
+      "name" : "Xiaoye",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 143175,
+      "name" : "Lulu Bingliu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143174,
+      "name" : "Yeqing Xiyue",
+      "type" : "CHARACTER"
+    } ]
+  },
   "end_date" : "2019-03-23",
   "episodes" : {
     "REGULAR" : [ {
@@ -576,13 +613,60 @@
   },
   "resources" : {
     "BAIDU_BAIKE" : [ "巨兵长城传" ],
-    "MAL" : [ "39679" ]
+    "MAL" : [ "39679" ],
+    "WEBSITE" : [ "https://www.weibo.com/qipasanguo" ]
   },
   "start_date" : "2019-01-19",
   "tags" : {
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2857" : {
+      "info_box" : true,
+      "name" : "anthropomorphism",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -595,10 +679,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "3968" : {
+      "info_box" : false,
+      "name" : "animal protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5939" : {
       "info_box" : false,
       "name" : "CAST MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6097" : {
+      "info_box" : false,
+      "name" : "3D CG animation",
+      "parent_tag_id" : 4064,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -625,6 +733,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6494" : {
       "info_box" : true,
       "name" : "half-length episodes",
@@ -637,6 +753,14 @@
       "info_box" : false,
       "name" : "STAFF MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -657,6 +781,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "The Great Warrior Wall",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_TRANSLITERATED",
+    "title" : "qipasanguo",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES"

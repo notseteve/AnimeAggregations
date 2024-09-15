@@ -2,12 +2,28 @@
   "anime_id" : 17635,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 143100,
+      "name" : "Ishige",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142572,
       "name" : "Miyo",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143098,
+      "name" : "Saki",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142571,
       "name" : "Tooru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143183,
+      "name" : "Yasuda",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143099,
+      "name" : "Youko",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -73,6 +89,10 @@
       "name" : "Matsumoto Fuminori",
       "type" : "MUSIC"
     } ],
+    "59501" : [ {
+      "name" : "Hayashi Kana",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "68839" : [ {
       "name" : "Aniplex.exe",
       "type" : "ORIGINAL_WORK"
@@ -86,7 +106,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.48,
+        "rating" : 5.5,
         "total" : 6
       },
       "recap" : false,
@@ -113,7 +133,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.89,
+        "rating" : 4.91,
         "total" : 4
       },
       "recap" : false,
@@ -140,7 +160,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.83,
+        "rating" : 5.88,
         "total" : 2
       },
       "recap" : false,
@@ -164,7 +184,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.64,
+        "rating" : 4.69,
         "total" : 2
       },
       "recap" : false,
@@ -188,7 +208,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.08,
+        "rating" : 4.13,
         "total" : 2
       },
       "recap" : false,
@@ -211,10 +231,23 @@
       "episode_id" : 285016,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 5.33,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UDMQ4P" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Boku no Atama no Naka no Uta"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Song Inside My Head"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "僕のあたまの中の歌"
       } ],
       "type" : "REGULAR"
     }, {
@@ -222,10 +255,23 @@
       "episode_id" : 285017,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 3.61,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9U3E1X0" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Roboko the Date"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Toaster on a Date"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ロボ子・ザ・デート"
       } ],
       "type" : "REGULAR"
     }, {
@@ -233,22 +279,90 @@
       "episode_id" : 285018,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 5.33,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUX1KV2" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Namiutsu Yoru ga Kite"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Rippling Night Has Come"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "波打つ夜が来て"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-08",
+      "episode_id" : 285855,
+      "length" : 25,
+      "number" : 9,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-15",
+      "episode_id" : 285856,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-22",
+      "episode_id" : 285857,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-29",
+      "episode_id" : 285858,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-06",
+      "episode_id" : 285859,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 13"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.14,
-      "total" : 33
+      "rating" : 5.09,
+      "total" : 39
     },
     "TEMPORARY" : {
-      "rating" : 5.66,
-      "total" : 33
+      "rating" : 5.55,
+      "total" : 39
     }
   },
   "resources" : {

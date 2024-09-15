@@ -307,7 +307,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.9,
         "total" : 11
       },
       "recap" : false,
@@ -363,7 +363,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.64,
+        "rating" : 3.63,
         "total" : 10
       },
       "recap" : false,
@@ -391,7 +391,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.52,
+        "rating" : 4.51,
         "total" : 10
       },
       "recap" : false,
@@ -727,7 +727,7 @@
       "length" : 25,
       "number" : 18,
       "rating" : {
-        "rating" : 4.13,
+        "rating" : 4.12,
         "total" : 5
       },
       "recap" : false,
@@ -1557,12 +1557,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.81,
-      "total" : 1900
+      "rating" : 4.8,
+      "total" : 1905
     },
     "TEMPORARY" : {
       "rating" : 6.46,
-      "total" : 1909
+      "total" : 1914
     }
   },
   "related" : {
@@ -1592,6 +1592,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2094" : {
       "info_box" : true,
       "name" : "magic",
@@ -1610,6 +1618,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1906,6 +1921,10 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Fate: Fate/Apocrypha",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "UNKNOWN",
+    "title" : "フェイト/アポクリファ",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

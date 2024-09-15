@@ -244,9 +244,30 @@
   },
   "start_date" : "2024-06-14",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -289,6 +310,14 @@
       "verified" : false,
       "weight" : 500
     },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2853" : {
       "info_box" : false,
       "name" : "comedy",
@@ -305,6 +334,38 @@
       "verified" : false,
       "weight" : 500
     },
+    "3472" : {
+      "info_box" : false,
+      "name" : "unusual illness",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5939" : {
+      "info_box" : false,
+      "name" : "CAST MISSING",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6152" : {
       "info_box" : false,
       "name" : "Chinese production",
@@ -320,10 +381,40 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6744" : {
       "info_box" : true,
       "name" : "isekai",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6850" : {
+      "info_box" : false,
+      "name" : "STAFF MISSING",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8123" : {
+      "info_box" : false,
+      "name" : "ancient era ambience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8164" : {
+      "info_box" : false,
+      "name" : "transmigration",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -341,6 +432,18 @@
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "成何体统",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRANSLITERATED",
+    "title" : "Cheng He Ti Tong",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "How dare you do that?",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "This Is Ridiculous",
+    "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",
     "title" : "What A Scandal",

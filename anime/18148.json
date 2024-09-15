@@ -1,6 +1,67 @@
 {
   "anime_id" : 18148,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 143144,
+      "name" : "Abraham",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143155,
+      "name" : "Albrecht",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143145,
+      "name" : "Catalina",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143149,
+      "name" : "Clara",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143148,
+      "name" : "Claus",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143160,
+      "name" : "Damian Stone",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143161,
+      "name" : "Ferdinand",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143151,
+      "name" : "Frida Delico",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143153,
+      "name" : "Johannes Vlad",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143150,
+      "name" : "Juras",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143156,
+      "name" : "Kate Lorca",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143147,
+      "name" : "Keith",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143146,
+      "name" : "Kiki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143152,
+      "name" : "Maurice",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143154,
+      "name" : "Rein",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 135137,
       "name" : "Dali Delico",
@@ -60,6 +121,14 @@
       "name" : "Itou Youko",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "7763" : [ {
+      "name" : "Takahashi Nariyuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "24683" : [ {
+      "name" : "Chiba Mitsuru",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "48227" : [ {
       "name" : "Suemitsu Ken`ichi",
       "type" : "ORIGINAL_WORK"
@@ -104,8 +173,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.58,
-        "total" : 1
+        "rating" : 4.02,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -127,7 +196,14 @@
       "episode_id" : 284123,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 4.02,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9U3EK4P" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shinobiyoru Kage"
@@ -144,10 +220,73 @@
       "episode_id" : 284124,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 3.57,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUX1P4N" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Curse Called Love"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ai to Iu Na no Noroi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "愛という名の呪い"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-05",
+      "episode_id" : 285703,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Daini no Nursery"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Second Nursery"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第二のナーサリー"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-12",
+      "episode_id" : 285704,
+      "length" : 25,
+      "number" : 6,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-19",
+      "episode_id" : 285705,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-26",
+      "episode_id" : 285706,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -172,12 +311,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.41,
-      "total" : 13
+      "rating" : 2.61,
+      "total" : 17
     },
     "TEMPORARY" : {
-      "rating" : 4.46,
-      "total" : 13
+      "rating" : 4.23,
+      "total" : 17
     }
   },
   "resources" : {

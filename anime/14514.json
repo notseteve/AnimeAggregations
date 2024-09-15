@@ -290,7 +290,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.0,
+        "rating" : 6.99,
         "total" : 10
       },
       "recap" : false,
@@ -894,7 +894,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.61,
-      "total" : 1548
+      "total" : 1554
     },
     "REVIEW" : {
       "rating" : 9.66,
@@ -902,7 +902,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.8,
-      "total" : 1554
+      "total" : 1560
     }
   },
   "resources" : {
@@ -954,6 +954,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "1973" : {
       "info_box" : false,
@@ -1013,6 +1021,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

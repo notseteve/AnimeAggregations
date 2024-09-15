@@ -239,7 +239,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.99,
-      "total" : 2234
+      "total" : 2245
     },
     "REVIEW" : {
       "rating" : 5.75,
@@ -247,7 +247,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.93,
-      "total" : 2248
+      "total" : 2259
     }
   },
   "related" : {
@@ -295,9 +295,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -654,10 +669,6 @@
     "title" : "Дитя погоды",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ARABIC",
-    "title" : "ويذرنق وذ يو",
-    "type" : "OFFICIAL"
-  }, {
     "language" : "THAI",
     "title" : "ฤดูฝัน ฉันมีเธอ",
     "type" : "OFFICIAL"
@@ -684,6 +695,10 @@
   }, {
     "language" : "ARABIC",
     "title" : "ابنة الجو",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ARABIC",
+    "title" : "ويذرنق وذ يو",
     "type" : "SYNONYM"
   } ],
   "type" : "MOVIE",

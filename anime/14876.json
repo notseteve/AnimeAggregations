@@ -54,7 +54,7 @@
       "length" : 100,
       "number" : 1,
       "rating" : {
-        "rating" : 3.0,
+        "rating" : 3.01,
         "total" : 1
       },
       "recap" : false,
@@ -67,12 +67,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.27,
-      "total" : 98
+      "rating" : 7.28,
+      "total" : 99
     },
     "TEMPORARY" : {
-      "rating" : 6.93,
-      "total" : 98
+      "rating" : 6.94,
+      "total" : 99
     }
   },
   "related" : {
@@ -97,6 +97,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "1077" : {
+      "info_box" : true,
+      "name" : "shoujo",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2094" : {
       "info_box" : true,
       "name" : "magic",
@@ -109,6 +117,13 @@
       "info_box" : false,
       "name" : "amnesia",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -159,6 +174,30 @@
       "verified" : false,
       "weight" : 400
     },
+    "3055" : {
+      "info_box" : false,
+      "name" : "fairy tale",
+      "parent_tag_id" : 3876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3876" : {
+      "info_box" : false,
+      "name" : "folklore",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4278" : {
       "info_box" : false,
       "name" : "stand-alone movie",
@@ -185,6 +224,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6850" : {
+      "info_box" : false,
+      "name" : "STAFF MISSING",
+      "parent_tag_id" : 30,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

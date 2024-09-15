@@ -2,12 +2,29 @@
   "anime_id" : 8975,
   "characters" : {
     "MAIN" : [ {
+      "character_id" : 143222,
+      "name" : "Emma Elephant",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 41244,
       "name" : "Pabu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 41245,
       "name" : "Rosie",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 143223,
+      "name" : "Kerry Kangaroo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143224,
+      "name" : "Rose Rabbit",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143225,
+      "name" : "Rosie Rabbit",
       "type" : "CHARACTER"
     } ]
   },
@@ -785,6 +802,13 @@
   },
   "start_date" : "2012-04-02",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1846" : {
       "info_box" : true,
       "name" : "kodomo",
@@ -819,6 +843,14 @@
       "info_box" : false,
       "name" : "animal world",
       "parent_tag_id" : 2857,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5939" : {
+      "info_box" : false,
+      "name" : "CAST MISSING",
+      "parent_tag_id" : 30,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

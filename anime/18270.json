@@ -112,7 +112,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.21,
+        "rating" : 5.23,
         "total" : 7
       },
       "recap" : false,
@@ -140,7 +140,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.47,
+        "rating" : 5.5,
         "total" : 6
       },
       "recap" : false,
@@ -224,7 +224,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.58,
+        "rating" : 7.59,
         "total" : 4
       },
       "recap" : false,
@@ -252,7 +252,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.07,
+        "rating" : 9.08,
         "total" : 4
       },
       "recap" : false,
@@ -280,7 +280,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.77,
+        "rating" : 7.78,
         "total" : 4
       },
       "recap" : false,
@@ -336,7 +336,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.0,
+        "rating" : 6.01,
         "total" : 4
       },
       "recap" : false,
@@ -364,7 +364,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.18,
+        "rating" : 6.19,
         "total" : 3
       },
       "recap" : false,
@@ -391,7 +391,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.45,
+        "rating" : 5.47,
         "total" : 3
       },
       "recap" : false,
@@ -418,7 +418,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.45,
+        "rating" : 5.47,
         "total" : 3
       },
       "recap" : false,
@@ -443,16 +443,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.77,
-      "total" : 363
+      "rating" : 2.76,
+      "total" : 388
     },
     "REVIEW" : {
       "rating" : 4.5,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 5.5,
-      "total" : 365
+      "rating" : 5.52,
+      "total" : 390
     }
   },
   "resources" : {
@@ -466,6 +466,12 @@
     "WEBSITE" : [ "https://the-new-gate-pr.com/" ],
     "WIKIPEDIA_EN" : [ "The_New_Gate_(novel_series)" ],
     "WIKIPEDIA_JP" : [ "THE_NEW_GATE" ]
+  },
+  "similar" : {
+    "10816" : {
+      "rating" : 2.0,
+      "total" : 5
+    }
   },
   "start_date" : "2024-04-14",
   "tags" : {
@@ -645,6 +651,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "ザ・ニュー・ゲート",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "新世界之门",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

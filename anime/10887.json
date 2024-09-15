@@ -137,7 +137,7 @@
       "length" : 4,
       "number" : 3,
       "rating" : {
-        "rating" : 3.26,
+        "rating" : 3.25,
         "total" : 8
       },
       "recap" : false,
@@ -179,18 +179,20 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.12,
-      "total" : 1379
+      "total" : 1384
     },
     "TEMPORARY" : {
       "rating" : 6.61,
-      "total" : 1388
+      "total" : 1393
     }
   },
   "related" : {
     "OTHER" : [ 7729 ]
   },
   "resources" : {
+    "IMDB" : [ "tt9336256" ],
     "MAL" : [ "27957" ],
+    "TMDB" : [ "tv/228280" ],
     "WEBSITE" : [ "https://web.archive.org/web/20150206055809/http://www.mugendai-web.jp/steinsgate/" ],
     "WIKIPEDIA_EN" : [ "Steins;Gate#Anime" ],
     "WIKIPEDIA_JP" : [ "STEINS;GATE#.E3.82.A2.E3.83.8B.E3.83.A1" ]
@@ -501,6 +503,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Steins;Gate: The Sagacious Wisdom of Cognitive Computing",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "RUSSIAN",
+    "title" : "Врата Штейна: Великая мудрость когнитивного компьютера",
     "type" : "SYNONYM"
   } ],
   "type" : "WEB",

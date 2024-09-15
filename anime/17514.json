@@ -103,7 +103,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.8,
+        "rating" : 2.79,
         "total" : 5
       },
       "recap" : false,
@@ -228,7 +228,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.44,
+        "rating" : 6.43,
         "total" : 3
       },
       "recap" : false,
@@ -278,7 +278,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.81,
+        "rating" : 3.8,
         "total" : 3
       },
       "recap" : false,
@@ -328,7 +328,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 3.81,
+        "rating" : 3.8,
         "total" : 3
       },
       "recap" : false,
@@ -353,7 +353,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 8.33,
+        "rating" : 8.34,
         "total" : 2
       },
       "recap" : false,
@@ -378,7 +378,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 9.33,
+        "rating" : 9.34,
         "total" : 2
       },
       "recap" : false,
@@ -400,12 +400,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.3,
-      "total" : 81
+      "rating" : 2.26,
+      "total" : 83
     },
     "TEMPORARY" : {
-      "rating" : 4.57,
-      "total" : 82
+      "rating" : 4.62,
+      "total" : 84
     }
   },
   "resources" : {
@@ -428,6 +428,13 @@
   },
   "start_date" : "2024-04-06",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -435,10 +442,41 @@
       "verified" : false,
       "weight" : 0
     },
+    "2759" : {
+      "info_box" : true,
+      "name" : "motorsport",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2797" : {
       "info_box" : true,
       "name" : "new",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2881" : {
+      "info_box" : true,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "5916" : {
+      "info_box" : false,
+      "name" : "product placement",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

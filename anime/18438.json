@@ -11,16 +11,16 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
-      "character_id" : 140930,
-      "name" : "Adaka Tomohiro",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 141723,
       "name" : "Civit Gartland",
       "type" : "CHARACTER"
     }, {
       "character_id" : 141722,
       "name" : "Eve Speed",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140932,
+      "name" : "Ikusaba Asagi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140936,
@@ -40,15 +40,11 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 140931,
-      "name" : "Odawara Shougo",
+      "name" : "Oyamada Shougo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140330,
       "name" : "Piggymaru",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 140932,
-      "name" : "Senjou Asagi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140929,
@@ -65,6 +61,10 @@
     }, {
       "character_id" : 140331,
       "name" : "Vicius",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140930,
+      "name" : "Yasu Tomohiro",
       "type" : "CHARACTER"
     } ]
   },
@@ -187,7 +187,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.98,
+        "rating" : 3.99,
         "total" : 6
       },
       "recap" : false,
@@ -214,7 +214,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.43,
+        "rating" : 3.44,
         "total" : 5
       },
       "recap" : false,
@@ -241,8 +241,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.66,
-        "total" : 4
+        "rating" : 3.17,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -267,10 +267,20 @@
       "episode_id" : 284485,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 5.95,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWUK942P" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Le champion sanglant de Monroy"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Monroy no Chi Toushi"
+        "title" : "Monroy no Kettoushi"
       }, {
         "language" : "ENGLISH",
         "title" : "Monroy`s Bloodsport Champion"
@@ -284,10 +294,26 @@
       "episode_id" : 284486,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 4.72,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XU07WPQ" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Aux côtés du roi des mouches"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hae Ou to Tomo ni"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Together with the Lord of Flies"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "蝿王と共に"
       } ],
       "type" : "REGULAR"
     }, {
@@ -298,7 +324,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Dark Plot: Missing"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kokusaku: Missing"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "黒策 ~missing~"
       } ],
       "type" : "REGULAR"
     }, {
@@ -356,12 +388,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.89,
-      "total" : 75
+      "rating" : 3.07,
+      "total" : 79
     },
     "TEMPORARY" : {
-      "rating" : 5.13,
-      "total" : 77
+      "rating" : 5.31,
+      "total" : 81
     }
   },
   "resources" : {
@@ -378,8 +410,8 @@
   },
   "similar" : {
     "13624" : {
-      "rating" : 8.75,
-      "total" : 8
+      "rating" : 8.461538461538462,
+      "total" : 13
     }
   },
   "start_date" : "2024-07-05",
@@ -506,11 +538,27 @@
     "type" : "SHORT"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Hazure Waku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete o Juurin Suru made",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Hazurewaku",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "I Became the Strongest with the Failure Frame \"Abnormal State Skill\" as i Devastated Everything",
     "type" : "SYNONYM"
   }, {
     "language" : "CHINESE_SIMPLIFIED",

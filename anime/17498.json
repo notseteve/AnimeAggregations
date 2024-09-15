@@ -196,7 +196,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.55,
+        "rating" : 7.54,
         "total" : 5
       },
       "recap" : false,
@@ -578,12 +578,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.75,
-      "total" : 410
+      "rating" : 5.79,
+      "total" : 418
     },
     "TEMPORARY" : {
-      "rating" : 6.8,
-      "total" : 411
+      "rating" : 6.82,
+      "total" : 419
     }
   },
   "resources" : {
@@ -679,6 +679,30 @@
       "verified" : false,
       "weight" : 600
     },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3683" : {
       "info_box" : false,
       "name" : "storytelling",
@@ -707,6 +731,14 @@
       "info_box" : true,
       "name" : "manhwa",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5093" : {
+      "info_box" : false,
+      "name" : "royal intrigue",
+      "parent_tag_id" : 2867,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -758,10 +790,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8164" : {
+      "info_box" : false,
+      "name" : "transmigration",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

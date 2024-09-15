@@ -1,6 +1,103 @@
 {
   "anime_id" : 18179,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 30292,
+      "name" : "Andou Keisuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142927,
+      "name" : "Chizuru no Ani",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142928,
+      "name" : "Chizuru no Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12186,
+      "name" : "Endou Tomomi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142923,
+      "name" : "Fujimoto Shun`ya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142917,
+      "name" : "Higa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12187,
+      "name" : "Hirano Eriko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12188,
+      "name" : "Jounouchi Souichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142924,
+      "name" : "Katou Hajime",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142921,
+      "name" : "Kazehaya Shouichirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142920,
+      "name" : "Kazehaya Tokie",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 13167,
+      "name" : "Kazehaya Touta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142916,
+      "name" : "Mogi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142925,
+      "name" : "Negishi Ryou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142918,
+      "name" : "Sae",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 13166,
+      "name" : "Sanada Genji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142929,
+      "name" : "Sanada Tetsuko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 15913,
+      "name" : "Sanada Tooru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142926,
+      "name" : "Satou Maya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12191,
+      "name" : "Sawako no Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12190,
+      "name" : "Sawako no Haha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 26690,
+      "name" : "Takahashi Chigusa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 127885,
+      "name" : "Yoshida Chiaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142919,
+      "name" : "Yui",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 11136,
       "name" : "Kazehaya Shouta",
@@ -82,6 +179,10 @@
       "episode_id" : 284953,
       "length" : 70,
       "number" : 1,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -99,6 +200,10 @@
       "episode_id" : 284954,
       "length" : 70,
       "number" : 2,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -117,8 +222,8 @@
       "length" : 65,
       "number" : 3,
       "rating" : {
-        "rating" : 8.65,
-        "total" : 1
+        "rating" : 9.98,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -137,6 +242,10 @@
       "episode_id" : 284956,
       "length" : 75,
       "number" : 4,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -172,6 +281,10 @@
       "episode_id" : 284958,
       "length" : 15,
       "number" : 1,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : true,
       "titles" : [ {
         "language" : "JAPANESE",
@@ -255,12 +368,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 9.25,
-      "total" : 30
+      "rating" : 8.77,
+      "total" : 52
     },
     "TEMPORARY" : {
-      "rating" : 8.31,
-      "total" : 30
+      "rating" : 8.06,
+      "total" : 53
     }
   },
   "related" : {
@@ -268,6 +381,7 @@
   },
   "resources" : {
     "ALL_CINEMA" : [ "391306" ],
+    "ANISON" : [ "25602" ],
     "ANN" : [ "29713" ],
     "MAL" : [ "56538" ],
     "NETFLIX" : [ "80236253" ],
@@ -337,6 +451,10 @@
     "language" : "JAPANESE",
     "title" : "君に届け 3RD SEASON",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "kimitodo 3",
+    "type" : "SHORT"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Kimi ni Todoke Season 3",

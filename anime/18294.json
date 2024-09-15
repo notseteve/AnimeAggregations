@@ -2,6 +2,10 @@
   "anime_id" : 18294,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 142833,
+      "name" : "Andy",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139938,
       "name" : "Babazono Kiyoshi",
       "type" : "CHARACTER"
@@ -185,6 +189,10 @@
       "name" : "Daifuku",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142982,
+      "name" : "Gaou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139151,
       "name" : "Inukai Tsuyoshi",
       "type" : "CHARACTER"
@@ -201,8 +209,20 @@
       "name" : "Nekoyashiki Mayu",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142985,
+      "name" : "Niko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142983,
+      "name" : "Torame",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 137079,
       "name" : "Toyama Satoru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142984,
+      "name" : "Zakuro",
       "type" : "CHARACTER"
     } ]
   },
@@ -812,12 +832,15 @@
       "length" : 25,
       "number" : 29,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUX1V10" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Hajimemashite Niko-sama!"
       }, {
         "language" : "ENGLISH",
-        "title" : "Nice to Meet You, Niko-sama"
+        "title" : "Nice to Meet You, Niko-sama!"
       }, {
         "language" : "JAPANESE",
         "title" : "はじめましてニコ様!"
@@ -829,9 +852,18 @@
       "length" : 25,
       "number" : 30,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU0M9MG" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 30"
+        "title" : "A Wonderful Castle!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Wonderful na Castle!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "わんだふるなキャッスル!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -840,9 +872,18 @@
       "length" : 25,
       "number" : 31,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UXN9N5" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 31"
+        "title" : "Nyanfluencer Mayu"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nyanfluencer Mayu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ニャンフルエンサーまゆ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -852,8 +893,14 @@
       "number" : 32,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Doubutsuen no Oshi Animal"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 32"
+        "title" : "Favorite Animal at the Zoo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "動物園の推しアニマル"
       } ],
       "type" : "REGULAR"
     } ]
@@ -911,6 +958,10 @@
     "language" : "JAPANESE",
     "title" : "わんだふるぷりきゅあ!",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "UNKNOWN",
+    "title" : "precure21",
+    "type" : "SHORT"
   } ],
   "type" : "SERIES",
   "url" : "https://www.toei-anim.co.jp/tv/wonderful_precure/"

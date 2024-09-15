@@ -243,7 +243,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.67,
+        "rating" : 5.66,
         "total" : 4
       },
       "recap" : false,
@@ -383,7 +383,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.08,
+        "rating" : 4.07,
         "total" : 4
       },
       "recap" : false,
@@ -639,6 +639,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
@@ -649,6 +657,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -913,12 +928,32 @@
     "title" : "Rewrite S2",
     "type" : "SHORT"
   }, {
+    "language" : "UNKNOWN",
+    "title" : "Rewrite 2nd Part",
+    "type" : "SYNONYM"
+  }, {
     "language" : "JAPANESE",
     "title" : "Rewrite 2nd Season Moon編 / Terra編",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Rewrite 2nd Season: Moon Hen / Terra Hen",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "UNKNOWN",
+    "title" : "Rewrite 2nd part: Moon-hen/Terra-hen",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "UNKNOWN",
+    "title" : "Rewrite 2ndシーズン",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "UNKNOWN",
+    "title" : "Rewrite Part 2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "UNKNOWN",
+    "title" : "Rewrite: Moon and Terra",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
