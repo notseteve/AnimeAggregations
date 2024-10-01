@@ -2,6 +2,14 @@
   "anime_id" : 18509,
   "characters" : {
     "MAIN" : [ {
+      "character_id" : 143382,
+      "name" : "Hinata",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143383,
+      "name" : "Sawaki",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140844,
       "name" : "Tatsuhiko",
       "type" : "CHARACTER"
@@ -20,6 +28,7 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-06-07",
+      "description" : "Yuri kisses him with love to erase her husband`s worries and heads off to the class reunion.\nAmong the classmates however... she meets her ex-boyfriend Tatsuhiko for the first time in many years...\nSource: hanime.tv",
       "episode_id" : 277870,
       "length" : 20,
       "number" : 1,
@@ -40,19 +49,19 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Spellbound with Reminiscence"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.44,
-      "total" : 16
+      "rating" : 3.42,
+      "total" : 17
     },
     "TEMPORARY" : {
-      "rating" : 5.35,
-      "total" : 17
+      "rating" : 5.33,
+      "total" : 18
     }
   },
   "resources" : {
@@ -158,6 +167,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2787" : {
+      "info_box" : false,
+      "name" : "teacher x student",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -166,9 +183,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "2845" : {
+      "info_box" : false,
+      "name" : "blackmail",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2848" : {
       "info_box" : false,
       "name" : "pornography",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,

@@ -74,16 +74,62 @@
     "ALL_CINEMA" : [ "394209" ],
     "ANN" : [ "29545" ],
     "MAL" : [ "56400" ],
+    "SYOBOI" : [ "7206" ],
     "TWITTER" : [ "maousama_anime" ],
     "WEBSITE" : [ "https://maousama-anime.com/2024/" ],
     "WIKIPEDIA_EN" : [ "Demon_Lord,_Retry!" ],
     "WIKIPEDIA_JP" : [ "魔王様、リトライ!" ]
   },
-  "start_date" : "2024-10",
+  "start_date" : "2024-09-28",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7496" : {
+      "info_box" : false,
+      "name" : "preaired episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

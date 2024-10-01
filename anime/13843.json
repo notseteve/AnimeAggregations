@@ -81,7 +81,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.6,
+        "rating" : 6.66,
         "total" : 2
       },
       "recap" : false,
@@ -106,7 +106,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.6,
+        "rating" : 6.66,
         "total" : 2
       },
       "recap" : false,
@@ -131,7 +131,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 9.8,
+        "rating" : 9.81,
         "total" : 2
       },
       "recap" : false,
@@ -156,7 +156,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.91,
+        "rating" : 2.98,
         "total" : 2
       },
       "recap" : false,
@@ -181,7 +181,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.54,
+        "rating" : 4.63,
         "total" : 2
       },
       "recap" : false,
@@ -206,7 +206,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.42,
+        "rating" : 8.46,
         "total" : 2
       },
       "recap" : false,
@@ -231,7 +231,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.64,
+        "rating" : 4.7,
         "total" : 2
       },
       "recap" : false,
@@ -256,7 +256,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 9.8,
+        "rating" : 9.81,
         "total" : 2
       },
       "recap" : false,
@@ -281,7 +281,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.6,
+        "rating" : 6.66,
         "total" : 2
       },
       "recap" : false,
@@ -306,7 +306,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.6,
+        "rating" : 6.66,
         "total" : 2
       },
       "recap" : false,
@@ -331,7 +331,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 4.64,
+        "rating" : 4.7,
         "total" : 2
       },
       "recap" : false,
@@ -356,7 +356,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 8.5,
+        "rating" : 8.52,
         "total" : 2
       },
       "recap" : false,
@@ -399,7 +399,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 9.84,
+        "rating" : 9.86,
         "total" : 1
       },
       "recap" : false,
@@ -414,7 +414,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 6.79,
+        "rating" : 6.83,
         "total" : 1
       },
       "recap" : false,
@@ -452,10 +452,64 @@
   },
   "start_date" : "2018-10-02",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2641" : {
+      "info_box" : false,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3327" : {
+      "info_box" : false,
+      "name" : "manly",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4064" : {
       "info_box" : false,
       "name" : "CGI",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

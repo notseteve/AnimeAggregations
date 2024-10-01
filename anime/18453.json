@@ -111,6 +111,9 @@
     "65904" : [ {
       "name" : "Hayashi Nami",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Hayashi Nami",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "75299" : [ {
       "name" : "Miyakawa Taiga",
@@ -125,7 +128,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 1.87,
+        "rating" : 1.88,
         "total" : 4
       },
       "recap" : false,
@@ -179,7 +182,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.08,
+        "rating" : 3.07,
         "total" : 1
       },
       "recap" : false,
@@ -306,9 +309,18 @@
       "length" : 25,
       "number" : 9,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9UQEZG5" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Emperor"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Koutei"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "皇帝"
       } ],
       "type" : "REGULAR"
     }, {
@@ -317,9 +329,18 @@
       "length" : 25,
       "number" : 10,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUQ58J2" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Closing"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ketsu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "結"
       } ],
       "type" : "REGULAR"
     }, {
@@ -344,16 +365,39 @@
         "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-07-03",
+      "episode_id" : 286265,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-03",
+      "episode_id" : 286266,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 1.67,
-      "total" : 35
+      "rating" : 1.58,
+      "total" : 37
     },
     "TEMPORARY" : {
-      "rating" : 3.32,
-      "total" : 36
+      "rating" : 3.25,
+      "total" : 38
     }
   },
   "resources" : {

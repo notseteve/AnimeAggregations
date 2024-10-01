@@ -448,7 +448,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.51,
+        "rating" : 6.52,
         "total" : 6
       },
       "recap" : false,
@@ -569,8 +569,8 @@
       "total" : 61
     },
     "3195" : {
-      "rating" : 6.923076923076923,
-      "total" : 26
+      "rating" : 5.625,
+      "total" : 32
     },
     "5186" : {
       "rating" : 9.032258064516128,
@@ -653,6 +653,14 @@
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -776,6 +784,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "4150" : {
       "info_box" : false,
       "name" : "everybody is nice",
@@ -791,6 +807,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "6149" : {
       "info_box" : false,
@@ -810,6 +834,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

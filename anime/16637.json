@@ -30,6 +30,10 @@
       "name" : "Brandish Mu",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 37835,
+      "name" : "Capricorn",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 42937,
       "name" : "Droy",
       "type" : "CHARACTER"
@@ -74,6 +78,10 @@
       "name" : "Ichiya Wanderlei Kotobuki",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 22024,
+      "name" : "Igneel",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 13899,
       "name" : "Jellal Fernandes",
       "type" : "CHARACTER"
@@ -110,6 +118,10 @@
       "name" : "Lisanna Strauss",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 13895,
+      "name" : "Loki",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 17636,
       "name" : "Lucky Ollietta",
       "type" : "CHARACTER"
@@ -120,6 +132,10 @@
     }, {
       "character_id" : 12248,
       "name" : "Makarov Dreyar",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 40291,
+      "name" : "Mavis Vermilion",
       "type" : "CHARACTER"
     }, {
       "character_id" : 42935,
@@ -158,12 +174,20 @@
       "name" : "Sting Eucliffe",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 13902,
+      "name" : "Taurus",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 13926,
       "name" : "Virgo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 42938,
       "name" : "Warren Rocko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 36680,
+      "name" : "Zeref Dragneel",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -200,6 +224,14 @@
       "name" : "Elefseria",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143349,
+      "name" : "Georg Reizen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143350,
+      "name" : "Ignia",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140502,
       "name" : "Karameel",
       "type" : "CHARACTER"
@@ -216,12 +248,20 @@
       "name" : "Mercphobia",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143353,
+      "name" : "Nebaru",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141950,
       "name" : "Skullion Raider",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140503,
       "name" : "Touka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143351,
+      "name" : "Wraith",
       "type" : "CHARACTER"
     } ]
   },
@@ -267,7 +307,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.58,
+        "rating" : 3.56,
         "total" : 2
       },
       "recap" : false,
@@ -297,7 +337,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.33,
+        "rating" : 4.31,
         "total" : 2
       },
       "recap" : false,
@@ -327,7 +367,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.92,
+        "rating" : 5.88,
         "total" : 1
       },
       "recap" : false,
@@ -357,7 +397,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.92,
+        "rating" : 5.88,
         "total" : 1
       },
       "recap" : false,
@@ -499,6 +539,9 @@
         "CRUNCHY_ROLL" : [ "GQJUG5JGX" ]
       },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "White Out"
+      }, {
         "language" : "ENGLISH",
         "title" : "Whiteout"
       }, {
@@ -515,9 +558,18 @@
       "length" : 25,
       "number" : 10,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UZ0PZJ" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Arata naru Shikaku-tachi"
+      }, {
+        "language" : "FRENCH",
+        "title" : "De nouveaux tueurs"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Neue Angreifer"
       }, {
         "language" : "ENGLISH",
         "title" : "New Foes"
@@ -532,9 +584,21 @@
       "length" : 25,
       "number" : 11,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU82X89" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Der Geisterdrache Wraith"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Reiryuu no Wraith"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Wraith, the Spirit Dragon"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "霊竜のレイス"
       } ],
       "type" : "REGULAR"
     }, {
@@ -545,7 +609,60 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "A Card in the Hand"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Der Trumpf für den Gegenangriff"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hangeki no Kirifuda"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "反撃の切り札"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-09-29",
+      "episode_id" : 286438,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 13"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-06",
+      "episode_id" : 286439,
+      "length" : 25,
+      "number" : 14,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 14"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-13",
+      "episode_id" : 286440,
+      "length" : 25,
+      "number" : 15,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 15"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-20",
+      "episode_id" : 286441,
+      "length" : 25,
+      "number" : 16,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 16"
       } ],
       "type" : "REGULAR"
     } ],
@@ -564,12 +681,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.3,
-      "total" : 16
+      "rating" : 4.28,
+      "total" : 18
     },
     "TEMPORARY" : {
-      "rating" : 6.28,
-      "total" : 16
+      "rating" : 6.13,
+      "total" : 18
     }
   },
   "related" : {

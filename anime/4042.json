@@ -30,7 +30,7 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 3.12,
+        "rating" : 3.16,
         "total" : 1
       },
       "recap" : false,
@@ -83,12 +83,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2629" : {
+      "info_box" : false,
+      "name" : "desert",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2841" : {
       "info_box" : false,
@@ -105,6 +135,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3625" : {
+      "info_box" : false,
+      "name" : "water scarcity",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "4350" : {
       "info_box" : false,

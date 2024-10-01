@@ -42,6 +42,10 @@
       "name" : "Jin`un",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 139171,
+      "name" : "Jin`un",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142967,
       "name" : "Kikudoumaru",
       "type" : "CHARACTER"
@@ -62,6 +66,10 @@
       "name" : "Kuruigami",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 137491,
+      "name" : "Kuzunoha",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142766,
       "name" : "Mashira",
       "type" : "CHARACTER"
@@ -74,12 +82,12 @@
       "name" : "Mudo",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 142480,
-      "name" : "Nau",
+      "character_id" : 143450,
+      "name" : "Nadare",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 135289,
-      "name" : "Ooyama Mitsuchi-hime",
+      "character_id" : 142480,
+      "name" : "Nau",
       "type" : "CHARACTER"
     }, {
       "character_id" : 138929,
@@ -118,6 +126,10 @@
       "name" : "Tago",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 134441,
+      "name" : "Tama",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142481,
       "name" : "Tama no Shisou",
       "type" : "CHARACTER"
@@ -128,6 +140,10 @@
     }, {
       "character_id" : 142224,
       "name" : "Tsukiko no Haha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135293,
+      "name" : "Yazen",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -168,8 +184,16 @@
       "name" : "Nau",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 135289,
+      "name" : "Ooyama Mitsuchi-hime",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 135294,
       "name" : "Raidou Zanzou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143343,
+      "name" : "Rinzu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 143260,
@@ -234,7 +258,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.9,
+        "rating" : 5.91,
         "total" : 2
       },
       "recap" : false,
@@ -261,7 +285,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.53,
+        "rating" : 6.55,
         "total" : 1
       },
       "recap" : false,
@@ -315,7 +339,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.53,
+        "rating" : 6.55,
         "total" : 1
       },
       "recap" : false,
@@ -424,7 +448,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.53,
+        "rating" : 6.55,
         "total" : 1
       },
       "recap" : false,
@@ -433,6 +457,9 @@
       },
       "titles" : [ {
         "language" : "ENGLISH",
+        "title" : "Furuon"
+      }, {
+        "language" : "FRENCH",
         "title" : "Furuon"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -447,10 +474,26 @@
       "episode_id" : 285712,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 3.09,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU4795D" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Sen`ya et Jin`un"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sen`ya to Jin`un"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Senya & Jinun"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "千夜と神雲"
       } ],
       "type" : "REGULAR"
     }, {
@@ -458,10 +501,23 @@
       "episode_id" : 285713,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 3.09,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DUE03XE" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sen`ya no Hachinen"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Senya`s Eight Years"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "千夜の八年"
       } ],
       "type" : "REGULAR"
     }, {
@@ -511,8 +567,8 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 1.39,
-        "total" : 1
+        "rating" : 4.06,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -526,8 +582,8 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 1.39,
-        "total" : 1
+        "rating" : 2.63,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -539,12 +595,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.69,
-      "total" : 15
+      "rating" : 5.84,
+      "total" : 16
     },
     "TEMPORARY" : {
-      "rating" : 6.0,
-      "total" : 15
+      "rating" : 6.06,
+      "total" : 16
     }
   },
   "related" : {
@@ -667,7 +723,7 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Sengoku Youko (2024)",
+    "title" : "Sengoku Youko: Sen Ma Konton Hen",
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
@@ -675,7 +731,7 @@
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
-    "title" : "戦国妖狐 (2024)",
+    "title" : "戦国妖狐 千魔混沌編",
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_TRADITIONAL",
@@ -683,7 +739,7 @@
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Sengoku Youko: Sen Ma Konton Hen",
+    "title" : "Sengoku Youko (2024)",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
@@ -695,7 +751,7 @@
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE",
-    "title" : "戦国妖狐 千魔混沌編",
+    "title" : "戦国妖狐 (2024)",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

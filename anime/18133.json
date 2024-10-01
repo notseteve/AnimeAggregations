@@ -74,7 +74,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.71,
+        "rating" : 4.7,
         "total" : 8
       },
       "recap" : false,
@@ -98,7 +98,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.39,
+        "rating" : 4.38,
         "total" : 6
       },
       "recap" : false,
@@ -122,7 +122,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.64,
+        "rating" : 5.63,
         "total" : 5
       },
       "recap" : false,
@@ -146,7 +146,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.28,
+        "rating" : 6.27,
         "total" : 5
       },
       "recap" : false,
@@ -265,6 +265,10 @@
       "episode_id" : 285562,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 7.66,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GD9UVM5Q9" ]
@@ -286,9 +290,18 @@
       "length" : 25,
       "number" : 10,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUG5KV0" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kono Sekai no Yogensha"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "The Prophet of This World"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "この世界の預言者"
       } ],
       "type" : "REGULAR"
     }, {
@@ -317,12 +330,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.32,
-      "total" : 56
+      "rating" : 3.18,
+      "total" : 62
     },
     "TEMPORARY" : {
       "rating" : 4.8,
-      "total" : 56
+      "total" : 62
     }
   },
   "resources" : {
@@ -345,6 +358,21 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2646" : {
+      "info_box" : false,
+      "name" : "demon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -353,9 +381,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

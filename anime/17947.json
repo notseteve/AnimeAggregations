@@ -23,6 +23,10 @@
       "name" : "Beatrice",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143171,
+      "name" : "Capella Emerada Lugunica",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 82453,
       "name" : "Crusch Karsten",
       "type" : "CHARACTER"
@@ -121,7 +125,7 @@
       "type" : "DIRECTOR"
     } ]
   },
-  "description" : "A year has passed since http://anidb.net/ch78944 [Subaru]`s victory at the Sanctuary. He savors a life of fulfillment while http://anidb.net/ch78943 [Emilia]`s camp stands united for the royal selection—until a fateful letter arrives. http://anidb.net/ch82451 [Anastasia], a royal selection candidate, has invited Emilia to the Watergate City of Priestella. But as the party begins its journey, crisis stirs beneath the surface and Subaru meets a cruel fate once again.\nSource: Crunchyroll\nNote: The first episode premiered at Anime Expo LA on July 5, the Japan Expo Paris screening on July 11 got cancelled. It also received a limited two-week advance theater screening run throughout Japan, on August 30. The regular TV broadcast started in October.",
+  "description" : "A year has passed since http://anidb.net/ch78944 [Subaru]`s victory at the Sanctuary. He savors a life of fulfillment while http://anidb.net/ch78943 [Emilia]`s camp stands united for the royal selection—until a fateful letter arrives. http://anidb.net/ch82451 [Anastasia], a royal selection candidate, has invited Emilia to the Watergate City of Priestella. But as the party begins its journey, crisis stirs beneath the surface and Subaru meets a cruel fate once again.\nSource: Crunchyroll\nNote: The first episode premiered at Anime Expo LA on July 5, the Japan Expo Paris screening on July 11 got cancelled. It also received a limited two-week advance theater screening run throughout Japan, on August 30. The regular TV broadcast started on October 2, 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-08-30",
@@ -129,7 +133,7 @@
       "length" : 90,
       "number" : 1,
       "rating" : {
-        "rating" : 8.82,
+        "rating" : 8.83,
         "total" : 2
       },
       "recap" : false,
@@ -190,16 +194,33 @@
         "title" : "劇場本予告"
       } ],
       "type" : "PROMOTION"
+    }, {
+      "air_date" : "2024-09-01",
+      "episode_id" : 286279,
+      "length" : 2,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Main PV 2 (2:04)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Main PV Dai 2 Dan"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "メインPV第2弾"
+      } ],
+      "type" : "PROMOTION"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.41,
-      "total" : 1
+      "rating" : 8.93,
+      "total" : 3
     },
     "TEMPORARY" : {
-      "rating" : 2.0,
-      "total" : 1
+      "rating" : 7.33,
+      "total" : 3
     }
   },
   "related" : {
@@ -207,18 +228,95 @@
   },
   "resources" : {
     "ANN" : [ "27619" ],
+    "CRUNCHY_ROLL" : [ "GRGG9798R" ],
     "MAL" : [ "54857" ],
     "TWITTER" : [ "Rezero_official" ],
     "WEBSITE" : [ "http://re-zero-anime.jp/tv/" ],
     "WIKIPEDIA_EN" : [ "Re:Zero" ],
     "WIKIPEDIA_JP" : [ "Re:ゼロから始める異世界生活" ],
-    "YOUTUBE" : [ "watch?v=7IQM5EPf2Y0", "watch?v=HS1zsxreqvw", "watch?v=bfo1s3a3aVk" ]
+    "YOUTUBE" : [ "watch?v=7IQM5EPf2Y0", "watch?v=HS1zsxreqvw", "watch?v=bfo1s3a3aVk", "watch?v=qMJNdQFPaHk" ]
   },
   "start_date" : "2024-08-30",
   "tags" : {
+    "2094" : {
+      "info_box" : true,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7496" : {
+      "info_box" : false,
+      "name" : "preaired episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -236,6 +334,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Re:Zero kara Hajimeru Isekai Seikatsu (2024)",
     "type" : "MAIN"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Re:ZERO -Starting Life in Another World- 3",
+    "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
     "title" : "Re:Zero - Starting Life in Another World (2024)",

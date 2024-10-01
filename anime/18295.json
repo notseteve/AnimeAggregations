@@ -50,6 +50,10 @@
       "name" : "Sagesse",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143302,
+      "name" : "Vivianne",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142453,
       "name" : "Zach",
       "type" : "CHARACTER"
@@ -84,6 +88,10 @@
     } ],
     "28299" : [ {
       "name" : "Tokugawa Eri",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "28932" : [ {
+      "name" : "Lee Jae-Ho",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "29360" : [ {
@@ -215,7 +223,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.86,
+        "rating" : 6.87,
         "total" : 2
       },
       "recap" : false,
@@ -239,7 +247,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.86,
+        "rating" : 6.87,
         "total" : 2
       },
       "recap" : false,
@@ -358,7 +366,14 @@
       "episode_id" : 285371,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUQ594G" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Vector Does a Good Job!"
@@ -376,9 +391,18 @@
       "length" : 25,
       "number" : 12,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14U47DZ8" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bye Bye! Mata ne!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Bye-Bye! See You Next Time!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ばいばーい! またね!"
       } ],
       "type" : "REGULAR"
     } ],
@@ -408,12 +432,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.77,
-      "total" : 46
+      "rating" : 2.57,
+      "total" : 74
     },
     "TEMPORARY" : {
-      "rating" : 4.57,
-      "total" : 46
+      "rating" : 4.73,
+      "total" : 76
     }
   },
   "resources" : {

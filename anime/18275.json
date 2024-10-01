@@ -19,13 +19,16 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 5.23,
-        "total" : 3
+        "rating" : 6.03,
+        "total" : 6
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Model 101"
+      }, {
+        "language" : "POLISH",
+        "title" : "Model 101"
       } ],
       "type" : "REGULAR"
     }, {
@@ -34,13 +37,16 @@
       "length" : 30,
       "number" : 2,
       "rating" : {
-        "rating" : 5.55,
-        "total" : 2
+        "rating" : 4.92,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Model 102"
+      }, {
+        "language" : "POLISH",
+        "title" : "Model 102"
       } ],
       "type" : "REGULAR"
     }, {
@@ -49,13 +55,16 @@
       "length" : 30,
       "number" : 3,
       "rating" : {
-        "rating" : 4.96,
-        "total" : 2
+        "rating" : 5.39,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Model 103"
+      }, {
+        "language" : "POLISH",
+        "title" : "Model 103"
       } ],
       "type" : "REGULAR"
     }, {
@@ -64,13 +73,16 @@
       "length" : 30,
       "number" : 4,
       "rating" : {
-        "rating" : 4.96,
-        "total" : 2
+        "rating" : 5.19,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Model 104"
+      }, {
+        "language" : "POLISH",
+        "title" : "Model 104"
       } ],
       "type" : "REGULAR"
     }, {
@@ -79,13 +91,16 @@
       "length" : 30,
       "number" : 5,
       "rating" : {
-        "rating" : 5.55,
-        "total" : 2
+        "rating" : 6.49,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Model 105"
+      }, {
+        "language" : "POLISH",
+        "title" : "Model 105"
       } ],
       "type" : "REGULAR"
     }, {
@@ -94,13 +109,16 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.96,
-        "total" : 2
+        "rating" : 4.44,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Model 106"
+      }, {
+        "language" : "POLISH",
+        "title" : "Model 106"
       } ],
       "type" : "REGULAR"
     }, {
@@ -109,13 +127,16 @@
       "length" : 30,
       "number" : 7,
       "rating" : {
-        "rating" : 4.96,
-        "total" : 2
+        "rating" : 4.63,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Model 107"
+      }, {
+        "language" : "POLISH",
+        "title" : "Model 107"
       } ],
       "type" : "REGULAR"
     }, {
@@ -124,21 +145,24 @@
       "length" : 30,
       "number" : 8,
       "rating" : {
-        "rating" : 4.96,
-        "total" : 2
+        "rating" : 4.27,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Model 108"
+      }, {
+        "language" : "POLISH",
+        "title" : "Model 108"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.86,
-      "total" : 31
+      "rating" : 4.71,
+      "total" : 76
     },
     "REVIEW" : {
       "rating" : 9.5,
@@ -146,7 +170,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.3,
-      "total" : 31
+      "total" : 77
     }
   },
   "resources" : {
@@ -155,8 +179,17 @@
     "IMDB" : [ "tt14153236" ],
     "MAL" : [ "59390" ],
     "NETFLIX" : [ "81217220" ],
+    "TMDB" : [ "tv/239287" ],
     "WIKIPEDIA_EN" : [ "Terminator_Zero" ],
+    "WIKIPEDIA_JP" : [ "?curid=4973246" ],
+    "WIKIPEDIA_ZH" : [ "?curid=8851940" ],
     "YOUTUBE" : [ "watch?v=1uRZ8CFExEY" ]
+  },
+  "similar" : {
+    "15988" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
   },
   "start_date" : "2024-08-29",
   "tags" : {
@@ -186,6 +219,10 @@
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
+    "title" : "Terminator Zero",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "POLISH",
     "title" : "Terminator Zero",
     "type" : "OFFICIAL"
   }, {

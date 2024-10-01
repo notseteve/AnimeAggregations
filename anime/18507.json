@@ -65,7 +65,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.12,
+      "rating" : 3.13,
       "total" : 17
     },
     "TEMPORARY" : {
@@ -90,6 +90,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -225,6 +232,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4222" : {
+      "info_box" : false,
+      "name" : "walls of text",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "4646" : {
       "info_box" : false,

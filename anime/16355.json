@@ -39,7 +39,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.35,
+        "rating" : 5.36,
         "total" : 3
       },
       "recap" : false,
@@ -54,7 +54,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.05,
+        "rating" : 6.06,
         "total" : 2
       },
       "recap" : false,
@@ -114,7 +114,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.39,
+        "rating" : 7.41,
         "total" : 2
       },
       "recap" : false,
@@ -189,7 +189,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 9.52,
+        "rating" : 9.53,
         "total" : 2
       },
       "recap" : false,
@@ -219,7 +219,7 @@
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 9.52,
+        "rating" : 9.53,
         "total" : 2
       },
       "recap" : false,
@@ -232,12 +232,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.42,
-      "total" : 35
+      "rating" : 5.46,
+      "total" : 37
     },
     "TEMPORARY" : {
-      "rating" : 6.4,
-      "total" : 35
+      "rating" : 6.41,
+      "total" : 37
     }
   },
   "resources" : {
@@ -249,6 +249,13 @@
   },
   "start_date" : "2023-06-01",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
@@ -429,6 +436,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5939" : {
+      "info_box" : false,
+      "name" : "CAST MISSING",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6152" : {
       "info_box" : false,
       "name" : "Chinese production",
@@ -456,6 +471,14 @@
       "info_box" : false,
       "name" : "death",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6850" : {
+      "info_box" : false,
+      "name" : "STAFF MISSING",
+      "parent_tag_id" : 30,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -397,6 +397,9 @@
       "length" : 25,
       "number" : 20,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUG522N" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "I`ll Overcome My Fate!"
@@ -414,9 +417,18 @@
       "length" : 25,
       "number" : 21,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UZ055N" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kore wa Yuuki no Shoumei Da!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 21"
+        "title" : "This Is the Proof of Our Courage!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "これは勇気の証明だ!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -426,8 +438,14 @@
       "number" : 22,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Oiwai no Party Suru kara Ato de Koi!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 22"
+        "title" : "We`re Having a Celebration Party, So Drop By!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "お祝いのパーティするから後で来い!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -526,6 +544,36 @@
       "verified" : false,
       "weight" : 0
     },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2800" : {
+      "info_box" : true,
+      "name" : "game",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5939" : {
       "info_box" : false,
       "name" : "CAST MISSING",
@@ -540,6 +588,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6191" : {
+      "info_box" : false,
+      "name" : "card games",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "6850" : {
       "info_box" : false,

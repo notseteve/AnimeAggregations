@@ -132,7 +132,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.43,
+        "rating" : 5.42,
         "total" : 6
       },
       "recap" : false,
@@ -156,7 +156,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.99,
+        "rating" : 5.98,
         "total" : 5
       },
       "recap" : false,
@@ -204,7 +204,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.14,
+        "rating" : 5.13,
         "total" : 5
       },
       "recap" : false,
@@ -252,7 +252,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.92,
+        "rating" : 4.91,
         "total" : 5
       },
       "recap" : false,
@@ -276,7 +276,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.04,
+        "rating" : 7.02,
         "total" : 5
       },
       "recap" : false,
@@ -300,8 +300,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 3.54,
-        "total" : 2
+        "rating" : 4.15,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -323,10 +323,23 @@
       "episode_id" : 285481,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 3.84,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "I Parry the Emperor`s Authority"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Je repousse les forces de l`empereur"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ore wa Koutei no I o Parry Suru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "俺は皇帝の威をパリイする"
       } ],
       "type" : "REGULAR"
     }, {
@@ -334,10 +347,23 @@
       "episode_id" : 285482,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 7.63,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "I Parry Divine Wrath"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Je repousse la colère de Dieu"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ore wa Kami no Ikari o Parry Suru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "俺は神の怒りをパリイする"
       } ],
       "type" : "REGULAR"
     }, {
@@ -396,12 +422,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.67,
-      "total" : 79
+      "rating" : 4.6,
+      "total" : 88
     },
     "TEMPORARY" : {
       "rating" : 5.82,
-      "total" : 79
+      "total" : 89
     }
   },
   "resources" : {
@@ -417,12 +443,19 @@
   },
   "similar" : {
     "17965" : {
-      "rating" : 10.0,
-      "total" : 6
+      "rating" : 8.571428571428571,
+      "total" : 7
     }
   },
   "start_date" : "2024-07-05",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2094" : {
       "info_box" : true,
       "name" : "magic",
@@ -430,6 +463,21 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2355" : {
+      "info_box" : false,
+      "name" : "dragon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2605" : {
       "info_box" : false,
@@ -467,6 +515,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2618" : {
+      "info_box" : false,
+      "name" : "collateral damage",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2628" : {
       "info_box" : false,
       "name" : "fictional location",
@@ -474,6 +538,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2655" : {
+      "info_box" : false,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2774" : {
       "info_box" : false,
@@ -499,6 +587,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2849" : {
       "info_box" : true,
       "name" : "fantasy",
@@ -515,6 +619,94 @@
       "verified" : false,
       "weight" : 500
     },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2870" : {
+      "info_box" : false,
+      "name" : "steampunk",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3108" : {
+      "info_box" : false,
+      "name" : "catastrophic gadgets",
+      "parent_tag_id" : 2653,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3694" : {
+      "info_box" : false,
+      "name" : "dear mother in heaven",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3896" : {
+      "info_box" : false,
+      "name" : "bloodless wounds",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3909" : {
+      "info_box" : false,
+      "name" : "talking is a free action",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4078" : {
+      "info_box" : false,
+      "name" : "grail in the garbage",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4128" : {
       "info_box" : false,
       "name" : "zero to hero",
@@ -523,10 +715,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "4474" : {
+      "info_box" : false,
+      "name" : "self-parody",
+      "parent_tag_id" : 2655,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4611" : {
       "info_box" : false,
       "name" : "nearly almighty protagonist",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5779" : {
+      "info_box" : false,
+      "name" : "anachronisms",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -543,6 +751,14 @@
       "info_box" : false,
       "name" : "ass-kicking girls",
       "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5939" : {
+      "info_box" : false,
+      "name" : "CAST MISSING",
+      "parent_tag_id" : 30,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -577,6 +793,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7141" : {
+      "info_box" : false,
+      "name" : "goblin",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,

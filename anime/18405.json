@@ -38,6 +38,10 @@
       "name" : "Monchi Jouji",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143391,
+      "name" : "Nakamaru Tokiko",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143064,
       "name" : "Osanai Haha",
       "type" : "CHARACTER"
@@ -132,7 +136,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.52,
+        "rating" : 7.51,
         "total" : 5
       },
       "recap" : false,
@@ -156,7 +160,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.66,
+        "rating" : 4.65,
         "total" : 4
       },
       "recap" : false,
@@ -180,7 +184,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.55,
+        "rating" : 7.53,
         "total" : 3
       },
       "recap" : false,
@@ -204,7 +208,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.11,
+        "rating" : 8.08,
         "total" : 2
       },
       "recap" : false,
@@ -228,7 +232,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.63,
+        "rating" : 4.6,
         "total" : 2
       },
       "recap" : false,
@@ -252,7 +256,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.01,
         "total" : 2
       },
       "recap" : false,
@@ -276,7 +280,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 9.55,
+        "rating" : 9.52,
         "total" : 2
       },
       "recap" : false,
@@ -323,6 +327,10 @@
       "episode_id" : 285586,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 7.37,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GMKUX1Q1W" ]
@@ -344,9 +352,18 @@
       "length" : 25,
       "number" : 10,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU0MWMQ" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sweet Memory (Kouhen)"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Sweet Memory (Part 2)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "スイート・メモリー(後編)"
       } ],
       "type" : "REGULAR"
     } ],
@@ -376,13 +393,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.5,
-      "total" : 52
+      "rating" : 5.44,
+      "total" : 99
     },
     "TEMPORARY" : {
-      "rating" : 6.26,
-      "total" : 53
+      "rating" : 6.41,
+      "total" : 101
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 18864 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "393178" ],

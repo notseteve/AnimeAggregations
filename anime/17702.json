@@ -145,7 +145,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.76,
+        "rating" : 6.75,
         "total" : 9
       },
       "recap" : false,
@@ -170,7 +170,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.04,
+        "rating" : 8.03,
         "total" : 9
       },
       "recap" : false,
@@ -195,7 +195,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.71,
+        "rating" : 7.7,
         "total" : 9
       },
       "recap" : false,
@@ -270,7 +270,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.7,
+        "rating" : 7.69,
         "total" : 8
       },
       "recap" : false,
@@ -295,7 +295,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.81,
+        "rating" : 6.8,
         "total" : 8
       },
       "recap" : false,
@@ -320,7 +320,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.07,
+        "rating" : 7.06,
         "total" : 8
       },
       "recap" : false,
@@ -345,7 +345,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.71,
+        "rating" : 5.69,
         "total" : 8
       },
       "recap" : false,
@@ -370,7 +370,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.32,
+        "rating" : 5.31,
         "total" : 8
       },
       "recap" : false,
@@ -430,7 +430,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 5.03,
+        "rating" : 5.07,
         "total" : 2
       },
       "recap" : false,
@@ -445,7 +445,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 2.85,
+        "rating" : 2.87,
         "total" : 2
       },
       "recap" : false,
@@ -458,12 +458,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.52,
-      "total" : 537
+      "rating" : 5.51,
+      "total" : 554
     },
     "TEMPORARY" : {
       "rating" : 6.71,
-      "total" : 540
+      "total" : 557
     }
   },
   "related" : {
@@ -483,6 +483,13 @@
   },
   "start_date" : "2024-04-02",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "627" : {
       "info_box" : false,
       "name" : "lingerie",
@@ -707,6 +714,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -834,6 +849,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3797" : {
+      "info_box" : false,
+      "name" : "trapped in the body of a child",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3831" : {
       "info_box" : false,
       "name" : "training",
@@ -906,9 +929,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "5889" : {
+      "info_box" : false,
+      "name" : "magic weapons",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5935" : {
       "info_box" : false,
       "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5939" : {
+      "info_box" : false,
+      "name" : "CAST MISSING",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5948" : {
+      "info_box" : false,
+      "name" : "visible aura",
       "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
@@ -968,6 +1015,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "8057" : {
+      "info_box" : false,
+      "name" : "medieval European aesthetic",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     }
   },
   "titles" : [ {
@@ -1005,6 +1060,10 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Dainanaoji",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Tensei Shitara Dai Nana Ōji Datta no de, Kimama ni Majutsu o Kiwamemasu",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

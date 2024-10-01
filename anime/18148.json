@@ -59,7 +59,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 143154,
-      "name" : "Rein",
+      "name" : "Rein McMillan",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -244,7 +244,14 @@
       "episode_id" : 285703,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 3.57,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU0M7ZD" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Daini no Nursery"
@@ -261,25 +268,44 @@
       "episode_id" : 285704,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 3.57,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UXN43P" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "A Small Adventure"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chiisana Bouken"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "小さな冒険"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-09-19",
+      "air_date" : "2024-10-17",
       "episode_id" : 285705,
       "length" : 25,
       "number" : 7,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Battle Amidst Flames"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Enjou no Koubousen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "炎上の攻防戦"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-09-26",
+      "air_date" : "2024-10-24",
       "episode_id" : 285706,
       "length" : 25,
       "number" : 8,
@@ -291,14 +317,31 @@
       "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
-      "air_date" : "2024-08-01",
-      "episode_id" : 285209,
+      "air_date" : "2024-10-10",
+      "episode_id" : 286298,
       "length" : 25,
       "number" : 1,
-      "recap" : false,
+      "recap" : true,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ikuji Nisshi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "育児日誌"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-08-01",
+      "episode_id" : 285209,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S2"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Housou Chokuzen Kaisai! Cast Gikai: Hajimete no TV Anime \"Delico`s Nursery\""
@@ -311,12 +354,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.61,
-      "total" : 17
+      "rating" : 2.43,
+      "total" : 19
     },
     "TEMPORARY" : {
-      "rating" : 4.23,
-      "total" : 17
+      "rating" : 4.05,
+      "total" : 19
     }
   },
   "resources" : {

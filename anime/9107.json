@@ -521,11 +521,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.0,
-      "total" : 587
+      "total" : 588
     },
     "TEMPORARY" : {
       "rating" : 7.27,
-      "total" : 590
+      "total" : 591
     }
   },
   "related" : {
@@ -616,6 +616,14 @@
     "2610" : {
       "info_box" : false,
       "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -739,6 +747,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6149" : {
       "info_box" : false,
       "name" : "TO BE MOVED TO CHARACTER",
@@ -757,6 +773,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
