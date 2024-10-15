@@ -6,6 +6,14 @@
       "name" : "3B",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143568,
+      "name" : "Accord",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 127839,
+      "name" : "Adam",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 130818,
       "name" : "Anemone",
       "type" : "CHARACTER"
@@ -24,6 +32,10 @@
     }, {
       "character_id" : 130657,
       "name" : "Emil",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 127840,
+      "name" : "Eve",
       "type" : "CHARACTER"
     }, {
       "character_id" : 134046,
@@ -52,6 +64,10 @@
     }, {
       "character_id" : 130820,
       "name" : "Nijuuichi Gou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143565,
+      "name" : "Pod 567",
       "type" : "CHARACTER"
     }, {
       "character_id" : 130819,
@@ -84,20 +100,12 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
-      "character_id" : 127839,
-      "name" : "Adam",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 142087,
       "name" : "Akai Shoujo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 129775,
       "name" : "Devola",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 127840,
-      "name" : "Eve",
       "type" : "CHARACTER"
     }, {
       "character_id" : 129862,
@@ -194,8 +202,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.68,
-        "total" : 5
+        "rating" : 6.72,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -218,8 +226,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.5,
-        "total" : 3
+        "rating" : 8.13,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -242,8 +250,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.5,
-        "total" : 4
+        "rating" : 8.2,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -266,8 +274,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.64,
-        "total" : 4
+        "rating" : 7.49,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -290,8 +298,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.07,
-        "total" : 3
+        "rating" : 7.5,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -338,8 +346,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.26,
-        "total" : 2
+        "rating" : 5.29,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -362,8 +370,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.26,
-        "total" : 2
+        "rating" : 4.41,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -410,7 +418,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.26,
+        "rating" : 5.27,
         "total" : 2
       },
       "recap" : false,
@@ -434,8 +442,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 7.37,
-        "total" : 1
+        "rating" : 4.15,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -457,10 +465,23 @@
       "episode_id" : 285777,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 1.94,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUX12WX" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "The [E]nd of YoRHa"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "The [E]nd of YoRHa"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "the [E]nd of YoRHa"
       } ],
       "type" : "REGULAR"
     } ],
@@ -507,6 +528,10 @@
       "episode_id" : 284320,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.46,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -518,6 +543,10 @@
       "episode_id" : 284321,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 2.46,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -528,12 +557,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.9,
-      "total" : 43
+      "rating" : 6.46,
+      "total" : 140
+    },
+    "REVIEW" : {
+      "rating" : 7.83,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.4,
-      "total" : 44
+      "rating" : 6.83,
+      "total" : 143
     }
   },
   "related" : {

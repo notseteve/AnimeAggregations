@@ -1,6 +1,59 @@
 {
   "anime_id" : 18220,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 3724,
+      "name" : "Arisawa Tatsuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 9401,
+      "name" : "Asano Keigo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 121227,
+      "name" : "Hikifune Kirio",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 9322,
+      "name" : "Hinamori Momo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 121228,
+      "name" : "Kirinji Tenjirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 9400,
+      "name" : "Kojima Mizuiro",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 3725,
+      "name" : "Kurosaki Isshin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 37849,
+      "name" : "Kurosaki Karin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 37854,
+      "name" : "Kurosaki Yuzu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 121224,
+      "name" : "Nimaiya Ouetsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131222,
+      "name" : "Reiou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 121225,
+      "name" : "Shutara Senjumaru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133801,
+      "name" : "Wandenreich",
+      "type" : "ORGANIZATION"
+    } ],
     "MAIN" : [ {
       "character_id" : 2069,
       "name" : "Kurosaki Ichigo",
@@ -140,6 +193,9 @@
     "5806" : [ {
       "name" : "Kudou Masashi",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Kudou Masashi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "6168" : [ {
       "name" : "Hiramatsu Masaki",
@@ -173,16 +229,23 @@
       "type" : "ANIMATION_WORK"
     } ]
   },
-  "description" : "* Based on an adventure supernatural shounen manga by http://anidb.net/cr979 [Kubo Taito].",
+  "description" : "* Based on an adventure supernatural shounen manga by http://anidb.net/cr979 [Kubo Taito].\nNote: The first two episodes received an early screening at a special event on 16 September 2024 at Yamano Hall in Tokyo. The regular TV broadcast started on 5 October 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-05",
       "episode_id" : 286470,
-      "length" : 0,
+      "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.17,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
+        "title" : "A"
+      }, {
+        "language" : "GERMAN",
         "title" : "A"
       }, {
         "language" : "JAPANESE",
@@ -192,6 +255,71 @@
         "title" : "A"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-12",
+      "episode_id" : 286826,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "KILL THE KING"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Kill the King"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kill the King"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Tötet den König"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-19",
+      "episode_id" : 286827,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-26",
+      "episode_id" : 286828,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-10-05",
+      "episode_id" : 287216,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-10-05",
+      "episode_id" : 287217,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2023-12-17",
@@ -209,6 +337,16 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.65,
+      "total" : 10
+    },
+    "TEMPORARY" : {
+      "rating" : 7.15,
+      "total" : 10
+    }
+  },
   "related" : {
     "PREQUEL" : [ 17765 ]
   },
@@ -216,6 +354,7 @@
     "ALL_CINEMA" : [ "391709" ],
     "ANN" : [ "30131" ],
     "MAL" : [ "56784" ],
+    "SYOBOI" : [ "7224" ],
     "TWITTER" : [ "BLEACHanimation" ],
     "WEBSITE" : [ "https://bleach-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Bleach:_Thousand-Year_Blood_War" ],

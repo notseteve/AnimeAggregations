@@ -13,6 +13,18 @@
       "character_id" : 136731,
       "name" : "Takahashi Hikari",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 143453,
+      "name" : "Takahashi Isamu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143454,
+      "name" : "Takahashi Yaeko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143455,
+      "name" : "Yoshikawa Harue",
+      "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 130215,
@@ -216,7 +228,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 9.49,
+        "rating" : 9.5,
         "total" : 2
       },
       "recap" : false,
@@ -356,7 +368,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 2.47,
+        "rating" : 2.46,
         "total" : 1
       },
       "recap" : false,
@@ -440,7 +452,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 2.47,
+        "rating" : 2.46,
         "total" : 1
       },
       "recap" : false,
@@ -496,7 +508,7 @@
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 2.47,
+        "rating" : 2.46,
         "total" : 1
       },
       "recap" : false,
@@ -552,7 +564,7 @@
       "length" : 25,
       "number" : 17,
       "rating" : {
-        "rating" : 2.47,
+        "rating" : 2.46,
         "total" : 1
       },
       "recap" : false,
@@ -577,7 +589,7 @@
       "length" : 25,
       "number" : 18,
       "rating" : {
-        "rating" : 2.47,
+        "rating" : 2.46,
         "total" : 1
       },
       "recap" : false,
@@ -605,7 +617,7 @@
       "length" : 25,
       "number" : 19,
       "rating" : {
-        "rating" : 2.47,
+        "rating" : 2.46,
         "total" : 1
       },
       "recap" : false,
@@ -633,7 +645,7 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 2.47,
+        "rating" : 2.46,
         "total" : 1
       },
       "recap" : false,
@@ -661,7 +673,7 @@
       "length" : 25,
       "number" : 21,
       "rating" : {
-        "rating" : 2.47,
+        "rating" : 2.46,
         "total" : 1
       },
       "recap" : false,
@@ -689,7 +701,7 @@
       "length" : 25,
       "number" : 22,
       "rating" : {
-        "rating" : 2.47,
+        "rating" : 2.46,
         "total" : 1
       },
       "recap" : false,
@@ -717,7 +729,7 @@
       "length" : 25,
       "number" : 23,
       "rating" : {
-        "rating" : 2.47,
+        "rating" : 2.46,
         "total" : 1
       },
       "recap" : false,
@@ -746,7 +758,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.47,
+        "rating" : 2.46,
         "total" : 1
       },
       "recap" : true,
@@ -774,7 +786,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.47,
+        "rating" : 2.46,
         "total" : 1
       },
       "recap" : true,
@@ -816,8 +828,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.76,
-      "total" : 144
+      "rating" : 4.77,
+      "total" : 145
     },
     "REVIEW" : {
       "rating" : 4.5,
@@ -825,7 +837,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.23,
-      "total" : 145
+      "total" : 146
     }
   },
   "related" : {
@@ -846,6 +858,37 @@
   },
   "start_date" : "2023-09-30",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2924" : {
+      "info_box" : false,
+      "name" : "earthquake",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5838" : {
+      "info_box" : false,
+      "name" : "fire",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

@@ -1,5 +1,65 @@
 {
   "anime_id" : 16558,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 93770,
+      "name" : "Lang Wu Yao",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 79786,
+      "name" : "Lin Xue Ya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 79787,
+      "name" : "Shang Bu Huan",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 117358,
+      "name" : "Azibelpher",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143833,
+      "name" : "Bawang Yu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 116820,
+      "name" : "Chao Feng",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 79788,
+      "name" : "Dan Fei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143835,
+      "name" : "Gui Duo Tian Gong",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143834,
+      "name" : "Hua Wu Zong",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 93795,
+      "name" : "Huo Shi Ming Huang",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 115323,
+      "name" : "Juan Can Yun",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 93771,
+      "name" : "Ling Ya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 117357,
+      "name" : "Mu Tian Ming",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 81422,
+      "name" : "Xing Hai",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "1354" : [ {
       "name" : "Nitroplus",
@@ -33,6 +93,14 @@
       "name" : "Minamoto Satoru",
       "type" : "CHARACTER_DESIGN"
     } ],
+    "46222" : [ {
+      "name" : "Cheng PaoPin",
+      "type" : "DIRECTOR"
+    } ],
+    "46224" : [ {
+      "name" : "Huang QiangHua",
+      "type" : "CHIEF_DIRECTOR"
+    } ],
     "46459" : [ {
       "name" : "Minoa",
       "type" : "CHARACTER_DESIGN"
@@ -46,12 +114,66 @@
       "type" : "MUSIC"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-10-05",
+      "episode_id" : 287233,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kikyou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "帰郷"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-12",
+      "episode_id" : 287234,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-19",
+      "episode_id" : 287235,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-26",
+      "episode_id" : 287236,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "related" : {
     "PREQUEL" : [ 14556 ],
     "SEQUEL" : [ 18560 ]
   },
   "resources" : {
     "ANN" : [ "33067" ],
+    "SYOBOI" : [ "7208" ],
     "TWITTER" : [ "TBF_PR" ],
     "WEBSITE" : [ "https://www.thunderboltfantasy.com/season4/" ],
     "WIKIPEDIA_EN" : [ "Thunderbolt_Fantasy" ],
@@ -59,6 +181,21 @@
   },
   "start_date" : "2024-10-05",
   "tags" : {
+    "4349" : {
+      "info_box" : false,
+      "name" : "puppetmation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

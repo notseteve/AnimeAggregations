@@ -1,40 +1,155 @@
 {
   "anime_id" : 15063,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 143579,
+      "name" : "Goshima Kirie",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143580,
+      "name" : "Saitou Shuuichi",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 143583,
+      "name" : "Goshima Yasuo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143587,
+      "name" : "Ishikawa Shiho",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143585,
+      "name" : "Katayama Tokuo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143584,
+      "name" : "Kurotani Azami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143591,
+      "name" : "Okada",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143581,
+      "name" : "Saitou Toshio",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143582,
+      "name" : "Saitou Yukie",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143586,
+      "name" : "Tsumura Kazuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143588,
+      "name" : "Yokota Ikuo",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "2179" : [ {
       "name" : "Nagahama Hiroshi",
+      "type" : "DIRECTOR"
+    } ],
+    "11926" : [ {
+      "name" : "Satou Hirokazu",
+      "type" : "ANIMATION_CHARACTER_DESIGN"
+    } ],
+    "17861" : [ {
+      "name" : "Moriyama Yuuji",
       "type" : "DIRECTOR"
     } ],
     "24045" : [ {
       "name" : "Itou Junji",
       "type" : "ORIGINAL_WORK"
     } ],
-    "57541" : [ {
-      "name" : "Drive",
+    "50712" : [ {
+      "name" : "Akatsuki",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "67755" : [ {
+      "name" : "Fugaku",
       "type" : "ANIMATION_WORK"
     } ],
     "72783" : [ {
       "name" : "Colin Stetson",
       "type" : "MUSIC"
-    } ],
-    "72784" : [ {
-      "name" : "Adult Swim",
-      "type" : "WORK"
-    } ],
-    "77151" : [ {
-      "name" : "Production I.G USA",
-      "type" : "WORK"
     } ]
   },
   "description" : "* Based on a seinen supernatural horror manga series by http://anidb.net/cr24045 [Itou Junji].\nKurouzu-chou, a small fogbound town on the coast of Japan, is cursed. According to Saitou Shuuichi, the withdrawn boyfriend of teenager Goshima Kirie, their town is haunted not by a person or being but by a pattern: uzumaki, the spiral, the hypnotic secret shape of the world. It manifests itself in small ways: seashells, ferns, whirlpools in water, whirlwinds in air. And in large ways: the spiral marks on people`s bodies, the insane obsessions of Shuuichi`s father, the voice from the cochlea in your inner ear. As the madness spreads, the inhabitants of Kurouzu-chou are pulled ever deeper, as if into a whirlpool from which there is no return...\nSource: VIZ",
+  "end_date" : "2024-10-20",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-09-29",
+      "episode_id" : 286621,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 9.02,
+        "total" : 3
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-06",
+      "episode_id" : 286622,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-13",
+      "episode_id" : 286623,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-20",
+      "episode_id" : 286624,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.53,
+      "total" : 20
+    },
+    "TEMPORARY" : {
+      "rating" : 6.15,
+      "total" : 20
+    }
+  },
   "resources" : {
     "ANN" : [ "22483" ],
     "MAL" : [ "40333" ],
+    "STREAM" : [ "https://play.max.com/show/f3ba329b-1089-44bc-a844-6177fa69930e" ],
     "TWITTER" : [ "UzumakiAnime1" ],
     "WIKIPEDIA_EN" : [ "Uzumaki" ],
     "WIKIPEDIA_JP" : [ "うずまき_(漫画)" ]
   },
-  "start_date" : "2024-09-28",
+  "start_date" : "2024-09-29",
   "tags" : {
     "1802" : {
       "info_box" : true,
@@ -171,6 +286,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Uzumaki",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Uzumaki",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "うずまき",

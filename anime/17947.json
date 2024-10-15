@@ -1,6 +1,87 @@
 {
   "anime_id" : 17947,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 81578,
+      "name" : "Chin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143690,
+      "name" : "Dynas",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 81576,
+      "name" : "Elsa Grandhirte",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143692,
+      "name" : "Ezzo Cadner",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143694,
+      "name" : "Flam Remendis",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143688,
+      "name" : "Fred Thompson",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143693,
+      "name" : "Gracis Remendis",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 84851,
+      "name" : "Hetaro Pearlbaton",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143687,
+      "name" : "Lusbel Kallard",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 84488,
+      "name" : "Mimi Pearlbaton",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111387,
+      "name" : "Patrasche",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 84471,
+      "name" : "Petra Leyte",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143689,
+      "name" : "Rafiel Thompson",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111214,
+      "name" : "Regulus Corneas",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 122607,
+      "name" : "Reshia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 84852,
+      "name" : "Ricardo Welkin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 81580,
+      "name" : "Romjii",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111213,
+      "name" : "Rye Batenkaitos",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143691,
+      "name" : "Schult",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 84856,
+      "name" : "Tivey Pearlbaton",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 78943,
       "name" : "Emilia",
@@ -37,6 +118,10 @@
     }, {
       "character_id" : 78946,
       "name" : "Felt",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 84478,
+      "name" : "Frederica Baumann",
       "type" : "CHARACTER"
     }, {
       "character_id" : 110580,
@@ -87,6 +172,10 @@
       "name" : "Rem",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 81522,
+      "name" : "Roswaal L Mathers",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141327,
       "name" : "Sirius Romaneeconti",
       "type" : "CHARACTER"
@@ -109,6 +198,10 @@
       "name" : "Yokotani Masahiro",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "17983" : [ {
+      "name" : "Mishima Chie",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "32390" : [ {
       "name" : "Sagawa Haruka",
       "type" : "CHARACTER_DESIGN"
@@ -130,18 +223,105 @@
     "REGULAR" : [ {
       "air_date" : "2024-08-30",
       "episode_id" : 281928,
-      "length" : 90,
+      "length" : 95,
       "number" : 1,
       "rating" : {
-        "rating" : 8.83,
+        "rating" : 4.24,
+        "total" : 7
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMNE75" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gekijougata Akui"
+      }, {
+        "language" : "FRENCH",
+        "title" : "La Malice entre en scène"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Theatralische Bosheit"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Theatrical Malice"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "劇場型悪意"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-09",
+      "episode_id" : 286607,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-16",
+      "episode_id" : 286608,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-23",
+      "episode_id" : 286609,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-10-03",
+      "episode_id" : 287064,
+      "length" : 3,
+      "number" : 1,
+      "rating" : {
+        "rating" : 5.01,
         "total" : 2
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Re:Zero - Starting Break Time from Zero #1: Night Tales of the Sleeping Oni"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Re:Zero kara Hajimeru Break Time #1: Nemureru Oni no Yawa"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Re:ゼロから始める休憩時間[ブレイクタイム] #1 眠れる鬼の夜話"
       } ],
-      "type" : "REGULAR"
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-09-22",
+      "episode_id" : 286610,
+      "length" : 40,
+      "number" : 17,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Chokuzen Stage"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Stage"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前ステージ"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2023-03-25",
@@ -211,16 +391,33 @@
         "title" : "メインPV第2弾"
       } ],
       "type" : "PROMOTION"
+    }, {
+      "air_date" : "2024-09-27",
+      "episode_id" : 286798,
+      "length" : 1,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bansen CM"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Promo CM (0:15)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "番宣CM"
+      } ],
+      "type" : "PROMOTION"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.93,
-      "total" : 3
+      "rating" : 8.61,
+      "total" : 27
     },
     "TEMPORARY" : {
-      "rating" : 7.33,
-      "total" : 3
+      "rating" : 7.64,
+      "total" : 27
     }
   },
   "related" : {
@@ -229,12 +426,13 @@
   "resources" : {
     "ANN" : [ "27619" ],
     "CRUNCHY_ROLL" : [ "GRGG9798R" ],
-    "MAL" : [ "54857" ],
+    "MAL" : [ "54857", "60012" ],
+    "SYOBOI" : [ "7236" ],
     "TWITTER" : [ "Rezero_official" ],
     "WEBSITE" : [ "http://re-zero-anime.jp/tv/" ],
     "WIKIPEDIA_EN" : [ "Re:Zero" ],
     "WIKIPEDIA_JP" : [ "Re:ゼロから始める異世界生活" ],
-    "YOUTUBE" : [ "watch?v=7IQM5EPf2Y0", "watch?v=HS1zsxreqvw", "watch?v=bfo1s3a3aVk", "watch?v=qMJNdQFPaHk" ]
+    "YOUTUBE" : [ "watch?v=7IQM5EPf2Y0", "watch?v=HS1zsxreqvw", "watch?v=MtHnMMTcVQQ", "watch?v=bfo1s3a3aVk", "watch?v=gOslDzkAWok", "watch?v=m6rPb4m0bA8", "watch?v=qMJNdQFPaHk" ]
   },
   "start_date" : "2024-08-30",
   "tags" : {
@@ -350,6 +548,18 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "rezero s3",
     "type" : "SHORT"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "rezero3",
+    "type" : "SHORT"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "Re: 从零开始的异世界生活 第三季",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "http://re-zero-anime.jp/tv/"

@@ -164,7 +164,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.9,
+        "rating" : 4.91,
         "total" : 7
       },
       "recap" : false,
@@ -192,7 +192,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.37,
+        "rating" : 2.42,
         "total" : 2
       },
       "recap" : false,
@@ -220,7 +220,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 9.86,
+        "rating" : 9.87,
         "total" : 1
       },
       "recap" : false,
@@ -319,7 +319,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.98,
+        "rating" : 7.99,
         "total" : 1
       },
       "recap" : false,
@@ -367,7 +367,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.98,
+        "rating" : 7.99,
         "total" : 1
       },
       "recap" : false,
@@ -391,7 +391,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.98,
+        "rating" : 7.99,
         "total" : 1
       },
       "recap" : false,
@@ -415,7 +415,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 7.98,
+        "rating" : 7.99,
         "total" : 1
       },
       "recap" : false,
@@ -439,7 +439,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.43,
+        "rating" : 5.44,
         "total" : 2
       },
       "recap" : false,
@@ -461,16 +461,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.56,
-      "total" : 257
+      "rating" : 4.51,
+      "total" : 264
     },
     "REVIEW" : {
       "rating" : 5.66,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.18,
-      "total" : 258
+      "rating" : 6.16,
+      "total" : 265
     }
   },
   "related" : {
@@ -489,9 +489,70 @@
   },
   "start_date" : "2024-01-03",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2094" : {
+      "info_box" : true,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2274" : {
+      "info_box" : false,
+      "name" : "robot",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2355" : {
+      "info_box" : false,
+      "name" : "dragon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2406" : {
+      "info_box" : false,
+      "name" : "talking animal",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2467" : {
+      "info_box" : false,
+      "name" : "sword",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -503,12 +564,75 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2619" : {
+      "info_box" : true,
+      "name" : "gunfights",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2623" : {
+      "info_box" : true,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2633" : {
+      "info_box" : false,
+      "name" : "prison",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2638" : {
+      "info_box" : false,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2645" : {
+      "info_box" : false,
+      "name" : "piloted robot",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2749" : {
       "info_box" : false,
@@ -542,6 +666,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2849" : {
       "info_box" : false,
       "name" : "fantasy",
@@ -558,6 +690,30 @@
       "verified" : false,
       "weight" : 200
     },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4096" : {
       "info_box" : false,
       "name" : "gore",
@@ -566,9 +722,57 @@
       "verified" : false,
       "weight" : 0
     },
+    "4167" : {
+      "info_box" : false,
+      "name" : "air combat",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4730" : {
+      "info_box" : false,
+      "name" : "golem",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5543" : {
+      "info_box" : false,
+      "name" : "magic school",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

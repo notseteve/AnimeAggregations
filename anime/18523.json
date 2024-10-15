@@ -129,7 +129,7 @@
       "type" : "DIRECTOR"
     } ]
   },
-  "description" : "Note: The series was split into 3 parts for theatrical pre-screening in Japan beginning in July 2024. The TV broadcast will start in October 2024.",
+  "description" : "Note: It received an advance screening in theatres in three parts with episodes 1-4 having aired on 5 July 2024, episodes 5-8 on 23 August 2024, and episodes 9-12 on 20 September 2024. The regular TV broadcast started on 5 October 2024.",
   "end_date" : "2024-09-20",
   "episodes" : {
     "REGULAR" : [ {
@@ -138,9 +138,18 @@
       "length" : 25,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9ZP2D" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The One Who Decides Where to Fly"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tondeku Saki o Kimeru no wa"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "飛んでく先を決めるのは"
       } ],
       "type" : "REGULAR"
     }, {
@@ -151,7 +160,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Straylight.run()//playback"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Straylight.run()//playback"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Straylight.run()//playback"
       } ],
       "type" : "REGULAR"
     }, {
@@ -268,18 +283,19 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 1.35,
-      "total" : 1
+      "rating" : 1.99,
+      "total" : 2
     },
     "TEMPORARY" : {
-      "rating" : 3.0,
-      "total" : 1
+      "rating" : 5.33,
+      "total" : 3
     }
   },
   "related" : {
     "PREQUEL" : [ 17918 ]
   },
   "resources" : {
+    "CRUNCHY_ROLL" : [ "GKEH2G0ZK" ],
     "MAL" : [ "58302" ],
     "SYOBOI" : [ "7193" ],
     "TWITTER" : [ "shinyc_official" ],
@@ -328,6 +344,14 @@
     "language" : "JAPANESE",
     "title" : "THE IDOLM@STER SHINY COLORS 2nd season",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "The Idolmaster Shiny Colors Season 2",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "The iDOLM@STER Shiny Colors S2",
+    "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE",
     "title" : "アイドルマスター シャイニーカラーズ 2nd season",

@@ -1,6 +1,15 @@
 {
   "anime_id" : 17954,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 143207,
+      "name" : "Buratsuta Hirotoshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143808,
+      "name" : "Houichi Seiji",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 119058,
       "name" : "Isagi Yoichi",
@@ -53,6 +62,10 @@
     }, {
       "character_id" : 131431,
       "name" : "Karasu Tabito",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143814,
+      "name" : "Kurona Ranze",
       "type" : "CHARACTER"
     }, {
       "character_id" : 131428,
@@ -117,10 +130,6 @@
     } ]
   },
   "creators" : {
-    "1914" : [ {
-      "name" : "Inokawa Shintarou",
-      "type" : "DIRECTOR"
-    } ],
     "10595" : [ {
       "name" : "Mori Tomoko",
       "type" : "CHIEF_ANIMATION_DIRECTION"
@@ -150,7 +159,7 @@
     } ],
     "52963" : [ {
       "name" : "Haibara Yuuji",
-      "type" : "CHIEF_DIRECTOR"
+      "type" : "DIRECTOR"
     } ],
     "64610" : [ {
       "name" : "Kaneshiro Muneyuki",
@@ -158,23 +167,189 @@
     }, {
       "name" : "Kaneshiro Muneyuki",
       "type" : "STORY_COMPOSITION"
+    } ],
+    "78645" : [ {
+      "name" : "Gunjou Hirose",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "* Based on a sports manga written by http://anidb.net/cr64610 [Kaneshiro Muneyuki] and drawn by http://anidb.net/cr45367 [Nomura Yuusuke].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-10-06",
+      "episode_id" : 286829,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 2.47,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UE9W7K" ]
+      },
+      "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "La détection"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tryout"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Tryouts"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "適性試験[トライアウト]"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-12",
+      "episode_id" : 286830,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-19",
+      "episode_id" : 286831,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-26",
+      "episode_id" : 286832,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-10-06",
+      "episode_id" : 287210,
+      "length" : 3,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Additional Time! #24"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Additional Time! #24: Selection Tsuukasha"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あでぃしょなる・たいむ! #24 セレクション通過者"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-10-06",
+      "episode_id" : 287211,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Additional Time! #25: The Top 6`s Rooms"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Additional Time! #25: Top 6 no Heya"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あでぃしょなる・たいむ! #25 TOP6の部屋"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-09-22",
+      "episode_id" : 286833,
+      "length" : 55,
+      "number" : 16,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housoushitsu vs. U-20 Japan"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送室 VS. U-20 JAPAN"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "episode_id" : 287213,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.51,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 6.56,
+      "total" : 8
+    }
+  },
   "related" : {
     "PREQUEL" : [ 16519 ]
   },
   "resources" : {
+    "ANISON" : [ "25696" ],
     "ANN" : [ "27626" ],
+    "CRUNCHY_ROLL" : [ "G4PH0WEKE" ],
     "MAL" : [ "54865" ],
     "SYOBOI" : [ "7189" ],
     "TWITTER" : [ "BLUELOCK_PR" ],
     "WEBSITE" : [ "https://tv.bluelock-pr.com/" ],
     "WIKIPEDIA_EN" : [ "Blue_Lock" ],
-    "WIKIPEDIA_JP" : [ "ブルーロック" ]
+    "WIKIPEDIA_JP" : [ "ブルーロック" ],
+    "YOUTUBE" : [ "watch?v=a8M1sldGV2o", "watch?v=j-C6EXcxyNg" ]
   },
   "start_date" : "2024-10-05",
   "tags" : {
+    "997" : {
+      "info_box" : true,
+      "name" : "association football",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2881" : {
+      "info_box" : true,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -202,6 +377,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "ブルーロック VS. U-20 JAPAN",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "蓝色监狱 VS. U-20 日本",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

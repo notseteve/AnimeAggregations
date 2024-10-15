@@ -11,12 +11,40 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 143750,
+      "name" : "Futaba",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139612,
       "name" : "Kendouin Kazuki",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143756,
+      "name" : "Kokuryuu Kazuma",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139614,
       "name" : "Kokuryuu Kirika",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143754,
+      "name" : "Mizuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143755,
+      "name" : "Nagase",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143752,
+      "name" : "Nanamori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143751,
+      "name" : "Ogura",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143753,
+      "name" : "Sakura",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139613,
@@ -45,21 +73,110 @@
       "name" : "Tsuchiya Kei",
       "type" : "CHARACTER_DESIGN"
     } ],
+    "29920" : [ {
+      "name" : "Song Jin-Hui",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "43888" : [ {
       "name" : "Iga Takurou",
       "type" : "MUSIC"
     } ]
   },
   "description" : "Old schoolmates http://anidb.net/ch136283 [Haru] and http://anidb.net/ch136284 [Gaku] will do anything to achieve success. And success to them means earning a trillion dollars! But to do so, they`ll need to take full advantage of their own unique skills. Haru is a persuasive and confident speaker who can connect with anyone, while Gaku, although awkward, is an expert programmer. Will their combined talents be enough to make their dream a reality?\nSource: Crunchyroll",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-10-04",
+      "episode_id" : 286695,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UXWEWP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sekaiichi no Wagamama"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The World`s Most Selfish Man"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "世界一のワガママ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-04",
+      "episode_id" : 286696,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMG0GV" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "START UP"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Start Up"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Start Up"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-11",
+      "episode_id" : 286697,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Omae Nara Katsu Daro"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "You`ll Win, Won`t You?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "お前なら勝つだろ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-18",
+      "episode_id" : 286698,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.43,
+      "total" : 13
+    },
+    "TEMPORARY" : {
+      "rating" : 5.37,
+      "total" : 12
+    }
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "394444" ],
+    "ANISON" : [ "25667" ],
     "ANN" : [ "29913" ],
+    "CRUNCHY_ROLL" : [ "G9VHN9Q7Q" ],
     "MAL" : [ "56662" ],
+    "SYOBOI" : [ "7225" ],
     "TWITTER" : [ "trilliongame_pr" ],
     "WEBSITE" : [ "https://trilliongame-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Trillion_Game" ],
     "WIKIPEDIA_JP" : [ "トリリオンゲーム" ]
   },
-  "start_date" : "2024-10-03",
+  "start_date" : "2024-10-04",
   "tags" : {
     "1802" : {
       "info_box" : true,
@@ -120,8 +237,16 @@
     "title" : "トリリオンゲーム",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "一兆遊戲",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "1,000,000,000,000$ Game",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Trillion Game (2024)",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

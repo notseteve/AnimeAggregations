@@ -1,8 +1,33 @@
 {
   "anime_id" : 18707,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 143608,
+      "name" : "Chacma Dollies",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143604,
+      "name" : "Couran Salamakhia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143599,
+      "name" : "Hammond Plaid",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143607,
+      "name" : "Lenge Salamakhia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143597,
+      "name" : "Lumeire Pyres",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143609,
+      "name" : "Selena Bandol",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
-      "character_id" : 132301,
+      "character_id" : 143610,
       "name" : "Ars Louvent",
       "type" : "CHARACTER"
     } ],
@@ -15,7 +40,7 @@
       "name" : "Fam",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 136154,
+      "character_id" : 143612,
       "name" : "Lycia Plaid",
       "type" : "CHARACTER"
     }, {
@@ -27,7 +52,7 @@
       "name" : "Rietz Muses",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 132304,
+      "character_id" : 143611,
       "name" : "Rosel Keysha",
       "type" : "CHARACTER"
     } ]
@@ -58,17 +83,163 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-09-29",
+      "episode_id" : 286625,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 7.29,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU3PW42" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Promise"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yakusoku"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "約束"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-06",
+      "episode_id" : 286626,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 2.47,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9ZDE2" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Koushou"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Negotiations"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "交渉"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-13",
+      "episode_id" : 286627,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ryoushu no Sugata"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Image of a Lord"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "領主の姿"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-20",
+      "episode_id" : 286628,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-09-22",
+      "episode_id" : 286629,
+      "length" : 65,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Chokuzen Tokuban"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前特番"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "PROMOTION" : [ {
+      "air_date" : "2024-06-23",
+      "episode_id" : 287162,
+      "length" : 1,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "News Flash PV (0:35)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tokuhou PV"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "特報PV"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2024-09-09",
+      "episode_id" : 287163,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "PV 1 (1:32)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "PV Dai 1 Dan"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "PV第1弾"
+      } ],
+      "type" : "PROMOTION"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.45,
+      "total" : 22
+    },
+    "TEMPORARY" : {
+      "rating" : 6.77,
+      "total" : 22
+    }
+  },
   "related" : {
     "PREQUEL" : [ 18026 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "395720" ],
+    "ANISON" : [ "25419" ],
     "ANN" : [ "32835" ],
+    "CRUNCHY_ROLL" : [ "GG5H5XQMD" ],
     "MAL" : [ "59131" ],
     "SYOBOI" : [ "7203" ],
     "TWITTER" : [ "kanteiskill" ],
     "WEBSITE" : [ "https://kanteiskill.com/" ],
     "WIKIPEDIA_EN" : [ "As_a_Reincarnated_Aristocrat,_I'll_Use_My_Appraisal_Skill_to_Rise_in_the_World" ],
-    "WIKIPEDIA_JP" : [ "転生貴族、鑑定スキルで成り上がる_〜弱小領地を受け継いだので、優秀な人材を増やしていたら、最強領地になってた〜" ]
+    "WIKIPEDIA_JP" : [ "転生貴族、鑑定スキルで成り上がる_〜弱小領地を受け継いだので、優秀な人材を増やしていたら、最強領地になってた〜" ],
+    "YOUTUBE" : [ "live/uPUhZ5tXH3w", "watch?v=FnIpoBZhEhk", "watch?v=Itu_dNhg5Nc" ]
   },
   "start_date" : "2024-09-29",
   "tags" : {

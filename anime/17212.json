@@ -97,6 +97,10 @@
       "episode_id" : 252361,
       "length" : 7,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.24,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -107,12 +111,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.09,
-      "total" : 51
+      "rating" : 5.12,
+      "total" : 52
     },
     "TEMPORARY" : {
-      "rating" : 5.85,
-      "total" : 51
+      "rating" : 5.87,
+      "total" : 52
     }
   },
   "related" : {
@@ -131,9 +135,31 @@
   },
   "start_date" : "2022-02-22",
   "tags" : {
+    "7" : {
+      "info_box" : true,
+      "name" : "juujin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -146,9 +172,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

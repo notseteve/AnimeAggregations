@@ -157,7 +157,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.17,
+        "rating" : 3.18,
         "total" : 5
       },
       "recap" : false,
@@ -182,7 +182,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.98,
+        "rating" : 8.01,
         "total" : 2
       },
       "recap" : false,
@@ -207,7 +207,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.19,
+        "rating" : 6.23,
         "total" : 2
       },
       "recap" : false,
@@ -232,7 +232,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.98,
+        "rating" : 8.01,
         "total" : 2
       },
       "recap" : false,
@@ -257,7 +257,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.16,
+        "rating" : 7.2,
         "total" : 2
       },
       "recap" : false,
@@ -282,7 +282,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.16,
+        "rating" : 7.2,
         "total" : 2
       },
       "recap" : false,
@@ -307,7 +307,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.3,
+        "rating" : 5.34,
         "total" : 2
       },
       "recap" : false,
@@ -332,7 +332,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.79,
+        "rating" : 8.81,
         "total" : 2
       },
       "recap" : false,
@@ -357,7 +357,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.3,
+        "rating" : 5.34,
         "total" : 2
       },
       "recap" : false,
@@ -382,7 +382,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.3,
+        "rating" : 5.34,
         "total" : 2
       },
       "recap" : false,
@@ -407,7 +407,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.3,
+        "rating" : 5.34,
         "total" : 2
       },
       "recap" : false,
@@ -432,7 +432,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.19,
+        "rating" : 6.23,
         "total" : 2
       },
       "recap" : false,
@@ -781,7 +781,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 5.1,
+        "rating" : 5.28,
         "total" : 1
       },
       "recap" : false,
@@ -796,7 +796,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 5.1,
+        "rating" : 5.28,
         "total" : 1
       },
       "recap" : false,
@@ -809,12 +809,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.54,
-      "total" : 316
+      "rating" : 4.58,
+      "total" : 321
     },
     "TEMPORARY" : {
-      "rating" : 6.18,
-      "total" : 317
+      "rating" : 6.19,
+      "total" : 322
     }
   },
   "resources" : {
@@ -840,8 +840,8 @@
       "total" : 11
     },
     "17688" : {
-      "rating" : 6.0,
-      "total" : 5
+      "rating" : 6.666666666666666,
+      "total" : 6
     },
     "18164" : {
       "rating" : 9.166666666666666,
@@ -955,6 +955,22 @@
       "verified" : false,
       "weight" : 500
     },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
@@ -970,6 +986,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "3805" : {
+      "info_box" : false,
+      "name" : "European stylised",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4198" : {
+      "info_box" : false,
+      "name" : "hard work and guts",
+      "parent_tag_id" : 5604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4244" : {
       "info_box" : false,
       "name" : "healthcare and medicine",
@@ -977,6 +1009,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "4397" : {
+      "info_box" : false,
+      "name" : "court politics",
+      "parent_tag_id" : 2867,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "4522" : {
       "info_box" : false,
@@ -998,6 +1038,14 @@
       "info_box" : true,
       "name" : "manhwa",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5604" : {
+      "info_box" : false,
+      "name" : "following one`s dream",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1056,6 +1104,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "7402" : {
+      "info_box" : false,
+      "name" : "corrupt nobility",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
@@ -1082,6 +1138,20 @@
     "8165" : {
       "info_box" : false,
       "name" : "Time Rewind",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8174" : {
+      "info_box" : false,
+      "name" : "mary sue trope",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8175" : {
+      "info_box" : false,
+      "name" : "modern knowledge meets archaic world trope",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

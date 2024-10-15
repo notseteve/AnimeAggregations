@@ -79,12 +79,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.97,
-      "total" : 31
+      "rating" : 3.93,
+      "total" : 32
     },
     "TEMPORARY" : {
       "rating" : 5.03,
-      "total" : 31
+      "total" : 32
     }
   },
   "resources" : {
@@ -103,6 +103,13 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -185,6 +192,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2848" : {
       "info_box" : false,

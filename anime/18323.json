@@ -1,6 +1,19 @@
 {
   "anime_id" : 18323,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 6622,
+      "name" : "Sanjou Tsubame",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 20113,
+      "name" : "Sekihara Tae",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 20650,
+      "name" : "Tsukioka Tsunan",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 443,
       "name" : "Himura Kenshin",
@@ -53,6 +66,10 @@
       "name" : "Watsuki Nobuhiro",
       "type" : "ORIGINAL_WORK"
     } ],
+    "1417" : [ {
+      "name" : "Kobayashi Toshimitsu",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "1557" : [ {
       "name" : "Kurata Hideyuki",
       "type" : "SERIES_COMPOSITION"
@@ -60,6 +77,10 @@
     "2213" : [ {
       "name" : "Nishii Terumi",
       "type" : "CHARACTER_DESIGN"
+    } ],
+    "11685" : [ {
+      "name" : "Emoto Masahiro",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "16850" : [ {
       "name" : "Takami Yuu",
@@ -82,18 +103,81 @@
       "type" : "SERIES_COMPOSITION"
     } ]
   },
+  "description" : "Note: The first four episodes received an early screening at a special event on 22 September 2024 at TOHO Cinemas Nihonbashi in Tokyo and at T-Joy Kyoto in Kyoto. The regular TV broadcast started on 4 October 2024.",
   "episodes" : {
     "REGULAR" : [ {
-      "air_date" : "2024-10-03",
+      "air_date" : "2024-10-04",
       "episode_id" : 286525,
       "length" : 25,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UDQPEP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyoto e"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Partons pour Kyôto"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "To Kyoto"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "京都へ"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-11",
+      "episode_id" : 286654,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Meiji Toukaidou Chuu"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "On the East Sea Road"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "明治東海道中"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-18",
+      "episode_id" : 286655,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-25",
+      "episode_id" : 286656,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "episode_id" : 287114,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2023-12-17",
@@ -101,7 +185,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 8.8,
+        "rating" : 8.81,
         "total" : 1
       },
       "recap" : false,
@@ -115,20 +199,33 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.12,
+      "total" : 11
+    },
+    "TEMPORARY" : {
+      "rating" : 6.81,
+      "total" : 11
+    }
+  },
   "related" : {
-    "PREQUEL" : [ 17065 ],
-    "SUMMARY" : [ 8595 ]
+    "ALTERNATIVE_SETTING" : [ 8595 ],
+    "PREQUEL" : [ 17065 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "392835" ],
     "ANN" : [ "31067" ],
+    "CRUNCHY_ROLL" : [ "G0XHWM1NK" ],
     "MAL" : [ "57554" ],
+    "SYOBOI" : [ "7240" ],
     "TWITTER" : [ "ruroken_anime/" ],
     "WEBSITE" : [ "https://rurouni-kenshin.com/" ],
     "WIKIPEDIA_EN" : [ "Rurouni_Kenshin_(2023_TV_series)" ],
     "WIKIPEDIA_JP" : [ "るろうに剣心_-明治剣客浪漫譚-_(アニメ)" ],
     "YOUTUBE" : [ "watch?v=GSgBEF2vIsg" ]
   },
-  "start_date" : "2024-10",
+  "start_date" : "2024-10-04",
   "tags" : {
     "3865" : {
       "info_box" : true,

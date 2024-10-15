@@ -1,5 +1,17 @@
 {
   "anime_id" : 18248,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 141794,
+      "name" : "Myoudou Akina",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 141795,
+      "name" : "Myoudou Hikari",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "2950" : [ {
       "name" : "Kinema Citrus",
@@ -422,7 +434,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.47,
+      "rating" : 3.48,
       "total" : 11
     },
     "TEMPORARY" : {
@@ -447,9 +459,55 @@
   },
   "start_date" : "2024-01-13",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2637" : {
+      "info_box" : true,
+      "name" : "time travel",
+      "parent_tag_id" : 7050,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6191" : {
+      "info_box" : false,
+      "name" : "card games",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

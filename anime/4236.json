@@ -21,21 +21,21 @@
       "type" : "MUSIC"
     } ]
   },
-  "description" : "* Based on the manga by http://anidb.net/cr10448 [Tsunoda Jirou]. The title roughly means `Hyakutarou behind`.\nA boy named Ichitarou Ushiro deals with various horrifying phenomena with the help of his guardian spirit Hyakutarou.\n2 episodes: `Kokkuri Satsujin Jiken`, `Yuutai Ridatsu`.",
+  "description" : "* Based on the manga by http://anidb.net/cr10448 [Tsunoda Jirou]. The title roughly means `Hyakutarou behind`.\nA boy named Ichitarou Ushiro deals with various horrifying phenomena with the help of his guardian spirit Hyakutarou.",
   "end_date" : "1991-10-21",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "1991-08-21",
       "episode_id" : 45693,
-      "length" : 60,
+      "length" : 35,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Kokkuri Murder Case"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kokkuri Satsujin Jiken"
-      }, {
-        "language" : "ENGLISH",
-        "title" : "OVA-1"
       }, {
         "language" : "JAPANESE",
         "title" : "こっくり殺人事件"
@@ -44,12 +44,12 @@
     }, {
       "air_date" : "1991-10-21",
       "episode_id" : 45694,
-      "length" : 60,
+      "length" : 35,
       "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "OVA-2"
+        "title" : "Astral Projection"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Yuutai Ridatsu"
@@ -58,16 +58,51 @@
         "title" : "幽体離脱"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "1991-08-21",
+      "episode_id" : 287247,
+      "length" : 20,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsunoda Jirou no Shinrei Kaisetsu Kouza: Kokkuri-san Hen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "つのだじろうの心霊解説講座 ~こっくりさん編~"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "1991-10-21",
+      "episode_id" : 287248,
+      "length" : 20,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsunoda Jirou no Shinrei Kaisetsu Kouza: Shugourei Hen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "つのだじろうの心霊解説講座 ~守護霊編~"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.84,
-      "total" : 9
+      "rating" : 4.55,
+      "total" : 10
     },
     "TEMPORARY" : {
-      "rating" : 5.0,
-      "total" : 9
+      "rating" : 4.9,
+      "total" : 10
     }
   },
   "resources" : {
@@ -75,7 +110,8 @@
     "ANIME_NFO" : [ "2990,fqssiw" ],
     "ANISON" : [ "2716" ],
     "ANN" : [ "7336" ],
-    "MAL" : [ "12833" ]
+    "MAL" : [ "12833" ],
+    "WIKIPEDIA_JP" : [ "うしろの百太郎#OVA" ]
   },
   "start_date" : "1991-08-21",
   "tags" : {
@@ -144,6 +180,10 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Shinrei Kyoufu Report: Ushiro no Hyakutarou",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Ushiro no Hyakutaro",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE",

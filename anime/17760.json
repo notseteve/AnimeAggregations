@@ -34,6 +34,10 @@
       "name" : "Kazamatsuri Shintarou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143478,
+      "name" : "Kouchou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143039,
       "name" : "Miyabi",
       "type" : "CHARACTER"
@@ -66,6 +70,10 @@
     "SECONDARY" : [ {
       "character_id" : 140693,
       "name" : "Hanyuu Mayuri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143567,
+      "name" : "Higarashi Youichi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140692,
@@ -260,7 +268,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.77,
+        "rating" : 4.78,
         "total" : 4
       },
       "recap" : false,
@@ -284,7 +292,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.79,
+        "rating" : 4.8,
         "total" : 3
       },
       "recap" : false,
@@ -332,7 +340,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.31,
+        "rating" : 5.32,
         "total" : 3
       },
       "recap" : false,
@@ -356,7 +364,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 4.54,
+        "rating" : 4.56,
         "total" : 3
       },
       "recap" : false,
@@ -380,7 +388,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.38,
+        "rating" : 6.39,
         "total" : 3
       },
       "recap" : false,
@@ -404,8 +412,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 8.73,
-        "total" : 2
+        "rating" : 6.92,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -427,7 +435,14 @@
       "episode_id" : 285504,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 2.11,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUX175E" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE",
         "title" : "5人の新星"
@@ -444,10 +459,23 @@
       "episode_id" : 286304,
       "length" : 25,
       "number" : 13,
+      "rating" : {
+        "rating" : 3.36,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU0M5P1" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 13"
+        "title" : "Can We Be Friends?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tomodachi Dekiru ka na"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "友達できるかな"
       } ],
       "type" : "REGULAR"
     }, {
@@ -457,8 +485,14 @@
       "number" : 14,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Anata to Issho ni"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 14"
+        "title" : "Together with You"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あなたと一緒に"
       } ],
       "type" : "REGULAR"
     }, {
@@ -508,7 +542,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.14,
+        "rating" : 2.19,
         "total" : 2
       },
       "recap" : false,
@@ -523,7 +557,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 2.63,
+        "rating" : 2.7,
         "total" : 2
       },
       "recap" : false,
@@ -536,12 +570,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.3,
-      "total" : 64
+      "rating" : 4.33,
+      "total" : 70
     },
     "TEMPORARY" : {
-      "rating" : 5.94,
-      "total" : 64
+      "rating" : 6.01,
+      "total" : 70
     }
   },
   "resources" : {

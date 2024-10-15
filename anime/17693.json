@@ -94,6 +94,10 @@
       "name" : "Tanta",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 119383,
+      "name" : "Theodora Dephilo",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 138136,
       "name" : "Tonedo-shichou",
       "type" : "CHARACTER"
@@ -229,7 +233,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.06,
+        "rating" : 3.05,
         "total" : 2
       },
       "recap" : false,
@@ -257,7 +261,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.06,
+        "rating" : 3.05,
         "total" : 2
       },
       "recap" : false,
@@ -453,7 +457,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 4.6,
+        "rating" : 4.59,
         "total" : 3
       },
       "recap" : false,
@@ -562,12 +566,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.59,
-      "total" : 374
+      "rating" : 3.61,
+      "total" : 385
     },
     "TEMPORARY" : {
-      "rating" : 5.97,
-      "total" : 375
+      "rating" : 6.0,
+      "total" : 386
     }
   },
   "related" : {
@@ -587,9 +591,53 @@
   },
   "start_date" : "2024-01-07",
   "tags" : {
+    "1609" : {
+      "info_box" : false,
+      "name" : "elf",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -601,6 +649,54 @@
       "verified" : false,
       "weight" : 0
     },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2634" : {
+      "info_box" : false,
+      "name" : "countryside",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -608,6 +704,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2849" : {
       "info_box" : false,
@@ -625,10 +729,50 @@
       "verified" : false,
       "weight" : 200
     },
+    "2855" : {
+      "info_box" : false,
+      "name" : "under one roof",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "3842" : {
       "info_box" : false,
       "name" : "TV censoring",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4251" : {
+      "info_box" : false,
+      "name" : "ensemble cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -647,6 +791,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7050" : {
       "info_box" : false,
       "name" : "speculative fiction",
@@ -659,6 +819,21 @@
       "info_box" : false,
       "name" : "Japanese production",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8057" : {
+      "info_box" : false,
+      "name" : "medieval European aesthetic",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8171" : {
+      "info_box" : false,
+      "name" : "guilds",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -697,12 +872,36 @@
     "title" : "真の仲間2nd",
     "type" : "SHORT"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Banished from the Hero`s Party Season 2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Banished from the Hero`s Party, I Decided To Live A Quiet Life In The Countryside Part Season 2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "I Was Kicked out of the Hero`s Party Because I Wasn`t a True Companion so I Decided to Have a Slow Life at the Frontier 2nd",
+    "type" : "SYNONYM"
+  }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Shin no Nakama S2",
     "type" : "SYNONYM"
   }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Shin no Nakama Season 2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita 2nd",
+    "type" : "SYNONYM"
+  }, {
     "language" : "JAPANESE",
     "title" : "shinnaka2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE",
+    "title" : "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました 第2期",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

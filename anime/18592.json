@@ -16,6 +16,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 143642,
+      "name" : "Albert Gambino",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142317,
       "name" : "Brandon Stollen",
       "type" : "CHARACTER"
@@ -27,9 +31,41 @@
       "character_id" : 140334,
       "name" : "Kouga Tsukishima",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 143646,
+      "name" : "Leon Fredric",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143647,
+      "name" : "Lloyd",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143648,
+      "name" : "Loki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143645,
+      "name" : "Lycia Mercedes",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143644,
+      "name" : "Tanya Clark",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143649,
+      "name" : "Walter",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143643,
+      "name" : "Wolf Lehman",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
+    "9314" : [ {
+      "name" : "Sakamoto Chiyoko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "11766" : [ {
       "name" : "Terao Kenji",
       "type" : "CHARACTER_DESIGN"
@@ -62,9 +98,99 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on a fantasy light novel series written by http://anidb.net/cr76149 [Jaki] and illustrated by http://anidb.net/cr69225 [Fame].\nhttp://anidb.net/ch140335 [Noel] longs to be a Seeker like his heroic grandfather, slaying the beasts that emerge from Abysses and exploring far-off lands. Unfortunately, it turns out he`s nothing but a measly Talker–a job with no combat skills whatsoever. Undaunted, Noel sets out to establish the strongest clan in all the land, using his silver-tongued Talker skills to unite assassins and heroes under his leadership.\nSource: Seven Seas Entertainment",
+  "description" : "* Based on a fantasy light novel series written by http://anidb.net/cr76149 [Jaki] and illustrated by http://anidb.net/cr69225 [Fame].\nhttp://anidb.net/ch140335 [Noel] longs to be a Seeker like his heroic grandfather, slaying the beasts that emerge from Abysses and exploring far-off lands. Unfortunately, it turns out he`s nothing but a measly Talker–a job with no combat skills whatsoever. Undaunted, Noel sets out to establish the strongest clan in all the land, using his silver-tongued Talker skills to unite assassins and heroes under his leadership.\nSource: Seven Seas Entertainment\nNote: The first two episodes received an early screening at a special event on 15 September 2024 at Abema Anime Festival in Tokyo. The regular broadcast started on 1 October 2024.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-10-01",
+      "episode_id" : 286657,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.18,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UXWD1N" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saijaku ga Saikyou o Mezasu Riyuu"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Why the Weakest Aims to Be the Strongest"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "最弱が最強を目指す理由"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-08",
+      "episode_id" : 286658,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sono Wajutsushi wa Yousha o Shinai"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "This Talker Is Ruthless"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "その話術士は容赦をしない"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-15",
+      "episode_id" : 286659,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-22",
+      "episode_id" : 286660,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "episode_id" : 286998,
+      "length" : 0,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode C1"
+      } ],
+      "type" : "CREDITS"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.63,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 4.93,
+      "total" : 8
+    }
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "394846" ],
+    "ANISON" : [ "25656" ],
     "ANN" : [ "32681" ],
+    "CRUNCHY_ROLL" : [ "GDKHZEJD0" ],
     "MAL" : [ "58714" ],
     "SYOBOI" : [ "7216" ],
     "TWITTER" : [ "wajutsushi_PR" ],
@@ -81,10 +207,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2849" : {
       "info_box" : true,
       "name" : "fantasy",
       "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2850" : {
+      "info_box" : true,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 600

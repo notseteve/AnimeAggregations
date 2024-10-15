@@ -1,12 +1,17 @@
 {
   "anime_id" : 18700,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 7651,
+      "name" : "Jusenkyou Guide",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 7247,
       "name" : "Saotome Ranma",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 7449,
+      "character_id" : 143855,
       "name" : "Saotome Ranma",
       "type" : "CHARACTER"
     }, {
@@ -20,6 +25,10 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 7339,
+      "name" : "Saotome Genma",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 7662,
       "name" : "Saotome Genma",
       "type" : "CHARACTER"
     }, {
@@ -81,19 +90,66 @@
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
+  "description" : "[i]Note: The first episode received an early screening at a special event on 3 October 2024 in Tokyo. The regular TV broadcast started on 6 October 2024.\nAdditionally, the first 12 episodes leaked in early August before the scheduled air date.[/i]",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-06",
       "episode_id" : 284449,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.72,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Here`s Ranma"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Hier ist Ranma"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ranma ga Kita"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Voilà Ranma"
       }, {
         "language" : "JAPANESE",
         "title" : "らんまが来た"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-13",
+      "episode_id" : 286961,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-20",
+      "episode_id" : 286962,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-27",
+      "episode_id" : 286963,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
     } ],
@@ -112,6 +168,27 @@
       } ],
       "type" : "SPECIAL"
     } ],
+    "CREDITS" : [ {
+      "episode_id" : 287219,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "episode_id" : 287242,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2024-07-17",
       "episode_id" : 285206,
@@ -128,6 +205,16 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.93,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 7.0,
+      "total" : 18
+    }
+  },
   "related" : {
     "ALTERNATIVE_SETTING" : [ 4576 ]
   },
@@ -135,6 +222,7 @@
     "ANN" : [ "32929" ],
     "MAL" : [ "59145" ],
     "NETFLIX" : [ "81171925" ],
+    "SYOBOI" : [ "7239" ],
     "TWITTER" : [ "ranma_pr" ],
     "WEBSITE" : [ "https://ranma-pr.com/" ],
     "WEBSITE_EN" : [ "https://ranma-pr.com/en/" ],

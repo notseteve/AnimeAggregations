@@ -66,13 +66,94 @@
       "type" : "ANIMATION_WORK"
     } ]
   },
-  "description" : "* Based on a fantasy light novel series written by http://anidb.net/cr56202 [Kanzaki Kurone] and illustrated by http://anidb.net/cr43465 [Iino Makoto].",
+  "description" : "* Based on a fantasy light novel series written by http://anidb.net/cr56202 [Kanzaki Kurone] and illustrated by http://anidb.net/cr43465 [Iino Makoto].\nNote: The first episode received an early screening at a special event on 23 September 2024 at Abema Anime Festival in Tokyo. The regular broadcast started on 28 September 2024.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-09-28",
+      "episode_id" : 286617,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 4.04,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UE929V" ]
+      },
+      "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Nouvel essai - R eTry"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Retry"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Retry"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "リトライ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-05",
+      "episode_id" : 286618,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Restart"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Restart"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "リスタート"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-12",
+      "episode_id" : 286619,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-19",
+      "episode_id" : 286620,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.09,
+      "total" : 10
+    },
+    "TEMPORARY" : {
+      "rating" : 4.63,
+      "total" : 11
+    }
+  },
   "related" : {
     "PREQUEL" : [ 14391 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "394209" ],
+    "ANISON" : [ "25680" ],
     "ANN" : [ "29545" ],
+    "CRUNCHY_ROLL" : [ "GXJHM37KD" ],
     "MAL" : [ "56400" ],
     "SYOBOI" : [ "7206" ],
     "TWITTER" : [ "maousama_anime" ],
@@ -155,6 +236,10 @@
     "language" : "JAPANESE",
     "title" : "魔王様, リトライ! R",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Maorito 2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://maousama-anime.com/2024/"
