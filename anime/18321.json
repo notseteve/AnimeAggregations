@@ -5,6 +5,87 @@
       "character_id" : 141895,
       "name" : "Abe Haruaki",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 143868,
+      "name" : "Abe Amaaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143880,
+      "name" : "Akisame Tamao",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143870,
+      "name" : "Chiisai Ojisan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143873,
+      "name" : "Ebisu Isaburou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143869,
+      "name" : "Fuji Touya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143867,
+      "name" : "Gakuenchou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143881,
+      "name" : "Hatanaka Izuna",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143876,
+      "name" : "Hijita Koutarou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143878,
+      "name" : "Maizuka Mamekichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143864,
+      "name" : "Marshmallow",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143879,
+      "name" : "Miki Rintarou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143877,
+      "name" : "Mujina Yakumo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143866,
+      "name" : "Nuudou Rensuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143882,
+      "name" : "Renjou Yuri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143865,
+      "name" : "Sano Mikoto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143863,
+      "name" : "Takahashi Akira",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143875,
+      "name" : "Utagawa Kuniko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143871,
+      "name" : "Yamazaki Makoto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143874,
+      "name" : "Yanagida",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143872,
+      "name" : "Zashiki Beniko",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -19,6 +100,10 @@
     "7668" : [ {
       "name" : "Ono Katsumi",
       "type" : "DIRECTOR"
+    } ],
+    "60528" : [ {
+      "name" : "Hamaguchi Baku",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "74805" : [ {
       "name" : "Tanaka Mai",
@@ -36,10 +121,20 @@
       "episode_id" : 287012,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.58,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMKW7V" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Bienvenue à l`académie Hyakki"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Welcome to Hyakki Academy!"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Youkoso Hyakki Gakuen e!"
@@ -53,10 +148,26 @@
       "episode_id" : 287013,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 1.49,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7VG52" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Physical Exams Are Life-Threatening?!"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Risquer sa vie pour des mensurations ?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shintai Sokutei wa Inochigake!?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "身体測定は命がけ!?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -66,8 +177,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Daikonran! Miki-sensei no Youkai Gaku!!"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "大混乱! 神酒先生の妖怪学!!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -81,10 +198,65 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-05",
+      "episode_id" : 288027,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-12",
+      "episode_id" : 288028,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-19",
+      "episode_id" : 288029,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-26",
+      "episode_id" : 288030,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.34,
+      "total" : 19
+    },
+    "TEMPORARY" : {
+      "rating" : 5.73,
+      "total" : 19
+    }
   },
   "resources" : {
     "ANN" : [ "31059" ],
+    "CRUNCHY_ROLL" : [ "GVDHX85QN" ],
     "IMDB" : [ "tt32832431" ],
     "MAL" : [ "57533" ],
     "SYOBOI" : [ "7207" ],
@@ -124,6 +296,18 @@
     "language" : "JAPANESE",
     "title" : "妖怪学校の先生はじめました!",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "妖怪学校的新人教师！",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "妖怪學校的菜鳥老師",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Yohaji",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://youkaigakkou.com/"

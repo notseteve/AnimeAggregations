@@ -23,40 +23,63 @@
     "REGULAR" : [ {
       "air_date" : "2024-10-07",
       "episode_id" : 286649,
-      "length" : 0,
+      "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.8,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Totsuzen no Tensei"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "突然の転生"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-14",
       "episode_id" : 286650,
-      "length" : 0,
+      "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 1.15,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nyandakke"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ニャンだっけ"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-21",
       "episode_id" : 286651,
-      "length" : 0,
+      "length" : 2,
       "number" : 3,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "プロポーズ"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-28",
       "episode_id" : 286652,
-      "length" : 0,
+      "length" : 2,
       "number" : 4,
       "recap" : false,
       "titles" : [ {
@@ -66,11 +89,24 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.37,
+      "total" : 2
+    },
+    "TEMPORARY" : {
+      "rating" : 2.0,
+      "total" : 2
+    }
+  },
   "resources" : {
     "ANN" : [ "32407" ],
     "MAL" : [ "58395" ],
+    "TWITTER" : [ "nekooji_news" ],
     "WEBSITE" : [ "https://nekooji-anime.com/" ],
-    "WIKIPEDIA_EN" : [ "Neko_ni_Tensei_Shita_Oji-san" ]
+    "WIKIPEDIA_EN" : [ "Neko_ni_Tensei_Shita_Oji-san" ],
+    "WIKIPEDIA_JP" : [ "ねこに転生したおじさん" ],
+    "YOUTUBE" : [ "watch?v=66Svsgi4Btw" ]
   },
   "start_date" : "2024-10-07",
   "tags" : {
@@ -98,6 +134,18 @@
     "language" : "JAPANESE",
     "title" : "ねこに転生したおじさん",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "轉生成貓咪的大叔",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "转生成猫咪的大叔",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE",
+    "title" : "ねこおじ",
+    "type" : "SHORT"
   } ],
   "type" : "SERIES",
   "url" : "https://nekooji-anime.com/"

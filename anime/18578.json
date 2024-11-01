@@ -11,12 +11,20 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 143956,
+      "name" : "Akitsu Akane",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 124894,
       "name" : "Amane Towa",
       "type" : "CHARACTER"
     }, {
       "character_id" : 124888,
       "name" : "Arthur Pencilgon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143955,
+      "name" : "Ceecrue",
       "type" : "CHARACTER"
     }, {
       "character_id" : 124889,
@@ -80,10 +88,23 @@
       "episode_id" : 287031,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.35,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UGV5PW" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Half-Naked Birdman and the Gang in Golem Paradise"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hanra to Yukai na Nakama-tachi in Golem Paradise"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "半裸と愉快な仲間達inゴーレムパラダイス"
       } ],
       "type" : "REGULAR"
     }, {
@@ -121,10 +142,27 @@
       "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
+      "air_date" : "2024-10-13",
+      "episode_id" : 287615,
+      "length" : 3,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "SLF Mini #31: Fortune Teller Rock Roll"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shan Fro Mini #31: Uranai no Yakata Rock Roll"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "シャンフロ ミニ #31 占いの館Rock Roll"
+      } ],
+      "type" : "SPECIAL"
+    }, {
       "air_date" : "2024-09-12",
       "episode_id" : 287035,
       "length" : 60,
-      "number" : 1,
+      "number" : 30,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -137,20 +175,60 @@
         "title" : "2nd season生配信特番"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "episode_id" : 287636,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 7.29,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "episode_id" : 287637,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 5.3,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.86,
+      "total" : 14
+    },
+    "TEMPORARY" : {
+      "rating" : 8.0,
+      "total" : 14
+    }
   },
   "related" : {
     "PREQUEL" : [ 17501 ]
   },
   "resources" : {
     "ANN" : [ "32624" ],
+    "CRUNCHY_ROLL" : [ "G79H23Z8P" ],
     "MAL" : [ "58572" ],
     "SYOBOI" : [ "7180" ],
     "TWITTER" : [ "ShanFro_Comic" ],
     "WEBSITE" : [ "https://anime.shangrilafrontier.com/" ],
     "WIKIPEDIA_EN" : [ "Shangri-La_Frontier" ],
     "WIKIPEDIA_JP" : [ "シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜" ],
-    "YOUTUBE" : [ "watch?v=xI8kJGaRoVk" ]
+    "YOUTUBE" : [ "watch?v=j6k4IzRNU2A", "watch?v=xI8kJGaRoVk" ]
   },
   "start_date" : "2024-10-13",
   "tags" : {
@@ -185,6 +263,10 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Shanfro 2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Shangri-La Frontier 2nd Season",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

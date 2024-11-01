@@ -2,8 +2,20 @@
   "anime_id" : 18267,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 70850,
+      "name" : "Ais Wallenstein",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 101585,
+      "name" : "Aisha Belka",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 74391,
       "name" : "Anya Fromel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 75582,
+      "name" : "Asfi Al Andromeda",
       "type" : "CHARACTER"
     }, {
       "character_id" : 101587,
@@ -18,12 +30,48 @@
       "name" : "Daphne Lauros",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 75307,
+      "name" : "Demeter",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 118411,
+      "name" : "Dian Cecht",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 74540,
+      "name" : "Ganesha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 75585,
+      "name" : "Hermes",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 75584,
+      "name" : "Hitachi Chigusa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 75583,
+      "name" : "Kashima Ouka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 73779,
+      "name" : "Loki",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 78814,
       "name" : "Lunoire Faust",
       "type" : "CHARACTER"
     }, {
       "character_id" : 75304,
       "name" : "Mia Grand",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103798,
+      "name" : "Naaze Eresis",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 108077,
+      "name" : "Soma",
       "type" : "CHARACTER"
     }, {
       "character_id" : 108083,
@@ -50,6 +98,10 @@
     }, {
       "character_id" : 141962,
       "name" : "Hedin Selland",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143848,
+      "name" : "Heith Velvet",
       "type" : "CHARACTER"
     }, {
       "character_id" : 141961,
@@ -80,6 +132,10 @@
       "name" : "Syr Flover",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143912,
+      "name" : "Van",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 75462,
       "name" : "Welf Crozzo",
       "type" : "CHARACTER"
@@ -101,6 +157,9 @@
     "3389" : [ {
       "name" : "Kimoto Shigeki",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Kimoto Shigeki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "4637" : [ {
       "name" : "Shirane Hideki",
@@ -118,16 +177,26 @@
       "type" : "SERIES_COMPOSITION"
     } ]
   },
-  "description" : "* Based on http://anidb.net/cr41113 [Oomori Fujino]`s light novel series.\nNote: The first two episodes received an early screening at a special event on 16 September 2024 at Abema Anime Festival in Tokyo. The regular broadcast started on 5 October 2024.",
+  "description" : "* Based on http://anidb.net/cr41113 [Oomori Fujino]`s light novel series.\nNote: The first two episodes received an early screening at a special event on 16 September 2024 at Abema Anime Festival in Tokyo. Additionally, each episode was streamed on ABEMA, Crunchyroll, and HiDive two days ahead of its TV broadcast, starting on 3 October 2024. The regular broadcast started on 5 October 2024.",
   "episodes" : {
     "REGULAR" : [ {
-      "air_date" : "2024-10-05",
+      "air_date" : "2024-10-03",
       "episode_id" : 286839,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.32,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMKE57" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
+        "title" : "Syr"
+      }, {
+        "language" : "FRENCH",
         "title" : "Syr"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -138,11 +207,18 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-10-12",
+      "air_date" : "2024-10-10",
       "episode_id" : 286840,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.01,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7VPDW" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Master"
@@ -150,23 +226,32 @@
         "language" : "ENGLISH",
         "title" : "Master: Training"
       }, {
+        "language" : "FRENCH",
+        "title" : "Maître - Dressage"
+      }, {
         "language" : "JAPANESE",
         "title" : "調教[マスター]"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-10-19",
+      "air_date" : "2024-10-17",
       "episode_id" : 286841,
       "length" : 25,
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Odr"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Odr: Partner"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "伴侶[オーズ]"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-10-26",
+      "air_date" : "2024-10-24",
       "episode_id" : 286842,
       "length" : 25,
       "number" : 4,
@@ -176,7 +261,92 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-31",
+      "episode_id" : 287383,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-07",
+      "episode_id" : 287384,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-14",
+      "episode_id" : 287385,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-21",
+      "episode_id" : 287386,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-10-03",
+      "episode_id" : 287115,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 1.03,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-10-03",
+      "episode_id" : 287167,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 9.64,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.08,
+      "total" : 21
+    },
+    "TEMPORARY" : {
+      "rating" : 6.3,
+      "total" : 21
+    }
   },
   "related" : {
     "PREQUEL" : [ 17652 ]
@@ -193,11 +363,26 @@
     "WIKIPEDIA_EN" : [ "Is_It_Wrong_to_Try_to_Pick_Up_Girls_in_a_Dungeon%3F" ],
     "WIKIPEDIA_JP" : [ "ダンジョンに出会いを求めるのは間違っているだろうか_(アニメ)" ]
   },
-  "start_date" : "2024-10-05",
+  "start_date" : "2024-10-03",
   "tags" : {
+    "627" : {
+      "info_box" : false,
+      "name" : "lingerie",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -209,6 +394,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "6173" : {
       "info_box" : false,
@@ -231,6 +424,10 @@
     "title" : "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth V",
     "type" : "MAIN"
   }, {
+    "language" : "SPANISH",
+    "title" : "DanMachi: ¿Qué tiene de malo intentar ligar en una mazmorra? V",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "Is It Wrong to Try to Pick Up Girls in a Dungeon? V",
     "type" : "OFFICIAL"
@@ -239,12 +436,16 @@
     "title" : "ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH V",
     "type" : "OFFICIAL"
   }, {
-    "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "DanMachi V",
-    "type" : "SHORT"
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "在地下城寻求邂逅是否搞错了什么 第五季 丰饶女神篇",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "在地下城尋求邂逅是否搞錯了什麼 第五季",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "danmachi5",
+    "title" : "DanMachi V",
     "type" : "SHORT"
   }, {
     "language" : "JAPANESE",

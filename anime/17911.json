@@ -1,6 +1,43 @@
 {
   "anime_id" : 17911,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 143844,
+      "name" : "Himari",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143841,
+      "name" : "Houya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143961,
+      "name" : "Kikuchi Shiori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143843,
+      "name" : "Miyuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143840,
+      "name" : "Okue Naomasa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143959,
+      "name" : "Renji no Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143845,
+      "name" : "Takeru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143960,
+      "name" : "Tanaka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143842,
+      "name" : "Uda",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 141597,
       "name" : "Niijima Keisuke",
@@ -37,9 +74,16 @@
       "name" : "Abe Noriyuki",
       "type" : "DIRECTOR"
     } ],
+    "5259" : [ {
+      "name" : "Sakurai Masaaki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "14519" : [ {
       "name" : "Sekikawa Narihito",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Sekikawa Narihito",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "19716" : [ {
       "name" : "Hirabayashi Sawako",
@@ -65,10 +109,17 @@
       "episode_id" : 286964,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.09,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UDQXX9" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "A Family Again"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kazoku, Futatabi."
@@ -82,21 +133,48 @@
       "episode_id" : 286965,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.45,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UE9WW0" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Datte, Ima wa."
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Right Now"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "だって, いまは."
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-13",
+      "description" : "Mai starts working at a new job but gets depressed after struggling to connect with her first client. To cheer her up, Takae invites her to see a fireworks show. Keisuke decides to stop by as well and happens to bump into his coworker Moriya on the way.\nSource: Crunchyroll",
       "episode_id" : 286966,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 9.64,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMN99X" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ippo, Fumidashite."
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "One Step Forward"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "一歩, ふみだして."
       } ],
       "type" : "REGULAR"
     }, {
@@ -110,10 +188,89 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-27",
+      "episode_id" : 287638,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-03",
+      "episode_id" : 287639,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-10",
+      "episode_id" : 287640,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-17",
+      "episode_id" : 287641,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-10-06",
+      "episode_id" : 287325,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-10-06",
+      "episode_id" : 287326,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.41,
+      "total" : 23
+    },
+    "TEMPORARY" : {
+      "rating" : 6.23,
+      "total" : 23
+    }
+  },
   "resources" : {
+    "ANISON" : [ "25662" ],
     "ANN" : [ "27417" ],
+    "CRUNCHY_ROLL" : [ "GJ0H7QG8E" ],
     "MAL" : [ "54726" ],
     "SYOBOI" : [ "7205" ],
     "TWITTER" : [ "tsumasho_anime" ],
@@ -226,6 +383,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "妻, 小学生になる.",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "妻子变成小学生。",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "妻子變成小學生。",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

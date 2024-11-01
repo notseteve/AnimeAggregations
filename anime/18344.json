@@ -41,6 +41,14 @@
       "name" : "Kurashima Tomoyasu",
       "type" : "CHARACTER_DESIGN"
     } ],
+    "17625" : [ {
+      "name" : "Ogiwara Michiru",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "17983" : [ {
+      "name" : "Mishima Chie",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "41009" : [ {
       "name" : "Felix Film",
       "type" : "ANIMATION_WORK"
@@ -61,10 +69,23 @@
       "episode_id" : 285996,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.59,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUWJGV7" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kimi to Unmei no Deai."
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "My Fateful Encounter with You."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "君と運命の出会い."
       } ],
       "type" : "REGULAR"
     }, {
@@ -72,10 +93,23 @@
       "episode_id" : 286878,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 2.27,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU3PVGP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kimi wa Shiritai."
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "You Want to Know."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "君は知りたい."
       } ],
       "type" : "REGULAR"
     }, {
@@ -100,10 +134,67 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-10-05",
+      "episode_id" : 287212,
+      "length" : 30,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Aki no Meido-sama. Matsuri: Housou Kinen SP - Zenhansen"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "秋の冥土様. 祭り ~放送記念SP~ 前半戦"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-10-06",
+      "episode_id" : 287214,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-10-06",
+      "episode_id" : 287215,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 5.3,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.01,
+      "total" : 22
+    },
+    "TEMPORARY" : {
+      "rating" : 5.52,
+      "total" : 22
+    }
+  },
   "resources" : {
+    "ANISON" : [ "25653" ],
     "ANN" : [ "31107" ],
+    "CRUNCHY_ROLL" : [ "G1XHJV02M" ],
     "MAL" : [ "57611" ],
     "SYOBOI" : [ "7177" ],
     "TWITTER" : [ "meidosama_anime" ],
@@ -155,6 +246,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "君は冥土様.",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "女仆冥土小姐。",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "女僕冥土小姐",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

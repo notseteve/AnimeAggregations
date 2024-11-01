@@ -1,6 +1,11 @@
 {
   "anime_id" : 17994,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 143830,
+      "name" : "Amagami Chidori",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 138516,
       "name" : "Amagami Asahi",
@@ -23,15 +28,62 @@
       "name" : "Anekouji Mahiru",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143657,
+      "name" : "Kitashirakawa Miemon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143660,
+      "name" : "Matsugasaki Karen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143659,
+      "name" : "Takeda",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143656,
+      "name" : "Tsukigami Yomiko",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141513,
       "name" : "Tsuruyama Shirahi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143658,
+      "name" : "Umenoki Mitsuko",
       "type" : "CHARACTER"
     } ]
   },
   "creators" : {
+    "2469" : [ {
+      "name" : "Amasaki Manamu",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "4894" : [ {
       "name" : "Iizuka Haruko",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Iizuka Haruko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "6827" : [ {
+      "name" : "Kitamura Tomoyuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "7635" : [ {
+      "name" : "Aono Atsushi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "21842" : [ {
+      "name" : "Ushinohama Yui",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "22181" : [ {
+      "name" : "Yagisawa Shuuhei",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "23183" : [ {
+      "name" : "Ookubo Yoshiyuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "44574" : [ {
       "name" : "Kawasaki Ryou",
@@ -62,16 +114,24 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-02",
+      "description" : "A young man begins a new life at Amagami shrine, and meets the three sisters who live there.\nSource: Crunchyroll",
       "episode_id" : 286666,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.65,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMKE22" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kiseki no Hajimari"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Miracle Begins"
       }, {
         "language" : "JAPANESE",
         "title" : "奇跡のはじまり"
@@ -79,24 +139,52 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-09",
+      "description" : "The sisters plot to drive Uryu away by making him do all the chores.\nSource: Crunchyroll",
       "episode_id" : 286667,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.17,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7VP9P" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hakuchuu to Tsuru"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "String Cranes at Midday"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "白昼と鶴"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-16",
+      "description" : "Uryu has marriage meetings with all three of the sisters.\nSource: Crunchyroll",
       "episode_id" : 286668,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.65,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UXWDME" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "A Tryst with the Gods"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kamisama to no Ouse"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "神様との逢瀬"
       } ],
       "type" : "REGULAR"
     }, {
@@ -106,14 +194,99 @@
       "number" : 4,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Amagami Jinja Reitaisai: Tsunagari"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "The Amagami Shrine Festival: Connections"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "甘神神社例大祭 ~繋[つながり]~"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-30",
+      "episode_id" : 287745,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-06",
+      "episode_id" : 287746,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-13",
+      "episode_id" : 287747,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-20",
+      "episode_id" : 287748,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-10-09",
+      "episode_id" : 287650,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-10-02",
+      "episode_id" : 287060,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.77,
+      "total" : 30
+    },
+    "TEMPORARY" : {
+      "rating" : 5.15,
+      "total" : 30
+    }
+  },
   "resources" : {
+    "ANISON" : [ "25638" ],
     "ANN" : [ "27976" ],
+    "CRUNCHY_ROLL" : [ "G24H1NWJ0" ],
     "MAL" : [ "55071" ],
     "SYOBOI" : [ "7196" ],
     "TWITTER" : [ "amagami_anime" ],
@@ -123,6 +296,21 @@
   },
   "start_date" : "2024-10-02",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "627" : {
+      "info_box" : false,
+      "name" : "lingerie",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "922" : {
       "info_box" : true,
       "name" : "shounen",
@@ -221,6 +409,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2815" : {
+      "info_box" : false,
+      "name" : "boobs in your face",
+      "parent_tag_id" : 6148,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2834" : {
       "info_box" : false,
       "name" : "Asia",
@@ -232,6 +428,14 @@
     "2853" : {
       "info_box" : true,
       "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2856" : {
+      "info_box" : true,
+      "name" : "ecchi",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
@@ -293,6 +497,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "6148" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO EPISODE",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -328,6 +540,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "甘神さんちの縁結び",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "結緣甘神神社",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

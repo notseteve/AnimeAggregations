@@ -15,6 +15,10 @@
       "name" : "Camilla",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143921,
+      "name" : "Gerald der Kratos",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141368,
       "name" : "Rave",
       "type" : "CHARACTER"
@@ -46,20 +50,27 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on a romantic shoujo light novel series written by http://anidb.net/cr64981 [Nagase Sarasa] and illustrated by http://anidb.net/cr47106 [Fuji Mitsuya].\nhttp://anidb.net/ch141365 [Jill] is sentenced to death by the crown prince, her fiancé. But just before she dies, she`s sent back in time six years to the party where their engagement had been decided. To avoid this route of ruin, Jill immediately proposes to the person standing behind her...but it`s the man who was her greatest enemy, http://anidb.net/ch141367 [Emperor Hadis]?! Jill knows all about his future descent into evil. She quickly retracts the proposal, but the delighted Hadis takes her back to his castle and makes her a meal. Completely won over by the food, Jill makes a life-changing decision...\nSource: Cross Infinite World",
+  "description" : "* Based on a romantic shoujo light novel series written by http://anidb.net/cr64981 [Nagase Sarasa] and illustrated by http://anidb.net/cr47106 [Fuji Mitsuya].\nhttp://anidb.net/ch141365 [Jill] is sentenced to death by the crown prince, her fiancé. But just before she dies, she`s sent back in time six years to the party where their engagement had been decided. To avoid this route of ruin, Jill immediately proposes to the person standing behind her...but it`s the man who was her greatest enemy, http://anidb.net/ch141367 [Emperor Hadis]?! Jill knows all about his future descent into evil. She quickly retracts the proposal, but the delighted Hadis takes her back to his castle and makes her a meal. Completely won over by the food, Jill makes a life-changing decision...\nSource: Cross Infinite World\nNote: The first episode received an early screening at a special event on 20 September 2024 at Animate Ikebukuro in Tokyo. The regular TV broadcast started on 9 October 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-09",
       "episode_id" : 286989,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.88,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U31902" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Hametsu Route o Sakeyou to Omottara, Nazeka Saidai no Teki ni Kyuukon Shitemashita"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "I Tried to Avoid the Route to Destruction and Somehow Ended Up Courting My Greatest Enemy"
       }, {
         "language" : "JAPANESE",
         "title" : "破滅ルートを避けようと思ったら, 何故か最大の敵に求婚してました"
@@ -70,10 +81,23 @@
       "episode_id" : 287016,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.6,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUWKZ24" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "I Already Know the Tragedy That Is to Come, So I Will Do What I Can to Avoid It"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kore kara Okiru Higeki mo Sude ni Shitte Ita no de, Dounika Kaihi Shitai to Omoimasu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "これから起きる悲劇も既に知っていたので, どうにか回避したいと思います"
       } ],
       "type" : "REGULAR"
     }, {
@@ -98,16 +122,55 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-10-16",
+      "episode_id" : 287782,
+      "length" : 30,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Outaishi o Kouryaku!? Tokuban"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "王太子を攻略!? 特番"
+      } ],
+      "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.83,
+      "total" : 27
+    },
+    "TEMPORARY" : {
+      "rating" : 6.46,
+      "total" : 27
+    }
   },
   "resources" : {
     "ANN" : [ "28073" ],
+    "CRUNCHY_ROLL" : [ "G0XHWM15X" ],
     "MAL" : [ "55150" ],
     "SYOBOI" : [ "7202" ],
     "TWITTER" : [ "yarinaoshi_pr" ],
     "WEBSITE" : [ "https://yarinaoshi-reijyou.com/" ],
     "WIKIPEDIA_EN" : [ "The_Do-Over_Damsel_Conquers_the_Dragon_Emperor" ],
     "WIKIPEDIA_JP" : [ "やり直し令嬢は竜帝陛下を攻略中" ]
+  },
+  "similar" : {
+    "17608" : {
+      "rating" : 10.0,
+      "total" : 3
+    },
+    "18164" : {
+      "rating" : 10.0,
+      "total" : 4
+    }
   },
   "start_date" : "2024-10-09",
   "tags" : {
@@ -204,6 +267,10 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Yariryuu",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

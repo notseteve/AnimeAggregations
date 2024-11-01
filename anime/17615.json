@@ -1,6 +1,35 @@
 {
   "anime_id" : 17615,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 105125,
+      "name" : "Kamu Haulia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143967,
+      "name" : "Lana Haulia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143966,
+      "name" : "Mina Haulia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143965,
+      "name" : "Nea Haulia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143970,
+      "name" : "Par Haulia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143968,
+      "name" : "Yao Haulia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143969,
+      "name" : "Yor Haulia",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 92577,
       "name" : "Nagumo Hajime",
@@ -11,6 +40,10 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 99832,
+      "name" : "Shirasaki Kaori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 123142,
       "name" : "Shirasaki Kaori",
       "type" : "CHARACTER"
     }, {
@@ -88,10 +121,23 @@
       "episode_id" : 287036,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.11,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNXPWN" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Haulias Assemble"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Usamimi Sanjou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ウサミミ参上"
       } ],
       "type" : "REGULAR"
     }, {
@@ -101,8 +147,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hanki no Otakebi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Roar of Revolution"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "反旗の雄叫び"
       } ],
       "type" : "REGULAR"
     }, {
@@ -146,6 +198,16 @@
       } ],
       "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.56,
+      "total" : 11
+    },
+    "TEMPORARY" : {
+      "rating" : 5.45,
+      "total" : 11
+    }
   },
   "related" : {
     "PREQUEL" : [ 15135 ]
@@ -203,6 +265,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "ありふれた職業で世界最強 season 3",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "平凡职业造就世界最强 第三季",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

@@ -46,8 +46,8 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 1.81,
-        "total" : 2
+        "rating" : 2.82,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -70,8 +70,8 @@
       "length" : 20,
       "number" : 2,
       "rating" : {
-        "rating" : 7.28,
-        "total" : 2
+        "rating" : 6.94,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -104,11 +104,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.37,
-      "total" : 64
+      "total" : 68
     },
     "TEMPORARY" : {
-      "rating" : 5.06,
-      "total" : 65
+      "rating" : 5.09,
+      "total" : 69
     }
   },
   "resources" : {
@@ -129,6 +129,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -184,6 +191,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2702" : {
+      "info_box" : false,
+      "name" : "mammary intercourse",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2705" : {
       "info_box" : false,
@@ -305,9 +320,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

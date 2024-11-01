@@ -130,11 +130,11 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 1.75,
-      "total" : 14
+      "rating" : 1.72,
+      "total" : 13
     },
     "TEMPORARY" : {
-      "rating" : 3.16,
+      "rating" : 3.36,
       "total" : 15
     }
   },
@@ -147,6 +147,13 @@
   },
   "start_date" : "2024-08-16",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -162,10 +169,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "3955" : {
+      "info_box" : false,
+      "name" : "DESCRIPTION MISSING",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4424" : {
       "info_box" : true,
       "name" : "American derived",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5939" : {
+      "info_box" : false,
+      "name" : "CAST MISSING",
+      "parent_tag_id" : 30,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

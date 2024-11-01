@@ -26,6 +26,10 @@
       "name" : "Fred Thompson",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143990,
+      "name" : "Garek Thompson",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143693,
       "name" : "Gracis Remendis",
       "type" : "CHARACTER"
@@ -36,10 +40,6 @@
     }, {
       "character_id" : 143687,
       "name" : "Lusbel Kallard",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 84488,
-      "name" : "Mimi Pearlbaton",
       "type" : "CHARACTER"
     }, {
       "character_id" : 111387,
@@ -70,12 +70,12 @@
       "name" : "Romjii",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 111213,
-      "name" : "Rye Batenkaitos",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 143691,
       "name" : "Schult",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143887,
+      "name" : "Tiina",
       "type" : "CHARACTER"
     }, {
       "character_id" : 84856,
@@ -148,6 +148,10 @@
       "name" : "Liliana Masquerade",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 84488,
+      "name" : "Mimi Pearlbaton",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 84486,
       "name" : "Otto Suwen",
       "type" : "CHARACTER"
@@ -174,6 +178,10 @@
     }, {
       "character_id" : 81522,
       "name" : "Roswaal L Mathers",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111213,
+      "name" : "Rye Batenkaitos",
       "type" : "CHARACTER"
     }, {
       "character_id" : 141327,
@@ -222,12 +230,13 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-08-30",
+      "description" : "A year has passed since the battle at the Sanctuary, and Subaru has been spending fulfilling days united with Emilia`s camp. However, his peaceful everyday life ends with the arrival of a single letter.\nSource: Crunchyroll",
       "episode_id" : 281928,
       "length" : 95,
       "number" : 1,
       "rating" : {
-        "rating" : 4.24,
-        "total" : 7
+        "rating" : 4.61,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -252,24 +261,58 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-09",
+      "description" : "Subaru desperately tries to fend off the attack from Sin Archbishop Sirius. But then, other Archbishops appear...\nSource: Crunchyroll",
       "episode_id" : 286607,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.54,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMKE7K" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "A Showdown of Fire and Ice"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Conclusion dans la glace et le feu"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hyouen no Ketsumatsu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "氷炎の結末"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-16",
+      "description" : "After the incident in the main square, Priestella has fallen into chaos and Emilia has been kidnapped. Now it`s up to Subaru and the others to rescue Emilia and the city.\nSource: Crunchyroll",
       "episode_id" : 286608,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.98,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7VP5M" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Gorgeous Tiger"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Gorgeous Tiger"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gorgeous Tiger"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ゴージャス・タイガー"
       } ],
       "type" : "REGULAR"
     }, {
@@ -281,6 +324,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-30",
+      "episode_id" : 287783,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-06",
+      "episode_id" : 287784,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-13",
+      "episode_id" : 287785,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-20",
+      "episode_id" : 287786,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -306,6 +393,48 @@
       } ],
       "type" : "SPECIAL"
     }, {
+      "air_date" : "2024-10-10",
+      "episode_id" : 287365,
+      "length" : 3,
+      "number" : 2,
+      "rating" : {
+        "rating" : 2.89,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Re:Zero - Starting Break Time from Zero #2: Emilia Party Struggles"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Re:Zero kara Hajimeru Break Time #2: Emilia Jin`ei Funtouki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Re:ゼロから始める休憩時間[ブレイクタイム] #2 エミリア陣営奮闘記"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-10-17",
+      "episode_id" : 287787,
+      "length" : 3,
+      "number" : 3,
+      "rating" : {
+        "rating" : 2.89,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Re:Zero - Starting Break Time from Zero #3: Chomp of Love and Passion"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Re:Zero kara Hajimeru Break Time #3: Ai to Jounetsu no Gaburi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Re:ゼロから始める休憩時間[ブレイクタイム] #3 アイとジョーネツのガブリ"
+      } ],
+      "type" : "SPECIAL"
+    }, {
       "air_date" : "2024-09-22",
       "episode_id" : 286610,
       "length" : 40,
@@ -322,6 +451,29 @@
         "title" : "放送直前ステージ"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-10-09",
+      "episode_id" : 287366,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-10-09",
+      "episode_id" : 287367,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2023-03-25",
@@ -412,12 +564,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.61,
-      "total" : 27
+      "rating" : 8.91,
+      "total" : 45
     },
     "TEMPORARY" : {
-      "rating" : 7.64,
-      "total" : 27
+      "rating" : 8.16,
+      "total" : 45
     }
   },
   "related" : {
@@ -432,7 +584,7 @@
     "WEBSITE" : [ "http://re-zero-anime.jp/tv/" ],
     "WIKIPEDIA_EN" : [ "Re:Zero" ],
     "WIKIPEDIA_JP" : [ "Re:ゼロから始める異世界生活" ],
-    "YOUTUBE" : [ "watch?v=7IQM5EPf2Y0", "watch?v=HS1zsxreqvw", "watch?v=MtHnMMTcVQQ", "watch?v=bfo1s3a3aVk", "watch?v=gOslDzkAWok", "watch?v=m6rPb4m0bA8", "watch?v=qMJNdQFPaHk" ]
+    "YOUTUBE" : [ "watch?v=7IQM5EPf2Y0", "watch?v=HS1zsxreqvw", "watch?v=MtHnMMTcVQQ", "watch?v=T7vhcP-BLvY", "watch?v=bfo1s3a3aVk", "watch?v=gOslDzkAWok", "watch?v=m6rPb4m0bA8", "watch?v=qMJNdQFPaHk", "watch?v=t9jlGnFvQhw" ]
   },
   "start_date" : "2024-08-30",
   "tags" : {

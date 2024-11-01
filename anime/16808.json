@@ -5,6 +5,18 @@
       "character_id" : 29077,
       "name" : "Hatsune Miku",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 32933,
+      "name" : "Kagamine Len",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 32932,
+      "name" : "Kagamine Rin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 32934,
+      "name" : "Megurine Luka",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -55,7 +67,7 @@
       "length" : 3,
       "number" : 2,
       "rating" : {
-        "rating" : 4.16,
+        "rating" : 4.15,
         "total" : 1
       },
       "recap" : false,
@@ -76,7 +88,7 @@
       "length" : 3,
       "number" : 3,
       "rating" : {
-        "rating" : 4.16,
+        "rating" : 4.15,
         "total" : 1
       },
       "recap" : false,
@@ -97,7 +109,7 @@
       "length" : 3,
       "number" : 4,
       "rating" : {
-        "rating" : 4.16,
+        "rating" : 4.15,
         "total" : 1
       },
       "recap" : false,
@@ -115,7 +127,7 @@
       "length" : 3,
       "number" : 5,
       "rating" : {
-        "rating" : 4.16,
+        "rating" : 4.15,
         "total" : 1
       },
       "recap" : false,
@@ -136,7 +148,7 @@
       "length" : 3,
       "number" : 6,
       "rating" : {
-        "rating" : 4.16,
+        "rating" : 4.15,
         "total" : 1
       },
       "recap" : false,
@@ -157,7 +169,7 @@
       "length" : 3,
       "number" : 7,
       "rating" : {
-        "rating" : 6.91,
+        "rating" : 6.89,
         "total" : 1
       },
       "recap" : false,
@@ -178,7 +190,7 @@
       "length" : 3,
       "number" : 8,
       "rating" : {
-        "rating" : 4.16,
+        "rating" : 4.15,
         "total" : 1
       },
       "recap" : false,
@@ -196,7 +208,7 @@
       "length" : 3,
       "number" : 9,
       "rating" : {
-        "rating" : 4.16,
+        "rating" : 4.15,
         "total" : 1
       },
       "recap" : false,
@@ -217,7 +229,7 @@
       "length" : 3,
       "number" : 10,
       "rating" : {
-        "rating" : 4.16,
+        "rating" : 4.15,
         "total" : 1
       },
       "recap" : false,
@@ -236,12 +248,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.28,
-      "total" : 57
+      "rating" : 3.3,
+      "total" : 58
     },
     "TEMPORARY" : {
-      "rating" : 5.06,
-      "total" : 58
+      "rating" : 5.08,
+      "total" : 59
     }
   },
   "resources" : {
@@ -255,6 +267,13 @@
   },
   "start_date" : "2022-01-13",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -266,6 +285,14 @@
       "info_box" : true,
       "name" : "game",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5939" : {
+      "info_box" : false,
+      "name" : "CAST MISSING",
+      "parent_tag_id" : 30,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

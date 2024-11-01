@@ -1,6 +1,11 @@
 {
   "anime_id" : 18290,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 143718,
+      "name" : "Momo no Kareshi",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 136698,
       "name" : "Ayase Momo",
@@ -56,6 +61,9 @@
     "2163" : [ {
       "name" : "Onda Naoyuki",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Onda Naoyuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "37817" : [ {
       "name" : "Seko Hiroshi",
@@ -85,10 +93,26 @@
       "episode_id" : 286699,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.38,
+        "total" : 13
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNXWMJ" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Serait-ce une romance qui commence ?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sorette Koi no Hajimari jan yo"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "That`s How Love Starts, Ya Know!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "それって恋のはじまりじゃんよ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -96,10 +120,26 @@
       "episode_id" : 286700,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.04,
+        "total" : 10
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UGV8E3" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "On dirait bien un extraterrestre !"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sorette Uchuujin ja Ne"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "That`s a Space Alien, Ain`t It?!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "それって宇宙人じゃね"
       } ],
       "type" : "REGULAR"
     }, {
@@ -109,8 +149,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Babaa to Babaa ga Gekitotsu jan ka"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "It`s a Granny vs. Granny Clash!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ババアとババアが激突じゃんか"
       } ],
       "type" : "REGULAR"
     }, {
@@ -122,6 +168,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-01",
+      "episode_id" : 287395,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-08",
+      "episode_id" : 287396,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-15",
+      "episode_id" : 287397,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-22",
+      "episode_id" : 287398,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -142,11 +232,53 @@
         "title" : "放送直前トークイベント"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-10-04",
+      "episode_id" : 287111,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 6.34,
+        "total" : 3
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    } ],
+    "PROMOTION" : [ {
+      "air_date" : "2024-08-21",
+      "episode_id" : 287667,
+      "length" : 2,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "DAN DA DAN | OFFICIAL TRAILER 3"
+      } ],
+      "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.87,
+      "total" : 72
+    },
+    "TEMPORARY" : {
+      "rating" : 7.84,
+      "total" : 74
+    }
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "392554" ],
+    "ANISON" : [ "25660" ],
     "ANN" : [ "30869" ],
+    "CRUNCHY_ROLL" : [ "GG5H5XQ0D" ],
     "MAL" : [ "57334" ],
+    "NETFLIX" : [ "81736884" ],
     "SYOBOI" : [ "7188" ],
     "TWITTER" : [ "anime_dandadan" ],
     "WEBSITE" : [ "https://anime-dandadan.com/" ],
@@ -154,6 +286,16 @@
     "WIKIPEDIA_EN" : [ "Dandadan" ],
     "WIKIPEDIA_JP" : [ "ダンダダン" ],
     "YOUTUBE" : [ "watch?v=HMxvMowU0lQ" ]
+  },
+  "similar" : {
+    "117" : {
+      "rating" : 5.7142857142857135,
+      "total" : 7
+    },
+    "14907" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
   },
   "start_date" : "2024-10-04",
   "tags" : {
@@ -200,6 +342,18 @@
     "language" : "JAPANESE",
     "title" : "ダンダダン",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "胆大党",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "膽大黨",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Dandadan",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://anime-dandadan.com/"

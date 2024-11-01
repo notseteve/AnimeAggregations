@@ -1,6 +1,23 @@
 {
   "anime_id" : 17943,
   "characters" : {
+    "CAMEO" : [ {
+      "character_id" : 134365,
+      "name" : "Anya Melfissa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 134364,
+      "name" : "Kureiji Ollie",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 134361,
+      "name" : "Pavolia Reine",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 115290,
+      "name" : "Tokoyami Towa",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 135140,
       "name" : "Machina Solege",
@@ -40,6 +57,9 @@
     "12084" : [ {
       "name" : "Tanigawa Ryousuke",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Tanigawa Ryousuke",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "30857" : [ {
       "name" : "Momose Yuuichirou",
@@ -53,6 +73,10 @@
       "name" : "Suwa Soudai",
       "type" : "CHARACTER_DESIGN"
     } ],
+    "65750" : [ {
+      "name" : "Hasako Kai",
+      "type" : "CHIEF_DIRECTOR"
+    } ],
     "71267" : [ {
       "name" : "Murasaki Daigo",
       "type" : "ORIGINAL_WORK"
@@ -65,10 +89,23 @@
       "episode_id" : 287027,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.37,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UVK0X9" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Cyberpunk City Shinjuku"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Denshi Kouhai Toshi: Shinjuku"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "電子荒廃都市・新宿"
       } ],
       "type" : "REGULAR"
     }, {
@@ -78,8 +115,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Maou to Shinka"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Demon Lord and His Vassals"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "魔王と臣下"
       } ],
       "type" : "REGULAR"
     }, {
@@ -106,9 +149,20 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.29,
+      "total" : 18
+    },
+    "TEMPORARY" : {
+      "rating" : 6.16,
+      "total" : 18
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "391407" ],
     "ANN" : [ "27615" ],
+    "CRUNCHY_ROLL" : [ "G79H23ZX3" ],
     "MAL" : [ "54853" ],
     "SYOBOI" : [ "7220" ],
     "TWITTER" : [ "2099_anime" ],

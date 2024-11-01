@@ -9,6 +9,18 @@
       "character_id" : 143713,
       "name" : "Inomata Yukiko",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 143915,
+      "name" : "Taiki no Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143914,
+      "name" : "Taiki no Sofu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143913,
+      "name" : "Yuasa",
+      "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 136244,
@@ -58,6 +70,10 @@
       "name" : "Yano Yuuichirou",
       "type" : "DIRECTOR"
     } ],
+    "17557" : [ {
+      "name" : "Nii Manabu",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "43276" : [ {
       "name" : "Oomama Takashi",
       "type" : "MUSIC"
@@ -86,8 +102,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.21,
-        "total" : 4
+        "rating" : 6.52,
+        "total" : 6
       },
       "recap" : false,
       "titles" : [ {
@@ -107,8 +123,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.55,
-        "total" : 3
+        "rating" : 7.42,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -127,10 +143,20 @@
       "episode_id" : 286676,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.38,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Chii"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chii"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ちー"
       } ],
       "type" : "REGULAR"
     }, {
@@ -138,10 +164,64 @@
       "episode_id" : 286677,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 8.79,
+        "total" : 3
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Aitsu ga Kattara"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "If He Wins"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あいつが勝ったら"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-25",
+      "episode_id" : 287391,
+      "length" : 25,
+      "number" : 5,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-01",
+      "episode_id" : 287392,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-08",
+      "episode_id" : 287393,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-15",
+      "episode_id" : 287394,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -160,12 +240,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.79,
-      "total" : 15
+      "rating" : 7.49,
+      "total" : 34
     },
     "TEMPORARY" : {
-      "rating" : 7.1,
-      "total" : 15
+      "rating" : 7.56,
+      "total" : 34
     }
   },
   "resources" : {
@@ -280,6 +360,18 @@
     "language" : "JAPANESE",
     "title" : "アオのハコ",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "青春之箱",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "蓝箱",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "青之箱",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://aonohako-anime.com/"

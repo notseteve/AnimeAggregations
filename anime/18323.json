@@ -2,6 +2,18 @@
   "anime_id" : 18323,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 20728,
+      "name" : "Mishima Eiichirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 20729,
+      "name" : "Mishima Eiji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 20109,
+      "name" : "Oguni Gensai",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 6622,
       "name" : "Sanjou Tsubame",
       "type" : "CHARACTER"
@@ -10,9 +22,21 @@
       "name" : "Sekihara Tae",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 20741,
+      "name" : "Senkaku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 136481,
+      "name" : "Shuu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 20650,
       "name" : "Tsukioka Tsunan",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 20484,
+      "name" : "Akabeko",
+      "type" : "ORGANIZATION"
     } ],
     "MAIN" : [ {
       "character_id" : 443,
@@ -26,6 +50,10 @@
     "SECONDARY" : [ {
       "character_id" : 435,
       "name" : "Hiko Seijuurou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 6629,
+      "name" : "Komagata Yumi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 20720,
@@ -82,6 +110,10 @@
       "name" : "Emoto Masahiro",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "12263" : [ {
+      "name" : "Matsuoka Kenji",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "16850" : [ {
       "name" : "Takami Yuu",
       "type" : "MUSIC"
@@ -90,6 +122,10 @@
       "name" : "Watanabe Kazuo",
       "type" : "CHARACTER_DESIGN"
     } ],
+    "26412" : [ {
+      "name" : "Saotome Kei",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "35233" : [ {
       "name" : "Liden Films",
       "type" : "ANIMATION_WORK"
@@ -97,6 +133,10 @@
     "35837" : [ {
       "name" : "Komada Yuki",
       "type" : "DIRECTOR"
+    } ],
+    "58140" : [ {
+      "name" : "Asao Hironari",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "72388" : [ {
       "name" : "Kurosaki Kaoru",
@@ -107,9 +147,14 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-04",
+      "description" : "Making the decision to fight against Shishio, Kenshin leaves Kamiya Dojo and sets off for Kyoto via the Tokaido by himself. Meanwhile, Sanosuke and Yahiko attempt to go to Kyoto to follow Kenshin.\nSource: Crunchyroll",
       "episode_id" : 286525,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.29,
+        "total" : 4
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GZ7UDQPEP" ]
@@ -130,10 +175,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-11",
+      "description" : "Megumi is alone in Tokyo and coincidentally encounters Aoshi at Kamiya Dojo, who’s come back for another fight with Kenshin. Aoshi asks Megumi where Kenshin is, but she feigns ignorance. Unhappy with the lack of response, he threatens to kill her if she doesn’t tell him, when a man suddenly appears. Meanwhile, Kenshin encounters a young girl in the forests of the Hakone mountains as he makes his way to Kyoto.\nSource: Crunchyroll",
       "episode_id" : 286654,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.52,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UE923W" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Meiji Toukaidou Chuu"
@@ -141,19 +194,39 @@
         "language" : "ENGLISH",
         "title" : "On the East Sea Road"
       }, {
+        "language" : "FRENCH",
+        "title" : "À pied sur le Tôkaidô"
+      }, {
         "language" : "JAPANESE",
         "title" : "明治東海道中"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-18",
+      "description" : "The name of the girl that Kenshin encounters in the forests is Misao Makimachi, and she came from Kyoto to find Aoshi’s Oniwaban Group. Kenshin is surprised to hear his name. Upon seeing Kenshin’s reaction, she asks him if he knows where Aoshi is, but he keeps his mouth shut. However, Kenshin is touched by the emotions Misao has for Aoshi, in which he then decides to make the journey to Kyoto with her.\nSource: Crunchyroll",
       "episode_id" : 286655,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 5.48,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMNE37" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Le Village abandonné"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Misuterareta Mura"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Abandoned Village"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "見捨てられた村"
       } ],
       "type" : "REGULAR"
     }, {
@@ -164,11 +237,62 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Portrait of the Ambitious"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yashinka no Shouzou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "野心家の肖像"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-01",
+      "episode_id" : 287399,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-08",
+      "episode_id" : 287400,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-15",
+      "episode_id" : 287401,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-22",
+      "episode_id" : 287402,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
     "CREDITS" : [ {
+      "air_date" : "2024-10-04",
       "episode_id" : 287114,
       "length" : 2,
       "number" : 1,
@@ -201,12 +325,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.12,
-      "total" : 11
+      "rating" : 6.67,
+      "total" : 23
     },
     "TEMPORARY" : {
-      "rating" : 6.81,
-      "total" : 11
+      "rating" : 7.0,
+      "total" : 23
     }
   },
   "related" : {
@@ -223,7 +347,7 @@
     "WEBSITE" : [ "https://rurouni-kenshin.com/" ],
     "WIKIPEDIA_EN" : [ "Rurouni_Kenshin_(2023_TV_series)" ],
     "WIKIPEDIA_JP" : [ "るろうに剣心_-明治剣客浪漫譚-_(アニメ)" ],
-    "YOUTUBE" : [ "watch?v=GSgBEF2vIsg" ]
+    "YOUTUBE" : [ "watch?v=03KqrRhvjw4", "watch?v=GSgBEF2vIsg" ]
   },
   "start_date" : "2024-10-04",
   "tags" : {
@@ -278,6 +402,14 @@
     "language" : "JAPANESE",
     "title" : "るろうに剣心 －明治剣客浪漫譚－ 京都動乱",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "神劍闖江湖 ―明治劍客浪漫譚― 京都動亂",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Rurouni Kenshin Season 2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://rurouni-kenshin.com/"

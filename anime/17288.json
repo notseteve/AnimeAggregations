@@ -253,7 +253,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.24,
+        "rating" : 5.25,
         "total" : 2
       },
       "recap" : false,
@@ -328,7 +328,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.24,
+        "rating" : 5.25,
         "total" : 2
       },
       "recap" : false,
@@ -353,7 +353,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.37,
+        "rating" : 7.38,
         "total" : 1
       },
       "recap" : false,
@@ -403,7 +403,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.37,
+        "rating" : 7.38,
         "total" : 1
       },
       "recap" : false,
@@ -428,7 +428,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.37,
+        "rating" : 7.38,
         "total" : 1
       },
       "recap" : false,
@@ -503,7 +503,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.37,
+        "rating" : 7.38,
         "total" : 1
       },
       "recap" : false,
@@ -548,12 +548,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.25,
-      "total" : 414
+      "rating" : 5.27,
+      "total" : 418
     },
     "TEMPORARY" : {
-      "rating" : 6.6,
-      "total" : 416
+      "rating" : 6.61,
+      "total" : 420
     }
   },
   "resources" : {
@@ -568,8 +568,39 @@
     "WIKIPEDIA_EN" : [ "Level_1_Demon_Lord_and_One_Room_Hero" ],
     "WIKIPEDIA_JP" : [ "Lv1魔王とワンルーム勇者" ]
   },
+  "similar" : {
+    "6049" : {
+      "rating" : 10.0,
+      "total" : 1
+    },
+    "9287" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
+  },
   "start_date" : "2023-06-24",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -577,10 +608,136 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2641" : {
+      "info_box" : false,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2642" : {
+      "info_box" : false,
+      "name" : "alternative present",
+      "parent_tag_id" : 2624,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4167" : {
+      "info_box" : false,
+      "name" : "air combat",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4480" : {
+      "info_box" : false,
+      "name" : "happy ending",
+      "parent_tag_id" : 6246,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5936" : {
+      "info_box" : false,
+      "name" : "uniform fetish",
+      "parent_tag_id" : 2608,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -592,10 +749,50 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7905" : {
+      "info_box" : false,
+      "name" : "large breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "8056" : {
+      "info_box" : false,
+      "name" : "European Middle Ages",
+      "parent_tag_id" : 2641,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "8057" : {
+      "info_box" : false,
+      "name" : "medieval European aesthetic",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

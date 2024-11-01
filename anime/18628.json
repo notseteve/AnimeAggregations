@@ -58,17 +58,30 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "Note: The first three episodes received an early screening at a special event on 8 September 2024 at Shinjuku Piccadilly in Tokyo. The regular TV broadcast started on 3 October 2024.",
+  "description" : "Author http://anidb.net/ch142216 [Hotaru Yuyami] has just tragically lost his beloved dog. While gazing at a tree in his yard, he notices a strange pink mushroom, and it`s...moving?! The mushroom suddenly turns into an adorable http://anidb.net/ch142215 [dog], and Hotaru decides to take it in. Now, alongside his editor and a mushroom researcher, Hotaru shares heartwarming and hilarious moments with his new capricious companion.\nSource: Crunchyroll\nNote: The first three episodes received an early screening at a special event on 8 September 2024 at Shinjuku Piccadilly in Tokyo. The regular TV broadcast started on 3 October 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-03",
       "episode_id" : 286682,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.03,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U31KPV" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kinoko Inu Tanjou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Kinokoinu Is Born"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "きのこいぬたんじょう"
       } ],
       "type" : "REGULAR"
     }, {
@@ -77,9 +90,18 @@
       "length" : 25,
       "number" : 2,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUWKMEP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kinoko Inu to Hanako"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Kinokoinu and Hanako"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "きのこいぬとはなこ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -89,8 +111,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kinoko Inu yo Doko e Iku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Where Are You Going, Oh, Kinokoinu?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "きのこいぬよどこへいく"
       } ],
       "type" : "REGULAR"
     }, {
@@ -104,10 +132,67 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-31",
+      "episode_id" : 287387,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-07",
+      "episode_id" : 287388,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-14",
+      "episode_id" : 287389,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-21",
+      "episode_id" : 287390,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.56,
+      "total" : 15
+    },
+    "TEMPORARY" : {
+      "rating" : 4.0,
+      "total" : 15
+    }
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "395158" ],
+    "ANISON" : [ "25652" ],
     "ANN" : [ "32731" ],
+    "CRUNCHY_ROLL" : [ "G5PHNM9WJ" ],
     "MAL" : [ "58854" ],
     "SYOBOI" : [ "7209" ],
     "TWITTER" : [ "kinokoinu_anime" ],
@@ -221,13 +306,13 @@
     "title" : "Kinoko Inu",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Mushroom Pup",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "きのこいぬ",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Mushroom Pup",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://kinokoinu-anime.com/"

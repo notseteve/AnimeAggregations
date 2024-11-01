@@ -72,6 +72,10 @@
       "episode_id" : 286856,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.98,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -108,8 +112,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Doujima"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "堂嶋"
       } ],
       "type" : "REGULAR"
     }, {
@@ -121,21 +131,72 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hatakeyama"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "畑山"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-02",
+      "episode_id" : 287472,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-09",
+      "episode_id" : 287473,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-16",
+      "episode_id" : 287474,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-23",
+      "episode_id" : 287475,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.26,
-      "total" : 3
+      "rating" : 6.78,
+      "total" : 7
     },
     "TEMPORARY" : {
-      "rating" : 6.33,
-      "total" : 3
+      "rating" : 7.57,
+      "total" : 7
     }
   },
   "resources" : {
+    "ANISON" : [ "25664" ],
     "ANN" : [ "31453" ],
     "MAL" : [ "57796" ],
     "SYOBOI" : [ "7223" ],
@@ -174,6 +235,14 @@
     "language" : "JAPANESE",
     "title" : "凍牌~裏レート麻雀闘牌録~",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Frozen Mahjong: Underground Mahjong Battle Record",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Touhai: Ura Route Mahjong Touhairoku",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://tohai-anime.com/"

@@ -34,6 +34,10 @@
       "name" : "Aoyama no Hahaoya",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143927,
+      "name" : "Armored All Might",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 80747,
       "name" : "Ashido Mina",
       "type" : "CHARACTER"
@@ -998,7 +1002,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.81,
+        "rating" : 5.8,
         "total" : 5
       },
       "recap" : false,
@@ -1088,7 +1092,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.53,
+        "rating" : 7.52,
         "total" : 4
       },
       "recap" : false,
@@ -1148,7 +1152,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 8.19,
+        "rating" : 8.18,
         "total" : 4
       },
       "recap" : false,
@@ -1178,7 +1182,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 7.11,
+        "rating" : 7.1,
         "total" : 2
       },
       "recap" : false,
@@ -1298,8 +1302,8 @@
       "length" : 25,
       "number" : 17,
       "rating" : {
-        "rating" : 6.34,
-        "total" : 3
+        "rating" : 7.02,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -1388,8 +1392,8 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 7.37,
-        "total" : 1
+        "rating" : 5.9,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -1398,6 +1402,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A Girl`s Ego"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Das Ego eines Mädchens"
       }, {
         "language" : "FRENCH",
         "title" : "Les sentiments d`une adolescente"
@@ -1414,7 +1421,14 @@
       "episode_id" : 286768,
       "length" : 25,
       "number" : 21,
+      "rating" : {
+        "rating" : 7.99,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UVMQWK" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "\"Kosei\" Naki Tatakai"
@@ -1424,6 +1438,12 @@
       }, {
         "language" : "ENGLISH",
         "title" : "Battle Without a Quirk"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Ein Kampf ohne Spezialitäten"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Un combat sans Alters"
       } ],
       "type" : "REGULAR"
     } ],
@@ -1604,16 +1624,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.89,
-      "total" : 62
+      "rating" : 6.54,
+      "total" : 118
     },
     "TEMPORARY" : {
-      "rating" : 6.9,
-      "total" : 64
+      "rating" : 7.17,
+      "total" : 121
     }
   },
   "related" : {
     "PREQUEL" : [ 16793 ],
+    "SEQUEL" : [ 18921 ],
     "SIDE_STORY" : [ 18150 ]
   },
   "resources" : {

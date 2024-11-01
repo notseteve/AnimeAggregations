@@ -10,10 +10,6 @@
       "name" : "Alumik Edrok",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 108727,
-      "name" : "Anaak Jahad",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 142286,
       "name" : "Augusgus",
       "type" : "CHARACTER"
@@ -48,6 +44,10 @@
     }, {
       "character_id" : 108554,
       "name" : "Headon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143837,
+      "name" : "Io",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142033,
@@ -110,16 +110,24 @@
       "name" : "Reiko",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 110734,
-      "name" : "Shibisu",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 143194,
       "name" : "Sophia Amae",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143836,
+      "name" : "Tabibito",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142341,
       "name" : "Tin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143838,
+      "name" : "Verdi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143839,
+      "name" : "Vespa",
       "type" : "CHARACTER"
     }, {
       "character_id" : 108556,
@@ -148,6 +156,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 108727,
+      "name" : "Anaak Jahad",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142595,
       "name" : "Apple",
       "type" : "CHARACTER"
@@ -230,6 +242,10 @@
     }, {
       "character_id" : 142692,
       "name" : "Sanada Yutaka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 110734,
+      "name" : "Shibisu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142694,
@@ -330,7 +346,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.33,
+        "rating" : 7.32,
         "total" : 6
       },
       "recap" : false,
@@ -411,7 +427,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.33,
+        "rating" : 8.32,
         "total" : 3
       },
       "recap" : false,
@@ -492,7 +508,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.66,
+        "rating" : 5.65,
         "total" : 3
       },
       "recap" : false,
@@ -546,7 +562,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.32,
+        "rating" : 5.31,
         "total" : 2
       },
       "recap" : false,
@@ -600,8 +616,8 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 9.87,
-        "total" : 1
+        "rating" : 10.0,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -626,6 +642,10 @@
       "episode_id" : 286545,
       "length" : 25,
       "number" : 13,
+      "rating" : {
+        "rating" : 9.34,
+        "total" : 2
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G4VUQ52K0" ]
@@ -649,10 +669,20 @@
       "episode_id" : 286991,
       "length" : 25,
       "number" : 14,
+      "rating" : {
+        "rating" : 7.99,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9ZPDQ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Meeting the Traveler"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Rencontre avec le voyageur"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Tabibito to no Deai"
@@ -667,9 +697,18 @@
       "length" : 25,
       "number" : 15,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U317KX" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ano Hi no Yakusoku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 15"
+        "title" : "The Promise of That Day"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あの日の約束"
       } ],
       "type" : "REGULAR"
     }, {
@@ -679,24 +718,97 @@
       "number" : 16,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nijuugonichi no Yoru"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 16"
+        "title" : "The 25th Bam"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "二十五日の夜"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-27",
+      "episode_id" : 287594,
+      "length" : 25,
+      "number" : 17,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 17"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-03",
+      "episode_id" : 287595,
+      "length" : 25,
+      "number" : 18,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 18"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-10",
+      "episode_id" : 287596,
+      "length" : 25,
+      "number" : 19,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 19"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-17",
+      "episode_id" : 287597,
+      "length" : 25,
+      "number" : 20,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 20"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-07-07",
+      "episode_id" : 287361,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-07",
+      "episode_id" : 287362,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.09,
-      "total" : 117
+      "rating" : 4.07,
+      "total" : 121
     },
     "REVIEW" : {
       "rating" : 3.16,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.07,
-      "total" : 118
+      "rating" : 6.04,
+      "total" : 122
     }
   },
   "related" : {
@@ -782,6 +894,10 @@
     "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",
+    "title" : "Tower of God S2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
     "title" : "Tower of God: Return of the prince",
     "type" : "SYNONYM"
   }, {
@@ -791,6 +907,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "神之塔 2nd SEASON",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "神之塔 王子的归来",
     "type" : "SYNONYM"
   }, {
     "language" : "CHINESE_SIMPLIFIED",

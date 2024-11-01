@@ -1,5 +1,28 @@
 {
   "anime_id" : 18814,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 143891,
+      "name" : "Izumi Hiyori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143892,
+      "name" : "Kamakura Shio",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143893,
+      "name" : "Nishiki Asumi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143896,
+      "name" : "Ryuukan Ameri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143894,
+      "name" : "Tokiwa Kano",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "13553" : [ {
       "name" : "Nakano Keiya",
@@ -25,6 +48,7 @@
       "type" : "ANIMATION_WORK"
     } ]
   },
+  "description" : "The anime will bring you the story of the five girls, which you couldn`t see in the game, unfolding in the absence of the main character!\nThe girls have broken away from school refusal and are causing trouble beyond the framework of the student council, a youth comedy that begins!",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-04",
@@ -70,7 +94,61 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-01",
+      "episode_id" : 287820,
+      "length" : 5,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-08",
+      "episode_id" : 287821,
+      "length" : 5,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-15",
+      "episode_id" : 287822,
+      "length" : 5,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-22",
+      "episode_id" : 287823,
+      "length" : 5,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.67,
+      "total" : 5
+    },
+    "TEMPORARY" : {
+      "rating" : 3.8,
+      "total" : 5
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "396778" ],
@@ -80,7 +158,14 @@
     "VNDB" : [ "v27449" ],
     "WEBSITE" : [ "https://hcanime.com/" ],
     "WIKIPEDIA_EN" : [ "Hamidashi_Creative" ],
-    "WIKIPEDIA_JP" : [ "ハミダシクリエイティブ" ]
+    "WIKIPEDIA_JP" : [ "ハミダシクリエイティブ" ],
+    "YOUTUBE" : [ "watch?v=CPopIs06YkY", "watch?v=D0nVvo7uur8" ]
+  },
+  "similar" : {
+    "11498" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
   },
   "start_date" : "2024-10-04",
   "tags" : {
@@ -111,6 +196,21 @@
       "info_box" : true,
       "name" : "visual novel",
       "parent_tag_id" : 2800,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5852" : {
+      "info_box" : true,
+      "name" : "short episodes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

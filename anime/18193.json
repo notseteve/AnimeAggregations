@@ -7,12 +7,48 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 144063,
+      "name" : "Baachan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144064,
+      "name" : "Chirinu Iroha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144055,
+      "name" : "Harada Sanosuke",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 136792,
       "name" : "Hijikata Toshizou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 144061,
+      "name" : "Hirama Juusuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144062,
+      "name" : "Hirayama Gorou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144058,
+      "name" : "Inoue Genzaburou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 136797,
       "name" : "Kondou Isami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144054,
+      "name" : "Nagakura Shinpachi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144059,
+      "name" : "Niimi Nishiki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144060,
+      "name" : "Noguchi Kenji",
       "type" : "CHARACTER"
     }, {
       "character_id" : 136794,
@@ -29,6 +65,18 @@
     }, {
       "character_id" : 136795,
       "name" : "Tanaka Tarou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144065,
+      "name" : "Tokugawa Iemochi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144057,
+      "name" : "Toudou Heisuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144056,
+      "name" : "Yamanami Keisuke",
       "type" : "CHARACTER"
     } ]
   },
@@ -59,6 +107,9 @@
     } ],
     "57662" : [ {
       "name" : "Maho Film",
+      "type" : "ANIMATION_WORK"
+    }, {
+      "name" : "Maho Film",
       "type" : "WORK"
     } ]
   },
@@ -69,10 +120,20 @@
       "episode_id" : 287047,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.49,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Miburo to Shounen"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Wolves of Mibu and a Boy"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "壬生浪と少年"
       } ],
       "type" : "REGULAR"
     }, {
@@ -83,7 +144,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "A World Where It`s Okay to Cry"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Naite Ii Sekai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "泣いていい世界"
       } ],
       "type" : "REGULAR"
     }, {
@@ -110,22 +177,141 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.58,
+      "total" : 5
+    },
+    "TEMPORARY" : {
+      "rating" : 7.2,
+      "total" : 5
+    }
+  },
   "resources" : {
     "ANN" : [ "29882" ],
+    "CRUNCHY_ROLL" : [ "GXJHM3GP8" ],
     "MAL" : [ "56647" ],
+    "SYOBOI" : [ "7259" ],
     "TWITTER" : [ "miburo_anime" ],
     "WEBSITE" : [ "https://miburoanime.com/" ],
     "WIKIPEDIA_EN" : [ "The_Blue_Wolves_of_Mibu" ],
     "WIKIPEDIA_JP" : [ "青のミブロ" ]
   },
+  "similar" : {
+    "1056" : {
+      "rating" : 10.0,
+      "total" : 2
+    }
+  },
   "start_date" : "2024-10-19",
   "tags" : {
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1955" : {
+      "info_box" : false,
+      "name" : "child soldier",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2641" : {
+      "info_box" : true,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2679" : {
+      "info_box" : false,
+      "name" : "Kyoto",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2692" : {
+      "info_box" : true,
+      "name" : "Bakumatsu - Meiji Period",
+      "parent_tag_id" : 2641,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2798" : {
       "info_box" : true,
@@ -134,6 +320,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "6173" : {
       "info_box" : false,

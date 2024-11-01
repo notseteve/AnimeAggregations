@@ -92,6 +92,14 @@
       "name" : "Yamasaki Osamu",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "14967" : [ {
+      "name" : "Ueno Shouta",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "17508" : [ {
+      "name" : "Nakamura Touko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "41962" : [ {
       "name" : "Yamazaki Yasuyuki",
       "type" : "MUSIC"
@@ -112,13 +120,23 @@
       "episode_id" : 287008,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.16,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMKWNZ" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Konna Sekai de Deaeta Kimi wa"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Toi que je rencontre dans ce monde"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "When I Met You in This World, You Were..."
       }, {
         "language" : "JAPANESE",
         "title" : "こんな世界で出会えた君は"
@@ -129,10 +147,23 @@
       "episode_id" : 287009,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.95,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7VGM7" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Isekai Shopping"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Shopping in Another World"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "異世界ショッピング"
       } ],
       "type" : "REGULAR"
     }, {
@@ -143,7 +174,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "My Home, Under Attack"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nerawareta Wagaya"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "狙われた我が家"
       } ],
       "type" : "REGULAR"
     }, {
@@ -157,7 +194,61 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-05",
+      "episode_id" : 287713,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-12",
+      "episode_id" : 287714,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-19",
+      "episode_id" : 287715,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-26",
+      "episode_id" : 287716,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.61,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 6.53,
+      "total" : 16
+    }
   },
   "related" : {
     "PREQUEL" : [ 15875 ]
@@ -165,6 +256,7 @@
   "resources" : {
     "ALL_CINEMA" : [ "379958" ],
     "ANN" : [ "24949" ],
+    "CRUNCHY_ROLL" : [ "G0XHWM380" ],
     "MAL" : [ "50306" ],
     "SYOBOI" : [ "7221" ],
     "TWITTER" : [ "seireigensouki" ],
@@ -199,13 +291,29 @@
     "title" : "Seirei Gensouki: Spirit Chronicles 2",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "精灵幻想记 2",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "精霊幻想記2",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "精靈幻想記 2",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "seigen s2",
     "type" : "SHORT"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Seirei Gensouki S2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "精灵幻想记 第二季",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://seireigensouki.com/"

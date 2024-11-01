@@ -160,7 +160,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.5,
+        "rating" : 2.51,
         "total" : 3
       },
       "recap" : false,
@@ -188,7 +188,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.97,
+        "rating" : 3.98,
         "total" : 3
       },
       "recap" : false,
@@ -244,7 +244,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.14,
+        "rating" : 5.15,
         "total" : 2
       },
       "recap" : false,
@@ -328,7 +328,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 3.96,
+        "rating" : 4.0,
         "total" : 3
       },
       "recap" : false,
@@ -356,7 +356,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 2.41,
+        "rating" : 2.45,
         "total" : 2
       },
       "recap" : false,
@@ -384,7 +384,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 2.41,
+        "rating" : 2.45,
         "total" : 2
       },
       "recap" : false,
@@ -412,7 +412,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 2.41,
+        "rating" : 2.45,
         "total" : 2
       },
       "recap" : false,
@@ -440,7 +440,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 2.41,
+        "rating" : 2.45,
         "total" : 2
       },
       "recap" : false,
@@ -468,7 +468,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 2.84,
+        "rating" : 2.88,
         "total" : 3
       },
       "recap" : false,
@@ -745,7 +745,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.38,
-      "total" : 715
+      "total" : 718
     },
     "REVIEW" : {
       "rating" : 8.66,
@@ -753,7 +753,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.39,
-      "total" : 722
+      "total" : 725
     }
   },
   "resources" : {
@@ -779,6 +779,10 @@
       "rating" : 10.0,
       "total" : 3
     },
+    "15853" : {
+      "rating" : 10.0,
+      "total" : 2
+    },
     "16917" : {
       "rating" : 10.0,
       "total" : 4
@@ -787,9 +791,17 @@
       "rating" : 2.0,
       "total" : 5
     },
+    "18229" : {
+      "rating" : 10.0,
+      "total" : 1
+    },
     "18427" : {
-      "rating" : 5.0,
-      "total" : 10
+      "rating" : 4.545454545454545,
+      "total" : 11
+    },
+    "18537" : {
+      "rating" : 10.0,
+      "total" : 2
     }
   },
   "start_date" : "2023-01-07",
@@ -853,9 +865,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -876,6 +903,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2634" : {
+      "info_box" : false,
+      "name" : "countryside",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2646" : {
       "info_box" : false,
       "name" : "demon",
@@ -883,6 +926,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2748" : {
+      "info_box" : false,
+      "name" : "sex",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2750" : {
       "info_box" : false,
@@ -930,7 +981,7 @@
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 300
     },
     "2856" : {
       "info_box" : false,
@@ -938,7 +989,7 @@
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 100
     },
     "2858" : {
       "info_box" : true,
@@ -955,6 +1006,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "2891" : {
       "info_box" : false,
@@ -979,10 +1038,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4057" : {
       "info_box" : false,
       "name" : "magical creatures",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1057,6 +1132,20 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "8039" : {
+      "info_box" : false,
+      "name" : "marriage life",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "8176" : {
+      "info_box" : false,
+      "name" : "kicked from party",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     }
   },
   "titles" : [ {

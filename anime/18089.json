@@ -1,6 +1,19 @@
 {
   "anime_id" : 18089,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 10365,
+      "name" : "Hitotsume no Chuukyuu Youkai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 34335,
+      "name" : "Kappa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 10366,
+      "name" : "Ushikao no Chuukyuu Youkai",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 1806,
       "name" : "Natsume Takashi",
@@ -103,13 +116,20 @@
       "episode_id" : 287003,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.49,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUE9W0N" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Hahen wa Ureu"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Fragment`s Lament"
       }, {
         "language" : "JAPANESE",
         "title" : "破片は愁う"
@@ -120,10 +140,23 @@
       "episode_id" : 287004,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.54,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU8NJ1D" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Itsuka no Niwa"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Someday`s Garden"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "いつかの庭"
       } ],
       "type" : "REGULAR"
     }, {
@@ -134,7 +167,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Tookanya"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tookanya"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "とおかんや"
       } ],
       "type" : "REGULAR"
     }, {
@@ -146,6 +185,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-05",
+      "episode_id" : 287737,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-12",
+      "episode_id" : 287738,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-19",
+      "episode_id" : 287739,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-26",
+      "episode_id" : 287740,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -168,12 +251,23 @@
       "type" : "SPECIAL"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 8.67,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 7.91,
+      "total" : 17
+    }
+  },
   "related" : {
     "PREQUEL" : [ 13512 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "394438" ],
     "ANN" : [ "28839" ],
+    "CRUNCHY_ROLL" : [ "GRE5XQJV6" ],
     "MAL" : [ "55823" ],
     "SYOBOI" : [ "7192" ],
     "TWITTER" : [ "NatsumeYujincho" ],
@@ -215,6 +309,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Natsume Yujin-cho 7",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Natsume Yuujinchou S7",
     "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",

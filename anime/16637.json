@@ -86,6 +86,10 @@
       "name" : "Igneel",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 101359,
+      "name" : "Irene Belserion",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 13899,
       "name" : "Jellal Fernandes",
       "type" : "CHARACTER"
@@ -144,6 +148,10 @@
     }, {
       "character_id" : 42935,
       "name" : "Max Alors",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 109961,
+      "name" : "Mest Gryder",
       "type" : "CHARACTER"
     }, {
       "character_id" : 52406,
@@ -503,7 +511,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 2.45,
+        "rating" : 2.47,
         "total" : 2
       },
       "recap" : false,
@@ -705,36 +713,51 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-10-06",
-      "episode_id" : 286439,
-      "length" : 25,
-      "number" : 14,
-      "recap" : false,
-      "titles" : [ {
-        "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Kanwa: Lucy`s Diary"
-      }, {
-        "language" : "ENGLISH",
-        "title" : "Side Story: Lucy`s Diary"
-      }, {
-        "language" : "JAPANESE",
-        "title" : "閑話・Lucy`s diary"
-      } ],
-      "type" : "REGULAR"
-    }, {
       "air_date" : "2024-10-13",
       "episode_id" : 286440,
       "length" : 25,
-      "number" : 15,
+      "number" : 14,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UXW0ZW" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bougyaku no Nenryuu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 15"
+        "title" : "Clinging Dragon Berserk"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Der grausame Klebedrache"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "暴虐の粘竜"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-20",
       "episode_id" : 286441,
+      "length" : 25,
+      "number" : 15,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Donnernde Erde"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Howling Earth"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Todoroku Daichi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "轟く大地"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-10-27",
+      "episode_id" : 287230,
       "length" : 25,
       "number" : 16,
       "recap" : false,
@@ -743,6 +766,30 @@
         "title" : "Episode 16"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-10-06",
+      "episode_id" : 286439,
+      "length" : 25,
+      "number" : 1,
+      "recap" : true,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7VP0E" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Going off Topic: Lucy`s Diary"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Intermezzo: Lucys Tagebuch"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kanwa: Lucy`s Diary"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "閑話・Lucy`s diary"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "CREDITS" : [ {
       "air_date" : "2024-07-07",
@@ -759,12 +806,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.42,
-      "total" : 19
+      "rating" : 4.75,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 6.23,
-      "total" : 19
+      "rating" : 6.4,
+      "total" : 21
     }
   },
   "related" : {

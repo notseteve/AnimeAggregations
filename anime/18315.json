@@ -1,6 +1,15 @@
 {
   "anime_id" : 18315,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 143963,
+      "name" : "Kawaii Kotarou (Youshouki)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143964,
+      "name" : "Kotarou no Haha",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 142078,
       "name" : "Kawaii Kotarou",
@@ -29,9 +38,16 @@
       "name" : "Yokote Michiko",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "12263" : [ {
+      "name" : "Matsuoka Kenji",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "27116" : [ {
       "name" : "Tanaka Aya",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Tanaka Aya",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "45926" : [ {
       "name" : "Ibe Yuushi",
@@ -56,10 +72,23 @@
       "episode_id" : 286957,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.58,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQNXXE" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "I HATE YOU and I LOVE YOU"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "I Hate You and I Love You"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "I Hate You and I Love You"
       } ],
       "type" : "REGULAR"
     }, {
@@ -67,10 +96,23 @@
       "episode_id" : 286958,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.38,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNX772" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Neither Friend nor Slime"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tomodachi demo Naku Slime demo Naku"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "友達でもなくスライムでもなく"
       } ],
       "type" : "REGULAR"
     }, {
@@ -81,7 +123,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Kawaii Puniru Is a Slime"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kawaii Puniru wa Slime"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "かわいいぷにるはスライム"
       } ],
       "type" : "REGULAR"
     }, {
@@ -95,10 +143,44 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-10-06",
+      "episode_id" : 287420,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-10-06",
+      "episode_id" : 287421,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.4,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 6.5,
+      "total" : 10
+    }
   },
   "resources" : {
     "ANN" : [ "31049" ],
+    "CRUNCHY_ROLL" : [ "GNVHKN9G2" ],
     "MAL" : [ "57517" ],
     "SYOBOI" : [ "7184" ],
     "TWITTER" : [ "PUNIRUcorocoro" ],
@@ -135,6 +217,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "ぷにるはかわいいスライム",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "噗妮露是可愛史萊姆",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "噗妮露是可爱史莱姆",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

@@ -20,35 +20,51 @@
     } ],
     "SECONDARY" : [ {
       "character_id" : 142519,
-      "name" : "Diadora",
+      "name" : "Diadra",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142520,
       "name" : "Fio",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 142515,
-      "name" : "Geo",
+      "character_id" : 142517,
+      "name" : "Geolude",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142516,
       "name" : "Georg",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 142517,
-      "name" : "Georude",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 142518,
       "name" : "Geren",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142515,
+      "name" : "Gio",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143719,
+      "name" : "Kalavith",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143722,
+      "name" : "Leticia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143721,
+      "name" : "Malida",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142521,
-      "name" : "Marl",
+      "name" : "Marle",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143720,
+      "name" : "Myraal",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142522,
-      "name" : "Raffrasia",
+      "name" : "Rafflesia",
       "type" : "CHARACTER"
     } ]
   },
@@ -93,10 +109,26 @@
       "episode_id" : 286822,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.93,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNXWME" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Goodbye, Dragon Life"
+      }, {
+        "language" : "FRENCH",
+        "title" : "L`adieu à ma vie de dragon"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sayounara Ryuusei"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "さようなら竜生"
       } ],
       "type" : "REGULAR"
     }, {
@@ -104,10 +136,26 @@
       "episode_id" : 286823,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.58,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UGV8E1" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "A New Friend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Atarashii Nakama"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Une nouvelle camarade"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "新しい仲間"
       } ],
       "type" : "REGULAR"
     }, {
@@ -134,14 +182,45 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.16,
+      "total" : 25
+    },
+    "REVIEW" : {
+      "rating" : 4.33,
+      "total" : 1
+    },
+    "TEMPORARY" : {
+      "rating" : 6.01,
+      "total" : 25
+    }
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "394197" ],
+    "ANISON" : [ "25650" ],
     "ANN" : [ "32462" ],
+    "CRUNCHY_ROLL" : [ "G79H23Z0X" ],
     "MAL" : [ "58445" ],
     "SYOBOI" : [ "7199" ],
     "TWITTER" : [ "dragonlife_PR" ],
     "WEBSITE" : [ "https://dragonlife-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Goodbye,_Dragon_Life" ],
     "WIKIPEDIA_JP" : [ "さようなら竜生、こんにちは人生" ]
+  },
+  "similar" : {
+    "15853" : {
+      "rating" : 10.0,
+      "total" : 1
+    },
+    "17517" : {
+      "rating" : 10.0,
+      "total" : 2
+    },
+    "18229" : {
+      "rating" : 5.0,
+      "total" : 2
+    }
   },
   "start_date" : "2024-10-04",
   "tags" : {
@@ -163,8 +242,12 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Sayonara Ryuusei, Konnichiwa Jinsei",
+    "title" : "Sayounara Ryuusei, Konnichiwa Jinsei",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Good Bye, Dragon Life",
+    "type" : "OFFICIAL"
   }, {
     "language" : "GERMAN",
     "title" : "Good Bye, Dragon Life",
@@ -173,14 +256,6 @@
     "language" : "JAPANESE",
     "title" : "さようなら竜生, こんにちは人生",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Goodbye, Dragon Life",
-    "type" : "SYNONYM"
-  }, {
-    "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Sayounara Ryuusei, Konnichiwa Jinsei",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://dragonlife-anime.com/"

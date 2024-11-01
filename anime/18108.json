@@ -334,7 +334,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.23,
+        "rating" : 5.24,
         "total" : 5
       },
       "recap" : false,
@@ -406,7 +406,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.52,
+        "rating" : 6.53,
         "total" : 5
       },
       "recap" : false,
@@ -430,7 +430,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.37,
+        "rating" : 7.36,
         "total" : 4
       },
       "recap" : false,
@@ -646,8 +646,8 @@
       "length" : 25,
       "number" : 19,
       "rating" : {
-        "rating" : 4.96,
-        "total" : 3
+        "rating" : 4.65,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -670,8 +670,8 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 9.14,
-        "total" : 3
+        "rating" : 7.99,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -694,8 +694,8 @@
       "length" : 25,
       "number" : 21,
       "rating" : {
-        "rating" : 7.85,
-        "total" : 3
+        "rating" : 6.85,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -718,8 +718,8 @@
       "length" : 25,
       "number" : 22,
       "rating" : {
-        "rating" : 7.47,
-        "total" : 3
+        "rating" : 6.54,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -742,8 +742,8 @@
       "length" : 25,
       "number" : 23,
       "rating" : {
-        "rating" : 9.58,
-        "total" : 3
+        "rating" : 8.44,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -766,8 +766,8 @@
       "length" : 25,
       "number" : 24,
       "rating" : {
-        "rating" : 7.94,
-        "total" : 3
+        "rating" : 6.92,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -790,8 +790,8 @@
       "length" : 25,
       "number" : 25,
       "rating" : {
-        "rating" : 5.72,
-        "total" : 2
+        "rating" : 5.04,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -839,12 +839,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.32,
-      "total" : 139
+      "rating" : 7.48,
+      "total" : 180
     },
     "TEMPORARY" : {
-      "rating" : 7.2,
-      "total" : 140
+      "rating" : 7.35,
+      "total" : 181
     }
   },
   "resources" : {
@@ -858,8 +858,57 @@
     "WIKIPEDIA_EN" : [ "The_Fable" ],
     "WIKIPEDIA_JP" : [ "ザ・ファブル" ]
   },
+  "similar" : {
+    "15812" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
+  },
   "start_date" : "2024-04-07",
   "tags" : {
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -867,10 +916,136 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2910" : {
+      "info_box" : false,
+      "name" : "parental abandonment",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3822" : {
+      "info_box" : false,
+      "name" : "strong male lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4170" : {
+      "info_box" : false,
+      "name" : "police are useless",
+      "parent_tag_id" : 5626,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5626" : {
+      "info_box" : false,
+      "name" : "adults are useless",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5792" : {
+      "info_box" : false,
+      "name" : "gangs",
+      "parent_tag_id" : 2872,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -882,6 +1057,38 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
@@ -889,6 +1096,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7905" : {
+      "info_box" : false,
+      "name" : "large breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     }
   },
   "titles" : [ {

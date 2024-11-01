@@ -1,6 +1,11 @@
 {
   "anime_id" : 18170,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 143975,
+      "name" : "Gyuuki",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 139520,
       "name" : "Ichiyou",
@@ -11,12 +16,32 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 143974,
+      "name" : "Bui",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139523,
       "name" : "Hakushurin",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143977,
+      "name" : "Kaka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143978,
+      "name" : "Kanshouri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143976,
+      "name" : "Rakan",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139524,
       "name" : "Ransaiwa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143973,
+      "name" : "Ritekkai",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139521,
@@ -45,21 +70,36 @@
       "name" : "Kurihara Yuuki",
       "type" : "MUSIC"
     } ],
+    "67961" : [ {
+      "name" : "Suzuki Kenji",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "73066" : [ {
       "name" : "Murai Yuu",
       "type" : "SERIES_COMPOSITION"
     } ]
   },
+  "description" : "Note: The first episode received an early screening at a special event on 22 September 2024 at United Cinemas Toyosu in Tokyo. The regular TV broadcast started on 7 October 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-07",
       "episode_id" : 286968,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.6,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kagura no Mai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Kagura Dance"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "神楽之舞"
       } ],
       "type" : "REGULAR"
     }, {
@@ -67,10 +107,20 @@
       "episode_id" : 286969,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 1.6,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Rairyuu no Mai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Thunder Dance"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "雷竜之舞"
       } ],
       "type" : "REGULAR"
     }, {
@@ -80,8 +130,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sekka no Mai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Snowflake Dance"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "雪華之舞"
       } ],
       "type" : "REGULAR"
     }, {
@@ -95,9 +151,64 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-04",
+      "episode_id" : 287701,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-11",
+      "episode_id" : 287702,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-18",
+      "episode_id" : 287703,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-25",
+      "episode_id" : 287704,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.47,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 5.66,
+      "total" : 9
+    }
+  },
   "resources" : {
+    "AMAZON" : [ "B0DHFCCPDD" ],
     "ANN" : [ "29579" ],
     "MAL" : [ "56420" ],
     "SYOBOI" : [ "7227" ],
@@ -131,6 +242,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "ハイガクラ",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "寻神的旅途",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "尋神的旅途",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

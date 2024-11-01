@@ -2,25 +2,25 @@
   "anime_id" : 18451,
   "characters" : {
     "MAIN" : [ {
-      "character_id" : 137540,
-      "name" : "Laust",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 137539,
       "name" : "Narsena",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 137540,
+      "name" : "Raust",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
       "character_id" : 139654,
-      "name" : "Amast",
+      "name" : "Amherst",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139655,
-      "name" : "Amia",
+      "name" : "Armia",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139658,
-      "name" : "Hansam",
+      "name" : "Hanzum",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139661,
@@ -33,6 +33,14 @@
     }, {
       "character_id" : 139660,
       "name" : "Mist",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143813,
+      "name" : "Ralma",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143812,
+      "name" : "Ronaldo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139656,
@@ -53,6 +61,10 @@
       "name" : "Sunayama Kurasumi",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "18531" : [ {
+      "name" : "Yamauchi Rena",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "21866" : [ {
       "name" : "Oonishi Keisuke",
       "type" : "DIRECTOR"
@@ -60,6 +72,13 @@
     "51526" : [ {
       "name" : "Mizuno Yumiko",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Mizuno Yumiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "52455" : [ {
+      "name" : "Kunii Mikako",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "54537" : [ {
       "name" : "Yano Tatsuya",
@@ -70,16 +89,33 @@
       "type" : "MUSIC"
     } ]
   },
+  "description" : "Two centuries have passed since a hero defeated the evil Jaryu and saved the world. In one of the many dungeon cities, http://anidb.net/ch137540 [Raust], a healer scorned and cast out of his party for being too weak, struggles to find his place. Amidst despair, he meets martial artist http://anidb.net/ch137539 [Narsena], who invites him to form a new party together. With a fresh start and renewed motivation, the two begin their journey to greatness.\nSource: Crunchyroll",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-06",
       "episode_id" : 286892,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.98,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUE94DJ" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Cette rencontre n`est pas la première, en réalité"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Regarding Their Meeting, Which Was, in Fact, a Reunion"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sono Deai, Jitsu wa Saikai ni Tsuki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "その出会い, 実は再会につき"
       } ],
       "type" : "REGULAR"
     }, {
@@ -87,10 +123,26 @@
       "episode_id" : 286893,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.76,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU8NZGV" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Cette expulsion est un nouveau départ, en réalité"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Regarding the Banishment, Which Was, in Fact, the Start of a New Voyage"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sono Tsuihou, Jitsu wa Arata naru Tabidachi ni Tsuki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "その追放, 実は新たなる旅立ちにつき"
       } ],
       "type" : "REGULAR"
     }, {
@@ -98,10 +150,23 @@
       "episode_id" : 286894,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.48,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UVK3J7" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Regarding the Mage, Who Is, in Fact, a Kind Soul"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sono Mahou Tsukai, Jitsu wa Kokoro Yasashiki Hito ni Tsuki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "その魔法使い, 実は心優しきひとにつき"
       } ],
       "type" : "REGULAR"
     }, {
@@ -112,13 +177,93 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Regarding the Rescue, Which Is, in Fact, a Farewell"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sono Kyuuen, Jitsu wa Ketsubetsu no Tame ni Tsuki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "その救援, 実は決別のためにつき"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-03",
+      "episode_id" : 287586,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-10",
+      "episode_id" : 287587,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-17",
+      "episode_id" : 287588,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-24",
+      "episode_id" : 287589,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-10-12",
+      "episode_id" : 287585,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gendai no Chiyu \"Sauna\", Jitsu wa Saikyou ni Tsuki!!!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "現代の治癒「サウナ」, 実は最強につき!!!"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.56,
+      "total" : 32
+    },
+    "TEMPORARY" : {
+      "rating" : 5.9,
+      "total" : 32
+    }
+  },
   "resources" : {
+    "ANISON" : [ "25671" ],
     "ANN" : [ "31812" ],
+    "CRUNCHY_ROLL" : [ "G4PH0WJZN" ],
     "MAL" : [ "57944" ],
     "SYOBOI" : [ "7215" ],
     "TWITTER" : [ "sonochiyushi" ],
@@ -126,11 +271,82 @@
     "WIKIPEDIA_EN" : [ "Party_kara_Tsuihō_Sareta_Sono_Chiyushi,_Jitsu_wa_Saikyō_ni_Tsuki" ],
     "WIKIPEDIA_JP" : [ "パーティーから追放されたその治癒師、実は最強につき" ]
   },
+  "similar" : {
+    "15853" : {
+      "rating" : 10.0,
+      "total" : 2
+    },
+    "18229" : {
+      "rating" : 10.0,
+      "total" : 3
+    }
+  },
   "start_date" : "2024-10-06",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -142,6 +358,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "8176" : {
+      "info_box" : false,
+      "name" : "kicked from party",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     }
   },
   "titles" : [ {
@@ -149,9 +372,33 @@
     "title" : "Party kara Tsuihou Sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "The Healer Who Was Banished From His Party, Is, in Fact, the Strongest",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "パーティーから追放されたその治癒師, 実は最強につき",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "被逐出隊伍的治癒師，其實是最強",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "被队伍驱逐的治愈师，其实是最强的",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "UNKNOWN",
+    "title" : "sonochiyushi",
+    "type" : "SHORT"
+  }, {
+    "language" : "PORTUGUESE_BRAZIL",
+    "title" : "O curandeiro que foi banido do seu grupo é na verdade, o mais forte!",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "The Healer",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://sonochiyushi.com/"
