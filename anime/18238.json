@@ -235,6 +235,10 @@
       "name" : "Yamashita Kousuke",
       "type" : "MUSIC"
     } ],
+    "12887" : [ {
+      "name" : "Tsuji Miyako",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "15790" : [ {
       "name" : "Yashima Yoshitaka",
       "type" : "DIRECTOR"
@@ -246,6 +250,10 @@
     "27500" : [ {
       "name" : "Komaki Aya",
       "type" : "DIRECTOR"
+    } ],
+    "29654" : [ {
+      "name" : "Shintani Naohiro",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "\"Hello. I`m Akira Toriyama.\nI`m currently working on a new Dragon Ball.\nThe title is \"Dragon Ball DAIMA\".\n\"DAIMA\" is a made-up term, which in Japanese characters would be \"大魔\" or in English would be something like \"Evil.\"\nDue to a conspiracy, Goku and his friends are turned small.\nIn order to fix things, they`ll head off to a new world!\nIt`s a grand adventure with intense action in an unknown and mysterious world.\nSince Goku has to make up for his petite size, he uses his Nyoibo (Power Pole) to fight, something not seen in a long time.\nI came up with the story and settings, as well as a lot of the designs.\nI`m actually putting a lot more into this than usual!\nThings will unfold that close in on the mysteries of the Dragon Ball world.\nHope you all enjoy these different-from-usual battles that are cute and powerful!!\n-Akira Toriyama",
@@ -257,7 +265,7 @@
       "length" : 35,
       "number" : 1,
       "rating" : {
-        "rating" : 2.53,
+        "rating" : 2.52,
         "total" : 4
       },
       "recap" : false,
@@ -280,12 +288,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-18",
+      "description" : "Goku and his friends have been turned small due to Gomah`s scheme. They begin preparing to go to the demon world. Goku collects his Nyoibo and looks forward to a new adventure. Then the mysterious young Majin Glorio appears!\nSource: Crunchyroll",
       "episode_id" : 287024,
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.16,
-        "total" : 1
+        "rating" : 4.12,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -307,10 +316,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-25",
+      "description" : "Goku, Supreme Kai, and Glorio head out to the \"Demon Realm\" first. Their plane travels through space and a mysterious dimension. They arrive at the entrance to the Demon Realm, the \"Third Demon World\"!\nSource: Crunchyroll",
       "episode_id" : 287025,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.44,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UE9PG9" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Daima"
@@ -331,9 +348,21 @@
       "length" : 25,
       "number" : 4,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMNPZ0" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Chatty"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Gesprächig"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Oshaberi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "オシャベリ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -344,7 +373,16 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Panzy"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Panzy"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Panzy"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "パンジ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -387,13 +425,28 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 5.33,
-        "total" : 1
+        "rating" : 4.17,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-10-18",
+      "episode_id" : 287927,
+      "length" : 1,
+      "number" : 2,
+      "rating" : {
+        "rating" : 6.13,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
       } ],
       "type" : "CREDITS"
     } ],
@@ -416,12 +469,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.17,
-      "total" : 14
+      "rating" : 5.4,
+      "total" : 17
+    },
+    "REVIEW" : {
+      "rating" : 3.83,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.46,
-      "total" : 14
+      "rating" : 6.55,
+      "total" : 17
     }
   },
   "related" : {
@@ -474,6 +531,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
@@ -516,6 +580,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

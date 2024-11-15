@@ -20,8 +20,24 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 144175,
+      "name" : "Gou-yan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144174,
+      "name" : "Hone-chan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144177,
+      "name" : "Houdai",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143159,
       "name" : "Kirara Mami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144176,
+      "name" : "Mado Hiroshi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 143157,
@@ -69,12 +85,13 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-06",
+      "description" : "Puniru follows Kotaro to school to take him something he forgot, but they end up getting into a fight. Puniru turns into an idol to get Kotaro to admit she’s cute. Kotaro tries to enlist Puniru’s help in winning the affections of his crush, Kirara-senpai.\nSource: Crunchyroll",
       "episode_id" : 286957,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.58,
-        "total" : 1
+        "rating" : 1.42,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -93,12 +110,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-13",
+      "description" : "Kotaro asks Puniru to turn into a first grader and act lost so he can look good in front of Kirara-senpai, but little does he know Kirara’s maternal instincts go into overdrive around children. Puniru later plays a trick using this knowledge.\nSource: Crunchyroll",
       "episode_id" : 286958,
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.38,
-        "total" : 1
+        "rating" : 2.1,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -117,10 +135,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-20",
+      "description" : "Kotaro’s favorite plushie as a child was the adorable Kyuthi-chan, which had a profound (jealous) effect on Puniru. Now he wants to go to the Kyuthi Café, where he gets Puniru to pretend to be his girlfriend so he can order a dish meant for couples.\nSource: Crunchyroll",
       "episode_id" : 286959,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 1.42,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UGV44K" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Kawaii Puniru Is a Slime"
@@ -133,14 +159,78 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-10-27",
+      "air_date" : "2024-10-28",
+      "description" : "Alice, granddaughter to the president of the toy company that made Kyuthi-chan, challenges Puniru to see whether she or a character Alice created is more adorable—and you could say the competition gets blown into gigantic proportions!\nSource: Crunchyroll",
       "episode_id" : 286960,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 1.54,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUE9441" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Alice in Kyuthi Land"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyuthi Land no Alice"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "かわいい国[キュティランド]のアリス"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-03",
+      "episode_id" : 287941,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "GO! GO! 華麗に応援です!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Go! Go! Fabulous Cheer Routine!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Go! Go! Karei ni Ouen Desu!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-10",
+      "episode_id" : 287942,
+      "length" : 25,
+      "number" : 6,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-17",
+      "episode_id" : 287943,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-24",
+      "episode_id" : 287944,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -170,15 +260,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.4,
-      "total" : 9
+      "rating" : 5.51,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 6.5,
-      "total" : 10
+      "rating" : 6.66,
+      "total" : 15
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "396091" ],
+    "ANISON" : [ "25615" ],
     "ANN" : [ "31049" ],
     "CRUNCHY_ROLL" : [ "GNVHKN9G2" ],
     "MAL" : [ "57517" ],
@@ -190,9 +282,149 @@
   },
   "start_date" : "2024-10-06",
   "tags" : {
+    "1018" : {
+      "info_box" : true,
+      "name" : "middle school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2854" : {
+      "info_box" : false,
+      "name" : "henshin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "5834" : {
+      "info_box" : false,
+      "name" : "show within a show",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

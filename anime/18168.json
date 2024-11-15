@@ -3,7 +3,11 @@
   "characters" : {
     "MAIN" : [ {
       "character_id" : 136345,
-      "name" : "Riko Ikazuchi",
+      "name" : "Ikazuchi Riko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144170,
+      "name" : "Noma Keiji",
       "type" : "CHARACTER"
     } ]
   },
@@ -47,6 +51,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "捜査のためなんだから...!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -54,13 +61,16 @@
       "length" : 7,
       "number" : 2,
       "rating" : {
-        "rating" : 1.19,
-        "total" : 2
+        "rating" : 1.46,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "車のなかでこんな...!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -68,13 +78,16 @@
       "length" : 7,
       "number" : 3,
       "rating" : {
-        "rating" : 1.4,
-        "total" : 2
+        "rating" : 1.53,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "身体に力が入らない...ッ!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -82,13 +95,16 @@
       "length" : 7,
       "number" : 4,
       "rating" : {
-        "rating" : 1.19,
-        "total" : 2
+        "rating" : 1.46,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "媚薬のせいだから..."
       } ],
       "type" : "REGULAR"
     }, {
@@ -96,13 +112,16 @@
       "length" : 7,
       "number" : 5,
       "rating" : {
-        "rating" : 1.19,
-        "total" : 2
+        "rating" : 1.46,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 5"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "こんな大勢の前で...!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -110,13 +129,16 @@
       "length" : 7,
       "number" : 6,
       "rating" : {
-        "rating" : 1.4,
-        "total" : 2
+        "rating" : 1.72,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 6"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "罠にハメられたッ...!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -124,13 +146,16 @@
       "length" : 7,
       "number" : 7,
       "rating" : {
-        "rating" : 1.19,
-        "total" : 2
+        "rating" : 1.23,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 7"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "早く脱出しなきゃいけないのに...!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -138,25 +163,127 @@
       "length" : 7,
       "number" : 8,
       "rating" : {
-        "rating" : 1.19,
-        "total" : 2
+        "rating" : 1.33,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "本当は野間くんのこと..."
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "episode_id" : 288229,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1a"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "episode_id" : 288230,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1b"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "episode_id" : 288231,
+      "length" : 2,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1c"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "episode_id" : 288232,
+      "length" : 2,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1d"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "episode_id" : 288233,
+      "length" : 2,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1e"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "episode_id" : 288234,
+      "length" : 2,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1f"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "episode_id" : 288235,
+      "length" : 2,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1g"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "episode_id" : 288236,
+      "length" : 2,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1h"
+      } ],
+      "type" : "CREDITS"
+    } ],
+    "PROMOTION" : [ {
+      "air_date" : "2023-08-30",
+      "episode_id" : 288228,
+      "length" : 1,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "PV"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "PV (0:15)"
+      } ],
+      "type" : "PROMOTION"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.13,
-      "total" : 47
+      "rating" : 4.0,
+      "total" : 49
     },
     "TEMPORARY" : {
-      "rating" : 5.95,
-      "total" : 50
+      "rating" : 5.92,
+      "total" : 52
     }
   },
   "resources" : {
@@ -168,7 +295,8 @@
     "TMDB" : [ "tv/233643" ],
     "TWITTER" : [ "AnimeFesta_Info" ],
     "WEBSITE" : [ "https://secretmission.af-original.jp/" ],
-    "WIKIPEDIA_JP" : [ "潜入捜査官はセックスもお仕事です。" ]
+    "WIKIPEDIA_JP" : [ "潜入捜査官はセックスもお仕事です。" ],
+    "YOUTUBE" : [ "watch?v=dxAjx4lHbbw" ]
   },
   "start_date" : "2023-09-08",
   "tags" : {
@@ -276,6 +404,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2702" : {
+      "info_box" : false,
+      "name" : "mammary intercourse",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2710" : {
       "info_box" : false,
       "name" : "squirting",
@@ -317,20 +453,20 @@
       "weight" : 100
     },
     "2748" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "sex",
       "parent_tag_id" : 2604,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 600
     },
     "2749" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "nudity",
       "parent_tag_id" : 2604,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 600
     },
     "2790" : {
       "info_box" : false,
@@ -428,6 +564,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3443" : {
+      "info_box" : false,
+      "name" : "orgy",
+      "parent_tag_id" : 7957,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3993" : {
       "info_box" : false,
       "name" : "kidnapping",
@@ -486,6 +630,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6268" : {
+      "info_box" : false,
+      "name" : "fellatio",
+      "parent_tag_id" : 2713,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

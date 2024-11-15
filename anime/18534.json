@@ -120,8 +120,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.69,
-        "total" : 10
+        "rating" : 5.92,
+        "total" : 11
       },
       "recap" : false,
       "resources" : {
@@ -145,8 +145,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.96,
-        "total" : 9
+        "rating" : 6.02,
+        "total" : 10
       },
       "recap" : false,
       "resources" : {
@@ -169,8 +169,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.23,
-        "total" : 8
+        "rating" : 5.46,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -194,7 +194,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.99,
+        "rating" : 6.0,
         "total" : 7
       },
       "recap" : false,
@@ -218,7 +218,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.1,
+        "rating" : 6.11,
         "total" : 7
       },
       "recap" : false,
@@ -362,7 +362,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 8.55,
+        "rating" : 8.56,
         "total" : 6
       },
       "recap" : false,
@@ -386,7 +386,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 9.36,
+        "rating" : 9.37,
         "total" : 6
       },
       "recap" : false,
@@ -446,7 +446,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.66,
+        "rating" : 2.68,
         "total" : 3
       },
       "recap" : false,
@@ -461,7 +461,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 1.56,
+        "rating" : 1.57,
         "total" : 2
       },
       "recap" : false,
@@ -477,7 +477,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 6.38,
+        "rating" : 6.36,
         "total" : 1
       },
       "recap" : false,
@@ -498,7 +498,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 9.17,
+        "rating" : 9.16,
         "total" : 1
       },
       "recap" : false,
@@ -519,7 +519,7 @@
       "length" : 1,
       "number" : 3,
       "rating" : {
-        "rating" : 4.79,
+        "rating" : 4.76,
         "total" : 1
       },
       "recap" : false,
@@ -537,7 +537,7 @@
       "length" : 1,
       "number" : 4,
       "rating" : {
-        "rating" : 4.79,
+        "rating" : 4.76,
         "total" : 1
       },
       "recap" : false,
@@ -555,7 +555,7 @@
       "length" : 1,
       "number" : 5,
       "rating" : {
-        "rating" : 4.79,
+        "rating" : 4.76,
         "total" : 1
       },
       "recap" : false,
@@ -573,7 +573,7 @@
       "length" : 1,
       "number" : 6,
       "rating" : {
-        "rating" : 4.79,
+        "rating" : 4.76,
         "total" : 1
       },
       "recap" : false,
@@ -816,12 +816,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.34,
-      "total" : 261
+      "rating" : 3.47,
+      "total" : 286
     },
     "TEMPORARY" : {
-      "rating" : 5.53,
-      "total" : 264
+      "rating" : 5.62,
+      "total" : 289
     }
   },
   "resources" : {
@@ -843,8 +843,8 @@
       "total" : 10
     },
     "8168" : {
-      "rating" : 3.6363636363636367,
-      "total" : 11
+      "rating" : 4.166666666666667,
+      "total" : 12
     },
     "8552" : {
       "rating" : 8.333333333333334,
@@ -1027,6 +1027,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2791" : {
+      "info_box" : false,
+      "name" : "stereotypes",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -1074,6 +1090,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2931" : {
       "info_box" : false,
@@ -1222,6 +1246,14 @@
       "info_box" : false,
       "name" : "randomness",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5792" : {
+      "info_box" : false,
+      "name" : "gangs",
+      "parent_tag_id" : 2872,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

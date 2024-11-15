@@ -2,6 +2,18 @@
   "anime_id" : 17615,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 144182,
+      "name" : "Baius D. Hoelscher",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144183,
+      "name" : "Gahard D. Hoelscher",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144181,
+      "name" : "Grid Half",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 105125,
       "name" : "Kamu Haulia",
       "type" : "CHARACTER"
@@ -90,6 +102,10 @@
       "name" : "Asread",
       "type" : "ANIMATION_WORK"
     } ],
+    "6610" : [ {
+      "name" : "Hirayama Hidetsugu",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "6650" : [ {
       "name" : "Satou Shouichi",
       "type" : "SERIES_COMPOSITION"
@@ -105,6 +121,10 @@
       "name" : "Kojima Chika",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "11603" : [ {
+      "name" : "Watanabe Kanako",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "40304" : [ {
       "name" : "Takahashi Ryou",
       "type" : "MUSIC"
@@ -118,12 +138,13 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-14",
+      "description" : "With the Heiligh Kingdom heavily damaged, Princess Liliana travels to the Hoelscher Empire to request their aid. On their way, Hajime spots Haulia tribe members fighting imperial soldiers. The tribe members bring news of a coming invasion.\nSource: Crunchyroll",
       "episode_id" : 287036,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.11,
-        "total" : 2
+        "rating" : 4.93,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -132,6 +153,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Haulias Assemble"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Les lapins débarquent"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Usamimi Sanjou"
@@ -142,13 +166,24 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-21",
+      "description" : "Hajime catches wind of conflict brewing between the empire and the rabbit beastmen.\nSource: Crunchyroll",
       "episode_id" : 287037,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.05,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UGV58W" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Hanki no Otakebi"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Les cris de la révolte"
       }, {
         "language" : "ENGLISH",
         "title" : "Roar of Revolution"
@@ -159,24 +194,109 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-28",
+      "description" : "Liliana meets the emperor to discuss receiving aid from him. She must make a great personal sacrifice to solidify this. She is ready to do so, but Hajime seems to have other plans.\nSource: Crunchyroll",
       "episode_id" : 287038,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 2.4,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMK7E3" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Le supplice de la princesse"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Oujo no Junan"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Princess`s Ordeal"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "王女の受難"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-11-04",
+      "description" : "The party to celebrate Liliana`s visit to the imperial capital and announce her engagement to the imperial crown prince begins. However, the Haulia Tribe has a whole different event planned for the night.\nSource: Crunchyroll",
       "episode_id" : 287039,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 1.12,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7V5P4" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Teikoku vs Saikyou Usagi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Empire vs the Strongest Rabbits"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "帝国VS最凶ウサギ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-11",
+      "episode_id" : 288005,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 2.47,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Eiyuu no Gaisen"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Hero Returns"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "英雄の凱旋"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-18",
+      "episode_id" : 288006,
+      "length" : 25,
+      "number" : 6,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-25",
+      "episode_id" : 288007,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-02",
+      "episode_id" : 288008,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -201,12 +321,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.56,
-      "total" : 11
+      "rating" : 4.62,
+      "total" : 26
     },
     "TEMPORARY" : {
-      "rating" : 5.45,
-      "total" : 11
+      "rating" : 6.48,
+      "total" : 26
     }
   },
   "related" : {
@@ -214,6 +334,7 @@
   },
   "resources" : {
     "ANN" : [ "26325" ],
+    "CRUNCHY_ROLL" : [ "G4PH0WXD1" ],
     "MAL" : [ "52995" ],
     "SYOBOI" : [ "7185" ],
     "TWITTER" : [ "ARIFURETA_info" ],

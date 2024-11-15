@@ -1,6 +1,47 @@
 {
   "anime_id" : 18578,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 134757,
+      "name" : "Animalia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139879,
+      "name" : "Aramis",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 136901,
+      "name" : "Bilac",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 136508,
+      "name" : "Iwamaki Mana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139880,
+      "name" : "Kyouju",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 134759,
+      "name" : "Psyger-100",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138926,
+      "name" : "Wolf Schwarz Dansei A",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135279,
+      "name" : "Yashuu no Lycaon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144171,
+      "name" : "Wolf Schwarz",
+      "type" : "ORGANIZATION"
+    }, {
+      "character_id" : 144172,
+      "name" : "Wolf-Gang",
+      "type" : "ORGANIZATION"
+    } ],
     "MAIN" : [ {
       "character_id" : 124896,
       "name" : "Hizutome Rakurou",
@@ -85,12 +126,13 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-13",
+      "description" : "To turn Bilac into an ancestral craftswoman and to get the futuristic toys in Inventoria up and running, Sunraku needs a magic control unit.\nSource: Crunchyroll",
       "episode_id" : 287031,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.35,
-        "total" : 4
+        "rating" : 5.61,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -103,30 +145,64 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Hanra to Yukai na Nakama-tachi in Golem Paradise"
       }, {
+        "language" : "FRENCH",
+        "title" : "Semi-nudisme et amis in golem paradise"
+      }, {
         "language" : "JAPANESE",
         "title" : "半裸と愉快な仲間達inゴーレムパラダイス"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-20",
+      "description" : "Sunraku and his pals make it into the Divinity-era workshop and retrieve the magic operations unit, but Pencilgon and Oikatzo have a score to settle with him before the quest proceeds any further.\nSource: Crunchyroll",
       "episode_id" : 287032,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.59,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUE98DD" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "L’inflexible gardien"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Uncompromising Gatekeeper"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yuuzuu Shirasu no Monban"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "融通知らずの門番"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-27",
+      "description" : "It`s time for Sunraku to face the music as Pencilgon and Oikatzo force him to come face to face with the various factions he`s been ignoring.\nSource: Crunchyroll",
       "episode_id" : 287033,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 4.02,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU8NQG3" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Accelerating Meetings, Surging Desire, and the Start of Various Threads"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kasoku Suru Kaigi, Hatobashiru Yokubou, Soshite Sorezore no Itoguchi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "加速する会議, 迸[ほとばし]る欲望, そしてそれぞれの糸口"
       } ],
       "type" : "REGULAR"
     }, {
@@ -140,12 +216,60 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-10",
+      "episode_id" : 288177,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-17",
+      "episode_id" : 288178,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-24",
+      "episode_id" : 288179,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-01",
+      "episode_id" : 288180,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
       "air_date" : "2024-10-13",
       "episode_id" : 287615,
       "length" : 3,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.17,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -156,6 +280,27 @@
       }, {
         "language" : "JAPANESE",
         "title" : "シャンフロ ミニ #31 占いの館Rock Roll"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-10-20",
+      "episode_id" : 287979,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 3.17,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "SLF Mini #32: Oikatzo`s Five-Second Answers"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shan Fro Mini #32: 5 Byou de Kotaete - Oikatzo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "シャンフロ ミニ #32 5秒で答えて オイカッツォ"
       } ],
       "type" : "SPECIAL"
     }, {
@@ -181,8 +326,8 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 7.29,
-        "total" : 1
+        "rating" : 3.43,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -195,7 +340,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 5.3,
+        "rating" : 5.32,
         "total" : 1
       },
       "recap" : false,
@@ -208,12 +353,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.86,
-      "total" : 14
+      "rating" : 7.84,
+      "total" : 31
     },
     "TEMPORARY" : {
       "rating" : 8.0,
-      "total" : 14
+      "total" : 32
     }
   },
   "related" : {
@@ -228,7 +373,7 @@
     "WEBSITE" : [ "https://anime.shangrilafrontier.com/" ],
     "WIKIPEDIA_EN" : [ "Shangri-La_Frontier" ],
     "WIKIPEDIA_JP" : [ "シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜" ],
-    "YOUTUBE" : [ "watch?v=j6k4IzRNU2A", "watch?v=xI8kJGaRoVk" ]
+    "YOUTUBE" : [ "watch?v=XWO-6Dogf_M", "watch?v=j6k4IzRNU2A", "watch?v=xI8kJGaRoVk" ]
   },
   "start_date" : "2024-10-13",
   "tags" : {
@@ -267,6 +412,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Shangri-La Frontier 2nd Season",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Shangri-La Frontier Season 2",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

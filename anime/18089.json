@@ -2,12 +2,20 @@
   "anime_id" : 18089,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 10370,
+      "name" : "Hiiragi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 10365,
       "name" : "Hitotsume no Chuukyuu Youkai",
       "type" : "CHARACTER"
     }, {
       "character_id" : 34335,
       "name" : "Kappa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 34350,
+      "name" : "Urihime",
       "type" : "CHARACTER"
     }, {
       "character_id" : 10366,
@@ -113,11 +121,12 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-08",
+      "description" : "Tanuma gives Natsume some clay, and he tries his hand at sculpting a figure. However, the next day, the figure has disappeared, and other strange things are happening in the house. Is a Yōkai causing mischief in the house? Or is it just a rat?\nSource: Crunchyroll",
       "episode_id" : 287003,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.49,
+        "rating" : 5.5,
         "total" : 1
       },
       "recap" : false,
@@ -137,11 +146,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-15",
+      "description" : "Natsume is forced to help rebuild a tiny house that`s a residence for a goddess.\nSource: Crunchyroll",
       "episode_id" : 287004,
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 9.54,
+        "rating" : 9.55,
         "total" : 1
       },
       "recap" : false,
@@ -161,10 +171,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-22",
+      "description" : "Natsume is caught up in a mysterious game between youkai and man.\nSource: Crunchyroll",
       "episode_id" : 287005,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.79,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UVKQ8P" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Tookanya"
@@ -178,13 +196,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-29",
+      "description" : "Natsume and Kitamoto are victims of a horrid curse.\nSource: Crunchyroll",
       "episode_id" : 287006,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 9.55,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8NEM0" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Depths of the Page"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Page no Oku"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "頁の奥"
       } ],
       "type" : "REGULAR"
     }, {
@@ -194,8 +226,14 @@
       "number" : 5,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chobi no Takaramono"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Chobi`s Treasure"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ちょびの宝物"
       } ],
       "type" : "REGULAR"
     }, {
@@ -253,12 +291,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.67,
-      "total" : 16
+      "rating" : 8.15,
+      "total" : 20
     },
     "TEMPORARY" : {
-      "rating" : 7.91,
-      "total" : 17
+      "rating" : 7.71,
+      "total" : 21
     }
   },
   "related" : {

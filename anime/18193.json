@@ -1,6 +1,11 @@
 {
   "anime_id" : 18193,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 144188,
+      "name" : "Tonouchi Yoshio",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 135245,
       "name" : "Chirinu Nio",
@@ -121,8 +126,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 1.49,
-        "total" : 1
+        "rating" : 3.27,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -141,6 +146,10 @@
       "episode_id" : 287048,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 1.74,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -158,10 +167,20 @@
       "episode_id" : 287049,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.2,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tamashii no Arika"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Where the Soul Dwells"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "魂の在り処"
       } ],
       "type" : "REGULAR"
     }, {
@@ -171,20 +190,70 @@
       "number" : 4,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Teki no Namae"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "The Name of the Enemy"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "敵の名前"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-16",
+      "episode_id" : 288482,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-23",
+      "episode_id" : 288483,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-30",
+      "episode_id" : 288484,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-07",
+      "episode_id" : 288485,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.58,
-      "total" : 5
+      "rating" : 4.67,
+      "total" : 17
     },
     "TEMPORARY" : {
-      "rating" : 7.2,
-      "total" : 5
+      "rating" : 5.94,
+      "total" : 17
     }
   },
   "resources" : {
@@ -372,6 +441,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "青のミブロ",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "青之壬生浪",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

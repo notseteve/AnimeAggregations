@@ -1,6 +1,39 @@
 {
   "anime_id" : 18327,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 143651,
+      "name" : "Hamazaki Moe",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143462,
+      "name" : "Ren no Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143463,
+      "name" : "Saionji Mayuko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143464,
+      "name" : "Sana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144184,
+      "name" : "Sawamura Marie",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143461,
+      "name" : "Uehara",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144178,
+      "name" : "Yamashita",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143467,
+      "name" : "Yamatani",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 123846,
       "name" : "Katagiri Kanata",
@@ -8,6 +41,87 @@
     }, {
       "character_id" : 123847,
       "name" : "Saionji Ren",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 129008,
+      "name" : "Aiba Shun",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129014,
+      "name" : "Akaba Kaito",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144179,
+      "name" : "Ikeda Ryuuji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129010,
+      "name" : "Ishigami Fuujin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128990,
+      "name" : "Jackson Taylor",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128993,
+      "name" : "Jouyuu Fumihiro",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128998,
+      "name" : "Kitahara Nozomi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128994,
+      "name" : "Kurihara Kyouko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128997,
+      "name" : "Maezono Kazuhiro",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128991,
+      "name" : "Michael Beckenbauer",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129012,
+      "name" : "Ogata",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129002,
+      "name" : "Okuyama Hiroya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129000,
+      "name" : "Ooishi Daigo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129001,
+      "name" : "Ootani Yousuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128999,
+      "name" : "Sakamoto Yuudai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129009,
+      "name" : "Satou Mami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129007,
+      "name" : "Sawatari Kouki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135566,
+      "name" : "Tanaka Youji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129004,
+      "name" : "Yanagida Takuya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128996,
+      "name" : "Yashio Kakeru",
       "type" : "CHARACTER"
     } ]
   },
@@ -32,7 +146,7 @@
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "17984" : [ {
-      "name" : "Naka Tomohito",
+      "name" : "Naka Toshihito",
       "type" : "DIRECTOR"
     } ],
     "23021" : [ {
@@ -52,9 +166,14 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-07",
+      "description" : "Katagiri Kanata shows what he`s made of in the race on the Ashinoko track! With daring drifts through the dangerous \"Death Zone,\" he secures a provisional eighth place despite tough competition and technical challenges.\nSource: Crunchyroll",
       "episode_id" : 286981,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.99,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GN7UD2GJ1" ]
@@ -72,9 +191,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-14",
+      "description" : "On the wet track, Kanata Katagiri impresses with his driving skills. Despite difficult weather conditions, he remains steady in the race, while his competitors struggle with the weather.\nSource: Crunchyroll",
       "episode_id" : 286982,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.99,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G7PU3PXN1" ]
@@ -92,24 +216,48 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-21",
+      "description" : "Katagiri Kanata drives his Toyota 86 GT remarkably fast, even though he lacks grip on the wet road, and overtakes several more powerful cars. Ikeda praises Kanata`s precise driving technique and his experience on European racetracks, which help him under these conditions.\nSource: Crunchyroll",
       "episode_id" : 286983,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 9.88,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9Z1V0" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ekiden Straight no Mei to An"
+      }, {
         "language" : "ENGLISH",
         "title" : "The Relay Straight Yin-Yang"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "駅伝ストレートの明と暗"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-28",
+      "description" : "While Kanata continues to keep pace in the wet conditions with the ever-expanding third-place group, Sawatari dukes it out with Beckenbauer for the lead of the race.\nSource: Crunchyroll",
       "episode_id" : 286984,
       "length" : 25,
       "number" : 4,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U31PV1" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kishin!! Sawatari Kouki"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Sawatari Koki, the Demon God"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "鬼神!! 沢渡 光輝"
       } ],
       "type" : "REGULAR"
     }, {
@@ -120,7 +268,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "A Cruel Reality"
       } ],
       "type" : "REGULAR"
     }, {
@@ -160,12 +308,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.09,
-      "total" : 9
+      "rating" : 6.4,
+      "total" : 15
     },
     "TEMPORARY" : {
-      "rating" : 5.88,
-      "total" : 9
+      "rating" : 7.13,
+      "total" : 15
     }
   },
   "related" : {

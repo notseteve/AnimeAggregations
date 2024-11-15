@@ -23,18 +23,29 @@
     "9175" : [ {
       "name" : "Takeya Kyouko",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Takeya Kyouko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "17143" : [ {
       "name" : "Komaya Ken`ichirou",
       "type" : "DIRECTOR"
     } ],
+    "30707" : [ {
+      "name" : "Ninomiya Nanako",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "43312" : [ {
       "name" : "Signal MD",
-      "type" : "WORK"
+      "type" : "ANIMATION_WORK"
     } ],
     "48386" : [ {
       "name" : "Tabuchi Natsumi",
       "type" : "MUSIC"
+    } ],
+    "60438" : [ {
+      "name" : "Yokoyama Asaka",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "74666" : [ {
       "name" : "Rikachi",
@@ -45,12 +56,13 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-07",
+      "description" : "In the wake of the death of Fortna`s princess-priestess, Prince Azure purchases a young woman from the slums who shares her most defining feature. He sets out to turn her into a convincing impostor to cover up the death of his half-sister.\nSource: Crunchyroll",
       "episode_id" : 286972,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.6,
-        "total" : 1
+        "rating" : 7.99,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -69,9 +81,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-14",
+      "description" : "After sneaking out of her quarters, Nina runs into First Prince Muhulum, who is also out and about where he`s not supposed to be. As the castle prepares to celebrate the Festival of Stars, Nina considers sneaking back into the city.\nSource: Crunchyroll",
       "episode_id" : 286973,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GD9UE9W82" ]
@@ -89,10 +106,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-21",
+      "description" : "When it becomes apparent that Azure`s life is in danger, Nina escapes the castle to seek help from the former king. However, the former king`s wisdom and cleverness quickly puts Nina in danger.\nSource: Crunchyroll",
       "episode_id" : 286974,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 9.29,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMN9Q9" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "The Night of Dreams"
@@ -106,13 +131,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-28",
+      "description" : "As Nina and Azure`s feelings for one another deepen, Nina becomes desperate to find a way to protect him from whoever is targeting him. She`s given the opportunity in a one on one meeting with the king.\nSource: Crunchyroll",
       "episode_id" : 286975,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.93,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMK41W" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shuttatsu no Hi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "The Day of Departure"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "出立の日"
       } ],
       "type" : "REGULAR"
     }, {
@@ -123,7 +162,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Crimson Eyes"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shinku no Hitomi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "深紅の瞳"
       } ],
       "type" : "REGULAR"
     }, {
@@ -159,16 +204,39 @@
         "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-10-07",
+      "episode_id" : 288062,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-10-07",
+      "episode_id" : 288063,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.61,
-      "total" : 15
+      "rating" : 5.16,
+      "total" : 20
     },
     "TEMPORARY" : {
-      "rating" : 6.33,
-      "total" : 15
+      "rating" : 6.07,
+      "total" : 20
     }
   },
   "resources" : {

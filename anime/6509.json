@@ -424,7 +424,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.1,
+        "rating" : 7.11,
         "total" : 8
       },
       "recap" : false,
@@ -530,7 +530,7 @@
       "length" : 1,
       "number" : 2,
       "rating" : {
-        "rating" : 6.24,
+        "rating" : 6.25,
         "total" : 1
       },
       "recap" : false,
@@ -552,7 +552,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 8.81,
+        "rating" : 8.82,
         "total" : 2
       },
       "recap" : false,
@@ -626,7 +626,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.66,
-      "total" : 1926
+      "total" : 1929
     },
     "REVIEW" : {
       "rating" : 6.83,
@@ -634,7 +634,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.67,
-      "total" : 1936
+      "total" : 1939
     }
   },
   "related" : {
@@ -658,6 +658,21 @@
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1157" : {
+      "info_box" : false,
+      "name" : "horny nosebleed",
+      "parent_tag_id" : 2653,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -697,6 +712,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2654" : {
+      "info_box" : false,
+      "name" : "medium awareness",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2655" : {
       "info_box" : true,
       "name" : "parody",
@@ -704,6 +735,46 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2656" : {
+      "info_box" : false,
+      "name" : "satire",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2748" : {
+      "info_box" : false,
+      "name" : "sex",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2783" : {
+      "info_box" : false,
+      "name" : "shounen ai",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2787" : {
       "info_box" : false,
@@ -729,6 +800,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2826" : {
+      "info_box" : false,
+      "name" : "pantsu",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2853" : {
       "info_box" : true,
       "name" : "comedy",
@@ -737,6 +816,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2858" : {
       "info_box" : false,
       "name" : "romance",
@@ -744,6 +831,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2859" : {
+      "info_box" : false,
+      "name" : "harem",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2869" : {
       "info_box" : true,
@@ -756,6 +851,14 @@
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -784,6 +887,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3671" : {
+      "info_box" : false,
+      "name" : "footage reuse",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3683" : {
       "info_box" : false,
       "name" : "storytelling",
@@ -796,6 +907,14 @@
       "info_box" : false,
       "name" : "non-linear",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4096" : {
+      "info_box" : false,
+      "name" : "gore",
+      "parent_tag_id" : 2750,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -816,10 +935,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "4223" : {
+      "info_box" : false,
+      "name" : "running gag",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4228" : {
       "info_box" : false,
       "name" : "subtle OP ED sequence change",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4340" : {
+      "info_box" : false,
+      "name" : "suicide",
+      "parent_tag_id" : 6242,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -836,6 +979,14 @@
       "info_box" : false,
       "name" : "social commentary",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5227" : {
+      "info_box" : false,
+      "name" : "alternating animation style",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -864,6 +1015,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "5993" : {
+      "info_box" : false,
+      "name" : "black humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "6029" : {
+      "info_box" : false,
+      "name" : "mundane made awesome",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6030" : {
       "info_box" : false,
       "name" : "otaku culture",
@@ -882,6 +1049,30 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -48,6 +48,10 @@
       "name" : "Kasahara Kyou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 144143,
+      "name" : "Kishi Shouichirou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143715,
       "name" : "Nishida Ryousuke",
       "type" : "CHARACTER"
@@ -74,6 +78,10 @@
       "name" : "Nii Manabu",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "22544" : [ {
+      "name" : "Miyajima Aya",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "43276" : [ {
       "name" : "Oomama Takashi",
       "type" : "MUSIC"
@@ -98,12 +106,13 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-03",
+      "description" : "Despite a few heart-fluttering encounters, Taiki doubts his crush Chinatsu even knows his name. Later, shocking news forces him to make a bold move.\nSource: Netflix",
       "episode_id" : 286674,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.52,
-        "total" : 6
+        "rating" : 7.35,
+        "total" : 7
       },
       "recap" : false,
       "titles" : [ {
@@ -123,7 +132,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.42,
+        "rating" : 7.41,
         "total" : 4
       },
       "recap" : false,
@@ -140,6 +149,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-11",
+      "description" : "Taiki overhears Haryu calling Chinatsu by a special nickname and gets flustered. Will it affect his upcoming match against the upperclassman?\nSource: Netflix",
       "episode_id" : 286676,
       "length" : 25,
       "number" : 3,
@@ -161,11 +171,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-18",
+      "description" : "A gym uniform mix-up leads to a heart-pounding exchange. Later, Haryu raises the stakes for Taiki’s match, while Kyo makes a secret request to Chinatsu.\nSource: Netflix",
       "episode_id" : 286677,
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.79,
+        "rating" : 8.8,
         "total" : 3
       },
       "recap" : false,
@@ -182,13 +193,24 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-25",
+      "description" : "With both players going neck and neck on the court, will Taiki win his match against Kishi — and will Chinatsu invite him to the aquarium?\nSource: Netflix",
       "episode_id" : 287391,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 7.8,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Aquarium"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Suizokukan"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "水族館"
       } ],
       "type" : "REGULAR"
     }, {
@@ -196,10 +218,20 @@
       "episode_id" : 287392,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 9.47,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ganbarette Itte"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Wish Me Luck"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "がんばれって言って"
       } ],
       "type" : "REGULAR"
     }, {
@@ -240,12 +272,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.49,
-      "total" : 34
+      "rating" : 7.43,
+      "total" : 38
     },
     "TEMPORARY" : {
-      "rating" : 7.56,
-      "total" : 34
+      "rating" : 7.42,
+      "total" : 38
     }
   },
   "resources" : {
@@ -345,7 +377,79 @@
     "title" : "Ao no Hako",
     "type" : "MAIN"
   }, {
+    "language" : "BURMESE",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "DANISH",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "DUTCH",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "FINNISH",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "FRENCH",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GREEK",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "HUNGARIAN",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "INDONESIAN",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ITALIAN",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "NORWEGIAN",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "PORTUGUESE",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "PORTUGUESE_BRAZIL",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ROMANIAN",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "SWEDISH",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "TAGALOG",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "TURKISH",
+    "title" : "Blue Box",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "VIETNAMESE",
     "title" : "Blue Box",
     "type" : "OFFICIAL"
   }, {
@@ -353,8 +457,36 @@
     "title" : "La caja azul",
     "type" : "OFFICIAL"
   }, {
+    "language" : "SPANISH_LATIN",
+    "title" : "La caja azul",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CZECH",
+    "title" : "Mládí na hřišti",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "POLISH",
     "title" : "Niebieskie pudełko",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CROATIAN",
+    "title" : "Plava kutija",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "UKRAINIAN",
+    "title" : "Блакитна скринька",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "HEBREW",
+    "title" : "האולם הכחול",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "THAI",
+    "title" : "กล่องรักวัยใส",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ARABIC",
+    "title" : "‎الصندوق الأزرق",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
@@ -363,6 +495,10 @@
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "青春之箱",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "푸른 상자",
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",

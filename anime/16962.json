@@ -100,6 +100,10 @@
       "name" : "Nakamura Touko",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "18695" : [ {
+      "name" : "Miura Takahiro",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "41962" : [ {
       "name" : "Yamazaki Yasuyuki",
       "type" : "MUSIC"
@@ -117,11 +121,12 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-08",
+      "description" : "Just after rescuing Celia from her wedding, Rio witnesses six pillars of light. He heads towards them at Aishia`s behest and finds three people he never imagined meeting in his world... and they need his help!\nSource: Crunchyroll",
       "episode_id" : 287008,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.16,
+        "rating" : 4.15,
         "total" : 3
       },
       "recap" : false,
@@ -144,12 +149,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-15",
+      "description" : "Rio takes Celia and Miharu to Amande to buy some daily necessities. At first, Miharu is bewildered by the strangeness of being in another world, but soon she`s enjoying the trip. Meanwhile, in the Beltrum Kingdom, a Hero appears before Princess Flora.\nSource: Crunchyroll",
       "episode_id" : 287009,
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.95,
-        "total" : 2
+        "rating" : 2.95,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -158,6 +164,9 @@
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Isekai Shopping"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Shopping dans un monde parallèle"
       }, {
         "language" : "ENGLISH",
         "title" : "Shopping in Another World"
@@ -168,11 +177,22 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-22",
+      "description" : "Rio returns to the Village of the Spirits with a request. While he`s there, Latifa has a quiet moment with him. Elsewhere, Liselotte goes to Sakata with an invitation to a royal party. Meanwhile, Miharu and the others are attacked by monsters!\nSource: Crunchyroll",
       "episode_id" : 287010,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.52,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UXW051" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Mon foyer pris pour cible"
+      }, {
         "language" : "ENGLISH",
         "title" : "My Home, Under Attack"
       }, {
@@ -185,24 +205,58 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-29",
+      "description" : "Rio brings Miharu and the others from his old world to the Village of Spirits, where they receive safe shelter. To welcome the visitors, the villagers are preparing a grand festival.\nSource: Crunchyroll",
       "episode_id" : 287011,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 5.72,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMG4WE" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Le Retour"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Okaerinasai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Welcome Home"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "おかえりなさい"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-11-05",
+      "description" : "Liselotte had to make an emergency landing with her airship due to a dragon and decides to continue her journey by land. At that moment, the hero Hiroaki offers to accompany her.\nSource: Crunchyroll",
       "episode_id" : 287713,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 3.19,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUWJK31" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Heroes and Champions"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le Héros et le Brave"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yuusha to Eiyuu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "勇者と英雄"
       } ],
       "type" : "REGULAR"
     }, {
@@ -212,8 +266,14 @@
       "number" : 6,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kioku no Kusabi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Lynchpin of Memories"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "記憶の楔"
       } ],
       "type" : "REGULAR"
     }, {
@@ -242,12 +302,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.61,
-      "total" : 16
+      "rating" : 3.89,
+      "total" : 29
     },
     "TEMPORARY" : {
-      "rating" : 6.53,
-      "total" : 16
+      "rating" : 6.05,
+      "total" : 29
     }
   },
   "related" : {
@@ -289,6 +349,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Seirei Gensouki: Spirit Chronicles 2",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ARABIC",
+    "title" : "سجلات الروح 2",
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",

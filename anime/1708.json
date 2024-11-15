@@ -134,7 +134,7 @@
       "length" : 4,
       "number" : 3,
       "rating" : {
-        "rating" : 2.81,
+        "rating" : 2.82,
         "total" : 4
       },
       "recap" : false,
@@ -376,7 +376,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.14,
-      "total" : 450
+      "total" : 451
     },
     "REVIEW" : {
       "rating" : 7.5,
@@ -384,7 +384,7 @@
     },
     "TEMPORARY" : {
       "rating" : 5.75,
-      "total" : 458
+      "total" : 459
     }
   },
   "resources" : {
@@ -411,6 +411,14 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -449,6 +457,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -672,6 +687,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5515" : {
       "info_box" : false,
       "name" : "faceless background characters",
@@ -684,6 +707,14 @@
       "info_box" : false,
       "name" : "randomness",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -758,6 +789,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6233" : {
       "info_box" : false,
       "name" : "tropes",
@@ -770,6 +809,14 @@
       "info_box" : false,
       "name" : "family life",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6399" : {
+      "info_box" : false,
+      "name" : "episodic",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

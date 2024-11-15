@@ -1,6 +1,30 @@
 {
   "anime_id" : 18258,
+  "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 125778,
+      "name" : "Aliante",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 125777,
+      "name" : "Liot",
+      "type" : "CHARACTER"
+    } ],
+    "MAIN" : [ {
+      "character_id" : 125775,
+      "name" : "Lingzi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 125776,
+      "name" : "Shi Cao Long",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
+    "65600" : [ {
+      "name" : "Lan Studio",
+      "type" : "ANIMATION_WORK"
+    } ],
     "68269" : [ {
       "name" : "Enomoto Kaisei",
       "type" : "ORIGINAL_WORK"
@@ -10,6 +34,7 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-02",
+      "description" : "Reiko and her dragon companion travel to the Kingdom of Asga. There, they are welcomed by General Edward and his troops - friendly... or?\nSource: Crunchyroll",
       "episode_id" : 286670,
       "length" : 15,
       "number" : 1,
@@ -34,6 +59,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-02",
+      "description" : "The appearance of another evil dragon spreads panic in Asga. In the midst of the confusion, Reiko and the dragon meet the ruler of the kingdom.\nSource: Crunchyroll",
       "episode_id" : 286671,
       "length" : 15,
       "number" : 2,
@@ -85,33 +111,53 @@
       "number" : 4,
       "recap" : false,
       "resources" : {
-        "CRUNCHY_ROLL" : [ "G50UMKE42" ]
+        "CRUNCHY_ROLL" : [ "G14UVQXXG", "G50UMKE42" ]
       },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hangyaku no Oujo Rosetta"
+      }, {
         "language" : "ENGLISH",
         "title" : "Rosetta, Princess of Rebellion"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "反逆の王女ロゼッタ"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-23",
+      "description" : "The situation seems desperate. The self-proclaimed disciple of the real evil dragon casually dismisses an attack and disappears along with Rosetta.\nSource: Crunchyroll",
       "episode_id" : 287353,
       "length" : 15,
       "number" : 5,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQNJJ9", "GWDU7VPKP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sei naru Jaryuu-sama no Shito"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "The True Disciple of the Evil Dragon"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "正なる邪竜様の使徒"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-30",
+      "description" : "Vanessa and Edward seek out the dragon to ask for his help. They want to assist Rosetta, who has entrenched herself in the palace basement after a dispute with Vanessa.\nSource: Crunchyroll",
       "episode_id" : 287354,
       "length" : 15,
       "number" : 6,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UXWDEE" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Rescue Mission"
       } ],
       "type" : "REGULAR"
     }, {
@@ -140,12 +186,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.2,
-      "total" : 3
+      "rating" : 5.7,
+      "total" : 5
     },
     "TEMPORARY" : {
-      "rating" : 4.66,
-      "total" : 3
+      "rating" : 6.4,
+      "total" : 5
     }
   },
   "related" : {
@@ -201,8 +247,8 @@
     }
   },
   "titles" : [ {
-    "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei Season 2",
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2",
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
@@ -217,8 +263,12 @@
     "title" : "齢5000年の草食ドラゴン, いわれなき邪竜認定 season2",
     "type" : "OFFICIAL"
   }, {
-    "language" : "CHINESE_TRANSLITERATED",
-    "title" : "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2",
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Yowai 5000-nen no Soushoku Dragon Season 2",
+    "type" : "SHORT"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei Season 2",
     "type" : "SYNONYM"
   }, {
     "language" : "CHINESE_SIMPLIFIED",

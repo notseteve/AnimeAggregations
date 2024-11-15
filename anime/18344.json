@@ -1,6 +1,15 @@
 {
   "anime_id" : 18344,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 144080,
+      "name" : "Kurokawa Taiga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144079,
+      "name" : "Yamashita Kobachi",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 139497,
       "name" : "Yokoya Hitoyoshi",
@@ -57,21 +66,26 @@
       "name" : "Tokuda Masahiro",
       "type" : "MUSIC"
     } ],
+    "72049" : [ {
+      "name" : "Yamazaki Ririka",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "74950" : [ {
       "name" : "Shotan",
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on a comedy romance slice-of-life manga by http://anidb.net/cr74950 [Shotan].\nTold from young that her only worth is as a killer, http://anidb.net/ch139498 [Yuki] had known nothing else except cold efficiency and following orders. Now that she has a chance to leave her past behind, she arrives at the doorstep of http://anidb.net/ch139497 [Yokoya Hitoyoshi], asking to be employed... as a maid?! Thus begins the journey of a former assassin learning what it means to be `normal`!\nSource: Shogakukan Asia\nNote: The first two episodes received an early screening at a special event on 14 September 2024 at Abema Anime Festival in Tokyo. The regular broadcast started on 6 October 2024.",
+  "description" : "* Based on a comedy romance slice-of-life manga by http://anidb.net/cr74950 [Shotan].\nTold from childhood that her only worth is as a killer, http://anidb.net/ch139498 [Yuki] had known nothing else except cold efficiency and following orders. Now that she has a chance to leave her past behind, she arrives at the doorstep of http://anidb.net/ch139497 [Yokoya Hitoyoshi], asking to be employed... as a maid?! Thus begins the journey of a former assassin learning what it means to be `normal`!\nSource: Shogakukan Asia\nNote: The first two episodes received an early screening at a special event on 14 September 2024 at Abema Anime Festival in Tokyo. The regular broadcast started on 6 October 2024.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-06",
+      "description" : "A maid suddenly appears at the house of high school student Hitoyoshi Yokoya, asking to be hired. However, her background as a former assassin makes Hitoyoshi think twice. From this fateful encounter, their lives together will forever be changed.\nSource: Crunchyroll",
       "episode_id" : 285996,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.59,
-        "total" : 3
+        "rating" : 3.8,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -90,12 +104,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-13",
+      "description" : "One day, Hitoyoshi is compelled to adopt a puppy that was left in front of his home. However, the maid has a childhood trauma involving dogs. Watching the two interact, the maid soon sees the world in a new light, even wishing to be \"normal\" herself.\nSource: Crunchyroll",
       "episode_id" : 286878,
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.27,
-        "total" : 3
+        "rating" : 2.7,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -114,24 +129,96 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-20",
+      "description" : "Riko, Hitoyoshi`s younger sister, pays him a visit to see the new puppy. As a lover of beautiful women, she easily gets along with Yuki despite her being a former assassin. In awe at Yuki`s skills, she decides to use her for a school assignment.\nSource: Crunchyroll",
       "episode_id" : 286879,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 4.86,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9ZPKN" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kimi wa Yuki-san."
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "You Are Ms. Yuki."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "君は雪さん."
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-10-27",
+      "description" : "To experience a \"normal\" school life, Yuki enrolls at the same school as Hitoyoshi. Seeing boys rush off, she finds out the school store sells a rare yakisoba bread. Yuki heads out the window, leaving Hitoyoshi to worry whether she`ll fit in or not.\nSource: Crunchyroll",
       "episode_id" : 286880,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 3.37,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U317V4" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kimi wa Nogasanai."
+      }, {
+        "language" : "ENGLISH",
+        "title" : "You Won`t Miss Out."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "君は逃さない."
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-03",
+      "episode_id" : 287933,
+      "length" : 25,
+      "number" : 5,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-10",
+      "episode_id" : 287934,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-17",
+      "episode_id" : 287935,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-24",
+      "episode_id" : 287936,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -152,6 +239,23 @@
         "title" : "秋の冥土様. 祭り ~放送記念SP~ 前半戦"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-10-26",
+      "episode_id" : 287963,
+      "length" : 30,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Aki no Meido-sama. Matsuri: Housou Kinen SP - Kouhansen"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode S2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "秋の冥土様. 祭り ~放送記念SP~ 後半戦"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "CREDITS" : [ {
       "air_date" : "2024-10-06",
@@ -170,7 +274,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 5.3,
+        "rating" : 5.32,
         "total" : 1
       },
       "recap" : false,
@@ -183,12 +287,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.01,
-      "total" : 22
+      "rating" : 3.93,
+      "total" : 45
     },
     "TEMPORARY" : {
-      "rating" : 5.52,
-      "total" : 22
+      "rating" : 5.91,
+      "total" : 45
     }
   },
   "resources" : {
@@ -201,6 +305,12 @@
     "WEBSITE" : [ "https://kimihameidosama-anime.com/" ],
     "WIKIPEDIA_EN" : [ "You_Are_Ms._Servant" ],
     "WIKIPEDIA_JP" : [ "君は冥土様。" ]
+  },
+  "similar" : {
+    "109" : {
+      "rating" : 10.0,
+      "total" : 2
+    }
   },
   "start_date" : "2024-10-06",
   "tags" : {
