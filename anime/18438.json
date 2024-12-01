@@ -250,7 +250,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.38,
+        "rating" : 4.39,
         "total" : 7
       },
       "recap" : false,
@@ -277,7 +277,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.07,
+        "rating" : 7.08,
         "total" : 5
       },
       "recap" : false,
@@ -304,7 +304,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.32,
+        "rating" : 6.33,
         "total" : 5
       },
       "recap" : false,
@@ -331,7 +331,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.97,
+        "rating" : 6.98,
         "total" : 5
       },
       "recap" : false,
@@ -358,7 +358,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.31,
+        "rating" : 7.32,
         "total" : 4
       },
       "recap" : false,
@@ -412,7 +412,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.12,
+        "rating" : 6.13,
         "total" : 4
       },
       "recap" : false,
@@ -457,6 +457,10 @@
       "episode_id" : 286301,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.11,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -469,8 +473,8 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 5.32,
-        "total" : 1
+        "rating" : 5.49,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -482,12 +486,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.48,
-      "total" : 476
+      "rating" : 3.49,
+      "total" : 502
     },
     "TEMPORARY" : {
-      "rating" : 5.93,
-      "total" : 481
+      "rating" : 5.97,
+      "total" : 507
     }
   },
   "resources" : {
@@ -504,16 +508,24 @@
   },
   "similar" : {
     "13246" : {
-      "rating" : 8.88888888888889,
-      "total" : 9
+      "rating" : 9.166666666666666,
+      "total" : 12
     },
     "13624" : {
-      "rating" : 8.947368421052632,
-      "total" : 38
+      "rating" : 9.0,
+      "total" : 40
     }
   },
   "start_date" : "2024-07-05",
   "tags" : {
+    "7" : {
+      "info_box" : false,
+      "name" : "juujin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "153" : {
       "info_box" : false,
       "name" : "dark elf",
@@ -590,6 +602,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2610" : {
       "info_box" : false,
       "name" : "setting",
@@ -612,10 +631,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2628" : {
       "info_box" : false,
       "name" : "fictional location",
       "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2646" : {
+      "info_box" : false,
+      "name" : "demon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2649" : {
+      "info_box" : true,
+      "name" : "dark fantasy",
+      "parent_tag_id" : 2849,
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
@@ -628,6 +671,22 @@
       "verified" : false,
       "weight" : 300
     },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2817" : {
+      "info_box" : false,
+      "name" : "skimpy clothing",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2841" : {
       "info_box" : true,
       "name" : "action",
@@ -635,6 +694,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2845" : {
+      "info_box" : false,
+      "name" : "blackmail",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2849" : {
       "info_box" : true,
@@ -652,6 +719,38 @@
       "verified" : false,
       "weight" : 400
     },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2866" : {
+      "info_box" : false,
+      "name" : "slavery",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2877" : {
       "info_box" : false,
       "name" : "revenge",
@@ -660,12 +759,44 @@
       "verified" : false,
       "weight" : 400
     },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2895" : {
+      "info_box" : false,
+      "name" : "dark-skinned girl",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2952" : {
+      "info_box" : false,
+      "name" : "rotten world",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "3040" : {
       "info_box" : false,
@@ -691,6 +822,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "3741" : {
+      "info_box" : false,
+      "name" : "bullying",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3915" : {
+      "info_box" : false,
+      "name" : "child abuse",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4064" : {
       "info_box" : false,
       "name" : "CGI",
@@ -699,10 +846,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4257" : {
+      "info_box" : false,
+      "name" : "survival",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "4398" : {
       "info_box" : false,
       "name" : "antihero",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -726,6 +897,14 @@
     "5824" : {
       "info_box" : false,
       "name" : "god is a girl",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
       "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
@@ -769,6 +948,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6744" : {
       "info_box" : true,
       "name" : "isekai",
@@ -785,6 +972,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "7398" : {
+      "info_box" : false,
+      "name" : "liberation of slaves",
+      "parent_tag_id" : 2866,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
@@ -792,6 +987,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7905" : {
+      "info_box" : false,
+      "name" : "large breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     }
   },
   "titles" : [ {

@@ -34,6 +34,14 @@
       "name" : "Bambietta Basterbine",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 37698,
+      "name" : "Dokugamine Riruka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 9333,
+      "name" : "Enjouji Tatsufusa",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 133798,
       "name" : "Giselle Gewelle",
       "type" : "CHARACTER"
@@ -130,6 +138,10 @@
       "name" : "Nanana Najahkoop",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 10163,
+      "name" : "Neliel Tu Oderschvank",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 121224,
       "name" : "Nimaiya Ouetsu",
       "type" : "CHARACTER"
@@ -198,6 +210,10 @@
       "name" : "Yadoumaru Lisa",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 9320,
+      "name" : "Yamada Hanatarou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 9307,
       "name" : "Yamamoto-Genryuusai Shigekuni",
       "type" : "CHARACTER"
@@ -208,6 +224,10 @@
     }, {
       "character_id" : 125405,
       "name" : "Yuki Ryuunosuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 37699,
+      "name" : "Yukio Hans Vorarlberna",
       "type" : "CHARACTER"
     }, {
       "character_id" : 133801,
@@ -401,7 +421,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.44,
+        "rating" : 7.5,
         "total" : 3
       },
       "recap" : false,
@@ -425,7 +445,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.98,
+        "rating" : 9.01,
         "total" : 2
       },
       "recap" : false,
@@ -449,7 +469,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.05,
+        "rating" : 7.14,
         "total" : 2
       },
       "recap" : false,
@@ -473,8 +493,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 1.89,
-        "total" : 2
+        "rating" : 1.82,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -496,6 +516,10 @@
       "episode_id" : 287581,
       "length" : 30,
       "number" : 5,
+      "rating" : {
+        "rating" : 3.83,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE",
@@ -516,6 +540,10 @@
       "episode_id" : 287582,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 3.15,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "GERMAN",
@@ -538,8 +566,17 @@
       "number" : 7,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "GATE OF THE SUN"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Gate of the Sun"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gate of the Sun"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Tor zur Sonne"
       } ],
       "type" : "REGULAR"
     }, {
@@ -549,8 +586,61 @@
       "number" : 8,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "BABY, HOLD YOUR HAND"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Baby, Hold Your Hand"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Baby, Hold Your Hand"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Baby, halte deine Hand"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-30",
+      "episode_id" : 288662,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-07",
+      "episode_id" : 288663,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-14",
+      "episode_id" : 288664,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-21",
+      "episode_id" : 288665,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -595,12 +685,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.17,
-      "total" : 27
+      "rating" : 6.96,
+      "total" : 33
     },
     "TEMPORARY" : {
-      "rating" : 7.58,
-      "total" : 28
+      "rating" : 7.42,
+      "total" : 34
     }
   },
   "related" : {

@@ -9,6 +9,10 @@
       "character_id" : 125777,
       "name" : "Liot",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 125779,
+      "name" : "Mizu no Seijo",
+      "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 125775,
@@ -39,7 +43,7 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 4.05,
+        "rating" : 4.06,
         "total" : 1
       },
       "recap" : false,
@@ -55,6 +59,9 @@
       }, {
         "language" : "JAPANESE",
         "title" : "アスガへようこそ!"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "欢迎来到亚斯嘉!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -64,7 +71,7 @@
       "length" : 15,
       "number" : 2,
       "rating" : {
-        "rating" : 4.05,
+        "rating" : 4.06,
         "total" : 1
       },
       "recap" : false,
@@ -77,6 +84,9 @@
       }, {
         "language" : "ENGLISH",
         "title" : "The Black Blood"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "漆黑之血"
       }, {
         "language" : "JAPANESE",
         "title" : "漆黒の血"
@@ -101,6 +111,9 @@
       }, {
         "language" : "JAPANESE",
         "title" : "国王の宿命"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "国王的宿命"
       } ],
       "type" : "REGULAR"
     }, {
@@ -122,6 +135,9 @@
       }, {
         "language" : "JAPANESE",
         "title" : "反逆の王女ロゼッタ"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "叛逆的公主萝洁塔"
       } ],
       "type" : "REGULAR"
     }, {
@@ -143,6 +159,9 @@
       }, {
         "language" : "JAPANESE",
         "title" : "正なる邪竜様の使徒"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "真正的邪龙使徒"
       } ],
       "type" : "REGULAR"
     }, {
@@ -153,45 +172,128 @@
       "number" : 6,
       "recap" : false,
       "resources" : {
-        "CRUNCHY_ROLL" : [ "GG1UXWDEE" ]
+        "CRUNCHY_ROLL" : [ "GG1UXWDEE", "GN7UNXWW1" ]
       },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyuujo Katsudou"
+      }, {
         "language" : "ENGLISH",
         "title" : "Rescue Mission"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "拯救行动"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "救助活動"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-11-06",
+      "description" : "The group encounters the great mage Pravas in the basement of the palace. He seems to know a lot about the dragon`s identity.\nSource: Crunchyroll",
       "episode_id" : 287355,
       "length" : 15,
       "number" : 7,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMG904", "GK9UGV88E" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai Madoushi Fukkatsu!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "The Great Mage Has Risen!"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "大魔导士复活!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "大魔導士復活!"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-11-13",
+      "description" : "With the help of the Water Saint, who is now a goddess, the dragon now knows what his opponent is plotting. But can he avert it?\nSource: Crunchyroll",
       "episode_id" : 287356,
       "length" : 15,
       "number" : 8,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUWJ8G4", "GMKUE9549" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Maryoku no Minamoto wa Kanjou no Chikara"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Source of Magic: The Power of Emotions."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "魔力の源は感情の力"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "魔力本源, 情绪之力"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-20",
+      "description" : "At the grave, the dragon and Queen Vanessa discover the true identity of the resurrected Pulaipas. But what about Rosetta and her plans now?",
+      "episode_id" : 288611,
+      "length" : 15,
+      "number" : 9,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU3PWVZ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "The Evil Dragon Is Descending!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-27",
+      "episode_id" : 288612,
+      "length" : 15,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-04",
+      "episode_id" : 288613,
+      "length" : 15,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-11",
+      "episode_id" : 288614,
+      "length" : 15,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.7,
-      "total" : 5
+      "rating" : 5.45,
+      "total" : 6
     },
     "TEMPORARY" : {
-      "rating" : 6.4,
-      "total" : 5
+      "rating" : 6.33,
+      "total" : 6
     }
   },
   "related" : {
@@ -265,7 +367,7 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Yowai 5000-nen no Soushoku Dragon Season 2",
-    "type" : "SHORT"
+    "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei Season 2",

@@ -18,6 +18,10 @@
       "name" : "Asfi Al Andromeda",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 78811,
+      "name" : "Bors Elder",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 101587,
       "name" : "Cassandra Ilion",
       "type" : "CHARACTER"
@@ -40,6 +44,14 @@
     }, {
       "character_id" : 72287,
       "name" : "Eina Tulle",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 90025,
+      "name" : "Farger Batros",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 88885,
+      "name" : "Fels",
       "type" : "CHARACTER"
     }, {
       "character_id" : 74540,
@@ -90,12 +102,24 @@
       "name" : "Rehmer",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 90021,
+      "name" : "Royman Mardeel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 90018,
+      "name" : "Rurune Ruui",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 144234,
       "name" : "Scott Olds",
       "type" : "CHARACTER"
     }, {
       "character_id" : 108077,
       "name" : "Soma",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 88883,
+      "name" : "Uranus",
       "type" : "CHARACTER"
     }, {
       "character_id" : 108083,
@@ -213,7 +237,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.97,
+        "rating" : 3.98,
         "total" : 5
       },
       "recap" : false,
@@ -240,7 +264,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.08,
+        "rating" : 5.09,
         "total" : 4
       },
       "recap" : false,
@@ -267,7 +291,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.44,
+        "rating" : 5.46,
         "total" : 3
       },
       "recap" : false,
@@ -294,7 +318,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.28,
+        "rating" : 7.3,
         "total" : 3
       },
       "recap" : false,
@@ -321,16 +345,22 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.58,
-        "total" : 1
+        "rating" : 5.07,
+        "total" : 2
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUWJ8EE" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Freya Familia"
       }, {
         "language" : "ENGLISH",
         "title" : "Freya Familia: Invasion"
+      }, {
+        "language" : "FRENCH",
+        "title" : "La Familia de Freya - Invasion"
       }, {
         "language" : "JAPANESE",
         "title" : "侵略[フレイヤ・ファミリア]"
@@ -341,10 +371,20 @@
       "episode_id" : 287384,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 8.71,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU3PW9J" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Orario"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Orario - La cité altérée"
       }, {
         "language" : "ENGLISH",
         "title" : "Orario: Distorted City"
@@ -358,10 +398,20 @@
       "episode_id" : 287385,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 5.07,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Loneliness"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Loneliness: Separated"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "別離[ロンリネス]"
       } ],
       "type" : "REGULAR"
     }, {
@@ -371,8 +421,58 @@
       "number" : 8,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bell Cranel"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Bell Cranel: Desires"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "憧憬[ベル・クラネル]"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-11-28",
+      "episode_id" : 288653,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-05",
+      "episode_id" : 288654,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-12",
+      "episode_id" : 288655,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-19",
+      "episode_id" : 288656,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -397,8 +497,8 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 9.67,
-        "total" : 1
+        "rating" : 9.95,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -410,12 +510,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.57,
-      "total" : 33
+      "rating" : 5.78,
+      "total" : 42
     },
     "TEMPORARY" : {
-      "rating" : 6.57,
-      "total" : 34
+      "rating" : 6.72,
+      "total" : 44
     }
   },
   "related" : {
@@ -526,12 +626,20 @@
     "title" : "ダンまちⅤ",
     "type" : "SHORT"
   }, {
+    "language" : "ENGLISH",
+    "title" : "DanMachi Season 5",
+    "type" : "SYNONYM"
+  }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka V: Houjou no Megami Hen",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth Season 5",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Is It Wrong to Try to Pick Up Girls in a Dungeon? Season 5",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE",

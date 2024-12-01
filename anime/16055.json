@@ -2,6 +2,10 @@
   "anime_id" : 16055,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 144322,
+      "name" : "Epona Liannenon",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 120870,
       "name" : "Kelly",
       "type" : "CHARACTER"
@@ -345,7 +349,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.42,
+        "rating" : 6.41,
         "total" : 9
       },
       "recap" : false,
@@ -447,7 +451,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 9.48,
+        "rating" : 9.53,
         "total" : 1
       },
       "recap" : false,
@@ -462,7 +466,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 7.09,
+        "rating" : 7.16,
         "total" : 1
       },
       "recap" : false,
@@ -477,7 +481,7 @@
       "length" : 2,
       "number" : 3,
       "rating" : {
-        "rating" : 7.09,
+        "rating" : 7.16,
         "total" : 1
       },
       "recap" : false,
@@ -492,7 +496,7 @@
       "length" : 2,
       "number" : 4,
       "rating" : {
-        "rating" : 7.09,
+        "rating" : 7.16,
         "total" : 1
       },
       "recap" : false,
@@ -507,7 +511,7 @@
       "length" : 2,
       "number" : 5,
       "rating" : {
-        "rating" : 7.09,
+        "rating" : 7.16,
         "total" : 1
       },
       "recap" : false,
@@ -522,7 +526,7 @@
       "length" : 2,
       "number" : 6,
       "rating" : {
-        "rating" : 7.09,
+        "rating" : 7.16,
         "total" : 1
       },
       "recap" : false,
@@ -570,12 +574,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.58,
-      "total" : 1567
+      "rating" : 5.59,
+      "total" : 1579
     },
     "TEMPORARY" : {
       "rating" : 6.9,
-      "total" : 1574
+      "total" : 1586
     }
   },
   "related" : {
@@ -618,6 +622,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2072" : {
+      "info_box" : false,
+      "name" : "maid",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2094" : {
       "info_box" : true,
       "name" : "magic",
@@ -625,6 +637,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2391" : {
+      "info_box" : false,
+      "name" : "bishoujo",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2568" : {
+      "info_box" : false,
+      "name" : "deity",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2604" : {
       "info_box" : false,
@@ -661,9 +689,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -680,6 +723,22 @@
       "info_box" : false,
       "name" : "gunfights",
       "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2634" : {
+      "info_box" : false,
+      "name" : "countryside",
+      "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
@@ -748,6 +807,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2842" : {
+      "info_box" : false,
+      "name" : "incest",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2849" : {
       "info_box" : true,
       "name" : "fantasy",
@@ -802,7 +869,7 @@
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 100
     },
     "2878" : {
       "info_box" : false,
@@ -826,7 +893,7 @@
       "parent_tag_id" : 2874,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 100
     },
     "2931" : {
       "info_box" : false,
@@ -859,6 +926,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3150" : {
       "info_box" : false,
       "name" : "social class issues",
@@ -867,10 +942,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "3374" : {
+      "info_box" : false,
+      "name" : "civil war",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3379" : {
       "info_box" : false,
       "name" : "killing criminals",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3395" : {
+      "info_box" : false,
+      "name" : "promise",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3575" : {
+      "info_box" : false,
+      "name" : "damsel in distress",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -891,6 +990,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3797" : {
+      "info_box" : false,
+      "name" : "trapped in the body of a child",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3831" : {
       "info_box" : false,
       "name" : "training",
@@ -898,6 +1005,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "3843" : {
+      "info_box" : false,
+      "name" : "saving the world",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "3915" : {
       "info_box" : false,
@@ -911,6 +1026,14 @@
       "info_box" : false,
       "name" : "kidnapping",
       "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4246" : {
+      "info_box" : false,
+      "name" : "childhood promise",
+      "parent_tag_id" : 3395,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -939,6 +1062,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5459" : {
+      "info_box" : false,
+      "name" : "poverty",
+      "parent_tag_id" : 6243,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5543" : {
       "info_box" : false,
       "name" : "magic school",
@@ -963,10 +1094,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "5824" : {
+      "info_box" : false,
+      "name" : "god is a girl",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5889" : {
       "info_box" : false,
       "name" : "magic weapons",
       "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1014,6 +1161,22 @@
       "info_box" : false,
       "name" : "death",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6243" : {
+      "info_box" : false,
+      "name" : "money",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1089,6 +1252,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "7509" : {
+      "info_box" : false,
+      "name" : "fall of a country",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7871" : {
       "info_box" : false,

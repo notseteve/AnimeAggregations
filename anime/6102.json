@@ -47,7 +47,7 @@
     } ]
   },
   "description" : "This OVA is a collection of school ghost stories.",
-  "end_date" : "1999-06-11",
+  "end_date" : "1997-12-12",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "1995-10-21",
@@ -57,7 +57,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Volume 1"
+        "title" : "Forgotten Notebook / Batting Ghost / Cursed Summer Camp / Night on a School Trip / Hanako-san / Red Eyes"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Wasureta Note / Batting Suru Bourei / Norowareta Natsu Gasshuku / Shuugakuryokou no Yoru / Hanako-san / Akai Me"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "忘れたノート / バッティングする亡霊 / 呪われた夏合宿 / 修学旅行の夜 / 花子さん / 赤い目"
       } ],
       "type" : "REGULAR"
     }, {
@@ -115,35 +121,27 @@
         "title" : "Volume 6"
       } ],
       "type" : "REGULAR"
-    }, {
-      "air_date" : "1999-06-11",
-      "episode_id" : 225134,
-      "length" : 50,
-      "number" : 7,
-      "recap" : false,
-      "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 7"
-      } ],
-      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.29,
-      "total" : 13
+      "rating" : 4.25,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 4.61,
-      "total" : 13
+      "rating" : 4.5,
+      "total" : 14
     }
   },
+  "related" : {
+    "OTHER" : [ 18978 ]
+  },
   "resources" : {
-    "ALL_CINEMA" : [ "88273" ],
+    "ALL_CINEMA" : [ "88273", "235655", "235656", "235657", "235658", "235659" ],
     "ANIME_NFO" : [ "3320,zzijho" ],
     "ANISON" : [ "3616", "11090", "11149", "11150", "11151", "11216" ],
     "ANN" : [ "10213" ],
-    "MAL" : [ "20353", "35121" ]
+    "MAL" : [ "20353" ]
   },
   "start_date" : "1995-10-21",
   "tags" : {
@@ -279,6 +277,10 @@
     "language" : "JAPANESE",
     "title" : "学校の幽霊",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "School Ghosts",
+    "type" : "SYNONYM"
   } ],
   "type" : "OVA"
 }

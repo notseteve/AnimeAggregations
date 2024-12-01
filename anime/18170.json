@@ -2,6 +2,18 @@
   "anime_id" : 18170,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 144582,
+      "name" : "Chokaro",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144584,
+      "name" : "Gaishi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144578,
+      "name" : "Gas Mask",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143975,
       "name" : "Gyuuki",
       "type" : "CHARACTER"
@@ -14,8 +26,32 @@
       "name" : "Kansetsuri",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 144585,
+      "name" : "Kanshoushi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144579,
+      "name" : "Kasenko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144577,
+      "name" : "Rabbit Mask",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144580,
+      "name" : "Ryodouhin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144710,
+      "name" : "Sanhime",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 144202,
       "name" : "Shungei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144583,
+      "name" : "Soukokusyu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 144206,
@@ -46,6 +82,10 @@
     }, {
       "character_id" : 144203,
       "name" : "Hiki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144581,
+      "name" : "Houryuusei",
       "type" : "CHARACTER"
     }, {
       "character_id" : 143977,
@@ -86,6 +126,10 @@
       "name" : "Satou Masaki",
       "type" : "CHARACTER_DESIGN"
     } ],
+    "11937" : [ {
+      "name" : "Gotan Takayuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "27278" : [ {
       "name" : "Takayama Shinobu",
       "type" : "ORIGINAL_WORK"
@@ -112,6 +156,7 @@
     } ]
   },
   "description" : "Note: The first episode received an early screening at a special event on 22 September 2024 at United Cinemas Toyosu in Tokyo. The regular TV broadcast started on 7 October 2024.",
+  "end_date" : "2024-12-30",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-07",
@@ -119,7 +164,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.64,
+        "rating" : 2.62,
         "total" : 2
       },
       "recap" : false,
@@ -140,7 +185,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.64,
+        "rating" : 2.62,
         "total" : 2
       },
       "recap" : false,
@@ -213,8 +258,14 @@
       "number" : 6,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Konton no Mai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Chaos Dance"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "渾沌之舞"
       } ],
       "type" : "REGULAR"
     }, {
@@ -224,31 +275,92 @@
       "number" : 7,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bouryuu no Mai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "The Dragon Fury Dance"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "暴龍之舞"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-11-25",
       "episode_id" : 287704,
       "length" : 25,
       "number" : 8,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "The Sea Shanty Dance"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Touka no Mai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "櫂歌之舞"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 288832,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 288833,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 288834,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 288835,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 288836,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 13"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.42,
-      "total" : 12
+      "rating" : 3.07,
+      "total" : 16
     },
     "TEMPORARY" : {
-      "rating" : 5.25,
-      "total" : 12
+      "rating" : 4.87,
+      "total" : 16
     }
   },
   "resources" : {

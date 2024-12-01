@@ -243,12 +243,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.89,
-      "total" : 1105
+      "rating" : 7.9,
+      "total" : 1107
     },
     "TEMPORARY" : {
       "rating" : 7.64,
-      "total" : 1109
+      "total" : 1111
     }
   },
   "related" : {
@@ -297,6 +297,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
@@ -325,12 +332,51 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2651" : {
+      "info_box" : false,
+      "name" : "absurdist humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2654" : {
       "info_box" : false,
@@ -341,12 +387,36 @@
       "weight" : 200
     },
     "2655" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "parody",
       "parent_tag_id" : 2853,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 400
+    },
+    "2656" : {
+      "info_box" : false,
+      "name" : "satire",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2787" : {
       "info_box" : false,
@@ -371,6 +441,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "2853" : {
       "info_box" : true,
@@ -399,6 +477,22 @@
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2964" : {
+      "info_box" : false,
+      "name" : "OP variety",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -443,6 +537,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4462" : {
       "info_box" : false,
       "name" : "barefoot",
@@ -467,6 +569,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5227" : {
+      "info_box" : false,
+      "name" : "alternating animation style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5769" : {
       "info_box" : false,
       "name" : "panels that require pausing",
@@ -482,6 +592,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "5980" : {
+      "info_box" : false,
+      "name" : "live-action imagery",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5993" : {
+      "info_box" : false,
+      "name" : "black humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "6030" : {
       "info_box" : false,
@@ -509,6 +635,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

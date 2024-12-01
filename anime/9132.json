@@ -818,7 +818,7 @@
       "length" : 25,
       "number" : 23,
       "rating" : {
-        "rating" : 8.37,
+        "rating" : 8.36,
         "total" : 12
       },
       "recap" : false,
@@ -1219,7 +1219,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.43,
-      "total" : 2307
+      "total" : 2310
     },
     "REVIEW" : {
       "rating" : 5.83,
@@ -1227,7 +1227,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.77,
-      "total" : 2315
+      "total" : 2317
     }
   },
   "related" : {
@@ -1316,6 +1316,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "1760" : {
+      "info_box" : false,
+      "name" : "bishounen",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "1802" : {
       "info_box" : true,
       "name" : "seinen",
@@ -1332,6 +1340,14 @@
       "verified" : false,
       "weight" : 500
     },
+    "2391" : {
+      "info_box" : false,
+      "name" : "bishoujo",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2555" : {
       "info_box" : false,
       "name" : "amnesia",
@@ -1347,6 +1363,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2605" : {
       "info_box" : false,
@@ -1469,6 +1492,22 @@
       "verified" : false,
       "weight" : 600
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2782" : {
       "info_box" : false,
       "name" : "shoujo ai",
@@ -1485,13 +1524,21 @@
       "verified" : false,
       "weight" : 200
     },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2791" : {
       "info_box" : false,
       "name" : "stereotypes",
       "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 600
+      "weight" : 400
     },
     "2800" : {
       "info_box" : true,
@@ -1597,6 +1644,14 @@
       "verified" : false,
       "weight" : 500
     },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2881" : {
       "info_box" : false,
       "name" : "sports",
@@ -1628,6 +1683,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2931" : {
       "info_box" : false,
@@ -1708,6 +1771,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4663" : {
+      "info_box" : false,
+      "name" : "tone changes",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "4729" : {
       "info_box" : false,
       "name" : "colour coded",
@@ -1731,6 +1802,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "5842" : {
+      "info_box" : false,
+      "name" : "guerilla warfare",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "5843" : {
       "info_box" : false,
@@ -1768,6 +1847,14 @@
       "info_box" : false,
       "name" : "girly tears",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6029" : {
+      "info_box" : false,
+      "name" : "mundane made awesome",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

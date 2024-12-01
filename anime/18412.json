@@ -103,7 +103,7 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 5.38,
+        "rating" : 5.4,
         "total" : 3
       },
       "recap" : false,
@@ -127,7 +127,7 @@
       "length" : 15,
       "number" : 2,
       "rating" : {
-        "rating" : 5.38,
+        "rating" : 5.4,
         "total" : 3
       },
       "recap" : false,
@@ -151,7 +151,7 @@
       "length" : 15,
       "number" : 3,
       "rating" : {
-        "rating" : 5.17,
+        "rating" : 5.2,
         "total" : 2
       },
       "recap" : false,
@@ -175,7 +175,7 @@
       "length" : 15,
       "number" : 4,
       "rating" : {
-        "rating" : 2.18,
+        "rating" : 2.19,
         "total" : 2
       },
       "recap" : false,
@@ -199,7 +199,7 @@
       "length" : 15,
       "number" : 5,
       "rating" : {
-        "rating" : 2.18,
+        "rating" : 2.19,
         "total" : 2
       },
       "recap" : false,
@@ -223,7 +223,7 @@
       "length" : 15,
       "number" : 6,
       "rating" : {
-        "rating" : 2.18,
+        "rating" : 2.19,
         "total" : 2
       },
       "recap" : false,
@@ -247,7 +247,7 @@
       "length" : 15,
       "number" : 7,
       "rating" : {
-        "rating" : 3.47,
+        "rating" : 3.49,
         "total" : 2
       },
       "recap" : false,
@@ -271,7 +271,7 @@
       "length" : 15,
       "number" : 8,
       "rating" : {
-        "rating" : 3.47,
+        "rating" : 3.49,
         "total" : 2
       },
       "recap" : false,
@@ -295,7 +295,7 @@
       "length" : 15,
       "number" : 9,
       "rating" : {
-        "rating" : 2.18,
+        "rating" : 2.19,
         "total" : 2
       },
       "recap" : false,
@@ -319,7 +319,7 @@
       "length" : 15,
       "number" : 10,
       "rating" : {
-        "rating" : 3.47,
+        "rating" : 3.49,
         "total" : 2
       },
       "recap" : false,
@@ -343,7 +343,7 @@
       "length" : 15,
       "number" : 11,
       "rating" : {
-        "rating" : 2.23,
+        "rating" : 2.25,
         "total" : 2
       },
       "recap" : false,
@@ -367,7 +367,7 @@
       "length" : 15,
       "number" : 12,
       "rating" : {
-        "rating" : 1.48,
+        "rating" : 1.49,
         "total" : 2
       },
       "recap" : false,
@@ -392,7 +392,7 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 1.42,
+        "rating" : 1.43,
         "total" : 1
       },
       "recap" : false,
@@ -413,7 +413,7 @@
       "length" : 15,
       "number" : 2,
       "rating" : {
-        "rating" : 1.42,
+        "rating" : 1.43,
         "total" : 1
       },
       "recap" : false,
@@ -709,7 +709,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 1.7,
+        "rating" : 1.71,
         "total" : 2
       },
       "recap" : false,
@@ -752,12 +752,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.17,
-      "total" : 129
+      "rating" : 2.22,
+      "total" : 139
     },
     "TEMPORARY" : {
-      "rating" : 4.73,
-      "total" : 130
+      "rating" : 4.7,
+      "total" : 140
     }
   },
   "resources" : {
@@ -773,6 +773,13 @@
   },
   "start_date" : "2024-07-07",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -786,6 +793,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2798" : {
       "info_box" : true,

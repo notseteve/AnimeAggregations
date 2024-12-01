@@ -190,7 +190,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.2,
+        "rating" : 6.21,
         "total" : 9
       },
       "recap" : false,
@@ -215,7 +215,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.13,
+        "rating" : 6.14,
         "total" : 9
       },
       "recap" : false,
@@ -240,7 +240,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.73,
+        "rating" : 5.74,
         "total" : 9
       },
       "recap" : false,
@@ -265,7 +265,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.53,
+        "rating" : 7.54,
         "total" : 9
       },
       "recap" : false,
@@ -290,7 +290,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.58,
+        "rating" : 7.59,
         "total" : 9
       },
       "recap" : false,
@@ -315,7 +315,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.09,
+        "rating" : 5.1,
         "total" : 8
       },
       "recap" : false,
@@ -340,7 +340,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.45,
+        "rating" : 6.46,
         "total" : 6
       },
       "recap" : false,
@@ -365,7 +365,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.2,
+        "rating" : 5.21,
         "total" : 6
       },
       "recap" : false,
@@ -390,7 +390,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 4.02,
+        "rating" : 4.03,
         "total" : 6
       },
       "recap" : false,
@@ -506,12 +506,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.63,
-      "total" : 578
+      "rating" : 3.65,
+      "total" : 589
     },
     "TEMPORARY" : {
-      "rating" : 5.93,
-      "total" : 579
+      "rating" : 5.94,
+      "total" : 590
     }
   },
   "resources" : {
@@ -528,8 +528,8 @@
   },
   "similar" : {
     "15201" : {
-      "rating" : 10.0,
-      "total" : 3
+      "rating" : 7.5,
+      "total" : 4
     },
     "17222" : {
       "rating" : 10.0,
@@ -546,12 +546,28 @@
   },
   "start_date" : "2024-04-08",
   "tags" : {
+    "7" : {
+      "info_box" : true,
+      "name" : "juujin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "1973" : {
+      "info_box" : false,
+      "name" : "cooking",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2094" : {
       "info_box" : true,
@@ -560,6 +576,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2143" : {
+      "info_box" : false,
+      "name" : "succubus",
+      "parent_tag_id" : 2646,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2355" : {
+      "info_box" : false,
+      "name" : "dragon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2604" : {
       "info_box" : false,
@@ -578,6 +610,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -667,6 +706,94 @@
       "verified" : false,
       "weight" : 600
     },
+    "2855" : {
+      "info_box" : false,
+      "name" : "under one roof",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2859" : {
+      "info_box" : false,
+      "name" : "harem",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2868" : {
+      "info_box" : false,
+      "name" : "racism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2892" : {
+      "info_box" : false,
+      "name" : "housewives",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2895" : {
+      "info_box" : false,
+      "name" : "dark-skinned girl",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "3020" : {
       "info_box" : false,
       "name" : "chibi ED",
@@ -683,10 +810,58 @@
       "verified" : false,
       "weight" : 0
     },
+    "3129" : {
+      "info_box" : false,
+      "name" : "fake relationship",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3432" : {
+      "info_box" : false,
+      "name" : "pacifism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3718" : {
+      "info_box" : false,
+      "name" : "love between enemies",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4128" : {
+      "info_box" : false,
+      "name" : "zero to hero",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4176" : {
       "info_box" : false,
       "name" : "OP and ED sung by cast",
       "parent_tag_id" : 6148,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -703,6 +878,22 @@
       "info_box" : false,
       "name" : "nearly almighty protagonist",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6083" : {
+      "info_box" : false,
+      "name" : "master-servant relationship",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

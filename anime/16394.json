@@ -23,7 +23,7 @@
       "length" : 9,
       "number" : 1,
       "rating" : {
-        "rating" : 8.36,
+        "rating" : 8.37,
         "total" : 3
       },
       "recap" : false,
@@ -53,6 +53,14 @@
   },
   "start_date" : "2021-07-23",
   "tags" : {
+    "1241" : {
+      "info_box" : false,
+      "name" : "swimming",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
@@ -81,9 +89,32 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -96,6 +127,46 @@
       "verified" : false,
       "weight" : 0
     },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2753" : {
+      "info_box" : false,
+      "name" : "track and field",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2758" : {
+      "info_box" : false,
+      "name" : "volleyball",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2760" : {
+      "info_box" : false,
+      "name" : "basketball",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2797" : {
       "info_box" : true,
       "name" : "new",
@@ -103,6 +174,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2831" : {
+      "info_box" : false,
+      "name" : "Europe",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2832" : {
+      "info_box" : false,
+      "name" : "Americas",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2835" : {
+      "info_box" : false,
+      "name" : "Africa",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2849" : {
       "info_box" : true,
@@ -120,10 +223,50 @@
       "verified" : false,
       "weight" : 400
     },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "3394" : {
       "info_box" : false,
       "name" : "environmentalism",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3816" : {
+      "info_box" : false,
+      "name" : "high jump",
+      "parent_tag_id" : 2753,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3941" : {
+      "info_box" : false,
+      "name" : "flood",
+      "parent_tag_id" : 2874,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -144,6 +287,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4570" : {
+      "info_box" : false,
+      "name" : "watercolour style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4588" : {
       "info_box" : false,
       "name" : "fast-paced",
@@ -151,6 +302,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4677" : {
+      "info_box" : false,
+      "name" : "Olympics",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5826" : {
+      "info_box" : false,
+      "name" : "rivalry",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "6151" : {
       "info_box" : false,
@@ -181,6 +348,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7082" : {
+      "info_box" : false,
+      "name" : "Oceania",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "7797" : {
+      "info_box" : false,
+      "name" : "climbing",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,

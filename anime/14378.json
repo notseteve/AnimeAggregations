@@ -181,12 +181,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.6,
-      "total" : 166
+      "rating" : 3.59,
+      "total" : 168
     },
     "TEMPORARY" : {
       "rating" : 5.5,
-      "total" : 171
+      "total" : 173
     }
   },
   "resources" : {
@@ -257,6 +257,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -360,6 +367,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "2715" : {
+      "info_box" : true,
+      "name" : "rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2718" : {
+      "info_box" : false,
+      "name" : "male rape victim",
+      "parent_tag_id" : 2715,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2722" : {
+      "info_box" : false,
+      "name" : "doggy style",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2729" : {
       "info_box" : false,
       "name" : "BDSM",
@@ -367,6 +398,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2733" : {
+      "info_box" : false,
+      "name" : "enjoyable rape",
+      "parent_tag_id" : 2715,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2748" : {
       "info_box" : true,
@@ -408,6 +447,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2817" : {
+      "info_box" : false,
+      "name" : "skimpy clothing",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2848" : {
       "info_box" : false,
       "name" : "pornography",
@@ -423,6 +470,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2884" : {
       "info_box" : false,
@@ -456,6 +511,46 @@
       "verified" : false,
       "weight" : 100
     },
+    "2902" : {
+      "info_box" : false,
+      "name" : "facesitting",
+      "parent_tag_id" : 2729,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5786" : {
+      "info_box" : false,
+      "name" : "erotic asphyxiation",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6151" : {
       "info_box" : false,
       "name" : "technical aspects",
@@ -466,6 +561,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -494,10 +605,50 @@
       "verified" : false,
       "weight" : 0
     },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7004" : {
+      "info_box" : false,
+      "name" : "prostate massage",
+      "parent_tag_id" : 7403,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "7050" : {
       "info_box" : false,
       "name" : "speculative fiction",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7220" : {
+      "info_box" : false,
+      "name" : "sexual abuse",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7403" : {
+      "info_box" : false,
+      "name" : "anal fingering",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "7422" : {
+      "info_box" : false,
+      "name" : "reverse spitroast",
+      "parent_tag_id" : 2696,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

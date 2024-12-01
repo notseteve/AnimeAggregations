@@ -2,6 +2,18 @@
   "anime_id" : 18193,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 144418,
+      "name" : "Funazou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144666,
+      "name" : "Hirosawa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144419,
+      "name" : "Misaki",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 144188,
       "name" : "Tonouchi Yoshio",
       "type" : "CHARACTER"
@@ -18,6 +30,10 @@
     }, {
       "character_id" : 144064,
       "name" : "Chirinu Iroha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144662,
+      "name" : "Fujita",
       "type" : "CHARACTER"
     }, {
       "character_id" : 144055,
@@ -40,8 +56,20 @@
       "name" : "Inoue Genzaburou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 144665,
+      "name" : "Keishirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144664,
+      "name" : "Kimura Juutarou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 136797,
       "name" : "Kondou Isami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144661,
+      "name" : "Matsudaira Katamori",
       "type" : "CHARACTER"
     }, {
       "character_id" : 144054,
@@ -66,6 +94,10 @@
     }, {
       "character_id" : 136796,
       "name" : "Serizawa Kamo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144663,
+      "name" : "Seto",
       "type" : "CHARACTER"
     }, {
       "character_id" : 136795,
@@ -126,10 +158,13 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.27,
+        "rating" : 3.33,
         "total" : 3
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNX948" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Miburo to Shounen"
@@ -147,10 +182,13 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 1.74,
+        "rating" : 1.77,
         "total" : 3
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UGV0X7" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A World Where It`s Okay to Cry"
@@ -168,10 +206,13 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.2,
-        "total" : 2
+        "rating" : 3.36,
+        "total" : 3
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUE97VZ" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Tamashii no Arika"
@@ -188,6 +229,10 @@
       "episode_id" : 287050,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 4.17,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -207,8 +252,14 @@
       "number" : 5,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kokorozashi wa Hitotsu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "United in Purpose"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "志は一つ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -218,8 +269,14 @@
       "number" : 6,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sorezore no Seigi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "To Each His Own Justice"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "それぞれの正義"
       } ],
       "type" : "REGULAR"
     }, {
@@ -248,12 +305,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.67,
-      "total" : 17
+      "rating" : 4.73,
+      "total" : 20
     },
     "TEMPORARY" : {
-      "rating" : 5.94,
-      "total" : 17
+      "rating" : 6.15,
+      "total" : 20
     }
   },
   "resources" : {
@@ -286,6 +343,13 @@
       "info_box" : false,
       "name" : "child soldier",
       "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -414,9 +478,25 @@
       "verified" : false,
       "weight" : 100
     },
+    "5823" : {
+      "info_box" : false,
+      "name" : "predominantly male cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

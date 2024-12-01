@@ -2,6 +2,22 @@
   "anime_id" : 18266,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 144422,
+      "name" : "Darken",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144423,
+      "name" : "Landeus",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144421,
+      "name" : "Master",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144420,
+      "name" : "Stella",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142817,
       "name" : "Zadu",
       "type" : "CHARACTER"
@@ -26,6 +42,10 @@
     }, {
       "character_id" : 139451,
       "name" : "Dandalg",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144424,
+      "name" : "Deridas Sansei",
       "type" : "CHARACTER"
     }, {
       "character_id" : 141730,
@@ -132,7 +152,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.04,
+        "rating" : 5.03,
         "total" : 7
       },
       "recap" : false,
@@ -180,7 +200,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.23,
+        "rating" : 4.22,
         "total" : 6
       },
       "recap" : false,
@@ -414,6 +434,10 @@
       "episode_id" : 283999,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.67,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -426,8 +450,8 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 5.33,
-        "total" : 1
+        "rating" : 4.76,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -439,12 +463,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.26,
-      "total" : 497
+      "rating" : 4.25,
+      "total" : 512
     },
     "TEMPORARY" : {
-      "rating" : 6.13,
-      "total" : 498
+      "rating" : 6.14,
+      "total" : 513
     }
   },
   "resources" : {
@@ -499,6 +523,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -708,6 +739,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "3896" : {
       "info_box" : false,
       "name" : "bloodless wounds",
@@ -740,6 +779,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4198" : {
+      "info_box" : false,
+      "name" : "hard work and guts",
+      "parent_tag_id" : 5604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4474" : {
       "info_box" : false,
       "name" : "self-parody",
@@ -768,6 +815,14 @@
       "info_box" : false,
       "name" : "nearly almighty protagonist",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5604" : {
+      "info_box" : false,
+      "name" : "following one`s dream",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -1,13 +1,52 @@
 {
   "anime_id" : 16422,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 114449,
+      "name" : "Hasegawa Langa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114451,
+      "name" : "Kyan Reki",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 115691,
+      "name" : "Chinen Miya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 115692,
+      "name" : "Higa Hiromi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114452,
+      "name" : "Kikuchi Tadashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 115694,
+      "name" : "Nanjou Kojirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 115693,
+      "name" : "Sakurayashiki Kaoru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 115695,
+      "name" : "Shindou Ainosuke",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "105" : [ {
       "name" : "Chiba Michinori",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Chiba Michinori",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "755" : [ {
       "name" : "Bones",
-      "type" : "ANIMATION_WORK"
+      "type" : "ORIGINAL_WORK"
     } ],
     "1857" : [ {
       "name" : "Ookouchi Ichirou",
@@ -16,6 +55,33 @@
     "2531" : [ {
       "name" : "Utsumi Hiroko",
       "type" : "DIRECTOR"
+    }, {
+      "name" : "Utsumi Hiroko",
+      "type" : "ORIGINAL_WORK"
+    } ],
+    "40304" : [ {
+      "name" : "Takahashi Ryou",
+      "type" : "MUSIC"
+    } ],
+    "79234" : [ {
+      "name" : "Bones Film",
+      "type" : "ANIMATION_WORK"
+    } ]
+  },
+  "description" : "Note: The OVA got an early theatrical screening on January 24 for a limited time across 10 theaters in Japan.",
+  "end_date" : "2025-03-19",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-03-19",
+      "episode_id" : 288710,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "OVA"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "related" : {
@@ -26,11 +92,11 @@
     "ANN" : [ "26224" ],
     "MAL" : [ "49363" ],
     "TWITTER" : [ "sk8_project" ],
-    "WEBSITE" : [ "https://sk8-project.com/" ],
+    "WEBSITE" : [ "https://sk8-project.com/ova/" ],
     "WIKIPEDIA_EN" : [ "SK8_the_Infinity" ],
     "WIKIPEDIA_JP" : [ "SK∞_エスケーエイト" ]
   },
-  "start_date" : "1970-01-01",
+  "start_date" : "2025-03-19",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -50,21 +116,21 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "SK8 (OVA)",
+    "title" : "SK8 Extra Part",
     "type" : "MAIN"
   }, {
     "language" : "JAPANESE",
-    "title" : "SK∞ (OVA)",
+    "title" : "SK∞ EXTRA PART",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
-    "title" : "SK8 the Infinity (OVA)",
+    "title" : "SK8 the Infinity Extra Part",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE",
-    "title" : "SK∞ エスケーエイト (OVA)",
+    "title" : "SK∞ エスケーエイト EXTRA PART",
     "type" : "SYNONYM"
   } ],
   "type" : "OVA",
-  "url" : "https://sk8-project.com/"
+  "url" : "https://sk8-project.com/ova/"
 }

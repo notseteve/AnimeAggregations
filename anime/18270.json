@@ -112,7 +112,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.25,
+        "rating" : 5.26,
         "total" : 7
       },
       "recap" : false,
@@ -140,7 +140,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.54,
+        "rating" : 5.55,
         "total" : 6
       },
       "recap" : false,
@@ -168,7 +168,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.71,
+        "rating" : 7.72,
         "total" : 5
       },
       "recap" : false,
@@ -224,7 +224,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.61,
+        "rating" : 7.62,
         "total" : 4
       },
       "recap" : false,
@@ -252,7 +252,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.08,
+        "rating" : 9.09,
         "total" : 4
       },
       "recap" : false,
@@ -280,7 +280,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.79,
+        "rating" : 7.8,
         "total" : 4
       },
       "recap" : false,
@@ -445,6 +445,10 @@
       "episode_id" : 287570,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.21,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -456,6 +460,10 @@
       "episode_id" : 287571,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.48,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -466,16 +474,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.8,
-      "total" : 442
+      "rating" : 2.81,
+      "total" : 450
     },
     "REVIEW" : {
       "rating" : 4.5,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 5.56,
-      "total" : 444
+      "rating" : 5.58,
+      "total" : 452
     }
   },
   "resources" : {
@@ -493,7 +501,7 @@
   "similar" : {
     "8692" : {
       "rating" : 10.0,
-      "total" : 2
+      "total" : 3
     },
     "10816" : {
       "rating" : 2.2222222222222223,
@@ -502,10 +510,57 @@
   },
   "start_date" : "2024-04-14",
   "tags" : {
+    "7" : {
+      "info_box" : false,
+      "name" : "juujin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "922" : {
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1589" : {
+      "info_box" : false,
+      "name" : "samurai",
+      "parent_tag_id" : 2622,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "1609" : {
+      "info_box" : true,
+      "name" : "elf",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -527,6 +582,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -560,6 +622,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2618" : {
+      "info_box" : false,
+      "name" : "collateral damage",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2628" : {
       "info_box" : false,
       "name" : "fictional location",
@@ -567,6 +653,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2646" : {
+      "info_box" : false,
+      "name" : "demon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2799" : {
       "info_box" : true,
@@ -584,6 +686,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2849" : {
       "info_box" : true,
       "name" : "fantasy",
@@ -591,6 +701,62 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2850" : {
+      "info_box" : false,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3285" : {
+      "info_box" : false,
+      "name" : "journey",
+      "parent_tag_id" : 2850,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3671" : {
+      "info_box" : false,
+      "name" : "footage reuse",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "3696" : {
       "info_box" : false,
@@ -608,10 +774,66 @@
       "verified" : false,
       "weight" : 0
     },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4521" : {
+      "info_box" : false,
+      "name" : "lost technology",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4611" : {
       "info_box" : false,
       "name" : "nearly almighty protagonist",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5889" : {
+      "info_box" : false,
+      "name" : "magic weapons",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5948" : {
+      "info_box" : false,
+      "name" : "visible aura",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6083" : {
+      "info_box" : false,
+      "name" : "master-servant relationship",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -638,6 +860,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6744" : {
       "info_box" : true,
       "name" : "isekai",
@@ -654,6 +892,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "7141" : {
+      "info_box" : false,
+      "name" : "goblin",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "7872" : {
+      "info_box" : false,
+      "name" : "huge breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
@@ -661,6 +915,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7905" : {
+      "info_box" : false,
+      "name" : "large breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     }
   },
   "titles" : [ {

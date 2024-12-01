@@ -1,5 +1,62 @@
 {
   "anime_id" : 16646,
+  "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 144557,
+      "name" : "Er Dangjia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144556,
+      "name" : "San Dangjia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144559,
+      "name" : "Shusheng",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144558,
+      "name" : "Si Dangjia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144553,
+      "name" : "Zhizhu Jing",
+      "type" : "CHARACTER"
+    } ],
+    "MAIN" : [ {
+      "character_id" : 110488,
+      "name" : "Xiao Qing",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 110493,
+      "name" : "Baoqing Fangzhu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144547,
+      "name" : "Fa Hai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144548,
+      "name" : "Meng Mian Ren",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144550,
+      "name" : "Niutou Bangzhu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144551,
+      "name" : "Sima",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144549,
+      "name" : "Sun Jie",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 110486,
+      "name" : "Xiao Bai",
+      "type" : "CHARACTER"
+    } ]
+  },
   "description" : "Verta the green snake-demon must find a way to escape from the modern Shura City of mortals, in order to rescue her elder sister Blanca the White Snake from the demon-slaying monk Fahai.\nsource: wikipedia",
   "end_date" : "2021-07-23",
   "episodes" : {
@@ -18,7 +75,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.15,
+      "rating" : 7.16,
       "total" : 37
     },
     "TEMPORARY" : {
@@ -30,6 +87,7 @@
     "PREQUEL" : [ 14876 ]
   },
   "resources" : {
+    "BAIDU_BAIKE" : [ "白蛇2：青蛇劫起?fromModule=lemma_search-box" ],
     "BANGUMI" : [ "328443" ],
     "DOUBAN" : [ "30435124" ],
     "IMDB" : [ "tt15000314" ],
@@ -44,6 +102,137 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2282" : {
+      "info_box" : false,
+      "name" : "martial arts",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2637" : {
+      "info_box" : false,
+      "name" : "time travel",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2646" : {
+      "info_box" : true,
+      "name" : "demon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3528" : {
+      "info_box" : false,
+      "name" : "reincarnation",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -71,10 +260,49 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6351" : {
+      "info_box" : false,
+      "name" : "Chinese mythology",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6850" : {
       "info_box" : false,
       "name" : "STAFF MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7438" : {
+      "info_box" : false,
+      "name" : "cultivation",
+      "parent_tag_id" : 2282,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "8177" : {
+      "info_box" : false,
+      "name" : "fully 3d animation",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

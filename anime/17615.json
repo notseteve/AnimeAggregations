@@ -2,6 +2,10 @@
   "anime_id" : 17615,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 144518,
+      "name" : "Altina Heipyst",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 144182,
       "name" : "Baius D. Hoelscher",
       "type" : "CHARACTER"
@@ -14,6 +18,10 @@
       "name" : "Grid Half",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 144522,
+      "name" : "Guze",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 105125,
       "name" : "Kamu Haulia",
       "type" : "CHARACTER"
@@ -22,8 +30,24 @@
       "name" : "Lana Haulia",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 144520,
+      "name" : "Lua",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144521,
+      "name" : "Mao",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143966,
       "name" : "Mina Haulia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105205,
+      "name" : "Miyazaki Nana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 108886,
+      "name" : "Nagumo Hajime",
       "type" : "CHARACTER"
     }, {
       "character_id" : 143965,
@@ -34,12 +58,32 @@
       "name" : "Par Haulia",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 105200,
+      "name" : "Sonobe Yuuka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105204,
+      "name" : "Sugawara Taeko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105203,
+      "name" : "Tamai Atsushi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144517,
+      "name" : "Ulfric Heipyst",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143968,
       "name" : "Yao Haulia",
       "type" : "CHARACTER"
     }, {
       "character_id" : 143969,
       "name" : "Yor Haulia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144519,
+      "name" : "Zel",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -110,9 +154,17 @@
       "name" : "Satou Shouichi",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "7264" : [ {
+      "name" : "Tanaka Masaki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "8022" : [ {
       "name" : "Iwanaga Akira",
       "type" : "DIRECTOR"
+    } ],
+    "9375" : [ {
+      "name" : "Okada Maiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "9674" : [ {
       "name" : "Kojima Chika",
@@ -143,7 +195,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.93,
+        "rating" : 4.97,
         "total" : 4
       },
       "recap" : false,
@@ -171,8 +223,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.05,
-        "total" : 2
+        "rating" : 5.89,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -199,8 +251,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 2.4,
-        "total" : 2
+        "rating" : 3.96,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -227,14 +279,17 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 1.12,
-        "total" : 1
+        "rating" : 3.62,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GWDU7V5P4" ]
       },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "L`Empire contre les lapins sanguinaires"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Teikoku vs Saikyou Usagi"
       }, {
@@ -247,17 +302,24 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-11-11",
+      "description" : "After the Haulia Tribe`s victory over the Empire, Hajime and the others travel to Verbergen to prepare to take on a new Great Labyrinth. During his visit, Hajime gets an opportunity to deepen his bond with Shea.\nSource: Crunchyroll",
       "episode_id" : 288005,
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 2.47,
-        "total" : 1
+        "rating" : 3.19,
+        "total" : 3
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UXW3D7" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Eiyuu no Gaisen"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le retour triomphal des héros"
       }, {
         "language" : "ENGLISH",
         "title" : "The Hero Returns"
@@ -271,10 +333,20 @@
       "episode_id" : 288006,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 2.46,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Haltina Dai Meikyuu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Haltina`s Labyrinth"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ハルツィナ大迷宮"
       } ],
       "type" : "REGULAR"
     }, {
@@ -285,7 +357,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "A Devilish Trial"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akuma no Shiren"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "悪魔の試練"
       } ],
       "type" : "REGULAR"
     }, {
@@ -297,6 +375,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-09",
+      "episode_id" : 289132,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-16",
+      "episode_id" : 289133,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-23",
+      "episode_id" : 289134,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-30",
+      "episode_id" : 289135,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -321,12 +443,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.62,
-      "total" : 26
+      "rating" : 4.33,
+      "total" : 35
     },
     "TEMPORARY" : {
       "rating" : 6.48,
-      "total" : 26
+      "total" : 35
     }
   },
   "related" : {

@@ -222,7 +222,7 @@
       "length" : 65,
       "number" : 3,
       "rating" : {
-        "rating" : 9.96,
+        "rating" : 9.95,
         "total" : 2
       },
       "recap" : false,
@@ -286,8 +286,8 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 10.0,
-        "total" : 1
+        "rating" : 9.6,
+        "total" : 2
       },
       "recap" : true,
       "titles" : [ {
@@ -372,12 +372,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.74,
-      "total" : 89
+      "rating" : 8.63,
+      "total" : 95
     },
     "TEMPORARY" : {
-      "rating" : 8.17,
-      "total" : 90
+      "rating" : 8.04,
+      "total" : 97
     }
   },
   "related" : {
@@ -419,6 +419,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -426,6 +433,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "6173" : {
       "info_box" : false,
