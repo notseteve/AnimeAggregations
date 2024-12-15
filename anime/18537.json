@@ -59,8 +59,20 @@
       "name" : "Marle",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 145017,
+      "name" : "Miru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145016,
+      "name" : "Miu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143720,
       "name" : "Myraal",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145015,
+      "name" : "Olivia",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142522,
@@ -168,7 +180,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.53,
+        "rating" : 3.52,
         "total" : 5
       },
       "recap" : false,
@@ -196,7 +208,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.11,
+        "rating" : 5.12,
         "total" : 4
       },
       "recap" : false,
@@ -280,8 +292,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.59,
-        "total" : 2
+        "rating" : 5.78,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -303,24 +315,58 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-11-22",
+      "description" : "With the three-day deadline approaching, the people of the forest of Ente must take stock and decide what they must do.\nSource: Crunchyroll",
       "episode_id" : 287831,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 4.35,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WU73W33" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kessen Zen`ya"
+      }, {
+        "language" : "FRENCH",
+        "title" : "La nuit avant la bataille"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "The Night Before the Battle"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "決戦前夜"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-11-29",
+      "description" : "The battle begins, and the coalition heads to each of the gates to meet the demons waiting for them there.\nSource: Crunchyroll",
       "episode_id" : 288978,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 6.72,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UDQXQ3" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Makai Mon no Koubou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "The Battle of the Demonic Realm Portal"
+      }, {
+        "language" : "FRENCH",
+        "title" : "À l`attaque du portail démoniaque"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "魔界門の攻防"
       } ],
       "type" : "REGULAR"
     }, {
@@ -328,10 +374,23 @@
       "episode_id" : 288979,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 6.77,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UE9W9G" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Decisive Battle"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kessen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "決戦"
       } ],
       "type" : "REGULAR"
     }, {
@@ -360,16 +419,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.04,
-      "total" : 52
+      "rating" : 3.02,
+      "total" : 64
     },
     "REVIEW" : {
       "rating" : 4.33,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 5.17,
-      "total" : 51
+      "rating" : 5.28,
+      "total" : 64
     }
   },
   "resources" : {
@@ -387,11 +446,11 @@
   "similar" : {
     "15853" : {
       "rating" : 5.0,
-      "total" : 4
+      "total" : 6
     },
     "17517" : {
-      "rating" : 8.0,
-      "total" : 5
+      "rating" : 8.333333333333334,
+      "total" : 6
     },
     "18229" : {
       "rating" : 2.5,
@@ -608,6 +667,10 @@
     "language" : "CHINESE_TRADITIONAL",
     "title" : "再見龍生，你好人生",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Goodbye Dragon Life, Hello Human Life",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://dragonlife-anime.com/"

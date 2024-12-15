@@ -257,7 +257,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.1,
+        "rating" : 8.11,
         "total" : 5
       },
       "recap" : false,
@@ -288,7 +288,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.49,
+        "rating" : 6.51,
         "total" : 5
       },
       "recap" : false,
@@ -400,7 +400,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.09,
+        "rating" : 6.1,
         "total" : 6
       },
       "recap" : false,
@@ -428,7 +428,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 2.34,
+        "rating" : 2.35,
         "total" : 6
       },
       "recap" : false,
@@ -456,7 +456,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 3.68,
+        "rating" : 3.7,
         "total" : 5
       },
       "recap" : false,
@@ -484,7 +484,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 3.99,
+        "rating" : 4.01,
         "total" : 5
       },
       "recap" : false,
@@ -723,16 +723,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.09,
-      "total" : 939
+      "rating" : 3.08,
+      "total" : 951
     },
     "REVIEW" : {
       "rating" : 4.44,
       "total" : 3
     },
     "TEMPORARY" : {
-      "rating" : 5.75,
-      "total" : 948
+      "rating" : 5.74,
+      "total" : 960
     }
   },
   "related" : {
@@ -752,12 +752,12 @@
   },
   "similar" : {
     "16018" : {
-      "rating" : 4.545454545454545,
+      "rating" : 5.0,
       "total" : 22
     },
     "17523" : {
-      "rating" : 3.333333333333333,
-      "total" : 3
+      "rating" : 5.0,
+      "total" : 4
     }
   },
   "start_date" : "2023-04-04",
@@ -765,6 +765,14 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -811,6 +819,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -865,6 +880,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2630" : {
       "info_box" : false,
@@ -937,6 +960,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2838" : {
+      "info_box" : false,
+      "name" : "parallel world",
+      "parent_tag_id" : 2628,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2841" : {
       "info_box" : true,
@@ -1045,6 +1076,22 @@
     "3741" : {
       "info_box" : false,
       "name" : "bullying",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,

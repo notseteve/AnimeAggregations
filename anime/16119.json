@@ -36,7 +36,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.61,
+      "rating" : 4.62,
       "total" : 16
     },
     "TEMPORARY" : {
@@ -53,6 +53,29 @@
   },
   "start_date" : "2021-03-10",
   "tags" : {
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3618" : {
+      "info_box" : false,
+      "name" : "ocean",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

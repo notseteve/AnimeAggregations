@@ -921,7 +921,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.6,
+        "rating" : 7.61,
         "total" : 17
       },
       "recap" : false,
@@ -975,7 +975,7 @@
       "length" : 6,
       "number" : 4,
       "rating" : {
-        "rating" : 1.7,
+        "rating" : 1.72,
         "total" : 9
       },
       "recap" : false,
@@ -992,7 +992,7 @@
       "length" : 5,
       "number" : 5,
       "rating" : {
-        "rating" : 1.85,
+        "rating" : 1.87,
         "total" : 9
       },
       "recap" : false,
@@ -1209,7 +1209,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.03,
-      "total" : 12071
+      "total" : 12086
     },
     "REVIEW" : {
       "rating" : 7.22,
@@ -1217,7 +1217,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.17,
-      "total" : 12256
+      "total" : 12271
     }
   },
   "resources" : {
@@ -1347,9 +1347,13 @@
       "rating" : 1.1111111111111112,
       "total" : 9
     },
+    "17001" : {
+      "rating" : 5.0,
+      "total" : 2
+    },
     "17108" : {
-      "rating" : 3.5714285714285716,
-      "total" : 14
+      "rating" : 4.0,
+      "total" : 15
     }
   },
   "start_date" : "2008-10-02",
@@ -1752,6 +1756,14 @@
       "name" : "happy ending",
       "parent_tag_id" : 6246,
       "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4498" : {
+      "info_box" : false,
+      "name" : "heart-warming",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
       "verified" : false,
       "weight" : 0
     },

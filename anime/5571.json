@@ -395,7 +395,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.13,
+        "rating" : 6.14,
         "total" : 7
       },
       "recap" : false,
@@ -802,6 +802,13 @@
       "verified" : false,
       "weight" : 500
     },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
@@ -884,6 +891,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -948,6 +971,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2888" : {
+      "info_box" : false,
+      "name" : "coming of age",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2893" : {
       "info_box" : false,
       "name" : "female teacher",
@@ -988,6 +1019,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "4228" : {
+      "info_box" : false,
+      "name" : "subtle OP ED sequence change",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4251" : {
+      "info_box" : false,
+      "name" : "ensemble cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4333" : {
       "info_box" : false,
       "name" : "predominantly female cast",
@@ -1000,6 +1047,22 @@
       "info_box" : false,
       "name" : "heart-warming",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4729" : {
+      "info_box" : false,
+      "name" : "colour coded",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5227" : {
+      "info_box" : false,
+      "name" : "alternating animation style",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1073,6 +1136,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7146" : {
+      "info_box" : false,
+      "name" : "cute girls doing cute things",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "7885" : {
       "info_box" : false,

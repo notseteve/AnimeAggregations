@@ -87,6 +87,10 @@
       "name" : "Suzuki Rika",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 144840,
+      "name" : "Tsukioka Meguru",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141143,
       "name" : "Yagihashi Toujuurou",
       "type" : "CHARACTER"
@@ -156,7 +160,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 1.33,
+        "rating" : 1.32,
         "total" : 3
       },
       "recap" : false,
@@ -183,7 +187,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.08,
+        "rating" : 3.07,
         "total" : 1
       },
       "recap" : false,
@@ -530,9 +534,18 @@
       "length" : 25,
       "number" : 20,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14UVQ8QN" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chuusei"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 20"
+        "title" : "Loyalty"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "忠誠"
       } ],
       "type" : "REGULAR"
     }, {
@@ -541,9 +554,18 @@
       "length" : 25,
       "number" : 21,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQN4NV" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 21"
+        "title" : "Either Fate, or a Miracle"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Unmei, Arui wa Kiseki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "運命, あるいは奇跡"
       } ],
       "type" : "REGULAR"
     }, {
@@ -606,12 +628,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 1.5,
-      "total" : 45
+      "rating" : 1.48,
+      "total" : 47
     },
     "TEMPORARY" : {
-      "rating" : 3.14,
-      "total" : 46
+      "rating" : 3.07,
+      "total" : 48
     }
   },
   "resources" : {

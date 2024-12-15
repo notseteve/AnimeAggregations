@@ -121,7 +121,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.46,
-      "total" : 1280
+      "total" : 1282
     },
     "REVIEW" : {
       "rating" : 8.91,
@@ -129,7 +129,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.23,
-      "total" : 1287
+      "total" : 1289
     }
   },
   "related" : {
@@ -146,9 +146,30 @@
   },
   "start_date" : "1981-08-22",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -160,6 +181,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2627" : {
+      "info_box" : false,
+      "name" : "space",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2638" : {
       "info_box" : true,
       "name" : "mecha",
@@ -167,6 +212,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2655" : {
+      "info_box" : false,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2797" : {
       "info_box" : true,
@@ -192,12 +253,44 @@
       "verified" : false,
       "weight" : 600
     },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "3546" : {
+      "info_box" : false,
+      "name" : "experimental animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4081" : {
+      "info_box" : false,
+      "name" : "space battles",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "4131" : {
       "info_box" : false,
@@ -215,10 +308,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "4227" : {
+      "info_box" : false,
+      "name" : "detailed landscapes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4278" : {
+      "info_box" : false,
+      "name" : "stand-alone movie",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4280" : {
       "info_box" : false,
       "name" : "surreal",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4570" : {
+      "info_box" : false,
+      "name" : "watercolour style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4588" : {
+      "info_box" : false,
+      "name" : "fast-paced",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -235,6 +360,22 @@
       "info_box" : false,
       "name" : "Itano circus",
       "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5835" : {
+      "info_box" : false,
+      "name" : "Gainax bounce",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -257,6 +398,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6399" : {
+      "info_box" : false,
+      "name" : "episodic",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

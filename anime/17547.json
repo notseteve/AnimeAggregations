@@ -173,7 +173,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.25,
+        "rating" : 5.26,
         "total" : 13
       },
       "recap" : false,
@@ -197,7 +197,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.0,
+        "rating" : 5.01,
         "total" : 12
       },
       "recap" : false,
@@ -241,7 +241,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.04,
+        "rating" : 6.05,
         "total" : 8
       },
       "recap" : false,
@@ -474,8 +474,8 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 8.78,
-        "total" : 2
+        "rating" : 9.05,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -489,8 +489,8 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 7.46,
-        "total" : 3
+        "rating" : 8.37,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -710,11 +710,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.36,
-      "total" : 858
+      "total" : 868
     },
     "TEMPORARY" : {
       "rating" : 7.53,
-      "total" : 865
+      "total" : 875
     }
   },
   "related" : {
@@ -772,6 +772,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "1018" : {
+      "info_box" : true,
+      "name" : "middle school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2043" : {
       "info_box" : true,
       "name" : "high school",
@@ -779,6 +787,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2606" : {
       "info_box" : false,
@@ -815,6 +830,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
@@ -822,6 +845,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2630" : {
       "info_box" : false,
@@ -846,6 +877,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2778" : {
+      "info_box" : false,
+      "name" : "slow when it comes to love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2798" : {
       "info_box" : true,
@@ -879,10 +926,114 @@
       "verified" : false,
       "weight" : 400
     },
-    "2869" : {
+    "2862" : {
       "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2869" : {
+      "info_box" : true,
       "name" : "school life",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2888" : {
+      "info_box" : false,
+      "name" : "coming of age",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3103" : {
+      "info_box" : false,
+      "name" : "first love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3263" : {
+      "info_box" : false,
+      "name" : "fashion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4440" : {
+      "info_box" : false,
+      "name" : "boy meets girl",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4498" : {
+      "info_box" : false,
+      "name" : "heart-warming",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5768" : {
+      "info_box" : false,
+      "name" : "intact family",
+      "parent_tag_id" : 6249,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -890,6 +1041,46 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6877" : {
+      "info_box" : false,
+      "name" : "misleading beginning",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

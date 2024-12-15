@@ -1,5 +1,108 @@
 {
   "anime_id" : 15926,
+  "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 144857,
+      "name" : "Acacia Tree Spirit",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144791,
+      "name" : "Assassin Clan Member",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144797,
+      "name" : "Li Aotian",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144793,
+      "name" : "Long Lin Ma",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144853,
+      "name" : "Long Qingtian",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144796,
+      "name" : "Luo Dieyi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144795,
+      "name" : "Luo Haochen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144771,
+      "name" : "Luo-Luo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144866,
+      "name" : "Luo-Luo`s Father",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144775,
+      "name" : "Nangong Liujue",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144864,
+      "name" : "Ouyang Yunqi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144772,
+      "name" : "Su Xi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144856,
+      "name" : "Yan Hua",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144854,
+      "name" : "Zi Yan",
+      "type" : "CHARACTER"
+    } ],
+    "MAIN" : [ {
+      "character_id" : 144774,
+      "name" : "Nangong Liuyun",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144767,
+      "name" : "Su Luo",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 144777,
+      "name" : "Beichen Ying",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144781,
+      "name" : "Li Yaoyao",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144766,
+      "name" : "Ling Feng",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144773,
+      "name" : "Lu Luo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144788,
+      "name" : "Mengmeng",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144794,
+      "name" : "Rong Yun",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144852,
+      "name" : "Yan Xia",
+      "type" : "CHARACTER"
+    } ]
+  },
+  "creators" : {
+    "59062" : [ {
+      "name" : "Dahuo Niao Donghua",
+      "type" : "ANIMATION_PRODUCTION"
+    } ]
+  },
   "description" : "The well-known special agent, Su Luo, was betrayed and killed. And before she knew it, she was reborn as the most useless Fourth Lady in Su Residence within Bi Luo Land. The public despised her and scorned her, and Lord Jin is the only person who`s trying to pursue her. With the help of Lord Jin, Su Luo went to participate in a test in the Holy Temple. They realized that Su Luo is a rare talent. Numerous factions and people tried to stop Su Luo from growing stronger for their own benefit. And, her mysterious identity will be revealed soon.\nsource: iq.com",
   "end_date" : "2021-02-19",
   "episodes" : {
@@ -193,11 +296,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.8,
-      "total" : 36
+      "total" : 37
     },
     "TEMPORARY" : {
-      "rating" : 6.48,
-      "total" : 36
+      "rating" : 6.5,
+      "total" : 37
     }
   },
   "related" : {
@@ -219,6 +322,99 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2094" : {
+      "info_box" : true,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2282" : {
+      "info_box" : false,
+      "name" : "martial arts",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "5939" : {
       "info_box" : false,
@@ -250,6 +446,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7438" : {
+      "info_box" : false,
+      "name" : "cultivation",
+      "parent_tag_id" : 2282,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     }
   },
   "titles" : [ {

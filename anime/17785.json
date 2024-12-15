@@ -136,7 +136,7 @@
       "length" : 110,
       "number" : 1,
       "rating" : {
-        "rating" : 6.68,
+        "rating" : 6.69,
         "total" : 2
       },
       "recap" : false,
@@ -194,12 +194,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.7,
-      "total" : 276
+      "rating" : 7.71,
+      "total" : 293
     },
     "TEMPORARY" : {
-      "rating" : 7.62,
-      "total" : 277
+      "rating" : 7.64,
+      "total" : 294
     }
   },
   "related" : {
@@ -242,10 +242,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2658" : {
+      "info_box" : false,
+      "name" : "toilet humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

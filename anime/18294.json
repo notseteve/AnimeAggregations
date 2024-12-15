@@ -30,6 +30,10 @@
       "name" : "Ema",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 144931,
+      "name" : "Fuku",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139927,
       "name" : "Ikari Shou",
       "type" : "CHARACTER"
@@ -314,6 +318,10 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 142985,
+      "name" : "Niko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144934,
       "name" : "Niko",
       "type" : "CHARACTER"
     }, {
@@ -1196,6 +1204,9 @@
       "length" : 25,
       "number" : 42,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UXW43E" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Everyone`s Wonderful Pets!"
@@ -1213,9 +1224,18 @@
       "length" : 25,
       "number" : 43,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMGD54" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 43"
+        "title" : "Feelings Spun Together"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsumugareru Omoi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "つむがれる思い"
       } ],
       "type" : "REGULAR"
     }, {
@@ -1226,7 +1246,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 44"
+        "title" : "Lots of Happiness"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Takusan no Shiawase"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "たくさんの幸せ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -1251,6 +1277,28 @@
         "title" : "Episode 46"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-29",
+      "episode_id" : 289391,
+      "length" : 25,
+      "number" : 47,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 47"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-05",
+      "episode_id" : 289392,
+      "length" : 25,
+      "number" : 48,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 48"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
@@ -1264,6 +1312,7 @@
     }
   },
   "related" : {
+    "OTHER" : [ 18539 ],
     "SAME_SETTING" : [ 1413 ]
   },
   "resources" : {

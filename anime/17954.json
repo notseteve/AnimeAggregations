@@ -2,8 +2,20 @@
   "anime_id" : 17954,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 143210,
+      "name" : "Bachira Yuu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143207,
       "name" : "Buratsuta Hirotoshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144923,
+      "name" : "Chigiri Koyuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144922,
+      "name" : "Chigiri Neneko",
       "type" : "CHARACTER"
     }, {
       "character_id" : 143938,
@@ -286,6 +298,7 @@
     } ]
   },
   "description" : "* Based on a sports manga written by http://anidb.net/cr64610 [Kaneshiro Muneyuki] and drawn by http://anidb.net/cr45367 [Nomura Yuusuke].",
+  "end_date" : "2024-12-28",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-06",
@@ -485,6 +498,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-11-23",
+      "description" : "Rin and Sae`s sibling match goes to Sae as he takes the ball. But Niko, Karasu, Otoya, and Chigiri set up another goal chance, and Rin scores despite shooting on his non-dominant leg. At 1-2, the U-20s are finally ready to go all out.\nSource: Crunchyroll",
       "episode_id" : 287845,
       "length" : 25,
       "number" : 8,
@@ -503,30 +517,62 @@
         "language" : "ENGLISH",
         "title" : "Blue Genes"
       }, {
+        "language" : "FRENCH",
+        "title" : "Les gènes bleus"
+      }, {
         "language" : "JAPANESE",
         "title" : "青の遺伝子"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-11-30",
+      "air_date" : "2024-12-01",
       "episode_id" : 289066,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 2.89,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9ZPVN" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "La nuit enneigée"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Night Snow"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Night Snow"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ナイトスノウ"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-12-07",
+      "air_date" : "2024-12-08",
       "episode_id" : 289067,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 9.88,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U31784" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Koutai Geki"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "The Subs Take to the Stage"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "交代劇"
       } ],
       "type" : "REGULAR"
     }, {
@@ -549,6 +595,28 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-28",
+      "episode_id" : 289523,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 13"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-28",
+      "episode_id" : 289524,
+      "length" : 25,
+      "number" : 14,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 14"
       } ],
       "type" : "REGULAR"
     } ],
@@ -706,6 +774,40 @@
       } ],
       "type" : "SPECIAL"
     }, {
+      "air_date" : "2024-12-01",
+      "episode_id" : 289513,
+      "length" : 2,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Additional Time! #33: Big Bro`s Frame of Mind"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Additional Time! #33: Nii-chan no Kokoroe"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あでぃしょなる・たいむ! #33 兄ちゃんの心得"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-12-08",
+      "episode_id" : 289676,
+      "length" : 2,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Additional Time! #34: During Half-Time"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Additional Time! #34: Half-Time nite"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あでぃしょなる・たいむ! #34 ハーフ・タイムにて"
+      } ],
+      "type" : "SPECIAL"
+    }, {
       "air_date" : "2024-09-22",
       "episode_id" : 286833,
       "length" : 55,
@@ -783,12 +885,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.71,
-      "total" : 25
+      "rating" : 5.49,
+      "total" : 30
     },
     "TEMPORARY" : {
-      "rating" : 6.46,
-      "total" : 25
+      "rating" : 6.48,
+      "total" : 30
     }
   },
   "related" : {
@@ -804,7 +906,7 @@
     "WEBSITE" : [ "https://tv.bluelock-pr.com/" ],
     "WIKIPEDIA_EN" : [ "Blue_Lock" ],
     "WIKIPEDIA_JP" : [ "ブルーロック" ],
-    "YOUTUBE" : [ "watch?v=1XVQ6Ma2Ymw", "watch?v=HIPx5OUXfho", "watch?v=HelDwaR_eQQ", "watch?v=IlAFH9r1RdE", "watch?v=a8M1sldGV2o", "watch?v=ehUN1jHAYKE", "watch?v=ekQFW8pgk1g", "watch?v=j-C6EXcxyNg", "watch?v=z-Nc39uiljI" ]
+    "YOUTUBE" : [ "watch?v=1XVQ6Ma2Ymw", "watch?v=GsvcW0SWgeg", "watch?v=HIPx5OUXfho", "watch?v=HelDwaR_eQQ", "watch?v=IlAFH9r1RdE", "watch?v=JvDS3LgOW7A", "watch?v=a8M1sldGV2o", "watch?v=ehUN1jHAYKE", "watch?v=ekQFW8pgk1g", "watch?v=j-C6EXcxyNg", "watch?v=z-Nc39uiljI" ]
   },
   "start_date" : "2024-10-06",
   "tags" : {
@@ -853,6 +955,10 @@
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
+    "title" : "Blue Lock vs. U-20 Japan",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "POLISH",
     "title" : "Blue Lock vs. U-20 Japan",
     "type" : "OFFICIAL"
   }, {

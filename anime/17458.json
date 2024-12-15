@@ -71,7 +71,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.79,
+        "rating" : 3.8,
         "total" : 2
       },
       "recap" : false,
@@ -86,7 +86,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.14,
+        "rating" : 3.15,
         "total" : 2
       },
       "recap" : false,
@@ -215,6 +215,10 @@
       "episode_id" : 287781,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -225,12 +229,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.43,
-      "total" : 33
+      "rating" : 6.6,
+      "total" : 80
     },
     "TEMPORARY" : {
-      "rating" : 6.65,
-      "total" : 33
+      "rating" : 6.94,
+      "total" : 80
     }
   },
   "resources" : {
@@ -245,6 +249,29 @@
   },
   "start_date" : "2024-09-04",
   "tags" : {
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

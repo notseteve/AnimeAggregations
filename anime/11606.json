@@ -871,7 +871,7 @@
       "length" : 25,
       "number" : 19,
       "rating" : {
-        "rating" : 6.99,
+        "rating" : 7.0,
         "total" : 8
       },
       "recap" : false,
@@ -1132,7 +1132,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.38,
-      "total" : 2741
+      "total" : 2745
     },
     "REVIEW" : {
       "rating" : 7.0,
@@ -1140,7 +1140,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.92,
-      "total" : 2754
+      "total" : 2758
     }
   },
   "related" : {
@@ -1200,6 +1200,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2605" : {
       "info_box" : false,
@@ -1290,6 +1297,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2756" : {
       "info_box" : false,

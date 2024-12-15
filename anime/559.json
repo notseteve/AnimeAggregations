@@ -134,12 +134,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.06,
-      "total" : 545
+      "rating" : 5.05,
+      "total" : 546
     },
     "TEMPORARY" : {
       "rating" : 6.69,
-      "total" : 561
+      "total" : 562
     }
   },
   "resources" : {
@@ -233,6 +233,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -366,6 +373,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2774" : {
+      "info_box" : false,
+      "name" : "spellcasting",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2786" : {
       "info_box" : true,
@@ -503,6 +526,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4318" : {
       "info_box" : false,
       "name" : "plot with porn",
@@ -518,6 +557,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "4646" : {
       "info_box" : false,
@@ -577,6 +624,14 @@
       "info_box" : false,
       "name" : "season",
       "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

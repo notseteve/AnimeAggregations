@@ -77,7 +77,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.36,
+      "rating" : 3.37,
       "total" : 127
     },
     "TEMPORARY" : {
@@ -92,7 +92,9 @@
     "ALL_CINEMA" : [ "360188" ],
     "ANISON" : [ "20545" ],
     "ANN" : [ "19419" ],
+    "IMDB" : [ "tt27032102" ],
     "MAL" : [ "35255" ],
+    "TMDB" : [ "tv/87306" ],
     "WEBSITE" : [ "http://www.soutaisekai.jp/" ],
     "WIKIPEDIA_EN" : [ "Sōtai_Sekai" ]
   },
@@ -105,10 +107,56 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2797" : {
       "info_box" : true,
       "name" : "new",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2838" : {
+      "info_box" : true,
+      "name" : "parallel world",
+      "parent_tag_id" : 2628,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

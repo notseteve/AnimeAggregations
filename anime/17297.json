@@ -58,7 +58,7 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 5.31,
+        "rating" : 5.3,
         "total" : 5
       },
       "recap" : false,
@@ -127,12 +127,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.55,
-      "total" : 119
+      "rating" : 4.56,
+      "total" : 120
     },
     "TEMPORARY" : {
-      "rating" : 5.96,
-      "total" : 123
+      "rating" : 5.97,
+      "total" : 124
     }
   },
   "resources" : {
@@ -145,6 +145,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -368,6 +375,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4480" : {
+      "info_box" : false,
+      "name" : "happy ending",
+      "parent_tag_id" : 6246,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6151" : {
       "info_box" : false,
       "name" : "technical aspects",
@@ -378,6 +409,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

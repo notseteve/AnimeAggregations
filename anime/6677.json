@@ -110,7 +110,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.39,
+        "rating" : 5.38,
         "total" : 12
       },
       "recap" : false,
@@ -134,7 +134,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.0,
+        "rating" : 5.99,
         "total" : 8
       },
       "recap" : false,
@@ -158,7 +158,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.19,
+        "rating" : 4.18,
         "total" : 7
       },
       "recap" : false,
@@ -182,7 +182,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.66,
+        "rating" : 5.65,
         "total" : 6
       },
       "recap" : false,
@@ -206,7 +206,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.06,
+        "rating" : 8.05,
         "total" : 7
       },
       "recap" : false,
@@ -230,7 +230,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.14,
+        "rating" : 5.13,
         "total" : 6
       },
       "recap" : false,
@@ -254,7 +254,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.8,
+        "rating" : 6.79,
         "total" : 7
       },
       "recap" : false,
@@ -278,7 +278,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.94,
+        "rating" : 7.93,
         "total" : 7
       },
       "recap" : false,
@@ -302,7 +302,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 4.61,
+        "rating" : 4.6,
         "total" : 6
       },
       "recap" : false,
@@ -326,7 +326,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 8.38,
+        "rating" : 8.37,
         "total" : 8
       },
       "recap" : false,
@@ -683,7 +683,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.04,
-      "total" : 1658
+      "total" : 1661
     },
     "REVIEW" : {
       "rating" : 6.83,
@@ -691,7 +691,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.7,
-      "total" : 1668
+      "total" : 1671
     }
   },
   "resources" : {
@@ -711,8 +711,8 @@
       "total" : 23
     },
     "4191" : {
-      "rating" : 5.121951219512195,
-      "total" : 41
+      "rating" : 5.238095238095238,
+      "total" : 42
     },
     "5113" : {
       "rating" : 4.166666666666667,
@@ -732,10 +732,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "627" : {
+      "info_box" : false,
+      "name" : "lingerie",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "658" : {
       "info_box" : false,
       "name" : "gymnastics",
       "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
@@ -764,9 +788,23 @@
       "verified" : false,
       "weight" : 600
     },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -838,6 +876,22 @@
       "verified" : false,
       "weight" : 600
     },
+    "2651" : {
+      "info_box" : false,
+      "name" : "absurdist humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2667" : {
+      "info_box" : false,
+      "name" : "university",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2672" : {
       "info_box" : false,
       "name" : "Japan",
@@ -845,6 +899,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2676" : {
+      "info_box" : false,
+      "name" : "Tokyo",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2748" : {
+      "info_box" : true,
+      "name" : "sex",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2790" : {
       "info_box" : false,
@@ -854,10 +940,34 @@
       "verified" : false,
       "weight" : 200
     },
+    "2793" : {
+      "info_box" : false,
+      "name" : "performance",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2816" : {
+      "info_box" : false,
+      "name" : "sexual fantasies",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2827" : {
+      "info_box" : false,
+      "name" : "sudden naked guy appearance",
+      "parent_tag_id" : 2856,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -886,6 +996,22 @@
       "verified" : false,
       "weight" : 500
     },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2864" : {
       "info_box" : false,
       "name" : "daily life",
@@ -894,6 +1020,22 @@
       "verified" : false,
       "weight" : 300
     },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2881" : {
       "info_box" : false,
       "name" : "sports",
@@ -901,6 +1043,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2884" : {
       "info_box" : false,
@@ -925,6 +1075,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "3369" : {
       "info_box" : false,
       "name" : "human psyche",
@@ -941,6 +1107,46 @@
       "verified" : false,
       "weight" : 0
     },
+    "3667" : {
+      "info_box" : false,
+      "name" : "Tokyo Tower",
+      "parent_tag_id" : 2676,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3671" : {
+      "info_box" : false,
+      "name" : "footage reuse",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3684" : {
+      "info_box" : false,
+      "name" : "literature",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "3865" : {
       "info_box" : true,
       "name" : "noitaminA",
@@ -948,6 +1154,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "3909" : {
+      "info_box" : false,
+      "name" : "talking is a free action",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3934" : {
+      "info_box" : false,
+      "name" : "non-linear",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4223" : {
+      "info_box" : false,
+      "name" : "running gag",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4244" : {
+      "info_box" : false,
+      "name" : "healthcare and medicine",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "4280" : {
       "info_box" : false,
@@ -997,10 +1235,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "4646" : {
+      "info_box" : false,
+      "name" : "hospital",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "4715" : {
       "info_box" : false,
       "name" : "dementia",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4951" : {
+      "info_box" : false,
+      "name" : "age change",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5227" : {
+      "info_box" : false,
+      "name" : "alternating animation style",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1013,10 +1275,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "5485" : {
+      "info_box" : false,
+      "name" : "penis jokes",
+      "parent_tag_id" : 7199,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5697" : {
       "info_box" : false,
       "name" : "randomness",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5792" : {
+      "info_box" : false,
+      "name" : "gangs",
+      "parent_tag_id" : 2872,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1028,6 +1306,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "5993" : {
+      "info_box" : false,
+      "name" : "black humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "6018" : {
       "info_box" : false,
@@ -1067,6 +1353,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6230" : {
       "info_box" : false,
       "name" : "cast",
@@ -1074,6 +1368,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6399" : {
+      "info_box" : false,
+      "name" : "episodic",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7199" : {
+      "info_box" : false,
+      "name" : "sexual humour",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,

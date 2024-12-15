@@ -30,6 +30,10 @@
       "name" : "Kenta",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 37273,
+      "name" : "Kirito",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 128361,
       "name" : "Lax",
       "type" : "CHARACTER"
@@ -216,7 +220,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.0,
+        "rating" : 6.02,
         "total" : 3
       },
       "recap" : false,
@@ -244,7 +248,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.31,
+        "rating" : 7.33,
         "total" : 3
       },
       "recap" : false,
@@ -272,7 +276,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.86,
+        "rating" : 4.89,
         "total" : 2
       },
       "recap" : false,
@@ -300,7 +304,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.86,
+        "rating" : 4.89,
         "total" : 2
       },
       "recap" : false,
@@ -356,7 +360,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 1.71,
+        "rating" : 1.7,
         "total" : 2
       },
       "recap" : false,
@@ -407,11 +411,22 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-11-23",
+      "description" : "It turns out the true \"betrayer\" from LPFM was Llenn. Pitohui lied, saying she was the betrayer to fight Llenn with all her power. Llenn becomes outraged as she learns the truth and declares she wants to defeat Pitohui.\nSource: Crunchyroll",
       "episode_id" : 287859,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 2.98,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UE9JGM" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Duel"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kettou"
       }, {
@@ -427,10 +442,26 @@
       "episode_id" : 288674,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 7.4,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMN1GN" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "An Invite to the Battlefield"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Invitation sur le front"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Senjou e no Shoutai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "戦場への招待"
       } ],
       "type" : "REGULAR"
     }, {
@@ -440,8 +471,14 @@
       "number" : 10,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akuma no Shiro"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "The Devil`s Castle"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "悪魔の城"
       } ],
       "type" : "REGULAR"
     }, {
@@ -546,12 +583,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.42,
-      "total" : 36
+      "rating" : 5.6,
+      "total" : 38
     },
     "TEMPORARY" : {
-      "rating" : 6.52,
-      "total" : 36
+      "rating" : 6.64,
+      "total" : 38
     }
   },
   "related" : {
@@ -601,6 +638,10 @@
     "title" : "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインII",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "刀剑神域外传 Gun Gale Online 第二季",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "CHINESE_TRADITIONAL",
     "title" : "刀劍神域外傳 Gun Gale Online II",
     "type" : "OFFICIAL"
@@ -619,6 +660,10 @@
   }, {
     "language" : "UNKNOWN",
     "title" : "ggo2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "刀剑神域外传：暴风之铳 第二季",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

@@ -8,7 +8,7 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 2.64,
+        "rating" : 2.63,
         "total" : 2
       },
       "recap" : false,
@@ -21,7 +21,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.7,
+      "rating" : 4.71,
       "total" : 57
     },
     "TEMPORARY" : {
@@ -57,6 +57,21 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2797" : {
       "info_box" : true,
       "name" : "new",
@@ -64,6 +79,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "3618" : {
+      "info_box" : false,
+      "name" : "ocean",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "4664" : {
       "info_box" : true,

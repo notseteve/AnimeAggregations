@@ -88,7 +88,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.82,
+        "rating" : 5.83,
         "total" : 6
       },
       "recap" : false,
@@ -138,7 +138,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.69,
+        "rating" : 6.65,
         "total" : 5
       },
       "recap" : false,
@@ -163,7 +163,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.61,
+        "rating" : 5.62,
         "total" : 6
       },
       "recap" : false,
@@ -188,7 +188,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.43,
+        "rating" : 4.44,
         "total" : 6
       },
       "recap" : false,
@@ -363,7 +363,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 4.97,
+        "rating" : 4.98,
         "total" : 6
       },
       "recap" : false,
@@ -406,8 +406,8 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.36,
-        "total" : 1
+        "rating" : 5.91,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -420,6 +420,10 @@
       "episode_id" : 264843,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.16,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -431,6 +435,10 @@
       "episode_id" : 270880,
       "length" : 2,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.16,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -442,6 +450,10 @@
       "episode_id" : 270881,
       "length" : 2,
       "number" : 4,
+      "rating" : {
+        "rating" : 8.5,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -453,6 +465,10 @@
       "episode_id" : 264844,
       "length" : 2,
       "number" : 5,
+      "rating" : {
+        "rating" : 5.66,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -464,6 +480,10 @@
       "episode_id" : 264845,
       "length" : 2,
       "number" : 6,
+      "rating" : {
+        "rating" : 8.5,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -585,12 +605,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.32,
-      "total" : 858
+      "rating" : 6.34,
+      "total" : 870
     },
     "TEMPORARY" : {
       "rating" : 7.1,
-      "total" : 863
+      "total" : 875
     }
   },
   "related" : {
@@ -614,24 +634,24 @@
       "total" : 10
     },
     "5909" : {
-      "rating" : 3.5714285714285716,
-      "total" : 14
+      "rating" : 4.0,
+      "total" : 15
     },
     "10676" : {
       "rating" : 3.0,
       "total" : 10
     },
     "15421" : {
-      "rating" : 5.625,
-      "total" : 16
+      "rating" : 5.882352941176471,
+      "total" : 17
     },
     "17914" : {
       "rating" : 4.3478260869565215,
       "total" : 23
     },
     "17999" : {
-      "rating" : 1.6666666666666665,
-      "total" : 6
+      "rating" : 1.4285714285714284,
+      "total" : 7
     }
   },
   "start_date" : "2023-01-07",
@@ -651,6 +671,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "1471" : {
+      "info_box" : false,
+      "name" : "lethal chef",
+      "parent_tag_id" : 2653,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1760" : {
+      "info_box" : false,
+      "name" : "bishounen",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1973" : {
+      "info_box" : false,
+      "name" : "cooking",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2043" : {
       "info_box" : false,
       "name" : "high school",
@@ -658,6 +702,21 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2391" : {
+      "info_box" : false,
+      "name" : "bishoujo",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2606" : {
       "info_box" : false,
@@ -673,9 +732,23 @@
       "verified" : false,
       "weight" : 0
     },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -686,6 +759,54 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2778" : {
       "info_box" : false,
@@ -703,13 +824,45 @@
       "verified" : false,
       "weight" : 0
     },
-    "2858" : {
+    "2834" : {
       "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : true,
       "name" : "romance",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2869" : {
       "info_box" : true,
@@ -719,6 +872,38 @@
       "verified" : false,
       "weight" : 400
     },
+    "2910" : {
+      "info_box" : false,
+      "name" : "parental abandonment",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3103" : {
+      "info_box" : false,
+      "name" : "first love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3696" : {
       "info_box" : false,
       "name" : "off-model animation",
@@ -727,10 +912,82 @@
       "verified" : false,
       "weight" : 0
     },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3867" : {
+      "info_box" : false,
+      "name" : "ED variety",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4176" : {
       "info_box" : false,
       "name" : "OP and ED sung by cast",
       "parent_tag_id" : 6148,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4228" : {
+      "info_box" : false,
+      "name" : "subtle OP ED sequence change",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4440" : {
+      "info_box" : false,
+      "name" : "boy meets girl",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4480" : {
+      "info_box" : false,
+      "name" : "happy ending",
+      "parent_tag_id" : 6246,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4498" : {
+      "info_box" : false,
+      "name" : "heart-warming",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -753,6 +1010,30 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
