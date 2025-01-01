@@ -37,6 +37,10 @@
       "character_id" : 144188,
       "name" : "Tonouchi Yoshio",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 145208,
+      "name" : "Tsuru",
+      "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 135245,
@@ -142,6 +146,10 @@
       "name" : "Nishida Miyako",
       "type" : "CHARACTER_DESIGN"
     } ],
+    "11814" : [ {
+      "name" : "Masudate Toshihide",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "19969" : [ {
       "name" : "Habara Kumiko",
       "type" : "DIRECTOR"
@@ -158,9 +166,16 @@
       "name" : "Ihara Kenta",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "44568" : [ {
+      "name" : "Deguchi Kaho",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "54777" : [ {
       "name" : "Ooba Yuuko",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Ooba Yuuko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "57662" : [ {
       "name" : "Maho Film",
@@ -168,6 +183,14 @@
     }, {
       "name" : "Maho Film",
       "type" : "WORK"
+    } ],
+    "70835" : [ {
+      "name" : "Hirose Yoshio",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "70836" : [ {
+      "name" : "Inose Manami",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "* Based on an action historical manga by http://anidb.net/cr21290 [Yasuda Tsuyoshi].\nhttp://anidb.net/ch135245 [Nio] is an orphan who can`t help dreaming of a better world. He meets two men who show him how much a few swords can change history.\nSource: Kodansha\nNote: The first episode received an early screening on 4 July 2024 at Anime Expo in Los Angeles, and on 5 October 2024 at Anime Festival Kassel in Germany. Additionally, the first two episodes received an early screening at a special event on 9 October 2024 at Ikebukuro Humax Cinemas in Tokyo. The regular TV broadcast started on 19 October 2024.",
@@ -333,6 +356,10 @@
       "episode_id" : 288485,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 1.49,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -350,6 +377,10 @@
       "episode_id" : 289278,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 1.49,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -369,8 +400,14 @@
       "number" : 10,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saijaku no Shougun"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "The Weakest Shogun"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "最弱の将軍"
       } ],
       "type" : "REGULAR"
     }, {
@@ -399,12 +436,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.55,
-      "total" : 21
+      "rating" : 4.85,
+      "total" : 25
     },
     "TEMPORARY" : {
-      "rating" : 6.14,
-      "total" : 21
+      "rating" : 6.16,
+      "total" : 25
     }
   },
   "resources" : {

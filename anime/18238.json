@@ -204,6 +204,14 @@
       "name" : "Kibito",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 145324,
+      "name" : "Majin Duu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145030,
+      "name" : "Majin Kuu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 144926,
       "name" : "Marba",
       "type" : "CHARACTER"
@@ -214,6 +222,10 @@
     }, {
       "character_id" : 144004,
       "name" : "Piccolo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145203,
+      "name" : "Tamagami Number One",
       "type" : "CHARACTER"
     }, {
       "character_id" : 144927,
@@ -263,6 +275,10 @@
       "name" : "Yashima Yoshitaka",
       "type" : "DIRECTOR"
     } ],
+    "19524" : [ {
+      "name" : "Ide Takeo",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "22870" : [ {
       "name" : "Takahashi Yuuya",
       "type" : "CHIEF_ANIMATION_DIRECTION"
@@ -285,7 +301,7 @@
       "length" : 35,
       "number" : 1,
       "rating" : {
-        "rating" : 2.51,
+        "rating" : 2.5,
         "total" : 4
       },
       "recap" : false,
@@ -476,6 +492,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-11-29",
+      "description" : "The fight with a Tamagami begins! The Tamagamis are the undefeated guardians of the Dragon Balls. Seeing Goku fight toe-to-toe with one, Panzy and the others are unable to hide their surprise. As the battle heats up, what will happen?!\nSource: Crunchyroll",
       "episode_id" : 287819,
       "length" : 25,
       "number" : 8,
@@ -503,10 +520,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-12-06",
+      "description" : "Rumors of what Goku did in the Third Demon World spread across the Demon Realm. To avoid trouble, Goku wears a disguise at the hotel, but they can`t let their guard down in the Third Demon World. Thieves see through his disguise!\nSource: Crunchyroll",
       "episode_id" : 289024,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 6.86,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQNE72" ]
+      },
       "titles" : [ {
         "language" : "GERMAN",
         "title" : "Diebe"
@@ -523,24 +548,58 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-12-13",
+      "description" : "Goku and his companions arrive at the mystic Second Demon World where a giant ocean spreads as far as the eye can see! The party is amazed at the new world but is immediately attacked by Gendarmerie that have been sent by Gomah!\nSource: Crunchyroll",
       "episode_id" : 289025,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 6.86,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNXVKN" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Ocean"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Ozean"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Unabara"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ウナバラ"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-12-20",
+      "description" : "Having regrouped with Vegeta and the others, Goku and his companions arrive at a planet that seems familiar. As they move to head out, a suspicious shadow approaches! It`s the Legendary Namek who remained alone in the Demon Realm!\nSource: Crunchyroll",
       "episode_id" : 289026,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 6.86,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UGVD2W" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Densetsu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Legend"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Legende"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "デンセツ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -550,8 +609,61 @@
       "number" : 12,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sokojikara"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "True Strength"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Wahre Stärke"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ソコヂカラ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-03",
+      "episode_id" : 289781,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 13"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-10",
+      "episode_id" : 289782,
+      "length" : 25,
+      "number" : 14,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 14"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-17",
+      "episode_id" : 289783,
+      "length" : 25,
+      "number" : 15,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 15"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-24",
+      "episode_id" : 289784,
+      "length" : 25,
+      "number" : 16,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 16"
       } ],
       "type" : "REGULAR"
     } ],
@@ -561,7 +673,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.17,
+        "rating" : 4.16,
         "total" : 2
       },
       "recap" : false,
@@ -592,7 +704,7 @@
       "length" : 1,
       "number" : 1,
       "rating" : {
-        "rating" : 4.12,
+        "rating" : 4.11,
         "total" : 2
       },
       "recap" : false,
@@ -605,16 +717,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.37,
-      "total" : 31
+      "rating" : 5.42,
+      "total" : 33
     },
     "REVIEW" : {
       "rating" : 3.83,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.5,
-      "total" : 31
+      "rating" : 6.73,
+      "total" : 35
     }
   },
   "related" : {

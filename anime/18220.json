@@ -74,6 +74,10 @@
       "name" : "Iemura Yasochika",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 145247,
+      "name" : "Ise Isuzu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 9590,
       "name" : "Ishida Ryuuken",
       "type" : "CHARACTER"
@@ -132,6 +136,14 @@
     }, {
       "character_id" : 9358,
       "name" : "Kurumadani Zennosuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145246,
+      "name" : "Kyoukotsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145248,
+      "name" : "Kyouraku Shunzan",
       "type" : "CHARACTER"
     }, {
       "character_id" : 9345,
@@ -418,7 +430,7 @@
       "type" : "SERIES_COMPOSITION"
     } ],
     "10654" : [ {
-      "name" : "Komatsubara Kiyoshi",
+      "name" : "Komatsubara Sei",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "12902" : [ {
@@ -446,6 +458,7 @@
     } ]
   },
   "description" : "* Based on an adventure supernatural shounen manga by http://anidb.net/cr979 [Kubo Taito].\nNote: The first two episodes received an early screening at a special event on 16 September 2024 at Yamano Hall in Tokyo. The regular TV broadcast started on 5 October 2024.",
+  "end_date" : "2024-12-29",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-05",
@@ -645,8 +658,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 2.82,
-        "total" : 1
+        "rating" : 5.74,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -668,6 +681,10 @@
       "episode_id" : 288663,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 7.02,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE",
@@ -688,6 +705,10 @@
       "episode_id" : 288664,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 4.49,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE",
@@ -706,12 +727,52 @@
     }, {
       "air_date" : "2024-12-21",
       "episode_id" : 288665,
-      "length" : 25,
+      "length" : 30,
       "number" : 12,
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Freund"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Friend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Friend"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "friend"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-28",
+      "episode_id" : 289862,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Die sichtbare Antwort"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "THE VISIBLE ANSWER"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Visible Answer"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "The Visible Answer"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-29",
+      "episode_id" : 289904,
+      "length" : 25,
+      "number" : 14,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 14"
       } ],
       "type" : "REGULAR"
     } ],
@@ -756,12 +817,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.21,
-      "total" : 39
+      "rating" : 7.4,
+      "total" : 46
     },
     "TEMPORARY" : {
-      "rating" : 7.5,
-      "total" : 40
+      "rating" : 7.59,
+      "total" : 47
     }
   },
   "related" : {
@@ -782,9 +843,141 @@
   },
   "start_date" : "2024-10-05",
   "tags" : {
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : true,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5863" : {
+      "info_box" : false,
+      "name" : "Weekly Shounen Jump",
+      "parent_tag_id" : 2798,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5889" : {
+      "info_box" : false,
+      "name" : "magic weapons",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

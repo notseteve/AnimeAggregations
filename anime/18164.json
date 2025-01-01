@@ -113,7 +113,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.13,
+        "rating" : 8.14,
         "total" : 5
       },
       "recap" : false,
@@ -138,7 +138,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.91,
+        "rating" : 7.92,
         "total" : 5
       },
       "recap" : false,
@@ -263,7 +263,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.27,
+        "rating" : 7.28,
         "total" : 2
       },
       "recap" : false,
@@ -313,7 +313,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.39,
+        "rating" : 6.4,
         "total" : 2
       },
       "recap" : false,
@@ -385,12 +385,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.51,
-      "total" : 511
+      "rating" : 5.52,
+      "total" : 522
     },
     "TEMPORARY" : {
-      "rating" : 6.72,
-      "total" : 512
+      "rating" : 6.73,
+      "total" : 523
     }
   },
   "resources" : {
@@ -415,12 +415,12 @@
       "total" : 10
     },
     "17884" : {
-      "rating" : 9.166666666666666,
-      "total" : 12
+      "rating" : 9.230769230769232,
+      "total" : 13
     },
     "18013" : {
       "rating" : 10.0,
-      "total" : 8
+      "total" : 10
     }
   },
   "start_date" : "2024-01-07",
@@ -440,9 +440,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2608" : {
       "info_box" : false,
       "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -461,6 +482,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
@@ -469,6 +498,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2614" : {
+      "info_box" : true,
+      "name" : "josei",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2628" : {
       "info_box" : false,
       "name" : "fictional location",
@@ -476,6 +521,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2641" : {
+      "info_box" : false,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2686" : {
+      "info_box" : false,
+      "name" : "Victorian period",
+      "parent_tag_id" : 2641,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2849" : {
       "info_box" : false,
@@ -492,6 +569,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3314" : {
+      "info_box" : false,
+      "name" : "fate",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3528" : {
       "info_box" : false,
       "name" : "reincarnation",
@@ -504,6 +589,38 @@
       "info_box" : false,
       "name" : "strong female lead",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5384" : {
+      "info_box" : false,
+      "name" : "put right what once went wrong",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5593" : {
+      "info_box" : false,
+      "name" : "branching story",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5651" : {
+      "info_box" : false,
+      "name" : "against destiny",
+      "parent_tag_id" : 3314,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

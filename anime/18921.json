@@ -63,6 +63,7 @@
     "PREQUEL" : [ 17931 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "397471" ],
     "ANN" : [ "33714" ],
     "MAL" : [ "60098" ],
     "TWITTER" : [ "heroaca_anime" ],
@@ -70,8 +71,31 @@
     "WIKIPEDIA_EN" : [ "My_Hero_Academia" ],
     "WIKIPEDIA_JP" : [ "僕のヒーローアカデミア_(アニメ)" ]
   },
-  "start_date" : "2025",
+  "start_date" : "2025-10",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5863" : {
+      "info_box" : false,
+      "name" : "Weekly Shounen Jump",
+      "parent_tag_id" : 2798,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

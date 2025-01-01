@@ -119,11 +119,14 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.34,
+        "rating" : 7.33,
         "total" : 2
       },
       "recap" : false,
       "titles" : [ {
+        "language" : "PORTUGUESE",
+        "title" : "Floresta Assombrada"
+      }, {
         "language" : "ENGLISH",
         "title" : "Haunted Forest"
       }, {
@@ -150,6 +153,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Broken"
+      }, {
+        "language" : "PORTUGUESE",
+        "title" : "Destroçada"
       }, {
         "language" : "GERMAN",
         "title" : "Gebrochen"
@@ -181,6 +187,9 @@
         "language" : "GERMAN",
         "title" : "Schrottplatz"
       }, {
+        "language" : "PORTUGUESE",
+        "title" : "Sucata"
+      }, {
         "language" : "JAPANESE",
         "title" : "くず鉄置き場"
       } ],
@@ -191,7 +200,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.58,
+        "rating" : 4.57,
         "total" : 2
       },
       "recap" : false,
@@ -201,6 +210,9 @@
       }, {
         "language" : "ENGLISH",
         "title" : "Night Caller"
+      }, {
+        "language" : "PORTUGUESE",
+        "title" : "Predadores na Noite"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Yuuyami no Raihousha"
@@ -226,6 +238,9 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kawa"
       }, {
+        "language" : "PORTUGUESE",
+        "title" : "O Rio"
+      }, {
         "language" : "ENGLISH",
         "title" : "The River"
       }, {
@@ -239,11 +254,14 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.34,
+        "rating" : 7.33,
         "total" : 2
       },
       "recap" : false,
       "titles" : [ {
+        "language" : "PORTUGUESE",
+        "title" : "Comboio para o Esquecimento"
+      }, {
         "language" : "ENGLISH",
         "title" : "Convoy to Oblivion"
       }, {
@@ -273,12 +291,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.2,
-      "total" : 64
+      "rating" : 4.28,
+      "total" : 71
     },
     "TEMPORARY" : {
-      "rating" : 5.9,
-      "total" : 65
+      "rating" : 5.88,
+      "total" : 72
     }
   },
   "related" : {
@@ -287,8 +305,10 @@
   "resources" : {
     "ALL_CINEMA" : [ "394350" ],
     "ANN" : [ "28890" ],
+    "IMDB" : [ "tt30277745" ],
     "MAL" : [ "55845" ],
     "NETFLIX" : [ "81276500" ],
+    "TMDB" : [ "tv/229906" ],
     "WEBSITE" : [ "https://gundam-requiem.net/" ],
     "WIKIPEDIA_EN" : [ "Gundam:_Requiem_for_Vengeance" ],
     "WIKIPEDIA_JP" : [ "機動戦士ガンダム_復讐のレクイエム" ]
@@ -326,6 +346,29 @@
       "verified" : false,
       "weight" : 0
     },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6097" : {
+      "info_box" : false,
+      "name" : "3D CG animation",
+      "parent_tag_id" : 4064,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -354,6 +397,10 @@
     "language" : "JAPANESE",
     "title" : "機動戦士ガンダム 復讐のレクイエム",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "PORTUGUESE",
+    "title" : "Gundam: Réquiem para a Vingança",
+    "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",
     "title" : "Mobile Suit Gundam: Requiem for Vengeance",

@@ -1,6 +1,23 @@
 {
   "anime_id" : 17929,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 120116,
+      "name" : "Itaya Shougo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 120115,
+      "name" : "Ueki Ryou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 120018,
+      "name" : "Uenoyama Yayoi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 136890,
+      "name" : "Yoshida Yuki",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 103483,
       "name" : "Kaji Akihiko",
@@ -58,7 +75,14 @@
       "episode_id" : 272391,
       "length" : 70,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.96,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUEMXMJ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Hiiragi Mix"
@@ -91,19 +115,21 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.33,
-      "total" : 2
+      "rating" : 5.83,
+      "total" : 4
     },
     "TEMPORARY" : {
-      "rating" : 6.0,
-      "total" : 2
+      "rating" : 6.37,
+      "total" : 4
     }
   },
   "related" : {
     "PREQUEL" : [ 15102 ]
   },
   "resources" : {
+    "ANISON" : [ "25316" ],
     "ANN" : [ "27565" ],
+    "CRUNCHY_ROLL" : [ "GRG5WWD4R" ],
     "MAL" : [ "54791" ],
     "TMDB" : [ "movie/1103481" ],
     "TWITTER" : [ "given_anime" ],

@@ -22,6 +22,10 @@
       "name" : "Megami",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 135954,
+      "name" : "Mondo",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 117384,
       "name" : "Morris",
       "type" : "CHARACTER"
@@ -168,7 +172,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.41,
+        "rating" : 6.42,
         "total" : 10
       },
       "recap" : false,
@@ -511,8 +515,8 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 7.33,
-        "total" : 1
+        "rating" : 8.56,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -525,6 +529,10 @@
       "episode_id" : 242565,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.65,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -536,6 +544,10 @@
       "episode_id" : 249727,
       "length" : 2,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.14,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -547,6 +559,10 @@
       "episode_id" : 249728,
       "length" : 2,
       "number" : 4,
+      "rating" : {
+        "rating" : 8.49,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -622,11 +638,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.38,
-      "total" : 1655
+      "total" : 1664
     },
     "TEMPORARY" : {
       "rating" : 7.24,
-      "total" : 1663
+      "total" : 1672
     }
   },
   "related" : {
@@ -664,12 +680,19 @@
       "total" : 11
     },
     "17662" : {
-      "rating" : 5.0,
-      "total" : 2
+      "rating" : 3.333333333333333,
+      "total" : 3
     }
   },
   "start_date" : "2021-07-07",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "627" : {
       "info_box" : false,
       "name" : "lingerie",
@@ -682,6 +705,14 @@
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -798,6 +829,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2618" : {
       "info_box" : false,
       "name" : "collateral damage",
@@ -870,6 +909,14 @@
       "verified" : false,
       "weight" : 500
     },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2774" : {
       "info_box" : false,
       "name" : "spellcasting",
@@ -897,6 +944,14 @@
     "2817" : {
       "info_box" : false,
       "name" : "skimpy clothing",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2827" : {
+      "info_box" : false,
+      "name" : "sudden naked guy appearance",
       "parent_tag_id" : 2856,
       "spoiler" : false,
       "verified" : false,
@@ -1165,6 +1220,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3867" : {
+      "info_box" : false,
+      "name" : "ED variety",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4030" : {
       "info_box" : false,
       "name" : "mental cinema",
@@ -1177,6 +1240,14 @@
       "info_box" : false,
       "name" : "facial distortion",
       "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1325,6 +1396,38 @@
       "verified" : false,
       "weight" : 100
     },
+    "5626" : {
+      "info_box" : false,
+      "name" : "adults are useless",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5638" : {
+      "info_box" : false,
+      "name" : "military is useless",
+      "parent_tag_id" : 5626,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5779" : {
+      "info_box" : false,
+      "name" : "anachronisms",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5824" : {
+      "info_box" : false,
+      "name" : "god is a girl",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5835" : {
       "info_box" : false,
       "name" : "Gainax bounce",
@@ -1345,6 +1448,14 @@
       "info_box" : false,
       "name" : "manly tears",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5939" : {
+      "info_box" : false,
+      "name" : "CAST MISSING",
+      "parent_tag_id" : 30,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

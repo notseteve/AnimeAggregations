@@ -460,7 +460,7 @@
       "length" : 125,
       "number" : 1,
       "rating" : {
-        "rating" : 3.78,
+        "rating" : 3.81,
         "total" : 1
       },
       "recap" : false,
@@ -473,16 +473,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.41,
-      "total" : 80
+      "rating" : 6.39,
+      "total" : 82
     },
     "REVIEW" : {
       "rating" : 4.33,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.88,
-      "total" : 80
+      "rating" : 6.87,
+      "total" : 82
     }
   },
   "related" : {
@@ -508,6 +508,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "36" : {
+      "info_box" : false,
+      "name" : "military",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "638" : {
       "info_box" : false,
@@ -565,9 +573,23 @@
       "verified" : false,
       "weight" : 0
     },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -683,10 +705,42 @@
       "verified" : false,
       "weight" : 100
     },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2868" : {
+      "info_box" : false,
+      "name" : "racism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2907" : {
       "info_box" : false,
       "name" : "genetic modification",
       "parent_tag_id" : 2636,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
@@ -707,10 +761,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "3295" : {
+      "info_box" : false,
+      "name" : "world domination",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3436" : {
       "info_box" : false,
       "name" : "human experimentation",
       "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3759" : {
+      "info_box" : false,
+      "name" : "teamwork",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -731,10 +801,26 @@
       "verified" : false,
       "weight" : 100
     },
+    "4277" : {
+      "info_box" : false,
+      "name" : "nuclear weapons",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4299" : {
       "info_box" : false,
       "name" : "flashback",
       "parent_tag_id" : 6148,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4342" : {
+      "info_box" : false,
+      "name" : "large-scale war",
+      "parent_tag_id" : 2925,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -747,10 +833,50 @@
       "verified" : false,
       "weight" : 0
     },
+    "4480" : {
+      "info_box" : false,
+      "name" : "happy ending",
+      "parent_tag_id" : 6246,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4665" : {
+      "info_box" : false,
+      "name" : "propaganda",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4849" : {
       "info_box" : false,
       "name" : "Zaku",
       "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5773" : {
+      "info_box" : false,
+      "name" : "secret organisation",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5826" : {
+      "info_box" : false,
+      "name" : "rivalry",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5854" : {
+      "info_box" : false,
+      "name" : "wartime propaganda",
+      "parent_tag_id" : 4665,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -763,10 +889,26 @@
       "verified" : false,
       "weight" : 100
     },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6019" : {
       "info_box" : false,
       "name" : "brainwashing",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6086" : {
+      "info_box" : false,
+      "name" : "the power of love",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -790,6 +932,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

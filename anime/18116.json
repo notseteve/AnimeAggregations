@@ -75,8 +75,20 @@
       "type" : "ORGANIZATION"
     } ],
     "MAIN" : [ {
+      "character_id" : 91609,
+      "name" : "Fukajirou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 91610,
       "name" : "Llenn",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 91607,
+      "name" : "M",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 91608,
+      "name" : "Pitohui",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
@@ -104,10 +116,6 @@
       "name" : "Fujisawa Kana",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 91609,
-      "name" : "Fukajirou",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 128367,
       "name" : "Kanzaki Elza",
       "type" : "CHARACTER"
@@ -118,10 +126,6 @@
     }, {
       "character_id" : 128366,
       "name" : "Kusunoki Risa",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 91607,
-      "name" : "M",
       "type" : "CHARACTER"
     }, {
       "character_id" : 128360,
@@ -136,16 +140,12 @@
       "name" : "Noguchi Shiori",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 91608,
-      "name" : "Pitohui",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 128362,
       "name" : "Roza",
       "type" : "CHARACTER"
     }, {
       "character_id" : 128368,
-      "name" : "Shinohara Miyuu",
+      "name" : "Shinohara Miyu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 128352,
@@ -439,6 +439,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-11-30",
+      "description" : "A month has passed since the fierce SJ3 battles. Karen returns to Hokkaido and tells Miyu she can’t decide whether to continue playing GGO. However, Miyu figures out that Karen`s actually concerned about the pure rivalry with Elza and Saki.\nSource: Crunchyroll",
       "episode_id" : 288674,
       "length" : 25,
       "number" : 9,
@@ -466,13 +467,24 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-12-07",
+      "description" : "Llenn decides to participate in the game to battle Eva of SHINC with all her might. To clear the game, a player must destroy all seven NPCs or take back the gas bombs they stole. Llenn and LPFM members head to the location where the enemy awaits. They encounter SHINC along the way. As they`re about to attack, ZEMAL attacks them first. ZEMAL`s attack proved too much as their \"backpack style ammunition carriage system\" allowed them to fire rapidly without any breaks, leaving Llenn and LPFM clueless on how to counterattack.\nSource: Crunchyroll",
       "episode_id" : 288675,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 3.58,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMK9ZN" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Akuma no Shiro"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le château démoniaque"
       }, {
         "language" : "ENGLISH",
         "title" : "The Devil`s Castle"
@@ -483,13 +495,23 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-12-14",
+      "description" : "NPCs barricade themselves in a castle and easily wipe out MMTM and SHINC with power beyond anybody`s imagination. ZEMAL subsequently tries to enter the castle with a sign that says, \"We’re not your enemy; let us into the castle!\" They fail as Pitohui sabotages them. LPFM`s drone, considered the jewel in their operations, gets shot down by NPC attacks. Pitohui suggests everyone from the other teams cooperate in a coordinated attack. They attack the castle with T-S, ZEMAL, MMTM, and SHINC!\nSource: Crunchyroll",
       "episode_id" : 288676,
       "length" : 25,
       "number" : 11,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7VW83" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Pitohui no Totsugeki"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Pitohui`s Attack"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ピトフーイの突撃"
       } ],
       "type" : "REGULAR"
     }, {
@@ -499,8 +521,14 @@
       "number" : 12,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tatakau Riyuu wa"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "The Reason to Fight"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "戦う理由は"
       } ],
       "type" : "REGULAR"
     } ],
@@ -583,12 +611,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.6,
-      "total" : 38
+      "rating" : 5.45,
+      "total" : 41
     },
     "TEMPORARY" : {
-      "rating" : 6.64,
-      "total" : 38
+      "rating" : 6.62,
+      "total" : 41
     }
   },
   "related" : {

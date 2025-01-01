@@ -1,10 +1,34 @@
 {
   "anime_id" : 18406,
-  "creators" : {
-    "9326" : [ {
-      "name" : "Kamakura Yumi",
-      "type" : "DIRECTOR"
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 145211,
+      "name" : "Amabe Kakeru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145213,
+      "name" : "Hoshibe Wataru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145209,
+      "name" : "Maro",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145212,
+      "name" : "Ofurain",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145214,
+      "name" : "Ryuujinmaru",
+      "type" : "CHARACTER"
     } ],
+    "SECONDARY" : [ {
+      "character_id" : 145210,
+      "name" : "Ryunryun",
+      "type" : "CHARACTER"
+    } ]
+  },
+  "creators" : {
     "9566" : [ {
       "name" : "Yumoto Yoshinori",
       "type" : "CHARACTER_DESIGN"
@@ -20,6 +44,10 @@
     "25681" : [ {
       "name" : "Nakano Mayuko",
       "type" : "CHARACTER_DESIGN"
+    } ],
+    "26744" : [ {
+      "name" : "Kamakura Yumi",
+      "type" : "DIRECTOR"
     } ],
     "40798" : [ {
       "name" : "Hirokawa Keiichi",
@@ -38,14 +66,64 @@
       "type" : "MUSIC"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-01-12",
+      "episode_id" : 290162,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-19",
+      "episode_id" : 290163,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-26",
+      "episode_id" : 290164,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-02",
+      "episode_id" : 290165,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "396679" ],
+    "ANN" : [ "31509" ],
     "MAL" : [ "57827" ],
+    "SYOBOI" : [ "7301" ],
     "TWITTER" : [ "tv_wataru" ],
     "WEBSITE" : [ "https://wataru-anime.net/" ],
     "WIKIPEDIA_EN" : [ "Mashin_Hero_Wataru" ],
     "WIKIPEDIA_JP" : [ "魔神英雄伝ワタルシリーズ" ]
   },
-  "start_date" : "2025-01",
+  "start_date" : "2025-01-12",
   "tags" : {
     "6173" : {
       "info_box" : false,

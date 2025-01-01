@@ -224,7 +224,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.73,
+        "rating" : 4.72,
         "total" : 6
       },
       "recap" : false,
@@ -435,7 +435,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 5.66,
+        "rating" : 5.65,
         "total" : 1
       },
       "recap" : false,
@@ -450,7 +450,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 4.76,
+        "rating" : 4.75,
         "total" : 2
       },
       "recap" : false,
@@ -463,12 +463,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.25,
-      "total" : 527
+      "rating" : 4.28,
+      "total" : 553
     },
     "TEMPORARY" : {
-      "rating" : 6.15,
-      "total" : 528
+      "rating" : 6.16,
+      "total" : 554
     }
   },
   "resources" : {
@@ -493,6 +493,14 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -523,6 +531,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

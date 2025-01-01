@@ -275,7 +275,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.49,
+        "rating" : 6.5,
         "total" : 7
       },
       "recap" : false,
@@ -349,7 +349,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.11,
+        "rating" : 6.12,
         "total" : 7
       },
       "recap" : false,
@@ -491,7 +491,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 7.03,
+        "rating" : 7.04,
         "total" : 2
       },
       "recap" : false,
@@ -541,12 +541,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.8,
-      "total" : 683
+      "rating" : 4.81,
+      "total" : 689
     },
     "TEMPORARY" : {
       "rating" : 6.51,
-      "total" : 684
+      "total" : 691
     }
   },
   "resources" : {
@@ -601,6 +601,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "1077" : {
+      "info_box" : true,
+      "name" : "shoujo",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1291" : {
       "info_box" : false,
       "name" : "aristocrat",
@@ -635,6 +643,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -675,6 +690,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2614" : {
+      "info_box" : true,
+      "name" : "josei",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2617" : {
       "info_box" : false,
       "name" : "calling your attacks",
@@ -690,6 +713,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2646" : {
       "info_box" : false,
@@ -714,6 +745,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2779" : {
+      "info_box" : false,
+      "name" : "multiple couples",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2785" : {
       "info_box" : false,
@@ -755,6 +794,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2850" : {
+      "info_box" : false,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2853" : {
       "info_box" : true,
       "name" : "comedy",
@@ -771,6 +818,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2868" : {
+      "info_box" : false,
+      "name" : "racism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2869" : {
       "info_box" : true,
       "name" : "school life",
@@ -786,6 +841,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2878" : {
+      "info_box" : false,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2910" : {
+      "info_box" : false,
+      "name" : "parental abandonment",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2925" : {
       "info_box" : false,
@@ -810,6 +881,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "3314" : {
+      "info_box" : false,
+      "name" : "fate",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3378" : {
+      "info_box" : false,
+      "name" : "redemption",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3528" : {
       "info_box" : false,
       "name" : "reincarnation",
@@ -818,10 +905,82 @@
       "verified" : false,
       "weight" : 0
     },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "4052" : {
+      "info_box" : false,
+      "name" : "treasure hunting",
+      "parent_tag_id" : 2850,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4198" : {
+      "info_box" : false,
+      "name" : "hard work and guts",
+      "parent_tag_id" : 5604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4387" : {
       "info_box" : false,
       "name" : "good vs evil",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4398" : {
+      "info_box" : false,
+      "name" : "antihero",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4480" : {
+      "info_box" : false,
+      "name" : "happy ending",
+      "parent_tag_id" : 6246,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4572" : {
+      "info_box" : false,
+      "name" : "human-animal relationship",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -838,6 +997,22 @@
       "info_box" : false,
       "name" : "dungeon",
       "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5604" : {
+      "info_box" : false,
+      "name" : "following one`s dream",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5651" : {
+      "info_box" : false,
+      "name" : "against destiny",
+      "parent_tag_id" : 3314,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -881,10 +1056,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6744" : {
       "info_box" : true,
       "name" : "isekai",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6877" : {
+      "info_box" : false,
+      "name" : "misleading beginning",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -896,6 +1095,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7402" : {
+      "info_box" : false,
+      "name" : "corrupt nobility",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7885" : {
       "info_box" : false,

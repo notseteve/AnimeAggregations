@@ -198,7 +198,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.23,
+        "rating" : 6.22,
         "total" : 2
       },
       "recap" : false,
@@ -223,7 +223,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.49,
+        "rating" : 7.48,
         "total" : 2
       },
       "recap" : false,
@@ -248,7 +248,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.49,
+        "rating" : 7.48,
         "total" : 2
       },
       "recap" : false,
@@ -273,7 +273,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.49,
+        "rating" : 7.48,
         "total" : 2
       },
       "recap" : false,
@@ -298,7 +298,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 9.47,
+        "rating" : 9.46,
         "total" : 1
       },
       "recap" : false,
@@ -323,7 +323,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 7.49,
+        "rating" : 7.48,
         "total" : 2
       },
       "recap" : false,
@@ -348,7 +348,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.49,
+        "rating" : 7.48,
         "total" : 2
       },
       "recap" : false,
@@ -393,12 +393,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.84,
-      "total" : 626
+      "rating" : 4.83,
+      "total" : 628
     },
     "TEMPORARY" : {
       "rating" : 6.34,
-      "total" : 630
+      "total" : 632
     }
   },
   "resources" : {
@@ -464,6 +464,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2614" : {
       "info_box" : true,
       "name" : "josei",
@@ -472,6 +480,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2681" : {
+      "info_box" : false,
+      "name" : "Okinawa",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -479,6 +511,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2853" : {
       "info_box" : false,

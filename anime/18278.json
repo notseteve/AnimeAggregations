@@ -10,6 +10,14 @@
       "name" : "Inomata Yukiko",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 145006,
+      "name" : "Itou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145012,
+      "name" : "Kikuchi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143915,
       "name" : "Taiki no Chichi",
       "type" : "CHARACTER"
@@ -18,12 +26,24 @@
       "name" : "Taiki no Sofu",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 145008,
+      "name" : "Tateyama Yuuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145007,
+      "name" : "Yamaguchi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 144639,
       "name" : "Yamamoto",
       "type" : "CHARACTER"
     }, {
       "character_id" : 143913,
       "name" : "Yuasa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145367,
+      "name" : "Yume",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -58,6 +78,10 @@
     }, {
       "character_id" : 144143,
       "name" : "Kishi Shouichirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145204,
+      "name" : "Moriya Karen",
       "type" : "CHARACTER"
     }, {
       "character_id" : 143715,
@@ -147,7 +171,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.08,
+        "rating" : 7.09,
         "total" : 5
       },
       "recap" : false,
@@ -172,7 +196,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.39,
+        "rating" : 7.4,
         "total" : 5
       },
       "recap" : false,
@@ -270,7 +294,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.04,
+        "rating" : 7.05,
         "total" : 3
       },
       "recap" : false,
@@ -318,7 +342,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.8,
+        "rating" : 6.81,
         "total" : 3
       },
       "recap" : false,
@@ -342,13 +366,16 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.19,
-        "total" : 2
+        "rating" : 4.11,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "It`s Not a Good Thing"
+      }, {
+        "language" : "POLISH",
+        "title" : "Niedobrze"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Yokunai Koto"
@@ -362,10 +389,23 @@
       "episode_id" : 288743,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 7.92,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dasai zo!!"
+      }, {
+        "language" : "POLISH",
+        "title" : "Niefajnie!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Uncool!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ダサいぞ!!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -373,10 +413,67 @@
       "episode_id" : 288744,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 8.94,
+        "total" : 3
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "POLISH",
+        "title" : "Dziewczyny..."
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Girls..."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Onnanokotte"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "女の子って"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-20",
+      "episode_id" : 289767,
+      "length" : 25,
+      "number" : 13,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Episode 13"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2024-12-27",
+      "episode_id" : 289768,
+      "length" : 25,
+      "number" : 14,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 14"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-03",
+      "episode_id" : 289769,
+      "length" : 25,
+      "number" : 15,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 15"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-10",
+      "episode_id" : 289770,
+      "length" : 25,
+      "number" : 16,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 16"
       } ],
       "type" : "REGULAR"
     } ],
@@ -395,12 +492,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.34,
-      "total" : 52
+      "rating" : 7.41,
+      "total" : 59
     },
     "TEMPORARY" : {
-      "rating" : 7.3,
-      "total" : 52
+      "rating" : 7.38,
+      "total" : 59
     }
   },
   "resources" : {

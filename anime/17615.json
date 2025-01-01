@@ -10,6 +10,10 @@
       "name" : "Baius D. Hoelscher",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 120987,
+      "name" : "Freed Baguer",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 144183,
       "name" : "Gahard D. Hoelscher",
       "type" : "CHARACTER"
@@ -42,6 +46,14 @@
       "name" : "Mao",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 105201,
+      "name" : "Miledi Reisen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 126997,
+      "name" : "Miledi Reisen",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143966,
       "name" : "Mina Haulia",
       "type" : "CHARACTER"
@@ -54,12 +66,28 @@
       "name" : "Nagumo Hajime",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 104769,
+      "name" : "Nakamura Eri",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143965,
       "name" : "Nea Haulia",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 120287,
+      "name" : "Noint",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143970,
       "name" : "Par Haulia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 123057,
+      "name" : "Remia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 99832,
+      "name" : "Shirasaki Kaori",
       "type" : "CHARACTER"
     }, {
       "character_id" : 105200,
@@ -97,10 +125,6 @@
     }, {
       "character_id" : 92575,
       "name" : "Shea Haulia",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 99832,
-      "name" : "Shirasaki Kaori",
       "type" : "CHARACTER"
     }, {
       "character_id" : 123142,
@@ -188,6 +212,10 @@
     "52854" : [ {
       "name" : "Shirakome Ryou",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "66368" : [ {
+      "name" : "Niimura Kana",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "* Based on a light novel series written by http://anidb.net/cr52854 [Shirakome Ryou] and illustrated by http://anidb.net/cr36089 [Takayaki].\nNote: The first episode received an early screening on 5 July 2024 at Anime Expo in Los Angeles. The regular TV broadcast started on 14 October 2024.",
@@ -199,7 +227,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.95,
+        "rating" : 4.97,
         "total" : 4
       },
       "recap" : false,
@@ -339,7 +367,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.41,
+        "rating" : 6.4,
         "total" : 2
       },
       "recap" : false,
@@ -367,8 +395,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 1.07,
-        "total" : 1
+        "rating" : 3.79,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -390,9 +418,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-12-02",
+      "description" : "Another trap activates, reversing the emotions each party member holds against the others. Hajime and Yue hate each other, while Kouki has nothing but respect towards Hajime. Moreover, they all fall in love with the enemy.\nSource: Crunchyroll",
       "episode_id" : 288008,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 9.94,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G7PU3PXWV" ]
@@ -413,13 +446,20 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2024-12-09",
+      "description" : "Hajime finally confirms that learning all of the ancient magics can help him return to Earth. With this newfound hope in heart, he reaffirms the bond between him and his friends - including someone whom he now treats as more than a friend.\nSource: Crunchyroll",
       "episode_id" : 289132,
       "length" : 25,
       "number" : 9,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9Z1D7" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Changing Heart"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Cœurs changeants"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kawariyuku Kokoro"
@@ -429,29 +469,41 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-12-16",
+      "air_date" : "2024-12-23",
       "episode_id" : 289133,
       "length" : 25,
       "number" : 10,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saigo no Dai Meikyuu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "The Final Labyrinth"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "最後の大迷宮"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-12-23",
+      "air_date" : "2024-12-30",
       "episode_id" : 289134,
       "length" : 25,
       "number" : 11,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Charging Emotions"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kanjou no Hokosaki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "感情の矛先"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2024-12-30",
+      "air_date" : "2025-01-13",
       "episode_id" : 289135,
       "length" : 25,
       "number" : 12,
@@ -479,16 +531,33 @@
         "title" : "放送直前特番"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-12-16",
+      "episode_id" : 289732,
+      "length" : 30,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "9 Wa made o Furikaeri Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "9話までを振り返りスペシャル"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode 9 Post-Broadcast Recap Special"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.43,
-      "total" : 38
+      "rating" : 4.49,
+      "total" : 41
     },
     "TEMPORARY" : {
-      "rating" : 6.61,
-      "total" : 39
+      "rating" : 6.59,
+      "total" : 42
     }
   },
   "related" : {

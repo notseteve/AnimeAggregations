@@ -38,6 +38,7 @@
       "type" : "CHARACTER_DESIGN"
     } ]
   },
+  "end_date" : "2024-12-20",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-04",
@@ -217,7 +218,10 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Pioneering Tokachi"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tokachi Kaidakushi"
       }, {
         "language" : "JAPANESE",
         "title" : "十勝開拓史"
@@ -230,24 +234,66 @@
       "number" : 12,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hokkaidou Dokuritsu Keikaku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Plan for an Independent Hokkaido"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "北海道独立計画"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-04-23",
+      "episode_id" : 290175,
+      "length" : 0,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tokachi e Go! Zenpen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "十勝へGO! 前篇"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-04-23",
+      "episode_id" : 290176,
+      "length" : 0,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tokachi e Go! Kouhen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "十勝へGO! 後篇"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.49,
-      "total" : 3
+      "rating" : 6.45,
+      "total" : 13
     },
     "TEMPORARY" : {
-      "rating" : 5.5,
-      "total" : 3
+      "rating" : 6.42,
+      "total" : 13
     }
   },
   "related" : {
-    "PREQUEL" : [ 17684 ]
+    "PREQUEL" : [ 17684 ],
+    "SEQUEL" : [ 19065 ]
   },
   "resources" : {
     "ANISON" : [ "24980" ],

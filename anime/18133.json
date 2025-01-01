@@ -223,7 +223,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.01,
+        "rating" : 3.0,
         "total" : 4
       },
       "recap" : false,
@@ -367,7 +367,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 4.2,
+        "rating" : 4.19,
         "total" : 2
       },
       "recap" : false,
@@ -409,20 +409,66 @@
         "title" : "無限にまわる世界輪廻を砕くもの"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-07-20",
+      "episode_id" : 289989,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-07-27",
+      "episode_id" : 289990,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-08-17",
+      "episode_id" : 289991,
+      "length" : 2,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 2"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-09-07",
+      "episode_id" : 289992,
+      "length" : 2,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 3"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.49,
-      "total" : 274
+      "rating" : 2.5,
+      "total" : 280
     },
     "TEMPORARY" : {
-      "rating" : 5.11,
-      "total" : 274
+      "rating" : 5.13,
+      "total" : 280
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "393449" ],
+    "ANISON" : [ "25525" ],
     "ANN" : [ "29143" ],
     "CRUNCHY_ROLL" : [ "GJ0H7QGJE" ],
     "MAL" : [ "56062" ],
@@ -449,6 +495,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "1609" : {
       "info_box" : false,
@@ -512,6 +566,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -562,6 +623,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2635" : {
       "info_box" : false,
