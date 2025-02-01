@@ -154,7 +154,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.59,
-      "total" : 2123
+      "total" : 2125
     },
     "REVIEW" : {
       "rating" : 4.5,
@@ -162,7 +162,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.61,
-      "total" : 2135
+      "total" : 2137
     }
   },
   "related" : {
@@ -175,10 +175,12 @@
     "ANN" : [ "224" ],
     "IMDB" : [ "tt0164917" ],
     "MAL" : [ "420" ],
+    "TMDB" : [ "movie/16767" ],
     "WEBSITE" : [ "http://www.studio4c.co.jp/works/pages/05.html" ],
     "WEBSITE_EN" : [ "http://studio4c.co.jp/works/en/pages/05.html" ],
     "WIKIPEDIA_EN" : [ "Spriggan_(manga)#Film" ],
-    "WIKIPEDIA_JP" : [ "スプリガン_(漫画)#.E5.8A.87.E5.A0.B4.E7.89.88.E3.82.A2.E3.83.8B.E3.83.A1" ]
+    "WIKIPEDIA_JP" : [ "スプリガン_(漫画)#.E5.8A.87.E5.A0.B4.E7.89.88.E3.82.A2.E3.83.8B.E3.83.A1" ],
+    "WIKIPEDIA_ZH" : [ "轟天高校生" ]
   },
   "start_date" : "1998-09-05",
   "tags" : {
@@ -194,6 +196,14 @@
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1955" : {
+      "info_box" : false,
+      "name" : "child soldier",
+      "parent_tag_id" : 2925,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -415,6 +425,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2931" : {
       "info_box" : false,

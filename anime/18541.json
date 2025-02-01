@@ -1,6 +1,15 @@
 {
   "anime_id" : 18541,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 145479,
+      "name" : "Arnold Holzweilzenegger",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145480,
+      "name" : "Kasman",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 139415,
       "name" : "Aria",
@@ -65,7 +74,98 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "Note: The first episode premiered at Anime Frontier (Fort Worth, Texas) on Dec 7. Regular broadcast started in January.",
+  "description" : "After dying in battle against the forces of evil, a knight is reborn as a behemoth—one of the most powerful monsters in the world! However, baby behemoths look an awful lot like adorable house cats. Just when he thinks his situation couldn`t be more confusing, a beautiful http://anidb.net/ch139415 [elven adventurer] rescues him from the brink of death and adopts him as her pet. This \"http://anidb.net/ch139416 [cat`s]\" baffling journey is just getting started.\nSource: HIDIVE\nNote: The first episode premiered on 7 December 2024 at Anime Frontier in Fort Worth, Texas. The regular broadcast started on 28 December 2024.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2024-12-28",
+      "episode_id" : 290014,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.95,
+        "total" : 5
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Elf Musume to Kishi no Chikai"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "エルフ娘と騎士の誓い"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-04",
+      "episode_id" : 290015,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "The Tiger-Eared Blacksmith and a New Skill"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tora Mimi Kajishi to Arata naru Skill"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "虎耳鍛冶師と新たなるスキル"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-11",
+      "episode_id" : 290016,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-18",
+      "episode_id" : 290017,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-12-28",
+      "episode_id" : 290925,
+      "length" : 55,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Chokuzen Tokuban"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前特番"
+      } ],
+      "type" : "SPECIAL"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.86,
+      "total" : 20
+    },
+    "TEMPORARY" : {
+      "rating" : 4.95,
+      "total" : 20
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "395940" ],
     "ANN" : [ "32502" ],
@@ -78,6 +178,59 @@
   },
   "start_date" : "2024-12-28",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2817" : {
+      "info_box" : false,
+      "name" : "skimpy clothing",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -92,6 +245,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7905" : {
+      "info_box" : false,
+      "name" : "large breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     }
   },
   "titles" : [ {

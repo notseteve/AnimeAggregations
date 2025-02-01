@@ -7,6 +7,10 @@
       "episode_id" : 290258,
       "length" : 20,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.33,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -17,16 +21,20 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.42,
-      "total" : 10
+      "rating" : 3.25,
+      "total" : 24
     },
     "TEMPORARY" : {
-      "rating" : 5.3,
-      "total" : 10
+      "rating" : 5.12,
+      "total" : 24
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 19074 ]
   },
   "resources" : {
     "MAL" : [ "60443" ],
+    "TMDB" : [ "tv/278773" ],
     "WEBSITE" : [ "https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_430608/" ]
   },
   "start_date" : "2024-11-29",
@@ -70,6 +78,14 @@
     "language" : "JAPANESE",
     "title" : "お兄さん…おひとりですか？",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Onii-san... Ohitori desu ka?",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "KOREAN",
+    "title" : "오빠... 혼자세요?",
+    "type" : "SYNONYM"
   } ],
   "type" : "WEB",
   "url" : "https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_430608/"

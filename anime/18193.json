@@ -48,6 +48,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 145352,
+      "name" : "Ayame",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 144063,
       "name" : "Baachan",
       "type" : "CHARACTER"
@@ -90,6 +94,10 @@
     }, {
       "character_id" : 136797,
       "name" : "Kondou Isami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145351,
+      "name" : "Kyouhachi Naozumi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 144661,
@@ -249,7 +257,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.37,
+        "rating" : 3.38,
         "total" : 3
       },
       "recap" : false,
@@ -294,7 +302,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 2.16,
+        "rating" : 2.17,
         "total" : 3
       },
       "recap" : false,
@@ -315,7 +323,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.22,
+        "rating" : 3.23,
         "total" : 2
       },
       "recap" : false,
@@ -398,6 +406,10 @@
       "episode_id" : 289279,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 1.49,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -415,10 +427,20 @@
       "episode_id" : 289672,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 1.49,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shin no Tsuyosa"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "True Strength"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "真の強さ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -429,22 +451,79 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Eight Heads"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yattsu no Atama"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "八つの頭"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-11",
+      "episode_id" : 290192,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Onaji Yume o Egaite"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Sharing the Same Dream"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "同じ夢を描いて"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-18",
+      "episode_id" : 290193,
+      "length" : 25,
+      "number" : 14,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 14"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-25",
+      "episode_id" : 290194,
+      "length" : 25,
+      "number" : 15,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 15"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-01",
+      "episode_id" : 290195,
+      "length" : 25,
+      "number" : 16,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 16"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.85,
-      "total" : 25
+      "rating" : 4.63,
+      "total" : 29
     },
     "TEMPORARY" : {
-      "rating" : 6.16,
-      "total" : 25
+      "rating" : 5.79,
+      "total" : 29
     }
   },
   "resources" : {
+    "ANISON" : [ "25644" ],
     "ANN" : [ "29882" ],
     "CRUNCHY_ROLL" : [ "GXJHM3GP8" ],
     "MAL" : [ "56647" ],
@@ -457,7 +536,7 @@
   "similar" : {
     "1056" : {
       "rating" : 10.0,
-      "total" : 2
+      "total" : 3
     }
   },
   "start_date" : "2024-10-19",

@@ -223,7 +223,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.48,
+        "rating" : 8.47,
         "total" : 6
       },
       "recap" : false,
@@ -980,12 +980,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.68,
-      "total" : 661
+      "rating" : 6.7,
+      "total" : 666
     },
     "TEMPORARY" : {
-      "rating" : 7.07,
-      "total" : 663
+      "rating" : 7.08,
+      "total" : 668
     }
   },
   "resources" : {
@@ -1036,10 +1036,57 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2676" : {
+      "info_box" : false,
+      "name" : "Tokyo",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

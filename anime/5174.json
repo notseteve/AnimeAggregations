@@ -123,11 +123,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.37,
-      "total" : 219
+      "total" : 220
     },
     "TEMPORARY" : {
       "rating" : 5.66,
-      "total" : 221
+      "total" : 222
     }
   },
   "resources" : {
@@ -136,7 +136,9 @@
     "ANN" : [ "7913" ],
     "IMDB" : [ "tt1160937" ],
     "MAL" : [ "4471" ],
-    "WEBSITE" : [ "http://www.sunrise-inc.co.jp/tokyotanken/index.html", "http://www.sunrise-inc.co.jp/works/list/detail.php?cid=265" ]
+    "TMDB" : [ "movie/25662" ],
+    "WEBSITE" : [ "http://www.sunrise-inc.co.jp/tokyotanken/index.html", "http://www.sunrise-inc.co.jp/works/list/detail.php?cid=265" ],
+    "WIKIPEDIA_JP" : [ "SOS大東京探検隊" ]
   },
   "start_date" : "2006-10-27",
   "tags" : {
@@ -197,6 +199,14 @@
       "info_box" : false,
       "name" : "Japan",
       "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2676" : {
+      "info_box" : false,
+      "name" : "Tokyo",
+      "parent_tag_id" : 2672,
       "spoiler" : false,
       "verified" : false,
       "weight" : 600

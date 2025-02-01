@@ -83,7 +83,54 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on a supernatural comedy shounen manga by http://anidb.net/cr57632 [Aida Iro].",
+  "description" : "* Based on a supernatural comedy shounen manga by http://anidb.net/cr57632 [Aida Iro].\nNote: The first two episodes received an early screening at a special event on 14 December 2024 at Grand Cinema Sunshine Ikebukuro in Tokyo. The regular TV broadcast started on 12 January 2025.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-01-12",
+      "episode_id" : 291016,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-19",
+      "episode_id" : 291017,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-26",
+      "episode_id" : 291018,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-02",
+      "episode_id" : 291019,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "related" : {
     "PREQUEL" : [ 14757 ]
   },
@@ -98,6 +145,21 @@
   },
   "start_date" : "2025-01-12",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -128,5 +190,5 @@
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",
-  "url" : "https://www.tbs.co.jp/anime/hanakokun/"
+  "url" : "https://hanakokun.com/2nd/"
 }

@@ -4,6 +4,10 @@
     "11107" : [ {
       "name" : "Kinohara Hikaru",
       "type" : "CHARACTER_DESIGN"
+    } ],
+    "80074" : [ {
+      "name" : "Circle Hemoglobin",
+      "type" : "ORIGINAL_WORK"
     } ]
   },
   "episodes" : {
@@ -12,10 +16,14 @@
       "episode_id" : 285853,
       "length" : 20,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.33,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "An Inappropriate Chance Encounter"
       }, {
         "language" : "JAPANESE",
         "title" : "不適切な巡り合せ"
@@ -37,10 +45,20 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.37,
+      "total" : 13
+    },
+    "TEMPORARY" : {
+      "rating" : 4.3,
+      "total" : 13
+    }
+  },
   "resources" : {
     "MAL" : [ "59697" ],
     "TMDB" : [ "tv/263109" ],
-    "WEBSITE" : [ "http://nur.a1c.jp/nur_brand/product/bisyokuka/index_bisyokuka_01.html" ]
+    "WEBSITE" : [ "http://nur.a1c.jp/nur_brand/product/bisyokuka/index_bisyokuka_01.html", "http://nur.a1c.jp/nur_brand/product/bisyokuka/index_bisyokuka_02.html" ]
   },
   "start_date" : "2024-11-29",
   "tags" : {
@@ -54,6 +72,20 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -82,9 +114,33 @@
       "verified" : false,
       "weight" : 600
     },
+    "2842" : {
+      "info_box" : false,
+      "name" : "incest",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2896" : {
+      "info_box" : false,
+      "name" : "deflowering",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6556" : {
+      "info_box" : false,
+      "name" : "uncle-niece incest",
+      "parent_tag_id" : 2842,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -106,6 +162,10 @@
     "language" : "JAPANESE",
     "title" : "卑触家のルール",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Bishokuka no Rule",
+    "type" : "SYNONYM"
   }, {
     "language" : "KOREAN",
     "title" : "비촉가의 규칙",

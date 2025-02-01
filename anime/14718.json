@@ -115,7 +115,7 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 7.22,
+        "rating" : 7.21,
         "total" : 5
       },
       "recap" : false,
@@ -134,7 +134,7 @@
       "length" : 20,
       "number" : 2,
       "rating" : {
-        "rating" : 5.79,
+        "rating" : 5.78,
         "total" : 5
       },
       "recap" : false,
@@ -153,7 +153,7 @@
       "length" : 20,
       "number" : 3,
       "rating" : {
-        "rating" : 6.8,
+        "rating" : 6.78,
         "total" : 4
       },
       "recap" : false,
@@ -172,7 +172,7 @@
       "length" : 20,
       "number" : 4,
       "rating" : {
-        "rating" : 5.03,
+        "rating" : 5.02,
         "total" : 3
       },
       "recap" : false,
@@ -191,7 +191,7 @@
       "length" : 20,
       "number" : 5,
       "rating" : {
-        "rating" : 6.65,
+        "rating" : 6.63,
         "total" : 3
       },
       "recap" : false,
@@ -210,7 +210,7 @@
       "length" : 20,
       "number" : 6,
       "rating" : {
-        "rating" : 6.65,
+        "rating" : 6.63,
         "total" : 3
       },
       "recap" : false,
@@ -286,7 +286,7 @@
       "length" : 20,
       "number" : 10,
       "rating" : {
-        "rating" : 2.52,
+        "rating" : 2.51,
         "total" : 2
       },
       "recap" : false,
@@ -324,7 +324,7 @@
       "length" : 20,
       "number" : 12,
       "rating" : {
-        "rating" : 2.52,
+        "rating" : 2.51,
         "total" : 2
       },
       "recap" : false,
@@ -381,7 +381,7 @@
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 3.79,
+        "rating" : 3.76,
         "total" : 2
       },
       "recap" : false,
@@ -429,16 +429,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.62,
-      "total" : 623
+      "rating" : 4.65,
+      "total" : 640
     },
     "REVIEW" : {
       "rating" : 2.16,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.57,
-      "total" : 629
+      "rating" : 6.58,
+      "total" : 646
     }
   },
   "related" : {
@@ -482,6 +482,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "1244" : {
+      "info_box" : false,
+      "name" : "summoning",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2043" : {
       "info_box" : true,
       "name" : "high school",
@@ -489,6 +497,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2282" : {
       "info_box" : true,
@@ -547,6 +563,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
@@ -571,6 +595,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2626" : {
+      "info_box" : false,
+      "name" : "future",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2630" : {
       "info_box" : false,
       "name" : "Earth",
@@ -594,6 +626,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2651" : {
+      "info_box" : false,
+      "name" : "absurdist humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2674" : {
       "info_box" : false,
@@ -754,10 +794,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "5355" : {
+      "info_box" : false,
+      "name" : "tournament",
+      "parent_tag_id" : 3863,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5543" : {
+      "info_box" : false,
+      "name" : "magic school",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5697" : {
+      "info_box" : false,
+      "name" : "randomness",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5773" : {
       "info_box" : false,
       "name" : "secret organisation",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5807" : {
+      "info_box" : false,
+      "name" : "cosmic reset",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -778,10 +850,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "5889" : {
+      "info_box" : false,
+      "name" : "magic weapons",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5916" : {
       "info_box" : false,
       "name" : "product placement",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6055" : {
+      "info_box" : false,
+      "name" : "time loop",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

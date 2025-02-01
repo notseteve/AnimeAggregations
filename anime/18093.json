@@ -55,7 +55,14 @@
       "episode_id" : 289404,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.53,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNKD19" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Eirei Jiken"
@@ -67,16 +74,46 @@
         "title" : "英霊事件"
       } ],
       "type" : "REGULAR"
+    }, {
+      "episode_id" : 291081,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 291082,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 291083,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.89,
-      "total" : 1
+      "rating" : 7.18,
+      "total" : 15
     },
     "TEMPORARY" : {
-      "rating" : 7.5,
-      "total" : 1
+      "rating" : 6.96,
+      "total" : 15
     }
   },
   "related" : {
@@ -84,6 +121,7 @@
   },
   "resources" : {
     "ANN" : [ "28887" ],
+    "CRUNCHY_ROLL" : [ "G4PH0WJQZ" ],
     "MAL" : [ "55830" ],
     "TWITTER" : [ "Fate_SF_Anime" ],
     "WEBSITE" : [ "https://fate-strange-fake.com/" ],
@@ -120,6 +158,10 @@
     "language" : "JAPANESE",
     "title" : "Fate/strange Fake",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Fate Strange Fake",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://fate-strange-fake.com/"

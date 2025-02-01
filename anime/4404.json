@@ -438,7 +438,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 8.55,
+        "rating" : 8.54,
         "total" : 12
       },
       "recap" : false,
@@ -663,7 +663,7 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 7.83,
+        "rating" : 7.82,
         "total" : 13
       },
       "recap" : false,
@@ -688,7 +688,7 @@
       "length" : 25,
       "number" : 21,
       "rating" : {
-        "rating" : 9.24,
+        "rating" : 9.23,
         "total" : 17
       },
       "recap" : false,
@@ -963,7 +963,7 @@
       "length" : 3,
       "number" : 3,
       "rating" : {
-        "rating" : 8.45,
+        "rating" : 8.44,
         "total" : 4
       },
       "recap" : false,
@@ -1058,7 +1058,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.2,
-      "total" : 6829
+      "total" : 6833
     },
     "REVIEW" : {
       "rating" : 8.54,
@@ -1066,7 +1066,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.33,
-      "total" : 6953
+      "total" : 6957
     }
   },
   "related" : {
@@ -1089,8 +1089,8 @@
   },
   "similar" : {
     "2002" : {
-      "rating" : 9.723756906077348,
-      "total" : 181
+      "rating" : 9.725274725274724,
+      "total" : 182
     },
     "3414" : {
       "rating" : 4.285714285714286,
@@ -1113,8 +1113,8 @@
       "total" : 259
     },
     "9132" : {
-      "rating" : 7.333333333333333,
-      "total" : 60
+      "rating" : 7.3770491803278695,
+      "total" : 61
     },
     "9822" : {
       "rating" : 5.0,
@@ -1190,6 +1190,13 @@
       "info_box" : false,
       "name" : "amnesia",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1315,6 +1322,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2786" : {
       "info_box" : false,

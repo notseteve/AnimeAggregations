@@ -64,11 +64,94 @@
     "14856" : [ {
       "name" : "Tani Keiji",
       "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "79679" : [ {
+      "name" : "Ryosuke Kojima",
+      "type" : "MUSIC"
     } ]
+  },
+  "description" : "Robotic invaders wiped out all life, but http://anidb.net/ch145153 [Renge] fights to survive using her powers. With no memories, she roams the city until she meets five other young women, each with unique abilities. Together, they make the most of their lives, cooking delicious meals between battles with mechanical monstrosities. As they uncover the secrets of their powers and pasts, they find strength in their friendship.\nSource: Crunchyroll\nNote: The first episode received an early screening on 4 July 2024 at Anime Expo in Los Angeles, on 10 November 2024 at Akihabara International Film Festival 2024 in Tokyo, and at a special event on 22 December 2024 at Kansai TV in Osaka. The regular TV broadcast started on 2 January 2025.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-01-02",
+      "episode_id" : 290042,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 2.69,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX5X2Z" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hitoribocchi no Ato no Sanma no Hitsumabushi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Saury Hitsumabushi After the Loneliness"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ひとりぼっちの後のさんまのひつまぶし"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-10",
+      "episode_id" : 290043,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Canned Mackerel Italian-style Tomato Hot Pot Together"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Minna to Issho no Saba Kan no Italia Fuu Tomato Nabe"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "みんなと一緒のサバ缶のイタリア風トマト鍋"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-17",
+      "episode_id" : 290044,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-24",
+      "episode_id" : 290045,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.39,
+      "total" : 13
+    },
+    "TEMPORARY" : {
+      "rating" : 4.46,
+      "total" : 13
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "394913" ],
+    "ANISON" : [ "25809" ],
     "ANN" : [ "32694" ],
+    "CRUNCHY_ROLL" : [ "GG5H5XQQ5" ],
     "MAL" : [ "58739" ],
     "SYOBOI" : [ "7313" ],
     "TWITTER" : [ "MML_animePR" ],
@@ -85,6 +168,21 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "3955" : {
       "info_box" : false,
       "name" : "DESCRIPTION MISSING",
@@ -93,10 +191,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5835" : {
+      "info_box" : false,
+      "name" : "Gainax bounce",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5939" : {
       "info_box" : false,
       "name" : "CAST MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

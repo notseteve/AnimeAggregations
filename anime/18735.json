@@ -1,6 +1,15 @@
 {
   "anime_id" : 18735,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 37565,
+      "name" : "Satan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 137283,
+      "name" : "Shemihaza",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 25808,
       "name" : "Okumura Rin",
@@ -9,26 +18,154 @@
       "character_id" : 25809,
       "name" : "Okumura Yukio",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 143811,
+      "name" : "Drac Dragulescu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 25821,
+      "name" : "Fujimoto Shirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145368,
+      "name" : "Jenny Kal",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 136703,
+      "name" : "Lucifer",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143809,
+      "name" : "Lucy Yang",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 25815,
+      "name" : "Mephisto Pheles",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143810,
+      "name" : "Osceola Redarm",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145369,
+      "name" : "Rick Lincoln",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145370,
+      "name" : "Shirou (Shounen)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145374,
+      "name" : "Yuri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 37578,
+      "name" : "Yuri Frederik Egin",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
+    "6060" : [ {
+      "name" : "Yoshida Daisuke",
+      "type" : "DIRECTOR"
+    } ],
+    "6722" : [ {
+      "name" : "Sawano Hiroyuki",
+      "type" : "MUSIC"
+    } ],
+    "16318" : [ {
+      "name" : "Oohigashi Yurie",
+      "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Oohigashi Yurie",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "23050" : [ {
       "name" : "Katou Kazue",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "23623" : [ {
+      "name" : "Oono Toshiya",
+      "type" : "SERIES_COMPOSITION"
+    } ],
+    "44555" : [ {
+      "name" : "Studio VOLN",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "48260" : [ {
+      "name" : "Kohta Yamamoto",
+      "type" : "MUSIC"
     } ]
   },
   "description" : "* Based on http://anidb.net/cr23050 [Katou Kazue]`s dark fantasy manga by the same name, serialised in http://anidb.net/cr31875 [Jump Square].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-01-05",
+      "episode_id" : 290214,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Shiro and Yuri"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shirou to Yuri"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "獅郎とユリ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-12",
+      "episode_id" : 290215,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-19",
+      "episode_id" : 290216,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-26",
+      "episode_id" : 290217,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "related" : {
     "PREQUEL" : [ 18561 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "396779" ],
     "ANN" : [ "32874" ],
     "MAL" : [ "59226" ],
+    "SYOBOI" : [ "7334" ],
     "TWITTER" : [ "aoex_anime" ],
+    "WEBSITE" : [ "https://ao-ex.com/" ],
     "WIKIPEDIA_EN" : [ "Blue_Exorcist" ],
     "WIKIPEDIA_JP" : [ "青の祓魔師_(アニメ)" ]
   },
-  "start_date" : "2025-01",
+  "start_date" : "2025-01-05",
   "tags" : {
     "922" : {
       "info_box" : true,
@@ -167,5 +304,6 @@
     "title" : "青の祓魔師 終夜篇",
     "type" : "OFFICIAL"
   } ],
-  "type" : "SERIES"
+  "type" : "SERIES",
+  "url" : "https://ao-ex.com/"
 }
