@@ -1,13 +1,54 @@
 {
   "anime_id" : 18809,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 145901,
+      "name" : "Aizawa Tsukasa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145899,
+      "name" : "Banjouji Nagare",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145904,
+      "name" : "Kasaboo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145900,
+      "name" : "Kataoka Shuuji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145898,
+      "name" : "Kizuna Blue",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145896,
+      "name" : "Kizuna Green",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145897,
+      "name" : "Kizuna Pink",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145895,
+      "name" : "Kizuna Yellow",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145903,
+      "name" : "Pethagoras-hakase",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145902,
+      "name" : "Tobihoshi Emily",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145905,
+      "name" : "Zetsuen Ou",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 142625,
       "name" : "Asagaki Tougo",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 142621,
-      "name" : "Hydra Arborn",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142622,
@@ -20,6 +61,31 @@
     }, {
       "character_id" : 142623,
       "name" : "Tertina Liz Wargray Avalrost",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142621,
+      "name" : "Yihdra Arvoln",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 145887,
+      "name" : "Abudabi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145886,
+      "name" : "Azir Anuma Kukja",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145889,
+      "name" : "Raniya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145888,
+      "name" : "Shaukha Shemhazar",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145890,
+      "name" : "Vidan",
       "type" : "CHARACTER"
     } ]
   },
@@ -72,10 +138,23 @@
       "episode_id" : 290166,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.19,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUW3VE4" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sentai Red to Mahou Tsukai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Red Ranger and the Mage"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "戦隊レッドと魔法使い"
       } ],
       "type" : "REGULAR"
     }, {
@@ -83,10 +162,23 @@
       "episode_id" : 290167,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.43,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU32N9Z" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sentai Red to Boukensha-tachi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Red Ranger and Adventurers"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "戦隊レッドと冒険者達"
       } ],
       "type" : "REGULAR"
     }, {
@@ -94,10 +186,23 @@
       "episode_id" : 290168,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.56,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9NV3J" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sentai Red to Yuusha to Hime-sama"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Red Ranger, the Hero, and the Princess"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "戦隊レッドと勇者と姫様"
       } ],
       "type" : "REGULAR"
     }, {
@@ -105,10 +210,67 @@
       "episode_id" : 290169,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 2.84,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U3M805" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sentai Red to Kizuna no Tsurugi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Red Ranger and the Blades of Bonds"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "戦隊レッドと絆の剣"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-09",
+      "episode_id" : 292158,
+      "length" : 25,
+      "number" : 5,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-16",
+      "episode_id" : 292159,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-23",
+      "episode_id" : 292160,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-02",
+      "episode_id" : 292161,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -131,9 +293,20 @@
       "type" : "SPECIAL"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.81,
+      "total" : 43
+    },
+    "TEMPORARY" : {
+      "rating" : 5.48,
+      "total" : 43
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "396515" ],
     "ANN" : [ "33194" ],
+    "CRUNCHY_ROLL" : [ "G8DHV788M" ],
     "MAL" : [ "59514" ],
     "SYOBOI" : [ "7320" ],
     "TWITTER" : [ "KizunaFive" ],
@@ -143,9 +316,179 @@
   },
   "start_date" : "2025-01-12",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2274" : {
+      "info_box" : false,
+      "name" : "robot",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2638" : {
+      "info_box" : false,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2645" : {
+      "info_box" : false,
+      "name" : "piloted robot",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2655" : {
+      "info_box" : false,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3824" : {
+      "info_box" : false,
+      "name" : "sentai",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -157,6 +500,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7905" : {
+      "info_box" : false,
+      "name" : "large breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     }
   },
   "titles" : [ {
@@ -166,6 +517,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "The Red Ranger Becomes an Adventurer in Another World",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "战队红战士在异世界当冒险者",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
@@ -178,6 +533,10 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Sentai Red: Isekai de Boukensha ni Naru",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "红战士转职冒险者",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

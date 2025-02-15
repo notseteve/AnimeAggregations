@@ -31,16 +31,16 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 3.07,
+        "rating" : 3.08,
         "total" : 1
       },
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Confinement"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kankin"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Lockdown"
       }, {
         "language" : "JAPANESE",
         "title" : "監禁"
@@ -52,7 +52,7 @@
       "length" : 15,
       "number" : 2,
       "rating" : {
-        "rating" : 2.13,
+        "rating" : 2.12,
         "total" : 1
       },
       "recap" : false,
@@ -73,13 +73,13 @@
       "length" : 15,
       "number" : 3,
       "rating" : {
-        "rating" : 2.13,
+        "rating" : 2.12,
         "total" : 1
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Brainwashing"
+        "title" : "Brainwash"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Sennou"
@@ -94,7 +94,7 @@
       "length" : 15,
       "number" : 4,
       "rating" : {
-        "rating" : 2.13,
+        "rating" : 2.12,
         "total" : 1
       },
       "recap" : false,
@@ -115,7 +115,7 @@
       "length" : 15,
       "number" : 5,
       "rating" : {
-        "rating" : 2.13,
+        "rating" : 2.12,
         "total" : 1
       },
       "recap" : false,
@@ -136,13 +136,13 @@
       "length" : 15,
       "number" : 6,
       "rating" : {
-        "rating" : 2.13,
+        "rating" : 2.12,
         "total" : 1
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Bright Future"
+        "title" : "Hope"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Koumyou"
@@ -155,12 +155,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.57,
-      "total" : 32
+      "rating" : 2.77,
+      "total" : 42
     },
     "TEMPORARY" : {
-      "rating" : 4.78,
-      "total" : 32
+      "rating" : 4.97,
+      "total" : 42
     }
   },
   "resources" : {
@@ -179,10 +179,56 @@
       "verified" : false,
       "weight" : 0
     },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2851" : {
+      "info_box" : true,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "3683" : {
       "info_box" : false,
       "name" : "storytelling",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4200" : {
+      "info_box" : false,
+      "name" : "flash animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4215" : {
+      "info_box" : false,
+      "name" : "daikaijuu",
+      "parent_tag_id" : 7050,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -194,6 +240,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4257" : {
+      "info_box" : false,
+      "name" : "survival",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "6151" : {
       "info_box" : false,
@@ -213,6 +267,14 @@
       "info_box" : true,
       "name" : "half-length episodes",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

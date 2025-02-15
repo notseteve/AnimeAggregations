@@ -146,7 +146,7 @@
       "length" : 35,
       "number" : 1,
       "rating" : {
-        "rating" : 8.99,
+        "rating" : 9.0,
         "total" : 11
       },
       "recap" : false,
@@ -171,7 +171,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.9,
+        "rating" : 8.92,
         "total" : 8
       },
       "recap" : false,
@@ -195,7 +195,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.2,
+        "rating" : 8.22,
         "total" : 8
       },
       "recap" : false,
@@ -219,7 +219,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.61,
+        "rating" : 7.64,
         "total" : 8
       },
       "recap" : false,
@@ -243,7 +243,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.41,
+        "rating" : 6.43,
         "total" : 8
       },
       "recap" : false,
@@ -267,7 +267,7 @@
       "length" : 30,
       "number" : 6,
       "rating" : {
-        "rating" : 8.99,
+        "rating" : 9.01,
         "total" : 7
       },
       "recap" : false,
@@ -291,7 +291,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.54,
+        "rating" : 8.56,
         "total" : 6
       },
       "recap" : false,
@@ -315,7 +315,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.55,
+        "rating" : 8.57,
         "total" : 6
       },
       "recap" : false,
@@ -340,7 +340,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.02,
+        "rating" : 8.04,
         "total" : 6
       },
       "recap" : false,
@@ -364,7 +364,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.2,
+        "rating" : 7.21,
         "total" : 6
       },
       "recap" : false,
@@ -388,7 +388,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 6.75,
+        "rating" : 6.77,
         "total" : 6
       },
       "recap" : false,
@@ -412,7 +412,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.65,
+        "rating" : 5.67,
         "total" : 6
       },
       "recap" : false,
@@ -436,7 +436,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 7.52,
+        "rating" : 7.53,
         "total" : 6
       },
       "recap" : false,
@@ -460,7 +460,7 @@
       "length" : 30,
       "number" : 14,
       "rating" : {
-        "rating" : 6.64,
+        "rating" : 6.65,
         "total" : 6
       },
       "recap" : false,
@@ -485,7 +485,7 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 8.0,
+        "rating" : 8.01,
         "total" : 6
       },
       "recap" : false,
@@ -553,7 +553,7 @@
       "length" : 2,
       "number" : 3,
       "rating" : {
-        "rating" : 9.31,
+        "rating" : 9.32,
         "total" : 1
       },
       "recap" : false,
@@ -588,16 +588,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.59,
-      "total" : 208
+      "rating" : 8.64,
+      "total" : 231
     },
     "REVIEW" : {
       "rating" : 6.33,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 7.87,
-      "total" : 212
+      "rating" : 7.84,
+      "total" : 235
     }
   },
   "related" : {
@@ -763,6 +763,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2640" : {
       "info_box" : false,
       "name" : "alternative past",
@@ -802,6 +810,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2749" : {
       "info_box" : false,
@@ -858,6 +874,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2844" : {
       "info_box" : false,
@@ -1165,6 +1189,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Monogatari Series - Off & Monster Season",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Monogatari Series - Off and Monster Season",
     "type" : "SYNONYM"
   }, {
     "language" : "UNKNOWN",

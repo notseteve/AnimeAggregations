@@ -355,12 +355,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.06,
-      "total" : 137
+      "rating" : 3.05,
+      "total" : 138
     },
     "TEMPORARY" : {
-      "rating" : 5.05,
-      "total" : 138
+      "rating" : 5.04,
+      "total" : 139
     }
   },
   "resources" : {
@@ -377,12 +377,89 @@
   },
   "start_date" : "2021-04-15",
   "tags" : {
+    "2282" : {
+      "info_box" : true,
+      "name" : "martial arts",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2641" : {
+      "info_box" : true,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2751" : {
+      "info_box" : false,
+      "name" : "combat",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2798" : {
       "info_box" : true,
@@ -391,6 +468,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2831" : {
+      "info_box" : false,
+      "name" : "Europe",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2881" : {
+      "info_box" : true,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "4064" : {
       "info_box" : false,
@@ -421,6 +522,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7080" : {
+      "info_box" : false,
+      "name" : "Ancient Rome",
+      "parent_tag_id" : 2831,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "7129" : {
       "info_box" : false,

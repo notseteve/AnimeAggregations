@@ -400,7 +400,7 @@
       "length" : 15,
       "number" : 3,
       "rating" : {
-        "rating" : 5.42,
+        "rating" : 5.41,
         "total" : 2
       },
       "recap" : false,
@@ -422,7 +422,7 @@
       "length" : 15,
       "number" : 4,
       "rating" : {
-        "rating" : 5.08,
+        "rating" : 5.07,
         "total" : 2
       },
       "recap" : false,
@@ -444,7 +444,7 @@
       "length" : 15,
       "number" : 5,
       "rating" : {
-        "rating" : 3.16,
+        "rating" : 3.14,
         "total" : 1
       },
       "recap" : false,
@@ -532,7 +532,7 @@
       "length" : 15,
       "number" : 9,
       "rating" : {
-        "rating" : 3.16,
+        "rating" : 3.14,
         "total" : 1
       },
       "recap" : false,
@@ -664,7 +664,7 @@
       "length" : 15,
       "number" : 15,
       "rating" : {
-        "rating" : 3.16,
+        "rating" : 3.14,
         "total" : 1
       },
       "recap" : false,
@@ -686,7 +686,7 @@
       "length" : 15,
       "number" : 16,
       "rating" : {
-        "rating" : 3.16,
+        "rating" : 3.14,
         "total" : 1
       },
       "recap" : false,
@@ -943,7 +943,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 3.16,
+        "rating" : 3.14,
         "total" : 1
       },
       "recap" : false,
@@ -1232,11 +1232,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.36,
-      "total" : 548
+      "total" : 550
     },
     "TEMPORARY" : {
-      "rating" : 5.07,
-      "total" : 559
+      "rating" : 5.06,
+      "total" : 561
     }
   },
   "resources" : {
@@ -1245,12 +1245,14 @@
     "ANISON" : [ "18154", "19081" ],
     "ANN" : [ "16313" ],
     "FUNIMATION" : [ "ninja-slayer" ],
+    "IMDB" : [ "tt4576408" ],
     "MAL" : [ "23605" ],
     "SYOBOI" : [ "3736", "4116" ],
     "TWITTER" : [ "NJSLYR_anime" ],
     "WEBSITE" : [ "http://www.ninjaslayer-animation.com/" ],
     "WIKIPEDIA_EN" : [ "Ninja_Slayer" ],
-    "WIKIPEDIA_JP" : [ "ニンジャスレイヤー" ]
+    "WIKIPEDIA_JP" : [ "ニンジャスレイヤー" ],
+    "YOUTUBE" : [ "watch?v=_ltakZfA7I0" ]
   },
   "start_date" : "2015-04-16",
   "tags" : {
@@ -1394,6 +1396,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "3546" : {
+      "info_box" : false,
+      "name" : "experimental animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3683" : {
       "info_box" : false,
       "name" : "storytelling",
@@ -1423,6 +1433,14 @@
       "name" : "widescreen transition",
       "parent_tag_id" : 6151,
       "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4424" : {
+      "info_box" : true,
+      "name" : "American derived",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
       "verified" : false,
       "weight" : 0
     },

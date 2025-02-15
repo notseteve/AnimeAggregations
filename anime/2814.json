@@ -2,9 +2,63 @@
   "anime_id" : 2814,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 12242,
+      "name" : "Katou Saburou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 12068,
       "name" : "Yamato",
       "type" : "VESSEL"
+    } ],
+    "MAIN" : [ {
+      "character_id" : 12070,
+      "name" : "Kodai Susumu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12072,
+      "name" : "Mori Yuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12069,
+      "name" : "Okita Juuzou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12074,
+      "name" : "Shima Daisuke",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 12076,
+      "name" : "Analyzer",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12079,
+      "name" : "Desler",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146209,
+      "name" : "Domel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12071,
+      "name" : "Kodai Mamoru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12073,
+      "name" : "Sado Sakezou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12075,
+      "name" : "Sanada Shirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12078,
+      "name" : "Starsha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12077,
+      "name" : "Tokugawa Hikozaemon",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -115,8 +169,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.12,
-      "total" : 211
+      "rating" : 6.11,
+      "total" : 212
     },
     "REVIEW" : {
       "rating" : 9.33,
@@ -124,7 +178,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.52,
-      "total" : 212
+      "total" : 213
     }
   },
   "related" : {
@@ -241,7 +295,7 @@
       "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 400
+      "weight" : 600
     },
     "2627" : {
       "info_box" : false,
@@ -249,7 +303,15 @@
       "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 400
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2638" : {
       "info_box" : false,
@@ -289,7 +351,7 @@
       "parent_tag_id" : 2627,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 400
+      "weight" : 600
     },
     "2765" : {
       "info_box" : false,
@@ -331,13 +393,21 @@
       "verified" : false,
       "weight" : 400
     },
+    "2850" : {
+      "info_box" : true,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2874" : {
       "info_box" : false,
       "name" : "disaster",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 400
+      "weight" : 600
     },
     "2925" : {
       "info_box" : false,
@@ -345,12 +415,28 @@
       "parent_tag_id" : 2874,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 400
+      "weight" : 600
     },
     "3234" : {
       "info_box" : false,
       "name" : "space is an ocean",
       "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3266" : {
+      "info_box" : false,
+      "name" : "space Nazis",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3285" : {
+      "info_box" : false,
+      "name" : "journey",
+      "parent_tag_id" : 2850,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -371,6 +457,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "3843" : {
+      "info_box" : false,
+      "name" : "saving the world",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4081" : {
+      "info_box" : false,
+      "name" : "space battles",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "4167" : {
       "info_box" : false,
       "name" : "air combat",
@@ -378,6 +480,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "4342" : {
+      "info_box" : false,
+      "name" : "large-scale war",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "4350" : {
       "info_box" : false,
@@ -418,6 +528,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "5952" : {
+      "info_box" : false,
+      "name" : "end of the world",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "6173" : {
       "info_box" : false,

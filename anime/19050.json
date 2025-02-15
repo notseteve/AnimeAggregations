@@ -113,16 +113,150 @@
       "type" : "SERIES_COMPOSITION"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-01-11",
+      "episode_id" : 291003,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Invitation of Fate"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Unmei no Shoutaijou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "運命の招待状"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-18",
+      "episode_id" : 291004,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Trial of the Moon"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsuki no Shiren"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "月の試練"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-25",
+      "episode_id" : 291005,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Deluxe Begins!!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Deluxe Kaimaku!!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "デラックス開幕!!!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-01",
+      "episode_id" : 291006,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "San Shinsei"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Three Rising Stars"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "三新星"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-08",
+      "episode_id" : 291783,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Fated King vs Destined King"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Unmei Ou vs Shukumei Ou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "運命王vs宿命王"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-15",
+      "episode_id" : 291784,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-22",
+      "episode_id" : 291785,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-01",
+      "episode_id" : 291786,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.29,
+      "total" : 3
+    },
+    "TEMPORARY" : {
+      "rating" : 3.0,
+      "total" : 3
+    }
+  },
   "related" : {
     "PREQUEL" : [ 18591 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "398310" ],
+    "ANISON" : [ "25298" ],
     "ANN" : [ "33713" ],
+    "MAL" : [ "54144" ],
     "SYOBOI" : [ "7330" ],
     "TWITTER" : [ "cfvanguard_PR" ],
     "WEBSITE" : [ "https://anime.cf-vanguard.com/vgd" ],
-    "WIKIPEDIA_JP" : [ "カードファイト!!_ヴァンガード_overDress" ]
+    "WIKIPEDIA_JP" : [ "カードファイト!!_ヴァンガード_overDress" ],
+    "YOUTUBE" : [ "watch?v=M4J1bCWWDak", "watch?v=g1cpjOApAoU", "watch?v=rU3uwdtBJe8", "watch?v=roALueENboE" ]
   },
   "start_date" : "2025-01-11",
   "tags" : {
@@ -146,6 +280,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Cardfight!! Vanguard: Divinez Deluxe Hen",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Cardfight!! Vanguard: Divinez Deluxe Arc",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "カードファイト!! ヴァンガード Divinez デラックス編",

@@ -42,7 +42,7 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 2.42,
+        "rating" : 2.41,
         "total" : 6
       },
       "recap" : false,
@@ -92,11 +92,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.07,
-      "total" : 257
+      "total" : 259
     },
     "TEMPORARY" : {
       "rating" : 5.25,
-      "total" : 270
+      "total" : 272
     }
   },
   "resources" : {
@@ -267,10 +267,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "3842" : {
+      "info_box" : false,
+      "name" : "TV censoring",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3955" : {
       "info_box" : false,
       "name" : "DESCRIPTION MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4112" : {
+      "info_box" : false,
+      "name" : "excessive censoring",
+      "parent_tag_id" : 3842,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

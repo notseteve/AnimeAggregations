@@ -1,9 +1,148 @@
 {
   "anime_id" : 19019,
-  "resources" : {
-    "WEBSITE" : [ "https://www.asahi.co.jp/precure/you-and-idol/", "https://www.toei-anim.co.jp/tv/you-and-idol_precure/" ]
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 145653,
+      "name" : "Aokaze Nana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145648,
+      "name" : "Cure Idol",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145650,
+      "name" : "Cure Kyunkyun",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145649,
+      "name" : "Cure Wink",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145651,
+      "name" : "Sakura Uta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145652,
+      "name" : "Shigure Kokoro",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 146196,
+      "name" : "Meroron",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146195,
+      "name" : "Purirun",
+      "type" : "CHARACTER"
+    } ]
   },
-  "start_date" : "2025-02",
+  "creators" : {
+    "1482" : [ {
+      "name" : "Kon Chiaki",
+      "type" : "DIRECTOR"
+    } ],
+    "9764" : [ {
+      "name" : "Katou Youichi",
+      "type" : "SERIES_COMPOSITION"
+    } ],
+    "52181" : [ {
+      "name" : "Fukasawa Erika",
+      "type" : "MUSIC"
+    } ],
+    "64760" : [ {
+      "name" : "Sugimoto Miho",
+      "type" : "CHARACTER_DESIGN"
+    } ],
+    "68212" : [ {
+      "name" : "Umase Misaki",
+      "type" : "MUSIC"
+    } ]
+  },
+  "description" : "\"Let`s sing, dance, and please the crowd! You and I! Kirakilala~!\"\nhttp://anidb.net/ch145651 [Sakura Uta], an eighth-grade student with a passion for singing, encounters a mysterious fairy named http://anidb.net/ch146195 [Purirun], who is searching for the Legendary Saviors known as \"Idol Precure.\" Purirun`s homeland, Kirakiland, has fallen into darkness due to the villainous Team Chokkiri, led by Darkine, who begins stealing sparkles from Hanamichi Town`s residents. Determined to restore the light, Uta transforms into http://anidb.net/ch145648 [Cure Idol], embracing her songs as a source of hope and power.\nSource: Toei Animation",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-02-02",
+      "episode_id" : 292331,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Kirakilala! Cure Idol Debuts!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kirakkiranran Cure Idol Debut!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "キラッキランラン♪キュアアイドルデビュー!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-09",
+      "episode_id" : 292332,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Am I Going Viral?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Watashi, Buzz Chatteru!?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "私, バズっちゃってる!?"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-16",
+      "episode_id" : 292333,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-23",
+      "episode_id" : 292334,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.83,
+      "total" : 2
+    },
+    "TEMPORARY" : {
+      "rating" : 5.5,
+      "total" : 2
+    }
+  },
+  "related" : {
+    "SAME_SETTING" : [ 1413 ],
+    "SIDE_STORY" : [ 19113 ]
+  },
+  "resources" : {
+    "ALL_CINEMA" : [ "398210" ],
+    "ANN" : [ "34099" ],
+    "CRUNCHY_ROLL" : [ "GDKHZEJJQ" ],
+    "MAL" : [ "60407" ],
+    "SYOBOI" : [ "7343" ],
+    "WEBSITE" : [ "https://www.asahi.co.jp/precure/you-and-idol/", "https://www.toei-anim.co.jp/tv/you-and-idol_precure/" ],
+    "WIKIPEDIA_EN" : [ "You_and_Idol_Pretty_Cure" ],
+    "WIKIPEDIA_JP" : [ "キミとアイドルプリキュア♪" ]
+  },
+  "start_date" : "2025-02-02",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -26,12 +165,20 @@
     "title" : "Kimi to Idol Precure",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "You and Idol Precure",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "キミとアイドルプリキュア♪",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
-    "title" : "You and Idol Precure",
+    "title" : "precure22",
+    "type" : "SHORT"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "You and Idol Pretty Cure",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

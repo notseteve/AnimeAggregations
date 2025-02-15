@@ -1,6 +1,15 @@
 {
   "anime_id" : 18770,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 145982,
+      "name" : "Kuramatsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145983,
+      "name" : "Tamura",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 143296,
       "name" : "Mitsuya Yui",
@@ -64,6 +73,10 @@
     "77708" : [ {
       "name" : "Enomoto Akamaru",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "79878" : [ {
+      "name" : "IM.Lab",
+      "type" : "MUSIC"
     } ]
   },
   "description" : "http://anidb.net/ch143296 [Mitsuya Yui] and http://anidb.net/ch143300 [Tateishi Masugu] aren`t just any coworkers—they totally have the hots for each other. His helpful yet humble attitude makes her giddy, and her cuteness leaves him grinning like a fool. Problem is, they`re trying to keep their new relationship under wraps to avoid making things awkward at work. But seeing how they can`t keep their hands off each other, they run the risk of spilling their little secret with each passing day at the office.\nSource: Kodansha",
@@ -73,10 +86,20 @@
       "episode_id" : 290066,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.55,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Barecha Ikenai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Don`t Let Anyone Find Out"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "バレちゃいけない"
       } ],
       "type" : "REGULAR"
     }, {
@@ -84,10 +107,20 @@
       "episode_id" : 290067,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.66,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Distinction"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kejime"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ケジメ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -95,10 +128,20 @@
       "episode_id" : 290068,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.55,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kon`ya wa Tokubetsu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Tonight Is Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "今夜は特別"
       } ],
       "type" : "REGULAR"
     }, {
@@ -106,13 +149,87 @@
       "episode_id" : 290069,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 8.32,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Hazy Feelings"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Moyamoya"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "モヤモヤ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-03",
+      "episode_id" : 291915,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 9.71,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "First Trip"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hajimete no Ryokou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "はじめての旅行"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-10",
+      "episode_id" : 291916,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-17",
+      "episode_id" : 291917,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-24",
+      "episode_id" : 291918,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.89,
+      "total" : 29
+    },
+    "TEMPORARY" : {
+      "rating" : 5.96,
+      "total" : 29
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "396846" ],
@@ -121,7 +238,8 @@
     "SYOBOI" : [ "7315" ],
     "TWITTER" : [ "kaishani_suki" ],
     "WEBSITE" : [ "https://kaishani-sukinahito.com/" ],
-    "WIKIPEDIA_EN" : [ "I_Have_a_Crush_at_Work" ]
+    "WIKIPEDIA_EN" : [ "I_Have_a_Crush_at_Work" ],
+    "WIKIPEDIA_JP" : [ "この会社に好きな人がいます" ]
   },
   "start_date" : "2025-01-06",
   "tags" : {
@@ -317,6 +435,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "この会社に好きな人がいます",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "这公司有我喜欢的人",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "這公司有我喜歡的人",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

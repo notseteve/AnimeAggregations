@@ -92,12 +92,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.15,
-      "total" : 91
+      "rating" : 6.16,
+      "total" : 94
     },
     "TEMPORARY" : {
-      "rating" : 6.47,
-      "total" : 94
+      "rating" : 6.49,
+      "total" : 97
     }
   },
   "resources" : {
@@ -122,6 +122,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2143" : {
       "info_box" : false,
       "name" : "succubus",
@@ -145,9 +153,23 @@
       "verified" : false,
       "weight" : 0
     },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -229,6 +251,46 @@
       "verified" : false,
       "weight" : 0
     },
+    "2715" : {
+      "info_box" : false,
+      "name" : "rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2718" : {
+      "info_box" : false,
+      "name" : "male rape victim",
+      "parent_tag_id" : 2715,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2721" : {
+      "info_box" : false,
+      "name" : "public sex",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2729" : {
+      "info_box" : false,
+      "name" : "BDSM",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2733" : {
+      "info_box" : false,
+      "name" : "enjoyable rape",
+      "parent_tag_id" : 2715,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2748" : {
       "info_box" : true,
       "name" : "sex",
@@ -244,6 +306,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2798" : {
       "info_box" : true,
@@ -285,10 +355,58 @@
       "verified" : false,
       "weight" : 0
     },
+    "2866" : {
+      "info_box" : false,
+      "name" : "slavery",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2890" : {
+      "info_box" : false,
+      "name" : "foot fetish",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2891" : {
       "info_box" : false,
       "name" : "breasts",
       "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2901" : {
+      "info_box" : false,
+      "name" : "bondage",
+      "parent_tag_id" : 2729,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2918" : {
+      "info_box" : false,
+      "name" : "cunnilingus",
+      "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -309,9 +427,49 @@
       "verified" : false,
       "weight" : 0
     },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -336,6 +494,30 @@
       "info_box" : false,
       "name" : "speculative fiction",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7220" : {
+      "info_box" : false,
+      "name" : "sexual abuse",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7398" : {
+      "info_box" : false,
+      "name" : "liberation of slaves",
+      "parent_tag_id" : 2866,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7399" : {
+      "info_box" : false,
+      "name" : "orgasm denial",
+      "parent_tag_id" : 2729,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

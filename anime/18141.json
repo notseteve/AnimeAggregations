@@ -78,6 +78,7 @@
       "type" : "MUSIC"
     } ]
   },
+  "description" : "Note: The first episode received an early screening at a special event on 5 January 2025 at Shibuya Pleasure Pleasure in Tokyo. The regular TV broadcast started on 11 January 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-01-11",
@@ -85,9 +86,18 @@
       "length" : 25,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQ7D5D" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Let`s Be More Idols & Unite"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Motto Idol Shinai to"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "もっとアイドルしないと"
       } ],
       "type" : "REGULAR"
     }, {
@@ -96,9 +106,18 @@
       "length" : 25,
       "number" : 2,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNK3P8" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kimenai to"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Let`s Make a Decision & Unite"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "決めないと"
       } ],
       "type" : "REGULAR"
     }, {
@@ -107,9 +126,18 @@
       "length" : 25,
       "number" : 3,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UG2P57" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Let`s Prove It & Unite"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shoumei Shinai to"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "証明しないと"
       } ],
       "type" : "REGULAR"
     }, {
@@ -118,12 +146,99 @@
       "length" : 25,
       "number" : 4,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUEMD8Z" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Let`s Go Home & Unite"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Satogaeri Shinai to"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "里帰りしないと"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-08",
+      "episode_id" : 292162,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mitsumenai to"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "見つめないと"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-15",
+      "episode_id" : 292163,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-22",
+      "episode_id" : 292164,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-01",
+      "episode_id" : 292165,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-01-04",
+      "episode_id" : 291010,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Chokuzen SP: Member no Omoi o Kikanai to!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前SP ~メンバーの想いを聞かないと!~"
+      } ],
+      "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.02,
+      "total" : 4
+    },
+    "TEMPORARY" : {
+      "rating" : 2.25,
+      "total" : 4
+    }
   },
   "related" : {
     "PREQUEL" : [ 17639 ]
@@ -131,6 +246,7 @@
   "resources" : {
     "ALL_CINEMA" : [ "394701" ],
     "ANN" : [ "29244" ],
+    "CRUNCHY_ROLL" : [ "GJ0H7Q5J9" ],
     "MAL" : [ "56135" ],
     "SYOBOI" : [ "7327" ],
     "TWITTER" : [ "project_uniteup" ],
@@ -168,6 +284,10 @@
     "language" : "ENGLISH",
     "title" : "UniteUp! Uni:Birth",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "UniteUp! S2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://uniteup.info/anime/"

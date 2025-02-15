@@ -1,5 +1,20 @@
 {
   "anime_id" : 18219,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 2260,
+      "name" : "Edogawa Conan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 8178,
+      "name" : "Hattori Heiji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 8218,
+      "name" : "Kuroba Kaito",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "474" : [ {
       "name" : "Aoyama Goushou",
@@ -42,20 +57,20 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.11,
-      "total" : 18
+      "rating" : 6.46,
+      "total" : 29
     },
     "TEMPORARY" : {
-      "rating" : 7.07,
-      "total" : 19
+      "rating" : 6.78,
+      "total" : 30
     }
   },
   "related" : {
-    "OTHER" : [ 18584 ],
     "PARENT" : [ 266 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "392567" ],
+    "ANISON" : [ "25452" ],
     "ANN" : [ "30898" ],
     "IMDB" : [ "tt31474158" ],
     "MAL" : [ "56785" ],
@@ -67,6 +82,29 @@
   },
   "start_date" : "2024-04-12",
   "tags" : {
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : true,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -90,6 +128,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Case Closed: The Million-Dollar Pentagram",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "FRENCH",
+    "title" : "Détective Conan : L`Étoile à 1 million de dollars",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

@@ -1,5 +1,82 @@
 {
   "anime_id" : 18558,
+  "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 135078,
+      "name" : "Vargis",
+      "type" : "CHARACTER"
+    } ],
+    "MAIN" : [ {
+      "character_id" : 131233,
+      "name" : "Anne",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131235,
+      "name" : "Donny",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138835,
+      "name" : "Lancelot",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131236,
+      "name" : "Nasiens",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129934,
+      "name" : "Percival",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 134779,
+      "name" : "Arthur Pendragon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138834,
+      "name" : "Chion",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138836,
+      "name" : "Gawain",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146263,
+      "name" : "Ioradio Velviger",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 134101,
+      "name" : "Ironshid",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138831,
+      "name" : "Isolde",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138833,
+      "name" : "Jade",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146265,
+      "name" : "Macduff",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138839,
+      "name" : "Meliodas",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146264,
+      "name" : "Teaninich",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138830,
+      "name" : "Tristan Liones",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146266,
+      "name" : "Zeldris",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "900" : [ {
       "name" : "Telecom Animation Film",
@@ -34,7 +111,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.97,
+        "rating" : 8.0,
         "total" : 1
       },
       "recap" : false,
@@ -55,7 +132,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 9.87,
+        "rating" : 9.89,
         "total" : 1
       },
       "recap" : false,
@@ -76,7 +153,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.28,
+        "rating" : 5.32,
         "total" : 1
       },
       "recap" : false,
@@ -97,7 +174,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.28,
+        "rating" : 5.32,
         "total" : 1
       },
       "recap" : false,
@@ -118,7 +195,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 9.87,
+        "rating" : 9.89,
         "total" : 1
       },
       "recap" : false,
@@ -139,13 +216,13 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.87,
+        "rating" : 9.89,
         "total" : 1
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Flames of Reminisces"
+        "title" : "Flames of Reminiscences"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Tsuisou no Honoo"
@@ -160,7 +237,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.97,
+        "rating" : 8.0,
         "total" : 1
       },
       "recap" : false,
@@ -181,7 +258,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 9.87,
+        "rating" : 9.89,
         "total" : 1
       },
       "recap" : false,
@@ -202,7 +279,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.97,
+        "rating" : 8.0,
         "total" : 1
       },
       "recap" : false,
@@ -223,7 +300,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.97,
+        "rating" : 8.0,
         "total" : 1
       },
       "recap" : false,
@@ -243,6 +320,10 @@
       "episode_id" : 289287,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 8.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -260,6 +341,10 @@
       "episode_id" : 289288,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 9.89,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -276,20 +361,22 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.69,
-      "total" : 14
+      "rating" : 5.44,
+      "total" : 20
     },
     "TEMPORARY" : {
-      "rating" : 7.07,
-      "total" : 14
+      "rating" : 6.87,
+      "total" : 20
     }
   },
   "related" : {
     "PREQUEL" : [ 17355 ]
   },
   "resources" : {
+    "ANISON" : [ "25125" ],
     "ANN" : [ "32543" ],
     "MAL" : [ "58511" ],
+    "NETFLIX" : [ "81562396" ],
     "SYOBOI" : [ "7247" ],
     "TWITTER" : [ "7_taizai" ],
     "WEBSITE" : [ "https://7sins-4knights.net/" ],

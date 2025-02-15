@@ -52,6 +52,16 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.83,
+      "total" : 3
+    },
+    "TEMPORARY" : {
+      "rating" : 4.66,
+      "total" : 3
+    }
+  },
   "resources" : {
     "MAL" : [ "60147" ],
     "TMDB" : [ "tv/274726" ],
@@ -74,9 +84,23 @@
       "verified" : false,
       "weight" : 0
     },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -121,6 +145,46 @@
       "verified" : false,
       "weight" : 0
     },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2892" : {
+      "info_box" : false,
+      "name" : "housewives",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "3932" : {
+      "info_box" : false,
+      "name" : "older female younger male",
+      "parent_tag_id" : 6073,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6073" : {
+      "info_box" : false,
+      "name" : "age difference romance",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -135,6 +199,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7905" : {
+      "info_box" : false,
+      "name" : "large breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     }
   },
   "titles" : [ {
@@ -145,6 +217,10 @@
     "language" : "JAPANESE",
     "title" : "育精",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "육정",
+    "type" : "SYNONYM"
   } ],
   "type" : "OVA",
   "url" : "http://www.suzukimirano.com/product/ikusei_01.html"

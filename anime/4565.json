@@ -375,7 +375,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.49,
+        "rating" : 7.5,
         "total" : 4
       },
       "recap" : false,
@@ -399,7 +399,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.66,
+        "rating" : 6.67,
         "total" : 4
       },
       "recap" : false,
@@ -423,7 +423,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 3.83,
+        "rating" : 3.84,
         "total" : 4
       },
       "recap" : false,
@@ -447,7 +447,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.0,
+        "rating" : 7.01,
         "total" : 4
       },
       "recap" : false,
@@ -711,7 +711,7 @@
       "length" : 25,
       "number" : 21,
       "rating" : {
-        "rating" : 9.22,
+        "rating" : 9.21,
         "total" : 3
       },
       "recap" : false,
@@ -965,7 +965,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.96,
-      "total" : 1769
+      "total" : 1774
     },
     "REVIEW" : {
       "rating" : 4.6,
@@ -973,7 +973,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.0,
-      "total" : 1802
+      "total" : 1807
     }
   },
   "related" : {
@@ -994,8 +994,8 @@
   },
   "similar" : {
     "3298" : {
-      "rating" : 7.5,
-      "total" : 4
+      "rating" : 8.0,
+      "total" : 5
     }
   },
   "start_date" : "2006-10-04",
@@ -1003,6 +1003,14 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1055,6 +1063,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "1894" : {
+      "info_box" : false,
+      "name" : "shota",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2056" : {
       "info_box" : false,
       "name" : "cosplaying",
@@ -1101,6 +1117,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -1111,6 +1134,13 @@
     "2608" : {
       "info_box" : false,
       "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1192,6 +1222,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2651" : {
       "info_box" : false,
@@ -1305,6 +1343,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2809" : {
       "info_box" : false,
       "name" : "United Kingdom",
@@ -1312,6 +1358,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2821" : {
+      "info_box" : false,
+      "name" : "sudden naked girl appearance",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2826" : {
       "info_box" : false,
@@ -1362,12 +1416,12 @@
       "weight" : 0
     },
     "2849" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "fantasy",
       "parent_tag_id" : 7050,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
     },
     "2853" : {
       "info_box" : true,
@@ -1433,6 +1487,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3322" : {
       "info_box" : false,
       "name" : "remake",
@@ -1441,10 +1503,50 @@
       "verified" : false,
       "weight" : 0
     },
+    "3546" : {
+      "info_box" : false,
+      "name" : "experimental animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4148" : {
       "info_box" : false,
       "name" : "late for school",
       "parent_tag_id" : 6148,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4222" : {
+      "info_box" : false,
+      "name" : "walls of text",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4227" : {
+      "info_box" : false,
+      "name" : "detailed landscapes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4228" : {
+      "info_box" : false,
+      "name" : "subtle OP ED sequence change",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1465,6 +1567,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5697" : {
+      "info_box" : false,
+      "name" : "randomness",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5763" : {
       "info_box" : false,
       "name" : "rock-paper-scissors",
@@ -1480,6 +1598,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "5980" : {
+      "info_box" : false,
+      "name" : "live-action imagery",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6137" : {
       "info_box" : false,
@@ -1501,6 +1627,13 @@
       "info_box" : false,
       "name" : "TO BE MOVED TO CHARACTER",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

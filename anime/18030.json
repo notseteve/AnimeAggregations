@@ -1,6 +1,35 @@
 {
   "anime_id" : 18030,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 145995,
+      "name" : "Inukai Souta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145994,
+      "name" : "Mike no Haha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145646,
+      "name" : "Sekoma Mamoru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145996,
+      "name" : "Uyama Yuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146193,
+      "name" : "Yuitsuka Hironobu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145647,
+      "name" : "Yuitsuka Mika",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145645,
+      "name" : "Yuitsuka Nozomi",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 135844,
       "name" : "Akeuraji Tsukasa",
@@ -19,6 +48,10 @@
       "name" : "Kamisaki Hikaru",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 145644,
+      "name" : "Kamoto Suzu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142809,
       "name" : "Miketa Ryouka",
       "type" : "CHARACTER"
@@ -29,6 +62,14 @@
     }, {
       "character_id" : 142813,
       "name" : "Sonidori Riou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145643,
+      "name" : "Sonidori Shin`ichirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145640,
+      "name" : "Takamine Hitomi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142810,
@@ -48,6 +89,14 @@
     "2172" : [ {
       "name" : "Yamamoto Yasutaka",
       "type" : "DIRECTOR"
+    } ],
+    "19338" : [ {
+      "name" : "Kurihara Manabu",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "21040" : [ {
+      "name" : "Yamamoto Ryousuke",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "27786" : [ {
       "name" : "Hayashi Yuuki",
@@ -85,10 +134,17 @@
       "episode_id" : 290054,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.52,
+        "total" : 8
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "A Genius on the Ice"
+      }, {
+        "language" : "POLISH",
+        "title" : "Geniusz na lodzie"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Hyoujou no Tensai"
@@ -102,10 +158,23 @@
       "episode_id" : 290055,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.79,
+        "total" : 8
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "POLISH",
+        "title" : "Odznaka"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Prelim Badge Test"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shokyuu Badge Test"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "初級バッジテスト"
       } ],
       "type" : "REGULAR"
     }, {
@@ -113,10 +182,23 @@
       "episode_id" : 290056,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.76,
+        "total" : 7
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Taiyaki and Cake"
+      }, {
+        "language" : "POLISH",
+        "title" : "Taiyaki i ciasto"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Taiyaki to Cake"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "たい焼きとケーキ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -124,23 +206,130 @@
       "episode_id" : 290057,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 6
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Meikoh Cup, Junior Women`s Prelim Free Skating (Part One)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Meikou Hai: Shokyuu Joshi FS (Zen)"
+      }, {
+        "language" : "POLISH",
+        "title" : "Puchar Meiko: klasa wstępna dziewcząt (cz. 1)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "名港杯 初級女子FS (前)"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-02",
+      "episode_id" : 291803,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 5
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Meikoh Cup, Junior Women`s Prelim Free Skating (Part Two)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Meikou Hai: Shokyuu Joshi FS (Kou)"
+      }, {
+        "language" : "POLISH",
+        "title" : "Puchar Meiko: klasa wstępna dziewcząt (cz. 2)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "名港杯 初級女子FS (後)"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-09",
+      "episode_id" : 291804,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shosen no Yoru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "初戦の夜"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-16",
+      "episode_id" : 291805,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-23",
+      "episode_id" : 291806,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-01-04",
+      "episode_id" : 291485,
+      "length" : 60,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Chokuzen Special Program"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前SP[スペシャルプログラム]"
+      } ],
+      "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.72,
+      "total" : 38
+    },
+    "TEMPORARY" : {
+      "rating" : 7.21,
+      "total" : 38
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "394326" ],
+    "ANISON" : [ "25808" ],
     "ANN" : [ "28262" ],
     "MAL" : [ "55318" ],
+    "STREAM" : [ "https://www.disneyplus.com/browse/entity-bb33d0c2-b077-4bc0-a549-d2ca27d4afa8" ],
     "SYOBOI" : [ "7276" ],
     "TWITTER" : [ "medalist_PR" ],
     "WEBSITE" : [ "https://medalist-pr.com/" ],
     "WIKIPEDIA_EN" : [ "Medalist_(manga)" ],
-    "WIKIPEDIA_JP" : [ "メダリスト_(漫画)" ]
+    "WIKIPEDIA_JP" : [ "メダリスト_(漫画)" ],
+    "YOUTUBE" : [ "watch?v=8vGVH1QhzOI" ]
   },
   "start_date" : "2025-01-05",
   "tags" : {
@@ -192,9 +381,21 @@
     "title" : "Medalist",
     "type" : "OFFICIAL"
   }, {
+    "language" : "POLISH",
+    "title" : "Medalist",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "メダリスト",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "金牌得主",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Loli on Ice",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://medalist-pr.com/"

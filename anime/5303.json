@@ -35,20 +35,24 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.09,
-      "total" : 588
+      "rating" : 6.08,
+      "total" : 590
     },
     "TEMPORARY" : {
-      "rating" : 6.98,
-      "total" : 591
+      "rating" : 6.97,
+      "total" : 593
     }
   },
   "resources" : {
     "IMDB" : [ "tt1077274" ],
     "MAL" : [ "2756" ],
+    "TMDB" : [ "movie/58700" ],
+    "WEBSITE" : [ "https://web.archive.org/web/20070321151703/http://www.yeuwoobi.co.kr:80/" ],
+    "WEBSITE_EN" : [ "https://gkids.com/" ],
     "WIKIPEDIA_EN" : [ "Yobi,_the_Five_Tailed_Fox" ],
     "WIKIPEDIA_JP" : [ "千年狐ヨウビ" ],
-    "WIKIPEDIA_KO" : [ "천년여우_여우비" ]
+    "WIKIPEDIA_KO" : [ "천년여우_여우비" ],
+    "YOUTUBE" : [ "@yobithefivetailedfox9412" ]
   },
   "similar" : {
     "5107" : {
@@ -396,20 +400,244 @@
     "title" : "천년여우 여우비",
     "type" : "OFFICIAL"
   }, {
+    "language" : "PORTUGUESE",
+    "title" : "A Lenda de Yobi",
+    "type" : "SYNONYM"
+  }, {
     "language" : "KOREAN_TRANSLITERATED",
     "title" : "Cheonnyeon-yeowoo Yeowoobi",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "LATVIAN",
+    "title" : "Jobi, Piecastes lapsa",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ESTONIAN",
+    "title" : "Viie sabaga rebane Yobi",
     "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",
     "title" : "Yeouubi, The Five-Tailed Fox",
     "type" : "SYNONYM"
   }, {
+    "language" : "LATVIAN",
+    "title" : "Yobi ad quinque caudatus vulpes",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "NORWEGIAN",
+    "title" : "Yobi den femhalereven",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "SWEDISH",
+    "title" : "Yobi den femsvansade räven",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "SPANISH",
+    "title" : "Yobi el zorro de cinco colas",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "SLOVENIAN",
+    "title" : "Yobi lisica s petimi repi",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "FINNISH",
+    "title" : "Yobi viisihäntäinen kettu",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "GREEK",
+    "title" : "Yobi η αλεπού με πέντε ουρά",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "TAGALOG",
+    "title" : "Yobi, Ang Limang Tailed Fox",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "SPANISH_BASQUE",
+    "title" : "Yobi, Bost buztan azeria",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ALBANIAN",
+    "title" : "Yobi, Dhelpra me pesë bishta",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "HAITIAN",
+    "title" : "Yobi, Fox a senk ke",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ESPERANTO",
+    "title" : "Yobi, La Kvinvosta Vulpo",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CROATIAN",
+    "title" : "Yobi, Lisica s pet repova",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CZECH",
+    "title" : "Yobi, Liška pětiocasá",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "VIETNAMESE",
+    "title" : "Yobi, Ngũ Vĩ Hồ Ly",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "LITHUANIAN",
+    "title" : "Yobi, Penkiauodegė lapė",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "SPANISH_LATIN",
+    "title" : "Yobi, Quinque Tailed Fox",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "BURMESE",
+    "title" : "Yobi, Rubah Ekor Lima",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "INDONESIAN",
+    "title" : "Yobi, Rubah Ekor Lima",
+    "type" : "SYNONYM"
+  }, {
     "language" : "ENGLISH",
     "title" : "Yobi, The Five Tailed Fox",
     "type" : "SYNONYM"
   }, {
+    "language" : "TAGALOG",
+    "title" : "Yobi, The Five-Tailed Fox",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ROMANIAN",
+    "title" : "Yobi, Vulpea cu cinci cozi",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "PORTUGUESE_BRAZIL",
+    "title" : "Yobi, a raposa de cinco caudas",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "HUNGARIAN",
+    "title" : "Yobi, az ötfarkú róka",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "DUTCH",
+    "title" : "Yobi, de vijfstaartvos",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "DANISH",
+    "title" : "Yobi, den femhalede ræv",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Yobi, der fünfschwänzige Fuchs",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "AFRIKAANS",
+    "title" : "Yobi, die Vyfstertvos",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ICELANDIC",
+    "title" : "Yobi, fimmhala refurinn",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "SPANISH_CATALAN",
+    "title" : "Yobi, la guineu de cinc cues",
+    "type" : "SYNONYM"
+  }, {
     "language" : "ITALIAN",
     "title" : "Yobi, la volpe dalle cinque code",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "FRENCH",
+    "title" : "Yobi, le renard à cinq queues",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "BOSNIAN",
+    "title" : "Yobi, lisica s pet repa",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "SPANISH_GALICIA",
+    "title" : "Yobi, o raposo de cinco colas",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "POLISH",
+    "title" : "Yobi, pięcioogoniasty lis",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "SLOVAK",
+    "title" : "Yobi, päťchvostá líška",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "OTHER",
+    "title" : "Yobi၊ အမြီးငါးကောင်",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "NEPALI",
+    "title" : "Yōbī, pāmca pucchara phaksa",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "MONGOLIAN",
+    "title" : "Ёби, Таван сүүлт үнэг",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "SERBIAN",
+    "title" : "Иоби, Петорепа лисица",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "TATAR",
+    "title" : "Йоби, биш койрыклы төлке",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "BULGARIAN",
+    "title" : "Йоби, лисицата с пет опашки",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "UKRAINIAN",
+    "title" : "Йобі - п`ятихвоста лисичка",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "HEBREW",
+    "title" : "יובי, השועל עם חמש הזנבות",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ARABIC",
+    "title" : "الخمسةيوبي، الثعلب ذو الذيول",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "URDU",
+    "title" : "یوبی، دی فائیو ٹیلڈ فاکس",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "PERSIAN",
+    "title" : "یوبی، روباه پنج دم",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "HINDI",
+    "title" : "योबी, द फाइव टेल्ड फॉक्स",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "BENGALI",
+    "title" : "ইয়োবি, দ্য ফাইভ টেইল্ড ফক্স",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "TAMIL",
+    "title" : "யோபி, ஐந்து வால் நரி",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "TELUGU",
+    "title" : "యోబి, ది ఫైవ్ టెయిల్డ్ ఫాక్స్",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "SINHALA",
+    "title" : "යෝබි, වලිග පහේ නරියා",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "GEORGIAN",
+    "title" : "იობი, ხუთკუდიანი მელა",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE",
+    "title" : "五尾狐",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE",
+    "title" : "千年狐ヨウビ",
     "type" : "SYNONYM"
   } ],
   "type" : "MOVIE"

@@ -1,6 +1,47 @@
 {
   "anime_id" : 18581,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 146249,
+      "name" : "Ashiya Yuuta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146241,
+      "name" : "Hachisuka Shigeru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146250,
+      "name" : "Ikari Masaaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146247,
+      "name" : "Ikari Michiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146246,
+      "name" : "Kagaya Masashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146243,
+      "name" : "Kimura Mafuyu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146242,
+      "name" : "Kimura Manatsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146245,
+      "name" : "Kuramoto Aoi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146248,
+      "name" : "Murota Haruka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146244,
+      "name" : "Murota Muneharu",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 144909,
       "name" : "Ameku Takao",
@@ -40,6 +81,13 @@
     "8890" : [ {
       "name" : "Takashina Yuka",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Takashina Yuka",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "35128" : [ {
+      "name" : "Nakayama Ryuu",
+      "type" : "DIRECTOR"
     } ],
     "35813" : [ {
       "name" : "Project No.9",
@@ -60,9 +108,13 @@
     "75891" : [ {
       "name" : "Chinen Mikito",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "79241" : [ {
+      "name" : "Matsumoto Ken`ichi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
-  "description" : "Ten`ikai General Hospital`s Supervisory Department of Diagnostic Pathology handles cases other physicians deem too difficult to treat. It`s also where bizarre mysteries surface, from unexplained illnesses to strange murders even the police can`t solve. At the center of it all is http://anidb.net/ch144909 [Ameku Takao], a brilliant doctor determined to reveal the shocking truth behind these anomalies.\nSource: Crunchyroll\nNote: The first episode received an early screening at a special event on 14 December 2024 at Shinjuku Wald 9 in Tokyo. The regular TV broadcast started on 2 January 2024.",
+  "description" : "Ten`ikai General Hospital`s Supervisory Department of Diagnostic Pathology handles cases other physicians deem too difficult to treat. It`s also where bizarre mysteries surface, from unexplained illnesses to strange murders even the police can`t solve. At the center of it all is http://anidb.net/ch144909 [Ameku Takao], a brilliant doctor determined to reveal the shocking truth behind these anomalies.\nSource: Crunchyroll\nNote: The first episode received an early screening at a special event on 14 December 2024 at Shinjuku Wald 9 in Tokyo. The regular TV broadcast started on 2 January 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-01-02",
@@ -70,14 +122,17 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.8,
-        "total" : 3
+        "rating" : 7.9,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GMKUEME3N" ]
       },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Docteur Sherlock"
+      }, {
         "language" : "ENGLISH",
         "title" : "Dr. Sherlock"
       }, {
@@ -94,8 +149,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.46,
-        "total" : 2
+        "rating" : 8.08,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -108,16 +163,27 @@
         "language" : "ENGLISH",
         "title" : "Blue Blood Cells and Dragon Fangs"
       }, {
+        "language" : "FRENCH",
+        "title" : "Sang bleu et dents de dinosaure"
+      }, {
         "language" : "JAPANESE",
         "title" : "青い血と竜の牙"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-01-09",
+      "description" : "\"Do you believe a video can be cursed?\" A girl walks in front of a train after watching a particular video and is subsequently admitted to a psych ward. Takao is the only one who believes her twin sister when she says it wasn`t a suicide attempt but the result of watching a cursed video, and the genius doctor sets about investigating.\nSource: Crunchyroll",
       "episode_id" : 290028,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.67,
+        "total" : 9
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UVEV2P" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Into the Spell of Shimmering Light"
@@ -125,19 +191,167 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Senkou no Naka e"
       }, {
+        "language" : "FRENCH",
+        "title" : "Vers la lumière"
+      }, {
         "language" : "JAPANESE",
         "title" : "閃光の中へ"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-01-16",
+      "air_date" : "2025-01-23",
+      "description" : "\"All who desecrate my grave shall be cursed to die.\" A university research team examining a grave reportedly linked to renowned onmyoji, Ashiya Doman, have started complaining about not feeling well, one after another. Takao is asked to investigate, but the case takes an unexpected turn.\nSource: Crunchyroll",
       "episode_id" : 290029,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 5.1,
+        "total" : 8
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8J8X0" ]
+      },
+      "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Flammes meurtrières"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaen no Kyouki"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Spontaneous Human Combustion"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "火焔の凶器"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-01-30",
+      "description" : "Takao`s diagnosis seems to solve Enzo`s Curse. However, due to a mysterious death by fire, the investigation is right back at square one.\nSource: Crunchyroll",
+      "episode_id" : 291391,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 6.22,
+        "total" : 8
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUN1NV3" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Crimson Curse of the Sorcerer"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Guren no Jujutsushi"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le sorcier rougeoyant"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "紅蓮の呪術師"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-06",
+      "description" : "Despite another occurrence of the mysterious spontaneous human combustion phenomenon, the suspect arrested denies any involvement in either case.\nSource: Crunchyroll",
+      "episode_id" : 291392,
+      "length" : 25,
+      "number" : 6,
+      "rating" : {
+        "rating" : 6.47,
+        "total" : 5
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WU7V7PE" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Fierce Blazing Finale"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Honoo no Shuumaku"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Épilogue du feu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "炎の終幕"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-20",
+      "episode_id" : 291393,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Order Made no Dokuyaku"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Prescribed Poison"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "オーダーメイドの毒薬"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-27",
+      "episode_id" : 291394,
+      "length" : 25,
+      "number" : 8,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-06",
+      "episode_id" : 292434,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-13",
+      "episode_id" : 292435,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-20",
+      "episode_id" : 292436,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-27",
+      "episode_id" : 292437,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -158,20 +372,67 @@
         "title" : "天久鷹央の推理ニュース"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-01-16",
+      "episode_id" : 291596,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ameku Takao no Kyuushinbi \"Takaosan de Takao-saan!\""
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode S2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "天久鷹央の休診日『高尾山で鷹央さーん!』"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-02-13",
+      "episode_id" : 292428,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ameku Takao no Kyuushinbi \"Sakura Ayane, Ningen Dock ni Iku\""
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode S3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "天久鷹央の休診日『佐倉綾音, 人間ドックに行く』"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-01-02",
+      "episode_id" : 291389,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.17,
-      "total" : 6
+      "rating" : 4.95,
+      "total" : 63
     },
     "TEMPORARY" : {
       "rating" : 6.16,
-      "total" : 6
+      "total" : 63
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "397007" ],
+    "ANISON" : [ "25775" ],
     "ANN" : [ "32647" ],
     "CRUNCHY_ROLL" : [ "G5PHNM970" ],
     "MAL" : [ "58600" ],
@@ -185,11 +446,162 @@
   "similar" : {
     "11104" : {
       "rating" : 10.0,
-      "total" : 1
+      "total" : 4
+    },
+    "17870" : {
+      "rating" : 6.666666666666666,
+      "total" : 3
     }
   },
   "start_date" : "2025-01-02",
   "tags" : {
+    "308" : {
+      "info_box" : true,
+      "name" : "detective",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2619" : {
+      "info_box" : false,
+      "name" : "gunfights",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2979" : {
+      "info_box" : false,
+      "name" : "mutilation",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4244" : {
+      "info_box" : false,
+      "name" : "healthcare and medicine",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -217,6 +629,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "天久鷹央の推理カルテ",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "天久鷹央的推理病歷表",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

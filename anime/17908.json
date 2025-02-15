@@ -2,7 +2,7 @@
   "anime_id" : 17908,
   "characters" : {
     "MAIN" : [ {
-      "character_id" : 79138,
+      "character_id" : 145810,
       "name" : "Asahina Mirai",
       "type" : "CHARACTER"
     }, {
@@ -22,12 +22,21 @@
       "name" : "Hanami Kotoha",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 79137,
+      "character_id" : 145811,
       "name" : "Izayoi Liko",
       "type" : "CHARACTER"
     }, {
       "character_id" : 79136,
       "name" : "Mofurun",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 145813,
+      "name" : "Aill",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145812,
+      "name" : "Hisui",
       "type" : "CHARACTER"
     } ]
   },
@@ -59,6 +68,10 @@
     "28539" : [ {
       "name" : "Sodeyama Mami",
       "type" : "CHARACTER_DESIGN"
+    } ],
+    "37033" : [ {
+      "name" : "Yoshiyama Yuu",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "episodes" : {
@@ -68,9 +81,18 @@
       "length" : 25,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7M4E9" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "A Miraculous and Magical Reunion!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saikai wa Miracle de Magical!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "再会はミラクルでマジカル!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -79,9 +101,18 @@
       "length" : 25,
       "number" : 2,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX5K4D" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Back to the Magic World!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hisashiburi no Mahou Kai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "久しぶりの魔法界"
       } ],
       "type" : "REGULAR"
     }, {
@@ -90,9 +121,18 @@
       "length" : 25,
       "number" : 3,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMWVD0" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Magic of Time"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Toki no Mahou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "刻[とき]の魔法"
       } ],
       "type" : "REGULAR"
     }, {
@@ -102,15 +142,71 @@
       "number" : 4,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hisui no Himitsu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Hisui`s Secret"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ひすいの秘密"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-09",
+      "episode_id" : 291815,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nagare Iku Saigetsu"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Passing Years"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "流れ行く歳月"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-16",
+      "episode_id" : 291816,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-23",
+      "episode_id" : 291817,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-02",
+      "episode_id" : 291818,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
       "air_date" : "2025-01-03",
       "episode_id" : 291020,
-      "length" : 115,
+      "length" : 40,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
@@ -126,17 +222,30 @@
       "type" : "SPECIAL"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.69,
+      "total" : 5
+    },
+    "TEMPORARY" : {
+      "rating" : 4.4,
+      "total" : 5
+    }
+  },
   "related" : {
     "PREQUEL" : [ 11794 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "395307" ],
+    "ANISON" : [ "25755" ],
     "ANN" : [ "27385" ],
+    "CRUNCHY_ROLL" : [ "GZJH3D881" ],
     "MAL" : [ "54717" ],
     "SYOBOI" : [ "7299" ],
     "WEBSITE" : [ "https://www.toei-anim.co.jp/tv/mahotsukai_precure2/" ],
     "WIKIPEDIA_EN" : [ "Witchy_Pretty_Cure!" ],
-    "WIKIPEDIA_JP" : [ "魔法つかいプリキュア!" ]
+    "WIKIPEDIA_JP" : [ "魔法つかいプリキュア!" ],
+    "YOUTUBE" : [ "watch?v=bApqGvF5bMQ" ]
   },
   "start_date" : "2025-01-12",
   "tags" : {
@@ -161,9 +270,17 @@
     "title" : "Mahou Tsukai Precure!! Mirai Days",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Witchy Precure!! Mirai Days",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "魔法つかいプリキュア!! ~MIRAI DAYS~",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Mahoutsukai Precure!! Mirai Days",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://www.toei-anim.co.jp/tv/mahotsukai_precure2/"

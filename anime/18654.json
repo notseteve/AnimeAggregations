@@ -1,6 +1,51 @@
 {
   "anime_id" : 18654,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 145780,
+      "name" : "Bacho",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146184,
+      "name" : "Boiled",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145783,
+      "name" : "Boss",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146279,
+      "name" : "Iriya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146181,
+      "name" : "Kurii Ningu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146185,
+      "name" : "Obiguro",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146180,
+      "name" : "Pizza Nakajima",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145945,
+      "name" : "Sakamoto Tarou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145781,
+      "name" : "Son Hee",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146182,
+      "name" : "Tatsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145782,
+      "name" : "Wang",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 141116,
       "name" : "Sakamoto Tarou",
@@ -16,7 +61,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 142478,
-      "name" : "Lu Xiaotan",
+      "name" : "Lu Shaotang",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142477,
@@ -57,6 +102,18 @@
       "name" : "TMS Entertainment",
       "type" : "WORK"
     } ],
+    "2215" : [ {
+      "name" : "Hinata Masaki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "2479" : [ {
+      "name" : "Ban Yukiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "13552" : [ {
+      "name" : "Shindou Masaru",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "19263" : [ {
       "name" : "Watanabe Masaki",
       "type" : "DIRECTOR"
@@ -85,10 +142,26 @@
       "episode_id" : 290138,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.05,
+        "total" : 10
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Densetsu no Koroshiya"
+      }, {
+        "language" : "FRENCH",
+        "title" : "L`assassin légendaire"
+      }, {
+        "language" : "POLISH",
+        "title" : "Legendarny zabójca"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Legendary Hit Man"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "伝説の殺し屋"
       } ],
       "type" : "REGULAR"
     }, {
@@ -96,10 +169,23 @@
       "episode_id" : 290139,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.9,
+        "total" : 7
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "VS Song-Hee + Bacho"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Vs Son Hee Bachou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Vs. Son Hee and Bacho"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "vsソンヒ・バチョウ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -107,10 +193,23 @@
       "episode_id" : 290140,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 5.25,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Bienvenue à Sugar Park !"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sugar Park e Youkoso!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Welcome to Sugar Park"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "シュガーパークへようこそ!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -118,17 +217,114 @@
       "episode_id" : 290141,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 3.98,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Hard-Boiled"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Hard-Boiled"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hard-Boiled"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ハードボイルド"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-01",
+      "episode_id" : 291787,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 8.51,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Source of Strength"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsuyosa no Wake"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "強さの理由[わけ]"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-08",
+      "episode_id" : 291788,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-15",
+      "episode_id" : 291789,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-22",
+      "episode_id" : 291790,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 291904,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 291905,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 291906,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
       } ],
       "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
       "air_date" : "2025-01-04",
       "episode_id" : 291009,
-      "length" : 30,
+      "length" : 25,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
@@ -144,13 +340,25 @@
       "type" : "SPECIAL"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.11,
+      "total" : 62
+    },
+    "TEMPORARY" : {
+      "rating" : 6.26,
+      "total" : 62
+    }
+  },
   "related" : {
     "SEQUEL" : [ 18984 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "395325" ],
+    "ANISON" : [ "25789" ],
     "ANN" : [ "32767" ],
     "MAL" : [ "58939" ],
+    "NETFLIX" : [ "81663325" ],
     "SYOBOI" : [ "7287" ],
     "TWITTER" : [ "SAKAMOTODAYS_PR" ],
     "WEBSITE" : [ "https://sakamotodays.jp/" ],
@@ -159,6 +367,13 @@
   },
   "start_date" : "2025-01-11",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -170,6 +385,22 @@
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2840" : {
+      "info_box" : true,
+      "name" : "mafia",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -207,8 +438,56 @@
     "title" : "SAKAMOTO DAYS",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CROATIAN",
+    "title" : "SAKAMOTOVI DANI",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "Sakamoto Days",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "POLISH",
+    "title" : "Sakamoto Days",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "HUNGARIAN",
+    "title" : "Sakamoto napjai",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "VIETNAMESE",
+    "title" : "Sát thủ về vườn",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "RUSSIAN",
+    "title" : "Дни Сакамото",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "UKRAINIAN",
+    "title" : "Дні Сакамото",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "HEBREW",
+    "title" : "החיים החדשים של סקמוטו",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ARABIC",
+    "title" : "أيام ساكاموتو",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "HINDI",
+    "title" : "साकामोतो डेज़",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "坂本日常",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "坂本日常",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "사카모토 데이즈",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

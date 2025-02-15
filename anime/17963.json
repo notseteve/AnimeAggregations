@@ -107,7 +107,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.67,
+        "rating" : 6.68,
         "total" : 4
       },
       "recap" : false,
@@ -135,7 +135,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.43,
+        "rating" : 3.46,
         "total" : 4
       },
       "recap" : false,
@@ -163,7 +163,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.53,
+        "rating" : 2.55,
         "total" : 4
       },
       "recap" : false,
@@ -219,7 +219,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.2,
+        "rating" : 7.23,
         "total" : 3
       },
       "recap" : false,
@@ -247,7 +247,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.84,
+        "rating" : 6.85,
         "total" : 3
       },
       "recap" : false,
@@ -275,7 +275,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.4,
+        "rating" : 3.45,
         "total" : 3
       },
       "recap" : false,
@@ -303,7 +303,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.57,
+        "rating" : 5.6,
         "total" : 2
       },
       "recap" : false,
@@ -331,7 +331,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 4.04,
+        "rating" : 4.06,
         "total" : 2
       },
       "recap" : false,
@@ -359,7 +359,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 6.74,
+        "rating" : 6.75,
         "total" : 2
       },
       "recap" : false,
@@ -386,7 +386,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 4.04,
+        "rating" : 4.06,
         "total" : 2
       },
       "recap" : false,
@@ -490,12 +490,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.29,
-      "total" : 314
+      "rating" : 5.39,
+      "total" : 361
     },
     "TEMPORARY" : {
-      "rating" : 6.63,
-      "total" : 314
+      "rating" : 6.7,
+      "total" : 361
     }
   },
   "related" : {
@@ -513,6 +513,16 @@
     "WIKIPEDIA_EN" : [ "Wind_Breaker_(manga)" ],
     "WIKIPEDIA_JP" : [ "WIND_BREAKER_(漫画)" ]
   },
+  "similar" : {
+    "15601" : {
+      "rating" : 5.0,
+      "total" : 2
+    },
+    "18040" : {
+      "rating" : 5.0,
+      "total" : 2
+    }
+  },
   "start_date" : "2024-04-05",
   "tags" : {
     "922" : {
@@ -522,6 +532,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2605" : {
       "info_box" : false,
@@ -537,6 +555,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -547,6 +572,13 @@
     "2610" : {
       "info_box" : false,
       "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -575,10 +607,50 @@
       "verified" : false,
       "weight" : 0
     },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3040" : {
       "info_box" : false,
       "name" : "male protagonist",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5792" : {
+      "info_box" : false,
+      "name" : "gangs",
+      "parent_tag_id" : 2872,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

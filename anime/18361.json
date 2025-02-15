@@ -22,12 +22,27 @@
       "character_id" : 143996,
       "name" : "Wridra",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 145978,
+      "name" : "Wridra",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
+    "1546" : [ {
+      "name" : "Horii Kumi",
+      "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Horii Kumi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "1645" : [ {
       "name" : "Kitahata Tooru",
       "type" : "DIRECTOR"
+    } ],
+    "7854" : [ {
+      "name" : "Yasuda Yoshitaka",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "8924" : [ {
       "name" : "Yoshinaga Aya",
@@ -60,10 +75,23 @@
       "episode_id" : 290122,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.2,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U3M8D9" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Good Morning, Ms. Elf."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ohayou, Elf-san."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "おはよう, エルフさん."
       } ],
       "type" : "REGULAR"
     }, {
@@ -71,10 +99,23 @@
       "episode_id" : 290123,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.44,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUW043E" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Have a Katsu-don, Ms. Elf."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Katsudon Desu yo, Elf-san."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カツ丼ですよ, エルフさん."
       } ],
       "type" : "REGULAR"
     }, {
@@ -82,10 +123,23 @@
       "episode_id" : 290124,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 4.11,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14UVJZ30" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Lost Magic Stones"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ushinawareta Maseki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "失われた魔石"
       } ],
       "type" : "REGULAR"
     }, {
@@ -93,22 +147,249 @@
       "episode_id" : 290125,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 6.86,
+        "total" : 6
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQ7DM3" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Good Night, Ms. Elf."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Oyasuminasai, Elf-san."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "おやすみなさい, エルフさん."
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-07",
+      "episode_id" : 292105,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 3.41,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNK3ZQ" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Illusory Swordsman"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mugen Kenshi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夢幻剣士"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-14",
+      "episode_id" : 292106,
+      "length" : 25,
+      "number" : 6,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-21",
+      "episode_id" : 292107,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-02-28",
+      "episode_id" : 292108,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
-      "air_date" : "2025-01-10",
-      "episode_id" : 291002,
-      "length" : 30,
+      "air_date" : "2024-11-14",
+      "episode_id" : 291350,
+      "length" : 3,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.88,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kazuhiho to Marie no Youkoso Kitchen. #1: Kinensubeki Daiikkai!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Welcome Kitchen by Kazuhiho and Marie #1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カズヒホとマリーのようこそキッチン. #1 記念すべき第一回!"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-11-21",
+      "episode_id" : 291342,
+      "length" : 3,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kazuhiho to Marie no Youkoso Kitchen. #2: Pokapoka Gussuri Hot Milk"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Welcome Kitchen by Kazuhiho and Marie #2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カズヒホとマリーのようこそキッチン. #2 ぽかぽかぐっすりホットミルク"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-11-28",
+      "episode_id" : 291343,
+      "length" : 3,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kazuhiho to Marie no Youkoso Kitchen. #3: Madouryuu-san kara Request"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Welcome Kitchen by Kazuhiho and Marie #3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カズヒホとマリーのようこそキッチン. #3 魔導竜さんからリクエスト"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-12-05",
+      "episode_id" : 291344,
+      "length" : 3,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kazuhiho to Marie no Youkoso Kitchen. #4: Happy Birthday Marie!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Welcome Kitchen by Kazuhiho and Marie #4"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カズヒホとマリーのようこそキッチン. #4 ハッピーバースデーマリー!"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-12-12",
+      "episode_id" : 291345,
+      "length" : 3,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kazuhiho to Marie no Youkoso Kitchen. #5: Nekozoku no Ko kara Request"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Welcome Kitchen by Kazuhiho and Marie #5"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カズヒホとマリーのようこそキッチン. #5 猫族の子からリクエスト"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-12-19",
+      "episode_id" : 291346,
+      "length" : 3,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kazuhiho to Marie no Youkoso Kitchen. #6: Celery de Refresh Soboro Don"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Welcome Kitchen by Kazuhiho and Marie #6"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カズヒホとマリーのようこそキッチン. #6 セロリでリフレッシュそぼろ丼"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-12-24",
+      "episode_id" : 291347,
+      "length" : 3,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kazuhiho to Marie no Youkoso Kitchen. Nenmatsu Nenshi Special 1: Christmas wa Nabe de Hokkori"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Welcome Kitchen by Kazuhiho and Marie New Year`s Special 1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カズヒホとマリーのようこそキッチン. 年末年始スペシャル1 クリスマスは鍋でほっこり"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-12-31",
+      "episode_id" : 291348,
+      "length" : 3,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kazuhiho to Marie no Youkoso Kitchen. Nenmatsu Nenshi Special 2: Toshikoshisoba de Yoi Otoshi o"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Welcome Kitchen by Kazuhiho and Marie New Year`s Special 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カズヒホとマリーのようこそキッチン. 年末年始スペシャル2 年越し蕎麦で良いお年を"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-01-03",
+      "episode_id" : 291349,
+      "length" : 3,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kazuhiho to Marie no Youkoso Kitchen. Nenmatsu Nenshi Special 3: Akemashite Omedetou 2025"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Welcome Kitchen by Kazuhiho and Marie New Year`s Special 3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カズヒホとマリーのようこそキッチン. 年末年始スペシャル3 あけましておめでとう2025"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-01-10",
+      "episode_id" : 291668,
+      "length" : 40,
+      "number" : 10,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode S1"
+        "title" : "Episode S10"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Girigiri made Moriagetai! SP"
@@ -117,22 +398,168 @@
         "title" : "ギリギリまで盛り上げたい! SP"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-01-10",
+      "episode_id" : 291002,
+      "length" : 30,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S11"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Girigiri made Moriagetai! SP"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ギリギリまで盛り上げたい! SP"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-01-10",
+      "episode_id" : 291919,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-01-10",
+      "episode_id" : 291920,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.43,
+      "total" : 51
+    },
+    "TEMPORARY" : {
+      "rating" : 6.62,
+      "total" : 51
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "397460" ],
+    "ANISON" : [ "25799" ],
     "ANN" : [ "31172" ],
-    "MAL" : [ "57648" ],
+    "CRUNCHY_ROLL" : [ "G24H1NWWE" ],
+    "MAL" : [ "57648", "60295" ],
     "SYOBOI" : [ "7283" ],
     "TWITTER" : [ "welcome_elfsan/" ],
     "WEBSITE" : [ "https://welcome-elfsan.com/" ],
-    "WIKIPEDIA_EN" : [ "Welcome_to_Japan,_Ms._Elf!" ]
+    "WIKIPEDIA_EN" : [ "Welcome_to_Japan,_Ms._Elf!" ],
+    "WIKIPEDIA_JP" : [ "日本へようこそエルフさん。" ],
+    "YOUTUBE" : [ "watch?v=09-RvkeAZCc", "watch?v=9OC5IRyGcG4", "watch?v=J79IbHdEj_8", "watch?v=KvfzCI3X5AE", "watch?v=MQMqmlQgA88", "watch?v=MpsRC9vpEQs", "watch?v=NS38Qn_nrFU", "watch?v=Ta8zS2fUjbI", "watch?v=pbr_WwgqPSg", "watch?v=sfFBwiNT91g" ]
   },
   "start_date" : "2025-01-10",
   "tags" : {
+    "1609" : {
+      "info_box" : false,
+      "name" : "elf",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -157,6 +584,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "日本へようこそエルフさん.",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "欢迎来到日本，精灵小姐。",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "歡迎來到日本，妖精小姐。",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

@@ -60,12 +60,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.31,
-      "total" : 24
+      "rating" : 2.3,
+      "total" : 23
     },
     "TEMPORARY" : {
-      "rating" : 3.79,
-      "total" : 24
+      "rating" : 3.86,
+      "total" : 23
     }
   },
   "resources" : {
@@ -106,6 +106,13 @@
     "2608" : {
       "info_box" : false,
       "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -156,6 +163,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2800" : {
+      "info_box" : true,
+      "name" : "game",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2848" : {
       "info_box" : false,
