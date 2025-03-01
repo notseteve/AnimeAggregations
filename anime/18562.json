@@ -54,6 +54,10 @@
       "name" : "Pairin",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146528,
+      "name" : "Shenryu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 136123,
       "name" : "Shin",
       "type" : "CHARACTER"
@@ -80,6 +84,10 @@
     }, {
       "character_id" : 135920,
       "name" : "Yinghua",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146527,
+      "name" : "You",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -134,6 +142,14 @@
       "name" : "OLM",
       "type" : "ANIMATION_WORK"
     } ],
+    "2457" : [ {
+      "name" : "Yamashita Yoshimitsu",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "2458" : [ {
+      "name" : "Sasaki Mutsumi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "5457" : [ {
       "name" : "Ikeda Yuuji",
       "type" : "CHIEF_ANIMATION_DIRECTION"
@@ -186,8 +202,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.45,
-        "total" : 14
+        "rating" : 8.53,
+        "total" : 15
       },
       "recap" : false,
       "resources" : {
@@ -214,8 +230,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.44,
-        "total" : 13
+        "rating" : 8.52,
+        "total" : 14
       },
       "recap" : false,
       "resources" : {
@@ -242,8 +258,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.75,
-        "total" : 13
+        "rating" : 8.81,
+        "total" : 14
       },
       "recap" : false,
       "resources" : {
@@ -262,12 +278,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-01-31",
+      "description" : "The special envoy from a foreign land gifts mirrors - a rarity in this country - to the high concubines. However, they bring mysteries as well.\nSource: Crunchyroll",
       "episode_id" : 290121,
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.07,
-        "total" : 9
+        "rating" : 7.43,
+        "total" : 12
       },
       "recap" : false,
       "resources" : {
@@ -289,10 +306,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-07",
+      "description" : "In order to realize the seemingly impossible request from the foreign envoy, Maomao speaks to the “Moon Fairy” herself.\nSource: Crunchyroll",
       "episode_id" : 291740,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 8.08,
+        "total" : 12
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUW3VGJ" ]
+      },
       "titles" : [ {
         "language" : "GERMAN",
         "title" : "Die Mondnymphe"
@@ -312,10 +337,26 @@
       "episode_id" : 291741,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 9.45,
+        "total" : 10
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU32NV2" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mitabi, Suishoukyuu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Crystal Pavilion, for the Third Time"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Zum dritten Mal in der Quarz-Residenz"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "みたび, 水晶宮"
       } ],
       "type" : "REGULAR"
     }, {
@@ -325,8 +366,17 @@
       "number" : 7,
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Der Tempel der Kür"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sentaku no Byou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "The Shrine of Choosing"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "選択の廟"
       } ],
       "type" : "REGULAR"
     }, {
@@ -338,6 +388,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-07",
+      "episode_id" : 293003,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-14",
+      "episode_id" : 293004,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-21",
+      "episode_id" : 293005,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-28",
+      "episode_id" : 293006,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -392,6 +486,57 @@
         "title" : "猫猫のひとりごと 第27話 茸"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-02-03",
+      "episode_id" : 292458,
+      "length" : 2,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Maomao no Hitorigoto Dai 28 Wa: Yuutan"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Maomao no Hitorigoto Episode 28"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猫猫のひとりごと 第28話 熊胆"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-02-10",
+      "episode_id" : 292919,
+      "length" : 2,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Maomao no Hitorigoto Dai 29 Wa: Ga"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Maomao no Hitorigoto Episode 29"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猫猫のひとりごと 第29話 蛾"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-02-17",
+      "episode_id" : 293194,
+      "length" : 2,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Maomao no Hitorigoto Dai 30 Wa: Tokage"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Maomao no Hitorigoto Episode 30"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猫猫のひとりごと 第30話 トカゲ"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "CREDITS" : [ {
       "air_date" : "2025-01-10",
@@ -419,12 +564,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 9.08,
-      "total" : 51
+      "rating" : 9.2,
+      "total" : 66
     },
     "TEMPORARY" : {
-      "rating" : 8.21,
-      "total" : 52
+      "rating" : 8.37,
+      "total" : 67
     }
   },
   "related" : {
@@ -441,7 +586,7 @@
     "WEBSITE" : [ "https://kusuriyanohitorigoto.jp/season2/" ],
     "WIKIPEDIA_EN" : [ "The_Apothecary_Diaries" ],
     "WIKIPEDIA_JP" : [ "薬屋のひとりごと_(アニメ)" ],
-    "YOUTUBE" : [ "watch?v=J3CE-FEyMWg", "watch?v=NjaNa4lO6a4", "watch?v=WDL0jSFr6e8", "watch?v=p0Hu6AgCWGs", "watch?v=wOleNo7T6_4" ]
+    "YOUTUBE" : [ "watch?v=J3CE-FEyMWg", "watch?v=NjaNa4lO6a4", "watch?v=WDL0jSFr6e8", "watch?v=bANkdPu27MI", "watch?v=guTfsi_Wq1k", "watch?v=p0Hu6AgCWGs", "watch?v=vvxCy8lFiDs", "watch?v=wOleNo7T6_4" ]
   },
   "start_date" : "2025-01-10",
   "tags" : {

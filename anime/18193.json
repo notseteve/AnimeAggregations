@@ -22,6 +22,10 @@
       "name" : "Kagemaru",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146277,
+      "name" : "Kondou Shuusuke",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 144419,
       "name" : "Misaki",
       "type" : "CHARACTER"
@@ -60,6 +64,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 146464,
+      "name" : "Anegakouji Kintomo",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 145352,
       "name" : "Ayame",
       "type" : "CHARACTER"
@@ -74,6 +82,10 @@
     }, {
       "character_id" : 144662,
       "name" : "Fujita",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146461,
+      "name" : "Hanabishi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 144055,
@@ -98,6 +110,10 @@
     }, {
       "character_id" : 144058,
       "name" : "Inoue Genzaburou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146463,
+      "name" : "Kamoku",
       "type" : "CHARACTER"
     }, {
       "character_id" : 144665,
@@ -144,12 +160,20 @@
       "name" : "Okita Souji",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146459,
+      "name" : "Ryouken",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 136793,
       "name" : "Saitou Hajime",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145768,
       "name" : "Sakura",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146460,
+      "name" : "Sendou",
       "type" : "CHARACTER"
     }, {
       "character_id" : 136796,
@@ -174,6 +198,10 @@
     }, {
       "character_id" : 144056,
       "name" : "Yamanami Keisuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146462,
+      "name" : "Yasha",
       "type" : "CHARACTER"
     } ]
   },
@@ -237,7 +265,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.14,
+        "rating" : 4.16,
         "total" : 4
       },
       "recap" : false,
@@ -261,7 +289,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.57,
+        "rating" : 2.58,
         "total" : 4
       },
       "recap" : false,
@@ -285,7 +313,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.18,
+        "rating" : 4.2,
         "total" : 4
       },
       "recap" : false,
@@ -309,8 +337,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.2,
-        "total" : 4
+        "rating" : 4.74,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -333,7 +361,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 2.66,
+        "rating" : 2.67,
         "total" : 4
       },
       "recap" : false,
@@ -540,6 +568,10 @@
       "episode_id" : 290193,
       "length" : 25,
       "number" : 14,
+      "rating" : {
+        "rating" : 5.93,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G7PU32GDJ" ]
@@ -600,7 +632,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 17"
+        "title" : "A Place to Belong"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ibasho"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "居場所"
       } ],
       "type" : "REGULAR"
     }, {
@@ -611,7 +649,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 18"
+        "title" : "Man of the Soil"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsuchi no Ningen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "土の人間"
       } ],
       "type" : "REGULAR"
     }, {
@@ -636,11 +680,55 @@
         "title" : "Episode 20"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-08",
+      "episode_id" : 292926,
+      "length" : 25,
+      "number" : 21,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 21"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-15",
+      "episode_id" : 292927,
+      "length" : 25,
+      "number" : 22,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 22"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-22",
+      "episode_id" : 292928,
+      "length" : 25,
+      "number" : 23,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 23"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-29",
+      "episode_id" : 292929,
+      "length" : 25,
+      "number" : 24,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 24"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.38,
+      "rating" : 4.39,
       "total" : 37
     },
     "TEMPORARY" : {

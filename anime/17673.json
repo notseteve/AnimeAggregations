@@ -172,7 +172,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.36,
+        "rating" : 6.35,
         "total" : 7
       },
       "recap" : false,
@@ -197,7 +197,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.29,
+        "rating" : 8.28,
         "total" : 5
       },
       "recap" : false,
@@ -222,7 +222,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.88,
+        "rating" : 6.87,
         "total" : 4
       },
       "recap" : false,
@@ -247,7 +247,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.47,
+        "rating" : 7.46,
         "total" : 4
       },
       "recap" : false,
@@ -347,7 +347,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.19,
+        "rating" : 7.2,
         "total" : 2
       },
       "recap" : false,
@@ -372,7 +372,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.05,
+        "rating" : 8.04,
         "total" : 2
       },
       "recap" : false,
@@ -422,7 +422,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 8.05,
+        "rating" : 8.04,
         "total" : 2
       },
       "recap" : false,
@@ -510,11 +510,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.19,
-      "total" : 283
+      "total" : 285
     },
     "TEMPORARY" : {
       "rating" : 6.88,
-      "total" : 283
+      "total" : 285
     }
   },
   "related" : {
@@ -534,6 +534,13 @@
   },
   "start_date" : "2024-03-29",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -548,6 +555,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2879" : {
+      "info_box" : false,
+      "name" : "alcohol",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "6173" : {
       "info_box" : false,
@@ -585,6 +600,10 @@
     "language" : "RUSSIAN",
     "title" : "Бармен: Бокал бога",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "RUSSIAN",
+    "title" : "Бармен: божественный стакан",
+    "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE",
     "title" : "バーテンダー 神のグラス",

@@ -18,12 +18,24 @@
       "name" : "BIG.G",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142895,
+      "name" : "Banka Rara",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143697,
       "name" : "Benkei",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142902,
       "name" : "Kyouko Aveiro",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142715,
+      "name" : "MIA",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142717,
+      "name" : "MIKE",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142900,
@@ -44,6 +56,10 @@
     }, {
       "character_id" : 142896,
       "name" : "Ootani Tsuyako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142716,
+      "name" : "Satou Chihane",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142901,
@@ -80,10 +96,6 @@
       "name" : "Aieda Mari",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 142895,
-      "name" : "Banka Rara",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 141977,
       "name" : "Ikutame Hana",
       "type" : "CHARACTER"
@@ -98,18 +110,6 @@
     }, {
       "character_id" : 141976,
       "name" : "Kushida Miyabi",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 142715,
-      "name" : "MIA",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 142717,
-      "name" : "MIKE",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 142716,
-      "name" : "Satou Chihane",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142714,
@@ -157,7 +157,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.98,
+        "rating" : 4.97,
         "total" : 6
       },
       "recap" : false,
@@ -181,7 +181,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.24,
+        "rating" : 4.23,
         "total" : 5
       },
       "recap" : false,
@@ -205,7 +205,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.57,
+        "rating" : 4.58,
         "total" : 4
       },
       "recap" : false,
@@ -253,7 +253,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.57,
+        "rating" : 4.58,
         "total" : 4
       },
       "recap" : false,
@@ -277,7 +277,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.5,
+        "rating" : 5.51,
         "total" : 4
       },
       "recap" : false,
@@ -301,7 +301,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.57,
+        "rating" : 4.58,
         "total" : 4
       },
       "recap" : false,
@@ -346,10 +346,13 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 4.19,
+        "rating" : 4.2,
         "total" : 4
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UDME0W" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Ame to Cheer"
@@ -371,6 +374,9 @@
         "total" : 4
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9U3EJW4" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Go Fight Win"
@@ -388,10 +394,13 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 2.92,
+        "rating" : 2.93,
         "total" : 4
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUX120W" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Na Nare"
@@ -409,10 +418,13 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 4.86,
+        "rating" : 4.87,
         "total" : 3
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU0ME1Q" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Hana ni Nare"
@@ -431,7 +443,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 6.92,
+        "rating" : 6.94,
         "total" : 1
       },
       "recap" : false,
@@ -475,11 +487,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.23,
-      "total" : 111
+      "total" : 112
     },
     "TEMPORARY" : {
-      "rating" : 5.63,
-      "total" : 111
+      "rating" : 5.62,
+      "total" : 112
     }
   },
   "resources" : {

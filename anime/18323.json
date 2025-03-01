@@ -22,8 +22,16 @@
       "name" : "Beshimi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 20843,
+      "name" : "Fuji",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 145320,
       "name" : "Giichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146413,
+      "name" : "Goichi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 20160,
@@ -64,6 +72,10 @@
     }, {
       "character_id" : 20109,
       "name" : "Oguni Gensai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 20702,
+      "name" : "Ookubo Toshimichi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 144932,
@@ -134,12 +146,28 @@
       "name" : "Shuu",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146415,
+      "name" : "Shuuzou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 145321,
       "name" : "Suga Tsukasa",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146414,
+      "name" : "Tokuji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146416,
+      "name" : "Toushirou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 20650,
       "name" : "Tsukioka Tsunan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 6627,
+      "name" : "Udou Jin`e",
       "type" : "CHARACTER"
     }, {
       "character_id" : 20806,
@@ -274,6 +302,10 @@
       "name" : "Saotome Kei",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "26621" : [ {
+      "name" : "Takagi Sakura",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "35233" : [ {
       "name" : "Liden Films",
       "type" : "ANIMATION_WORK"
@@ -296,6 +328,7 @@
     } ]
   },
   "description" : "Note: The first four episodes received an early screening at a special event on 22 September 2024 at TOHO Cinemas Nihonbashi in Tokyo and at T-Joy Kyoto in Kyoto. The regular TV broadcast started on 4 October 2024.",
+  "end_date" : "2025-03-21",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-04",
@@ -444,7 +477,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 2.73,
+        "rating" : 2.72,
         "total" : 3
       },
       "recap" : false,
@@ -472,7 +505,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.02,
+        "rating" : 4.01,
         "total" : 3
       },
       "recap" : false,
@@ -611,7 +644,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 3.67,
+        "rating" : 3.66,
         "total" : 3
       },
       "recap" : false,
@@ -746,16 +779,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-07",
+      "description" : "Shishio`s underlings inconspicuously prepare for their battle plan when patrols arrive causing them to retreat.\nSource: Crunchyroll",
       "episode_id" : 291998,
       "length" : 25,
       "number" : 17,
+      "rating" : {
+        "rating" : 5.77,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMN312" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Mou Hitotsu no Mokuteki"
       }, {
         "language" : "ENGLISH",
         "title" : "The Other Objective"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Un Autre Objectif"
       }, {
         "language" : "JAPANESE",
         "title" : "もう一つの目的"
@@ -766,10 +810,26 @@
       "episode_id" : 291999,
       "length" : 25,
       "number" : 18,
+      "rating" : {
+        "rating" : 5.77,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7MZQP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 18"
+        "title" : "As If in Flight"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tobu ga Gotoku"
+      }, {
+        "language" : "FRENCH",
+        "title" : "À tombeau ouvert"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "翔ぶが如く"
       } ],
       "type" : "REGULAR"
     }, {
@@ -779,8 +839,14 @@
       "number" : 19,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyoto Taika: Zenpen"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 19"
+        "title" : "The Great Kyoto Fire (Part One)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "京都大火 前編"
       } ],
       "type" : "REGULAR"
     }, {
@@ -792,6 +858,39 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 20"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-07",
+      "episode_id" : 292883,
+      "length" : 25,
+      "number" : 21,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 21"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-14",
+      "episode_id" : 292884,
+      "length" : 25,
+      "number" : 22,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 22"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-21",
+      "episode_id" : 292885,
+      "length" : 25,
+      "number" : 23,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 23"
       } ],
       "type" : "REGULAR"
     } ],
@@ -829,12 +928,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.87,
-      "total" : 48
+      "rating" : 6.95,
+      "total" : 51
     },
     "TEMPORARY" : {
-      "rating" : 7.33,
-      "total" : 48
+      "rating" : 7.39,
+      "total" : 51
     }
   },
   "related" : {

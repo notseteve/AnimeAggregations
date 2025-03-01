@@ -10,6 +10,10 @@
       "name" : "Curve",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146358,
+      "name" : "Delilah",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140665,
       "name" : "Doan",
       "type" : "CHARACTER"
@@ -36,6 +40,14 @@
     }, {
       "character_id" : 146126,
       "name" : "Lita",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146512,
+      "name" : "Lucanos",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 136957,
+      "name" : "Meredina",
       "type" : "CHARACTER"
     }, {
       "character_id" : 141333,
@@ -98,6 +110,10 @@
       "name" : "Miura Kazuya",
       "type" : "DIRECTOR"
     } ],
+    "10763" : [ {
+      "name" : "Nagasaku Tomokatsu",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "19203" : [ {
       "name" : "Koikawa Shinpei",
       "type" : "CHIEF_ANIMATION_DIRECTION"
@@ -127,6 +143,7 @@
     } ]
   },
   "description" : "* Based on a fantasy light novel series written by http://anidb.net/cr69788 [Furumiya Kuji] and illustrated by http://anidb.net/cr69789 [Chibi].",
+  "end_date" : "2025-03-25",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-01-07",
@@ -242,11 +259,22 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-04",
+      "description" : "Tinasha takes the throne once more as Tuldarr`s queen. Oscar makes up his mind after Tinasha shocks all present at the coronation ceremony.\nSource: Crunchyroll",
       "episode_id" : 291844,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 4.14,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUW30QX" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "La prière en retour de la promesse"
+      }, {
         "language" : "ENGLISH",
         "title" : "Returning the Promise"
       }, {
@@ -262,10 +290,23 @@
       "episode_id" : 291845,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 4.14,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU328D1" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Bloodless Scars"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Muketsu no Kizuato"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "無血の傷跡"
       } ],
       "type" : "REGULAR"
     }, {
@@ -276,7 +317,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Joyful Sorrow"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shiawase na Kanashimi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "幸せな悲しみ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -288,6 +335,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-04",
+      "episode_id" : 292748,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-11",
+      "episode_id" : 292749,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-18",
+      "episode_id" : 292750,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-25",
+      "episode_id" : 292751,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -317,12 +408,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.86,
-      "total" : 19
+      "rating" : 5.68,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 6.94,
-      "total" : 19
+      "rating" : 6.71,
+      "total" : 21
     }
   },
   "related" : {

@@ -175,12 +175,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.45,
-      "total" : 4
+      "rating" : 4.95,
+      "total" : 6
     },
     "TEMPORARY" : {
-      "rating" : 4.5,
-      "total" : 4
+      "rating" : 5.0,
+      "total" : 6
     }
   },
   "related" : {
@@ -195,6 +195,21 @@
   },
   "start_date" : "2019-07-13",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6152" : {
       "info_box" : false,
       "name" : "Chinese production",
@@ -206,6 +221,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

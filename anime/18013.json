@@ -100,7 +100,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.02,
+        "rating" : 6.98,
         "total" : 6
       },
       "recap" : false,
@@ -125,7 +125,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.02,
+        "rating" : 7.01,
         "total" : 4
       },
       "recap" : false,
@@ -150,7 +150,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.27,
+        "rating" : 8.26,
         "total" : 4
       },
       "recap" : false,
@@ -175,7 +175,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.89,
+        "rating" : 7.87,
         "total" : 5
       },
       "recap" : false,
@@ -200,7 +200,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.89,
+        "rating" : 5.88,
         "total" : 4
       },
       "recap" : false,
@@ -250,7 +250,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.43,
+        "rating" : 6.42,
         "total" : 4
       },
       "recap" : false,
@@ -275,7 +275,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.73,
+        "rating" : 6.72,
         "total" : 4
       },
       "recap" : false,
@@ -300,7 +300,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 3.9,
+        "rating" : 3.89,
         "total" : 4
       },
       "recap" : false,
@@ -325,7 +325,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 4.74,
+        "rating" : 4.73,
         "total" : 4
       },
       "recap" : false,
@@ -375,7 +375,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 3.4,
+        "rating" : 3.39,
         "total" : 4
       },
       "recap" : false,
@@ -415,12 +415,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.56,
-      "total" : 296
+      "rating" : 4.53,
+      "total" : 320
     },
     "TEMPORARY" : {
-      "rating" : 6.16,
-      "total" : 296
+      "rating" : 6.15,
+      "total" : 320
     }
   },
   "resources" : {
@@ -436,16 +436,32 @@
   },
   "similar" : {
     "17608" : {
-      "rating" : 8.333333333333334,
-      "total" : 12
+      "rating" : 8.461538461538462,
+      "total" : 13
     },
     "18164" : {
       "rating" : 10.0,
-      "total" : 15
+      "total" : 16
     }
   },
   "start_date" : "2024-10-09",
   "tags" : {
+    "1973" : {
+      "info_box" : false,
+      "name" : "cooking",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2094" : {
+      "info_box" : true,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2355" : {
       "info_box" : true,
       "name" : "dragon",
@@ -454,9 +470,67 @@
       "verified" : false,
       "weight" : 500
     },
+    "2566" : {
+      "info_box" : true,
+      "name" : "loli",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2568" : {
+      "info_box" : false,
+      "name" : "deity",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -468,10 +542,98 @@
       "verified" : false,
       "weight" : 0
     },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2614" : {
+      "info_box" : true,
+      "name" : "josei",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2618" : {
+      "info_box" : false,
+      "name" : "collateral damage",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2619" : {
+      "info_box" : false,
+      "name" : "gunfights",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2637" : {
       "info_box" : false,
       "name" : "time travel",
       "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2649" : {
+      "info_box" : false,
+      "name" : "dark fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2786" : {
+      "info_box" : true,
+      "name" : "love polygon",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2795" : {
+      "info_box" : false,
+      "name" : "baking",
+      "parent_tag_id" : 1973,
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
@@ -484,6 +646,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2849" : {
       "info_box" : true,
       "name" : "fantasy",
@@ -492,10 +662,250 @@
       "verified" : false,
       "weight" : 600
     },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2878" : {
+      "info_box" : false,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3103" : {
+      "info_box" : false,
+      "name" : "first love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3276" : {
+      "info_box" : false,
+      "name" : "plot twists",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3314" : {
+      "info_box" : false,
+      "name" : "fate",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3374" : {
+      "info_box" : false,
+      "name" : "civil war",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3635" : {
+      "info_box" : false,
+      "name" : "sea battles",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3797" : {
+      "info_box" : false,
+      "name" : "trapped in the body of a child",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3958" : {
+      "info_box" : false,
+      "name" : "coup d`etat",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4223" : {
+      "info_box" : false,
+      "name" : "running gag",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4480" : {
+      "info_box" : false,
+      "name" : "happy ending",
+      "parent_tag_id" : 6246,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
     "4606" : {
       "info_box" : false,
       "name" : "slide show animation",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4952" : {
+      "info_box" : false,
+      "name" : "nationalism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5093" : {
+      "info_box" : false,
+      "name" : "royal intrigue",
+      "parent_tag_id" : 2867,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5585" : {
+      "info_box" : false,
+      "name" : "curse",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "5651" : {
+      "info_box" : false,
+      "name" : "against destiny",
+      "parent_tag_id" : 3314,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5824" : {
+      "info_box" : false,
+      "name" : "god is a girl",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5874" : {
+      "info_box" : false,
+      "name" : "guns are useless",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5889" : {
+      "info_box" : false,
+      "name" : "magic weapons",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6073" : {
+      "info_box" : false,
+      "name" : "age difference romance",
+      "parent_tag_id" : 2858,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -514,6 +924,38 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6877" : {
+      "info_box" : false,
+      "name" : "misleading beginning",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7050" : {
       "info_box" : false,
       "name" : "speculative fiction",
@@ -521,6 +963,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7199" : {
+      "info_box" : false,
+      "name" : "sexual humour",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "7402" : {
+      "info_box" : false,
+      "name" : "corrupt nobility",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "7885" : {
       "info_box" : false,

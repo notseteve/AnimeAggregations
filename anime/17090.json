@@ -84,7 +84,7 @@
       "length" : 20,
       "number" : 4,
       "rating" : {
-        "rating" : 2.44,
+        "rating" : 2.42,
         "total" : 1
       },
       "recap" : false,
@@ -212,6 +212,45 @@
   },
   "start_date" : "2021-12-28",
   "tags" : {
+    "1278" : {
+      "info_box" : true,
+      "name" : "android",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2274" : {
+      "info_box" : false,
+      "name" : "robot",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2638" : {
+      "info_box" : false,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "4606" : {
       "info_box" : false,
       "name" : "slide show animation",
@@ -230,6 +269,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

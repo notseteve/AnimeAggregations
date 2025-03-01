@@ -26,6 +26,10 @@
       "name" : "Ryuu-san",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 105050,
+      "name" : "Senkuu (Youshouki)",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 116073,
       "name" : "Shishiou Mirai",
       "type" : "CHARACTER"
@@ -54,6 +58,10 @@
     "SECONDARY" : [ {
       "character_id" : 106834,
       "name" : "Akatsuki Hyouga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146518,
+      "name" : "Carlos Barrios",
       "type" : "CHARACTER"
     }, {
       "character_id" : 144609,
@@ -88,8 +96,16 @@
       "name" : "Kirisame",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146516,
+      "name" : "Luna Wright",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 135846,
       "name" : "Matsukaze",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146517,
+      "name" : "Max Adams",
       "type" : "CHARACTER"
     }, {
       "character_id" : 146400,
@@ -176,6 +192,7 @@
     } ]
   },
   "description" : "* Based on an adventure sci-fi shounen manga series written by http://anidb.net/cr5893 [Inagaki Riichirou] and illustrated by http://anidb.net/cr56664 [Boichi].\nhttp://anidb.net/ch99322 [Senkuu] and his allies make it back to the Science Kingdom safely after the intense battle on Treasure Island. After putting http://anidb.net/ch99860 [Tsukasa] to sleep, they are able to bring him back to life with the help of the petrification apparatus they acquired. As a result, Tsukasa joins the Science Kingdom!\nAfter learning that Whyman, the genius behind the petrification of humanity, has its headquarters on the moon, Senkuu and his comrades decide to go there! They take on the ambitious task of creating a starship from the ground up in this stone world. In order to collect supplies for the spaceship from all across the world, Senkuu and his pals promptly set sail on the ocean in the Perseus. Their first goal is the Americas, where they seek vast amounts of corn, the raw material for the Revival Fluid.\nAt the conclusion of this incredible journey that will put their bravery, solidarity, and scientific prowess to the test, Senkuu and his pals will face a terrifying threat!\nSource: bilibili\nNote: The first three episodes received an early screening at a special event on 28 December 2024 at TOHO Cinemas Hibiya in Tokyo and four additional venues. The regular TV broadcast started on 9 January 2025.",
+  "end_date" : "2025-03-27",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-01-09",
@@ -296,7 +313,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 1.79,
+        "rating" : 1.8,
         "total" : 1
       },
       "recap" : false,
@@ -323,6 +340,9 @@
       "length" : 25,
       "number" : 6,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUEM0GM" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE",
         "title" : "SCIENCE IS ELEGANT"
@@ -332,6 +352,9 @@
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Science Is Elegant"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Science is elegant"
       } ],
       "type" : "REGULAR"
     }, {
@@ -341,8 +364,14 @@
       "number" : 7,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Futari no Kagakusha"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "The Two Scientists"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "二人の科学者"
       } ],
       "type" : "REGULAR"
     }, {
@@ -356,16 +385,60 @@
         "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-06",
+      "episode_id" : 292893,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-13",
+      "episode_id" : 292894,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-20",
+      "episode_id" : 292895,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-27",
+      "episode_id" : 292896,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.31,
-      "total" : 30
+      "rating" : 6.4,
+      "total" : 36
     },
     "TEMPORARY" : {
-      "rating" : 6.64,
-      "total" : 31
+      "rating" : 6.78,
+      "total" : 37
     }
   },
   "related" : {
@@ -376,8 +449,10 @@
     "ANISON" : [ "22098" ],
     "ANN" : [ "31089" ],
     "CRUNCHY_ROLL" : [ "GYEXQKJG6" ],
+    "IMDB" : [ "tt9679542" ],
     "MAL" : [ "57592" ],
     "SYOBOI" : [ "7321" ],
+    "TMDB" : [ "tv/86031" ],
     "TWITTER" : [ "STONE_anime_off" ],
     "WEBSITE" : [ "https://dr-stone.jp/" ],
     "WIKIPEDIA_EN" : [ "Dr._Stone" ],

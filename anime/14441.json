@@ -330,7 +330,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.67,
+        "rating" : 4.68,
         "total" : 6
       },
       "recap" : false,
@@ -423,7 +423,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.67,
+        "rating" : 4.68,
         "total" : 6
       },
       "recap" : false,
@@ -535,7 +535,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.25,
+        "rating" : 5.26,
         "total" : 6
       },
       "recap" : false,
@@ -1073,7 +1073,7 @@
       "length" : 10,
       "number" : 3,
       "rating" : {
-        "rating" : 8.04,
+        "rating" : 8.03,
         "total" : 1
       },
       "recap" : false,
@@ -1094,7 +1094,7 @@
       "length" : 15,
       "number" : 4,
       "rating" : {
-        "rating" : 6.25,
+        "rating" : 6.24,
         "total" : 1
       },
       "recap" : false,
@@ -1161,7 +1161,7 @@
       "length" : 2,
       "number" : 4,
       "rating" : {
-        "rating" : 6.48,
+        "rating" : 6.49,
         "total" : 1
       },
       "recap" : false,
@@ -1227,15 +1227,16 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.06,
-      "total" : 1029
+      "total" : 1031
     },
     "TEMPORARY" : {
       "rating" : 7.84,
-      "total" : 1035
+      "total" : 1037
     }
   },
   "related" : {
-    "PREQUEL" : [ 9484 ]
+    "PREQUEL" : [ 9484 ],
+    "SEQUEL" : [ 19161 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "365725" ],
@@ -2128,6 +2129,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "A Certain Scientific Railgun T",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "RUSSIAN",
+    "title" : "Некий научный Рейлган Т.",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

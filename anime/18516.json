@@ -14,8 +14,16 @@
       "name" : "Fujita Marin",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146361,
+      "name" : "Furuichi Musashi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 145870,
       "name" : "Hashimoto Yuru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146653,
+      "name" : "Hitomi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145874,
@@ -156,10 +164,6 @@
       "name" : "Endou Ayumi",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 146361,
-      "name" : "Furuichi Musashi",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 143229,
       "name" : "Kanno Serina",
       "type" : "CHARACTER"
@@ -181,6 +185,10 @@
     "1603" : [ {
       "name" : "Nishikiori Hiroshi",
       "type" : "DIRECTOR"
+    } ],
+    "3744" : [ {
+      "name" : "Fujii Masahiro",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "7763" : [ {
       "name" : "Takahashi Nariyuki",
@@ -211,14 +219,15 @@
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "70646" : [ {
-      "name" : "Tanaka Aimi",
+      "name" : "Tanaka Manami",
       "type" : "CHARACTER_DESIGN"
     }, {
-      "name" : "Tanaka Aimi",
+      "name" : "Tanaka Manami",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "Middle school left http://anidb.net/ch142498 [Ishimori Uka] with nothing but scars—to the point where she`s forgotten how to laugh or cry or even say \"hello.\" But a chance reencounter with a http://anidb.net/ch142499 [boy] with lemon-colored hair invigorates her, giving her hope that maybe, just maybe, life can be that much sweeter if she finally reaches out for help.\nSource: Yen Press",
+  "end_date" : "2025-03-27",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-01-09",
@@ -226,7 +235,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.3,
+        "rating" : 2.38,
         "total" : 3
       },
       "recap" : false,
@@ -250,7 +259,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.9,
+        "rating" : 3.04,
         "total" : 2
       },
       "recap" : false,
@@ -274,7 +283,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 2.9,
+        "rating" : 3.04,
         "total" : 2
       },
       "recap" : false,
@@ -298,7 +307,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.44,
+        "rating" : 9.69,
         "total" : 1
       },
       "recap" : false,
@@ -322,7 +331,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.01,
+        "rating" : 6.45,
         "total" : 1
       },
       "recap" : false,
@@ -345,10 +354,23 @@
       "episode_id" : 291972,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 2.84,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQ7KDZ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "In the Future, Too..."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kono Saki mo, Zutto..."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "この先も, ずっと..."
       } ],
       "type" : "REGULAR"
     }, {
@@ -357,9 +379,18 @@
       "length" : 25,
       "number" : 7,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNK034" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "I`m Sorry I Love Him"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Suki de Gomennasai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "好きでごめんなさい"
       } ],
       "type" : "REGULAR"
     }, {
@@ -371,6 +402,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-06",
+      "episode_id" : 293224,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-13",
+      "episode_id" : 293225,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-20",
+      "episode_id" : 293226,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-27",
+      "episode_id" : 293227,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -418,12 +493,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.9,
-      "total" : 39
+      "rating" : 3.82,
+      "total" : 43
     },
     "TEMPORARY" : {
-      "rating" : 5.56,
-      "total" : 39
+      "rating" : 5.43,
+      "total" : 43
     }
   },
   "resources" : {

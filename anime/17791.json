@@ -6,6 +6,10 @@
       "name" : "Black Canyon",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 135947,
+      "name" : "Fairy",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 135946,
       "name" : "Minamoto Tiara",
       "type" : "CHARACTER"
@@ -14,8 +18,16 @@
       "name" : "Mokke",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 143859,
+      "name" : "Satou Yomogi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 135819,
       "name" : "Yamabuki Lemon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143860,
+      "name" : "Yokoo Shun",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -62,6 +74,10 @@
     }, {
       "character_id" : 107913,
       "name" : "Nanamine Sakura",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146470,
+      "name" : "Shijima Mei",
       "type" : "CHARACTER"
     }, {
       "character_id" : 108365,
@@ -111,7 +127,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 9.53,
+        "rating" : 9.54,
         "total" : 2
       },
       "recap" : false,
@@ -135,7 +151,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.17,
+        "rating" : 7.19,
         "total" : 2
       },
       "recap" : false,
@@ -184,7 +200,7 @@
       "number" : 4,
       "rating" : {
         "rating" : 10.0,
-        "total" : 1
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -206,7 +222,14 @@
       "episode_id" : 291830,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 8.11,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU8XG9X" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Mokke of the Dead / Shin Sanban no Yuuutsu"
@@ -223,10 +246,23 @@
       "episode_id" : 291831,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 8.9,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UVEJ92" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Esoragoto"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Make Believe"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "エソラゴト"
       } ],
       "type" : "REGULAR"
     }, {
@@ -237,7 +273,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Make Sense"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yomaigoto"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ヨマイゴト"
       } ],
       "type" : "REGULAR"
     }, {
@@ -249,6 +291,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-09",
+      "episode_id" : 293120,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-16",
+      "episode_id" : 293121,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-23",
+      "episode_id" : 293122,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-30",
+      "episode_id" : 293123,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -273,12 +359,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.61,
-      "total" : 12
+      "rating" : 5.33,
+      "total" : 13
     },
     "TEMPORARY" : {
-      "rating" : 6.3,
-      "total" : 13
+      "rating" : 6.5,
+      "total" : 14
     }
   },
   "related" : {

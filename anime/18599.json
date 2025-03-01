@@ -97,6 +97,10 @@
       "name" : "Tatsuwa Naoyuki",
       "type" : "DIRECTOR"
     } ],
+    "9221" : [ {
+      "name" : "Satou Youko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "11661" : [ {
       "name" : "Ozawa Madoka",
       "type" : "CHIEF_ANIMATION_DIRECTION"
@@ -105,8 +109,16 @@
       "name" : "Hashimoto Jun`ichi",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "11694" : [ {
+      "name" : "Kokaji Shin`ya",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "12263" : [ {
       "name" : "Matsuoka Kenji",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "13982" : [ {
+      "name" : "Itou Daisuke",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "15228" : [ {
@@ -144,6 +156,10 @@
       "name" : "Tsushimi Bunta",
       "type" : "ORIGINAL_WORK"
     } ],
+    "58078" : [ {
+      "name" : "Hashimoto Atsutoshi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "58851" : [ {
       "name" : "Coly",
       "type" : "ORIGINAL_WORK"
@@ -156,12 +172,17 @@
       "name" : "Yoshitake Hatsuhi",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "67885" : [ {
+      "name" : "Liden Films Tokyo Studio",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "79997" : [ {
       "name" : "Kazuma Kowo",
       "type" : "ORIGINAL_WORK"
     } ]
   },
   "description" : "Note: The first two episodes received an early screening at a special event on 10 December 2024 at Marunouchi Piccadilly in Tokyo which was additionally streamed on Streaming+. The regular TV broadcast started on 6 January 2025.",
+  "end_date" : "2025-03-24",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-12-10",
@@ -195,7 +216,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.12,
+        "rating" : 7.11,
         "total" : 2
       },
       "recap" : false,
@@ -265,11 +286,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-03",
+      "description" : "Akira and the wizards hold a mixer and then, Akira, Bain, Riquet, and Arthur head north to see Oz.\nSource: Crunchyroll",
       "episode_id" : 291886,
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.22,
+        "rating" : 3.27,
         "total" : 1
       },
       "recap" : false,
@@ -292,7 +314,14 @@
       "episode_id" : 291887,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 7.87,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WU7V7J1" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Muku na Anata ni Dekiru Koto"
@@ -309,10 +338,23 @@
       "episode_id" : 291888,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 9.9,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UD3DGG" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shuen ni Manekarezaru Kyaku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Uninvited Guests at the Party"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "酒宴に招かれざる客"
       } ],
       "type" : "REGULAR"
     }, {
@@ -322,20 +364,70 @@
       "number" : 8,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ibitsu na Kiseki no Kakera-tachi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "The Fragments of the Distorted Miracle"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "いびつな奇跡のかけらたち"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-03",
+      "episode_id" : 292711,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-10",
+      "episode_id" : 292712,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-17",
+      "episode_id" : 292713,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-24",
+      "episode_id" : 292714,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.4,
-      "total" : 29
+      "rating" : 2.57,
+      "total" : 31
     },
     "TEMPORARY" : {
-      "rating" : 4.08,
-      "total" : 29
+      "rating" : 4.17,
+      "total" : 31
     }
   },
   "resources" : {

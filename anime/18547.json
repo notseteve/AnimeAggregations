@@ -2,8 +2,24 @@
   "anime_id" : 18547,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 146474,
+      "name" : "Admiral",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146591,
+      "name" : "Aoi Saburou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146596,
+      "name" : "Bandana",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 145704,
       "name" : "Baobab-sama",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146473,
+      "name" : "Capitan",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145705,
@@ -18,16 +34,40 @@
       "name" : "Haruko",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146593,
+      "name" : "Ichihashi Midori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146594,
+      "name" : "Maegami",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146202,
       "name" : "Meg",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146595,
+      "name" : "Megane",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146323,
+      "name" : "Merry",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145819,
       "name" : "Naomi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146592,
+      "name" : "Ninomiya Shuu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146086,
       "name" : "Rijichou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146324,
+      "name" : "Ryuuzaki",
       "type" : "CHARACTER"
     }, {
       "character_id" : 146203,
@@ -36,6 +76,14 @@
     }, {
       "character_id" : 145706,
       "name" : "Shachou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146325,
+      "name" : "Tori Kantoku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146597,
+      "name" : "Tsuruyama Kametarou",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -46,6 +94,10 @@
     "SECONDARY" : [ {
       "character_id" : 146070,
       "name" : "Destiny Heartwarming",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146321,
+      "name" : "Justice",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139537,
@@ -69,6 +121,10 @@
     "3073" : [ {
       "name" : "Hashimoto Yukari",
       "type" : "MUSIC"
+    } ],
+    "6586" : [ {
+      "name" : "Kudou Yuka",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "11055" : [ {
       "name" : "Yamazaki Mitsue",
@@ -106,9 +162,14 @@
     }, {
       "name" : "MAPPA",
       "type" : "WORK"
+    } ],
+    "72137" : [ {
+      "name" : "Chen Weining",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "After graduating from high school, http://anidb.net/ch139538 [Hirose Natsuko] starts her career as an animator. Her talent quickly flourishes, and she makes her debut as a director in no time. Her first anime becomes a massive hit, sparking a social phenomenon and earning her recognition as an up-and-coming genius director. Her next project is set to be a romantic comedy movie themed around first love! However, having never been in love herself, Natsuko struggles to understand the concept of first love, and as a result, she`s unable to create the storyboard, causing the movie production to come to a standstill.\nSource: MAPPA",
+  "end_date" : "2025-03-23",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-01-05",
@@ -117,7 +178,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.61,
+        "rating" : 6.6,
         "total" : 9
       },
       "recap" : false,
@@ -127,6 +188,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "First Stroke"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Premières lignes."
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shisen."
@@ -142,7 +206,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.47,
+        "rating" : 5.46,
         "total" : 9
       },
       "recap" : false,
@@ -152,6 +216,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Defending to the Death."
+      }, {
+        "language" : "FRENCH",
+        "title" : "Défense désespérée."
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shishu."
@@ -167,7 +234,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.63,
+        "rating" : 5.61,
         "total" : 9
       },
       "recap" : false,
@@ -177,6 +244,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Destiny"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le destin."
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Unmei."
@@ -192,7 +262,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.61,
+        "rating" : 5.58,
         "total" : 9
       },
       "recap" : false,
@@ -206,19 +276,33 @@
         "language" : "ENGLISH",
         "title" : "Eternity"
       }, {
+        "language" : "FRENCH",
+        "title" : "Une éternité."
+      }, {
         "language" : "JAPANESE",
         "title" : "永遠."
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-02",
+      "description" : "Destiny asks the Nine Soldiers to bring food to some orphans and they run into a former Nine Soldier, Justice.\nSource: Crunchyroll",
       "episode_id" : 291834,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 7.24,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9N919" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Justice"
+      }, {
+        "language" : "FRENCH",
+        "title" : "La justice."
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Seigi."
@@ -229,13 +313,30 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-09",
+      "description" : "Natsuko loses to the Voids for the first time, but still tries to continue her selfish actions.\nSource: Crunchyroll",
       "episode_id" : 291835,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 7.13,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U3M3P2" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Change"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Henka."
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le changement."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "変化."
       } ],
       "type" : "REGULAR"
     }, {
@@ -243,10 +344,23 @@
       "episode_id" : 291836,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 7.94,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUW0WE4" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "First Love"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hatsukoi."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "初恋."
       } ],
       "type" : "REGULAR"
     }, {
@@ -257,7 +371,57 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Confession"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kokuhaku."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "告白."
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-02",
+      "episode_id" : 292720,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-09",
+      "episode_id" : 292721,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-16",
+      "episode_id" : 292722,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-23",
+      "episode_id" : 292723,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -288,12 +452,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.21,
-      "total" : 59
+      "rating" : 5.01,
+      "total" : 69
     },
     "TEMPORARY" : {
-      "rating" : 6.0,
-      "total" : 60
+      "rating" : 5.93,
+      "total" : 69
     }
   },
   "resources" : {

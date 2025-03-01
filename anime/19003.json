@@ -56,6 +56,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Come On... Touch Me"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ねぇ…触って、くれない"
       } ],
       "type" : "REGULAR"
     }, {
@@ -66,6 +69,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "I`ll Do It for You..."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "私が…してあげる"
       } ],
       "type" : "REGULAR"
     }, {
@@ -75,7 +81,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "I`m Just Working Out...!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ima,-kin tore shi terukara ~a..."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "いま、筋トレしてるからぁ…"
       } ],
       "type" : "REGULAR"
     }, {
@@ -84,8 +96,14 @@
       "number" : 5,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Koe... kika re chau"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "They Might Hear Me..."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "声… きかれちゃう"
       } ],
       "type" : "REGULAR"
     }, {
@@ -95,7 +113,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "You`ve Had Too Much to Drink..."
       } ],
       "type" : "REGULAR"
     }, {
@@ -118,20 +136,48 @@
         "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "description" : "Episode 3.5 will be an audio commentary by Satomi Miura as Momoka Hanaoka and Hikaru Isshiki as Kanade Ayase. Please enjoy the cast`s review of \"`You can touch me for only one minute...` The secret rule of the share house\" and \"Episode 1\"!\nSource: http://animefesta.iowl.jp/titles/1538 [The Share House`s Secret Rule]",
+      "episode_id" : 292730,
+      "length" : 4,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3.5 Audio Commentary"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "オーディオコメンタリー"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "PROMOTION" : [ {
+      "episode_id" : 292731,
+      "length" : 1,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Free PV - You can touch it for just one minute..."
+      } ],
+      "type" : "PROMOTION"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.0,
-      "total" : 7
+      "rating" : 3.07,
+      "total" : 8
     },
     "TEMPORARY" : {
-      "rating" : 5.37,
-      "total" : 8
+      "rating" : 4.88,
+      "total" : 9
     }
   },
   "resources" : {
     "MAL" : [ "60629" ],
+    "STREAM" : [ "https://animefesta.iowl.jp/titles/1538", "https://coolmic.me/anime/video_titles/83" ],
+    "TMDB" : [ "tv/279120" ],
     "WEBSITE" : [ "https://ipufure.af-original.com" ],
     "WIKIPEDIA_JP" : [ "「1分間だけ挿れてもいいよ…」シェアハウスの秘密ルール。" ]
   },
@@ -242,12 +288,36 @@
     "title" : "\"1 Funkan dake Furete mo Ii yo...\" Share House no Himitsu Rule.",
     "type" : "MAIN"
   }, {
+    "language" : "PORTUGUESE",
+    "title" : "A Regra Secreta da Casa Compartilhada",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "PORTUGUESE_BRAZIL",
+    "title" : "A Regra Secreta da Casa Compartilhada",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "FRENCH",
+    "title" : "La règle secrète de la coloc`",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "「1分間だけ触れてもいいよ...」シェアハウスの秘密ルール.",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "「只能触摸一分钟哦...」合租房的秘密规则。",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "1-punkan",
+    "type" : "SYNONYM"
+  }, {
     "language" : "ENGLISH",
     "title" : "The Share House`s Secret Rule",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "The Share Houses Secret Rule",
     "type" : "SYNONYM"
   }, {
     "language" : "KOREAN",

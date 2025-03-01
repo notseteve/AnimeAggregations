@@ -1,5 +1,26 @@
 {
   "anime_id" : 18178,
+  "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 146369,
+      "name" : "Sugihara Sensei",
+      "type" : "CHARACTER"
+    } ],
+    "MAIN" : [ {
+      "character_id" : 146366,
+      "name" : "Sudou Ao",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 146368,
+      "name" : "Asaki Aika",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146367,
+      "name" : "Tono Umi",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "73375" : [ {
       "name" : "Harama Sen",
@@ -36,12 +57,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.3,
-      "total" : 40
+      "rating" : 4.35,
+      "total" : 41
     },
     "TEMPORARY" : {
-      "rating" : 5.57,
-      "total" : 42
+      "rating" : 5.62,
+      "total" : 43
     }
   },
   "resources" : {
@@ -124,6 +145,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2697" : {
+      "info_box" : false,
+      "name" : "voyeurism",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2705" : {
       "info_box" : false,
       "name" : "creampie",
@@ -131,6 +160,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2706" : {
+      "info_box" : false,
+      "name" : "masturbation",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2713" : {
       "info_box" : false,
@@ -143,6 +180,14 @@
     "2721" : {
       "info_box" : false,
       "name" : "public sex",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2730" : {
+      "info_box" : false,
+      "name" : "exhibitionism",
       "parent_tag_id" : 2848,
       "spoiler" : false,
       "verified" : false,
@@ -294,6 +339,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Pregnancy Club",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE",
+    "title" : "子作り妊活部！",
     "type" : "SYNONYM"
   }, {
     "language" : "KOREAN",

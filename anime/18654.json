@@ -26,6 +26,10 @@
       "name" : "Obiguro",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146555,
+      "name" : "Piisuke",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146180,
       "name" : "Pizza Nakajima",
       "type" : "CHARACTER"
@@ -47,21 +51,21 @@
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
+      "character_id" : 142476,
+      "name" : "Asakura Shin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 142478,
+      "name" : "Lu Shaotang",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 141116,
       "name" : "Sakamoto Tarou",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
-      "character_id" : 142476,
-      "name" : "Asakura Shin",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 145350,
       "name" : "Hyou",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 142478,
-      "name" : "Lu Shaotang",
       "type" : "CHARACTER"
     }, {
       "character_id" : 142477,
@@ -136,6 +140,7 @@
     } ]
   },
   "description" : "http://anidb.net/ch141116 [Sakamoto Tarou] was once a legendary hit man considered the greatest of all time. Bad guys feared him! Assassins revered him! But then one day he quit, got married, and had a baby. He`s now living the quiet life as the owner of a neighborhood store, but how long can Sakamoto enjoy his days of retirement before his past catches up to him?!\nSource: Viz\nNote: The first two episodes received an early screening at a special event on 5 January 2025 at Shinjuku Piccadilly in Tokyo. The regular TV broadcast started on 11 January 2025.",
+  "end_date" : "2025-03-15",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-01-11",
@@ -143,8 +148,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.05,
-        "total" : 10
+        "rating" : 5.22,
+        "total" : 11
       },
       "recap" : false,
       "titles" : [ {
@@ -170,8 +175,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.9,
-        "total" : 7
+        "rating" : 5.53,
+        "total" : 9
       },
       "recap" : false,
       "titles" : [ {
@@ -194,8 +199,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.25,
-        "total" : 5
+        "rating" : 5.87,
+        "total" : 6
       },
       "recap" : false,
       "titles" : [ {
@@ -218,8 +223,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.98,
-        "total" : 4
+        "rating" : 4.66,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -242,11 +247,14 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.51,
-        "total" : 2
+        "rating" : 8.59,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "L`origine de la force"
+      }, {
         "language" : "ENGLISH",
         "title" : "Source of Strength"
       }, {
@@ -262,10 +270,23 @@
       "episode_id" : 291788,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 6.53,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Heisuke Mashimo"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Heisuke Mashimo"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mashimo Heisuke"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "マシモ ヘイスケ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -273,10 +294,20 @@
       "episode_id" : 291789,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 7.04,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Jurassic Bastard"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jurassic Yarou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ジュラシック野郎"
       } ],
       "type" : "REGULAR"
     }, {
@@ -291,6 +322,7 @@
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2025-03-01",
       "episode_id" : 291904,
       "length" : 25,
       "number" : 9,
@@ -301,6 +333,7 @@
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2025-03-08",
       "episode_id" : 291905,
       "length" : 25,
       "number" : 10,
@@ -311,6 +344,7 @@
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2025-03-15",
       "episode_id" : 291906,
       "length" : 25,
       "number" : 11,
@@ -342,12 +376,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.11,
-      "total" : 62
+      "rating" : 4.92,
+      "total" : 75
     },
     "TEMPORARY" : {
-      "rating" : 6.26,
-      "total" : 62
+      "rating" : 6.33,
+      "total" : 75
     }
   },
   "related" : {
@@ -364,6 +398,12 @@
     "WEBSITE" : [ "https://sakamotodays.jp/" ],
     "WIKIPEDIA_EN" : [ "Sakamoto_Days" ],
     "WIKIPEDIA_JP" : [ "SAKAMOTO_DAYS" ]
+  },
+  "similar" : {
+    "17784" : {
+      "rating" : 3.333333333333333,
+      "total" : 3
+    }
   },
   "start_date" : "2025-01-11",
   "tags" : {

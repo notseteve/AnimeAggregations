@@ -22,6 +22,10 @@
       "name" : "Fake Kaori",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146484,
+      "name" : "Fake Kouki",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146336,
       "name" : "Fake Shea",
       "type" : "CHARACTER"
@@ -56,6 +60,10 @@
     }, {
       "character_id" : 144522,
       "name" : "Guze",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 101707,
+      "name" : "Hatayama Aiko",
       "type" : "CHARACTER"
     }, {
       "character_id" : 105125,
@@ -96,6 +104,10 @@
     }, {
       "character_id" : 105205,
       "name" : "Miyazaki Nana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105576,
+      "name" : "Myuu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 108886,
@@ -180,16 +192,8 @@
       "name" : "Amanogawa Kouki",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 101707,
-      "name" : "Hatayama Aiko",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 120288,
       "name" : "Liliana S. B. Heiligh",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 105576,
-      "name" : "Myuu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 104471,
@@ -255,6 +259,7 @@
     } ]
   },
   "description" : "* Based on a light novel series written by http://anidb.net/cr52854 [Shirakome Ryou] and illustrated by http://anidb.net/cr36089 [Takayaki].\nNote: The first episode received an early screening on 5 July 2024 at Anime Expo in Los Angeles. The regular TV broadcast started on 14 October 2024.",
+  "end_date" : "2025-02-17",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-14",
@@ -263,7 +268,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.93,
         "total" : 4
       },
       "recap" : false,
@@ -291,7 +296,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.78,
+        "rating" : 5.81,
         "total" : 3
       },
       "recap" : false,
@@ -319,7 +324,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.87,
+        "rating" : 3.88,
         "total" : 3
       },
       "recap" : false,
@@ -403,7 +408,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.23,
+        "rating" : 6.25,
         "total" : 2
       },
       "recap" : false,
@@ -431,7 +436,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 3.65,
+        "rating" : 3.64,
         "total" : 2
       },
       "recap" : false,
@@ -487,7 +492,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 1.5,
+        "rating" : 1.59,
         "total" : 1
       },
       "recap" : false,
@@ -587,7 +592,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 6.96,
+        "rating" : 6.95,
         "total" : 1
       },
       "recap" : false,
@@ -610,11 +615,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-03",
+      "description" : "Yue notices something during her test and wants to warn Shea about it, but Yue`s phrasing triggers Shea`s outrage.\nSource: Crunchyroll",
       "episode_id" : 291039,
       "length" : 25,
       "number" : 14,
       "rating" : {
-        "rating" : 6.96,
+        "rating" : 6.95,
         "total" : 1
       },
       "recap" : false,
@@ -624,6 +630,9 @@
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Cheat Kyuuketsuki to Bug Usagi no Oogenka"
+      }, {
+        "language" : "FRENCH",
+        "title" : "La dispute de la surpuissante lapine et l`invincible vampire"
       }, {
         "language" : "ENGLISH",
         "title" : "The Overpowered Vampire Princess and the Godlike Rabbit`s Grand Battle"
@@ -637,8 +646,18 @@
       "episode_id" : 291040,
       "length" : 25,
       "number" : 15,
+      "rating" : {
+        "rating" : 8.69,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UEZNJP" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Ce qui fait le héros"
+      }, {
         "language" : "ENGLISH",
         "title" : "What Makes a Hero"
       }, {
@@ -654,10 +673,26 @@
       "episode_id" : 291041,
       "length" : 25,
       "number" : 16,
+      "rating" : {
+        "rating" : 9.9,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUM0D11" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "La clé qui ouvre la porte des démons"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sekai no Tobira o Hiraku Kagi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 16"
+        "title" : "The Key to the World"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "世界の扉を開く鍵"
       } ],
       "type" : "REGULAR"
     } ],
@@ -699,12 +734,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.71,
-      "total" : 62
+      "rating" : 4.45,
+      "total" : 146
     },
     "TEMPORARY" : {
-      "rating" : 6.57,
-      "total" : 63
+      "rating" : 6.3,
+      "total" : 147
     }
   },
   "related" : {
@@ -712,6 +747,7 @@
   },
   "resources" : {
     "ALL_CINEMA" : [ "394441" ],
+    "ANISON" : [ "22111" ],
     "ANN" : [ "26325" ],
     "CRUNCHY_ROLL" : [ "G4PH0WXD1" ],
     "IMDB" : [ "tt10431290" ],

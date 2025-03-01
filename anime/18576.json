@@ -58,8 +58,16 @@
       "name" : "Kargalgan",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146469,
+      "name" : "Kiba",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146191,
       "name" : "Kiyama",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146541,
+      "name" : "Kurosu Keisuke",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137409,
@@ -72,6 +80,10 @@
     }, {
       "character_id" : 139326,
       "name" : "Matsuura Ryouhei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146542,
+      "name" : "Meisei no Tsuma",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145988,
@@ -116,6 +128,10 @@
     }, {
       "character_id" : 145990,
       "name" : "Tank",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146468,
+      "name" : "Tomoya Minoru",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139324,
@@ -238,8 +254,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.72,
-        "total" : 8
+        "rating" : 5.78,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -265,8 +281,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.2,
-        "total" : 7
+        "rating" : 6.26,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -293,8 +309,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.36,
-        "total" : 5
+        "rating" : 5.84,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -321,8 +337,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.66,
-        "total" : 6
+        "rating" : 6.22,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -349,8 +365,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.43,
-        "total" : 6
+        "rating" : 6.76,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -375,7 +391,14 @@
       "episode_id" : 291487,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 5.5,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14UVJV8N" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Don`t Look Down On My Guys"
@@ -385,6 +408,9 @@
       }, {
         "language" : "JAPANESE",
         "title" : "Don`t Look Down on My Guys"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Schau nicht auf meine Leute herab"
       } ],
       "type" : "REGULAR"
     }, {
@@ -392,10 +418,26 @@
       "episode_id" : 291488,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 5.46,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQ7Q4V" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Der zehnte S-Rang-Hunter"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "The 10th S-Rank Hunter"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "The 10th S-Rank Hunter"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "The 10th S-rank Hunter"
       } ],
       "type" : "REGULAR"
     }, {
@@ -406,19 +448,80 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Looking Up Was Tiring Me Out"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Looking Up Was Tiring Me Out"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Looking Up was Tiring Me Out"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-02",
+      "episode_id" : 292624,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-09",
+      "episode_id" : 292625,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-16",
+      "episode_id" : 292626,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-23",
+      "episode_id" : 292627,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-03-30",
+      "episode_id" : 292628,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 13"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.42,
-      "total" : 96
+      "rating" : 8.7,
+      "total" : 126
     },
     "TEMPORARY" : {
-      "rating" : 7.92,
-      "total" : 100
+      "rating" : 8.16,
+      "total" : 130
     }
   },
   "related" : {
@@ -469,6 +572,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "俺だけレベルアップな件 -Arise from the Shadow-",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "我独自升级 第二季 -起于暗影-",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

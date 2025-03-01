@@ -394,7 +394,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.39,
-      "total" : 1179
+      "total" : 1180
     },
     "REVIEW" : {
       "rating" : 4.62,
@@ -402,7 +402,7 @@
     },
     "TEMPORARY" : {
       "rating" : 5.9,
-      "total" : 1198
+      "total" : 1199
     }
   },
   "resources" : {
@@ -476,6 +476,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -610,6 +617,22 @@
       "verified" : false,
       "weight" : 100
     },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2770" : {
+      "info_box" : false,
+      "name" : "violent retribution for accidental infringement",
+      "parent_tag_id" : 2653,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -617,6 +640,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2816" : {
+      "info_box" : false,
+      "name" : "sexual fantasies",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2826" : {
       "info_box" : true,
@@ -689,6 +720,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "3196" : {
+      "info_box" : false,
+      "name" : "photographic backgrounds",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3546" : {
+      "info_box" : false,
+      "name" : "experimental animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3959" : {
       "info_box" : false,
       "name" : "TBS Wonderful",
@@ -697,10 +744,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4251" : {
+      "info_box" : false,
+      "name" : "ensemble cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4499" : {
       "info_box" : false,
       "name" : "some weird shit goin` on",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5227" : {
+      "info_box" : false,
+      "name" : "alternating animation style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5697" : {
+      "info_box" : false,
+      "name" : "randomness",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -717,6 +796,22 @@
       "info_box" : false,
       "name" : "live-action imagery",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6097" : {
+      "info_box" : false,
+      "name" : "3D CG animation",
+      "parent_tag_id" : 4064,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -747,6 +842,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6399" : {
+      "info_box" : false,
+      "name" : "episodic",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
