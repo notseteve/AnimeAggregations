@@ -8,11 +8,17 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 9.24,
+        "rating" : 9.23,
         "total" : 1
       },
       "recap" : false,
       "titles" : [ {
+        "language" : "PORTUGUESE",
+        "title" : "Arrombar com o Portão"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "Arrombar com o Portão"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 1"
       }, {
@@ -26,13 +32,19 @@
       "length" : 20,
       "number" : 2,
       "rating" : {
-        "rating" : 7.85,
+        "rating" : 7.84,
         "total" : 1
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "PORTUGUESE",
+        "title" : "Montar o Cerco"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "Montar o Cerco"
       }, {
         "language" : "CHINESE_SIMPLIFIED",
         "title" : "围攻"
@@ -44,11 +56,17 @@
       "length" : 20,
       "number" : 3,
       "rating" : {
-        "rating" : 7.85,
+        "rating" : 7.84,
         "total" : 1
       },
       "recap" : false,
       "titles" : [ {
+        "language" : "PORTUGUESE",
+        "title" : "Deixar o Palácio"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "Deixar o Palácio"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 3"
       }, {
@@ -66,6 +84,12 @@
         "language" : "ENGLISH",
         "title" : "Episode 4"
       }, {
+        "language" : "PORTUGUESE",
+        "title" : "O Novo Anúncio"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "O Novo Anúncio"
+      }, {
         "language" : "CHINESE_SIMPLIFIED",
         "title" : "新榜"
       } ],
@@ -79,6 +103,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 5"
+      }, {
+        "language" : "PORTUGUESE",
+        "title" : "Meditação Profunda"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "Meditação Profunda"
       }, {
         "language" : "CHINESE_SIMPLIFIED",
         "title" : "坐照"
@@ -94,6 +124,12 @@
         "language" : "ENGLISH",
         "title" : "Episode 6"
       }, {
+        "language" : "PORTUGUESE",
+        "title" : "O Exame Imperial"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "O Exame Imperial"
+      }, {
         "language" : "CHINESE_SIMPLIFIED",
         "title" : "朝试"
       } ],
@@ -107,6 +143,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 7"
+      }, {
+        "language" : "PORTUGUESE",
+        "title" : "O Labirinto"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "O Labirinto"
       }, {
         "language" : "CHINESE_SIMPLIFIED",
         "title" : "迷宫"
@@ -122,6 +164,12 @@
         "language" : "ENGLISH",
         "title" : "Episode 8"
       }, {
+        "language" : "PORTUGUESE",
+        "title" : "Um Murro"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "Um Murro"
+      }, {
         "language" : "CHINESE_SIMPLIFIED",
         "title" : "一拳"
       } ],
@@ -133,6 +181,12 @@
       "number" : 9,
       "recap" : false,
       "titles" : [ {
+        "language" : "PORTUGUESE",
+        "title" : "Confronto Direto"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "Confronto Direto"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 9"
       }, {
@@ -150,6 +204,12 @@
         "language" : "ENGLISH",
         "title" : "Episode 10"
       }, {
+        "language" : "PORTUGUESE",
+        "title" : "Não Vou Combater"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "Não Vou Combater"
+      }, {
         "language" : "CHINESE_SIMPLIFIED",
         "title" : "不战"
       } ],
@@ -164,6 +224,12 @@
         "language" : "ENGLISH",
         "title" : "Episode 11"
       }, {
+        "language" : "PORTUGUESE",
+        "title" : "Queimado (Mais uma Vez)"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "Queimado (Mais uma Vez)"
+      }, {
         "language" : "CHINESE_SIMPLIFIED",
         "title" : "再燃"
       } ],
@@ -177,6 +243,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 12"
+      }, {
+        "language" : "PORTUGUESE",
+        "title" : "Primeiro Lugar"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "Primeiro Lugar"
       }, {
         "language" : "CHINESE_SIMPLIFIED",
         "title" : "榜首"
@@ -200,7 +272,9 @@
   },
   "resources" : {
     "BANGUMI" : [ "177248" ],
+    "IMDB" : [ "tt15155446" ],
     "MAL" : [ "37184" ],
+    "TMDB" : [ "tv/104697" ],
     "WIKIPEDIA_ZH" : [ "择天记" ]
   },
   "start_date" : "2016-07-20",
@@ -240,6 +314,10 @@
     "language" : "CHINESE_TRANSLITERATED",
     "title" : "Ze Tian Ji Di Er Ji",
     "type" : "MAIN"
+  }, {
+    "language" : "PORTUGUESE",
+    "title" : "O Escolhido do Céu 2T",
+    "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "择天记 第二季",

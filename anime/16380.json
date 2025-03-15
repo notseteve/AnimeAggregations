@@ -31,11 +31,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.94,
-      "total" : 82
+      "total" : 83
     },
     "TEMPORARY" : {
-      "rating" : 5.64,
-      "total" : 82
+      "rating" : 5.65,
+      "total" : 83
     }
   },
   "related" : {
@@ -54,6 +54,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -105,6 +112,22 @@
       "verified" : false,
       "weight" : 600
     },
+    "2794" : {
+      "info_box" : false,
+      "name" : "music",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2834" : {
       "info_box" : false,
       "name" : "Asia",
@@ -121,6 +144,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3028" : {
       "info_box" : false,
       "name" : "real-world location",
@@ -133,6 +164,14 @@
       "info_box" : false,
       "name" : "no dialogue",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5584" : {
+      "info_box" : false,
+      "name" : "euro-beat",
+      "parent_tag_id" : 2794,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -2,6 +2,10 @@
   "anime_id" : 18336,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 105726,
+      "name" : "Ishigami Byakuya",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 131630,
       "name" : "Kinomoto Tetsuya",
       "type" : "CHARACTER"
@@ -33,6 +37,10 @@
       "character_id" : 116073,
       "name" : "Shishiou Mirai",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 105051,
+      "name" : "Taiju (Youshouki)",
+      "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 103217,
@@ -54,10 +62,18 @@
       "character_id" : 121249,
       "name" : "Nanami Ryuusui",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 99858,
+      "name" : "Ooki Taiju",
+      "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
       "character_id" : 106834,
       "name" : "Akatsuki Hyouga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146662,
+      "name" : "Brody Dudley",
       "type" : "CHARACTER"
     }, {
       "character_id" : 146518,
@@ -122,10 +138,6 @@
     }, {
       "character_id" : 99859,
       "name" : "Ogawa Yuzuriha",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 99858,
-      "name" : "Ooki Taiju",
       "type" : "CHARACTER"
     }, {
       "character_id" : 111112,
@@ -285,7 +297,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.66,
+        "rating" : 2.67,
         "total" : 1
       },
       "recap" : false,
@@ -336,9 +348,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-13",
+      "description" : "Stanley orders Luna to infiltrate the Perseus and identify Doctor Taiju. Things go sideways when it turns out to be a little too easy.\nSource: Crunchyroll",
       "episode_id" : 291718,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 1.32,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GMKUEM0GM" ]
@@ -359,11 +376,22 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-20",
+      "description" : "Senku had gotten his start in rocket building through an email exchange with Doctor Xeno. Their approaches to science soon diverged.\nSource: Crunchyroll",
       "episode_id" : 291719,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 1.32,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU8X142" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Deux scientifiques"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Futari no Kagakusha"
       }, {
@@ -376,13 +404,30 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-27",
+      "description" : "NASA scientist Dr. Xeno attempts to pick off the leader of the Kingdom of Science.\nSource: Crunchyroll",
       "episode_id" : 291720,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 1.32,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UVE8ZX" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "LOCK ON"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Lock On"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Lock On"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Lock on"
       } ],
       "type" : "REGULAR"
     }, {
@@ -392,8 +437,14 @@
       "number" : 9,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kagaku no Hi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Light of Science"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "科学の灯"
       } ],
       "type" : "REGULAR"
     }, {
@@ -433,12 +484,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.4,
-      "total" : 36
+      "rating" : 6.67,
+      "total" : 41
     },
     "TEMPORARY" : {
-      "rating" : 6.78,
-      "total" : 37
+      "rating" : 7.02,
+      "total" : 42
     }
   },
   "related" : {

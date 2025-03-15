@@ -57,8 +57,8 @@
       "length" : 90,
       "number" : 1,
       "rating" : {
-        "rating" : 8.03,
-        "total" : 1
+        "rating" : 9.05,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -75,8 +75,8 @@
       "length" : 75,
       "number" : 2,
       "rating" : {
-        "rating" : 8.03,
-        "total" : 1
+        "rating" : 9.05,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -87,6 +87,106 @@
         "title" : "Movie 2"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2024-06-09",
+      "episode_id" : 293667,
+      "length" : 5,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Tsukinami ni Kagayake Music Video"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "[Lyric Video] 結束バンド「月並みに輝け」"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2024-08-11",
+      "episode_id" : 293668,
+      "length" : 4,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Doppelganger Music Video"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "[Lyric Video] 結束バンド「ドッペルゲンガー」"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "episode_id" : 293669,
+      "length" : 2,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Manners Movie 1"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "episode_id" : 293670,
+      "length" : 2,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Manners Movie 2"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "episode_id" : 293671,
+      "length" : 2,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Manners Movie 3"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "episode_id" : 293672,
+      "length" : 2,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Manners Movie 4"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-06-07",
+      "episode_id" : 293665,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.26,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening 1"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-08-09",
+      "episode_id" : 293666,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 1.42,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening 2"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2023-05-21",
@@ -102,19 +202,19 @@
         "title" : "TV Anime Bocchi the Rock! Movie Summary Web Trailer (1:04)"
       }, {
         "language" : "JAPANESE",
-        "title" : "TVアニメ「ぼっち・ざ・ろっく！」劇場総集編 WEB予告"
+        "title" : "TVアニメ「ぼっち・ざ・ろっく!」劇場総集編 WEB予告"
       } ],
       "type" : "PROMOTION"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.11,
-      "total" : 23
+      "rating" : 8.09,
+      "total" : 28
     },
     "TEMPORARY" : {
-      "rating" : 7.8,
-      "total" : 23
+      "rating" : 7.67,
+      "total" : 28
     }
   },
   "related" : {
@@ -130,7 +230,7 @@
     "WEBSITE" : [ "https://bocchi.rocks/" ],
     "WIKIPEDIA_EN" : [ "Bocchi_the_Rock!" ],
     "WIKIPEDIA_JP" : [ "ぼっち・ざ・ろっく!" ],
-    "YOUTUBE" : [ "watch?v=WKbfk7vXmc4" ]
+    "YOUTUBE" : [ "watch?v=776pBhZ3oO0", "watch?v=WKbfk7vXmc4", "watch?v=anCp-VnUQtM" ]
   },
   "start_date" : "2024-06-07",
   "tags" : {
@@ -177,6 +277,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "bozaro movie",
     "type" : "SHORT"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "BOCCHI THE ROCK! Recap Part 1 & 2",
+    "type" : "SYNONYM"
   } ],
   "type" : "MOVIE",
   "url" : "https://bocchi.rocks/"

@@ -1,6 +1,23 @@
 {
   "anime_id" : 18314,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 146830,
+      "name" : "Azuma Mai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146831,
+      "name" : "Baba Machiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146833,
+      "name" : "Endou Koushirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146829,
+      "name" : "Mizuno Hanae",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 136649,
       "name" : "Azuma Yuu",
@@ -41,6 +58,10 @@
       "name" : "Yokoyama Masaru",
       "type" : "MUSIC"
     } ],
+    "18824" : [ {
+      "name" : "Nakatani Yukiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "45907" : [ {
       "name" : "Shinohara Masahiro",
       "type" : "DIRECTOR"
@@ -60,6 +81,10 @@
       "name" : "Kerorira",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "57953" : [ {
+      "name" : "Zhang Yun",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "74779" : [ {
       "name" : "Takayama Kazumi",
       "type" : "ORIGINAL_WORK"
@@ -73,26 +98,54 @@
       "length" : 95,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UVE05P" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Complete Movie"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-05-10",
+      "episode_id" : 293740,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2024-05-10",
+      "episode_id" : 293741,
+      "length" : 5,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.32,
-      "total" : 7
+      "rating" : 4.27,
+      "total" : 9
     },
     "TEMPORARY" : {
-      "rating" : 6.21,
-      "total" : 7
+      "rating" : 6.05,
+      "total" : 9
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "392748" ],
+    "ANISON" : [ "25463" ],
     "ANN" : [ "31027" ],
+    "CRUNCHY_ROLL" : [ "G5PHNM990" ],
     "MAL" : [ "57508" ],
     "TWITTER" : [ "trapezium_movie" ],
     "WEBSITE" : [ "https://trapezium-movie.com/" ],

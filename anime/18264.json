@@ -1,6 +1,11 @@
 {
   "anime_id" : 18264,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 146904,
+      "name" : "Nadir (12-sai)",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 141173,
       "name" : "Clarke",
@@ -41,12 +46,32 @@
     } ]
   },
   "creators" : {
+    "2463" : [ {
+      "name" : "Tsubata Yoshiaki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "6577" : [ {
+      "name" : "Yatsu Miyako",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "6734" : [ {
       "name" : "Tagashira Shinobu",
       "type" : "CHARACTER_DESIGN"
     }, {
       "name" : "Tagashira Shinobu",
       "type" : "DIRECTOR"
+    } ],
+    "11660" : [ {
+      "name" : "Yamauchi Daisuke",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "14053" : [ {
+      "name" : "Yamamura Shunsuke",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "16420" : [ {
+      "name" : "Sugimura Nozomi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "27786" : [ {
       "name" : "Hayashi Yuuki",
@@ -79,7 +104,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.86,
+        "rating" : 3.85,
         "total" : 3
       },
       "recap" : false,
@@ -98,7 +123,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 9.35,
+        "rating" : 9.37,
         "total" : 3
       },
       "recap" : false,
@@ -117,7 +142,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.95,
+        "rating" : 6.94,
         "total" : 2
       },
       "recap" : false,
@@ -136,7 +161,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.95,
+        "rating" : 6.94,
         "total" : 2
       },
       "recap" : false,
@@ -155,7 +180,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.06,
+        "rating" : 6.05,
         "total" : 2
       },
       "recap" : false,
@@ -174,7 +199,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.24,
+        "rating" : 9.23,
         "total" : 1
       },
       "recap" : false,
@@ -188,11 +213,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-16",
+      "description" : "Louis plots to woo Maria with a surprise gift of macarons but instead triggers a tense, late-night ghost hunt.\nSource: Crunchyroll",
       "episode_id" : 291854,
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.13,
+        "rating" : 6.11,
         "total" : 1
       },
       "recap" : false,
@@ -206,10 +232,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-23",
+      "description" : "Clarke thinks back on Leticia`s early days at the castle and reevaluates his naive attempts to make her happy.\nSource: Crunchyroll",
       "episode_id" : 291855,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 4.37,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMWM4W" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
@@ -217,10 +251,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-03-02",
+      "description" : "Shortly after Leticia resumes her lessons, a strange incident occurs at the newly renovated conservatory bath.\nSource: Crunchyroll",
       "episode_id" : 293139,
       "length" : 25,
       "number" : 9,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUW3WKQ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 9"
@@ -259,16 +297,39 @@
         "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-01-05",
+      "episode_id" : 293837,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-01-05",
+      "episode_id" : 293838,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.55,
-      "total" : 36
+      "rating" : 2.52,
+      "total" : 39
     },
     "TEMPORARY" : {
-      "rating" : 4.51,
-      "total" : 36
+      "rating" : 4.47,
+      "total" : 39
     }
   },
   "resources" : {

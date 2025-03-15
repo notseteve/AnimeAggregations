@@ -44,6 +44,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 146739,
+      "name" : "Aoi Aoi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 99988,
       "name" : "Arisaka Shiori",
       "type" : "CHARACTER"
@@ -64,12 +68,20 @@
       "name" : "Maki",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146740,
+      "name" : "Samejima Kuroe",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 99985,
       "name" : "Sengoku Ichiru",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145564,
       "name" : "Sengoku Taiga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146738,
+      "name" : "Urushihara Enishi",
       "type" : "CHARACTER"
     } ]
   },
@@ -259,6 +271,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-13",
+      "description" : "Phantom Trigger got a mission to destroy a religious group. Who awaited the team was a very familiar face.\nSource: Crunchyroll",
       "episode_id" : 291653,
       "length" : 25,
       "number" : 7,
@@ -279,10 +292,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-20",
+      "description" : "Arisaka must decide on Class A`s overseas deployment request. Enishi and Chloe awaits Class A.\nSource: Crunchyroll",
       "episode_id" : 291654,
       "length" : 25,
       "number" : 8,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UG2G3P" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Arisaka no Techou"
@@ -290,30 +307,59 @@
         "language" : "ENGLISH",
         "title" : "Arisaka`s Journal"
       }, {
+        "language" : "FRENCH",
+        "title" : "Le journal d`Arisaka"
+      }, {
         "language" : "JAPANESE",
         "title" : "有坂の手帳"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-02-27",
+      "description" : "All SORD forces are called upon. Haruto encounters Chloe. He points his sword to his archenemy who killed Aoi.\nSource: Crunchyroll",
       "episode_id" : 292429,
       "length" : 25,
       "number" : 9,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUEMEXN" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Baptême"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Rite of Passage"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Senrei"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "洗礼"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-03-06",
+      "description" : "Patrick and Bruno meet a group of young Sisters in a dugout. We just want to live...\nSource: Crunchyroll",
       "episode_id" : 292430,
       "length" : 25,
       "number" : 10,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU8X80D" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Heaven`s Door"
+      }, {
+        "language" : "FRENCH",
+        "title" : "La porte du paradis"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tengoku e no Tobira"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "天国への扉"
       } ],
       "type" : "REGULAR"
     }, {
@@ -323,8 +369,14 @@
       "number" : 11,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tadashii Sentaku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "The Right Choice"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "正しい選択"
       } ],
       "type" : "REGULAR"
     }, {
@@ -371,12 +423,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.4,
-      "total" : 24
+      "rating" : 3.54,
+      "total" : 27
     },
     "TEMPORARY" : {
-      "rating" : 5.16,
-      "total" : 25
+      "rating" : 5.14,
+      "total" : 28
     }
   },
   "related" : {
@@ -403,6 +455,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2800" : {
       "info_box" : true,
       "name" : "game",
@@ -410,6 +469,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2804" : {
+      "info_box" : true,
+      "name" : "visual novel",
+      "parent_tag_id" : 2800,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "6173" : {
       "info_box" : false,

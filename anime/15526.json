@@ -7,6 +7,10 @@
       "episode_id" : 228806,
       "length" : 3,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.23,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -18,6 +22,10 @@
       "episode_id" : 228807,
       "length" : 3,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.07,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -29,6 +37,10 @@
       "episode_id" : 228808,
       "length" : 3,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.23,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -40,6 +52,10 @@
       "episode_id" : 228809,
       "length" : 2,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.23,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -51,6 +67,10 @@
       "episode_id" : 228810,
       "length" : 2,
       "number" : 5,
+      "rating" : {
+        "rating" : 7.23,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -62,6 +82,10 @@
       "episode_id" : 228811,
       "length" : 2,
       "number" : 6,
+      "rating" : {
+        "rating" : 7.23,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -73,6 +97,10 @@
       "episode_id" : 228812,
       "length" : 3,
       "number" : 7,
+      "rating" : {
+        "rating" : 7.23,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -84,6 +112,10 @@
       "episode_id" : 228813,
       "length" : 3,
       "number" : 8,
+      "rating" : {
+        "rating" : 8.07,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -95,6 +127,10 @@
       "episode_id" : 228814,
       "length" : 2,
       "number" : 9,
+      "rating" : {
+        "rating" : 8.07,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -106,6 +142,10 @@
       "episode_id" : 228815,
       "length" : 4,
       "number" : 10,
+      "rating" : {
+        "rating" : 8.82,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -117,6 +157,10 @@
       "episode_id" : 256722,
       "length" : 1,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.39,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -127,12 +171,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.51,
-      "total" : 91
+      "rating" : 6.5,
+      "total" : 93
     },
     "TEMPORARY" : {
-      "rating" : 6.91,
-      "total" : 91
+      "rating" : 6.88,
+      "total" : 93
     }
   },
   "related" : {
@@ -195,6 +239,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2667" : {
       "info_box" : true,
       "name" : "university",
@@ -203,10 +263,26 @@
       "verified" : false,
       "weight" : 600
     },
+    "2673" : {
+      "info_box" : false,
+      "name" : "Korea",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2797" : {
       "info_box" : true,
       "name" : "new",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

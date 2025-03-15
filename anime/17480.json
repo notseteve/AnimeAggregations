@@ -2,6 +2,10 @@
   "anime_id" : 17480,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 146835,
+      "name" : "Albert Brudzewski",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 145241,
       "name" : "Antoni",
       "type" : "CHARACTER"
@@ -56,6 +60,10 @@
     }, {
       "character_id" : 144488,
       "name" : "Kolbe",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146827,
+      "name" : "Kyouju",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145095,
@@ -155,6 +163,7 @@
     } ]
   },
   "description" : "The setting is 15th century Poland. It was a time when heretical ideas lead those to who possessed such a mindset to being burned at the stake for their beliefs. Rafal, a child prodigy, is expected to major in theology, the most important subject at the time, at the university. One day, however, he comes across a mysterious man, and is now studying a possible \"truth\" in the midst of heretical thought!\nSource: M-U",
+  "end_date" : "2025-03-15",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2024-10-05",
@@ -665,8 +674,15 @@
       "episode_id" : 292327,
       "length" : 25,
       "number" : 22,
+      "rating" : {
+        "rating" : 7.7,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "POLISH",
+        "title" : "Historia was nie zapamięta"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kimira wa Rekishi no Toujou Jinbutsu ja Nai"
       }, {
@@ -682,13 +698,20 @@
       "episode_id" : 292328,
       "length" : 25,
       "number" : 23,
+      "rating" : {
+        "rating" : 9.55,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 23"
+        "title" : "Comrades"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Onaji Jidai o Tsukutta Nakama"
+      }, {
+        "language" : "POLISH",
+        "title" : "Towarzysze"
       }, {
         "language" : "JAPANESE",
         "title" : "同じ時代を作った仲間"
@@ -699,10 +722,20 @@
       "episode_id" : 292329,
       "length" : 25,
       "number" : 24,
+      "rating" : {
+        "rating" : 5.49,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 24"
+        "title" : "Thaumazein"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Thaumazein o"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "タウマゼインを"
       } ],
       "type" : "REGULAR"
     }, {
@@ -712,6 +745,12 @@
       "number" : 25,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "?"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 25"
       } ],
@@ -795,12 +834,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.02,
-      "total" : 84
+      "rating" : 8.07,
+      "total" : 90
     },
     "TEMPORARY" : {
-      "rating" : 7.51,
-      "total" : 84
+      "rating" : 7.48,
+      "total" : 91
     }
   },
   "resources" : {
@@ -1250,6 +1289,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Chi: About the Movement of the Earth",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Orb",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

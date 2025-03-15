@@ -2,6 +2,10 @@
   "anime_id" : 19044,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 146638,
+      "name" : "RGM-79 Kei-Cannon",
+      "type" : "MECH"
+    }, {
       "character_id" : 146515,
       "name" : "RX-78-01 01 Gundam",
       "type" : "MECH"
@@ -99,9 +103,13 @@
     } ]
   },
   "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.67,
+      "total" : 3
+    },
     "TEMPORARY" : {
-      "rating" : 10.0,
-      "total" : 1
+      "rating" : 6.75,
+      "total" : 4
     }
   },
   "related" : {
@@ -117,9 +125,40 @@
   },
   "start_date" : "2025-01-17",
   "tags" : {
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2638" : {
+      "info_box" : true,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

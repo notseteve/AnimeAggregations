@@ -291,6 +291,9 @@
         "language" : "PORTUGUESE_BRAZIL",
         "title" : "Livro De Dobradura!"
       }, {
+        "language" : "POLISH",
+        "title" : "Otwierana książka"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shikake Ehon"
       }, {
@@ -318,6 +321,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Book of Fetus"
+      }, {
+        "language" : "POLISH",
+        "title" : "Księga płodu"
       }, {
         "language" : "FRENCH",
         "title" : "Le livre du foetus"
@@ -353,6 +359,9 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Eichi no Sho / Gekkabijin"
       }, {
+        "language" : "POLISH",
+        "title" : "Księga mądrości / Królowa nocy"
+      }, {
         "language" : "FRENCH",
         "title" : "Le livre de la sagesse / Reine de la nuit"
       }, {
@@ -384,6 +393,9 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kankon no Sho"
       }, {
+        "language" : "POLISH",
+        "title" : "Księga wymiany duszy"
+      }, {
         "language" : "FRENCH",
         "title" : "Le livre de la transformation"
       }, {
@@ -411,6 +423,9 @@
       "titles" : [ {
         "language" : "PORTUGUESE_BRAZIL",
         "title" : "A Filha Do Mago!"
+      }, {
+        "language" : "POLISH",
+        "title" : "Córka magika"
       }, {
         "language" : "FRENCH",
         "title" : "La fille du magicien"
@@ -452,6 +467,9 @@
         "language" : "PORTUGUESE_BRAZIL",
         "title" : "O Queimador De Livros!"
       }, {
+        "language" : "POLISH",
+        "title" : "Palenie książek"
+      }, {
         "language" : "JAPANESE",
         "title" : "焚書官[ふんしょかん]"
       } ],
@@ -480,6 +498,9 @@
         "language" : "ENGLISH",
         "title" : "Perfumer"
       }, {
+        "language" : "POLISH",
+        "title" : "Perfumiarz"
+      }, {
         "language" : "PORTUGUESE_BRAZIL",
         "title" : "Perfumista!"
       }, {
@@ -504,6 +525,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Book of Equivalence / Book of Relationship"
+      }, {
+        "language" : "POLISH",
+        "title" : "Księga równowartości / Księga relacji"
       }, {
         "language" : "FRENCH",
         "title" : "Le livre de l`équivalence / Le livre de l`union"
@@ -536,6 +560,9 @@
         "language" : "ENGLISH",
         "title" : "Book of Twilight"
       }, {
+        "language" : "POLISH",
+        "title" : "Księga zmierzchu"
+      }, {
         "language" : "FRENCH",
         "title" : "Le livre du crépuscule"
       }, {
@@ -566,6 +593,9 @@
       "titles" : [ {
         "language" : "PORTUGUESE_BRAZIL",
         "title" : "Fantasia!"
+      }, {
+        "language" : "POLISH",
+        "title" : "Fantazja"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Genkyoku"
@@ -598,6 +628,9 @@
         "language" : "PORTUGUESE_BRAZIL",
         "title" : "Biblioteca Mística De Rasiel!"
       }, {
+        "language" : "POLISH",
+        "title" : "Biblioteka Razjela"
+      }, {
         "language" : "ENGLISH",
         "title" : "Bibliotheca Razielis Archangeli"
       }, {
@@ -618,7 +651,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.96,
+        "rating" : 5.95,
         "total" : 9
       },
       "recap" : false,
@@ -631,6 +664,9 @@
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Mada Minu Ashita no Uta"
+      }, {
+        "language" : "POLISH",
+        "title" : "Pieśń nieznanego jutra"
       }, {
         "language" : "FRENCH",
         "title" : "Poème d`un futur encore voilé"
@@ -767,7 +803,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.67,
-      "total" : 2494
+      "total" : 2495
     },
     "REVIEW" : {
       "rating" : 5.49,
@@ -775,7 +811,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.99,
-      "total" : 2511
+      "total" : 2512
     }
   },
   "related" : {
@@ -783,13 +819,18 @@
   },
   "resources" : {
     "ALL_CINEMA" : [ "339544" ],
+    "AMAZON" : [ "B01MRBN5ER" ],
+    "AMAZON_PRIME" : [ "0HKAU55A4OI388FM7DHVP9QNJ4" ],
     "ANIME_NFO" : [ "4942,tvgknu" ],
     "ANISON" : [ "13551" ],
     "ANN" : [ "11860" ],
     "CRUNCHY_ROLL" : [ "G6XJ0NGMR" ],
     "FUNIMATION" : [ "the-mystic-archives-of-dantalian/" ],
+    "IMDB" : [ "tt2131768" ],
     "MAL" : [ "8915" ],
+    "STREAM" : [ "https://tv.apple.com/show/umc.cmc.2m9uqtqlipl7d46rgq5v5z4j1" ],
     "SYOBOI" : [ "2203" ],
+    "TMDB" : [ "tv/42506" ],
     "WEBSITE" : [ "http://www.tv-tokyo.co.jp/anime/dantalian/" ],
     "WIKIPEDIA_EN" : [ "Dantalian_no_Shoka" ],
     "WIKIPEDIA_JP" : [ "ダンタリアンの書架" ]
@@ -1608,8 +1649,16 @@
     "title" : "dantasho",
     "type" : "SHORT"
   }, {
+    "language" : "POLISH",
+    "title" : "Biblioteka Dantaliana",
+    "type" : "SYNONYM"
+  }, {
     "language" : "LATIN",
     "title" : "Bibliotheca Mystica de Dantalian",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "POLISH",
+    "title" : "Księgozbiór Dantaliana",
     "type" : "SYNONYM"
   }, {
     "language" : "UKRAINIAN",

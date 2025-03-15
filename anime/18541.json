@@ -2,6 +2,10 @@
   "anime_id" : 18541,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 146701,
+      "name" : "Beelzebuth",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 145776,
       "name" : "Beryl Astaroth",
       "type" : "CHARACTER"
@@ -26,12 +30,20 @@
       "name" : "Gappoli",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146699,
+      "name" : "Geizel Aushura",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146471,
       "name" : "Gladstone-hakushaku",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145773,
       "name" : "Howard",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146700,
+      "name" : "Julius Aushura",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145774,
@@ -58,8 +70,16 @@
       "name" : "Marietta",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146859,
+      "name" : "Revi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 145623,
       "name" : "Sister",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146860,
+      "name" : "Vasaago",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -143,7 +163,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.83,
+        "rating" : 3.85,
         "total" : 9
       },
       "recap" : false,
@@ -164,7 +184,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.75,
+        "rating" : 5.8,
         "total" : 7
       },
       "recap" : false,
@@ -185,7 +205,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.83,
+        "rating" : 4.87,
         "total" : 7
       },
       "recap" : false,
@@ -206,7 +226,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.04,
+        "rating" : 5.1,
         "total" : 6
       },
       "recap" : false,
@@ -227,7 +247,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.65,
+        "rating" : 5.71,
         "total" : 6
       },
       "recap" : false,
@@ -248,8 +268,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.76,
-        "total" : 6
+        "rating" : 3.7,
+        "total" : 7
       },
       "recap" : false,
       "titles" : [ {
@@ -269,7 +289,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 1.99,
+        "rating" : 2.02,
         "total" : 6
       },
       "recap" : false,
@@ -290,8 +310,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 2.36,
-        "total" : 2
+        "rating" : 2.79,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -310,6 +330,10 @@
       "episode_id" : 292322,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 4.59,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -327,10 +351,20 @@
       "episode_id" : 292323,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 3.4,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tama to Aria no Mezameru Chikara"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "The Powers of Tama and Aria"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "タマとアリアの目覚める力"
       } ],
       "type" : "REGULAR"
     }, {
@@ -340,8 +374,14 @@
       "number" : 11,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kenja no Ishi to Lumines no Himitsu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "The Philosopher`s Stone & the Secret of Lumines"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "賢者ノ石とルミルスの秘密"
       } ],
       "type" : "REGULAR"
     }, {
@@ -377,12 +417,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.82,
-      "total" : 65
+      "rating" : 2.61,
+      "total" : 74
     },
     "TEMPORARY" : {
-      "rating" : 5.13,
-      "total" : 66
+      "rating" : 5.04,
+      "total" : 75
     }
   },
   "resources" : {
@@ -595,16 +635,16 @@
     "title" : "S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士一起生活",
     "type" : "OFFICIAL"
   }, {
+    "language" : "THAI",
+    "title" : "กระผมเป็น(เบฮีมอธ)มอนสเตอร์ S แรงค์ แต่ตอนนี้ถูกเอลฟ์เลี้ยงในฐานะ(แมว)ครับ",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "Beheneko",
     "type" : "SHORT"
   }, {
     "language" : "ENGLISH",
     "title" : "I Am Behemoth of the S Rank Monster, but I Am Mistaken as a Cat and I Live as a Pet of Elf Girl",
-    "type" : "SYNONYM"
-  }, {
-    "language" : "THAI",
-    "title" : "กระผมเป็น(เบฮีมอธ)มอนสเตอร์ S แรงค์ แต่ตอนนี้ถูกเอลฟ์เลี้ยงในฐานะ(แมว)ครับ",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

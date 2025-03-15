@@ -82,7 +82,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.74,
+        "rating" : 4.8,
         "total" : 4
       },
       "recap" : false,
@@ -103,7 +103,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.04,
+        "rating" : 5.12,
         "total" : 4
       },
       "recap" : false,
@@ -124,7 +124,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.99,
+        "rating" : 5.08,
         "total" : 4
       },
       "recap" : false,
@@ -145,7 +145,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.13,
+        "rating" : 4.19,
         "total" : 3
       },
       "recap" : false,
@@ -166,7 +166,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 2.92,
+        "rating" : 2.98,
         "total" : 4
       },
       "recap" : false,
@@ -187,7 +187,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.64,
+        "rating" : 7.73,
         "total" : 4
       },
       "recap" : false,
@@ -208,8 +208,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 3.86,
-        "total" : 2
+        "rating" : 6.0,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -228,10 +228,20 @@
       "episode_id" : 291700,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 2.5,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Guuzou no Shoujo"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "The Idol Girl"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "偶像の少女"
       } ],
       "type" : "REGULAR"
     }, {
@@ -239,10 +249,20 @@
       "episode_id" : 292974,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 3.26,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "A Girl`s True Face"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shoujo no Sugao"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "少女の素顔"
       } ],
       "type" : "REGULAR"
     }, {
@@ -312,12 +332,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.29,
-      "total" : 23
+      "rating" : 4.24,
+      "total" : 25
     },
     "TEMPORARY" : {
-      "rating" : 5.34,
-      "total" : 23
+      "rating" : 5.52,
+      "total" : 25
     }
   },
   "resources" : {
@@ -471,6 +491,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2887" : {
       "info_box" : true,
       "name" : "tragedy",
@@ -478,6 +506,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "3276" : {
       "info_box" : false,

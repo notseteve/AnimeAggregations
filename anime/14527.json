@@ -2,8 +2,16 @@
   "anime_id" : 14527,
   "characters" : {
     "MAIN" : [ {
+      "character_id" : 146702,
+      "name" : "Kuroda",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 99721,
       "name" : "Tsukamoto Misako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146703,
+      "name" : "Tsukamoto Rintarou",
       "type" : "CHARACTER"
     } ]
   },
@@ -78,11 +86,11 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.49,
+      "rating" : 4.51,
       "total" : 139
     },
     "TEMPORARY" : {
-      "rating" : 6.0,
+      "rating" : 6.01,
       "total" : 143
     }
   },
@@ -105,6 +113,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -328,6 +343,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6151" : {
       "info_box" : false,
       "name" : "technical aspects",
@@ -338,6 +361,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
