@@ -6,6 +6,14 @@
       "name" : "Amano Yoshihiro",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 147161,
+      "name" : "Aphrodite",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147160,
+      "name" : "Apollo Junior",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 107302,
       "name" : "Gakuen-chou",
       "type" : "CHARACTER"
@@ -20,6 +28,10 @@
     }, {
       "character_id" : 107294,
       "name" : "Neptune Shishaku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147162,
+      "name" : "Nero Claudius Caesar Augustus Germanicus",
       "type" : "CHARACTER"
     }, {
       "character_id" : 107295,
@@ -51,12 +63,33 @@
       "type" : "ORGANIZATION"
     } ],
     "MAIN" : [ {
+      "character_id" : 147158,
+      "name" : "Ai Misora",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147157,
+      "name" : "Ikumi Mihara",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147156,
+      "name" : "Kiyomi Mikawa",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 107303,
       "name" : "Misono Hikari",
       "type" : "CHARACTER"
     }, {
       "character_id" : 78898,
       "name" : "Miyama Moyu",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 147137,
+      "name" : "Buccha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147159,
+      "name" : "Ken Kanagawa",
       "type" : "CHARACTER"
     } ]
   },
@@ -87,7 +120,7 @@
       "length" : 50,
       "number" : 1,
       "rating" : {
-        "rating" : 3.55,
+        "rating" : 3.54,
         "total" : 2
       },
       "recap" : false,
@@ -132,7 +165,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.99,
+      "rating" : 3.0,
       "total" : 275
     },
     "TEMPORARY" : {
@@ -156,6 +189,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "893" : {
+      "info_box" : false,
+      "name" : "dominatrix",
+      "parent_tag_id" : 2729,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "1773" : {
       "info_box" : true,
       "name" : "tentacle",
@@ -163,6 +204,46 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "1864" : {
+      "info_box" : false,
+      "name" : "extrasensory perception",
+      "parent_tag_id" : 2623,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2043" : {
+      "info_box" : true,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2094" : {
+      "info_box" : true,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2225" : {
+      "info_box" : false,
+      "name" : "whipping",
+      "parent_tag_id" : 2729,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2391" : {
+      "info_box" : false,
+      "name" : "bishoujo",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "2429" : {
       "info_box" : false,
@@ -180,9 +261,24 @@
       "verified" : false,
       "weight" : 600
     },
+    "2568" : {
+      "info_box" : true,
+      "name" : "deity",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -208,9 +304,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -223,6 +334,46 @@
       "verified" : false,
       "weight" : 0
     },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2618" : {
+      "info_box" : false,
+      "name" : "collateral damage",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2623" : {
+      "info_box" : true,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2646" : {
       "info_box" : false,
       "name" : "demon",
@@ -230,6 +381,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2655" : {
       "info_box" : true,
@@ -239,10 +406,58 @@
       "verified" : false,
       "weight" : 400
     },
+    "2669" : {
+      "info_box" : false,
+      "name" : "school clubs",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2695" : {
+      "info_box" : false,
+      "name" : "yuri",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2696" : {
+      "info_box" : false,
+      "name" : "threesome",
+      "parent_tag_id" : 7957,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2697" : {
+      "info_box" : false,
+      "name" : "voyeurism",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2706" : {
+      "info_box" : false,
+      "name" : "masturbation",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2708" : {
       "info_box" : false,
       "name" : "uncensored version available",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2713" : {
+      "info_box" : false,
+      "name" : "oral",
+      "parent_tag_id" : 2848,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -262,6 +477,54 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2721" : {
+      "info_box" : false,
+      "name" : "public sex",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2722" : {
+      "info_box" : false,
+      "name" : "doggy style",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2729" : {
+      "info_box" : false,
+      "name" : "BDSM",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2733" : {
+      "info_box" : false,
+      "name" : "enjoyable rape",
+      "parent_tag_id" : 2715,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2734" : {
+      "info_box" : false,
+      "name" : "scissoring",
+      "parent_tag_id" : 2695,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2743" : {
+      "info_box" : false,
+      "name" : "futa x male",
+      "parent_tag_id" : 2429,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2744" : {
       "info_box" : false,
@@ -287,6 +550,30 @@
       "verified" : false,
       "weight" : 600
     },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2787" : {
+      "info_box" : false,
+      "name" : "teacher x student",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2823" : {
+      "info_box" : false,
+      "name" : "paper clothes",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2841" : {
       "info_box" : false,
       "name" : "action",
@@ -304,12 +591,12 @@
       "weight" : 0
     },
     "2849" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "fantasy",
       "parent_tag_id" : 7050,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 400
     },
     "2853" : {
       "info_box" : true,
@@ -327,6 +614,86 @@
       "verified" : false,
       "weight" : 400
     },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2878" : {
+      "info_box" : true,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2884" : {
+      "info_box" : false,
+      "name" : "psychoactive drugs",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2888" : {
+      "info_box" : false,
+      "name" : "coming of age",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2890" : {
+      "info_box" : false,
+      "name" : "foot fetish",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2893" : {
+      "info_box" : true,
+      "name" : "female teacher",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2894" : {
       "info_box" : true,
       "name" : "female student",
@@ -335,9 +702,81 @@
       "verified" : false,
       "weight" : 400
     },
+    "2901" : {
+      "info_box" : false,
+      "name" : "bondage",
+      "parent_tag_id" : 2729,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2905" : {
+      "info_box" : true,
+      "name" : "erotic torture",
+      "parent_tag_id" : 2729,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2918" : {
+      "info_box" : false,
+      "name" : "cunnilingus",
+      "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2920" : {
+      "info_box" : false,
+      "name" : "rimming",
+      "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2921" : {
+      "info_box" : false,
+      "name" : "throat fucking",
+      "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2979" : {
+      "info_box" : false,
+      "name" : "mutilation",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3159" : {
+      "info_box" : false,
+      "name" : "emotions awaken superpowers",
+      "parent_tag_id" : 2623,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3443" : {
+      "info_box" : false,
+      "name" : "orgy",
+      "parent_tag_id" : 7957,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -350,6 +789,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "3993" : {
+      "info_box" : false,
+      "name" : "kidnapping",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4046" : {
+      "info_box" : false,
+      "name" : "foursome",
+      "parent_tag_id" : 7957,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4096" : {
+      "info_box" : false,
+      "name" : "gore",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4318" : {
       "info_box" : false,
       "name" : "plot with porn",
@@ -358,10 +821,58 @@
       "verified" : false,
       "weight" : 0
     },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4387" : {
+      "info_box" : false,
+      "name" : "good vs evil",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4492" : {
+      "info_box" : false,
+      "name" : "gang rape",
+      "parent_tag_id" : 2715,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4538" : {
       "info_box" : false,
       "name" : "long episodes",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4570" : {
+      "info_box" : false,
+      "name" : "watercolour style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4729" : {
+      "info_box" : false,
+      "name" : "colour coded",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5445" : {
+      "info_box" : false,
+      "name" : "strappado bondage",
+      "parent_tag_id" : 2901,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -382,10 +893,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "5769" : {
+      "info_box" : false,
+      "name" : "panels that require pausing",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5939" : {
       "info_box" : false,
       "name" : "CAST MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5948" : {
+      "info_box" : false,
+      "name" : "visible aura",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -412,6 +947,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6247" : {
       "info_box" : false,
       "name" : "ending tags that need merging",
@@ -419,6 +970,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6268" : {
+      "info_box" : false,
+      "name" : "fellatio",
+      "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6572" : {
+      "info_box" : false,
+      "name" : "FFM threesome",
+      "parent_tag_id" : 2696,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6573" : {
+      "info_box" : false,
+      "name" : "MMF threesome",
+      "parent_tag_id" : 2696,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6731" : {
+      "info_box" : false,
+      "name" : "wax play",
+      "parent_tag_id" : 2905,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7050" : {
       "info_box" : false,
@@ -444,6 +1027,46 @@
       "verified" : false,
       "weight" : 0
     },
+    "7221" : {
+      "info_box" : false,
+      "name" : "psychological sexual abuse",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "7229" : {
+      "info_box" : false,
+      "name" : "fingering",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7238" : {
+      "info_box" : false,
+      "name" : "attempted rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "7560" : {
+      "info_box" : false,
+      "name" : "suspension bondage",
+      "parent_tag_id" : 2901,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "7640" : {
+      "info_box" : false,
+      "name" : "demon world",
+      "parent_tag_id" : 2628,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "7678" : {
       "info_box" : false,
       "name" : "sex ritual",
@@ -452,6 +1075,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "7871" : {
+      "info_box" : true,
+      "name" : "medium breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
@@ -459,6 +1090,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7905" : {
+      "info_box" : true,
+      "name" : "large breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "7957" : {
+      "info_box" : false,
+      "name" : "group sex",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8038" : {
+      "info_box" : false,
+      "name" : "nipple play",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     }
   },
   "titles" : [ {

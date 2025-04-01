@@ -290,7 +290,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.87,
+        "rating" : 4.86,
         "total" : 2
       },
       "recap" : false,
@@ -554,7 +554,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 7.25,
+        "rating" : 7.3,
         "total" : 1
       },
       "recap" : false,
@@ -569,7 +569,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 9.6,
+        "rating" : 9.63,
         "total" : 1
       },
       "recap" : false,
@@ -582,12 +582,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.35,
-      "total" : 324
+      "rating" : 4.36,
+      "total" : 326
     },
     "TEMPORARY" : {
-      "rating" : 6.03,
-      "total" : 324
+      "rating" : 6.04,
+      "total" : 326
     }
   },
   "resources" : {
@@ -657,6 +657,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -685,10 +692,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
       "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2614" : {
+      "info_box" : true,
+      "name" : "josei",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -725,6 +748,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2858" : {
       "info_box" : true,
       "name" : "romance",
@@ -741,10 +772,66 @@
       "verified" : false,
       "weight" : 100
     },
+    "2871" : {
+      "info_box" : false,
+      "name" : "anti-war",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2888" : {
+      "info_box" : false,
+      "name" : "coming of age",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "3103" : {
+      "info_box" : false,
+      "name" : "first love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3129" : {
       "info_box" : false,
       "name" : "fake relationship",
       "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3150" : {
+      "info_box" : false,
+      "name" : "social class issues",
+      "parent_tag_id" : 4522,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3395" : {
+      "info_box" : false,
+      "name" : "promise",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3432" : {
+      "info_box" : false,
+      "name" : "pacifism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3575" : {
+      "info_box" : false,
+      "name" : "damsel in distress",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -757,10 +844,90 @@
       "verified" : false,
       "weight" : 0
     },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3822" : {
+      "info_box" : false,
+      "name" : "strong male lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4223" : {
+      "info_box" : false,
+      "name" : "running gag",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4397" : {
       "info_box" : false,
       "name" : "court politics",
       "parent_tag_id" : 2867,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4440" : {
+      "info_box" : false,
+      "name" : "boy meets girl",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4480" : {
+      "info_box" : false,
+      "name" : "happy ending",
+      "parent_tag_id" : 6246,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4498" : {
+      "info_box" : false,
+      "name" : "heart-warming",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4522" : {
+      "info_box" : false,
+      "name" : "social commentary",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4558" : {
+      "info_box" : false,
+      "name" : "long time span",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -773,9 +940,41 @@
       "verified" : false,
       "weight" : 0
     },
+    "5790" : {
+      "info_box" : false,
+      "name" : "family without mother",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6005" : {
       "info_box" : false,
       "name" : "battle of wits",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6086" : {
+      "info_box" : false,
+      "name" : "the power of love",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
@@ -796,9 +995,49 @@
       "verified" : false,
       "weight" : 0
     },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6230" : {
       "info_box" : false,
       "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6877" : {
+      "info_box" : false,
+      "name" : "misleading beginning",
       "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
@@ -811,6 +1050,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7402" : {
+      "info_box" : false,
+      "name" : "corrupt nobility",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7885" : {
       "info_box" : false,

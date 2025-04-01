@@ -424,8 +424,8 @@
       "length" : 1,
       "number" : 1,
       "rating" : {
-        "rating" : 4.91,
-        "total" : 1
+        "rating" : 6.87,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -438,6 +438,10 @@
       "episode_id" : 258715,
       "length" : 1,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.8,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -470,11 +474,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.53,
-      "total" : 998
+      "total" : 1000
     },
     "TEMPORARY" : {
       "rating" : 5.79,
-      "total" : 1003
+      "total" : 1005
     }
   },
   "resources" : {
@@ -500,9 +504,38 @@
       "verified" : false,
       "weight" : 400
     },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -624,6 +657,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2864" : {
       "info_box" : true,
       "name" : "daily life",
@@ -648,10 +689,42 @@
       "verified" : false,
       "weight" : 100
     },
+    "2888" : {
+      "info_box" : false,
+      "name" : "coming of age",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3023" : {
       "info_box" : false,
       "name" : "funny expressions",
       "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3792" : {
+      "info_box" : false,
+      "name" : "iyashi-kei",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -663,6 +736,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "4223" : {
+      "info_box" : false,
+      "name" : "running gag",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4480" : {
+      "info_box" : false,
+      "name" : "happy ending",
+      "parent_tag_id" : 6246,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
     },
     "4498" : {
       "info_box" : false,
@@ -684,6 +781,14 @@
       "info_box" : false,
       "name" : "Gainax bounce",
       "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -710,6 +815,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6185" : {
       "info_box" : false,
       "name" : "season",
@@ -717,6 +830,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7146" : {
+      "info_box" : false,
+      "name" : "cute girls doing cute things",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "7872" : {
+      "info_box" : false,
+      "name" : "huge breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,

@@ -282,6 +282,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-03-07",
+      "description" : "Sakko and friends find themselves trapped in a hellish landscape where they start to feel unfamiliar emotions.\nSource: Crunchyroll",
       "episode_id" : 293249,
       "length" : 25,
       "number" : 9,
@@ -306,13 +307,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-03-14",
+      "description" : "As Sakko and friends learn more about their past, they ponder ways to prevent the destructive union of worlds.\nSource: Crunchyroll",
       "episode_id" : 293250,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 3.61,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UD35DX" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Inside a Totally Changed World"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kawarihateta Sekai no Naka de"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "変わり果てた世界の中で"
       } ],
       "type" : "REGULAR"
     }, {
@@ -337,16 +352,39 @@
         "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-01-10",
+      "episode_id" : 294027,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-01-10",
+      "episode_id" : 294028,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.76,
-      "total" : 13
+      "rating" : 2.28,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 4.17,
-      "total" : 14
+      "rating" : 4.1,
+      "total" : 15
     }
   },
   "related" : {
@@ -393,6 +431,13 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -538,6 +583,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "4479" : {
+      "info_box" : false,
+      "name" : "sense of foreboding",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5773" : {
+      "info_box" : false,
+      "name" : "secret organisation",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6070" : {
+      "info_box" : false,
+      "name" : "mystery",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6151" : {
       "info_box" : false,
       "name" : "technical aspects",
@@ -560,6 +629,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "7644" : {
+      "info_box" : false,
+      "name" : "gods world",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
@@ -567,6 +643,20 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7944" : {
+      "info_box" : false,
+      "name" : "sense of justice",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "8031" : {
+      "info_box" : false,
+      "name" : "cult",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     }
   },
   "titles" : [ {

@@ -165,12 +165,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.72,
-      "total" : 488
+      "rating" : 5.74,
+      "total" : 490
     },
     "TEMPORARY" : {
-      "rating" : 6.67,
-      "total" : 506
+      "rating" : 6.68,
+      "total" : 508
     }
   },
   "resources" : {
@@ -202,6 +202,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -418,6 +425,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6151" : {
       "info_box" : false,
       "name" : "technical aspects",
@@ -436,6 +451,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -912,7 +912,7 @@
       "length" : 25,
       "number" : 19,
       "rating" : {
-        "rating" : 6.23,
+        "rating" : 6.24,
         "total" : 13
       },
       "recap" : false,
@@ -1179,7 +1179,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.22,
-      "total" : 3324
+      "total" : 3328
     },
     "REVIEW" : {
       "rating" : 6.33,
@@ -1187,7 +1187,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.82,
-      "total" : 3346
+      "total" : 3350
     }
   },
   "related" : {
@@ -1298,6 +1298,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1552,6 +1559,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3797" : {
       "info_box" : false,
       "name" : "trapped in the body of a child",
@@ -1634,6 +1649,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

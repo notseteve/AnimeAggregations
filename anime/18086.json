@@ -587,7 +587,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 7.67,
+        "rating" : 7.66,
         "total" : 4
       },
       "recap" : false,
@@ -759,12 +759,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.44,
-      "total" : 635
+      "rating" : 8.4,
+      "total" : 645
     },
     "TEMPORARY" : {
-      "rating" : 7.93,
-      "total" : 644
+      "rating" : 7.91,
+      "total" : 654
     }
   },
   "related" : {
@@ -793,9 +793,23 @@
       "verified" : false,
       "weight" : 0
     },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -807,6 +821,68 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2793" : {
+      "info_box" : true,
+      "name" : "performance",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -815,9 +891,185 @@
       "verified" : false,
       "weight" : 0
     },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2852" : {
+      "info_box" : true,
+      "name" : "thriller",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2877" : {
+      "info_box" : false,
+      "name" : "revenge",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2883" : {
+      "info_box" : true,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2887" : {
+      "info_box" : true,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3170" : {
+      "info_box" : false,
+      "name" : "occupation and career",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3971" : {
+      "info_box" : false,
+      "name" : "entertainment industry",
+      "parent_tag_id" : 3170,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3977" : {
+      "info_box" : false,
+      "name" : "dialogue driven",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "4388" : {
+      "info_box" : false,
+      "name" : "deconstruction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5826" : {
+      "info_box" : false,
+      "name" : "rivalry",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

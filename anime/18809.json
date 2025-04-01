@@ -140,7 +140,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.2,
+        "rating" : 2.22,
         "total" : 5
       },
       "recap" : false,
@@ -164,7 +164,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.39,
+        "rating" : 4.47,
         "total" : 3
       },
       "recap" : false,
@@ -188,7 +188,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.53,
+        "rating" : 3.59,
         "total" : 2
       },
       "recap" : false,
@@ -212,7 +212,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.81,
+        "rating" : 2.91,
         "total" : 1
       },
       "recap" : false,
@@ -236,7 +236,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 2.81,
+        "rating" : 2.91,
         "total" : 1
       },
       "recap" : false,
@@ -260,7 +260,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.46,
+        "rating" : 6.61,
         "total" : 1
       },
       "recap" : false,
@@ -283,6 +283,10 @@
       "episode_id" : 292160,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 2.91,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GJWUQ7DV9" ]
@@ -303,6 +307,10 @@
       "episode_id" : 292161,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 2.91,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GN7UNK341" ]
@@ -323,10 +331,23 @@
       "episode_id" : 293538,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 1.28,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UG2PXE" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sentai Red to Kokoro no Kamen"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "The Red Ranger and the Mental Mask"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "戦隊レッドと心の仮面"
       } ],
       "type" : "REGULAR"
     }, {
@@ -338,6 +359,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 10"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sentai Red to Kurushimi no Kamen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "戦隊レッドと苦しみの仮面"
       } ],
       "type" : "REGULAR"
     }, {
@@ -384,16 +411,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.94,
-      "total" : 52
+      "rating" : 3.87,
+      "total" : 59
     },
     "TEMPORARY" : {
       "rating" : 5.58,
-      "total" : 52
+      "total" : 59
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "396515" ],
+    "ANISON" : [ "25793" ],
     "ANN" : [ "33194" ],
     "CRUNCHY_ROLL" : [ "G8DHV788M" ],
     "MAL" : [ "59514" ],

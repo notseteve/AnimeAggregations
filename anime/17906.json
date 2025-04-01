@@ -191,7 +191,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.61,
+        "rating" : 4.6,
         "total" : 9
       },
       "recap" : false,
@@ -222,7 +222,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.67,
+        "rating" : 4.66,
         "total" : 9
       },
       "recap" : false,
@@ -253,7 +253,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.19,
+        "rating" : 6.18,
         "total" : 9
       },
       "recap" : false,
@@ -284,7 +284,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.97,
+        "rating" : 6.96,
         "total" : 9
       },
       "recap" : false,
@@ -315,7 +315,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.82,
+        "rating" : 7.81,
         "total" : 10
       },
       "recap" : false,
@@ -346,7 +346,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.43,
+        "rating" : 7.42,
         "total" : 8
       },
       "recap" : false,
@@ -377,7 +377,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.7,
+        "rating" : 6.68,
         "total" : 8
       },
       "recap" : false,
@@ -408,7 +408,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.55,
+        "rating" : 5.53,
         "total" : 8
       },
       "recap" : false,
@@ -439,7 +439,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.71,
+        "rating" : 6.7,
         "total" : 8
       },
       "recap" : false,
@@ -470,7 +470,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 8.11,
+        "rating" : 8.1,
         "total" : 9
       },
       "recap" : false,
@@ -501,7 +501,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.91,
+        "rating" : 7.9,
         "total" : 8
       },
       "recap" : false,
@@ -658,12 +658,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.09,
-      "total" : 611
+      "rating" : 6.08,
+      "total" : 627
     },
     "TEMPORARY" : {
       "rating" : 6.92,
-      "total" : 617
+      "total" : 633
     }
   },
   "related" : {
@@ -737,6 +737,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -967,6 +974,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3314" : {
       "info_box" : false,
       "name" : "fate",
@@ -1113,6 +1128,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

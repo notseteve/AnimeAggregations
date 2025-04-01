@@ -1,5 +1,32 @@
 {
   "anime_id" : 19083,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 147164,
+      "name" : "Furudate Kurea",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147167,
+      "name" : "Higa Tsutsuji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147166,
+      "name" : "Hoshi Nana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147168,
+      "name" : "Kawai Mako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147163,
+      "name" : "Mokotarou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147165,
+      "name" : "Ogawa Shinon",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "1385" : [ {
       "name" : "P.A. Works",
@@ -20,12 +47,61 @@
       "name" : "Mitsuda Hajime",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "69188" : [ {
+      "name" : "Hiki Yoshihiro",
+      "type" : "SERIES_COMPOSITION"
+    } ],
     "78129" : [ {
       "name" : "Harumi Yuu",
       "type" : "DIRECTOR"
     } ]
   },
   "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-04-13",
+      "episode_id" : 294323,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-20",
+      "episode_id" : 294324,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-27",
+      "episode_id" : 294325,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-04",
+      "episode_id" : 294326,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2024-12-31",
       "episode_id" : 291107,
@@ -42,11 +118,12 @@
   "resources" : {
     "ALL_CINEMA" : [ "398786" ],
     "ANN" : [ "34250" ],
+    "SYOBOI" : [ "7413" ],
     "TWITTER" : [ "hibimeshi_anime" ],
     "WEBSITE" : [ "https://hibimeshi.com/" ],
     "WIKIPEDIA_EN" : [ "Food_for_the_Soul" ]
   },
-  "start_date" : "2025",
+  "start_date" : "2025-04-13",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -69,13 +146,13 @@
     "title" : "Hibi wa Sugiredo Meshi Umashi",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Food for the Soul",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "日々は過ぎれど飯うまし",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Food for the Soul",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://hibimeshi.com/"

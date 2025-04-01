@@ -239,7 +239,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.84,
+        "rating" : 3.85,
         "total" : 10
       },
       "recap" : false,
@@ -464,7 +464,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 1.55,
+        "rating" : 1.56,
         "total" : 5
       },
       "recap" : true,
@@ -486,7 +486,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.92,
         "total" : 1
       },
       "recap" : false,
@@ -501,7 +501,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.92,
         "total" : 1
       },
       "recap" : false,
@@ -516,7 +516,7 @@
       "length" : 2,
       "number" : 3,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.92,
         "total" : 1
       },
       "recap" : false,
@@ -531,7 +531,7 @@
       "length" : 2,
       "number" : 4,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.92,
         "total" : 1
       },
       "recap" : false,
@@ -546,7 +546,7 @@
       "length" : 2,
       "number" : 5,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.92,
         "total" : 1
       },
       "recap" : false,
@@ -632,15 +632,15 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.31,
-      "total" : 3214
+      "total" : 3218
     },
     "REVIEW" : {
       "rating" : 4.08,
       "total" : 2
     },
     "TEMPORARY" : {
-      "rating" : 6.01,
-      "total" : 3239
+      "rating" : 6.02,
+      "total" : 3243
     }
   },
   "related" : {
@@ -759,6 +759,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -927,6 +934,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3795" : {
       "info_box" : false,
       "name" : "remastered version available",
@@ -969,6 +984,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

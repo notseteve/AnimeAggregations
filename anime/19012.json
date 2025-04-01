@@ -35,6 +35,16 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.0,
+      "total" : 1
+    },
+    "TEMPORARY" : {
+      "rating" : 8.0,
+      "total" : 2
+    }
+  },
   "resources" : {
     "MAL" : [ "60390" ],
     "TMDB" : [ "tv/278085" ],
@@ -45,6 +55,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -70,9 +87,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -81,6 +113,14 @@
       "info_box" : true,
       "name" : "18 restricted",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2704" : {
+      "info_box" : false,
+      "name" : "cum play",
+      "parent_tag_id" : 2848,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -96,6 +136,22 @@
     "2707" : {
       "info_box" : false,
       "name" : "internal shots",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2710" : {
+      "info_box" : false,
+      "name" : "squirting",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2713" : {
+      "info_box" : false,
+      "name" : "oral",
       "parent_tag_id" : 2848,
       "spoiler" : false,
       "verified" : false,
@@ -141,9 +197,104 @@
       "verified" : false,
       "weight" : 0
     },
+    "2918" : {
+      "info_box" : false,
+      "name" : "cunnilingus",
+      "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2921" : {
+      "info_box" : false,
+      "name" : "throat fucking",
+      "parent_tag_id" : 2713,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5980" : {
+      "info_box" : false,
+      "name" : "live-action imagery",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6218" : {
+      "info_box" : false,
+      "name" : "gokkun",
+      "parent_tag_id" : 2704,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6268" : {
+      "info_box" : false,
+      "name" : "fellatio",
+      "parent_tag_id" : 2713,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -163,6 +314,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "8038" : {
+      "info_box" : false,
+      "name" : "nipple play",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     }
   },
   "titles" : [ {
@@ -173,6 +332,10 @@
     "language" : "JAPANESE",
     "title" : "知らないこと知りたいの? THE ANIMATION",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "모르는 것을 알고 싶으세요? THE ANIMATION",
+    "type" : "SYNONYM"
   } ],
   "type" : "OVA",
   "url" : "https://www.pinkpineapple.co.jp/detail.php?did=2537"

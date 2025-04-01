@@ -73,6 +73,7 @@
   },
   "resources" : {
     "MAL" : [ "59118" ],
+    "TMDB" : [ "tv/259212" ],
     "WEBSITE" : [ "https://www.a1c.jp/~majin/product/riginetta_01.html", "https://www.a1c.jp/~majin/product/riginetta_02.html" ]
   },
   "start_date" : "2024-08-30",
@@ -169,9 +170,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6494" : {
+      "info_box" : true,
+      "name" : "half-length episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

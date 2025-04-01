@@ -198,7 +198,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.92,
+        "rating" : 6.91,
         "total" : 8
       },
       "recap" : false,
@@ -372,7 +372,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 9.02,
+        "rating" : 9.01,
         "total" : 4
       },
       "recap" : false,
@@ -400,7 +400,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.09,
+        "rating" : 6.1,
         "total" : 6
       },
       "recap" : false,
@@ -723,8 +723,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.09,
-      "total" : 1000
+      "rating" : 3.07,
+      "total" : 1005
     },
     "REVIEW" : {
       "rating" : 4.44,
@@ -732,7 +732,7 @@
     },
     "TEMPORARY" : {
       "rating" : 5.74,
-      "total" : 1009
+      "total" : 1014
     }
   },
   "related" : {
@@ -1057,6 +1057,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3575" : {
       "info_box" : false,
       "name" : "damsel in distress",
@@ -1179,6 +1187,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

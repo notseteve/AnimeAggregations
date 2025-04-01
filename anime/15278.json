@@ -140,7 +140,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.04,
+        "rating" : 7.03,
         "total" : 1
       },
       "recap" : false,
@@ -165,7 +165,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.04,
+        "rating" : 7.03,
         "total" : 1
       },
       "recap" : false,
@@ -190,7 +190,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.04,
+        "rating" : 7.03,
         "total" : 1
       },
       "recap" : false,
@@ -215,7 +215,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.04,
+        "rating" : 7.03,
         "total" : 1
       },
       "recap" : false,
@@ -240,7 +240,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 2.83,
+        "rating" : 2.82,
         "total" : 1
       },
       "recap" : false,
@@ -265,7 +265,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.04,
+        "rating" : 7.03,
         "total" : 1
       },
       "recap" : false,
@@ -290,7 +290,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.04,
+        "rating" : 7.03,
         "total" : 1
       },
       "recap" : false,
@@ -315,7 +315,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.04,
+        "rating" : 7.03,
         "total" : 1
       },
       "recap" : false,
@@ -340,7 +340,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.04,
+        "rating" : 7.03,
         "total" : 1
       },
       "recap" : false,
@@ -365,7 +365,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 7.04,
+        "rating" : 7.03,
         "total" : 1
       },
       "recap" : false,
@@ -433,7 +433,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.92,
         "total" : 1
       },
       "recap" : false,
@@ -448,7 +448,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.92,
         "total" : 1
       },
       "recap" : false,
@@ -627,11 +627,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.45,
-      "total" : 324
+      "total" : 326
     },
     "TEMPORARY" : {
       "rating" : 6.35,
-      "total" : 326
+      "total" : 328
     }
   },
   "resources" : {
@@ -699,6 +699,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "1864" : {
+      "info_box" : false,
+      "name" : "extrasensory perception",
+      "parent_tag_id" : 2623,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1894" : {
       "info_box" : false,
       "name" : "shota",
@@ -714,6 +722,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2605" : {
       "info_box" : false,
@@ -780,6 +795,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2624" : {
       "info_box" : false,
       "name" : "present",
@@ -799,6 +822,14 @@
     "2651" : {
       "info_box" : false,
       "name" : "absurdist humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2652" : {
+      "info_box" : false,
+      "name" : "super deformed",
       "parent_tag_id" : 2853,
       "spoiler" : false,
       "verified" : false,
@@ -827,6 +858,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2792" : {
+      "info_box" : false,
+      "name" : "reverse harem",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2793" : {
       "info_box" : false,
@@ -1027,6 +1090,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4606" : {
+      "info_box" : false,
+      "name" : "slide show animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4729" : {
       "info_box" : false,
       "name" : "colour coded",
@@ -1083,9 +1154,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "5980" : {
+      "info_box" : false,
+      "name" : "live-action imagery",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6021" : {
       "info_box" : false,
       "name" : "gender bender",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6070" : {
+      "info_box" : false,
+      "name" : "mystery",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,

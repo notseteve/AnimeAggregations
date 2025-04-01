@@ -74,15 +74,64 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "Note: The first two episodes received an early screening at a special event on 9 March 2025 at Shinjuku Piccadilly in Tokyo. The regular TV broadcast started in April 2025.",
+  "description" : "Note: The first two episodes received an early screening at a special event on 9 March 2025 at Shinjuku Piccadilly in Tokyo. The regular TV broadcast started on 6 April 2025.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-04-06",
+      "episode_id" : 294263,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-13",
+      "episode_id" : 294264,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-20",
+      "episode_id" : 294265,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-27",
+      "episode_id" : 294266,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "395870" ],
     "ANN" : [ "32861" ],
     "MAL" : [ "59199" ],
+    "SYOBOI" : [ "7411" ],
     "TWITTER" : [ "clasta_anime" ],
     "WEBSITE" : [ "https://classicstars-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Classic_Stars" ]
   },
-  "start_date" : "2025-04",
+  "start_date" : "2025-04-06",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -104,6 +153,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Classic Stars",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Classic Stars",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "クラシック★スターズ",

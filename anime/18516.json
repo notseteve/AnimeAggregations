@@ -38,6 +38,10 @@
       "name" : "Kamakiri",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 147155,
+      "name" : "Karasawa",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 145838,
       "name" : "Kiyoshi",
       "type" : "CHARACTER"
@@ -235,8 +239,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.38,
-        "total" : 3
+        "rating" : 2.91,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -259,7 +263,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.03,
+        "rating" : 3.05,
         "total" : 2
       },
       "recap" : false,
@@ -283,7 +287,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.03,
+        "rating" : 3.05,
         "total" : 2
       },
       "recap" : false,
@@ -307,7 +311,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.73,
+        "rating" : 9.82,
         "total" : 1
       },
       "recap" : false,
@@ -331,7 +335,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.46,
+        "rating" : 6.58,
         "total" : 1
       },
       "recap" : false,
@@ -355,7 +359,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 2.81,
+        "rating" : 2.85,
         "total" : 1
       },
       "recap" : false,
@@ -418,10 +422,23 @@
       "episode_id" : 293224,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 8.55,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUEM0DQ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Goodbye, Bumbling Self"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sayounara Fukiyou Datta Watashi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "さようなら不器用だった私"
       } ],
       "type" : "REGULAR"
     }, {
@@ -430,9 +447,18 @@
       "length" : 25,
       "number" : 10,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU8X1G7" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dare mo Shiranai-kun"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "The Side of You No One Knows"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "誰も知らない君"
       } ],
       "type" : "REGULAR"
     }, {
@@ -441,9 +467,18 @@
       "length" : 25,
       "number" : 11,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UVE8JN" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Feelings Burst Free"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Omoi, Hajikete"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "想い, 弾けて"
       } ],
       "type" : "REGULAR"
     }, {
@@ -481,6 +516,10 @@
       "episode_id" : 291777,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.92,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -492,6 +531,10 @@
       "episode_id" : 291778,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.92,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -502,12 +545,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.71,
-      "total" : 46
+      "rating" : 4.1,
+      "total" : 50
     },
     "TEMPORARY" : {
-      "rating" : 5.35,
-      "total" : 46
+      "rating" : 5.61,
+      "total" : 50
     }
   },
   "resources" : {
@@ -536,6 +579,21 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3741" : {
+      "info_box" : false,
+      "name" : "bullying",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -586,6 +644,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Honey Lemon Soda",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "THAI",
+    "title" : "ฮันนี่ เลมอน โซดา",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

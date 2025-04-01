@@ -679,12 +679,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.85,
-      "total" : 51
+      "rating" : 4.87,
+      "total" : 52
     },
     "TEMPORARY" : {
-      "rating" : 6.2,
-      "total" : 54
+      "rating" : 6.21,
+      "total" : 55
     }
   },
   "resources" : {
@@ -698,9 +698,30 @@
   },
   "start_date" : "1995-04-07",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -743,9 +764,97 @@
       "verified" : false,
       "weight" : 600
     },
+    "2639" : {
+      "info_box" : false,
+      "name" : "space travel",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2651" : {
+      "info_box" : false,
+      "name" : "absurdist humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2655" : {
+      "info_box" : false,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2791" : {
+      "info_box" : false,
+      "name" : "stereotypes",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2826" : {
+      "info_box" : false,
+      "name" : "pantsu",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2841" : {
       "info_box" : true,
       "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2850" : {
+      "info_box" : true,
+      "name" : "adventure",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
@@ -759,10 +868,130 @@
       "verified" : false,
       "weight" : 400
     },
+    "2854" : {
+      "info_box" : false,
+      "name" : "henshin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2857" : {
+      "info_box" : true,
+      "name" : "anthropomorphism",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3055" : {
+      "info_box" : false,
+      "name" : "fairy tale",
+      "parent_tag_id" : 3876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3684" : {
+      "info_box" : false,
+      "name" : "literature",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "3876" : {
+      "info_box" : false,
+      "name" : "folklore",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4081" : {
+      "info_box" : false,
+      "name" : "space battles",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4251" : {
+      "info_box" : false,
+      "name" : "ensemble cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4259" : {
+      "info_box" : false,
+      "name" : "animal world",
+      "parent_tag_id" : 2857,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4409" : {
       "info_box" : false,
       "name" : "Chinese zodiac",
       "parent_tag_id" : 6234,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5384" : {
+      "info_box" : false,
+      "name" : "put right what once went wrong",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5859" : {
+      "info_box" : false,
+      "name" : "monster of the week",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -774,9 +1003,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6234" : {
       "info_box" : false,
       "name" : "motifs",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,

@@ -208,11 +208,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.77,
-      "total" : 275
+      "total" : 277
     },
     "TEMPORARY" : {
       "rating" : 6.76,
-      "total" : 275
+      "total" : 277
     }
   },
   "related" : {
@@ -316,6 +316,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2618" : {
+      "info_box" : false,
+      "name" : "collateral damage",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2624" : {
       "info_box" : false,
       "name" : "present",
@@ -364,10 +372,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2846" : {
       "info_box" : true,
       "name" : "science fiction",
       "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2863" : {
+      "info_box" : true,
+      "name" : "proxy battles",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 600

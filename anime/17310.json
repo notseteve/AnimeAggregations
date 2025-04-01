@@ -2,6 +2,10 @@
   "anime_id" : 17310,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 7976,
+      "name" : "Jigen Daisuke",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 134306,
       "name" : "Mohikan no Yougisha",
       "type" : "CHARACTER"
@@ -107,7 +111,7 @@
       "length" : 95,
       "number" : 1,
       "rating" : {
-        "rating" : 6.86,
+        "rating" : 6.85,
         "total" : 1
       },
       "recap" : false,
@@ -116,20 +120,33 @@
         "title" : "Complete Movie"
       } ],
       "type" : "REGULAR"
+    } ],
+    "PROMOTION" : [ {
+      "air_date" : "2023-02-21",
+      "episode_id" : 294121,
+      "length" : 1,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Trailer (33s)"
+      } ],
+      "type" : "PROMOTION"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.59,
-      "total" : 18
+      "rating" : 7.08,
+      "total" : 24
     },
     "TEMPORARY" : {
-      "rating" : 6.88,
-      "total" : 18
+      "rating" : 7.12,
+      "total" : 24
     }
   },
   "related" : {
-    "OTHER" : [ 942, 14582 ]
+    "OTHER" : [ 942, 14582 ],
+    "PREQUEL" : [ 13943 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "386037" ],
@@ -140,7 +157,8 @@
     "TWITTER" : [ "cityhuntermovie" ],
     "WEBSITE" : [ "https://cityhunter-movie.com" ],
     "WIKIPEDIA_EN" : [ "City_Hunter" ],
-    "WIKIPEDIA_JP" : [ "シティーハンター_(アニメ)" ]
+    "WIKIPEDIA_JP" : [ "シティーハンター_(アニメ)" ],
+    "YOUTUBE" : [ "watch?v=7O1VR5cbQ_k" ]
   },
   "start_date" : "2023-09-08",
   "tags" : {

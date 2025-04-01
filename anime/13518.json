@@ -117,7 +117,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.92,
         "total" : 1
       },
       "recap" : false,
@@ -668,7 +668,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.92,
         "total" : 1
       },
       "recap" : false,
@@ -683,7 +683,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.92,
         "total" : 1
       },
       "recap" : false,
@@ -699,7 +699,7 @@
       "length" : 1,
       "number" : 1,
       "rating" : {
-        "rating" : 1.94,
+        "rating" : 1.93,
         "total" : 1
       },
       "recap" : false,
@@ -715,12 +715,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.75,
-      "total" : 313
+      "rating" : 6.76,
+      "total" : 314
     },
     "TEMPORARY" : {
       "rating" : 7.11,
-      "total" : 314
+      "total" : 315
     }
   },
   "related" : {
@@ -784,6 +784,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2612" : {
       "info_box" : false,
       "name" : "time",
@@ -815,6 +822,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "3863" : {
+      "info_box" : false,
+      "name" : "competition",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5355" : {
+      "info_box" : false,
+      "name" : "tournament",
+      "parent_tag_id" : 3863,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,
