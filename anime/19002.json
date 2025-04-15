@@ -1,6 +1,23 @@
 {
   "anime_id" : 19002,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 148021,
+      "name" : "Flora Jane",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148022,
+      "name" : "Mrs. Blewett",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148020,
+      "name" : "Mrs. Spencer",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148023,
+      "name" : "Rachel Lynde",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 146136,
       "name" : "Anne Shirley",
@@ -54,34 +71,53 @@
       "type" : "DIRECTOR"
     } ]
   },
-  "description" : "On beautiful Prince Edward Island in Canada, the orphan http://anidb.net/ch146136 [Anne Shirley] is mistakenly sent to Green Gables, home of http://anidb.net/ch146139 [Matthew] and http://anidb.net/ch146140 [Marilla Cuthbert], where she is adopted by them despite the misunderstanding. They initially don`t know what to do, but as they are won over by Anne`s imagination, their family bond deepens. As she meets her bosom friend http://anidb.net/ch146138 [Diana Barry] and her constant rival http://anidb.net/ch146137 [Gilbert Blythe], and comes into contact with her classmates and teachers, Anne grows from a girl into a young woman.\nSource: Official Website",
+  "description" : "On beautiful Prince Edward Island in Canada, the orphan http://anidb.net/ch146136 [Anne Shirley] is mistakenly sent to Green Gables, home of http://anidb.net/ch146139 [Matthew] and http://anidb.net/ch146140 [Marilla Cuthbert], where she is adopted by them despite the misunderstanding. They initially don`t know what to do, but as they are won over by Anne`s imagination, their family bond deepens. As she meets her bosom friend http://anidb.net/ch146138 [Diana Barry] and her constant rival http://anidb.net/ch146137 [Gilbert Blythe], and comes into contact with her classmates and teachers, Anne grows from a girl into a young woman.\nSource: Official Website\nNote: The first episode received an early screening at a special event on 9 March 2025 at Chou Taiken NHK Fest 2025 in Tokyo. The regular TV broadcast started on 5 April 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-04-05",
       "episode_id" : 294247,
-      "length" : 20,
+      "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.46,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUM0Q9E" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "It`s Such an Interesting World"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sekaitte, Totemo Omoshiroi Tokoro ne"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "世界って, とてもおもしろいところね"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-12",
       "episode_id" : 294248,
-      "length" : 20,
+      "length" : 25,
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Atashi, Kirei na Mono ga Suki"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "I Love Pretty Things"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あたし, きれいなものが好き"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-19",
       "episode_id" : 294249,
-      "length" : 20,
+      "length" : 25,
       "number" : 3,
       "recap" : false,
       "titles" : [ {
@@ -92,7 +128,7 @@
     }, {
       "air_date" : "2025-04-26",
       "episode_id" : 294250,
-      "length" : 20,
+      "length" : 25,
       "number" : 4,
       "recap" : false,
       "titles" : [ {
@@ -102,12 +138,24 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 8.22,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 6.97,
+      "total" : 16
+    }
+  },
   "related" : {
     "ALTERNATIVE_SETTING" : [ 1061 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "397986" ],
+    "ANISON" : [ "25886" ],
     "ANN" : [ "34066" ],
+    "CRUNCHY_ROLL" : [ "G8DHV78XM" ],
     "MAL" : [ "60334" ],
     "SYOBOI" : [ "7356" ],
     "TWITTER" : [ "anime_ann_e" ],
@@ -167,6 +215,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "アン・シャーリー",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "安妮·雪莉",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "安妮・雪莉",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

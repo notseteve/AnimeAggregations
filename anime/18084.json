@@ -1,5 +1,16 @@
 {
   "anime_id" : 18084,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 147733,
+      "name" : "Mayu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147732,
+      "name" : "San",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "1050" : [ {
       "name" : "NHK",
@@ -17,6 +28,10 @@
       "name" : "Ushio Kensuke",
       "type" : "MUSIC"
     } ],
+    "49670" : [ {
+      "name" : "Mebachi",
+      "type" : "CHARACTER_DESIGN"
+    } ],
     "62801" : [ {
       "name" : "Ina Yukimitsu",
       "type" : "DIRECTOR"
@@ -26,13 +41,39 @@
       "type" : "ANIMATION_WORK"
     } ]
   },
+  "end_date" : "2025-03-30",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-03-30",
+      "episode_id" : 294511,
+      "length" : 60,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "TV Special"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.87,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 5.75,
+      "total" : 8
+    }
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "399355" ],
     "ANN" : [ "28792" ],
     "MAL" : [ "55779" ],
     "WEBSITE" : [ "https://www.nhk.jp/g/blog/4xp6rzqv73v/" ],
     "WIKIPEDIA_EN" : [ "Cocoon_(manga)" ]
   },
-  "start_date" : "2025-03",
+  "start_date" : "2025-03-30",
   "tags" : {
     "2609" : {
       "info_box" : false,
@@ -74,10 +115,18 @@
     "title" : "cocoon ~ある夏の少女たちより~",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "cocoon～来自某个夏天的少女们～",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Cocoon: One Summer of Girlhood",
+    "type" : "SYNONYM"
+  }, {
     "language" : "JAPANESE",
     "title" : "コクーン",
     "type" : "SYNONYM"
   } ],
-  "type" : "SERIES",
+  "type" : "SPECIAL",
   "url" : "https://www.nhk.jp/g/blog/4xp6rzqv73v/"
 }

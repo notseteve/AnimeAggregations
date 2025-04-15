@@ -19,16 +19,32 @@
       "name" : "Chuuzenji Chizuko",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 146852,
-      "name" : "Enokikizu Souichirou",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 145958,
       "name" : "Enokizu Reijirou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146852,
+      "name" : "Enokizu Souichirou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 145957,
       "name" : "Kiba Shuutarou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147916,
+      "name" : "Kouda Takeshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147919,
+      "name" : "Minoda Shizue",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147917,
+      "name" : "Ogawa Ryouko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147920,
+      "name" : "Renjou Hanayo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145959,
@@ -36,6 +52,10 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 146853,
+      "name" : "Yukie",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147918,
       "name" : "Zakuro",
       "type" : "CHARACTER"
     } ]
@@ -82,13 +102,62 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-04-07",
+      "episode_id" : 294636,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-14",
+      "episode_id" : 294637,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-21",
+      "episode_id" : 294638,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-28",
+      "episode_id" : 294639,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "related" : {
     "OTHER" : [ 6047 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "397252" ],
+    "ANISON" : [ "25906" ],
     "ANN" : [ "33635" ],
     "MAL" : [ "60009" ],
+    "SYOBOI" : [ "7383" ],
     "TWITTER" : [ "chuzenji_anime" ],
     "WEBSITE" : [ "https://chuzenji-anime.jp/" ],
     "WIKIPEDIA_EN" : [ "Chūzenji-sensei_Mononoke_Kōgiroku" ],
@@ -136,8 +205,20 @@
     "title" : "中禅寺先生物怪講義録 先生が謎を解いてしまうから.",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "中禅寺老师妖怪讲义录 解谜就交给老师。",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "中禪寺老師妖怪講義錄 解謎就交給老師。",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "中禅寺老师的灵怪讲义实录 老师会把谜题全都解开的。",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

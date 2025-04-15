@@ -124,7 +124,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.39,
+        "rating" : 6.4,
         "total" : 10
       },
       "recap" : false,
@@ -154,7 +154,7 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 9.09,
+        "rating" : 9.1,
         "total" : 2
       },
       "recap" : false,
@@ -261,16 +261,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.4,
-      "total" : 879
+      "rating" : 4.39,
+      "total" : 881
     },
     "REVIEW" : {
       "rating" : 7.33,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.15,
-      "total" : 883
+      "rating" : 6.14,
+      "total" : 885
     }
   },
   "related" : {
@@ -356,6 +356,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -700,6 +707,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3436" : {
       "info_box" : false,
       "name" : "human experimentation",
@@ -823,6 +838,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

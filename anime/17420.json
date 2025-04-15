@@ -58,6 +58,10 @@
       "name" : "Lisa Isaribe",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 106639,
+      "name" : "Mamoru-kun",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 106634,
       "name" : "Mari Kusakabe",
       "type" : "CHARACTER"
@@ -160,6 +164,14 @@
       "name" : "Dragon",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 147613,
+      "name" : "Fairy",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147614,
+      "name" : "Fracture",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 147001,
       "name" : "Gold",
       "type" : "CHARACTER"
@@ -194,6 +206,10 @@
     }, {
       "character_id" : 106657,
       "name" : "Shou Kusakabe",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147612,
+      "name" : "Stream",
       "type" : "CHARACTER"
     }, {
       "character_id" : 102516,
@@ -258,10 +274,29 @@
       "episode_id" : 294251,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.9,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UD31W4" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Conviction"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Futaiten"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Indomitable Resolve"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Überzeugung"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "不退転"
       } ],
       "type" : "REGULAR"
     }, {
@@ -271,8 +306,17 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Gefangener"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Prisoner"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Torawarenomi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "囚われの身"
       } ],
       "type" : "REGULAR"
     }, {
@@ -299,13 +343,25 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.54,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 6.25,
+      "total" : 8
+    }
+  },
   "related" : {
     "PREQUEL" : [ 15335 ],
     "SEQUEL" : [ 18742 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "396005" ],
+    "ANISON" : [ "22099" ],
     "ANN" : [ "25700" ],
+    "CRUNCHY_ROLL" : [ "GYQWNXPZY" ],
     "MAL" : [ "51818" ],
     "SYOBOI" : [ "7395" ],
     "TWITTER" : [ "FireForce_PR" ],
@@ -348,6 +404,14 @@
     "title" : "炎炎ノ消防隊 参ノ章",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "炎炎消防队͏ 叁之章",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "炎炎消防隊 參之章",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "enen s3",
     "type" : "SHORT"
@@ -362,6 +426,10 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "En`en no Shouboutai Season 3 Part 1",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Enen no Shouboutai S3",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

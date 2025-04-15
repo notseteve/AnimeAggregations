@@ -56,6 +56,7 @@
       "type" : "DIRECTOR"
     } ]
   },
+  "description" : "Note: The first episode received an early screening at a special event on 4 April 2025 at Animate Ikebukuro in Tokyo and on 6 April 2025 at Animate Osaka Nipponbashi and Animate Nagoya. The regular TV broadcast started on 13 April 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-04-13",
@@ -109,8 +110,14 @@
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Anime-ka Kaikin CM"
+      }, {
         "language" : "ENGLISH",
         "title" : "PV 1 (0:15)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アニメ化解禁CM"
       } ],
       "type" : "PROMOTION"
     } ]
@@ -118,10 +125,12 @@
   "resources" : {
     "ALL_CINEMA" : [ "398786" ],
     "ANN" : [ "34250" ],
+    "MAL" : [ "60658" ],
     "SYOBOI" : [ "7413" ],
     "TWITTER" : [ "hibimeshi_anime" ],
     "WEBSITE" : [ "https://hibimeshi.com/" ],
-    "WIKIPEDIA_EN" : [ "Food_for_the_Soul" ]
+    "WIKIPEDIA_EN" : [ "Food_for_the_Soul" ],
+    "YOUTUBE" : [ "watch?v=oOkGcmGstlU" ]
   },
   "start_date" : "2025-04-13",
   "tags" : {
@@ -150,8 +159,16 @@
     "title" : "Food for the Soul",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "岁月流逝饭菜依旧美味",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "日々は過ぎれど飯うまし",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "歲月流逝飯菜依舊美味",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

@@ -5,12 +5,48 @@
       "character_id" : 146153,
       "name" : "Yachiyo",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 147693,
+      "name" : "Bunbuku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147691,
+      "name" : "Door Man Robot",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147692,
+      "name" : "Fuguri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147697,
+      "name" : "Kankyou Check Robot",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147695,
+      "name" : "Mami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147696,
+      "name" : "Mujina",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147690,
+      "name" : "Owner",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147694,
+      "name" : "Ponko",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
     "12951" : [ {
       "name" : "Yokoyama Natsuki",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Yokoyama Natsuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "17055" : [ {
       "name" : "Shundou Kana",
@@ -29,21 +65,275 @@
       "type" : "ANIMATION_WORK"
     } ]
   },
-  "description" : "The earth where mankind has disappeared and civilization has collapsed.",
+  "description" : "Following the collapse of civilization, one storied hotel stands among the ruins of Tokyo`s Ginza district. Overrun by nature, this lone hotel continues to defy humanity`s collapse. Current guests: zero. Check-ins scheduled today: zero. Yesterday`s website traffic: zero. Enter with caution in this story of survival and mystery in a world where the memory of humanity begins to fade.\nSource: Crunchyroll\nNote: The first three episodes received an early screening at a special event on 29 March 2025 at United Cinemas Toyosu in Tokyo. The regular TV broadcast started on 9 April 2025.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-04-09",
+      "episode_id" : 294303,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 5.92,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUN14J9" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A True Hotel Is Always Storied"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hotel ni Monogatari o"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ホテルに物語を"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-16",
+      "episode_id" : 294304,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-23",
+      "episode_id" : 294305,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-30",
+      "episode_id" : 294306,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.61,
+      "total" : 11
+    },
+    "TEMPORARY" : {
+      "rating" : 5.36,
+      "total" : 11
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "396645" ],
     "ANN" : [ "33406" ],
+    "CRUNCHY_ROLL" : [ "GXJHM3G58" ],
     "MAL" : [ "59675" ],
     "SYOBOI" : [ "7382" ],
     "TWITTER" : [ "Apo_Hotel" ],
     "WEBSITE" : [ "https://apocalypse-hotel.jp/" ],
     "WIKIPEDIA_EN" : [ "Apocalypse_Hotel" ]
   },
+  "similar" : {
+    "424" : {
+      "rating" : 10.0,
+      "total" : 1
+    },
+    "12085" : {
+      "rating" : 10.0,
+      "total" : 4
+    }
+  },
   "start_date" : "2025-04-09",
   "tags" : {
+    "1278" : {
+      "info_box" : true,
+      "name" : "android",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2274" : {
+      "info_box" : false,
+      "name" : "robot",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2626" : {
+      "info_box" : false,
+      "name" : "future",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2638" : {
+      "info_box" : false,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2676" : {
+      "info_box" : false,
+      "name" : "Tokyo",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2857" : {
+      "info_box" : false,
+      "name" : "anthropomorphism",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2923" : {
+      "info_box" : true,
+      "name" : "post-apocalyptic",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3394" : {
+      "info_box" : false,
+      "name" : "environmentalism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4612" : {
+      "info_box" : false,
+      "name" : "Do Androids Dream of Electric Sheep?",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4626" : {
+      "info_box" : false,
+      "name" : "nature strikes back",
+      "parent_tag_id" : 3394,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6010" : {
+      "info_box" : false,
+      "name" : "human-replacement robots",
+      "parent_tag_id" : 1278,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -62,8 +352,16 @@
     "title" : "Apocalypse Hotel",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Apocalypse Hotel",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "アポカリプスホテル",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "启示录酒店",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

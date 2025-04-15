@@ -2,16 +2,16 @@
   "anime_id" : 18735,
   "characters" : {
     "APPEARANCE" : [ {
-      "character_id" : 146001,
-      "name" : "Abel Franken",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 25813,
       "name" : "Amaimon",
       "type" : "CHARACTER"
     }, {
       "character_id" : 146747,
       "name" : "Armumahel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 35118,
+      "name" : "Arthur Auguste Angel",
       "type" : "CHARACTER"
     }, {
       "character_id" : 146291,
@@ -82,8 +82,8 @@
       "name" : "Ilya",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 146281,
-      "name" : "Jeremiah Uzai",
+      "character_id" : 25820,
+      "name" : "Kamiki Izumo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 38532,
@@ -130,12 +130,20 @@
       "name" : "Misumi Tadashi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 25816,
+      "name" : "Miwa Konekomaru",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139071,
       "name" : "Miwa Nekosuke",
       "type" : "CHARACTER"
     }, {
       "character_id" : 146745,
       "name" : "Miwa Yoshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 25819,
+      "name" : "Moriyama Shiemi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 35203,
@@ -194,6 +202,10 @@
       "name" : "Shima Mamushi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 25818,
+      "name" : "Shima Renzou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 139069,
       "name" : "Shima Renzou",
       "type" : "CHARACTER"
@@ -204,6 +216,14 @@
     }, {
       "character_id" : 88972,
       "name" : "Shima Yaozou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145370,
+      "name" : "Shirou (Shounen)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 25817,
+      "name" : "Suguro Ryuuji",
       "type" : "CHARACTER"
     }, {
       "character_id" : 38526,
@@ -272,8 +292,8 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
-      "character_id" : 35118,
-      "name" : "Arthur Auguste Angel",
+      "character_id" : 146001,
+      "name" : "Abel Franken",
       "type" : "CHARACTER"
     }, {
       "character_id" : 25821,
@@ -284,8 +304,8 @@
       "name" : "Jenny Kal",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 25820,
-      "name" : "Kamiki Izumo",
+      "character_id" : 146281,
+      "name" : "Jeremiah Uzai",
       "type" : "CHARACTER"
     }, {
       "character_id" : 136704,
@@ -302,14 +322,6 @@
     }, {
       "character_id" : 25815,
       "name" : "Mephisto Pheles",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 25816,
-      "name" : "Miwa Konekomaru",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 25819,
-      "name" : "Moriyama Shiemi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145816,
@@ -332,20 +344,8 @@
       "name" : "Shemihaza",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 25818,
-      "name" : "Shima Renzou",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 145370,
-      "name" : "Shirou (Shounen)",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 25817,
-      "name" : "Suguro Ryuuji",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 37578,
-      "name" : "Yuri Frederik Egin",
+      "name" : "Yuri Egin",
       "type" : "CHARACTER"
     } ]
   },
@@ -392,7 +392,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 9.39,
+        "rating" : 9.41,
         "total" : 1
       },
       "recap" : false,
@@ -423,7 +423,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.35,
+        "rating" : 3.34,
         "total" : 1
       },
       "recap" : false,
@@ -454,7 +454,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.92,
+        "rating" : 7.93,
         "total" : 1
       },
       "recap" : false,
@@ -485,7 +485,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.04,
+        "rating" : 6.05,
         "total" : 1
       },
       "recap" : false,
@@ -513,7 +513,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.16,
+        "rating" : 4.15,
         "total" : 1
       },
       "recap" : false,
@@ -541,7 +541,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.16,
+        "rating" : 4.15,
         "total" : 1
       },
       "recap" : false,
@@ -696,13 +696,20 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-03-23",
+      "description" : "Remembering Yuri`s words, Shiro relies on Misumi, Nagatomo and the others as he begins raising Rin and Yukio at the monastery. To Yukio, frightened by demons, he guides on the path to becoming an exorcist. To Rin, unable to control his strength, he teaches how to cook and use his strength for kindness. Eventually, the twins become junior high school students, but Shiro, who Satan was constantly targeting, begins to hear Satan`s voice more and more each day. And then, that fateful day arrives...\nSource: Crunchyroll",
       "episode_id" : 292637,
       "length" : 25,
       "number" : 12,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNK0JN" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Arigatou"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Merci"
       }, {
         "language" : "ENGLISH",
         "title" : "Thank You"
@@ -715,12 +722,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.39,
-      "total" : 28
+      "rating" : 7.05,
+      "total" : 89
     },
     "TEMPORARY" : {
-      "rating" : 6.62,
-      "total" : 28
+      "rating" : 7.22,
+      "total" : 90
     }
   },
   "related" : {
@@ -883,6 +890,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "青の祓魔師 終夜篇",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "青之驅魔師 終夜篇",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "青之驱魔师 终夜篇",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

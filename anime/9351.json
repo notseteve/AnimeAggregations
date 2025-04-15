@@ -177,7 +177,7 @@
       "length" : 30,
       "number" : 3,
       "rating" : {
-        "rating" : 2.95,
+        "rating" : 2.94,
         "total" : 4
       },
       "recap" : false,
@@ -204,7 +204,7 @@
       "length" : 30,
       "number" : 4,
       "rating" : {
-        "rating" : 3.99,
+        "rating" : 3.98,
         "total" : 4
       },
       "recap" : false,
@@ -272,8 +272,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.19,
-      "total" : 1712
+      "rating" : 4.2,
+      "total" : 1723
     },
     "REVIEW" : {
       "rating" : 6.66,
@@ -281,7 +281,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.09,
-      "total" : 1731
+      "total" : 1742
     }
   },
   "related" : {
@@ -326,6 +326,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -463,6 +470,14 @@
       "verified" : false,
       "weight" : 500
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4096" : {
       "info_box" : false,
       "name" : "gore",
@@ -529,6 +544,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

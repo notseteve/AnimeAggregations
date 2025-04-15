@@ -2,8 +2,49 @@
   "anime_id" : 16614,
   "characters" : {
     "MAIN" : [ {
+      "character_id" : 147941,
+      "name" : "Jin`ya",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 138426,
       "name" : "Jinta",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 147942,
+      "name" : "Akitsu Somegorou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147871,
+      "name" : "Chitose",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140658,
+      "name" : "Douka no Oni",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147943,
+      "name" : "Juuzou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147938,
+      "name" : "Kihee no Tenshu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147870,
+      "name" : "Kiyomasa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147936,
+      "name" : "Miura Naotsugu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147940,
+      "name" : "Natsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147935,
+      "name" : "Ofuu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 138427,
@@ -13,14 +54,21 @@
       "character_id" : 138428,
       "name" : "Suzune",
       "type" : "CHARACTER"
-    } ],
-    "SECONDARY" : [ {
-      "character_id" : 140658,
-      "name" : "Douka no Oni",
+    }, {
+      "character_id" : 147944,
+      "name" : "Suzune",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140659,
       "name" : "Toomi no Kijo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147939,
+      "name" : "Yotaka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147937,
+      "name" : "Zenji",
       "type" : "CHARACTER"
     } ]
   },
@@ -52,6 +100,9 @@
     "60829" : [ {
       "name" : "Ikegami Tarou",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Ikegami Tarou",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "64843" : [ {
       "name" : "Nakanishi Motoo",
@@ -59,10 +110,107 @@
     } ]
   },
   "description" : "* Based on a historical fantasy novel series by http://anidb.net/cr64843 [Nakanishi Motoo].\nIn the Edo period, there was a shrine maiden called \"Itsukihime\" in the mountain village of Kadono. http://anidb.net/ch138426 [Jinta], a young man who acts as the shrine maiden`s guardian despite being a stranger, encounters a mysterious demon who speaks of the far future in the forest where he went to defeat it. From Edo to the Heisei era, this is a fantasy series about a demon man who travels through time while continuously questioning the meaning of wielding a sword.\nSource: Crunchyroll News",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-03-31",
+      "episode_id" : 294154,
+      "length" : 55,
+      "number" : 1,
+      "rating" : {
+        "rating" : 6.48,
+        "total" : 5
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Demons and Humans"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Hommes et démons"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Oni to Hito to"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "鬼と人と"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-08",
+      "episode_id" : 294155,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 5.33,
+        "total" : 4
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "La fille du démon"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Oni no Musume"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Demon`s Daughter"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "鬼の娘"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-15",
+      "episode_id" : 294156,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-22",
+      "episode_id" : 294157,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-04-07",
+      "episode_id" : 295029,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.37,
+      "total" : 29
+    },
+    "TEMPORARY" : {
+      "rating" : 6.18,
+      "total" : 30
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "378820" ],
+    "ANISON" : [ "25873" ],
     "ANN" : [ "30817" ],
     "MAL" : [ "49778" ],
+    "SYOBOI" : [ "7375" ],
     "TWITTER" : [ "kijin_anime" ],
     "WEBSITE" : [ "https://kijin-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Kijin_Gentōshō" ],
@@ -118,9 +266,21 @@
     "title" : "Sword of the Demon Hunter",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "鬼人 幻灯抄",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "鬼人幻燈抄",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "鬼人幻燈抄",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Kijin Gentoushou",
+    "type" : "SYNONYM"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "鬼人幻灯抄",

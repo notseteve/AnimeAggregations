@@ -35,6 +35,10 @@
       "name" : "Aill",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 83419,
+      "name" : "Cure Mofurun",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 145812,
       "name" : "Hisui",
       "type" : "CHARACTER"
@@ -313,6 +317,9 @@
       "length" : 25,
       "number" : 11,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNK822" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Mirai no Ketsudan"
@@ -330,9 +337,18 @@
       "length" : 25,
       "number" : 12,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UG29MK" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Susumubeki Mirai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "The Proper Future"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "進むべき未来"
       } ],
       "type" : "REGULAR"
     } ],
@@ -357,12 +373,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.49,
-      "total" : 6
+      "rating" : 4.74,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 4.83,
-      "total" : 6
+      "rating" : 5.78,
+      "total" : 14
     }
   },
   "related" : {

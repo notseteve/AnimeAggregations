@@ -200,7 +200,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.84,
+        "rating" : 5.83,
         "total" : 7
       },
       "recap" : false,
@@ -250,8 +250,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.48,
-        "total" : 5
+        "rating" : 4.26,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -446,12 +446,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.46,
-      "total" : 192
+      "rating" : 5.52,
+      "total" : 202
     },
     "TEMPORARY" : {
-      "rating" : 6.6,
-      "total" : 193
+      "rating" : 6.61,
+      "total" : 203
     }
   },
   "resources" : {
@@ -469,8 +469,8 @@
   },
   "similar" : {
     "4121" : {
-      "rating" : 3.333333333333333,
-      "total" : 6
+      "rating" : 4.285714285714286,
+      "total" : 7
     }
   },
   "start_date" : "2024-10-03",
@@ -490,6 +490,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "1973" : {
+      "info_box" : false,
+      "name" : "cooking",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2605" : {
       "info_box" : false,
@@ -549,6 +557,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2652" : {
+      "info_box" : false,
+      "name" : "super deformed",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2672" : {
       "info_box" : false,
       "name" : "Japan",
@@ -556,6 +572,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2797" : {
       "info_box" : true,
@@ -581,6 +605,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2881" : {
       "info_box" : true,
       "name" : "sports",
@@ -588,6 +620,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "4083" : {
       "info_box" : false,
@@ -605,10 +661,41 @@
       "verified" : false,
       "weight" : 0
     },
+    "4606" : {
+      "info_box" : false,
+      "name" : "slide show animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4663" : {
+      "info_box" : false,
+      "name" : "tone changes",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5862" : {
+      "info_box" : false,
+      "name" : "melodrama",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6018" : {
       "info_box" : false,
       "name" : "predominantly adult cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

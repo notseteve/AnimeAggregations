@@ -81,10 +81,23 @@
       "episode_id" : 294263,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.37,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9NG1W" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "For My Own Soul"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jibun no Tamashii no Tame ni"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "自分の魂のために"
       } ],
       "type" : "REGULAR"
     }, {
@@ -95,7 +108,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Nachtmusik Will Change into Wings"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nachtmusik wa Tsubasa ni Kaeru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ナハトムジークは翼に変える"
       } ],
       "type" : "REGULAR"
     }, {
@@ -122,9 +141,21 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.18,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 2.8,
+      "total" : 7
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "395870" ],
+    "ANISON" : [ "25842" ],
     "ANN" : [ "32861" ],
+    "CRUNCHY_ROLL" : [ "GDKHZEJKQ" ],
     "MAL" : [ "59199" ],
     "SYOBOI" : [ "7411" ],
     "TWITTER" : [ "clasta_anime" ],
@@ -133,9 +164,32 @@
   },
   "start_date" : "2025-04-06",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5823" : {
+      "info_box" : false,
+      "name" : "predominantly male cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -156,6 +210,14 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Classic Stars",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "Classic★Stars – 古典乐★之星",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "Classic★Stars – 古典樂★之星",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

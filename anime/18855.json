@@ -25,6 +25,19 @@
       "character_id" : 143257,
       "name" : "Niisato Azu",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 147706,
+      "name" : "Hosaka Yua",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147705,
+      "name" : "Mitsuba Rinko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147707,
+      "name" : "Zen Eiko",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -46,9 +59,78 @@
     "34679" : [ {
       "name" : "Tachibana Nozomi",
       "type" : "CHARACTER_DESIGN"
+    } ],
+    "55465" : [ {
+      "name" : "Habuka Yuri",
+      "type" : "MUSIC"
     } ]
   },
+  "description" : "Note: The first episode received an early screening at a special event on 28 September, 26 October, and 27 October 2024 at Maebashi Cinema House. Additionally, the first two episodes received an early screening at a special event on 30 November, 21 December, and 22 December 2024 at Maebashi Cinema House. Further, the first three episodes received an early screening at a special event on 25 January 2025 at Maebashi Cinema House, on 23 February 2025 at United Cinemas Maebashi, and on 22 March 2025 at Ikebukuro harevutai in Tokyo. The regular TV broadcast started on 6 April 2025.",
   "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-04-06",
+      "episode_id" : 294271,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.69,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQ79N2" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Genjouiji de Nani ga Warui!!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "What`s Wrong with the Status Quo?!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "現状維持で何が悪いっ!!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-13",
+      "episode_id" : 294272,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fuku mo Anta mo Perappera"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "You`re as Cheap and as Flimsy as Your Clothes"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "服もアンタもペラッペラ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-20",
+      "episode_id" : 294273,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-27",
+      "episode_id" : 294274,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2024-09-05",
       "episode_id" : 289560,
@@ -56,8 +138,14 @@
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 1 Dan PV"
+      }, {
         "language" : "ENGLISH",
         "title" : "PV 1 (1:04)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第1弾PV"
       } ],
       "type" : "PROMOTION"
     }, {
@@ -67,24 +155,58 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 2 Dan PV"
+      }, {
         "language" : "ENGLISH",
         "title" : "PV 2 (2:32)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第2弾PV"
       } ],
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.63,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 3.75,
+      "total" : 8
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "396789" ],
+    "ANISON" : [ "25732" ],
     "ANN" : [ "33470" ],
+    "CRUNCHY_ROLL" : [ "GW4HM7W1V" ],
     "MAL" : [ "59744" ],
     "SYOBOI" : [ "7368" ],
     "TWITTER" : [ "maebashiwitches" ],
     "WEBSITE" : [ "https://maebashi-witches.com/" ],
     "WIKIPEDIA_EN" : [ "Maebashi_Witches" ],
-    "WIKIPEDIA_JP" : [ "前橋ウィッチーズ" ]
+    "WIKIPEDIA_JP" : [ "前橋ウィッチーズ" ],
+    "YOUTUBE" : [ "watch?v=IEYDX-VF974", "watch?v=s6JVgNCG1A4" ]
   },
   "start_date" : "2025-04-06",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -106,8 +228,20 @@
     "title" : "Maebashi Witches",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Maebashi Witches",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "前桥魔女",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "前橋ウィッチーズ",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "前橋魔女",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

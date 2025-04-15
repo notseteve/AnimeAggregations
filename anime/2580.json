@@ -1019,7 +1019,7 @@
       "length" : 1,
       "number" : 1,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.92,
         "total" : 1
       },
       "recap" : false,
@@ -1293,7 +1293,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.39,
+      "rating" : 4.4,
       "total" : 654
     },
     "REVIEW" : {
@@ -1372,6 +1372,13 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1519,6 +1526,14 @@
       "info_box" : false,
       "name" : "tropes",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

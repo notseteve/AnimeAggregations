@@ -905,7 +905,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.78,
-      "total" : 3208
+      "total" : 3209
     },
     "REVIEW" : {
       "rating" : 6.94,
@@ -913,7 +913,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.41,
-      "total" : 3255
+      "total" : 3256
     }
   },
   "related" : {
@@ -1021,6 +1021,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1236,6 +1243,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3842" : {
       "info_box" : false,
       "name" : "TV censoring",
@@ -1310,6 +1325,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

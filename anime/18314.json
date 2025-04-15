@@ -90,6 +90,7 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "A high school girl determined to become an idol faces obstacles pursuing her dream. Along the way, she befriends aspiring stars from all directions, learning what her shining ambition truly means.\nsource: imdb",
   "end_date" : "2024-05-10",
   "episodes" : {
     "REGULAR" : [ {
@@ -104,6 +105,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Complete Movie"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "本編"
       } ],
       "type" : "REGULAR"
     } ],
@@ -133,12 +137,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.33,
-      "total" : 22
+      "rating" : 4.25,
+      "total" : 26
     },
     "TEMPORARY" : {
-      "rating" : 5.86,
-      "total" : 22
+      "rating" : 5.78,
+      "total" : 26
     }
   },
   "resources" : {
@@ -154,6 +158,21 @@
   },
   "start_date" : "2024-05-10",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

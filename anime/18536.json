@@ -99,7 +99,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.15,
+        "rating" : 4.1,
         "total" : 6
       },
       "recap" : false,
@@ -124,7 +124,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.42,
+        "rating" : 5.36,
         "total" : 4
       },
       "recap" : false,
@@ -149,7 +149,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.18,
+        "rating" : 4.13,
         "total" : 5
       },
       "recap" : false,
@@ -174,7 +174,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.69,
+        "rating" : 4.65,
         "total" : 5
       },
       "recap" : false,
@@ -199,7 +199,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.11,
+        "rating" : 5.02,
         "total" : 4
       },
       "recap" : false,
@@ -224,7 +224,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.31,
+        "rating" : 6.19,
         "total" : 3
       },
       "recap" : false,
@@ -249,7 +249,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.66,
+        "rating" : 5.53,
         "total" : 3
       },
       "recap" : false,
@@ -274,7 +274,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.02,
+        "rating" : 4.89,
         "total" : 3
       },
       "recap" : false,
@@ -299,7 +299,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.38,
+        "rating" : 6.28,
         "total" : 3
       },
       "recap" : false,
@@ -324,7 +324,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.02,
+        "rating" : 6.93,
         "total" : 3
       },
       "recap" : false,
@@ -349,7 +349,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.34,
+        "rating" : 5.21,
         "total" : 3
       },
       "recap" : false,
@@ -369,10 +369,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-03-18",
+      "description" : "The dragon knights of Quistador request an audience with Liam.\nSource: Crunchyroll",
       "episode_id" : 292418,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 8.13,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WU7V5VW" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Liam Radon Oukoku"
@@ -393,7 +401,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode S1"
+        "title" : "Broadcast Commemoration Live Stream Special"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Housou Kaishi Kinen Namahaishin SP"
@@ -441,12 +449,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 1.98,
-      "total" : 76
+      "rating" : 2.16,
+      "total" : 270
     },
     "TEMPORARY" : {
-      "rating" : 4.6,
-      "total" : 76
+      "rating" : 4.99,
+      "total" : 271
     }
   },
   "resources" : {
@@ -463,13 +471,17 @@
     "YOUTUBE" : [ "watch?v=Yk3NCsGyOeE", "watch?v=_rCQOpmqmdg", "watch?v=d3xZj794V2Y" ]
   },
   "similar" : {
+    "13871" : {
+      "rating" : 6.0,
+      "total" : 5
+    },
     "14535" : {
       "rating" : 10.0,
-      "total" : 7
+      "total" : 10
     },
     "17702" : {
-      "rating" : 7.5,
-      "total" : 8
+      "rating" : 8.333333333333334,
+      "total" : 12
     }
   },
   "start_date" : "2025-01-07",
@@ -753,8 +765,20 @@
     "title" : "没落予定の貴族だけど, 暇だったから魔法を極めてみた",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "虽然我是注定没落的贵族，闲来无事只好来深究魔法",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "雖然我是注定沒落的貴族 閒來無事只好來深究魔法",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "BotsurakuKizoku",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

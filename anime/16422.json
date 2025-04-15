@@ -1,6 +1,51 @@
 {
   "anime_id" : 16422,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 114450,
+      "name" : "Adam",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114445,
+      "name" : "Cherry Blossom",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146628,
+      "name" : "Hanaya-tenchou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114448,
+      "name" : "Joe",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 116161,
+      "name" : "Kyan Chihiro",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 116159,
+      "name" : "Kyan Koyomi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 116158,
+      "name" : "Kyan Masae",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 116160,
+      "name" : "Kyan Nanaka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114446,
+      "name" : "Miya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114447,
+      "name" : "Shadow",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147351,
+      "name" : "You",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 114449,
       "name" : "Hasegawa Langa",
@@ -66,6 +111,10 @@
     "79234" : [ {
       "name" : "Bones Film",
       "type" : "ANIMATION_WORK"
+    } ],
+    "79948" : [ {
+      "name" : "Chamakou",
+      "type" : "CHARACTER_DESIGN"
     } ]
   },
   "description" : "Note: The OVA got an early theatrical screening on January 24 for a limited time across 10 theaters in Japan.",
@@ -74,15 +123,46 @@
     "REGULAR" : [ {
       "air_date" : "2025-03-19",
       "episode_id" : 288710,
-      "length" : 25,
+      "length" : 30,
+      "number" : 1,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUEMKX8" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ame to Neko: Konbini Ice Soda Aji / Maji de Maji ni Nareru Koto / Morning Routine / Ganbare Hiromi-chan!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Rain and a Cat, Soda Ice Cream from the Convenience Store / Becoming Really Serious About Things / Morning Routine / Hiromi, Do Your Best!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "雨と猫 コンビニアイス ソーダ味 / 本気[マジ]でマジになれること / Morning Routine / がんばれひろみちゃん!"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-03-19",
+      "episode_id" : 294221,
+      "length" : 2,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "OVA"
+        "title" : "Ending"
       } ],
-      "type" : "REGULAR"
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.06,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 6.37,
+      "total" : 16
+    }
   },
   "related" : {
     "OTHER" : [ 15736 ]
@@ -90,6 +170,7 @@
   "resources" : {
     "ALL_CINEMA" : [ "377762" ],
     "ANN" : [ "26224" ],
+    "CRUNCHY_ROLL" : [ "G5PHNM434" ],
     "MAL" : [ "49363" ],
     "TWITTER" : [ "sk8_project" ],
     "WEBSITE" : [ "https://sk8-project.com/ova/" ],
@@ -98,6 +179,132 @@
   },
   "start_date" : "2025-03-19",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2706" : {
+      "info_box" : false,
+      "name" : "masturbation",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2721" : {
+      "info_box" : false,
+      "name" : "public sex",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2725" : {
+      "info_box" : false,
+      "name" : "ahegao",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2739" : {
+      "info_box" : false,
+      "name" : "brother-sister incest",
+      "parent_tag_id" : 2842,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2748" : {
+      "info_box" : false,
+      "name" : "sex",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2826" : {
+      "info_box" : false,
+      "name" : "pantsu",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2828" : {
+      "info_box" : false,
+      "name" : "borderline porn",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2842" : {
+      "info_box" : false,
+      "name" : "incest",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2848" : {
+      "info_box" : false,
+      "name" : "pornography",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5835" : {
+      "info_box" : false,
+      "name" : "Gainax bounce",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5915" : {
+      "info_box" : false,
+      "name" : "French kiss",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

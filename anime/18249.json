@@ -164,7 +164,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.17,
+        "rating" : 2.15,
         "total" : 6
       },
       "recap" : false,
@@ -189,7 +189,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.6,
+        "rating" : 2.59,
         "total" : 4
       },
       "recap" : false,
@@ -217,7 +217,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.75,
+        "rating" : 3.74,
         "total" : 3
       },
       "recap" : false,
@@ -245,7 +245,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.34,
+        "rating" : 5.27,
         "total" : 3
       },
       "recap" : false,
@@ -273,7 +273,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.06,
+        "rating" : 6.92,
         "total" : 3
       },
       "recap" : false,
@@ -301,7 +301,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.51,
+        "rating" : 4.47,
         "total" : 3
       },
       "recap" : false,
@@ -329,7 +329,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 3.8,
+        "rating" : 3.79,
         "total" : 2
       },
       "recap" : false,
@@ -357,7 +357,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.68,
+        "rating" : 5.67,
         "total" : 2
       },
       "recap" : false,
@@ -385,7 +385,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 3.98,
+        "rating" : 3.97,
         "total" : 2
       },
       "recap" : false,
@@ -413,7 +413,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 2.51,
+        "rating" : 2.5,
         "total" : 2
       },
       "recap" : false,
@@ -544,12 +544,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.68,
-      "total" : 186
+      "rating" : 4.65,
+      "total" : 207
     },
     "TEMPORARY" : {
-      "rating" : 6.32,
-      "total" : 188
+      "rating" : 6.3,
+      "total" : 209
     }
   },
   "resources" : {
@@ -573,6 +573,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
@@ -587,6 +594,53 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2676" : {
+      "info_box" : false,
+      "name" : "Tokyo",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2677" : {
+      "info_box" : false,
+      "name" : "Osaka",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -595,9 +649,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

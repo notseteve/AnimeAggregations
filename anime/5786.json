@@ -198,7 +198,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.96,
+        "rating" : 4.95,
         "total" : 13
       },
       "recap" : false,
@@ -617,7 +617,7 @@
       "length" : 2,
       "number" : 11,
       "rating" : {
-        "rating" : 7.78,
+        "rating" : 7.77,
         "total" : 2
       },
       "recap" : false,
@@ -671,16 +671,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.11,
-      "total" : 4711
+      "rating" : 5.1,
+      "total" : 4719
     },
     "REVIEW" : {
       "rating" : 6.61,
       "total" : 3
     },
     "TEMPORARY" : {
-      "rating" : 7.04,
-      "total" : 4779
+      "rating" : 7.03,
+      "total" : 4787
     }
   },
   "related" : {
@@ -713,8 +713,8 @@
       "total" : 107
     },
     "7900" : {
-      "rating" : 7.5,
-      "total" : 48
+      "rating" : 7.551020408163264,
+      "total" : 49
     },
     "8230" : {
       "rating" : 4.666666666666667,
@@ -894,6 +894,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2748" : {
+      "info_box" : false,
+      "name" : "sex",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2749" : {
       "info_box" : true,
       "name" : "nudity",
@@ -901,6 +909,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2770" : {
       "info_box" : false,
@@ -1065,6 +1081,14 @@
       "info_box" : false,
       "name" : "funny expressions",
       "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -9,7 +9,7 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 4.37,
+        "rating" : 4.36,
         "total" : 1
       },
       "recap" : false,
@@ -33,7 +33,7 @@
       "length" : 20,
       "number" : 2,
       "rating" : {
-        "rating" : 4.37,
+        "rating" : 4.36,
         "total" : 1
       },
       "recap" : false,
@@ -260,7 +260,7 @@
       "length" : 20,
       "number" : 13,
       "rating" : {
-        "rating" : 4.37,
+        "rating" : 4.36,
         "total" : 1
       },
       "recap" : false,
@@ -282,7 +282,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.33,
+      "rating" : 3.35,
       "total" : 62
     },
     "TEMPORARY" : {
@@ -306,12 +306,50 @@
   },
   "start_date" : "2024-08-07",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "5010" : {
       "info_box" : true,

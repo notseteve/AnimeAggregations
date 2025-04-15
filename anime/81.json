@@ -77,7 +77,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.17,
+        "rating" : 8.18,
         "total" : 7
       },
       "recap" : false,
@@ -213,7 +213,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.45,
+        "rating" : 4.46,
         "total" : 6
       },
       "recap" : false,
@@ -495,7 +495,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 6.94,
+        "rating" : 6.95,
         "total" : 1
       },
       "recap" : false,
@@ -509,7 +509,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 6.94,
+        "rating" : 6.95,
         "total" : 1
       },
       "recap" : false,
@@ -533,7 +533,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.65,
-      "total" : 2171
+      "total" : 2172
     },
     "REVIEW" : {
       "rating" : 6.5,
@@ -541,7 +541,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.77,
-      "total" : 2191
+      "total" : 2192
     }
   },
   "related" : {
@@ -606,6 +606,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -735,6 +742,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3053" : {
       "info_box" : false,
       "name" : "allergy to potential love interests",
@@ -786,6 +801,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

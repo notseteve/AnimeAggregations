@@ -1,19 +1,6 @@
 {
   "anime_id" : 18600,
   "characters" : {
-    "APPEARANCE" : [ {
-      "character_id" : 147332,
-      "name" : "Shirayuki Nerine",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 147333,
-      "name" : "Shitoron",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 147334,
-      "name" : "Suzuran",
-      "type" : "CHARACTER"
-    } ],
     "MAIN" : [ {
       "character_id" : 145153,
       "name" : "Kasumi Renge",
@@ -37,6 +24,23 @@
     }, {
       "character_id" : 145149,
       "name" : "Yoshino Sazanka",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 147332,
+      "name" : "Shirayuki Nerine",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147333,
+      "name" : "Shitoron",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147851,
+      "name" : "Shoujo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147334,
+      "name" : "Suzuran",
       "type" : "CHARACTER"
     } ]
   },
@@ -93,8 +97,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.67,
-        "total" : 4
+        "rating" : 4.15,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -118,7 +122,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.24,
+        "rating" : 7.25,
         "total" : 4
       },
       "recap" : false,
@@ -193,7 +197,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.94,
+        "rating" : 6.95,
         "total" : 2
       },
       "recap" : false,
@@ -218,7 +222,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.77,
+        "rating" : 9.78,
         "total" : 3
       },
       "recap" : false,
@@ -243,7 +247,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 3.27,
+        "rating" : 3.26,
         "total" : 1
       },
       "recap" : false,
@@ -268,7 +272,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 4.1,
+        "rating" : 4.09,
         "total" : 2
       },
       "recap" : false,
@@ -293,7 +297,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 9.83,
+        "rating" : 9.84,
         "total" : 1
       },
       "recap" : false,
@@ -342,6 +346,10 @@
       "episode_id" : 292520,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 3.26,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GK9UG2GGP" ]
@@ -363,6 +371,10 @@
       "episode_id" : 292521,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 6.88,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G50UMNMM8" ]
@@ -380,10 +392,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-03-28",
+      "description" : "The girls continued their fierce battle in \"Everyone`s Ochazuke Buffet.\"\nSource: Crunchyroll",
       "episode_id" : 292522,
       "length" : 25,
       "number" : 13,
+      "rating" : {
+        "rating" : 6.88,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7M77N" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Ending on an Ochazuke Buffet with Everyone Around"
@@ -397,14 +417,27 @@
       "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
-      "air_date" : "2025-08-27",
+      "air_date" : "2025-03-28",
       "episode_id" : 292523,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.88,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9N344" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode S1"
+        "title" : "Kappou on and On"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsuzuite Iku Kappou, Kappou!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "続いていく割烹, 割烹!"
       } ],
       "type" : "SPECIAL"
     }, {
@@ -428,12 +461,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.64,
-      "total" : 44
+      "rating" : 2.62,
+      "total" : 76
     },
     "TEMPORARY" : {
-      "rating" : 4.77,
-      "total" : 44
+      "rating" : 4.96,
+      "total" : 76
     }
   },
   "resources" : {
@@ -450,9 +483,24 @@
   },
   "start_date" : "2025-01-02",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -509,12 +557,20 @@
     "title" : "Momentary Lily",
     "type" : "MAIN"
   }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "MOMENTARY LILY 剎那之花",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "Momentary Lily",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "もめんたりー・リリィ",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "刹那之花",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

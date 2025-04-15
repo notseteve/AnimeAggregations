@@ -384,7 +384,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.45,
+        "rating" : 5.46,
         "total" : 11
       },
       "recap" : false,
@@ -450,7 +450,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.91,
+        "rating" : 6.9,
         "total" : 12
       },
       "recap" : false,
@@ -782,6 +782,10 @@
       "episode_id" : 90575,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.63,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -793,6 +797,10 @@
       "episode_id" : 90576,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.74,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -804,15 +812,15 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.83,
-      "total" : 5676
+      "total" : 5686
     },
     "REVIEW" : {
       "rating" : 7.17,
       "total" : 11
     },
     "TEMPORARY" : {
-      "rating" : 7.54,
-      "total" : 5849
+      "rating" : 7.53,
+      "total" : 5859
     }
   },
   "related" : {
@@ -837,16 +845,16 @@
   },
   "similar" : {
     "1540" : {
-      "rating" : 6.507936507936508,
-      "total" : 63
+      "rating" : 6.5625,
+      "total" : 64
     },
     "6235" : {
       "rating" : 5.0,
-      "total" : 12
+      "total" : 14
     },
     "15736" : {
       "rating" : 10.0,
-      "total" : 8
+      "total" : 10
     }
   },
   "start_date" : "2006-04-05",
@@ -1153,6 +1161,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3148" : {
       "info_box" : false,
       "name" : "open-ended",
@@ -1259,6 +1275,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

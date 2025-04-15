@@ -388,7 +388,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 4.97,
+        "rating" : 4.96,
         "total" : 15
       },
       "recap" : false,
@@ -409,7 +409,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 4.42,
+        "rating" : 4.41,
         "total" : 13
       },
       "recap" : false,
@@ -581,7 +581,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.75,
-      "total" : 6469
+      "total" : 6484
     },
     "REVIEW" : {
       "rating" : 7.66,
@@ -589,7 +589,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.98,
-      "total" : 6518
+      "total" : 6533
     }
   },
   "related" : {
@@ -607,9 +607,17 @@
     "WIKIPEDIA_JP" : [ "さよなら絶望先生_(アニメ)", "さよなら絶望先生の登場人物" ]
   },
   "similar" : {
+    "25" : {
+      "rating" : 10.0,
+      "total" : 2
+    },
     "3298" : {
       "rating" : 9.0,
       "total" : 10
+    },
+    "4565" : {
+      "rating" : 10.0,
+      "total" : 2
     },
     "4777" : {
       "rating" : 0.8,
@@ -913,6 +921,14 @@
     "2858" : {
       "info_box" : false,
       "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2859" : {
+      "info_box" : false,
+      "name" : "harem",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,

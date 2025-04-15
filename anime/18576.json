@@ -10,10 +10,6 @@
       "name" : "Ari no Ou",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 139308,
-      "name" : "Asahina Rin",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 147042,
       "name" : "Ashi",
       "type" : "CHARACTER"
@@ -30,6 +26,10 @@
       "name" : "Baruka",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 147886,
+      "name" : "Beru",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146713,
       "name" : "Borgon Radiru",
       "type" : "CHARACTER"
@@ -40,10 +40,6 @@
     }, {
       "character_id" : 146712,
       "name" : "Esil Radiru",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 139316,
-      "name" : "Fujisaki Yukari",
       "type" : "CHARACTER"
     }, {
       "character_id" : 147245,
@@ -58,20 +54,12 @@
       "name" : "Hayate Hibiki",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 146282,
-      "name" : "Hokazono Fumiaki",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 146190,
       "name" : "Horiguchi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145793,
       "name" : "Igrit",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 139314,
-      "name" : "Inamiya Satsuki",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145792,
@@ -130,12 +118,12 @@
       "name" : "Kurosu Keisuke",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 137409,
-      "name" : "Mabuchi Isao",
+      "character_id" : 147885,
+      "name" : "Liu Zhigang",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 146871,
-      "name" : "Machida Dougen",
+      "character_id" : 137409,
+      "name" : "Mabuchi Isao",
       "type" : "CHARACTER"
     }, {
       "character_id" : 147048,
@@ -186,6 +174,10 @@
       "name" : "Morobishi Meisei",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 147902,
+      "name" : "Rakan",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 147044,
       "name" : "Reiji",
       "type" : "CHARACTER"
@@ -222,12 +214,20 @@
       "name" : "Shishido Koushirou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 147903,
+      "name" : "Sillad",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146189,
       "name" : "Tanabe",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145990,
       "name" : "Tank",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147272,
+      "name" : "Thomas Andre",
       "type" : "CHARACTER"
     }, {
       "character_id" : 146468,
@@ -247,7 +247,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 145628,
-      "name" : "Yata",
+      "name" : "Yada Kakeru",
       "type" : "CHARACTER"
     }, {
       "character_id" : 139309,
@@ -260,8 +260,24 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 139308,
+      "name" : "Asahina Rin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139316,
+      "name" : "Fujisaki Yukari",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 133585,
       "name" : "Gotou Kiyoomi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146282,
+      "name" : "Hokazono Fumiaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139314,
+      "name" : "Inamiya Satsuki",
       "type" : "CHARACTER"
     }, {
       "character_id" : 133584,
@@ -270,6 +286,10 @@
     }, {
       "character_id" : 133578,
       "name" : "Kousaka Shizuku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146871,
+      "name" : "Machida Dougen",
       "type" : "CHARACTER"
     }, {
       "character_id" : 135141,
@@ -351,6 +371,7 @@
     } ]
   },
   "description" : "Note: The first two episodes received an early premiere in cinemas worldwide as part of a season 1 recap movie titled ReAwakening starting on 26 November 2024 in Germany. The regular TV broadcast started on 5 January 2025.",
+  "end_date" : "2025-03-30",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-01-05",
@@ -358,8 +379,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.8,
-        "total" : 9
+        "rating" : 6.55,
+        "total" : 12
       },
       "recap" : false,
       "resources" : {
@@ -377,6 +398,9 @@
       }, {
         "language" : "JAPANESE",
         "title" : "You aren`t E-rank, are You"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Ваш рівень не Е"
       } ],
       "type" : "REGULAR"
     }, {
@@ -385,8 +409,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.29,
-        "total" : 8
+        "rating" : 6.94,
+        "total" : 11
       },
       "recap" : false,
       "resources" : {
@@ -404,6 +428,9 @@
       }, {
         "language" : "JAPANESE",
         "title" : "I Suppose You aren`t Aware"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Гадаю, ти не знаєш"
       } ],
       "type" : "REGULAR"
     }, {
@@ -413,8 +440,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.85,
-        "total" : 7
+        "rating" : 6.39,
+        "total" : 10
       },
       "recap" : false,
       "resources" : {
@@ -432,6 +459,9 @@
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Still a Long Way to Go"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Ще довгий шлях"
       } ],
       "type" : "REGULAR"
     }, {
@@ -441,8 +471,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.26,
-        "total" : 8
+        "rating" : 7.0,
+        "total" : 10
       },
       "recap" : false,
       "resources" : {
@@ -460,6 +490,9 @@
       }, {
         "language" : "GERMAN",
         "title" : "Ich muss aufhören, anderen nur etwas vorzuspielen"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Годі придурюватись"
       } ],
       "type" : "REGULAR"
     }, {
@@ -469,8 +502,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.94,
-        "total" : 9
+        "rating" : 7.48,
+        "total" : 11
       },
       "recap" : false,
       "resources" : {
@@ -488,6 +521,9 @@
       }, {
         "language" : "JAPANESE",
         "title" : "This is What We`re Trained to Do"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Ми тренувались саме для цього"
       } ],
       "type" : "REGULAR"
     }, {
@@ -496,8 +532,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.73,
-        "total" : 8
+        "rating" : 6.23,
+        "total" : 12
       },
       "recap" : false,
       "resources" : {
@@ -515,6 +551,9 @@
       }, {
         "language" : "GERMAN",
         "title" : "Schau nicht auf meine Leute herab"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Вони тобі не хробаки"
       } ],
       "type" : "REGULAR"
     }, {
@@ -524,14 +563,17 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.5,
-        "total" : 6
+        "rating" : 7.3,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GJWUQ7Q4V" ]
       },
       "titles" : [ {
+        "language" : "UKRAINIAN",
+        "title" : "10й мисливець рівня S"
+      }, {
         "language" : "GERMAN",
         "title" : "Der zehnte S-Rang-Hunter"
       }, {
@@ -552,8 +594,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.38,
-        "total" : 8
+        "rating" : 6.04,
+        "total" : 14
       },
       "recap" : false,
       "resources" : {
@@ -571,6 +613,9 @@
       }, {
         "language" : "JAPANESE",
         "title" : "Looking Up was Tiring Me Out"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Я не дозволю дивитись на себе зверху"
       } ],
       "type" : "REGULAR"
     }, {
@@ -580,8 +625,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.02,
-        "total" : 7
+        "rating" : 6.44,
+        "total" : 13
       },
       "recap" : false,
       "resources" : {
@@ -599,6 +644,9 @@
       }, {
         "language" : "JAPANESE",
         "title" : "It was All Worth It"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Це все було не дарма"
       } ],
       "type" : "REGULAR"
     }, {
@@ -608,8 +656,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.59,
-        "total" : 5
+        "rating" : 7.24,
+        "total" : 11
       },
       "recap" : false,
       "resources" : {
@@ -624,6 +672,9 @@
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "We Need a Hero"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Нам потрібен герой"
       } ],
       "type" : "REGULAR"
     }, {
@@ -632,8 +683,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 6.47,
-        "total" : 4
+        "rating" : 7.13,
+        "total" : 14
       },
       "recap" : false,
       "resources" : {
@@ -648,14 +699,25 @@
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "It`s Going to Get Even More Intense"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Стане ще гарячіше"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-03-23",
+      "description" : "Jinwoo arrives at Jeju Island to save the S-Rank hunters, but to do that he`ll have to face the Ant King.\nSource: Crunchyroll",
       "episode_id" : 292627,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 7.63,
+        "total" : 13
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX5XMW" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Are You the King of Humans"
@@ -665,17 +727,37 @@
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Are You the King of Humans"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Це ти король людей?"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-03-30",
+      "description" : "After no shortage of hardship, the 4th Jeju Island raid comes to a close. But for Jinwoo, the hunt never ends.\nSource: Crunchyroll",
       "episode_id" : 292628,
       "length" : 25,
       "number" : 13,
+      "rating" : {
+        "rating" : 7.2,
+        "total" : 8
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMWM3W" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 13"
+        "title" : "On to the Next Target"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "On to the Next Target"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "On to the Next Target"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Що буде далі…"
       } ],
       "type" : "REGULAR"
     } ],
@@ -713,12 +795,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.78,
-      "total" : 168
+      "rating" : 9.11,
+      "total" : 599
+    },
+    "REVIEW" : {
+      "rating" : 4.66,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 8.3,
-      "total" : 174
+      "rating" : 8.35,
+      "total" : 610
     }
   },
   "related" : {
@@ -738,8 +824,37 @@
     "WIKIPEDIA_JP" : [ "俺だけレベルアップな件" ],
     "WIKIPEDIA_KO" : [ "나_혼자만_레벨업" ]
   },
+  "similar" : {
+    "10439" : {
+      "rating" : 2.5,
+      "total" : 8
+    }
+  },
   "start_date" : "2025-01-05",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4096" : {
+      "info_box" : false,
+      "name" : "gore",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -771,6 +886,10 @@
   }, {
     "language" : "THAI",
     "title" : "Solo Leveling ซีซัน 2 -ตื่นขึ้นจากเงา-",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "UKRAINIAN",
+    "title" : "Тільки я візьму новий рівень: Повстання з тіні",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

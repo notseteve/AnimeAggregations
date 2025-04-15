@@ -1,6 +1,63 @@
 {
   "anime_id" : 18718,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 147273,
+      "name" : "Anzai Masaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147280,
+      "name" : "Arima Yukinari",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147278,
+      "name" : "Enomoto Takeshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147276,
+      "name" : "Kakiuchi Yuuri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147281,
+      "name" : "Kanuma Minoru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147277,
+      "name" : "Kurita Junpei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147617,
+      "name" : "Kusumi Yuto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147274,
+      "name" : "Matsumoto Youdai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147283,
+      "name" : "Nagato Atsushi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147282,
+      "name" : "Natori Shingo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147615,
+      "name" : "Sakaki Seiryuu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147616,
+      "name" : "Sakaki Uryuu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147279,
+      "name" : "Takanashi Tsukasa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147275,
+      "name" : "Yanagida Jien",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 138864,
       "name" : "Kiryuu Mitsuki",
@@ -33,6 +90,14 @@
     }, {
       "character_id" : 143948,
       "name" : "Kaji Ren",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147619,
+      "name" : "Mizuki Saku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147618,
+      "name" : "Momose Takumi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 143945,
@@ -94,12 +159,91 @@
     } ]
   },
   "description" : "* Based on a yankee manga by http://anidb.net/cr71342 [Nii Satoru].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-04-04",
+      "episode_id" : 294243,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMN1Z8" ]
+      },
+      "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Colère"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ikari"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Rage"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "怒り"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-11",
+      "episode_id" : 294244,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kecchaku"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "決着"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-18",
+      "episode_id" : 294245,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-25",
+      "episode_id" : 294246,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.88,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 6.14,
+      "total" : 7
+    }
+  },
   "related" : {
     "PREQUEL" : [ 17963 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "395806" ],
+    "ANISON" : [ "25397" ],
     "ANN" : [ "32849" ],
+    "CRUNCHY_ROLL" : [ "G3KHEVDPE" ],
     "MAL" : [ "59160" ],
+    "SYOBOI" : [ "7396" ],
     "TWITTER" : [ "winbre_sakura" ],
     "WEBSITE" : [ "https://wb-anime.net/" ],
     "WIKIPEDIA_EN" : [ "Wind_Breaker_(manga)" ],
@@ -107,9 +251,32 @@
   },
   "start_date" : "2025-04-04",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5823" : {
+      "info_box" : false,
+      "name" : "predominantly male cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -134,6 +301,14 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Wind Breaker Season 2",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "防風少年 第二季",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "防风少年 第二季",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

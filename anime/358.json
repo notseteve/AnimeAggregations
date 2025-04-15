@@ -311,7 +311,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.81,
+        "rating" : 7.82,
         "total" : 3
       },
       "recap" : false,
@@ -333,7 +333,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 9.29,
+        "rating" : 9.3,
         "total" : 3
       },
       "recap" : false,
@@ -641,7 +641,7 @@
       "length" : 25,
       "number" : 21,
       "rating" : {
-        "rating" : 7.81,
+        "rating" : 7.82,
         "total" : 3
       },
       "recap" : false,
@@ -848,16 +848,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.06,
-      "total" : 1266
+      "rating" : 6.07,
+      "total" : 1267
     },
     "REVIEW" : {
       "rating" : 6.75,
       "total" : 2
     },
     "TEMPORARY" : {
-      "rating" : 7.31,
-      "total" : 1285
+      "rating" : 7.32,
+      "total" : 1286
     }
   },
   "related" : {
@@ -927,6 +927,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1142,6 +1149,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3309" : {
       "info_box" : false,
       "name" : "space pirates",
@@ -1185,6 +1200,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

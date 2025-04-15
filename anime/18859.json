@@ -9,6 +9,19 @@
       "character_id" : 143418,
       "name" : "Tanigawa Ruri",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 147420,
+      "name" : "Imari Youko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147422,
+      "name" : "Kasamaru Aoi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147421,
+      "name" : "Seto Shouko",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -42,13 +55,32 @@
     } ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "396856" ],
+    "ANN" : [ "33495" ],
     "MAL" : [ "59791" ],
     "TWITTER" : [ "rurinohouseki" ],
     "WEBSITE" : [ "https://rurinohouseki.com/" ],
-    "WIKIPEDIA_EN" : [ "Ruri_no_Hōseki" ]
+    "WIKIPEDIA_EN" : [ "Ruri_no_Hōseki" ],
+    "WIKIPEDIA_JP" : [ "瑠璃の宝石" ],
+    "YOUTUBE" : [ "watch?v=JO4-UjMwLYM" ]
   },
   "start_date" : "2025",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -63,6 +95,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "8208" : {
+      "info_box" : false,
+      "name" : "adventur",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     }
   },
   "titles" : [ {
@@ -76,6 +115,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Introduction to Mineralogy",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Ruri Rocks",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

@@ -1,9 +1,116 @@
 {
   "anime_id" : 18639,
-  "resources" : {
-    "ANN" : [ "32735" ]
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 148015,
+      "name" : "Taffee",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148014,
+      "name" : "Teeffee",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148016,
+      "name" : "Toffee",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 148017,
+      "name" : "Porumee",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148013,
+      "name" : "Willy",
+      "type" : "CHARACTER"
+    } ]
   },
-  "start_date" : "2025",
+  "creators" : {
+    "13073" : [ {
+      "name" : "Minagawa Kazunori",
+      "type" : "DIRECTOR"
+    } ],
+    "20876" : [ {
+      "name" : "Tsutsumi Hiroaki",
+      "type" : "MUSIC"
+    } ],
+    "70914" : [ {
+      "name" : "Toho Animation Studio",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "80788" : [ {
+      "name" : "Minagawa Miki",
+      "type" : "DIRECTOR"
+    } ]
+  },
+  "description" : "In the Muzik Forest, by a beautiful lake, live three tigers—http://anidb.net/ch148016 [Toffee], http://anidb.net/ch148014 [Teeffee], and http://anidb.net/ch148015 [Taffee]—along with a mouse named http://anidb.net/ch148013 [Willy] and a moon rabbit called http://anidb.net/ch148017 [Porumee].\nThey lead a carefree life, not working, but every day is filled with fun and fascinating moments.\nSource: Official Website",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-04-02",
+      "episode_id" : 294906,
+      "length" : 1,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Day in the Muzik Forest"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "MUZIK FORESTのトフィー"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Muzik Forest no Toffee"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-09",
+      "episode_id" : 294961,
+      "length" : 1,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Suika ga Sanpo?"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Walking Watermelon?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "スイカが散歩?"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-16",
+      "episode_id" : 294962,
+      "length" : 1,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-23",
+      "episode_id" : 294963,
+      "length" : 1,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "resources" : {
+    "ALL_CINEMA" : [ "399912" ],
+    "ANISON" : [ "25920" ],
+    "ANN" : [ "32735" ],
+    "TWITTER" : [ "muziktiger_JP" ],
+    "WEBSITE" : [ "https://muziktiger-anime.com/" ],
+    "YOUTUBE" : [ "watch?v=TM4W44NzmSg" ]
+  },
+  "start_date" : "2025-04-02",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -23,12 +130,17 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Muzik Tiger",
+    "title" : "Muzik Tiger: In the Forest",
     "type" : "MAIN"
   }, {
     "language" : "JAPANESE",
-    "title" : "MUZIK TIGER",
+    "title" : "MUZIK TIGER In the Forest",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE",
+    "title" : "ムジークタイガー",
+    "type" : "SYNONYM"
   } ],
-  "type" : "SERIES"
+  "type" : "SERIES",
+  "url" : "https://muziktiger-anime.com/"
 }

@@ -59,11 +59,59 @@
     } ]
   },
   "description" : "Note: The first episode received an early screening at a special event on 5 April 2025 at United Cinemas Aquacity Odaiba in Tokyo. The regular TV broadcast started on 6 April 2025.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-04-06",
+      "episode_id" : 294343,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-13",
+      "episode_id" : 294344,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-20",
+      "episode_id" : 294345,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-27",
+      "episode_id" : 294346,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "related" : {
     "PREQUEL" : [ 18405 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "397028" ],
+    "ANISON" : [ "25541" ],
     "ANN" : [ "33532" ],
     "MAL" : [ "59828" ],
     "SYOBOI" : [ "7397" ],
@@ -95,13 +143,21 @@
     "title" : "Shoushimin Series (2025)",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Shoshimin: How to Become Ordinary (2025)",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "小市民シリーズ (2025)",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Shoshimin: How to Become Ordinary (2025)",
-    "type" : "SYNONYM"
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "小市民系列 第二季",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "小市民系列 第二季",
+    "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",
   "url" : "https://shoshimin-anime.com/"

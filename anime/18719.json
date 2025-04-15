@@ -66,17 +66,30 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "On http://anidb.net/ch141770 [Meg]`s seventeenth birthday, she learns that she only has one year left to live. Her mentor—the Eternal Witch, http://anidb.net/ch141769 [Faust]—explains that she is cursed and the only way to save herself is to grow a seed of life using one thousand tears of joy. Of course, such tears aren`t easy to come by. As Meg begins her quest, she finds herself drawn into the lives of her friends and neighbors in ways she never imagined. By sharing their burdens and using her magic to comfort them, she learns how precious those moments of connection can be even in the face of death.\nSource: Yen Press\nNote: The first episode received an advance release on Kadokawa`s YouTube channel on 1 March 2025. The regular TV broadcast started on 1 April 2025.",
+  "description" : "* Based on a fantasy light novel series written by http://anidb.net/cr77358 [Saka] and ilustrated by http://anidb.net/cr80387 [Chorefuji].\nOn http://anidb.net/ch141770 [Meg]`s seventeenth birthday, she learns that she only has one year left to live. Her mentor—the Eternal Witch, http://anidb.net/ch141769 [Faust]—explains that she is cursed and the only way to save herself is to grow a seed of life using one thousand tears of joy. Of course, such tears aren`t easy to come by. As Meg begins her quest, she finds herself drawn into the lives of her friends and neighbors in ways she never imagined. By sharing their burdens and using her magic to comfort them, she learns how precious those moments of connection can be even in the face of death.\nSource: Yen Press\nNote: The first episode received an advance release on Kadokawa`s YouTube channel on 1 March 2025. Additionally, the first three episodes received an early screening at a special event on 8 March 2025 at United Cinemas Toyosu in Tokyo. The regular TV broadcast started on 1 April 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-03-01",
       "episode_id" : 293928,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.63,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WU7VM4J" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Witch with One Year to Live"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yomei Ichinen no Majo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "余命一年の魔女"
       } ],
       "type" : "REGULAR"
     }, {
@@ -86,8 +99,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Minarai Majo to Lapis no Hitobito"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Apprentice Witch and the People of Lapis"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "見習い魔女とラピスの人々"
       } ],
       "type" : "REGULAR"
     }, {
@@ -114,9 +133,21 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.96,
+      "total" : 20
+    },
+    "TEMPORARY" : {
+      "rating" : 5.02,
+      "total" : 20
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "395858" ],
+    "ANISON" : [ "25874" ],
     "ANN" : [ "32850" ],
+    "CRUNCHY_ROLL" : [ "GMEHME72W" ],
     "MAL" : [ "59169" ],
     "SYOBOI" : [ "7361" ],
     "TWITTER" : [ "arumajo_anime" ],
@@ -126,9 +157,109 @@
   },
   "start_date" : "2025-03-01",
   "tags" : {
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2642" : {
+      "info_box" : false,
+      "name" : "alternative present",
+      "parent_tag_id" : 2624,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -147,13 +278,21 @@
     "title" : "Aru Majo ga Shinu Made",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Once Upon a Witch`s Death",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ある魔女が死ぬまで",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Once Upon a Witch`s Death",
-    "type" : "SYNONYM"
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "直至魔女消逝",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "直至魔女消逝",
+    "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",
   "url" : "https://arumajo-anime.com/"

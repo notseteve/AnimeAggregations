@@ -21,9 +21,17 @@
       "name" : "Kawai Kenji",
       "type" : "MUSIC"
     } ],
+    "7033" : [ {
+      "name" : "Takata Akira",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "8730" : [ {
       "name" : "Itou Yuuki",
       "type" : "DIRECTOR"
+    } ],
+    "9749" : [ {
+      "name" : "Komori Atsushi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "10834" : [ {
       "name" : "Sasaki Keigo",
@@ -41,22 +49,36 @@
       "name" : "Cygames Pictures",
       "type" : "ANIMATION_WORK"
     } ],
+    "62472" : [ {
+      "name" : "Fukumoto Yousuke",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "78100" : [ {
       "name" : "Kindaichi Aki",
       "type" : "SERIES_COMPOSITION"
     } ]
   },
-  "description" : "* Based on a sport manga written by Sugiura Masafumi and drawn by Kuzumi Taiyou.",
+  "description" : "* Based on a sport manga written by Sugiura Masafumi and drawn by Kuzumi Taiyou.\nNote: The first two episodes received an early screening at a special event on 30 March 2025 at United Cinemas Aqua City Odaiba in Tokyo. The regular TV broadcast started on 6 April 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-04-06",
       "episode_id" : 294283,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.62,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "I`m Here"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Koko ni Iru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ここにいる"
       } ],
       "type" : "REGULAR"
     }, {
@@ -67,7 +89,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Let Me Race"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Watashi o Race ni Dashite"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "私をレースに出して"
       } ],
       "type" : "REGULAR"
     }, {
@@ -94,10 +122,21 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.1,
+      "total" : 4
+    },
+    "TEMPORARY" : {
+      "rating" : 4.75,
+      "total" : 4
+    }
+  },
   "related" : {
     "OTHER" : [ 13034 ]
   },
   "resources" : {
+    "AMAZON" : [ "B0F1RY7C41" ],
     "ANN" : [ "33371" ],
     "MAL" : [ "59636" ],
     "SYOBOI" : [ "7388" ],
@@ -129,8 +168,20 @@
     "title" : "Uma Musume: Cinderella Gray",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Umamusume: Cinderella Gray",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ウマ娘 シンデレラグレイ",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "賽馬娘 灰髮灰姑娘",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "赛马娘 芦毛灰姑娘",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

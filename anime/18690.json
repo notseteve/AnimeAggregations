@@ -43,8 +43,24 @@
       "name" : "Gita",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 147907,
+      "name" : "Hinomoto Natsu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 145287,
       "name" : "Nabiyu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147911,
+      "name" : "Sorano Riku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147912,
+      "name" : "Sorano Seishirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147910,
+      "name" : "Sorano Youko",
       "type" : "CHARACTER"
     } ]
   },
@@ -68,6 +84,9 @@
     "7867" : [ {
       "name" : "Akiyama Yukiko",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Akiyama Yukiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "12417" : [ {
       "name" : "Aisora Manta",
@@ -86,8 +105,84 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-04-06",
+      "episode_id" : 294279,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-13",
+      "episode_id" : 294280,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-20",
+      "episode_id" : 294281,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-27",
+      "episode_id" : 294282,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-03-30",
+      "episode_id" : 294616,
+      "length" : 30,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Chokuzen Tokuban"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前特番"
+      } ],
+      "type" : "SPECIAL"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.99,
+      "total" : 2
+    },
+    "TEMPORARY" : {
+      "rating" : 6.0,
+      "total" : 2
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "395577" ],
+    "ANISON" : [ "25893" ],
     "ANN" : [ "32811" ],
     "MAL" : [ "59078" ],
     "SYOBOI" : [ "7378" ],

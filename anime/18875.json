@@ -94,6 +94,7 @@
       "type" : "SERIES_COMPOSITION"
     } ]
   },
+  "end_date" : "2025-03-30",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-01-12",
@@ -248,7 +249,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 4.7,
+        "rating" : 4.71,
         "total" : 1
       },
       "recap" : false,
@@ -289,6 +290,10 @@
       "episode_id" : 293155,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 3.88,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -306,30 +311,33 @@
       "episode_id" : 293156,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 3.15,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
-      } ],
-      "type" : "REGULAR"
-    }, {
-      "air_date" : "2025-04-06",
-      "episode_id" : 293157,
-      "length" : 25,
-      "number" : 12,
-      "recap" : false,
-      "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Fighting to Live!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ikiru Tame no Tatakai!!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "生きるための闘い!!"
       } ],
       "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
       "air_date" : "2025-03-09",
       "episode_id" : 293820,
-      "length" : 30,
+      "length" : 25,
       "number" : 1,
-      "recap" : false,
+      "rating" : {
+        "rating" : 2.06,
+        "total" : 1
+      },
+      "recap" : true,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode S1"
@@ -345,12 +353,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.64,
-      "total" : 8
+      "rating" : 3.89,
+      "total" : 12
     },
     "TEMPORARY" : {
-      "rating" : 4.25,
-      "total" : 8
+      "rating" : 4.29,
+      "total" : 12
     }
   },
   "related" : {

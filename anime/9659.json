@@ -472,7 +472,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.5,
+        "rating" : 5.51,
         "total" : 13
       },
       "recap" : false,
@@ -699,15 +699,15 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.12,
-      "total" : 2484
+      "total" : 2497
     },
     "REVIEW" : {
       "rating" : 5.33,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.34,
-      "total" : 2497
+      "rating" : 6.35,
+      "total" : 2510
     }
   },
   "related" : {
@@ -854,6 +854,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1147,6 +1154,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3217" : {
       "info_box" : false,
       "name" : "working life",
@@ -1293,6 +1308,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

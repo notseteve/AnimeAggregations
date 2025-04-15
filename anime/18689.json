@@ -97,10 +97,23 @@
       "episode_id" : 294255,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.64,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14UVJGX1" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Ceremony"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shikiten"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "式典 -Ceremony-"
       } ],
       "type" : "REGULAR"
     }, {
@@ -138,9 +151,21 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.82,
+      "total" : 11
+    },
+    "TEMPORARY" : {
+      "rating" : 2.81,
+      "total" : 11
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "395949" ],
+    "ANISON" : [ "25887" ],
     "ANN" : [ "32810" ],
+    "CRUNCHY_ROLL" : [ "GEXH3W2MZ" ],
     "MAL" : [ "59070" ],
     "SYOBOI" : [ "7376" ],
     "TWITTER" : [ "GUILTYGEAR_STDR" ],
@@ -151,6 +176,21 @@
   },
   "start_date" : "2025-04-05",
   "tags" : {
+    "4606" : {
+      "info_box" : false,
+      "name" : "slide show animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -178,6 +218,14 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Guilty Gear Strive: Dual Rulers",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "罪恶装备 -奋战- DUAL RULERS",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "聖騎士之戰 奮戰：DUAL RULERS",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

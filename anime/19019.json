@@ -50,6 +50,10 @@
       "name" : "Nishimura Keiko",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 148086,
+      "name" : "Nishimura Makoto",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 147206,
       "name" : "Sakagami Ruka",
       "type" : "CHARACTER"
@@ -60,6 +64,10 @@
     }, {
       "character_id" : 147207,
       "name" : "Shinbashi Wakaba",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148025,
+      "name" : "Sunda Odoru",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -159,7 +167,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.73,
+        "rating" : 8.74,
         "total" : 1
       },
       "recap" : false,
@@ -183,7 +191,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.17,
+        "rating" : 4.15,
         "total" : 1
       },
       "recap" : false,
@@ -251,7 +259,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.17,
+        "rating" : 4.15,
         "total" : 1
       },
       "recap" : false,
@@ -295,6 +303,9 @@
       "length" : 25,
       "number" : 7,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU8XKJ4" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Dancing Heart! Cure Kyun-Kyun`s Debut!"
@@ -312,9 +323,18 @@
       "length" : 25,
       "number" : 8,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UVEGQW" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Minna de Otomari! Idol Precure Dai Kenkyuu!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Sleepover! Idol Precure Study Session!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "みんなでお泊り! アイドルプリキュア大研究!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -323,9 +343,18 @@
       "length" : 25,
       "number" : 9,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8JPEV" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nana no Nanafushigi!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "The Seven Wonders of Nana!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ななの七不思議!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -336,7 +365,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "CD Debut! Idol Precure"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "CD Debut! Idol Precure!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "CDデビュー! アイドルプリキュア!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -365,12 +400,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.52,
-      "total" : 6
+      "rating" : 4.23,
+      "total" : 9
     },
     "TEMPORARY" : {
-      "rating" : 5.0,
-      "total" : 6
+      "rating" : 4.88,
+      "total" : 9
     }
   },
   "related" : {
@@ -417,6 +452,10 @@
     "language" : "JAPANESE",
     "title" : "キミとアイドルプリキュア♪",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "kimipre",
+    "type" : "SHORT"
   }, {
     "language" : "ENGLISH",
     "title" : "precure22",

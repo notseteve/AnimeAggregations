@@ -72,6 +72,51 @@
   },
   "description" : "* Based on a fantasy light novel series written by http://anidb.net/cr58989 [Morita Kisetsu] and illustrated by http://anidb.net/cr58990 [Benio].",
   "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-04-05",
+      "episode_id" : 294347,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-12",
+      "episode_id" : 294348,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-19",
+      "episode_id" : 294349,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-26",
+      "episode_id" : 294350,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2024-10-12",
       "episode_id" : 287611,
@@ -79,8 +124,14 @@
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hon PV Dai 1 Dan"
+      }, {
         "language" : "ENGLISH",
         "title" : "PV 1 (1:59)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "本PV第1弾"
       } ],
       "type" : "PROMOTION"
     } ]
@@ -90,12 +141,15 @@
   },
   "resources" : {
     "ALL_CINEMA" : [ "380886" ],
+    "ANISON" : [ "23474" ],
     "ANN" : [ "25109" ],
     "MAL" : [ "50738" ],
+    "SYOBOI" : [ "7366" ],
     "TWITTER" : [ "slime300_PR" ],
     "WEBSITE" : [ "https://slime300-anime.com/" ],
     "WIKIPEDIA_EN" : [ "I've_Been_Killing_Slimes_for_300_Years_and_Maxed_Out_My_Level" ],
-    "WIKIPEDIA_JP" : [ "スライム倒して300年、知らないうちにレベルMAXになってました" ]
+    "WIKIPEDIA_JP" : [ "スライム倒して300年、知らないうちにレベルMAXになってました" ],
+    "YOUTUBE" : [ "watch?v=CA_8yaiAtN8" ]
   },
   "start_date" : "2025-04-05",
   "tags" : {
@@ -120,6 +174,10 @@
     "title" : "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita Sono Ni",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "I`ve Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "INDONESIAN",
     "title" : "Tanpa Sadar Levelku Mentok Setelah Membasmi Slime Selama 300 Tahun Musim Kedua",
     "type" : "OFFICIAL"
@@ -127,10 +185,6 @@
     "language" : "JAPANESE",
     "title" : "スライム倒して300年, 知らないうちにレベルMAXになってました ~そのに~",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "I`ve Been Killing Slimes for 300 Years and Maxed Out My Level 2",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://slime300-anime.com/"

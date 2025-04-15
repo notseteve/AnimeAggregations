@@ -66,7 +66,7 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 6.37,
+        "rating" : 6.36,
         "total" : 4
       },
       "recap" : false,
@@ -109,12 +109,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.19,
-      "total" : 538
+      "rating" : 3.17,
+      "total" : 541
     },
     "TEMPORARY" : {
-      "rating" : 5.39,
-      "total" : 544
+      "rating" : 5.38,
+      "total" : 547
     }
   },
   "resources" : {
@@ -232,6 +232,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -438,6 +445,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4327" : {
       "info_box" : false,
       "name" : "be careful what you wish for",
@@ -465,6 +480,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

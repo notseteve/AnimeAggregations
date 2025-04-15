@@ -430,7 +430,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 5.06,
+        "rating" : 5.07,
         "total" : 7
       },
       "recap" : false,
@@ -499,15 +499,15 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.0,
-      "total" : 2211
+      "total" : 2212
     },
     "REVIEW" : {
       "rating" : 5.99,
       "total" : 3
     },
     "TEMPORARY" : {
-      "rating" : 6.52,
-      "total" : 2225
+      "rating" : 6.51,
+      "total" : 2226
     }
   },
   "related" : {
@@ -575,6 +575,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -672,6 +679,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3411" : {
       "info_box" : false,
       "name" : "fighting",
@@ -699,6 +714,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

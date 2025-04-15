@@ -6,6 +6,10 @@
       "name" : "Brian",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 147734,
+      "name" : "Ichinomiya Wataru",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 147054,
       "name" : "Miku",
       "type" : "CHARACTER"
@@ -20,6 +24,14 @@
     }, {
       "character_id" : 147049,
       "name" : "Mitsui Retto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147958,
+      "name" : "Nokogiriyama Ken",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147735,
+      "name" : "Shishio Kazuma",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -94,10 +106,6 @@
     } ]
   },
   "creators" : {
-    "3020" : [ {
-      "name" : "Monaca",
-      "type" : "MUSIC"
-    } ],
     "3553" : [ {
       "name" : "Iida Fumio",
       "type" : "CHARACTER_DESIGN"
@@ -110,19 +118,102 @@
       "name" : "Murakoshi Shigeru",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "40798" : [ {
+      "name" : "Hirokawa Keiichi",
+      "type" : "MUSIC"
+    } ],
     "79275" : [ {
       "name" : "Suga Tatsurou",
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "To escape his tiring job, weary http://anidb.net/ch144620 [Murata] finds escape at a nearby baseball stadium. While the games are thrilling, it`s http://anidb.net/ch144619 [Ruriko], the gyaru as cold as the beer she serves but secretly a sweetheart, who keeps him coming back. As her first regular, Murata discovers the warmth behind her frosty demeanor, and their hilarious, heartwarming encounters light up the ballpark and maybe even their hearts.\nSource: Crunchyroll",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-04-02",
+      "episode_id" : 294223,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 4.68,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14UVJM02" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Beer Uriko no Ruriko-san / Jouren-san, Irasshai / Ame to Namida"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Ruriko the Beer Vendor Girl / Welcome, Regular / Candy and Tears"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ビール売り子のルリコさん / 常連さん, いらっしゃい♡ / アメと涙"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-09",
+      "episode_id" : 294224,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "The Definition of a Baseball Fan / No! Never! / The Triangular Cloth of Innocence"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yakyuu Fan Taru Mono / Dame! Zettai! / Junjou Sankakukin"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "野球ファンたるもの / ダメ! ゼッタイ! / 純情三角巾"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-16",
+      "episode_id" : 294225,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-04-23",
+      "episode_id" : 294226,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.07,
+      "total" : 15
+    },
+    "TEMPORARY" : {
+      "rating" : 4.4,
+      "total" : 15
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "397921" ],
+    "ANISON" : [ "25875" ],
     "ANN" : [ "34018" ],
+    "CRUNCHY_ROLL" : [ "GVDHX85EQ" ],
     "MAL" : [ "60293" ],
     "SYOBOI" : [ "7400" ],
     "TWITTER" : [ "ballpark_PR" ],
     "WEBSITE" : [ "https://anime-ballpark.com/" ],
-    "WIKIPEDIA_EN" : [ "Ballpark_de_Tsukamaete!" ],
+    "WIKIPEDIA_EN" : [ "Catch_Me_at_the_Ballpark!" ],
     "WIKIPEDIA_JP" : [ "ボールパークでつかまえて!" ]
   },
   "start_date" : "2025-04-02",
@@ -148,8 +239,16 @@
     "title" : "Ballpark de Tsukamaete!",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Catch Me at the Ballpark!",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ボールパークでつかまえて!",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "阳光马达棒球场!",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

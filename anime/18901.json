@@ -1,6 +1,11 @@
 {
   "anime_id" : 18901,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 127016,
+      "name" : "Hoshino Ai",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 128518,
       "name" : "Hoshino Aquamarine",
@@ -33,9 +38,28 @@
     } ]
   },
   "creators" : {
+    "1067" : [ {
+      "name" : "Doga Kobo",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "9626" : [ {
+      "name" : "Hiramaki Daisuke",
+      "type" : "DIRECTOR"
+    } ],
+    "37823" : [ {
+      "name" : "Tanaka Jin",
+      "type" : "SERIES_COMPOSITION"
+    } ],
     "40028" : [ {
       "name" : "Yokoyari Mengo",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "49858" : [ {
+      "name" : "Hirayama Kanna",
+      "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Hirayama Kanna",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "55229" : [ {
       "name" : "Akasaka Aka",
@@ -84,16 +108,47 @@
     "PREQUEL" : [ 18086 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "399210" ],
     "ANN" : [ "33662" ],
     "MAL" : [ "60058" ],
     "TWITTER" : [ "anime_oshinoko" ],
-    "WEBSITE" : [ "https://ichigoproduction.com/" ],
+    "WEBSITE" : [ "https://ichigoproduction.com/Season3/" ],
     "WIKIPEDIA_EN" : [ "Oshi_no_Ko" ],
     "WIKIPEDIA_JP" : [ "【推しの子】" ],
     "YOUTUBE" : [ "watch?v=YMsDROPoe1o", "watch?v=wRiwe0FGzJU" ]
   },
   "start_date" : "2026",
   "tags" : {
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

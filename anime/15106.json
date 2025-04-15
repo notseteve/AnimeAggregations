@@ -307,7 +307,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.99,
+        "rating" : 4.98,
         "total" : 4
       },
       "recap" : false,
@@ -400,7 +400,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 1.79,
+        "rating" : 1.78,
         "total" : 3
       },
       "recap" : false,
@@ -462,7 +462,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 3.53,
+        "rating" : 3.52,
         "total" : 4
       },
       "recap" : false,
@@ -493,7 +493,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.9,
+        "rating" : 6.89,
         "total" : 4
       },
       "recap" : false,
@@ -802,12 +802,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.02,
-      "total" : 492
+      "rating" : 6.04,
+      "total" : 513
     },
     "TEMPORARY" : {
-      "rating" : 7.05,
-      "total" : 497
+      "rating" : 7.06,
+      "total" : 518
     }
   },
   "related" : {
@@ -849,6 +849,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1009,6 +1016,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3898" : {
       "info_box" : false,
       "name" : "science and magic coexist",
@@ -1075,6 +1090,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

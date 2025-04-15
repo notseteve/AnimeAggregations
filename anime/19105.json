@@ -29,6 +29,16 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.28,
+      "total" : 2
+    },
+    "TEMPORARY" : {
+      "rating" : 5.83,
+      "total" : 3
+    }
+  },
   "related" : {
     "OTHER" : [ 18337 ]
   },
@@ -91,9 +101,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6494" : {
+      "info_box" : true,
+      "name" : "half-length episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -115,6 +140,10 @@
     "language" : "JAPANESE",
     "title" : "OVA 夕顔",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "박꽃",
+    "type" : "SYNONYM"
   } ],
   "type" : "OVA",
   "url" : "https://www.lune-soft.jp/ova/28601"

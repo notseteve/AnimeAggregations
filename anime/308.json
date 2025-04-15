@@ -47,7 +47,7 @@
       "length" : 35,
       "number" : 1,
       "rating" : {
-        "rating" : 5.7,
+        "rating" : 5.69,
         "total" : 4
       },
       "recap" : false,
@@ -68,7 +68,7 @@
       "length" : 30,
       "number" : 2,
       "rating" : {
-        "rating" : 7.83,
+        "rating" : 7.82,
         "total" : 3
       },
       "recap" : false,
@@ -89,7 +89,7 @@
       "length" : 30,
       "number" : 3,
       "rating" : {
-        "rating" : 7.83,
+        "rating" : 7.82,
         "total" : 3
       },
       "recap" : false,
@@ -146,6 +146,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -306,10 +313,26 @@
       "verified" : false,
       "weight" : 200
     },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5939" : {
       "info_box" : false,
       "name" : "CAST MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -324,6 +347,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

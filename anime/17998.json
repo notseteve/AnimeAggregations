@@ -136,7 +136,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.7,
+        "rating" : 5.72,
         "total" : 7
       },
       "recap" : false,
@@ -160,7 +160,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.78,
+        "rating" : 5.8,
         "total" : 6
       },
       "recap" : false,
@@ -208,7 +208,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.18,
+        "rating" : 5.2,
         "total" : 4
       },
       "recap" : false,
@@ -232,7 +232,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.79,
+        "rating" : 7.78,
         "total" : 4
       },
       "recap" : false,
@@ -280,7 +280,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.71,
+        "rating" : 5.72,
         "total" : 4
       },
       "recap" : false,
@@ -328,7 +328,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.92,
+        "rating" : 6.93,
         "total" : 4
       },
       "recap" : false,
@@ -352,7 +352,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.76,
+        "rating" : 7.78,
         "total" : 4
       },
       "recap" : false,
@@ -424,7 +424,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 8.07,
+        "rating" : 8.08,
         "total" : 4
       },
       "recap" : false,
@@ -481,12 +481,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.62,
-      "total" : 288
+      "rating" : 7.67,
+      "total" : 314
     },
     "TEMPORARY" : {
-      "rating" : 7.47,
-      "total" : 294
+      "rating" : 7.48,
+      "total" : 320
     }
   },
   "resources" : {
@@ -510,6 +510,10 @@
     "16063" : {
       "rating" : 6.666666666666666,
       "total" : 3
+    },
+    "17938" : {
+      "rating" : 5.0,
+      "total" : 2
     }
   },
   "start_date" : "2024-04-06",
@@ -521,6 +525,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2607" : {
       "info_box" : false,
@@ -536,12 +547,59 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2794" : {
       "info_box" : true,
@@ -559,6 +617,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2844" : {
+      "info_box" : true,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2883" : {
       "info_box" : true,
       "name" : "the arts",
@@ -566,6 +640,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "3741" : {
+      "info_box" : false,
+      "name" : "bullying",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "5862" : {
       "info_box" : false,
@@ -575,9 +681,32 @@
       "verified" : false,
       "weight" : 0
     },
+    "6097" : {
+      "info_box" : false,
+      "name" : "3D CG animation",
+      "parent_tag_id" : 4064,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

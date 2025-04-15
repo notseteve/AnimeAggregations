@@ -237,7 +237,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.56,
+        "rating" : 4.57,
         "total" : 9
       },
       "recap" : false,
@@ -454,7 +454,7 @@
       "length" : 4,
       "number" : 3,
       "rating" : {
-        "rating" : 2.63,
+        "rating" : 2.64,
         "total" : 3
       },
       "recap" : false,
@@ -475,7 +475,7 @@
       "length" : 4,
       "number" : 4,
       "rating" : {
-        "rating" : 2.63,
+        "rating" : 2.64,
         "total" : 3
       },
       "recap" : false,
@@ -517,7 +517,7 @@
       "length" : 4,
       "number" : 6,
       "rating" : {
-        "rating" : 2.63,
+        "rating" : 2.64,
         "total" : 3
       },
       "recap" : false,
@@ -695,15 +695,15 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.47,
-      "total" : 2430
+      "total" : 2443
     },
     "REVIEW" : {
       "rating" : 4.83,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.06,
-      "total" : 2445
+      "rating" : 6.05,
+      "total" : 2459
     }
   },
   "resources" : {
@@ -756,6 +756,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -977,6 +984,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3191" : {
       "info_box" : false,
       "name" : "hanami",
@@ -1059,6 +1074,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

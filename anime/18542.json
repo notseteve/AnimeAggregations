@@ -1,6 +1,11 @@
 {
   "anime_id" : 18542,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 130361,
+      "name" : "Tooi Kagizume no Yuno",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 133975,
       "name" : "Akai Shisen no Elea",
@@ -243,7 +248,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.61,
+        "rating" : 5.6,
         "total" : 3
       },
       "recap" : false,
@@ -267,7 +272,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.11,
+        "rating" : 4.1,
         "total" : 3
       },
       "recap" : false,
@@ -362,6 +367,10 @@
       "episode_id" : 292782,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 5.37,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -382,10 +391,17 @@
       "episode_id" : 292783,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 5.37,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Gyakuri no Hiroto"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Hiroto le Paradoxe"
       }, {
         "language" : "ENGLISH",
         "title" : "Hiroto the Paradox"
@@ -399,10 +415,17 @@
       "episode_id" : 292784,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 9.9,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Shiki, Enemy of All"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Shiki, l`ennemie de tous"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Subete no Teki, Shiki"
@@ -415,12 +438,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.37,
-      "total" : 19
+      "rating" : 5.85,
+      "total" : 58
+    },
+    "REVIEW" : {
+      "rating" : 5.16,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.6,
-      "total" : 19
+      "rating" : 6.77,
+      "total" : 59
     }
   },
   "related" : {
@@ -462,6 +489,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Ishura (2025)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "异修罗 第二季",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
