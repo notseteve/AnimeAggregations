@@ -2,6 +2,14 @@
   "anime_id" : 18546,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 148118,
+      "name" : "Haruno no Sobo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148117,
+      "name" : "Makinohara",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146089,
       "name" : "Taishou",
       "type" : "CHARACTER"
@@ -36,6 +44,9 @@
     "37039" : [ {
       "name" : "Miyahara Takuya",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Miyahara Takuya",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "48518" : [ {
       "name" : "Afro",
@@ -61,10 +72,23 @@
       "episode_id" : 294363,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.57,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UG2KE3" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Mono Trip"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mono no Tabi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "monoの旅"
       } ],
       "type" : "REGULAR"
     }, {
@@ -72,10 +96,23 @@
       "episode_id" : 294364,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUEMP1E" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Making of Kuusatsu!! / Classmate Tazunete Sanzen Ri: Motovlog Part 12"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Making of Some Aerial Photography! / Visiting a Classmate, 3000 Leagues - Motovlog Part 12"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "メイキング・オブ・空撮!! / クラスメイト訪ねて三千里 ~モトブログパート12~"
       } ],
       "type" : "REGULAR"
     }, {
@@ -240,9 +277,21 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.4,
+      "total" : 17
+    },
+    "TEMPORARY" : {
+      "rating" : 5.88,
+      "total" : 17
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "397005" ],
+    "ANISON" : [ "25919" ],
     "ANN" : [ "32545" ],
+    "CRUNCHY_ROLL" : [ "G1XHJV0N8" ],
     "MAL" : [ "58492" ],
     "SYOBOI" : [ "7420" ],
     "TWITTER" : [ "mono_weekend" ],
@@ -280,6 +329,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "mono",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "mono女孩",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "mono女孩",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

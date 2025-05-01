@@ -1,6 +1,27 @@
 {
   "anime_id" : 1403,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 148101,
+      "name" : "Crabelli",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148097,
+      "name" : "Galliano",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148099,
+      "name" : "Michaela",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148098,
+      "name" : "Pinneri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148100,
+      "name" : "Renata",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 52222,
       "name" : "Adolfo",
@@ -9,6 +30,10 @@
     "SECONDARY" : [ {
       "character_id" : 131478,
       "name" : "Datenshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148096,
+      "name" : "Fernando",
       "type" : "CHARACTER"
     } ]
   },
@@ -90,6 +115,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "2008" : {
+      "info_box" : false,
+      "name" : "small breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2346" : {
       "info_box" : false,
       "name" : "angel",
@@ -101,6 +142,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -187,6 +235,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2641" : {
+      "info_box" : true,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2646" : {
       "info_box" : true,
       "name" : "demon",
@@ -251,6 +307,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2715" : {
+      "info_box" : false,
+      "name" : "rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2718" : {
+      "info_box" : false,
+      "name" : "male rape victim",
+      "parent_tag_id" : 2715,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2722" : {
       "info_box" : false,
       "name" : "doggy style",
@@ -283,6 +355,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2785" : {
       "info_box" : false,
       "name" : "unrequited love",
@@ -295,6 +375,14 @@
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2823" : {
+      "info_box" : false,
+      "name" : "paper clothes",
+      "parent_tag_id" : 2856,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -331,6 +419,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2858" : {
       "info_box" : false,
       "name" : "romance",
@@ -339,9 +435,25 @@
       "verified" : false,
       "weight" : 200
     },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2876" : {
       "info_box" : false,
       "name" : "religion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2878" : {
+      "info_box" : true,
+      "name" : "conspiracy",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
@@ -386,6 +498,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "3253" : {
       "info_box" : false,
@@ -441,6 +569,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6268" : {
       "info_box" : false,
       "name" : "fellatio",
@@ -448,6 +584,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6730" : {
+      "info_box" : false,
+      "name" : "torture",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7050" : {
       "info_box" : false,
@@ -461,6 +605,22 @@
       "info_box" : false,
       "name" : "sexual abuse",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7221" : {
+      "info_box" : false,
+      "name" : "psychological sexual abuse",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "7229" : {
+      "info_box" : false,
+      "name" : "fingering",
+      "parent_tag_id" : 2848,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

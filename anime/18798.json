@@ -1,6 +1,23 @@
 {
   "anime_id" : 18798,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 148281,
+      "name" : "Higa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148138,
+      "name" : "Nukko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 123556,
+      "name" : "Raidou Haha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148137,
+      "name" : "Tsubutanu",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 118751,
       "name" : "Aharen Reina",
@@ -73,10 +90,6 @@
       "name" : "Ishii Yumiko",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
-    "3020" : [ {
-      "name" : "Monaca",
-      "type" : "MUSIC"
-    } ],
     "3730" : [ {
       "name" : "Yoshioka Takao",
       "type" : "SERIES_COMPOSITION"
@@ -93,6 +106,14 @@
       "name" : "Mishima Chie",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "26663" : [ {
+      "name" : "Yamamoto Saori",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "29390" : [ {
+      "name" : "Yui Tetsutarou",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "38902" : [ {
       "name" : "Mizu Asato",
       "type" : "ORIGINAL_WORK"
@@ -104,6 +125,14 @@
     "45896" : [ {
       "name" : "Makino Tomoe",
       "type" : "DIRECTOR"
+    } ],
+    "66723" : [ {
+      "name" : "Inoue Keita",
+      "type" : "MUSIC"
+    } ],
+    "66725" : [ {
+      "name" : "Oliver Good",
+      "type" : "MUSIC"
     } ]
   },
   "description" : "* Based on a romantic comedy school manga by http://anidb.net/cr38902 [Mizu Asato].",
@@ -113,10 +142,26 @@
       "episode_id" : 294628,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.83,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUW01QJ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "A Transfer Student, Huh?"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Ce serait pas une nouvelle élève ?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tenkousei ja Ne?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "転校生じゃね?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -125,9 +170,21 @@
       "length" : 25,
       "number" : 2,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14UVJ94D" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "C`est pas Animal Passing, ça ?"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Kinda Grainy, Huh?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsubutsubu ja Ne?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "つぶつぶじゃね?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -136,9 +193,18 @@
       "length" : 25,
       "number" : 3,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQ792Z" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Taiikusai ja Ne?"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Athletics Festival, Huh?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "体育祭じゃね?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -149,9 +215,82 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "An Idol, Huh?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Idol ja Ne?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アイドルじゃね?"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-05",
+      "episode_id" : 295276,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-12",
+      "episode_id" : 295277,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-19",
+      "episode_id" : 295278,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-26",
+      "episode_id" : 295279,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-04-07",
+      "episode_id" : 295124,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-04-07",
+      "episode_id" : 295125,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2024-08-04",
@@ -172,6 +311,16 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.96,
+      "total" : 17
+    },
+    "TEMPORARY" : {
+      "rating" : 6.02,
+      "total" : 17
+    }
+  },
   "related" : {
     "PREQUEL" : [ 16505 ]
   },
@@ -179,6 +328,7 @@
     "ALL_CINEMA" : [ "398590" ],
     "ANISON" : [ "24203" ],
     "ANN" : [ "33097" ],
+    "CRUNCHY_ROLL" : [ "GNVHKN72N" ],
     "MAL" : [ "59466" ],
     "SYOBOI" : [ "7399" ],
     "TWITTER" : [ "aharen_pr" ],
@@ -225,6 +375,10 @@
     "language" : "JAPANESE",
     "title" : "阿波連さんははかれない season2",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Aharen-san wa Hakarenai S2",
+    "type" : "SYNONYM"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "测不准的阿波连同学 第二季",

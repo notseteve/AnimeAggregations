@@ -49,30 +49,40 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.28,
-        "total" : 3
+        "rating" : 6.64,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Gokigen`you / Sonna Guitar Yamechimae!!!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Good Day to You / Quit That Guitar Already!!!"
       }, {
         "language" : "JAPANESE",
         "title" : "ごきげんよう♥ / そんなギターやめちまえ!!!"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-04-10",
+      "air_date" : "2025-04-11",
       "episode_id" : 294236,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.84,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Let`s Collaborate! / I Will Never Admit to That!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Majiwarimashou / Zettai, Mitomenai!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "交わりましょう♥ / 絶対, 認めない!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -101,12 +111,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.92,
-      "total" : 8
+      "rating" : 4.9,
+      "total" : 19
     },
     "TEMPORARY" : {
-      "rating" : 5.31,
-      "total" : 8
+      "rating" : 5.94,
+      "total" : 19
     }
   },
   "resources" : {
@@ -148,6 +158,13 @@
     "2610" : {
       "info_box" : false,
       "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -232,6 +249,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4785" : {
       "info_box" : false,
       "name" : "rock music",
@@ -240,9 +265,32 @@
       "verified" : false,
       "weight" : 0
     },
+    "5515" : {
+      "info_box" : false,
+      "name" : "faceless background characters",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

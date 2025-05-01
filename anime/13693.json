@@ -1,6 +1,11 @@
 {
   "anime_id" : 13693,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 148169,
+      "name" : "Kataribe Obaasan",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 141785,
       "name" : "Kushima Kamome",
@@ -64,6 +69,9 @@
     "1006" : [ {
       "name" : "Feel",
       "type" : "ANIMATION_WORK"
+    }, {
+      "name" : "Feel",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "1046" : [ {
       "name" : "Visual Art`s/Key",
@@ -83,10 +91,17 @@
     "4255" : [ {
       "name" : "Ootsuka Mai",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Ootsuka Mai",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "19347" : [ {
       "name" : "Oochi Keiichirou",
       "type" : "SERIES_COMPOSITION"
+    } ],
+    "22140" : [ {
+      "name" : "Tsujigami Ayaka",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "32931" : [ {
       "name" : "Mizutsuki Ryou",
@@ -100,25 +115,36 @@
       "name" : "Donmaru",
       "type" : "MUSIC"
     } ],
+    "59376" : [ {
+      "name" : "Yanagawa Saki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "77388" : [ {
       "name" : "Oohashi Shuuhei",
       "type" : "MUSIC"
     } ]
   },
-  "description" : "Note: The first two episodes received an early screening at a special event on 15 March 2025 at Animachi Recreation 2025 in Tokyo. The regular TV broadcast started on 7 April 2025.",
+  "description" : "http://anidb.net/ch141789 [Takahara Hairi] never expected summer to feel like a dream. Sent to Torishirojima to sort through his late grandmother`s belongings, he`s met with endless sea, quiet nostalgia, and mysterious girls, each chasing something just out of reach. As he settles into island life, lost memories begin to surface and he finds what he never knew he`d lost.\nSource: Crunchyroll\nNote: The first two episodes received an early screening at a special event on 15 March 2025 at Animachi Recreation 2025 in Tokyo. The regular TV broadcast started on 7 April 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-04-07",
       "episode_id" : 294287,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.07,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7ME7J" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Torishirojima e Youkoso"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Welcome to Torishirojima Island"
       }, {
         "language" : "JAPANESE",
         "title" : "鳥白島へようこそ"
@@ -129,10 +155,23 @@
       "episode_id" : 294288,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.73,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX54XJ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "How to Spend Your Summer Vacation"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Natsuyasumi no Sugoshikata"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夏休みの過ごし方"
       } ],
       "type" : "REGULAR"
     }, {
@@ -157,11 +196,98 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-05",
+      "episode_id" : 295666,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-12",
+      "episode_id" : 295667,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-19",
+      "episode_id" : 295668,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-26",
+      "episode_id" : 295669,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-04-07",
+      "episode_id" : 295303,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 7.65,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-04-14",
+      "episode_id" : 295304,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 9.5,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.87,
+      "total" : 17
+    },
+    "TEMPORARY" : {
+      "rating" : 6.29,
+      "total" : 17
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "395863" ],
+    "ANISON" : [ "25908" ],
     "ANN" : [ "32853" ],
+    "CRUNCHY_ROLL" : [ "G0XHWM17X" ],
     "MAL" : [ "50694" ],
     "SYOBOI" : [ "7381" ],
     "TWITTER" : [ "samapoke_anime" ],
@@ -169,6 +295,12 @@
     "WEBSITE" : [ "https://summerpockets-anime.jp/" ],
     "WIKIPEDIA_EN" : [ "Summer_Pockets" ],
     "WIKIPEDIA_JP" : [ "Summer_Pockets" ]
+  },
+  "similar" : {
+    "5101" : {
+      "rating" : 10.0,
+      "total" : 2
+    }
   },
   "start_date" : "2025-04-07",
   "tags" : {

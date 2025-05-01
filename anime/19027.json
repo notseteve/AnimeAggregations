@@ -2,8 +2,40 @@
   "anime_id" : 19027,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 148161,
+      "name" : "Araga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148166,
+      "name" : "Benowa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148163,
+      "name" : "Cowal",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 9127,
       "name" : "Haro",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148162,
+      "name" : "Oshiro",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148167,
+      "name" : "Ragouchi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148168,
+      "name" : "Rashit",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148164,
+      "name" : "Sefa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148165,
+      "name" : "Tangi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 146638,
@@ -45,19 +77,19 @@
     } ],
     "SECONDARY" : [ {
       "character_id" : 146294,
-      "name" : "Anky",
+      "name" : "Annqi",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 146296,
-      "name" : "Cane",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 44335,
+      "character_id" : 148087,
       "name" : "Challia Bull",
       "type" : "CHARACTER"
     }, {
       "character_id" : 3974,
       "name" : "Char Aznable",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146297,
+      "name" : "Comoli Harcourt",
       "type" : "CHARACTER"
     }, {
       "character_id" : 44337,
@@ -69,15 +101,15 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 146298,
-      "name" : "Jessie",
+      "name" : "Jezzi",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 146297,
-      "name" : "Komori Harcourt",
+      "character_id" : 146296,
+      "name" : "Kaine",
       "type" : "CHARACTER"
     }, {
       "character_id" : 146299,
-      "name" : "Nab",
+      "name" : "Nabu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 146300,
@@ -142,10 +174,26 @@
       "episode_id" : 294311,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.43,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akai Gundam"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Der Rote Gundam"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le Gundam Rouge"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Red Gundam"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "赤いガンダム"
       } ],
       "type" : "REGULAR"
     }, {
@@ -153,10 +201,26 @@
       "episode_id" : 294312,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.94,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Der Weiße Gundam"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le Gundam Blanc"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shiroi Gundam"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The White Gundam"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "白いガンダム"
       } ],
       "type" : "REGULAR"
     }, {
@@ -166,8 +230,17 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Clan Battle no Machu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Machu in Clan Battle"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Machu und das Clan-Battle"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "クランバトルのマチュ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -181,16 +254,83 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-07",
+      "episode_id" : 295299,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-14",
+      "episode_id" : 295300,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-21",
+      "episode_id" : 295301,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-28",
+      "episode_id" : 295302,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-04-16",
+      "episode_id" : 295298,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-04-09",
+      "episode_id" : 295056,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 9.72,
-      "total" : 2
+      "rating" : 6.28,
+      "total" : 22
     },
     "TEMPORARY" : {
-      "rating" : 8.0,
-      "total" : 2
+      "rating" : 6.2,
+      "total" : 22
     }
   },
   "related" : {
@@ -200,13 +340,15 @@
   "resources" : {
     "ALL_CINEMA" : [ "398297" ],
     "AMAZON" : [ "B0DMZD1ZK8" ],
+    "ANISON" : [ "25854" ],
     "ANN" : [ "34125" ],
     "MAL" : [ "60449" ],
     "SYOBOI" : [ "7364" ],
     "TWITTER" : [ "G_GQuuuuuuX" ],
     "WEBSITE" : [ "https://www.gundam.info/feature/gquuuuuux/" ],
     "WIKIPEDIA_EN" : [ "Mobile_Suit_Gundam_GQuuuuuuX" ],
-    "WIKIPEDIA_JP" : [ "機動戦士GundamGQuuuuuuX" ]
+    "WIKIPEDIA_JP" : [ "機動戦士GundamGQuuuuuuX" ],
+    "YOUTUBE" : [ "watch?v=Rd3Gu4pQURY", "watch?v=dcxhZTb_6zs" ]
   },
   "start_date" : "2025-04-09",
   "tags" : {
@@ -230,6 +372,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Kidou Senshi Gundam GQuuuuuuX",
     "type" : "MAIN"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Mobile Suit Gundam GQuuuuuuX",
+    "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "机动战士高达 GQuuuuuuX",

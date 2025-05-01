@@ -140,7 +140,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.89,
+        "rating" : 2.9,
         "total" : 7
       },
       "recap" : false,
@@ -164,7 +164,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.79,
+        "rating" : 4.82,
         "total" : 4
       },
       "recap" : false,
@@ -188,7 +188,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.53,
+        "rating" : 3.56,
         "total" : 3
       },
       "recap" : false,
@@ -212,7 +212,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.73,
+        "rating" : 2.77,
         "total" : 2
       },
       "recap" : false,
@@ -236,7 +236,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 2.68,
+        "rating" : 2.76,
         "total" : 1
       },
       "recap" : false,
@@ -260,7 +260,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.34,
+        "rating" : 6.52,
         "total" : 1
       },
       "recap" : false,
@@ -284,7 +284,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 2.68,
+        "rating" : 2.76,
         "total" : 1
       },
       "recap" : false,
@@ -308,7 +308,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 2.68,
+        "rating" : 2.76,
         "total" : 1
       },
       "recap" : false,
@@ -332,7 +332,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 1.22,
+        "rating" : 1.23,
         "total" : 1
       },
       "recap" : false,
@@ -355,6 +355,10 @@
       "episode_id" : 293539,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 2.76,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GMKUEMDG9" ]
@@ -375,6 +379,10 @@
       "episode_id" : 293540,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 2.76,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GVWU8XG4X" ]
@@ -395,6 +403,10 @@
       "episode_id" : 293541,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 2.76,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G31UVEJZ2" ]
@@ -432,12 +444,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.72,
-      "total" : 128
+      "rating" : 3.56,
+      "total" : 167
     },
     "TEMPORARY" : {
-      "rating" : 5.57,
-      "total" : 128
+      "rating" : 5.51,
+      "total" : 167
     }
   },
   "resources" : {
@@ -452,6 +464,12 @@
     "WIKIPEDIA_EN" : [ "The_Red_Ranger_Becomes_an_Adventurer_in_Another_World" ],
     "WIKIPEDIA_JP" : [ "戦隊レッド_異世界で冒険者になる" ]
   },
+  "similar" : {
+    "16183" : {
+      "rating" : 10.0,
+      "total" : 2
+    }
+  },
   "start_date" : "2025-01-12",
   "tags" : {
     "30" : {
@@ -461,6 +479,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2274" : {
       "info_box" : false,
       "name" : "robot",
@@ -468,6 +494,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2605" : {
       "info_box" : false,
@@ -504,6 +537,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2618" : {
+      "info_box" : false,
+      "name" : "collateral damage",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : true,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2638" : {
       "info_box" : false,
       "name" : "mecha",
@@ -527,6 +584,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2774" : {
+      "info_box" : false,
+      "name" : "spellcasting",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2798" : {
       "info_box" : true,
@@ -568,10 +657,34 @@
       "verified" : false,
       "weight" : 100
     },
+    "2854" : {
+      "info_box" : false,
+      "name" : "henshin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2891" : {
       "info_box" : false,
       "name" : "breasts",
       "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -584,10 +697,114 @@
       "verified" : false,
       "weight" : 0
     },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3805" : {
+      "info_box" : false,
+      "name" : "European stylised",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3824" : {
       "info_box" : false,
       "name" : "sentai",
       "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4167" : {
+      "info_box" : false,
+      "name" : "air combat",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "4474" : {
+      "info_box" : false,
+      "name" : "self-parody",
+      "parent_tag_id" : 2655,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4611" : {
+      "info_box" : false,
+      "name" : "nearly almighty protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4729" : {
+      "info_box" : false,
+      "name" : "colour coded",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5505" : {
+      "info_box" : false,
+      "name" : "deus ex machina",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5604" : {
+      "info_box" : false,
+      "name" : "following one`s dream",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5767" : {
+      "info_box" : false,
+      "name" : "Itano circus",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6034" : {
+      "info_box" : false,
+      "name" : "Engrish",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6062" : {
+      "info_box" : false,
+      "name" : "heroic sacrifice",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -615,6 +832,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6744" : {
       "info_box" : true,
       "name" : "isekai",
@@ -630,6 +855,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7402" : {
+      "info_box" : false,
+      "name" : "corrupt nobility",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,

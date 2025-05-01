@@ -76,8 +76,8 @@
       "length" : 45,
       "number" : 1,
       "rating" : {
-        "rating" : 2.94,
-        "total" : 1
+        "rating" : 2.91,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -90,7 +90,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 2.81,
-      "total" : 274
+      "total" : 275
     },
     "REVIEW" : {
       "rating" : 4.33,
@@ -98,7 +98,7 @@
     },
     "TEMPORARY" : {
       "rating" : 5.01,
-      "total" : 277
+      "total" : 278
     }
   },
   "resources" : {
@@ -143,6 +143,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -294,20 +301,28 @@
       "weight" : 200
     },
     "2748" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "sex",
       "parent_tag_id" : 2604,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 200
+      "weight" : 500
+    },
+    "2749" : {
+      "info_box" : true,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "2750" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "violence",
       "parent_tag_id" : 2604,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 500
     },
     "2799" : {
       "info_box" : true,
@@ -380,6 +395,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4049" : {
       "info_box" : false,
       "name" : "outdoor sex",
@@ -438,6 +461,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

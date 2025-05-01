@@ -356,7 +356,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.08,
+        "rating" : 4.73,
         "total" : 4
       },
       "recap" : false,
@@ -384,7 +384,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.46,
+        "rating" : 5.01,
         "total" : 4
       },
       "recap" : false,
@@ -524,7 +524,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.02,
+        "rating" : 4.03,
         "total" : 3
       },
       "recap" : false,
@@ -663,7 +663,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 3.67,
+        "rating" : 3.68,
         "total" : 3
       },
       "recap" : false,
@@ -775,7 +775,7 @@
       "length" : 25,
       "number" : 16,
       "rating" : {
-        "rating" : 3.89,
+        "rating" : 3.9,
         "total" : 2
       },
       "recap" : false,
@@ -803,7 +803,7 @@
       "length" : 25,
       "number" : 17,
       "rating" : {
-        "rating" : 5.79,
+        "rating" : 5.81,
         "total" : 2
       },
       "recap" : false,
@@ -831,7 +831,7 @@
       "length" : 25,
       "number" : 18,
       "rating" : {
-        "rating" : 5.79,
+        "rating" : 5.81,
         "total" : 2
       },
       "recap" : false,
@@ -859,7 +859,7 @@
       "length" : 25,
       "number" : 19,
       "rating" : {
-        "rating" : 7.16,
+        "rating" : 7.18,
         "total" : 2
       },
       "recap" : false,
@@ -887,7 +887,7 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 5.79,
+        "rating" : 5.81,
         "total" : 2
       },
       "recap" : false,
@@ -915,7 +915,7 @@
       "length" : 25,
       "number" : 21,
       "rating" : {
-        "rating" : 2.83,
+        "rating" : 2.84,
         "total" : 2
       },
       "recap" : false,
@@ -943,7 +943,7 @@
       "length" : 25,
       "number" : 22,
       "rating" : {
-        "rating" : 2.83,
+        "rating" : 2.84,
         "total" : 2
       },
       "recap" : false,
@@ -971,7 +971,7 @@
       "length" : 25,
       "number" : 23,
       "rating" : {
-        "rating" : 5.36,
+        "rating" : 5.38,
         "total" : 1
       },
       "recap" : false,
@@ -1097,16 +1097,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.86,
-      "total" : 144
+      "rating" : 6.87,
+      "total" : 185
     },
     "REVIEW" : {
       "rating" : 6.16,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 7.29,
-      "total" : 144
+      "rating" : 7.27,
+      "total" : 185
     }
   },
   "related" : {
@@ -1129,10 +1129,333 @@
   },
   "start_date" : "2024-10-04",
   "tags" : {
+    "1589" : {
+      "info_box" : true,
+      "name" : "samurai",
+      "parent_tag_id" : 2622,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : true,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2641" : {
+      "info_box" : false,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2679" : {
+      "info_box" : false,
+      "name" : "Kyoto",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2692" : {
+      "info_box" : true,
+      "name" : "Bakumatsu - Meiji Period",
+      "parent_tag_id" : 2641,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2850" : {
+      "info_box" : true,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2876" : {
+      "info_box" : false,
+      "name" : "religion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2877" : {
+      "info_box" : false,
+      "name" : "revenge",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2878" : {
+      "info_box" : true,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2885" : {
+      "info_box" : false,
+      "name" : "law and order",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2897" : {
+      "info_box" : true,
+      "name" : "police",
+      "parent_tag_id" : 2885,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3166" : {
+      "info_box" : false,
+      "name" : "political unrest",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3322" : {
+      "info_box" : false,
+      "name" : "remake",
+      "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3363" : {
+      "info_box" : false,
+      "name" : "Buddhism",
+      "parent_tag_id" : 2876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3378" : {
+      "info_box" : false,
+      "name" : "redemption",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3618" : {
+      "info_box" : false,
+      "name" : "ocean",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3635" : {
+      "info_box" : false,
+      "name" : "sea battles",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "3865" : {
       "info_box" : true,
       "name" : "noitaminA",
       "parent_tag_id" : 6153,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4096" : {
+      "info_box" : false,
+      "name" : "gore",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4203" : {
+      "info_box" : false,
+      "name" : "rebellion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4394" : {
+      "info_box" : false,
+      "name" : "defeat means friendship",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5816" : {
+      "info_box" : false,
+      "name" : "massacre",
+      "parent_tag_id" : 4316,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1158,6 +1481,46 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7075" : {
+      "info_box" : false,
+      "name" : "adapted into Japanese movie",
+      "parent_tag_id" : 7242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7242" : {
+      "info_box" : false,
+      "name" : "adapted into other media",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7317" : {
+      "info_box" : false,
+      "name" : "aboard ship",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7885" : {
       "info_box" : false,

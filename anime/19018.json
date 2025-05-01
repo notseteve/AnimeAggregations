@@ -77,10 +77,20 @@
       "episode_id" : 294319,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.6,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Mumu and the Microwave"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mumu to Denshi Range"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ムームーと電子レンジ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -88,10 +98,20 @@
       "episode_id" : 294320,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.19,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Mumu and the Vacuum Cleaner"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mumu to Soujiki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ムームーと掃除機"
       } ],
       "type" : "REGULAR"
     }, {
@@ -117,6 +137,16 @@
       } ],
       "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.64,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 5.25,
+      "total" : 8
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "398212" ],
@@ -161,6 +191,10 @@
     "language" : "JAPANESE",
     "title" : "宇宙人ムームー",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Me and the Alien MuMu",
+    "type" : "SYNONYM"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "外星人沐沐",

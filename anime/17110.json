@@ -60,6 +60,9 @@
     "36389" : [ {
       "name" : "Kodama Hikaru",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Kodama Hikaru",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "44526" : [ {
       "name" : "Teddy",
@@ -68,6 +71,10 @@
     "58989" : [ {
       "name" : "Morita Kisetsu",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "65695" : [ {
+      "name" : "Shouyama Nami",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "* Based on a fantasy light novel series written by http://anidb.net/cr58989 [Morita Kisetsu] and illustrated by http://anidb.net/cr58990 [Benio].",
@@ -77,10 +84,23 @@
       "episode_id" : 294347,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.71,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UG2DQ2" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Along Came a Goddess"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kamisama ga Kita"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "神様が来た"
       } ],
       "type" : "REGULAR"
     }, {
@@ -88,10 +108,23 @@
       "episode_id" : 294348,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.55,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUEMGW3" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Undead o Sousaku Shita"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "We Searched for an Undead"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アンデッドを捜索した"
       } ],
       "type" : "REGULAR"
     }, {
@@ -99,10 +132,23 @@
       "episode_id" : 294349,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.22,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU8X4J0" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Beelzebub no Ie ni Itta"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "We Went to Beelzebub`s House"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ベルゼブブの家に行った"
       } ],
       "type" : "REGULAR"
     }, {
@@ -113,7 +159,51 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "We Went Looking for a Mandragora"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-03",
+      "episode_id" : 295484,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-10",
+      "episode_id" : 295485,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-17",
+      "episode_id" : 295486,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-24",
+      "episode_id" : 295487,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -136,6 +226,16 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.21,
+      "total" : 25
+    },
+    "TEMPORARY" : {
+      "rating" : 5.72,
+      "total" : 25
+    }
+  },
   "related" : {
     "PREQUEL" : [ 15201 ]
   },
@@ -143,6 +243,7 @@
     "ALL_CINEMA" : [ "380886" ],
     "ANISON" : [ "23474" ],
     "ANN" : [ "25109" ],
+    "CRUNCHY_ROLL" : [ "GW4HM79VM" ],
     "MAL" : [ "50738" ],
     "SYOBOI" : [ "7366" ],
     "TWITTER" : [ "slime300_PR" ],
@@ -185,6 +286,18 @@
     "language" : "JAPANESE",
     "title" : "スライム倒して300年, 知らないうちにレベルMAXになってました ~そのに~",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "打了300年的史莱姆，不知不觉就练到了满级 第二季",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "持續狩獵史萊姆三百年，不知不覺就練到LV MAX 第二季",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita S2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://slime300-anime.com/"

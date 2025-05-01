@@ -47,9 +47,16 @@
     "REGULAR" : [ {
       "air_date" : "2025-04-16",
       "episode_id" : 291771,
-      "length" : 0,
+      "length" : 3,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.97,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUN17ZJ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Take It Easy"
@@ -64,7 +71,7 @@
     }, {
       "air_date" : "2025-04-23",
       "episode_id" : 291772,
-      "length" : 0,
+      "length" : 3,
       "number" : 2,
       "recap" : false,
       "titles" : [ {
@@ -81,7 +88,7 @@
     }, {
       "air_date" : "2025-04-30",
       "episode_id" : 291773,
-      "length" : 0,
+      "length" : 3,
       "number" : 3,
       "recap" : false,
       "titles" : [ {
@@ -96,9 +103,9 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-05-01",
+      "air_date" : "2025-05-07",
       "episode_id" : 291774,
-      "length" : 0,
+      "length" : 3,
       "number" : 4,
       "recap" : false,
       "titles" : [ {
@@ -113,9 +120,9 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-05-08",
+      "air_date" : "2025-05-14",
       "episode_id" : 291775,
-      "length" : 0,
+      "length" : 3,
       "number" : 5,
       "recap" : false,
       "titles" : [ {
@@ -130,9 +137,9 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-05-15",
+      "air_date" : "2025-05-21",
       "episode_id" : 291776,
-      "length" : 0,
+      "length" : 3,
       "number" : 6,
       "recap" : false,
       "titles" : [ {
@@ -148,20 +155,48 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.81,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 5.57,
+      "total" : 7
+    }
+  },
   "related" : {
     "OTHER" : [ 17097 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "399764" ],
     "ANN" : [ "32964" ],
+    "CRUNCHY_ROLL" : [ "G1XHJV2X9" ],
     "MAL" : [ "59369" ],
+    "SYOBOI" : [ "7448" ],
     "TWITTER" : [ "lycoris_recoil" ],
     "WEBSITE" : [ "https://lycoris-recoil.com/shortmovie/" ],
     "WIKIPEDIA_EN" : [ "Lycoris_Recoil" ],
-    "WIKIPEDIA_JP" : [ "リコリス・リコイル" ]
+    "WIKIPEDIA_JP" : [ "リコリス・リコイル" ],
+    "YOUTUBE" : [ "watch?v=z4lNa68phLs" ]
   },
   "start_date" : "2025-04-16",
   "tags" : {
+    "5852" : {
+      "info_box" : true,
+      "name" : "short episodes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -185,6 +220,10 @@
   }, {
     "language" : "CHINESE_TRADITIONAL",
     "title" : "Lycoris Recoil 莉可麗絲：友誼是時間的竊賊",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Lycoris Recoil: Friends Are Thieves of Time.",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

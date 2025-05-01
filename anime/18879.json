@@ -70,8 +70,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.25,
-        "total" : 3
+        "rating" : 5.21,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -93,10 +93,23 @@
       "episode_id" : 294268,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.65,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUN1D75" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kishi to Akogare no Gori Love Call"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Gorilla Signs of Affection That I Always Dreamed Of"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "騎士とあこがれのゴリ・ラブコール"
       } ],
       "type" : "REGULAR"
     }, {
@@ -125,12 +138,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.07,
-      "total" : 14
+      "rating" : 4.81,
+      "total" : 26
     },
     "TEMPORARY" : {
-      "rating" : 6.85,
-      "total" : 14
+      "rating" : 5.92,
+      "total" : 26
     }
   },
   "resources" : {
@@ -147,9 +160,85 @@
   },
   "start_date" : "2025-04-06",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3805" : {
+      "info_box" : false,
+      "name" : "European stylised",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

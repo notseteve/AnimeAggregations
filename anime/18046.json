@@ -1,6 +1,19 @@
 {
   "anime_id" : 18046,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 148176,
+      "name" : "Kakimi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148178,
+      "name" : "Kawai Sora",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148177,
+      "name" : "Matsuo Basho",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 146903,
       "name" : "Suzugamori Chika",
@@ -33,22 +46,6 @@
       "name" : "Watanabe Masaharu",
       "type" : "DIRECTOR"
     } ],
-    "7326" : [ {
-      "name" : "Yanase Jouji",
-      "type" : "CHIEF_ANIMATION_DIRECTION"
-    } ],
-    "7983" : [ {
-      "name" : "Matsushita Junko",
-      "type" : "CHIEF_ANIMATION_DIRECTION"
-    } ],
-    "15573" : [ {
-      "name" : "Yoshida Shouta",
-      "type" : "CHIEF_ANIMATION_DIRECTION"
-    } ],
-    "21352" : [ {
-      "name" : "Sakurai Konomi",
-      "type" : "CHIEF_ANIMATION_DIRECTION"
-    } ],
     "22911" : [ {
       "name" : "Nakamura Yoshiko",
       "type" : "SERIES_COMPOSITION"
@@ -68,14 +65,6 @@
       "name" : "Rere",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
-    "63802" : [ {
-      "name" : "Cerberus",
-      "type" : "CHIEF_ANIMATION_DIRECTION"
-    } ],
-    "70641" : [ {
-      "name" : "Facu Escobedo",
-      "type" : "CHIEF_ANIMATION_DIRECTION"
-    } ],
     "72151" : [ {
       "name" : "Ishizaka Kenta",
       "type" : "ORIGINAL_WORK"
@@ -88,10 +77,23 @@
       "episode_id" : 294291,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.15,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUM0VMW" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hajime no 1225 Dan"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The First 1,225 Steps"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "はじめの1225段"
       } ],
       "type" : "REGULAR"
     }, {
@@ -99,10 +101,23 @@
       "episode_id" : 294292,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.03,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMNXM3" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Date ja Nai! Kitokito Futari Tabi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Real Deal! A Lively Journey for Two"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "伊達じゃない! きときとふたり旅"
       } ],
       "type" : "REGULAR"
     }, {
@@ -113,7 +128,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Perfect the Way It Is"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sono Mama no Koshi de"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "そのままのコシで"
       } ],
       "type" : "REGULAR"
     }, {
@@ -127,22 +148,79 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-05",
+      "episode_id" : 295280,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-12",
+      "episode_id" : 295281,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-19",
+      "episode_id" : 295282,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-26",
+      "episode_id" : 295283,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-03-01",
+      "episode_id" : 295090,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.33,
-      "total" : 1
+      "rating" : 5.72,
+      "total" : 18
     },
     "TEMPORARY" : {
-      "rating" : 5.0,
-      "total" : 1
+      "rating" : 6.25,
+      "total" : 18
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "395164" ],
     "ANISON" : [ "25902" ],
     "ANN" : [ "28365" ],
+    "CRUNCHY_ROLL" : [ "GG5H5XQ85" ],
     "MAL" : [ "55514" ],
     "SYOBOI" : [ "7380" ],
     "TWITTER" : [ "zatsutabi_anime" ],
@@ -150,11 +228,138 @@
     "WIKIPEDIA_EN" : [ "Zatsu_Tabi:_That's_Journey" ],
     "WIKIPEDIA_JP" : [ "ざつ旅-That's_Journey-" ]
   },
+  "similar" : {
+    "9257" : {
+      "rating" : 10.0,
+      "total" : 6
+    },
+    "12743" : {
+      "rating" : 10.0,
+      "total" : 7
+    }
+  },
   "start_date" : "2025-03-01",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2676" : {
+      "info_box" : false,
+      "name" : "Tokyo",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4222" : {
+      "info_box" : false,
+      "name" : "walls of text",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6075" : {
+      "info_box" : false,
+      "name" : "educational",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -177,8 +382,28 @@
     "title" : "ざつ旅",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "随兴旅-That`s Journey-",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "隨興旅-That`s Journey-",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "That`s Journey",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "ZatsuTabi",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "ZatsuTabi -That`s Journey-",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "杂旅",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

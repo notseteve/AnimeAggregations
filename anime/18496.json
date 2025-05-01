@@ -1,6 +1,23 @@
 {
   "anime_id" : 18496,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 148160,
+      "name" : "Beelzekur",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148172,
+      "name" : "Takkun",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148158,
+      "name" : "Yamaguchi-san",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148159,
+      "name" : "Yokoyama Lara",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 142585,
       "name" : "Shiunji Arata",
@@ -40,6 +57,9 @@
     "1067" : [ {
       "name" : "Doga Kobo",
       "type" : "ANIMATION_WORK"
+    }, {
+      "name" : "Doga Kobo",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "1541" : [ {
       "name" : "Kimura Noboru",
@@ -88,10 +108,17 @@
       "episode_id" : 294299,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.81,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX54E0" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "What If...?"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "What If...?"
@@ -105,10 +132,23 @@
       "episode_id" : 294300,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.57,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMWD05" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Now What"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Now What"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Now what"
       } ],
       "type" : "REGULAR"
     }, {
@@ -133,17 +173,42 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-04-08",
+      "episode_id" : 295055,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.15,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 5.59,
+      "total" : 16
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "396371" ],
+    "ANISON" : [ "25909" ],
     "ANN" : [ "32099" ],
+    "CRUNCHY_ROLL" : [ "G9VHN9Q84" ],
     "MAL" : [ "58131" ],
     "SYOBOI" : [ "7401" ],
     "TWITTER" : [ "shiunji_anime" ],
     "WEBSITE" : [ "https://shiunjifamily.com/" ],
     "WIKIPEDIA_EN" : [ "The_Shiunji_Family_Children" ],
-    "WIKIPEDIA_JP" : [ "紫雲寺家の子供たち" ]
+    "WIKIPEDIA_JP" : [ "紫雲寺家の子供たち" ],
+    "YOUTUBE" : [ "watch?v=MqKDozk20eA" ]
   },
   "start_date" : "2025-04-08",
   "tags" : {
@@ -187,9 +252,21 @@
     "title" : "The Shiunji Family Children",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "紫云寺家的兄弟姐妹",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "紫雲寺家の子供たち",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "紫雲寺家的兄弟姊妹",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Shiunji-ke no Kodomotachi",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://shiunjifamily.com/"

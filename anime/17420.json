@@ -26,10 +26,6 @@
       "name" : "Gustav Honda",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 107695,
-      "name" : "Haumea",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 105538,
       "name" : "Hikage",
       "type" : "CHARACTER"
@@ -150,6 +146,10 @@
       "character_id" : 102515,
       "name" : "Takehisa Hinawa",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 102518,
+      "name" : "Tamaki Kotatsu",
+      "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
       "character_id" : 106378,
@@ -158,6 +158,10 @@
     }, {
       "character_id" : 110241,
       "name" : "Charon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 106640,
+      "name" : "Conehead",
       "type" : "CHARACTER"
     }, {
       "character_id" : 147002,
@@ -174,6 +178,10 @@
     }, {
       "character_id" : 147001,
       "name" : "Gold",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 107695,
+      "name" : "Haumea",
       "type" : "CHARACTER"
     }, {
       "character_id" : 110244,
@@ -214,10 +222,6 @@
     }, {
       "character_id" : 102516,
       "name" : "Takeru Noto",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 102518,
-      "name" : "Tamaki Kotatsu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 102512,
@@ -275,7 +279,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 9.9,
+        "rating" : 9.91,
         "total" : 1
       },
       "recap" : false,
@@ -295,6 +299,9 @@
         "language" : "GERMAN",
         "title" : "Überzeugung"
       }, {
+        "language" : "UKRAINIAN",
+        "title" : "Незламна рішучість"
+      }, {
         "language" : "JAPANESE",
         "title" : "不退転"
       } ],
@@ -304,8 +311,18 @@
       "episode_id" : 294252,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.05,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UEZ818" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Captif"
+      }, {
         "language" : "GERMAN",
         "title" : "Gefangener"
       }, {
@@ -314,6 +331,9 @@
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Torawarenomi"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "В’язень"
       }, {
         "language" : "JAPANESE",
         "title" : "囚われの身"
@@ -324,10 +344,32 @@
       "episode_id" : 294253,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 9.91,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUM0QXV" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Die Inkarnation der Flamme"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Honoo no Keshin"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Incarnation of Flame"
+      }, {
+        "language" : "FRENCH",
+        "title" : "L’Incarnation des flammes"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Втілення полум’я"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "炎の化身"
       } ],
       "type" : "REGULAR"
     }, {
@@ -337,20 +379,73 @@
       "number" : 4,
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Das Geheimnis des Goldes"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Golden Secret"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ougon no Himitsu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "黄金の秘密"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-03",
+      "episode_id" : 295437,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-10",
+      "episode_id" : 295438,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-17",
+      "episode_id" : 295439,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-24",
+      "episode_id" : 295440,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.54,
-      "total" : 8
+      "rating" : 5.47,
+      "total" : 19
     },
     "TEMPORARY" : {
-      "rating" : 6.25,
-      "total" : 8
+      "rating" : 6.02,
+      "total" : 19
     }
   },
   "related" : {
@@ -398,6 +493,10 @@
   }, {
     "language" : "GERMAN",
     "title" : "Fire Force Staffel 3",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "UKRAINIAN",
+    "title" : "Полум’яні вогнеборці Розділ 3",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

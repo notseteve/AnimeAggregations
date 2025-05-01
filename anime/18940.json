@@ -122,8 +122,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.12,
-        "total" : 4
+        "rating" : 6.26,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -145,7 +145,14 @@
       "episode_id" : 294522,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.66,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U3M0JM" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Welcome to Parnacorta"
@@ -162,10 +169,23 @@
       "episode_id" : 294523,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 8.11,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUW0217" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hajimete no Date"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Our First Date"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "初めてのデート"
       } ],
       "type" : "REGULAR"
     }, {
@@ -176,19 +196,69 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Feelings Entrusted"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Takusu Omoi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "託す思い"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-01",
+      "episode_id" : 295332,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-08",
+      "episode_id" : 295333,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-15",
+      "episode_id" : 295334,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-22",
+      "episode_id" : 295335,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.54,
-      "total" : 11
+      "rating" : 6.4,
+      "total" : 34
     },
     "TEMPORARY" : {
-      "rating" : 6.27,
-      "total" : 11
+      "rating" : 6.65,
+      "total" : 34
     }
   },
   "resources" : {
@@ -206,11 +276,88 @@
   "similar" : {
     "15720" : {
       "rating" : 10.0,
-      "total" : 1
+      "total" : 2
     }
   },
   "start_date" : "2025-04-03",
   "tags" : {
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2774" : {
+      "info_box" : false,
+      "name" : "spellcasting",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4570" : {
+      "info_box" : false,
+      "name" : "watercolour style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -218,10 +365,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7141" : {
+      "info_box" : false,
+      "name" : "goblin",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8057" : {
+      "info_box" : false,
+      "name" : "medieval European aesthetic",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -236,8 +415,16 @@
     "title" : "The Too-Perfect Saint: Tossed Aside by My Fiance and Sold to Another Kingdom",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "圣女因太过完美不够可爱而被废除婚约并卖到邻国",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "完美到難以接近的聖女遭到解除婚約後被賣到鄰國",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
@@ -246,6 +433,10 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "完美到难以接近的圣女遭到解除婚约后被卖到邻国",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

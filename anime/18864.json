@@ -58,17 +58,30 @@
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
-  "description" : "Note: The first episode received an early screening at a special event on 5 April 2025 at United Cinemas Aquacity Odaiba in Tokyo. The regular TV broadcast started on 6 April 2025.",
+  "description" : "Note: The first two episodes received an early screening at a special event on 5 April 2025 at United Cinemas Aquacity Odaiba in Tokyo. The regular TV broadcast started on 6 April 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-04-06",
       "episode_id" : 294343,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.73,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UXNWND" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "A Warm Winter (Part 1)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Atataka na Fuyu (Zenpen)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あたたかな冬 (前編)"
       } ],
       "type" : "REGULAR"
     }, {
@@ -76,10 +89,23 @@
       "episode_id" : 294344,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.61,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWUK9Z97" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "A Warm Winter (Part 2)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Atataka na Fuyu (Kouhen)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あたたかな冬 (後編)"
       } ],
       "type" : "REGULAR"
     }, {
@@ -87,10 +113,23 @@
       "episode_id" : 294345,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 8.61,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XU0747E" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Hesitant Spring"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tomadou Haru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "とまどう春"
       } ],
       "type" : "REGULAR"
     }, {
@@ -104,7 +143,61 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-04",
+      "episode_id" : 295496,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-11",
+      "episode_id" : 295497,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-18",
+      "episode_id" : 295498,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-25",
+      "episode_id" : 295499,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.8,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 6.71,
+      "total" : 16
+    }
   },
   "related" : {
     "PREQUEL" : [ 18405 ]
@@ -113,6 +206,7 @@
     "ALL_CINEMA" : [ "397028" ],
     "ANISON" : [ "25541" ],
     "ANN" : [ "33532" ],
+    "CRUNCHY_ROLL" : [ "G5PHNM94J" ],
     "MAL" : [ "59828" ],
     "SYOBOI" : [ "7397" ],
     "TWITTER" : [ "shoshimin_pr" ],

@@ -793,7 +793,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 1.21,
+        "rating" : 1.2,
         "total" : 1
       },
       "recap" : false,
@@ -808,7 +808,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 2.08,
+        "rating" : 2.06,
         "total" : 1
       },
       "recap" : false,
@@ -823,7 +823,7 @@
       "length" : 3,
       "number" : 3,
       "rating" : {
-        "rating" : 1.51,
+        "rating" : 1.5,
         "total" : 1
       },
       "recap" : false,
@@ -838,7 +838,7 @@
       "length" : 3,
       "number" : 4,
       "rating" : {
-        "rating" : 1.21,
+        "rating" : 1.2,
         "total" : 1
       },
       "recap" : false,
@@ -883,7 +883,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.32,
-      "total" : 6291
+      "total" : 6296
     },
     "REVIEW" : {
       "rating" : 6.83,
@@ -891,7 +891,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.94,
-      "total" : 6360
+      "total" : 6365
     }
   },
   "related" : {
@@ -1332,22 +1332,6 @@
       "verified" : false,
       "weight" : 100
     },
-    "2721" : {
-      "info_box" : false,
-      "name" : "public sex",
-      "parent_tag_id" : 2848,
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 100
-    },
-    "2725" : {
-      "info_box" : false,
-      "name" : "ahegao",
-      "parent_tag_id" : 2848,
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 100
-    },
     "2729" : {
       "info_box" : false,
       "name" : "BDSM",
@@ -1435,6 +1419,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2799" : {
       "info_box" : true,
@@ -1531,14 +1523,6 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
-    },
-    "2842" : {
-      "info_box" : false,
-      "name" : "incest",
-      "parent_tag_id" : 2611,
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 100
     },
     "2848" : {
       "info_box" : false,
@@ -1864,6 +1848,14 @@
       "info_box" : false,
       "name" : "Gainax bounce",
       "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5863" : {
+      "info_box" : false,
+      "name" : "Weekly Shounen Jump",
+      "parent_tag_id" : 2798,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

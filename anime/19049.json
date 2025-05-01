@@ -52,6 +52,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shidou! Calcal-dan! (Kari)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "始動! カルカル団! (仮)"
       } ],
       "type" : "REGULAR"
     }, {
@@ -63,6 +69,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Youyaku Shidou! Calcal-dan!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ようやく始動! カルカル団!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -74,6 +86,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Todoke! Tamashii no Lyric!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "届け! 魂のリリック!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -87,7 +105,61 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-02",
+      "episode_id" : 295401,
+      "length" : 2,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-09",
+      "episode_id" : 295402,
+      "length" : 2,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-16",
+      "episode_id" : 295403,
+      "length" : 2,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-23",
+      "episode_id" : 295404,
+      "length" : 2,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.24,
+      "total" : 1
+    },
+    "TEMPORARY" : {
+      "rating" : 3.0,
+      "total" : 1
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "398452" ],
@@ -98,7 +170,8 @@
     "TWITTER" : [ "calcaldan" ],
     "WEBSITE" : [ "https://calcaldan.com/" ],
     "WIKIPEDIA_EN" : [ "Araiguma_Calcal-dan" ],
-    "WIKIPEDIA_JP" : [ "あらいぐま_カルカル団" ]
+    "WIKIPEDIA_JP" : [ "あらいぐま_カルカル団" ],
+    "YOUTUBE" : [ "watch?v=Ye6646Oa9B4", "watch?v=wow4sEAlqBs", "watch?v=ymtB0mHse08" ]
   },
   "start_date" : "2025-04-04",
   "tags" : {
@@ -125,6 +198,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "あらいぐま カルカル団",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "小浣熊 卡尔卡尔团",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

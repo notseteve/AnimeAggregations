@@ -1,8 +1,25 @@
 {
   "anime_id" : 18725,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 148130,
+      "name" : "Gatou Mine",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148128,
+      "name" : "Magatia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148129,
+      "name" : "Murakami Shigenobu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148127,
+      "name" : "Ryuujin-kun",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
-      "character_id" : 135696,
+      "character_id" : 148132,
       "name" : "Sakurama Hibiki",
       "type" : "CHARACTER"
     }, {
@@ -29,6 +46,10 @@
     }, {
       "character_id" : 138301,
       "name" : "Blue Keeper",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148126,
+      "name" : "Chidori",
       "type" : "CHARACTER"
     }, {
       "character_id" : 138299,
@@ -69,6 +90,10 @@
     }, {
       "character_id" : 138302,
       "name" : "Red Keeper",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148131,
+      "name" : "Sakurama Hibiki",
       "type" : "CHARACTER"
     }, {
       "character_id" : 138305,
@@ -145,10 +170,20 @@
       "episode_id" : 294741,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.61,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Look! The Dragon Keepers!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Miyo! Dragon Keeper!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "見よ! ドラゴンキーパー!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -156,10 +191,20 @@
       "episode_id" : 294742,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.61,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "For This School, in This Moment"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kono Gakuen o Kono Toki o"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "この学園を この時を"
       } ],
       "type" : "REGULAR"
     }, {
@@ -169,8 +214,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chigireta Kioku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Lost Memories"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ちぎれた記憶"
       } ],
       "type" : "REGULAR"
     }, {
@@ -184,13 +235,68 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-11",
+      "episode_id" : 295545,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-18",
+      "episode_id" : 295546,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-25",
+      "episode_id" : 295547,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-01",
+      "episode_id" : 295548,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.0,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 5.62,
+      "total" : 8
+    }
   },
   "related" : {
     "PREQUEL" : [ 17703 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "395868" ],
+    "ANISON" : [ "25416" ],
     "ANN" : [ "32857" ],
     "MAL" : [ "59189" ],
     "SYOBOI" : [ "7407" ],
@@ -221,6 +327,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Sentai Dai Shikkaku (2025)",
     "type" : "MAIN"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "战队大失格 第二季",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "戦隊大失格 (2025)",

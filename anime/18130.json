@@ -1,6 +1,15 @@
 {
   "anime_id" : 18130,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 148133,
+      "name" : "Kobayashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148125,
+      "name" : "Lisa",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 144024,
       "name" : "Axel",
@@ -47,6 +56,13 @@
     "3615" : [ {
       "name" : "Hayashi Akemi",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Hayashi Akemi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "9717" : [ {
+      "name" : "Kondou Keiichi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "31375" : [ {
       "name" : "MAPPA",
@@ -72,10 +88,20 @@
       "episode_id" : 294612,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.87,
+        "total" : 6
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Goodbye Cruel World"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Goodbye Cruel World"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Goodbye Cruel World"
       } ],
       "type" : "REGULAR"
     }, {
@@ -83,10 +109,20 @@
       "episode_id" : 294613,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.44,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Life in the Fast Lane"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Life in the Fast Lane"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Life in the Fast Lane"
       } ],
       "type" : "REGULAR"
     }, {
@@ -111,17 +147,52 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-04-13",
+      "episode_id" : 294986,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-04-06",
+      "episode_id" : 294987,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.71,
+      "total" : 28
+    },
+    "TEMPORARY" : {
+      "rating" : 6.22,
+      "total" : 29
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "397576" ],
+    "AMAZON" : [ "B0DJGSZ3CN" ],
     "ANISON" : [ "25898" ],
     "ANN" : [ "29112" ],
     "MAL" : [ "56038" ],
     "SYOBOI" : [ "7415" ],
     "TWITTER" : [ "lazarus_jp" ],
     "WEBSITE" : [ "https://lazarus.aniplex.co.jp/" ],
-    "WIKIPEDIA_EN" : [ "Lazarus_(TV_series)" ]
+    "WIKIPEDIA_EN" : [ "Lazarus_(TV_series)" ],
+    "WIKIPEDIA_JP" : [ "LAZARUS_ラザロ" ]
   },
   "start_date" : "2025-04-06",
   "tags" : {
@@ -148,6 +219,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "LAZARUS",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "LAZARUS拉撒路",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "拉撒路",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

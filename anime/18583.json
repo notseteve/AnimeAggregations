@@ -23,16 +23,16 @@
       "name" : "Manso",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 147008,
+      "name" : "Moloch Vezin",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 147005,
-      "name" : "Oruha",
+      "name" : "Olha",
       "type" : "CHARACTER"
     }, {
       "character_id" : 147006,
       "name" : "Poreck",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 147008,
-      "name" : "Vezin",
       "type" : "CHARACTER"
     } ]
   },
@@ -69,10 +69,26 @@
       "episode_id" : 294359,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.76,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8JVNW" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Kai du village de Lag"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Kai of Lag Village"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Lag Mura no Kai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ラグ村の少年[カイ]"
       } ],
       "type" : "REGULAR"
     }, {
@@ -80,10 +96,26 @@
       "episode_id" : 294360,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.07,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUN1GX2" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Dame Josée"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jose-sama"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Lady Jose"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "白姫[ジョゼ]様"
       } ],
       "type" : "REGULAR"
     }, {
@@ -94,7 +126,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Arbitration God"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Choutei Shin"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "調停神"
       } ],
       "type" : "REGULAR"
     }, {
@@ -108,11 +146,66 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-10",
+      "episode_id" : 295488,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-17",
+      "episode_id" : 295489,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-24",
+      "episode_id" : 295490,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-31",
+      "episode_id" : 295491,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.52,
+      "total" : 18
+    },
+    "TEMPORARY" : {
+      "rating" : 6.38,
+      "total" : 18
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "395887" ],
     "ANN" : [ "32649" ],
+    "CRUNCHY_ROLL" : [ "GXJHM3GX8" ],
     "IMDB" : [ "tt32514593" ],
     "MAL" : [ "58614" ],
     "SYOBOI" : [ "7406" ],
@@ -124,6 +217,21 @@
   },
   "start_date" : "2025-04-12",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

@@ -1,5 +1,57 @@
 {
   "anime_id" : 17754,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 148048,
+      "name" : "13",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148050,
+      "name" : "Aojiru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148056,
+      "name" : "Chiri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148052,
+      "name" : "Jeanne",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148054,
+      "name" : "Juumonji Atari",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148057,
+      "name" : "Morita",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148059,
+      "name" : "Reiya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148049,
+      "name" : "Voidoll",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 148058,
+      "name" : "Gunsou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148051,
+      "name" : "Justice",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148055,
+      "name" : "Noboru Futagi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148053,
+      "name" : "Ririka",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "1255" : [ {
       "name" : "Dwango",
@@ -48,13 +100,23 @@
       "episode_id" : 294295,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.58,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU8XW1Z" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "language" : "FRENCH",
+        "title" : "Ici c`est #Compass 2.0"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Koko wa #Compass 2.0"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "This Is #Compass 2.0"
       }, {
         "language" : "JAPANESE",
         "title" : "ココハ #コンパス2.0"
@@ -65,10 +127,26 @@
       "episode_id" : 294296,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.88,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UVEW8Q" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Partner ni Narimasuka?"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Veux-tu être mon partenaire ?"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Will You Be My Partner?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "パートナー ニ ナリマスカ?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -95,9 +173,21 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.39,
+      "total" : 15
+    },
+    "TEMPORARY" : {
+      "rating" : 4.13,
+      "total" : 15
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "394928" ],
+    "ANISON" : [ "25839" ],
     "ANN" : [ "26687" ],
+    "CRUNCHY_ROLL" : [ "GEXH3W29Z" ],
     "MAL" : [ "53762" ],
     "SYOBOI" : [ "7370" ],
     "TWITTER" : [ "cps_niconico" ],
@@ -146,6 +236,10 @@
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "#COMPASS2.0 战斗天赋解析系统",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Compass 2.0 - Sentou Setsuri Kaiseki System",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
