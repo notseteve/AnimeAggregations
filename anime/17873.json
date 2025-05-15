@@ -209,7 +209,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.67,
+        "rating" : 6.68,
         "total" : 4
       },
       "recap" : false,
@@ -265,7 +265,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.44,
+        "rating" : 2.45,
         "total" : 1
       },
       "recap" : false,
@@ -280,7 +280,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 2.44,
+        "rating" : 2.45,
         "total" : 1
       },
       "recap" : false,
@@ -337,11 +337,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.05,
-      "total" : 597
+      "total" : 603
     },
     "TEMPORARY" : {
       "rating" : 7.0,
-      "total" : 599
+      "total" : 605
     }
   },
   "related" : {
@@ -362,9 +362,172 @@
   },
   "start_date" : "2023-11-01",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1291" : {
+      "info_box" : false,
+      "name" : "aristocrat",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1409" : {
+      "info_box" : false,
+      "name" : "vampire",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2406" : {
+      "info_box" : false,
+      "name" : "talking animal",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : true,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2629" : {
+      "info_box" : false,
+      "name" : "desert",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "5821" : {
+      "info_box" : false,
+      "name" : "sibling rivalry",
+      "parent_tag_id" : 5826,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5826" : {
+      "info_box" : false,
+      "name" : "rivalry",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

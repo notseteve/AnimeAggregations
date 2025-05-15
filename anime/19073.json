@@ -4,18 +4,37 @@
     "50" : [ {
       "name" : "Hosoda Mamoru",
       "type" : "DIRECTOR"
+    }, {
+      "name" : "Hosoda Mamoru",
+      "type" : "ORIGINAL_WORK"
     } ],
     "36250" : [ {
       "name" : "Studio Chizu",
       "type" : "WORK"
     } ]
   },
-  "end_date" : "2025-12",
-  "resources" : {
-    "ANN" : [ "34230" ],
-    "MAL" : [ "60610" ]
+  "end_date" : "2025-11-21",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-11-21",
+      "episode_id" : 296044,
+      "length" : 0,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Complete Movie"
+      } ],
+      "type" : "REGULAR"
+    } ]
   },
-  "start_date" : "2025-12",
+  "resources" : {
+    "ALL_CINEMA" : [ "398740" ],
+    "ANN" : [ "34230" ],
+    "MAL" : [ "60610" ],
+    "WEBSITE" : [ "https://scarlet-movie.jp/" ]
+  },
+  "start_date" : "2025-11-21",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -38,13 +57,14 @@
     "title" : "Hateshi Naki Scarlet",
     "type" : "MAIN"
   }, {
-    "language" : "JAPANESE",
-    "title" : "果てしなきスカーレッ",
-    "type" : "OFFICIAL"
-  }, {
     "language" : "ENGLISH",
     "title" : "Scarlet",
-    "type" : "SYNONYM"
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE",
+    "title" : "果てしなきスカーレット",
+    "type" : "OFFICIAL"
   } ],
-  "type" : "MOVIE"
+  "type" : "MOVIE",
+  "url" : "https://scarlet-movie.jp/"
 }

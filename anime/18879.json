@@ -1,6 +1,19 @@
 {
   "anime_id" : 18879,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 148452,
+      "name" : "Araignee",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148291,
+      "name" : "Carissa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148292,
+      "name" : "Kouchou",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 144980,
       "name" : "Louis Scarrel",
@@ -41,6 +54,10 @@
       "name" : "Oizaki Fumitoshi",
       "type" : "DIRECTOR"
     } ],
+    "7430" : [ {
+      "name" : "Ishikawa Masakazu",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "14504" : [ {
       "name" : "Amamiya Hitomi",
       "type" : "SERIES_COMPOSITION"
@@ -48,6 +65,21 @@
     "17383" : [ {
       "name" : "Shibuya Sakae",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Shibuya Sakae",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "19801" : [ {
+      "name" : "Ide Naomi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "19898" : [ {
+      "name" : "Matsumoto Mayuko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "21506" : [ {
+      "name" : "Honda Yoshino",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "38777" : [ {
       "name" : "Iwahashi Seima",
@@ -70,8 +102,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.21,
-        "total" : 5
+        "rating" : 5.51,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -94,8 +126,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.65,
-        "total" : 2
+        "rating" : 4.21,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -117,10 +149,23 @@
       "episode_id" : 294269,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.54,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WU7V0JW" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "A Gorilla Rhapsody of Sweets at the Royal Capital"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Outo to Sweets no Gori Rhapsody"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "王都とスイーツのゴリ・ラプソディー"
       } ],
       "type" : "REGULAR"
     }, {
@@ -128,22 +173,102 @@
       "episode_id" : 294270,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 3.83,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UD31GJ" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Gorilla Rendezvous with a Dress and Bewilderment"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dress to Konwaku no Gori Rendezvous"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ドレスと困惑のゴリ・ランデブー"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-04",
+      "episode_id" : 295513,
+      "length" : 25,
+      "number" : 5,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 5"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-11",
+      "episode_id" : 295514,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-18",
+      "episode_id" : 295515,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-25",
+      "episode_id" : 295516,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-04-06",
+      "episode_id" : 295716,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-04-06",
+      "episode_id" : 295717,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.81,
-      "total" : 26
+      "rating" : 4.86,
+      "total" : 33
     },
     "TEMPORARY" : {
-      "rating" : 5.92,
-      "total" : 26
+      "rating" : 6.16,
+      "total" : 33
     }
   },
   "resources" : {
@@ -160,6 +285,22 @@
   },
   "start_date" : "2025-04-06",
   "tags" : {
+    "36" : {
+      "info_box" : false,
+      "name" : "military",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
@@ -170,6 +311,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -204,6 +352,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2750" : {
       "info_box" : false,
       "name" : "violence",
@@ -211,6 +367,86 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2792" : {
+      "info_box" : false,
+      "name" : "reverse harem",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2844" : {
+      "info_box" : false,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3202" : {
+      "info_box" : false,
+      "name" : "adoring fan club",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3508" : {
+      "info_box" : false,
+      "name" : "school for the rich elite",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "3805" : {
       "info_box" : false,
@@ -220,10 +456,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5463" : {
+      "info_box" : false,
+      "name" : "boarding school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "5851" : {
       "info_box" : false,
       "name" : "female protagonist",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -242,6 +510,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7402" : {
+      "info_box" : false,
+      "name" : "corrupt nobility",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,
@@ -268,6 +560,10 @@
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "受到猩猩之神庇护的大小姐在皇家骑士团受到宠爱",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "受到猩猩神的庇护的大小姐在王立骑士团受到宠爱",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://gorillalady-anime.com/"

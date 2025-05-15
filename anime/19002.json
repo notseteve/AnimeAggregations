@@ -2,16 +2,64 @@
   "anime_id" : 19002,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 148228,
+      "name" : "Carrie Sloane",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148232,
+      "name" : "Charlie Sloane",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148123,
       "name" : "Eliza Barry",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148477,
+      "name" : "Ella May MacPherson",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148021,
       "name" : "Flora Jane",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 148533,
+      "name" : "Fred Wright",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148229,
+      "name" : "Jane Andrews",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148230,
+      "name" : "Jimmy Glover",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148231,
+      "name" : "Josie Pye",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148236,
+      "name" : "Mary Bell",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148124,
       "name" : "Minister Bell",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148478,
+      "name" : "Minnie May Barry",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148234,
+      "name" : "Minnie May McPherson",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148235,
+      "name" : "Moody Spurgeon McPherson",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148531,
+      "name" : "Mrs. Allan",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148022,
@@ -22,8 +70,24 @@
       "name" : "Mrs. Spencer",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 148534,
+      "name" : "Muriel Stacey",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148023,
       "name" : "Rachel Lynde",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148237,
+      "name" : "Ruby Gillis",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148233,
+      "name" : "Teddy Phillips",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148532,
+      "name" : "William Barry",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -87,7 +151,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 9.42,
+        "rating" : 9.43,
         "total" : 9
       },
       "recap" : false,
@@ -111,8 +175,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.83,
-        "total" : 5
+        "rating" : 8.4,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -135,8 +199,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.23,
-        "total" : 1
+        "rating" : 8.22,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -158,7 +222,14 @@
       "episode_id" : 294250,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 6.88,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX5ZE3" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Konna Omoshiroi Sekai de, Itsumademo Kanashin ja Irarenai wa"
@@ -175,10 +246,23 @@
       "episode_id" : 295448,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 6.33,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMWJ01" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Let Us Look on the Bright Side of Things"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Monogoto no Akarui Hou o Kangaemashou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ものごとの明るいほうを考えましょう"
       } ],
       "type" : "REGULAR"
     }, {
@@ -188,8 +272,14 @@
       "number" : 6,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akage Kurai, Iya na Mono wa Nai to Omotte Ita no"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "I Thought Nothing Could Be as Bad as Red Hair"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "赤毛くらい, いやなものはないと思っていたの"
       } ],
       "type" : "REGULAR"
     }, {
@@ -241,12 +331,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.94,
-      "total" : 28
+      "rating" : 8.13,
+      "total" : 42
     },
     "TEMPORARY" : {
-      "rating" : 7.09,
-      "total" : 28
+      "rating" : 7.37,
+      "total" : 42
     }
   },
   "related" : {
@@ -302,6 +392,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2612" : {
       "info_box" : false,
       "name" : "time",
@@ -324,7 +421,7 @@
       "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 600
     },
     "2630" : {
       "info_box" : false,
@@ -332,7 +429,7 @@
       "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 600
     },
     "2634" : {
       "info_box" : false,
@@ -340,15 +437,15 @@
       "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 600
     },
     "2641" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "historical",
       "parent_tag_id" : 2625,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 600
     },
     "2686" : {
       "info_box" : false,
@@ -356,7 +453,15 @@
       "parent_tag_id" : 2641,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 600
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2799" : {
       "info_box" : true,
@@ -372,7 +477,7 @@
       "parent_tag_id" : 2832,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 600
     },
     "2832" : {
       "info_box" : false,
@@ -380,7 +485,39 @@
       "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
       "weight" : 100
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "2869" : {
       "info_box" : false,
@@ -391,17 +528,73 @@
       "weight" : 100
     },
     "2888" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "coming of age",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 600
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3103" : {
+      "info_box" : false,
+      "name" : "first love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "3322" : {
       "info_box" : false,
       "name" : "remake",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3792" : {
+      "info_box" : false,
+      "name" : "iyashi-kei",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3977" : {
+      "info_box" : false,
+      "name" : "dialogue driven",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

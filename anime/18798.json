@@ -98,9 +98,17 @@
       "name" : "Iwasa Tomoko",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "9314" : [ {
+      "name" : "Sakamoto Chiyoko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "13979" : [ {
       "name" : "Yahiro Yuuko",
       "type" : "CHARACTER_DESIGN"
+    } ],
+    "17625" : [ {
+      "name" : "Ogiwara Michiru",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "17983" : [ {
       "name" : "Mishima Chie",
@@ -133,6 +141,10 @@
     "66725" : [ {
       "name" : "Oliver Good",
       "type" : "MUSIC"
+    } ],
+    "71036" : [ {
+      "name" : "Laplace Animation",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "* Based on a romantic comedy school manga by http://anidb.net/cr38902 [Mizu Asato].",
@@ -197,6 +209,9 @@
         "CRUNCHY_ROLL" : [ "GJWUQ792Z" ]
       },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Ce serait pas la fête du sport ?"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Taiikusai ja Ne?"
       }, {
@@ -213,12 +228,18 @@
       "length" : 25,
       "number" : 4,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNK2D4" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "An Idol, Huh?"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Idol ja Ne?"
+      }, {
+        "language" : "FRENCH",
+        "title" : "On dirait une idol, non ?"
       }, {
         "language" : "JAPANESE",
         "title" : "アイドルじゃね?"
@@ -230,9 +251,18 @@
       "length" : 25,
       "number" : 5,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UG2M3D" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Going Swimming, Huh?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaisuiyoku ja Ne?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "海水浴じゃね?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -242,8 +272,14 @@
       "number" : 6,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Iede ja Ne?"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Running Away from Home, Huh?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "家出じゃね?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -313,12 +349,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.96,
-      "total" : 17
+      "rating" : 5.7,
+      "total" : 23
     },
     "TEMPORARY" : {
-      "rating" : 6.02,
-      "total" : 17
+      "rating" : 6.47,
+      "total" : 24
     }
   },
   "related" : {
@@ -375,6 +411,10 @@
     "language" : "JAPANESE",
     "title" : "阿波連さんははかれない season2",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Aharen Is Indecipherable Season 2",
+    "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Aharen-san wa Hakarenai S2",

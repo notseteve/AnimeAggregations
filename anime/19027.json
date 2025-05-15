@@ -3,39 +3,83 @@
   "characters" : {
     "APPEARANCE" : [ {
       "character_id" : 148161,
-      "name" : "Araga",
+      "name" : "Arraga",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148166,
       "name" : "Benowa",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 148163,
-      "name" : "Cowal",
+      "character_id" : 148500,
+      "name" : "Bocata",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148496,
+      "name" : "Chaichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 44309,
+      "name" : "Cumron Bloom",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 44369,
+      "name" : "Flanagan",
       "type" : "CHARACTER"
     }, {
       "character_id" : 9127,
       "name" : "Haro",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 148163,
+      "name" : "Kowal",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 10950,
+      "name" : "Kycilia Zabi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148497,
+      "name" : "Mahko Nagawara",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 44346,
+      "name" : "Mulligan",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148162,
-      "name" : "Oshiro",
+      "name" : "Osillo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 44300,
+      "name" : "Paolo Cassius",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148167,
-      "name" : "Ragouchi",
+      "name" : "Raggucci",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148168,
-      "name" : "Rashit",
+      "name" : "Rassit",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148164,
-      "name" : "Sefa",
+      "name" : "Sepha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148493,
+      "name" : "Shiiko Sugai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148352,
+      "name" : "Tamaki Yuzuriha",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148165,
       "name" : "Tangi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148498,
+      "name" : "Ward",
       "type" : "CHARACTER"
     }, {
       "character_id" : 146638,
@@ -48,6 +92,14 @@
     }, {
       "character_id" : 146417,
       "name" : "RX-78-02 Shiroi Gundam",
+      "type" : "MECH"
+    }, {
+      "character_id" : 148502,
+      "name" : "gMS-01 Gelgoog Bocata-ki",
+      "type" : "MECH"
+    }, {
+      "character_id" : 148501,
+      "name" : "gMS-01 Gelgoog Sugai-ki",
       "type" : "MECH"
     }, {
       "character_id" : 145977,
@@ -175,7 +227,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.43,
+        "rating" : 8.42,
         "total" : 2
       },
       "recap" : false,
@@ -202,8 +254,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.94,
-        "total" : 2
+        "rating" : 7.13,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -228,10 +280,17 @@
       "episode_id" : 294313,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.44,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Clan Battle no Machu"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Machu au combat"
       }, {
         "language" : "ENGLISH",
         "title" : "Machu in Clan Battle"
@@ -248,10 +307,26 @@
       "episode_id" : 294314,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Der Hexenkrieg"
+      }, {
+        "language" : "FRENCH",
+        "title" : "La Guerre de la Sorcière"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Majo no Sensou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "The Witch`s War"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "魔女の戦争"
       } ],
       "type" : "REGULAR"
     }, {
@@ -259,10 +334,26 @@
       "episode_id" : 295299,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Nyaan Doesn`t Know About Kira-Kira"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Nyaan kennt das Glitzern nicht"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Nyaan n`a pas vu le kira-kira"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nyaan wa Kirakira o Shiranai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ニャアンはキラキラを知らない"
       } ],
       "type" : "REGULAR"
     }, {
@@ -272,8 +363,14 @@
       "number" : 6,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kycilia Ansatsu Keikaku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Plot to Assassinate Kycilia"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "キシリア暗殺計画"
       } ],
       "type" : "REGULAR"
     }, {
@@ -325,12 +422,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.28,
-      "total" : 22
+      "rating" : 5.71,
+      "total" : 44
     },
     "TEMPORARY" : {
-      "rating" : 6.2,
-      "total" : 22
+      "rating" : 6.47,
+      "total" : 45
     }
   },
   "related" : {
@@ -347,7 +444,7 @@
     "TWITTER" : [ "G_GQuuuuuuX" ],
     "WEBSITE" : [ "https://www.gundam.info/feature/gquuuuuux/" ],
     "WIKIPEDIA_EN" : [ "Mobile_Suit_Gundam_GQuuuuuuX" ],
-    "WIKIPEDIA_JP" : [ "機動戦士GundamGQuuuuuuX" ],
+    "WIKIPEDIA_JP" : [ "機動戦士Gundam_GQuuuuuuX" ],
     "YOUTUBE" : [ "watch?v=Rd3Gu4pQURY", "watch?v=dcxhZTb_6zs" ]
   },
   "start_date" : "2025-04-09",

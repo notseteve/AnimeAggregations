@@ -1,6 +1,67 @@
 {
   "anime_id" : 18865,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 132805,
+      "name" : "Boukensha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 87352,
+      "name" : "Chomusuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148399,
+      "name" : "Dai Seirei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80996,
+      "name" : "Dust",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80990,
+      "name" : "Galil",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80992,
+      "name" : "Heinz",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80995,
+      "name" : "Keith",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80989,
+      "name" : "Mahoutsukai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141013,
+      "name" : "Morgan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141012,
+      "name" : "Sakamakii",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80991,
+      "name" : "Sedol",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80820,
+      "name" : "Shinjin Succubus",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80997,
+      "name" : "Uketsuke Succubus",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 81001,
+      "name" : "Uketsukejou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 91597,
+      "name" : "Waitress",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 78019,
       "name" : "Aqua",
@@ -53,9 +114,16 @@
       "name" : "Uezu Makoto",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "3116" : [ {
+      "name" : "Noda Yasuyuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "6022" : [ {
       "name" : "Kikuta Kouichi",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Kikuta Kouichi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "8492" : [ {
       "name" : "Kanasaki Takaomi",
@@ -84,23 +152,55 @@
     "REGULAR" : [ {
       "air_date" : "2025-03-14",
       "episode_id" : 289757,
-      "length" : 0,
+      "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.53,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUNVX53" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Explosion de flux écarlate !"
+      }, {
         "language" : "ENGLISH",
-        "title" : "OVA 1"
+        "title" : "Red Stream Explosion!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Red Stream Explosion!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "レッドストリーム・エクスプロージョン!"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-03-14",
       "episode_id" : 289758,
-      "length" : 0,
+      "length" : 30,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.86,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8XN00" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Attention aux imposteurs !"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nisemono Chuui!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "OVA 2"
+        "title" : "Watch Out for Impostors!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "偽者注意!"
       } ],
       "type" : "REGULAR"
     } ],
@@ -159,12 +259,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.57,
-      "total" : 2
+      "rating" : 7.71,
+      "total" : 84
     },
     "TEMPORARY" : {
-      "rating" : 7.0,
-      "total" : 2
+      "rating" : 7.4,
+      "total" : 85
     }
   },
   "related" : {
@@ -173,6 +273,7 @@
   "resources" : {
     "ALL_CINEMA" : [ "398442" ],
     "ANN" : [ "33539" ],
+    "CRUNCHY_ROLL" : [ "GYE5K3GQR" ],
     "MAL" : [ "59833" ],
     "TWITTER" : [ "konosubaanime" ],
     "WEBSITE" : [ "http://konosuba.com/3rd/ova/" ],
@@ -202,6 +303,14 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Kono Subarashii Sekai ni Shukufuku o! 3 Bonus Stage",
     "type" : "MAIN"
+  }, {
+    "language" : "GERMAN",
+    "title" : "KonoSuba: God’s Blessing on This Wonderful World! 3 - Bonus Stage",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "SPANISH",
+    "title" : "Konosuba! Un mundo maravilloso 3 - Bonus Stage",
+    "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
     "title" : "Konosuba: God`s Blessing on This Wonderful World! 3 Bonus Stage",

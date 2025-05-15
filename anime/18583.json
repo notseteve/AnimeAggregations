@@ -70,8 +70,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.76,
-        "total" : 4
+        "rating" : 3.03,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -97,8 +97,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.07,
-        "total" : 4
+        "rating" : 4.91,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -123,13 +123,23 @@
       "episode_id" : 294361,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 5.19,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WU7V132" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Arbitration God"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Choutei Shin"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le dieu de l’arbitrage"
       }, {
         "language" : "JAPANESE",
         "title" : "調停神"
@@ -140,10 +150,26 @@
       "episode_id" : 294362,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 5.11,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UD3EQX" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "A Small Paradise"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shou Rakuen"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Un petit paradis"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "小楽園"
       } ],
       "type" : "REGULAR"
     }, {
@@ -153,8 +179,14 @@
       "number" : 5,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sou to Junsatsushi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "The Priest and the Inspector"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "僧と巡察使"
       } ],
       "type" : "REGULAR"
     }, {
@@ -194,12 +226,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.52,
-      "total" : 18
+      "rating" : 5.22,
+      "total" : 23
     },
     "TEMPORARY" : {
-      "rating" : 6.38,
-      "total" : 18
+      "rating" : 6.04,
+      "total" : 24
     }
   },
   "resources" : {
@@ -228,6 +260,21 @@
       "info_box" : true,
       "name" : "novel",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3138" : {
+      "info_box" : false,
+      "name" : "fictional language",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

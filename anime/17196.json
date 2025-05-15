@@ -50,8 +50,8 @@
       "name" : "Gojou Satoru (Youshouki)",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 113309,
-      "name" : "Hanami",
+      "character_id" : 132101,
+      "name" : "Haibara Yuu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 121361,
@@ -66,6 +66,10 @@
       "name" : "Housougami (Housoubaba)",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 113302,
+      "name" : "Ieiri Shouko",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 113301,
       "name" : "Ijichi Kiyotaka",
       "type" : "CHARACTER"
@@ -75,6 +79,10 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 115208,
+      "name" : "Iori Utahime",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132100,
       "name" : "Iori Utahime",
       "type" : "CHARACTER"
     }, {
@@ -110,10 +118,6 @@
       "name" : "Kugisaki Nobara",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 121360,
-      "name" : "Kusakabe Atsuya",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 121359,
       "name" : "Laru",
       "type" : "CHARACTER"
@@ -126,6 +130,10 @@
       "name" : "Mahito",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 132097,
+      "name" : "Mei Mei",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 121358,
       "name" : "Miguel",
       "type" : "CHARACTER"
@@ -136,6 +144,10 @@
     }, {
       "character_id" : 113310,
       "name" : "Mizu no Jurei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132096,
+      "name" : "Nanami Kento",
       "type" : "CHARACTER"
     }, {
       "character_id" : 136159,
@@ -170,10 +182,6 @@
       "name" : "Ozawa Yuuko",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 113132,
-      "name" : "Ryoumen Sukuna",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 136403,
       "name" : "Saori",
       "type" : "CHARACTER"
@@ -198,10 +206,6 @@
       "name" : "Tsukumo Yuki",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 135171,
-      "name" : "Ui Ui",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 115207,
       "name" : "Ultimate Mechamaru",
       "type" : "CHARACTER"
@@ -224,10 +228,6 @@
     }, {
       "character_id" : 113304,
       "name" : "Zen`in Mai",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 115204,
-      "name" : "Zen`in Naobito",
       "type" : "CHARACTER"
     }, {
       "character_id" : 134932,
@@ -276,12 +276,8 @@
       "name" : "Gojou Satoru",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 132101,
-      "name" : "Haibara Yuu",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 113302,
-      "name" : "Ieiri Shouko",
+      "character_id" : 113309,
+      "name" : "Hanami",
       "type" : "CHARACTER"
     }, {
       "character_id" : 128744,
@@ -290,10 +286,6 @@
     }, {
       "character_id" : 113297,
       "name" : "Inumaki Toge",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 132100,
-      "name" : "Iori Utahime",
       "type" : "CHARACTER"
     }, {
       "character_id" : 113308,
@@ -308,15 +300,15 @@
       "name" : "Kuroi Misato",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 121360,
+      "name" : "Kusakabe Atsuya",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 113312,
       "name" : "Mahito",
       "type" : "CHARACTER"
     }, {
       "character_id" : 115203,
-      "name" : "Mei Mei",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 132097,
       "name" : "Mei Mei",
       "type" : "CHARACTER"
     }, {
@@ -328,12 +320,12 @@
       "name" : "Nanami Kento",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 132096,
-      "name" : "Nanami Kento",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 113298,
       "name" : "Panda",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 113132,
+      "name" : "Ryoumen Sukuna",
       "type" : "CHARACTER"
     }, {
       "character_id" : 135541,
@@ -344,12 +336,20 @@
       "name" : "Toudou Aoi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 135171,
+      "name" : "Ui Ui",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 132098,
       "name" : "Yaga Masamichi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 113296,
       "name" : "Zen`in Maki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 115204,
+      "name" : "Zen`in Naobito",
       "type" : "CHARACTER"
     } ]
   },
@@ -436,7 +436,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.51,
+        "rating" : 6.52,
         "total" : 10
       },
       "recap" : false,
@@ -467,7 +467,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.16,
+        "rating" : 7.17,
         "total" : 10
       },
       "recap" : false,
@@ -498,7 +498,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.6,
+        "rating" : 8.61,
         "total" : 13
       },
       "recap" : false,
@@ -529,7 +529,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.59,
+        "rating" : 7.6,
         "total" : 10
       },
       "recap" : false,
@@ -591,7 +591,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.74,
+        "rating" : 5.75,
         "total" : 9
       },
       "recap" : false,
@@ -622,7 +622,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.13,
+        "rating" : 8.14,
         "total" : 8
       },
       "recap" : false,
@@ -715,7 +715,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.56,
+        "rating" : 7.57,
         "total" : 6
       },
       "recap" : false,
@@ -777,7 +777,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 8.01,
+        "rating" : 8.02,
         "total" : 7
       },
       "recap" : false,
@@ -808,7 +808,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 8.62,
+        "rating" : 8.63,
         "total" : 8
       },
       "recap" : false,
@@ -867,7 +867,7 @@
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 8.61,
+        "rating" : 8.62,
         "total" : 8
       },
       "recap" : false,
@@ -895,7 +895,7 @@
       "length" : 25,
       "number" : 16,
       "rating" : {
-        "rating" : 8.84,
+        "rating" : 8.85,
         "total" : 10
       },
       "recap" : false,
@@ -923,8 +923,8 @@
       "length" : 25,
       "number" : 17,
       "rating" : {
-        "rating" : 8.79,
-        "total" : 7
+        "rating" : 9.19,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -951,8 +951,8 @@
       "length" : 25,
       "number" : 18,
       "rating" : {
-        "rating" : 8.78,
-        "total" : 5
+        "rating" : 7.96,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -979,8 +979,8 @@
       "length" : 25,
       "number" : 19,
       "rating" : {
-        "rating" : 9.11,
-        "total" : 5
+        "rating" : 8.76,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -1007,8 +1007,8 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 8.39,
-        "total" : 5
+        "rating" : 8.12,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -1035,8 +1035,8 @@
       "length" : 25,
       "number" : 21,
       "rating" : {
-        "rating" : 8.14,
-        "total" : 5
+        "rating" : 7.89,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -1063,8 +1063,8 @@
       "length" : 25,
       "number" : 22,
       "rating" : {
-        "rating" : 7.98,
-        "total" : 5
+        "rating" : 7.21,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -1091,8 +1091,8 @@
       "length" : 25,
       "number" : 23,
       "rating" : {
-        "rating" : 5.46,
-        "total" : 6
+        "rating" : 5.62,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -1171,7 +1171,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 8.71,
+        "rating" : 8.7,
         "total" : 2
       },
       "recap" : false,
@@ -1225,8 +1225,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.04,
-      "total" : 1250
+      "rating" : 8.03,
+      "total" : 1270
     },
     "REVIEW" : {
       "rating" : 5.5,
@@ -1234,7 +1234,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.9,
-      "total" : 1262
+      "total" : 1283
     }
   },
   "related" : {

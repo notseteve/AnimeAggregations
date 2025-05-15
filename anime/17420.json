@@ -50,16 +50,16 @@
       "name" : "Kayoko Huang",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 107694,
-      "name" : "Lisa Isaribe",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 106639,
       "name" : "Mamoru-kun",
       "type" : "CHARACTER"
     }, {
       "character_id" : 106634,
       "name" : "Mari Kusakabe",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 106636,
+      "name" : "Mela Mela",
       "type" : "CHARACTER"
     }, {
       "character_id" : 110242,
@@ -76,6 +76,10 @@
     }, {
       "character_id" : 110928,
       "name" : "Purt Co Pan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 106635,
+      "name" : "Pusu Pusu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 106649,
@@ -196,6 +200,10 @@
       "name" : "Leonard Burns",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 107694,
+      "name" : "Lisa Isaribe",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 102510,
       "name" : "Princess Hibana",
       "type" : "CHARACTER"
@@ -279,7 +287,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 9.91,
+        "rating" : 9.94,
         "total" : 1
       },
       "recap" : false,
@@ -312,7 +320,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.05,
+        "rating" : 8.09,
         "total" : 1
       },
       "recap" : false,
@@ -345,7 +353,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 9.91,
+        "rating" : 9.94,
         "total" : 1
       },
       "recap" : false,
@@ -377,7 +385,14 @@
       "episode_id" : 294254,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 8.09,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMN18V" ]
+      },
       "titles" : [ {
         "language" : "GERMAN",
         "title" : "Das Geheimnis des Goldes"
@@ -385,8 +400,14 @@
         "language" : "ENGLISH",
         "title" : "Golden Secret"
       }, {
+        "language" : "FRENCH",
+        "title" : "Le Secret de l`or"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Ougon no Himitsu"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Золотий секрет"
       }, {
         "language" : "JAPANESE",
         "title" : "黄金の秘密"
@@ -397,10 +418,29 @@
       "episode_id" : 295437,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 5.41,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7MQ42" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Begegnung mit dem Erzfeind"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Chance Meeting with an Arch-Enemy"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shukuteki Kaikou"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Шанс зустріти кровного ворога"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "宿敵邂逅"
       } ],
       "type" : "REGULAR"
     }, {
@@ -411,7 +451,19 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Beyond Prayer`s End"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Das Ende des Gebetes"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Inori no Hate"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Завершення молитви"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "祈りの果て"
       } ],
       "type" : "REGULAR"
     }, {
@@ -440,12 +492,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.47,
-      "total" : 19
+      "rating" : 5.24,
+      "total" : 23
     },
     "TEMPORARY" : {
-      "rating" : 6.02,
-      "total" : 19
+      "rating" : 6.15,
+      "total" : 23
     }
   },
   "related" : {

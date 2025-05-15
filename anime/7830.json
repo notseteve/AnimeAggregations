@@ -1,5 +1,23 @@
 {
   "anime_id" : 7830,
+  "creators" : {
+    "774" : [ {
+      "name" : "Group Tac",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "4135" : [ {
+      "name" : "Kuroda Yoshio",
+      "type" : "DIRECTOR"
+    } ],
+    "5340" : [ {
+      "name" : "Tsuji Shin`ichi",
+      "type" : "CHARACTER_DESIGN"
+    } ],
+    "5930" : [ {
+      "name" : "Takeda Eri",
+      "type" : "MUSIC"
+    } ]
+  },
   "episodes" : {
     "REGULAR" : [ {
       "episode_id" : 120677,
@@ -19,7 +37,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.33,
+      "rating" : 3.3,
       "total" : 8
     },
     "TEMPORARY" : {
@@ -28,6 +46,7 @@
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "372327" ],
     "MAL" : [ "22563" ]
   },
   "start_date" : "1970-01-01",
@@ -35,21 +54,6 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 0
-    },
-    "2609" : {
-      "info_box" : false,
-      "name" : "original work",
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 0
-    },
-    "2799" : {
-      "info_box" : true,
-      "name" : "novel",
-      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

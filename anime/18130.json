@@ -2,12 +2,32 @@
   "anime_id" : 18130,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 148277,
+      "name" : "Billinda",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148276,
+      "name" : "Claude",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148275,
+      "name" : "Jill",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148133,
       "name" : "Kobayashi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148125,
       "name" : "Lisa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148441,
+      "name" : "Sam Stephenson",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148442,
+      "name" : "Visionary",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -64,6 +84,10 @@
       "name" : "Kondou Keiichi",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "24222" : [ {
+      "name" : "Itou Eriko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "31375" : [ {
       "name" : "MAPPA",
       "type" : "WORK"
@@ -89,8 +113,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.87,
-        "total" : 6
+        "rating" : 5.02,
+        "total" : 7
       },
       "recap" : false,
       "titles" : [ {
@@ -110,8 +134,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.44,
-        "total" : 2
+        "rating" : 5.92,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -130,10 +154,20 @@
       "episode_id" : 294614,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.63,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "Long Way From Home"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Long Way from Home"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Long Way from Home"
       } ],
       "type" : "REGULAR"
     }, {
@@ -141,10 +175,64 @@
       "episode_id" : 294615,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 8.42,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Don`t Stop the Dance"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Don`t Stop the Dance"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Don`t Stop the Dance"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-04",
+      "episode_id" : 295521,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-11",
+      "episode_id" : 295522,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-18",
+      "episode_id" : 295523,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-25",
+      "episode_id" : 295524,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -174,12 +262,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.71,
-      "total" : 28
+      "rating" : 4.61,
+      "total" : 43
     },
     "TEMPORARY" : {
-      "rating" : 6.22,
-      "total" : 29
+      "rating" : 5.86,
+      "total" : 45
     }
   },
   "resources" : {
@@ -223,6 +311,10 @@
   }, {
     "language" : "CHINESE_TRADITIONAL",
     "title" : "LAZARUS拉撒路",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "POLISH",
+    "title" : "Lazarus",
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",

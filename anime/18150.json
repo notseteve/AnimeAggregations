@@ -30,6 +30,14 @@
       "name" : "Cementos",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 92569,
+      "name" : "Dabi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 95720,
+      "name" : "Edge Shot",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 130150,
       "name" : "En",
       "type" : "CHARACTER"
@@ -48,6 +56,10 @@
     }, {
       "character_id" : 130152,
       "name" : "Kudou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 117852,
+      "name" : "Mirko",
       "type" : "CHARACTER"
     }, {
       "character_id" : 87733,
@@ -92,6 +104,10 @@
     }, {
       "character_id" : 92564,
       "name" : "Yoichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 81760,
+      "name" : "Youshou Izuku",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -180,6 +196,14 @@
       "name" : "Jill Gorrini",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 148293,
+      "name" : "Kurau Ginji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 107106,
+      "name" : "Lemillion",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 81006,
       "name" : "Mt. Lady",
       "type" : "CHARACTER"
@@ -264,21 +288,40 @@
       "length" : 110,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUE399X" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Complete Movie"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2024-08-02",
+      "episode_id" : 295618,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 5.42,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.21,
-      "total" : 42
+      "rating" : 6.15,
+      "total" : 54
     },
     "TEMPORARY" : {
-      "rating" : 6.94,
-      "total" : 43
+      "rating" : 6.86,
+      "total" : 55
     }
   },
   "related" : {
@@ -288,6 +331,7 @@
     "ALL_CINEMA" : [ "393419" ],
     "ANISON" : [ "25595" ],
     "ANN" : [ "31891" ],
+    "CRUNCHY_ROLL" : [ "GMEHME5WK" ],
     "MAL" : [ "56196" ],
     "SYOBOI" : [ "7167" ],
     "TWITTER" : [ "heroaca_movie/" ],
@@ -332,6 +376,14 @@
   }, {
     "language" : "FRENCH",
     "title" : "My Hero Academia: You`re Next",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
+    "title" : "My Hero Academia: You`re Next",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "PORTUGUESE",
+    "title" : "My Hero Academia: És o Próximo",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

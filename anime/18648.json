@@ -1,9 +1,27 @@
 {
   "anime_id" : 18648,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 148265,
+      "name" : "Komiya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148264,
+      "name" : "Togashi",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
+    "20876" : [ {
+      "name" : "Tsutsumi Hiroaki",
+      "type" : "MUSIC"
+    } ],
     "24504" : [ {
       "name" : "Kojima Keisuke",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Kojima Keisuke",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "58025" : [ {
       "name" : "Iwaisawa Kenji",
@@ -18,12 +36,30 @@
       "type" : "ANIMATION_WORK"
     } ]
   },
-  "end_date" : "2025",
+  "end_date" : "2025-09-19",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-09-19",
+      "episode_id" : 295679,
+      "length" : 0,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Complete Movie"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "395376" ],
+    "ANN" : [ "32760" ],
     "MAL" : [ "58919" ],
+    "TWITTER" : [ "hyakuemu_anime" ],
+    "WEBSITE" : [ "https://hyakuemu-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Hyakuemu" ]
   },
-  "start_date" : "2025",
+  "start_date" : "2025-09-19",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -54,5 +90,6 @@
     "title" : "100m.",
     "type" : "SYNONYM"
   } ],
-  "type" : "MOVIE"
+  "type" : "MOVIE",
+  "url" : "https://hyakuemu-anime.com/"
 }

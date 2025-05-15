@@ -341,7 +341,7 @@
       "length" : 20,
       "number" : 20,
       "rating" : {
-        "rating" : 4.35,
+        "rating" : 4.34,
         "total" : 1
       },
       "recap" : false,
@@ -428,12 +428,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.8,
-      "total" : 9
+      "rating" : 3.53,
+      "total" : 10
     },
     "TEMPORARY" : {
-      "rating" : 5.11,
-      "total" : 9
+      "rating" : 4.8,
+      "total" : 10
     }
   },
   "resources" : {
@@ -446,6 +446,53 @@
   },
   "start_date" : "2024-07-05",
   "tags" : {
+    "2202" : {
+      "info_box" : false,
+      "name" : "alien",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3315" : {
+      "info_box" : false,
+      "name" : "superhero",
+      "parent_tag_id" : 2623,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6152" : {
       "info_box" : false,
       "name" : "Chinese production",
@@ -457,6 +504,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

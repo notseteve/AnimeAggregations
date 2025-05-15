@@ -238,6 +238,10 @@
       "name" : "Hori Takafumi",
       "type" : "CHARACTER_DESIGN"
     } ],
+    "11136" : [ {
+      "name" : "Okazaki Takashi",
+      "type" : "CHARACTER_DESIGN"
+    } ],
     "16912" : [ {
       "name" : "Haga Hitoshi",
       "type" : "DIRECTOR"
@@ -339,7 +343,7 @@
       "length" : 15,
       "number" : 2,
       "rating" : {
-        "rating" : 4.29,
+        "rating" : 4.3,
         "total" : 10
       },
       "recap" : false,
@@ -435,7 +439,7 @@
       "length" : 15,
       "number" : 6,
       "rating" : {
-        "rating" : 3.84,
+        "rating" : 3.85,
         "total" : 10
       },
       "recap" : false,
@@ -459,7 +463,7 @@
       "length" : 20,
       "number" : 7,
       "rating" : {
-        "rating" : 7.16,
+        "rating" : 7.17,
         "total" : 9
       },
       "recap" : false,
@@ -507,7 +511,7 @@
       "length" : 15,
       "number" : 9,
       "rating" : {
-        "rating" : 6.59,
+        "rating" : 6.6,
         "total" : 8
       },
       "recap" : false,
@@ -630,30 +634,27 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.26,
-      "total" : 464
+      "rating" : 5.28,
+      "total" : 468
     },
     "TEMPORARY" : {
       "rating" : 6.51,
-      "total" : 465
+      "total" : 469
     }
   },
   "related" : {
-    "OTHER" : [ 19005 ],
+    "OTHER" : [ 18140, 19005 ],
     "SAME_SETTING" : [ 14745 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "377764" ],
     "ANN" : [ "23840" ],
-    "BAIDU_BAIKE" : [ "星球大战：Visions" ],
-    "BANGUMI" : [ "340837" ],
     "IMDB" : [ "tt13622982" ],
     "MAL" : [ "49357" ],
     "STREAM" : [ "https://www.disneyplus.com/en-gb/series/star-wars-visions/5AiiTRJ7OaKg" ],
     "TMDB" : [ "tv/114478" ],
     "WIKIPEDIA_EN" : [ "Star_Wars:_Visions" ],
-    "WIKIPEDIA_JP" : [ "スター・ウォーズ:_ビジョンズ" ],
-    "WIKIPEDIA_ZH" : [ "星際大戰：異象" ]
+    "WIKIPEDIA_JP" : [ "スター・ウォーズ:_ビジョンズ" ]
   },
   "similar" : {
     "517" : {
@@ -715,14 +716,6 @@
       "verified" : false,
       "weight" : 300
     },
-    "2796" : {
-      "info_box" : true,
-      "name" : "movie",
-      "parent_tag_id" : 2609,
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 0
-    },
     "2841" : {
       "info_box" : false,
       "name" : "action",
@@ -739,14 +732,6 @@
       "verified" : false,
       "weight" : 600
     },
-    "3546" : {
-      "info_box" : false,
-      "name" : "experimental animation",
-      "parent_tag_id" : 6151,
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 0
-    },
     "4424" : {
       "info_box" : true,
       "name" : "American derived",
@@ -759,13 +744,6 @@
       "info_box" : false,
       "name" : "short story collection",
       "parent_tag_id" : 2605,
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 0
-    },
-    "6151" : {
-      "info_box" : false,
-      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

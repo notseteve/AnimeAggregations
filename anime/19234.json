@@ -8,8 +8,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.04,
-        "total" : 1
+        "rating" : 8.69,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -23,8 +23,8 @@
       "length" : 20,
       "number" : 2,
       "rating" : {
-        "rating" : 5.38,
-        "total" : 1
+        "rating" : 5.75,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -37,6 +37,10 @@
       "episode_id" : 294790,
       "length" : 20,
       "number" : 3,
+      "rating" : {
+        "rating" : 2.62,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -48,6 +52,10 @@
       "episode_id" : 294791,
       "length" : 20,
       "number" : 4,
+      "rating" : {
+        "rating" : 4.87,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -59,6 +67,10 @@
       "episode_id" : 294792,
       "length" : 20,
       "number" : 5,
+      "rating" : {
+        "rating" : 6.24,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -70,6 +82,10 @@
       "episode_id" : 294793,
       "length" : 20,
       "number" : 6,
+      "rating" : {
+        "rating" : 4.87,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -81,6 +97,10 @@
       "episode_id" : 294794,
       "length" : 20,
       "number" : 7,
+      "rating" : {
+        "rating" : 7.59,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -92,6 +112,10 @@
       "episode_id" : 294795,
       "length" : 20,
       "number" : 8,
+      "rating" : {
+        "rating" : 3.62,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -103,6 +127,10 @@
       "episode_id" : 294796,
       "length" : 20,
       "number" : 9,
+      "rating" : {
+        "rating" : 8.09,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -146,12 +174,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.67,
-      "total" : 4
+      "rating" : 6.2,
+      "total" : 8
     },
     "TEMPORARY" : {
-      "rating" : 7.0,
-      "total" : 4
+      "rating" : 7.94,
+      "total" : 9
     }
   },
   "resources" : {
@@ -160,7 +188,8 @@
     "DOUBAN" : [ "36404154" ],
     "IMDB" : [ "tt28197251" ],
     "MAL" : [ "60057" ],
-    "STREAM" : [ "https://www.iq.com/album/super-cube-2025-le7u9jw6it", "https://www.iqiyi.com/a_1cgy1ao7255.html" ]
+    "STREAM" : [ "https://www.iq.com/album/super-cube-2025-le7u9jw6it", "https://www.iqiyi.com/a_1cgy1ao7255.html" ],
+    "TMDB" : [ "tv/279182" ]
   },
   "start_date" : "2025-03-21",
   "tags" : {
@@ -175,6 +204,13 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8210" : {
+      "info_box" : false,
+      "name" : "ai dubbing",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

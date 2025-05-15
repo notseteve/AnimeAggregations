@@ -74,12 +74,13 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-03-01",
+      "description" : "Manga artist Suzugamori Chika goes on a journey guided by poll results. Her first destination: Aizuwakamatsu.\nSource: Crunchyroll",
       "episode_id" : 294291,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.15,
-        "total" : 5
+        "rating" : 7.08,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -98,12 +99,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-14",
+      "description" : "Chika visits Matsushima alone and feels a little lonely. Koyomi joins her journey to Kurobe in Toyama.\nSource: Crunchyroll",
       "episode_id" : 294292,
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.03,
-        "total" : 2
+        "rating" : 5.19,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -122,10 +124,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-21",
+      "description" : "Chika and her junior Yui go on their first journey together to Takamatsu, Kagawa, in the Shikoku region.\nSource: Crunchyroll",
       "episode_id" : 294293,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 5.19,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7ME74" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Perfect the Way It Is"
@@ -142,10 +152,23 @@
       "episode_id" : 294294,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 4.08,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX54X7" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fu, by the Sea"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Smile by the Sea"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ふ, ばいざしー"
       } ],
       "type" : "REGULAR"
     }, {
@@ -156,7 +179,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Crows, Dragons, Soba, and a Remote Island"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Karasu to Ryuu to Soba to Ritou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カラスと龍と蕎麦と離島"
       } ],
       "type" : "REGULAR"
     }, {
@@ -198,6 +227,10 @@
       "episode_id" : 295090,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.12,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -208,12 +241,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.72,
-      "total" : 18
+      "rating" : 5.4,
+      "total" : 29
     },
     "TEMPORARY" : {
-      "rating" : 6.25,
-      "total" : 18
+      "rating" : 6.18,
+      "total" : 29
     }
   },
   "resources" : {
@@ -240,9 +273,30 @@
   },
   "start_date" : "2025-03-01",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -309,6 +363,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2834" : {
       "info_box" : false,
       "name" : "Asia",
@@ -317,10 +387,89 @@
       "verified" : false,
       "weight" : 600
     },
+    "2850" : {
+      "info_box" : false,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2879" : {
+      "info_box" : false,
+      "name" : "alcohol",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3185" : {
+      "info_box" : false,
+      "name" : "wordplay",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3305" : {
+      "info_box" : false,
+      "name" : "light-hearted",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3504" : {
+      "info_box" : false,
+      "name" : "sake",
+      "parent_tag_id" : 2879,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3683" : {
       "info_box" : false,
       "name" : "storytelling",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4030" : {
+      "info_box" : false,
+      "name" : "mental cinema",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -333,9 +482,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5851" : {
       "info_box" : false,
       "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
       "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
@@ -363,6 +536,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7146" : {
+      "info_box" : false,
+      "name" : "cute girls doing cute things",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7885" : {
       "info_box" : false,

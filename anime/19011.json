@@ -53,6 +53,10 @@
       "name" : "Muratani Takashi",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "17546" : [ {
+      "name" : "Morishita Yuuki",
+      "type" : "CHARACTER_DESIGN"
+    } ],
     "26780" : [ {
       "name" : "Kawada Izumi",
       "type" : "CHARACTER_DESIGN"
@@ -73,7 +77,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.04,
+        "rating" : 4.03,
         "total" : 3
       },
       "recap" : false,
@@ -100,7 +104,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.35,
+        "rating" : 4.34,
         "total" : 1
       },
       "recap" : false,
@@ -124,7 +128,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.35,
+        "rating" : 4.34,
         "total" : 1
       },
       "recap" : false,
@@ -135,6 +139,9 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shisha kara no Dengon o Douzo: File 2"
       }, {
+        "language" : "FRENCH",
+        "title" : "Un message d`outre-tombe - Dossier 2"
+      }, {
         "language" : "JAPANESE",
         "title" : "死者からの伝言をどうぞ File2"
       } ],
@@ -144,10 +151,20 @@
       "episode_id" : 294242,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 4.34,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Futamata ni wa Oki o Tsuke Kudasai: File 1"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Please Be Aware of Two-timing Affairs: File 1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "二股にはお気をつけください File1"
       } ],
       "type" : "REGULAR"
     }, {
@@ -155,10 +172,20 @@
       "episode_id" : 295417,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 4.34,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Futamata ni wa Oki o Tsuke Kudasai: File 2 / Otoshinushi wa VTuber de Gozaimasu: File 1"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Please Be Aware of Two-timing Affairs: File 2 / The Person Who Dropped It Is a VTuber: File 1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "二股にはお気をつけください File2 / 落とし主はVtuberでございます File1"
       } ],
       "type" : "REGULAR"
     }, {
@@ -198,12 +225,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.03,
-      "total" : 19
+      "rating" : 3.57,
+      "total" : 28
     },
     "TEMPORARY" : {
-      "rating" : 4.71,
-      "total" : 19
+      "rating" : 4.51,
+      "total" : 28
     }
   },
   "resources" : {
@@ -220,6 +247,21 @@
   },
   "start_date" : "2025-04-04",
   "tags" : {
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2614" : {
+      "info_box" : true,
+      "name" : "josei",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

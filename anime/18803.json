@@ -1,10 +1,58 @@
 {
   "anime_id" : 18803,
-  "resources" : {
-    "MAL" : [ "59484" ],
-    "WIKIPEDIA_EN" : [ "Kikaijikake_no_Marie" ]
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 148324,
+      "name" : "Arthur",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148325,
+      "name" : "Marie",
+      "type" : "CHARACTER"
+    } ]
   },
-  "start_date" : "1970-01-01",
+  "creators" : {
+    "1752" : [ {
+      "name" : "Kikuchi Youko",
+      "type" : "CHARACTER_DESIGN"
+    } ],
+    "2241" : [ {
+      "name" : "Nishimura Junji",
+      "type" : "DIRECTOR"
+    } ],
+    "2754" : [ {
+      "name" : "Takanashi Yasuharu",
+      "type" : "MUSIC"
+    } ],
+    "9774" : [ {
+      "name" : "Kunisawa Mariko",
+      "type" : "SERIES_COMPOSITION"
+    } ],
+    "44519" : [ {
+      "name" : "Zero-G",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "58143" : [ {
+      "name" : "Johannes Nilsson",
+      "type" : "MUSIC"
+    } ],
+    "67675" : [ {
+      "name" : "Liber",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "81236" : [ {
+      "name" : "Akimoto Aki",
+      "type" : "ORIGINAL_WORK"
+    } ]
+  },
+  "resources" : {
+    "ANN" : [ "33134" ],
+    "MAL" : [ "59484" ],
+    "TWITTER" : [ "Mmarie_anime" ],
+    "WEBSITE" : [ "https://mechanicalmarie-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "Mechanical_Marie" ]
+  },
+  "start_date" : "2025-10",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -30,6 +78,11 @@
     "language" : "JAPANESE",
     "title" : "機械じかけのマリー",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Mechanical Marie",
+    "type" : "SYNONYM"
   } ],
-  "type" : "SERIES"
+  "type" : "SERIES",
+  "url" : "https://mechanicalmarie-anime.com/"
 }

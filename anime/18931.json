@@ -82,7 +82,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.33,
+        "rating" : 4.35,
         "total" : 5
       },
       "recap" : false,
@@ -106,8 +106,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.13,
-        "total" : 4
+        "rating" : 6.7,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -130,7 +130,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.1,
+        "rating" : 6.11,
         "total" : 5
       },
       "recap" : false,
@@ -153,6 +153,10 @@
       "episode_id" : 294515,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.35,
+        "total" : 4
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GZ7UD34N7" ]
@@ -173,10 +177,23 @@
       "episode_id" : 295243,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 6.07,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UEZX42" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "A Frontier Town with Enemies at All Sides"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shimensoka no Henkyou Machi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "四面楚歌の辺境町"
       } ],
       "type" : "REGULAR"
     }, {
@@ -184,10 +201,23 @@
       "episode_id" : 295244,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 4.33,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUM0249" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shihouhappou no Kyuuhou Me"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Ninth Direction"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "四方八方の九方目"
       } ],
       "type" : "REGULAR"
     }, {
@@ -216,12 +246,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.41,
-      "total" : 45
+      "rating" : 4.32,
+      "total" : 59
     },
     "TEMPORARY" : {
-      "rating" : 6.03,
-      "total" : 45
+      "rating" : 6.18,
+      "total" : 59
     }
   },
   "resources" : {
@@ -238,12 +268,20 @@
   },
   "similar" : {
     "15215" : {
-      "rating" : 9.375,
-      "total" : 16
+      "rating" : 9.444444444444445,
+      "total" : 18
     }
   },
   "start_date" : "2025-03-30",
   "tags" : {
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1802" : {
       "info_box" : true,
       "name" : "seinen",

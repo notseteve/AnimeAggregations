@@ -101,7 +101,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.88,
+        "rating" : 7.9,
         "total" : 5
       },
       "recap" : false,
@@ -125,7 +125,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.2,
+        "rating" : 6.21,
         "total" : 4
       },
       "recap" : false,
@@ -148,6 +148,10 @@
       "episode_id" : 294600,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 5.3,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -168,6 +172,10 @@
       "episode_id" : 294601,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 3.48,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "GERMAN",
@@ -188,10 +196,23 @@
       "episode_id" : 295480,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 2.99,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Fröhliches Onsen-Hotel"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Onsen Fun"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Runrun Onsen Ryokan"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "るんるん温泉旅館"
       } ],
       "type" : "REGULAR"
     }, {
@@ -201,8 +222,17 @@
       "number" : 6,
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Fledermausmann erscheint aus dem Nichts"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ikinari Bat Guy"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Unexpected Mr. Bat"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "いきなりバットガイ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -253,12 +283,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.33,
-      "total" : 19
+      "rating" : 5.13,
+      "total" : 20
     },
     "TEMPORARY" : {
-      "rating" : 5.76,
-      "total" : 19
+      "rating" : 5.5,
+      "total" : 20
     }
   },
   "related" : {
@@ -713,6 +743,10 @@
     "language" : "CHINESE_TRADITIONAL",
     "title" : "真･武士傳 YAIBA",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "真･武士传YAIBA",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://www.yaiba-pr.com/"

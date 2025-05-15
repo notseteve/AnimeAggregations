@@ -10,8 +10,33 @@
       "name" : "Makinohara",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 94868,
+      "name" : "Shimada Koharu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146089,
       "name" : "Taishou",
+      "type" : "CHARACTER"
+    } ],
+    "CAMEO" : [ {
+      "character_id" : 94568,
+      "name" : "Inuyama Akari",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 91023,
+      "name" : "Inuyama Aoi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 90089,
+      "name" : "Kagamihara Nadeshiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 91021,
+      "name" : "Oogaki Chiaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 90090,
+      "name" : "Shima Rin",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -73,8 +98,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.57,
-        "total" : 3
+        "rating" : 7.23,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -97,8 +122,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 10.0,
-        "total" : 1
+        "rating" : 6.61,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -120,10 +145,23 @@
       "episode_id" : 294365,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU8X7M1" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Anime-ka Chokuzen!! Jigoku no Dangan Seichijunrei Stamp Rally!!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Right Before It Becomes an Anime!! The Manga Pilgrimage Stamp Rally with a Schedule from Hell!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アニメ化直前!! 地獄の弾丸聖地巡礼スタンプラリー!!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -135,6 +173,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-11",
+      "episode_id" : 295835,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-18",
+      "episode_id" : 295836,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-25",
+      "episode_id" : 295837,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-01",
+      "episode_id" : 295838,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -155,6 +237,29 @@
         "title" : "monoさんぽ ~TVアニメ「mono」放送直前キャスト特番~"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-04-20",
+      "episode_id" : 295638,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-04-20",
+      "episode_id" : 295639,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2024-03-22",
@@ -279,13 +384,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.4,
-      "total" : 17
+      "rating" : 4.87,
+      "total" : 26
     },
     "TEMPORARY" : {
-      "rating" : 5.88,
-      "total" : 17
+      "rating" : 5.9,
+      "total" : 26
     }
+  },
+  "related" : {
+    "SAME_SETTING" : [ 12743 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "397005" ],
