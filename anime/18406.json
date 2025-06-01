@@ -92,7 +92,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "\"Fuujinmaru Kenzan\" Odeko ga Pinch no Ofurain!"
+        "title" : "\"Fuujinmaru Kenzan\" Odeko ga Pinch no Offline!"
       }, {
         "language" : "ENGLISH",
         "title" : "Here Comes Fujinmaru! Offline`s Forehead Is in Danger!"
@@ -367,7 +367,7 @@
         "title" : "\"Kamikai\" Sekai no Himitsu o Oshiemasu!"
       }, {
         "language" : "ENGLISH",
-        "title" : "Episode 18"
+        "title" : "Divine Episode! Asking for the Secret of the World!"
       }, {
         "language" : "JAPANESE",
         "title" : "【神回】世界のヒミツを教えます!"
@@ -380,8 +380,14 @@
       "number" : 19,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "\"Zakkuri Kaisetsu\" Offline no Dekiru made toka"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 19"
+        "title" : "A Brief Explanation! The Creation of Offline!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "【ざっくり解説】御富良院のできるまでとか"
       } ],
       "type" : "REGULAR"
     }, {
@@ -391,8 +397,58 @@
       "number" : 20,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "\"Otoko no Otokogi Battle\" Otoko to Otoko no Otoko Shoubu!"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 20"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "【漢の男気バトル】オトコとオトコのオトコ勝負!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-01",
+      "episode_id" : 296452,
+      "length" : 25,
+      "number" : 21,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 21"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-08",
+      "episode_id" : 296453,
+      "length" : 25,
+      "number" : 22,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 22"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-15",
+      "episode_id" : 296454,
+      "length" : 25,
+      "number" : 23,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 23"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-22",
+      "episode_id" : 296455,
+      "length" : 25,
+      "number" : 24,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 24"
       } ],
       "type" : "REGULAR"
     } ]
@@ -406,6 +462,9 @@
       "rating" : 3.2,
       "total" : 5
     }
+  },
+  "related" : {
+    "ALTERNATIVE_SETTING" : [ 3636 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "396679" ],
@@ -426,9 +485,40 @@
   },
   "start_date" : "2025-01-12",
   "tags" : {
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2638" : {
+      "info_box" : true,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

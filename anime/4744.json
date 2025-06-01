@@ -25,6 +25,10 @@
       "episode_id" : 74126,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.04,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "GERMAN",
@@ -45,6 +49,10 @@
       "episode_id" : 74151,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.15,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -65,6 +73,10 @@
       "episode_id" : 74150,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 2.17,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -85,6 +97,10 @@
       "episode_id" : 74149,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 2.17,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "GERMAN",
@@ -105,6 +121,10 @@
       "episode_id" : 74148,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 2.17,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "GERMAN",
@@ -125,6 +145,10 @@
       "episode_id" : 74147,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 2.61,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "GERMAN",
@@ -145,6 +169,10 @@
       "episode_id" : 74146,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 2.17,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -165,6 +193,10 @@
       "episode_id" : 74145,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 2.17,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "GERMAN",
@@ -185,6 +217,10 @@
       "episode_id" : 74144,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 2.17,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -205,6 +241,10 @@
       "episode_id" : 74143,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 2.17,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "GERMAN",
@@ -225,6 +265,10 @@
       "episode_id" : 74142,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 2.17,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "GERMAN",
@@ -544,12 +588,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.75,
-      "total" : 24
+      "rating" : 5.63,
+      "total" : 25
     },
     "TEMPORARY" : {
-      "rating" : 6.06,
-      "total" : 24
+      "rating" : 5.87,
+      "total" : 25
     }
   },
   "related" : {
@@ -565,12 +609,382 @@
   },
   "start_date" : "1991-10-03",
   "tags" : {
+    "308" : {
+      "info_box" : false,
+      "name" : "detective",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1796" : {
+      "info_box" : false,
+      "name" : "karate",
+      "parent_tag_id" : 2751,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2641" : {
+      "info_box" : true,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2689" : {
+      "info_box" : false,
+      "name" : "1920s",
+      "parent_tag_id" : 2641,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2751" : {
+      "info_box" : false,
+      "name" : "combat",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2759" : {
+      "info_box" : false,
+      "name" : "motorsport",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2763" : {
+      "info_box" : false,
+      "name" : "Paris",
+      "parent_tag_id" : 2807,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2767" : {
+      "info_box" : false,
+      "name" : "formula racing",
+      "parent_tag_id" : 2759,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2777" : {
+      "info_box" : false,
+      "name" : "London",
+      "parent_tag_id" : 2809,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2794" : {
+      "info_box" : false,
+      "name" : "music",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2807" : {
+      "info_box" : false,
+      "name" : "France",
+      "parent_tag_id" : 2831,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2809" : {
+      "info_box" : false,
+      "name" : "United Kingdom",
+      "parent_tag_id" : 2831,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2831" : {
+      "info_box" : false,
+      "name" : "Europe",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2885" : {
+      "info_box" : false,
+      "name" : "law and order",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2897" : {
+      "info_box" : false,
+      "name" : "police",
+      "parent_tag_id" : 2885,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3149" : {
+      "info_box" : false,
+      "name" : "journalism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3489" : {
+      "info_box" : false,
+      "name" : "car chases",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4170" : {
+      "info_box" : false,
+      "name" : "police are useless",
+      "parent_tag_id" : 5626,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5626" : {
+      "info_box" : false,
+      "name" : "adults are useless",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5649" : {
+      "info_box" : false,
+      "name" : "jazz",
+      "parent_tag_id" : 2794,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6070" : {
+      "info_box" : false,
+      "name" : "mystery",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6248" : {
+      "info_box" : false,
+      "name" : "thievery",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6254" : {
+      "info_box" : false,
+      "name" : "terrorism",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "8010" : {
       "info_box" : false,

@@ -178,6 +178,10 @@
       "episode_id" : 292789,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.2,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -196,6 +200,10 @@
       "episode_id" : 292790,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.2,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -266,12 +274,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.78,
-      "total" : 6
+      "rating" : 4.52,
+      "total" : 9
     },
     "TEMPORARY" : {
-      "rating" : 4.33,
-      "total" : 6
+      "rating" : 4.88,
+      "total" : 9
     }
   },
   "resources" : {
@@ -286,9 +294,40 @@
   },
   "start_date" : "2025-03-27",
   "tags" : {
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2638" : {
+      "info_box" : true,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

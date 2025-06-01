@@ -26,6 +26,10 @@
       "name" : "Endeavor",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 148631,
+      "name" : "Haruhisa",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 78892,
       "name" : "Iida Ten`ya",
       "type" : "CHARACTER"
@@ -74,6 +78,10 @@
       "name" : "Snipe",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 148632,
+      "name" : "Souji",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148547,
       "name" : "Stendhal",
       "type" : "CHARACTER"
@@ -84,6 +92,10 @@
     }, {
       "character_id" : 148285,
       "name" : "Tanuma Eizou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148628,
+      "name" : "Tetsu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148045,
@@ -104,6 +116,10 @@
     }, {
       "character_id" : 148508,
       "name" : "Yobayakawa Batto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148629,
+      "name" : "Yonenaga Rojiya",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -160,6 +176,10 @@
       "name" : "Present Mic",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 148630,
+      "name" : "Tsukauchi Makoto",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 87742,
       "name" : "Tsukauchi Naomasa",
       "type" : "CHARACTER"
@@ -211,6 +231,7 @@
     } ]
   },
   "description" : "In a world where 80 percent of the population has super powers, \"Heroes\" are chosen ones, celebrated and authorized to use their innate powers to serve society. But not everyone can earn or be given the title of Hero, and those who use their powers without society`s approval to fight evil are known by another name - Vigilantes!\nSource: Viz",
+  "end_date" : "2025-06-30",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-04-07",
@@ -245,7 +266,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.02,
+        "rating" : 6.01,
         "total" : 3
       },
       "recap" : false,
@@ -299,7 +320,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.33,
+        "rating" : 7.32,
         "total" : 3
       },
       "recap" : false,
@@ -326,8 +347,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.61,
-        "total" : 1
+        "rating" : 6.01,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -352,7 +373,14 @@
       "episode_id" : 295672,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 7.32,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UG2MPZ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Crossing Lines"
@@ -374,8 +402,14 @@
       "number" : 7,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Makoto"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Makoto / Truth"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "真"
       } ],
       "type" : "REGULAR"
     }, {
@@ -389,16 +423,71 @@
         "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-02",
+      "episode_id" : 296513,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-09",
+      "episode_id" : 296514,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-16",
+      "episode_id" : 296515,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-23",
+      "episode_id" : 296516,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-30",
+      "episode_id" : 296554,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 13"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.66,
-      "total" : 18
+      "rating" : 5.37,
+      "total" : 26
     },
     "TEMPORARY" : {
-      "rating" : 6.63,
-      "total" : 18
+      "rating" : 6.67,
+      "total" : 26
     }
   },
   "related" : {

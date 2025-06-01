@@ -15,6 +15,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 148637,
+      "name" : "Akuri",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 147306,
       "name" : "Bandana",
       "type" : "CHARACTER"
@@ -25,6 +29,10 @@
     }, {
       "character_id" : 147305,
       "name" : "Golnova",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148636,
+      "name" : "Hildegarde",
       "type" : "CHARACTER"
     }, {
       "character_id" : 146910,
@@ -53,9 +61,24 @@
       "name" : "Akao Deko",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "6577" : [ {
+      "name" : "Yatsu Miyako",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "7323" : [ {
+      "name" : "Muramatsu Hisao",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "8043" : [ {
       "name" : "Nakamura Miyuki",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Nakamura Miyuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "11686" : [ {
+      "name" : "Hashimoto Jun`ichi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "12485" : [ {
       "name" : "Ishii Hisashi",
@@ -75,15 +98,17 @@
     } ]
   },
   "description" : "One day, http://anidb.net/ch143999 [Kurt], a kind-hearted boy, is suddenly kicked out of the Hero`s Party for being \"useless\". He finds that his aptitude for weapons, magic, and all other combat-related skills is the lowest rank, so he takes odd-jobs repairing the castle walls and digging for minerals to make a living, where his exceptional abilities are immediately revealed. He proves to be skillful in cooking, building, mining, crafting magical tools--in fact, his aptitude for every skill unrelated to combat had an SSS-ranking! Kurt, however, seems completely unaware to his talent and ends up saving people, the town, and even the country through his unaware actions!?\nSource: Alpha Manga\nNote: Each episode was streamed on dAnimeStore and ABEMA one week ahead of its TV broadcast, starting on 30 March 2025. The regular TV broadcast started on 6 April 2025.",
+  "end_date" : "2025-06-15",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-03-30",
+      "description" : "After he`s fired from his party of heroes, the 15-year-old Kurt turns to a temp agency for work.\nSource: Crunchyroll",
       "episode_id" : 294512,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.35,
-        "total" : 5
+        "rating" : 5.01,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -102,6 +127,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-06",
+      "description" : "Kurt accepts an offer from Bandana to go work at his first Atelier, which harbors a dangerous secret.\nSource: Crunchyroll",
       "episode_id" : 294513,
       "length" : 25,
       "number" : 2,
@@ -126,11 +152,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-13",
+      "description" : "While Ophelia and the others discuss plans to uncover who cursed Liselotte, Kurt takes a job as a porter.\nSource: Crunchyroll",
       "episode_id" : 294514,
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.11,
+        "rating" : 6.13,
         "total" : 5
       },
       "recap" : false,
@@ -150,12 +177,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-20",
+      "description" : "Yulishia establishes a new atelier in the frontier town without letting Kurt know he`s its atelier meister.\nSource: Crunchyroll",
       "episode_id" : 294515,
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.35,
-        "total" : 4
+        "rating" : 5.89,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -174,12 +202,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-27",
+      "description" : "Tristan & a demon lord force Marlefiss to summon hordes of monsters to attack the town in order to kill Lise.\nSource: Crunchyroll",
       "episode_id" : 295243,
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.07,
-        "total" : 2
+        "rating" : 4.33,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -198,12 +227,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-04",
+      "description" : "Kurt tunnels into the ruins from underground and saves Marlefiss while his allies defeat the demon lord.\nSource: Crunchyroll",
       "episode_id" : 295244,
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.33,
-        "total" : 2
+        "rating" : 4.37,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -222,36 +252,122 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-11",
+      "description" : "After helping a village with a water shortage, Kurt receives an egg that hatches into a 3-year old girl.\nSource: Crunchyroll",
       "episode_id" : 295245,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 5.66,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMN5JW" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fushigi na Tamago no Shinmai Papa"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "The New Papa of a Mysterious Egg"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "不思議な卵の新米パパ"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-18",
+      "description" : "While Kurt and Yulishia help a farm with their pigs, a demon tries to take away Akuri.\nSource: Crunchyroll",
       "episode_id" : 295246,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 5.16,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7MDN5" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akuri no Byun!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Akuri`s Fwoosh"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アクリのびゅんっ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-05-25",
+      "description" : "Mimico reports on Akuri and interrogates Solflare. Then Kurt & Lise go on a date before the rescue mission.\nSource: Crunchyroll",
+      "episode_id" : 296430,
+      "length" : 25,
+      "number" : 9,
+      "rating" : {
+        "rating" : 5.2,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX5G7Q" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Lise no Kokuhaku"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Lise`s Confession"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "リーゼの告白"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-01",
+      "episode_id" : 296431,
+      "length" : 25,
+      "number" : 10,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-08",
+      "episode_id" : 296432,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-15",
+      "episode_id" : 296433,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.32,
-      "total" : 59
+      "rating" : 3.59,
+      "total" : 71
     },
     "TEMPORARY" : {
-      "rating" : 6.18,
-      "total" : 59
+      "rating" : 5.81,
+      "total" : 71
     }
   },
   "resources" : {

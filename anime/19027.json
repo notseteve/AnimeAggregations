@@ -6,6 +6,10 @@
       "name" : "Arraga",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 2680,
+      "name" : "Bask Om",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148166,
       "name" : "Benowa",
       "type" : "CHARACTER"
@@ -20,6 +24,10 @@
     }, {
       "character_id" : 44309,
       "name" : "Cumron Bloom",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148753,
+      "name" : "Deux Murasame",
       "type" : "CHARACTER"
     }, {
       "character_id" : 44369,
@@ -81,6 +89,30 @@
       "character_id" : 148498,
       "name" : "Ward",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 148785,
+      "name" : "MAN-03 Kikeroga [MA Keitai]",
+      "type" : "MECH"
+    }, {
+      "character_id" : 148786,
+      "name" : "MAN-03 Kikeroga [MS Keitai]",
+      "type" : "MECH"
+    }, {
+      "character_id" : 148754,
+      "name" : "MRX-010 Psycho Gundam",
+      "type" : "MECH"
+    }, {
+      "character_id" : 148784,
+      "name" : "MRX-010 Psycho Gundam",
+      "type" : "MECH"
+    }, {
+      "character_id" : 148783,
+      "name" : "MS-15/H Xavier Sen`you Gyan (Hakuji Soubi)",
+      "type" : "MECH"
+    }, {
+      "character_id" : 148787,
+      "name" : "ORX-139 Hambrabi",
+      "type" : "MECH"
     }, {
       "character_id" : 146638,
       "name" : "RGM-79 Kei-Cannon",
@@ -227,8 +259,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.42,
-        "total" : 2
+        "rating" : 7.56,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -254,8 +286,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.13,
-        "total" : 3
+        "rating" : 7.19,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -281,8 +313,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.44,
-        "total" : 1
+        "rating" : 7.39,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -309,7 +341,7 @@
       "number" : 4,
       "rating" : {
         "rating" : 10.0,
-        "total" : 1
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -335,8 +367,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 10.0,
-        "total" : 1
+        "rating" : 9.05,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -361,10 +393,17 @@
       "episode_id" : 295300,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 7.39,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kycilia Ansatsu Keikaku"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le complot contre Kycilia"
       }, {
         "language" : "ENGLISH",
         "title" : "The Plot to Assassinate Kycilia"
@@ -378,10 +417,20 @@
       "episode_id" : 295301,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 9.05,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Machu no Rebellion"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Machu`s Rebellion"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "マチュのリベリオン"
       } ],
       "type" : "REGULAR"
     }, {
@@ -392,7 +441,57 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Falling on the Moon"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsuki ni Ochiru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "月に墜[堕]ちる"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-04",
+      "episode_id" : 296567,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-11",
+      "episode_id" : 296568,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-18",
+      "episode_id" : 296569,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-25",
+      "episode_id" : 296570,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -422,16 +521,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.71,
-      "total" : 44
+      "rating" : 5.43,
+      "total" : 47
     },
     "TEMPORARY" : {
-      "rating" : 6.47,
-      "total" : 45
+      "rating" : 6.39,
+      "total" : 48
     }
   },
   "related" : {
-    "OTHER" : [ 715 ],
+    "ALTERNATIVE_SETTING" : [ 715 ],
     "SUMMARY" : [ 19044 ]
   },
   "resources" : {
@@ -449,9 +548,87 @@
   },
   "start_date" : "2025-04-09",
   "tags" : {
+    "2274" : {
+      "info_box" : false,
+      "name" : "robot",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2626" : {
+      "info_box" : false,
+      "name" : "future",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2638" : {
+      "info_box" : true,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2645" : {
+      "info_box" : true,
+      "name" : "piloted robot",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3216" : {
+      "info_box" : false,
+      "name" : "Universal Century",
+      "parent_tag_id" : 2626,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

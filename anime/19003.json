@@ -11,7 +11,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 144731,
-      "name" : "Ochi Ryota",
+      "name" : "Ochi Ryouta",
       "type" : "CHARACTER"
     } ]
   },
@@ -38,6 +38,9 @@
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kawaisugiru Sharemate-tachi"
+      }, {
         "language" : "ENGLISH",
         "title" : "My Roommates Are Way Too Cute"
       }, {
@@ -57,6 +60,9 @@
         "language" : "ENGLISH",
         "title" : "Come On... Touch Me"
       }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nee... Sawatte, Kurenai"
+      }, {
         "language" : "JAPANESE",
         "title" : "ねぇ…触って、くれない"
       } ],
@@ -69,6 +75,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "I`ll Do It for You..."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Watashi ga... Shite Ageru"
       }, {
         "language" : "JAPANESE",
         "title" : "私が…してあげる"
@@ -112,8 +121,14 @@
       "number" : 6,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yoisugi... Da yo"
+      }, {
         "language" : "ENGLISH",
         "title" : "You`ve Had Too Much to Drink..."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "酔いすぎ…だよ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -122,8 +137,14 @@
       "number" : 7,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Eigakan de... Dame Da yo"
+      }, {
         "language" : "ENGLISH",
         "title" : "We Can`t Do This in a Movie Theater..."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "映画館で…だめだよ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -132,6 +153,12 @@
       "number" : 8,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "1分間じゃ…とまれない"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ippunkan ja... Tomarenai"
+      }, {
         "language" : "ENGLISH",
         "title" : "One Minute... There`s No Way I Can Stop..."
       } ],
@@ -144,11 +171,31 @@
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Audio Commentary"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 3.5 Audio Commentary"
       }, {
         "language" : "JAPANESE",
         "title" : "オーディオコメンタリー"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "description" : "The story is coming to a close, and episode 6.5 will be a compilation. There will be a recap of the events up to this point, as well as some special information that did not appear in the main anime!\nSource: http://animefesta.iowl.jp/titles/1538 [The Share House`s Secret Rule]",
+      "episode_id" : 296492,
+      "length" : 3,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6.5 Compilation"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Soushuuhen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "総集編"
       } ],
       "type" : "SPECIAL"
     } ],
@@ -166,12 +213,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.5,
-      "total" : 23
+      "rating" : 2.45,
+      "total" : 27
     },
     "TEMPORARY" : {
-      "rating" : 4.7,
-      "total" : 24
+      "rating" : 4.64,
+      "total" : 28
     }
   },
   "resources" : {

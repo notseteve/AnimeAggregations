@@ -10,17 +10,79 @@
       "type" : "DIRECTOR"
     } ]
   },
-  "end_date" : "2025",
+  "end_date" : "2025-08-22",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-08-22",
+      "episode_id" : 296338,
+      "length" : 0,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Complete Movie"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "resources" : {
+    "ALL_CINEMA" : [ "399531" ],
     "ANN" : [ "34932" ],
     "TWITTER" : [ "asone_movie" ],
     "WEBSITE" : [ "https://gaga.ne.jp/asone/" ]
   },
-  "start_date" : "2025",
+  "start_date" : "2025-08-22",
   "tags" : {
+    "2274" : {
+      "info_box" : false,
+      "name" : "robot",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2638" : {
+      "info_box" : false,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2645" : {
+      "info_box" : false,
+      "name" : "piloted robot",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

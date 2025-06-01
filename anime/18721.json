@@ -136,7 +136,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.53,
+        "rating" : 3.56,
         "total" : 2
       },
       "recap" : true,
@@ -157,7 +157,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 9.3,
+        "rating" : 9.29,
         "total" : 2
       },
       "recap" : false,
@@ -199,7 +199,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.3,
+        "rating" : 9.29,
         "total" : 2
       },
       "recap" : false,
@@ -407,12 +407,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.08,
-      "total" : 87
+      "rating" : 7.06,
+      "total" : 89
     },
     "TEMPORARY" : {
-      "rating" : 7.39,
-      "total" : 87
+      "rating" : 7.4,
+      "total" : 89
     }
   },
   "related" : {
@@ -448,6 +448,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -458,6 +465,21 @@
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2616" : {
+      "info_box" : true,
+      "name" : "mina",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -494,6 +516,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "3792" : {
       "info_box" : false,
       "name" : "iyashi-kei",
@@ -501,6 +531,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "5851" : {
       "info_box" : false,

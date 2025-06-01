@@ -120,11 +120,11 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.9,
+      "rating" : 4.89,
       "total" : 297
     },
     "TEMPORARY" : {
-      "rating" : 6.15,
+      "rating" : 6.16,
       "total" : 304
     }
   },
@@ -184,6 +184,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -597,6 +604,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5875" : {
       "info_box" : false,
       "name" : "jealousy",
@@ -621,6 +636,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6149" : {
       "info_box" : false,
       "name" : "TO BE MOVED TO CHARACTER",
@@ -639,6 +662,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
