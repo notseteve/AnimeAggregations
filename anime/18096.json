@@ -254,7 +254,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.77,
+        "rating" : 7.76,
         "total" : 3
       },
       "recap" : false,
@@ -291,12 +291,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.29,
-      "total" : 106
+      "rating" : 4.24,
+      "total" : 109
     },
     "TEMPORARY" : {
-      "rating" : 5.93,
-      "total" : 107
+      "rating" : 5.88,
+      "total" : 110
     }
   },
   "related" : {
@@ -315,9 +315,24 @@
   },
   "start_date" : "2024-10-17",
   "tags" : {
+    "2274" : {
+      "info_box" : false,
+      "name" : "robot",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2610" : {
       "info_box" : false,
       "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -338,6 +353,30 @@
       "verified" : false,
       "weight" : 600
     },
+    "2638" : {
+      "info_box" : true,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2645" : {
+      "info_box" : true,
+      "name" : "piloted robot",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "3216" : {
       "info_box" : false,
       "name" : "Universal Century",
@@ -353,6 +392,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4404" : {
+      "info_box" : false,
+      "name" : "real robot",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "6097" : {
       "info_box" : false,
@@ -372,6 +419,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

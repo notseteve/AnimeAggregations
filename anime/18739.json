@@ -1,6 +1,23 @@
 {
   "anime_id" : 18739,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 148914,
+      "name" : "Baba-sama",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148916,
+      "name" : "John Brown",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148915,
+      "name" : "Mouhitori no Ciel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 18413,
+      "name" : "Victoria-joou",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 11141,
       "name" : "Ciel Phantomhive",
@@ -19,12 +36,24 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 148913,
+      "name" : "Anne Drewanz",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 18402,
       "name" : "Baldroy",
       "type" : "CHARACTER"
     }, {
       "character_id" : 18403,
       "name" : "Finnian",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148912,
+      "name" : "Grete Hilbard",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148911,
+      "name" : "Hilde Dickhaut",
       "type" : "CHARACTER"
     }, {
       "character_id" : 18404,
@@ -94,11 +123,12 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-04-05",
+      "description" : "Sebastian and Ciel begin investigating a series of suspicious deaths in Germany at the Queen`s request.\nSource: Crunchyroll",
       "episode_id" : 294339,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.57,
+        "rating" : 2.58,
         "total" : 1
       },
       "recap" : false,
@@ -124,6 +154,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-12",
+      "description" : "Wolfram installs the group in the Castle. Ciel and Sullivan sit down to dine, only to receive shocking news.\nSource: Crunchyroll",
       "episode_id" : 294340,
       "length" : 25,
       "number" : 2,
@@ -150,6 +181,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-19",
+      "description" : "Sebastian and Ciel pay a price for entering the Werewolves` Forest. Sullivan agrees to help, on one condition.\nSource: Crunchyroll",
       "episode_id" : 294341,
       "length" : 25,
       "number" : 3,
@@ -176,6 +208,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-26",
+      "description" : "Sebastian starts serving Sullivan as her butler. Meanwhile, Ciel seems to have become a different person.\nSource: Crunchyroll",
       "episode_id" : 294342,
       "length" : 25,
       "number" : 4,
@@ -202,6 +235,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-03",
+      "description" : "While Sebastian and Snake are off investigating the Emerald Castle behind Wolfram`s back, a werewolf attacks.\nSource: Crunchyroll",
       "episode_id" : 295468,
       "length" : 25,
       "number" : 5,
@@ -228,6 +262,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-10",
+      "description" : "Sebastian intuits that they are out of time and sternly confronts Ciel.\nSource: Crunchyroll",
       "episode_id" : 295469,
       "length" : 25,
       "number" : 6,
@@ -254,6 +289,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-17",
+      "description" : "Sullivan finally completes the Ultimate Spell.\nSource: Crunchyroll",
       "episode_id" : 295470,
       "length" : 25,
       "number" : 7,
@@ -280,6 +316,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-24",
+      "description" : "After learning everything there is to know about the mystery, Ciel presses Sullivan to come to a decision.\nSource: Crunchyroll",
       "episode_id" : 295471,
       "length" : 25,
       "number" : 8,
@@ -290,6 +327,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "His Butler, Furious"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le majordome furieux"
       }, {
         "language" : "GERMAN",
         "title" : "Sein Butler – tobt"
@@ -303,10 +343,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-31",
+      "description" : "The villagers madly pursue Sullivan, resulting in a fierce battle between them and the Phantomhive servants.\nSource: Crunchyroll",
       "episode_id" : 296392,
       "length" : 25,
       "number" : 9,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUW37V5" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "His Butler, Crossing Paths"
@@ -326,7 +370,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "His Butler, Mopping Up"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sono Shitsuji, Soutou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "その執事, 掃討"
       } ],
       "type" : "REGULAR"
     }, {

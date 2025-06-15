@@ -22,8 +22,16 @@
       "name" : "Claude Klein",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 148932,
+      "name" : "HQ",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148604,
       "name" : "Hanna",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148930,
+      "name" : "Hayes",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148759,
@@ -32,6 +40,10 @@
     }, {
       "character_id" : 148275,
       "name" : "Jill",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148837,
+      "name" : "Keikan A",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148133,
@@ -62,6 +74,10 @@
       "name" : "Sam Stephenson",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 148931,
+      "name" : "Schneider",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148760,
       "name" : "Sergei",
       "type" : "CHARACTER"
@@ -72,7 +88,7 @@
     } ],
     "MAIN" : [ {
       "character_id" : 144024,
-      "name" : "Axel",
+      "name" : "Axel Gilberto",
       "type" : "CHARACTER"
     }, {
       "character_id" : 144027,
@@ -97,7 +113,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 144030,
-      "name" : "Hersch",
+      "name" : "Hersch Lindemann",
       "type" : "CHARACTER"
     }, {
       "character_id" : 144028,
@@ -161,7 +177,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.02,
+        "rating" : 5.03,
         "total" : 7
       },
       "recap" : false,
@@ -182,7 +198,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.92,
+        "rating" : 5.93,
         "total" : 5
       },
       "recap" : false,
@@ -203,8 +219,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.62,
-        "total" : 3
+        "rating" : 6.07,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -224,8 +240,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.42,
-        "total" : 4
+        "rating" : 8.18,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -245,8 +261,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.95,
-        "total" : 4
+        "rating" : 5.11,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -266,8 +282,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.2,
-        "total" : 2
+        "rating" : 6.45,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -286,6 +302,10 @@
       "episode_id" : 295523,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 5.63,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -303,10 +323,20 @@
       "episode_id" : 295524,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 5.82,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Unforgettable Fire"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Unforgettable Fire"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Unforgettable Fire"
       } ],
       "type" : "REGULAR"
     }, {
@@ -314,10 +344,20 @@
       "episode_id" : 296444,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 3.73,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Death on Two Legs"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Death on Two Legs"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Death on Two Legs"
       } ],
       "type" : "REGULAR"
     }, {
@@ -328,7 +368,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "I Can`t Tell You Why"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "I Can`t Tell You Why"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "I Can`t Tell You Why"
       } ],
       "type" : "REGULAR"
     }, {
@@ -351,6 +397,17 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-29",
+      "episode_id" : 297392,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 13"
       } ],
       "type" : "REGULAR"
     } ],
@@ -380,12 +437,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.63,
-      "total" : 57
+      "rating" : 4.34,
+      "total" : 67
     },
     "TEMPORARY" : {
-      "rating" : 5.93,
-      "total" : 59
+      "rating" : 5.86,
+      "total" : 69
     }
   },
   "resources" : {

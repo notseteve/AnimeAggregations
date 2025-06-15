@@ -65,7 +65,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.23,
+        "rating" : 8.24,
         "total" : 4
       },
       "recap" : false,
@@ -137,7 +137,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.84,
+        "rating" : 5.83,
         "total" : 5
       },
       "recap" : false,
@@ -185,8 +185,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.15,
-        "total" : 4
+        "rating" : 6.91,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -208,10 +208,23 @@
       "episode_id" : 295833,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 7.72,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQ7WN7" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "I Don`t Think I`ll Ever Forget"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Zutto Wasurenai to Omou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ずっと忘れないと思う"
       } ],
       "type" : "REGULAR"
     }, {
@@ -219,10 +232,67 @@
       "episode_id" : 295834,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 6.1,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNKMXJ" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Air Con... Kowareta...?"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Air Conditioner Is... Broken?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "エアコン... 壊れた...?"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-08",
+      "episode_id" : 296938,
+      "length" : 25,
+      "number" : 9,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-15",
+      "episode_id" : 296939,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-22",
+      "episode_id" : 296940,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-29",
+      "episode_id" : 296941,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -270,12 +340,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.39,
-      "total" : 25
+      "rating" : 5.6,
+      "total" : 28
     },
     "TEMPORARY" : {
-      "rating" : 6.4,
-      "total" : 26
+      "rating" : 6.51,
+      "total" : 29
     }
   },
   "resources" : {
@@ -293,11 +363,23 @@
   "similar" : {
     "9257" : {
       "rating" : 10.0,
-      "total" : 2
+      "total" : 3
+    },
+    "10684" : {
+      "rating" : 10.0,
+      "total" : 1
     }
   },
   "start_date" : "2025-04-13",
   "tags" : {
+    "1973" : {
+      "info_box" : false,
+      "name" : "cooking",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
@@ -312,12 +394,35 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2653" : {
       "info_box" : false,
@@ -358,6 +463,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2869" : {
       "info_box" : false,

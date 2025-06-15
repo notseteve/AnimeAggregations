@@ -247,7 +247,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 1.68,
+        "rating" : 1.67,
         "total" : 5
       },
       "recap" : false,
@@ -765,12 +765,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.97,
-      "total" : 1392
+      "rating" : 4.96,
+      "total" : 1394
     },
     "TEMPORARY" : {
-      "rating" : 6.65,
-      "total" : 1401
+      "rating" : 6.64,
+      "total" : 1403
     }
   },
   "related" : {
@@ -992,13 +992,29 @@
       "verified" : false,
       "weight" : 600
     },
+    "2729" : {
+      "info_box" : false,
+      "name" : "BDSM",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2750" : {
       "info_box" : false,
       "name" : "violence",
       "parent_tag_id" : 2604,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 300
     },
     "2782" : {
       "info_box" : false,
@@ -1023,6 +1039,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2848" : {
+      "info_box" : false,
+      "name" : "pornography",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2853" : {
       "info_box" : true,
@@ -1055,6 +1079,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2876" : {
+      "info_box" : false,
+      "name" : "religion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2881" : {
       "info_box" : false,
@@ -1127,10 +1159,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "4302" : {
+      "info_box" : false,
+      "name" : "Christianity",
+      "parent_tag_id" : 2876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "4333" : {
       "info_box" : false,
       "name" : "predominantly female cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4516" : {
+      "info_box" : false,
+      "name" : "animal abuse",
+      "parent_tag_id" : 2750,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1150,6 +1198,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "5697" : {
+      "info_box" : false,
+      "name" : "randomness",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "5769" : {
       "info_box" : false,
@@ -1172,6 +1228,14 @@
       "name" : "incomplete story",
       "parent_tag_id" : 6247,
       "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5980" : {
+      "info_box" : false,
+      "name" : "live-action imagery",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
       "verified" : false,
       "weight" : 0
     },
@@ -1257,6 +1321,14 @@
       "info_box" : false,
       "name" : "ending tags that need merging",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6399" : {
+      "info_box" : false,
+      "name" : "episodic",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

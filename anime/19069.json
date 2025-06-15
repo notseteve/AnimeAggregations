@@ -10,6 +10,10 @@
       "name" : "Airjet",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 81011,
+      "name" : "Aizawa Shouta",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 92488,
       "name" : "All for One",
       "type" : "CHARACTER"
@@ -18,12 +22,24 @@
       "name" : "Best Jeanist",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 148850,
+      "name" : "Captain Celebrity",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 81008,
       "name" : "Desutegoro",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 148771,
+      "name" : "Emperor Yotsuura",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 90902,
       "name" : "Endeavor",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148951,
+      "name" : "Enigma",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148631,
@@ -32,6 +48,10 @@
     }, {
       "character_id" : 78892,
       "name" : "Iida Ten`ya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 92520,
+      "name" : "Iida Tensei",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148142,
@@ -50,6 +70,10 @@
       "name" : "Kugutsu Mario",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 87741,
+      "name" : "Midnight",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 81759,
       "name" : "Midoriya Inko",
       "type" : "CHARACTER"
@@ -58,16 +82,12 @@
       "name" : "Midoriya Izuku",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 148139,
-      "name" : "Namimaru Juubee",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 148061,
       "name" : "No. 6",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 148140,
-      "name" : "Samazu Ichimoku",
+      "character_id" : 81010,
+      "name" : "Present Mic",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148509,
@@ -80,10 +100,6 @@
     }, {
       "character_id" : 148632,
       "name" : "Souji",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 148547,
-      "name" : "Stendhal",
       "type" : "CHARACTER"
     }, {
       "character_id" : 131407,
@@ -104,6 +120,10 @@
     }, {
       "character_id" : 148044,
       "name" : "Touchi Moyuru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148952,
+      "name" : "Tough Grab",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148286,
@@ -144,10 +164,6 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
-      "character_id" : 81011,
-      "name" : "Aizawa Shouta",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 78199,
       "name" : "All Might",
       "type" : "CHARACTER"
@@ -156,8 +172,8 @@
       "name" : "Hachisuka Kuin",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 92520,
-      "name" : "Iida Tensei",
+      "character_id" : 148851,
+      "name" : "Haimawari Shouko",
       "type" : "CHARACTER"
     }, {
       "character_id" : 92521,
@@ -168,12 +184,16 @@
       "name" : "Kugizaki Souka",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 87741,
-      "name" : "Midnight",
+      "character_id" : 148139,
+      "name" : "Namimaru Juubee",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 81010,
-      "name" : "Present Mic",
+      "character_id" : 148140,
+      "name" : "Samazu Ichimoku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148547,
+      "name" : "Stendhal",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148630,
@@ -235,6 +255,7 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-04-07",
+      "description" : "Koichi is convinced he`ll never manage to become a hero, until he meets someone with an odd take on justice.\nSource: Crunchyroll",
       "episode_id" : 294355,
       "length" : 25,
       "number" : 1,
@@ -262,11 +283,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-14",
+      "description" : "Some people frown upon vigilante activities, but the least they could do is remember The Crawler`s name.\nSource: Crunchyroll",
       "episode_id" : 294356,
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.01,
+        "rating" : 6.0,
         "total" : 3
       },
       "recap" : false,
@@ -289,6 +311,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-21",
+      "description" : "The drug Trigger is wreaking havoc all over town, but figuring out who`s dealing it is easier said than done.\nSource: Crunchyroll",
       "episode_id" : 294357,
       "length" : 25,
       "number" : 3,
@@ -316,12 +339,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-28",
+      "description" : "What happens when pro heroes and vigilantes target the same villain? Is it possible to work as a team?\nSource: Crunchyroll",
       "episode_id" : 294358,
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.32,
-        "total" : 3
+        "rating" : 7.07,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -343,11 +367,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-05",
+      "description" : "Koichi and Pop each find themselves considerably influenced by various events from their pasts.\nSource: Crunchyroll",
       "episode_id" : 295671,
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.01,
+        "rating" : 6.0,
         "total" : 3
       },
       "recap" : false,
@@ -370,6 +395,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-12",
+      "description" : "Hachisuka tries manipulating Stendhal into fighting targets of her choosing, but can anyone control him?\nSource: Crunchyroll",
       "episode_id" : 295672,
       "length" : 25,
       "number" : 6,
@@ -397,10 +423,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-19",
+      "description" : "Makoto offers to help a struggling Koichi with his studies, but she requests something surprising in return.\nSource: Crunchyroll",
       "episode_id" : 295673,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 5.4,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUEMQD5" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Makoto"
@@ -414,24 +448,52 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-26",
+      "description" : "The American hero Captain Celebrity sets up shop in Japan, and it isn`t long before trouble begins.\nSource: Crunchyroll",
       "episode_id" : 295674,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 5.45,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU8XWGZ" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "MAJOR"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Major"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Major"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-06-02",
+      "description" : "Koichi`s mother is in town, and he`s willing to take drastic measures so that she`ll let him stay in Tokyo.\nSource: Crunchyroll",
       "episode_id" : 296513,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 7.25,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UVEWJQ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Mom Descends!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Moubo Shuurai!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猛母襲来!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -442,7 +504,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Event Announcement!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Event Kaisai!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "イベント開催!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -482,12 +550,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.37,
-      "total" : 26
+      "rating" : 5.66,
+      "total" : 30
     },
     "TEMPORARY" : {
-      "rating" : 6.67,
-      "total" : 26
+      "rating" : 6.73,
+      "total" : 30
     }
   },
   "related" : {

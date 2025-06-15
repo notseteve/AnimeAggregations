@@ -114,7 +114,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.34,
+        "rating" : 7.35,
         "total" : 3
       },
       "recap" : false,
@@ -138,7 +138,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 9.51,
+        "rating" : 9.52,
         "total" : 3
       },
       "recap" : false,
@@ -162,7 +162,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.1,
+        "rating" : 9.11,
         "total" : 3
       },
       "recap" : false,
@@ -186,7 +186,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.34,
+        "rating" : 7.35,
         "total" : 3
       },
       "recap" : false,
@@ -210,8 +210,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.87,
-        "total" : 2
+        "rating" : 9.93,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -233,10 +233,23 @@
       "episode_id" : 295309,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 7.97,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7MEGK" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Bow Down Deep but Always Aim High"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ojigi wa Fukaku Kokorozashi wa Takaku"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "お辞儀は深く志は高く"
       } ],
       "type" : "REGULAR"
     }, {
@@ -244,10 +257,23 @@
       "episode_id" : 295310,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 7.25,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX5400" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Discipline with a Fist! Reconcile with a High Five!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Oshioki wa Guu! Nakanaori wa Paa!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "おしおきはグー! なかなおりはパー!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -329,16 +355,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.38,
-      "total" : 36
+      "rating" : 5.73,
+      "total" : 41
     },
     "TEMPORARY" : {
-      "rating" : 6.2,
-      "total" : 36
+      "rating" : 6.35,
+      "total" : 41
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "396645" ],
+    "ANISON" : [ "25910" ],
     "ANN" : [ "33406" ],
     "CRUNCHY_ROLL" : [ "GXJHM3G58" ],
     "MAL" : [ "59675" ],
@@ -351,7 +378,7 @@
   "similar" : {
     "424" : {
       "rating" : 10.0,
-      "total" : 5
+      "total" : 6
     },
     "12085" : {
       "rating" : 9.0,
@@ -375,6 +402,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2607" : {
       "info_box" : false,
@@ -505,6 +539,14 @@
       "info_box" : false,
       "name" : "daikaijuu",
       "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4558" : {
+      "info_box" : false,
+      "name" : "long time span",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

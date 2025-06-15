@@ -9,9 +9,86 @@
       "character_id" : 142077,
       "name" : "Puniru",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 149020,
+      "name" : "GELEE",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144175,
+      "name" : "Gou-yan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148996,
+      "name" : "Himezawa Cocoa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144174,
+      "name" : "Hone-chan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148995,
+      "name" : "Hoshigari Chii",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144177,
+      "name" : "Houdai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143159,
+      "name" : "Kirara Mami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148999,
+      "name" : "Kyuthi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144176,
+      "name" : "Mado Hiroshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143157,
+      "name" : "Nanpa Yuusuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143158,
+      "name" : "Okanega Alice",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148993,
+      "name" : "Runru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148992,
+      "name" : "Runrune",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148994,
+      "name" : "Sasai",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
+    "3465" : [ {
+      "name" : "Yokote Michiko",
+      "type" : "SERIES_COMPOSITION"
+    } ],
+    "27116" : [ {
+      "name" : "Tanaka Aya",
+      "type" : "CHARACTER_DESIGN"
+    } ],
+    "45926" : [ {
+      "name" : "Ibe Yuushi",
+      "type" : "DIRECTOR"
+    } ],
+    "62730" : [ {
+      "name" : "Mori Izumi",
+      "type" : "MUSIC"
+    } ],
+    "70914" : [ {
+      "name" : "Toho Animation Studio",
+      "type" : "WORK"
+    } ],
     "75762" : [ {
       "name" : "Maeda-kun",
       "type" : "ORIGINAL_WORK"
@@ -28,8 +105,132 @@
     "WIKIPEDIA_EN" : [ "Puniru_Is_a_Cute_Slime" ],
     "WIKIPEDIA_JP" : [ "ぷにるはかわいいスライム" ]
   },
-  "start_date" : "1970-01-01",
+  "start_date" : "2025-07-06",
   "tags" : {
+    "1018" : {
+      "info_box" : true,
+      "name" : "middle school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2854" : {
+      "info_box" : false,
+      "name" : "henshin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -48,15 +249,15 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Puniru wa Kawaii Slime 2",
+    "title" : "Puniru wa Kawaii Slime (2025)",
     "type" : "MAIN"
   }, {
     "language" : "JAPANESE",
-    "title" : "ぷにるはかわいいスライム 2",
+    "title" : "ぷにるはかわいいスライム (2025)",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
-    "title" : "Puniru Is a Kawaii Slime 2",
+    "title" : "Puniru Is a Kawaii Slime (2025)",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

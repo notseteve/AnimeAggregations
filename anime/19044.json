@@ -113,12 +113,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.84,
-      "total" : 17
+      "rating" : 6.82,
+      "total" : 19
     },
     "TEMPORARY" : {
-      "rating" : 7.05,
-      "total" : 18
+      "rating" : 7.1,
+      "total" : 20
     }
   },
   "related" : {
@@ -135,12 +135,35 @@
   },
   "start_date" : "2025-01-17",
   "tags" : {
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2626" : {
+      "info_box" : false,
+      "name" : "future",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2638" : {
       "info_box" : true,
@@ -157,6 +180,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "3216" : {
+      "info_box" : false,
+      "name" : "Universal Century",
+      "parent_tag_id" : 2626,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

@@ -202,7 +202,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.18,
+        "rating" : 4.17,
         "total" : 4
       },
       "recap" : false,
@@ -229,7 +229,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.49,
+        "rating" : 8.47,
         "total" : 2
       },
       "recap" : false,
@@ -375,7 +375,14 @@
       "episode_id" : 296456,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 2.27,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX5ZD3" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Mass-Produced Maids"
@@ -392,10 +399,23 @@
       "episode_id" : 296457,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 4.25,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMWJ91" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Decisive Battle"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kessen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "決戦"
       } ],
       "type" : "REGULAR"
     }, {
@@ -405,8 +425,14 @@
       "number" : 11,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akutoku Ryoushu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Evil Lord"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "悪徳領主"
       } ],
       "type" : "REGULAR"
     }, {
@@ -494,12 +520,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.64,
-      "total" : 79
+      "rating" : 3.66,
+      "total" : 86
     },
     "TEMPORARY" : {
-      "rating" : 5.89,
-      "total" : 80
+      "rating" : 5.93,
+      "total" : 87
     }
   },
   "resources" : {
@@ -517,15 +543,124 @@
   },
   "similar" : {
     "17005" : {
-      "rating" : 10.0,
-      "total" : 2
+      "rating" : 7.5,
+      "total" : 4
     }
   },
   "start_date" : "2025-03-25",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2866" : {
+      "info_box" : false,
+      "name" : "slavery",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3309" : {
+      "info_box" : false,
+      "name" : "space pirates",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3575" : {
+      "info_box" : false,
+      "name" : "damsel in distress",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3898" : {
+      "info_box" : false,
+      "name" : "science and magic coexist",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4196" : {
+      "info_box" : false,
+      "name" : "fate worse than death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4398" : {
+      "info_box" : false,
+      "name" : "antihero",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7398" : {
+      "info_box" : false,
+      "name" : "liberation of slaves",
+      "parent_tag_id" : 2866,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

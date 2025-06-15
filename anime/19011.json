@@ -82,7 +82,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.01,
+        "rating" : 4.0,
         "total" : 3
       },
       "recap" : false,
@@ -109,7 +109,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.32,
+        "rating" : 4.31,
         "total" : 1
       },
       "recap" : false,
@@ -133,7 +133,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.32,
+        "rating" : 4.31,
         "total" : 1
       },
       "recap" : false,
@@ -157,7 +157,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.32,
+        "rating" : 4.31,
         "total" : 1
       },
       "recap" : false,
@@ -178,7 +178,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.32,
+        "rating" : 4.31,
         "total" : 1
       },
       "recap" : false,
@@ -199,7 +199,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.32,
+        "rating" : 4.31,
         "total" : 1
       },
       "recap" : false,
@@ -220,7 +220,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.32,
+        "rating" : 4.31,
         "total" : 1
       },
       "recap" : false,
@@ -241,7 +241,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.06,
+        "rating" : 6.04,
         "total" : 1
       },
       "recap" : false,
@@ -261,10 +261,20 @@
       "episode_id" : 296349,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 4.31,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kono Kawa de Oborenaide Kudasai: File 2"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Please Don`t Drown in This River: File 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "この川で溺れないでください File2"
       } ],
       "type" : "REGULAR"
     }, {
@@ -304,12 +314,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.47,
-      "total" : 33
+      "rating" : 3.53,
+      "total" : 34
     },
     "TEMPORARY" : {
-      "rating" : 4.68,
-      "total" : 33
+      "rating" : 4.75,
+      "total" : 34
     }
   },
   "resources" : {
@@ -337,6 +347,29 @@
       "info_box" : true,
       "name" : "josei",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3865" : {
+      "info_box" : true,
+      "name" : "noitaminA",
+      "parent_tag_id" : 6153,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6153" : {
+      "info_box" : false,
+      "name" : "multi-anime projects",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
