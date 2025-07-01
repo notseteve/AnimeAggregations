@@ -15,11 +15,42 @@
     "ANN" : [ "27581" ],
     "MAL" : [ "54833" ],
     "TWITTER" : [ "skf_anime" ],
-    "WEBSITE" : [ "https://www.specialkidfactory.com/jp" ],
-    "WEBSITE_EN" : [ "https://www.specialkidfactory.com/" ]
+    "WEBSITE" : [ "https://www.specialkidfactory.com/" ],
+    "WEBSITE_EN" : [ "https://www.specialkidfactory.com/en" ]
   },
   "start_date" : "1970-01-01",
   "tags" : {
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2850" : {
+      "info_box" : false,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2852" : {
+      "info_box" : false,
+      "name" : "thriller",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6070" : {
+      "info_box" : false,
+      "name" : "mystery",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

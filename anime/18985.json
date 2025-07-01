@@ -141,7 +141,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.25,
+        "rating" : 4.21,
         "total" : 4
       },
       "recap" : false,
@@ -166,8 +166,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.72,
-        "total" : 4
+        "rating" : 3.12,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -191,7 +191,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.69,
+        "rating" : 4.67,
         "total" : 4
       },
       "recap" : false,
@@ -216,7 +216,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.07,
+        "rating" : 7.06,
         "total" : 3
       },
       "recap" : false,
@@ -241,7 +241,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.01,
+        "rating" : 4.96,
         "total" : 2
       },
       "recap" : false,
@@ -266,7 +266,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.25,
+        "rating" : 3.21,
         "total" : 2
       },
       "recap" : false,
@@ -291,7 +291,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.01,
+        "rating" : 4.96,
         "total" : 2
       },
       "recap" : false,
@@ -316,7 +316,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.25,
+        "rating" : 3.21,
         "total" : 2
       },
       "recap" : false,
@@ -341,7 +341,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.18,
+        "rating" : 5.16,
         "total" : 2
       },
       "recap" : false,
@@ -366,7 +366,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.33,
+        "rating" : 7.34,
         "total" : 2
       },
       "recap" : false,
@@ -386,42 +386,64 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-06-11",
+      "description" : "Ballpark regulars and new fans come together to cheer on the MotorSuns in their playoff clincher game!\nSource: Crunchyroll",
       "episode_id" : 296285,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 9.02,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UD34KQ" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Number One! / Number One! (Part 2) / Number One! (Part 3)"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Ooichiban! / Ooichiban (Chuuhen) / Ooichiban (Kouhen)"
       }, {
+        "language" : "ENGLISH",
+        "title" : "The Clincher! / The Clincher! (Pt. 2) / The Clincher! (Pt. 3)"
+      }, {
         "language" : "JAPANESE",
-        "title" : "大一番! / 大一番 (中編) / 大一番 (後編)"
+        "title" : "大一番! / 大一番《中編》 / 大一番《後編》"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-06-18",
+      "description" : "The MotorSuns and their fans bid farewell to the season with high hopes for the next year.\nSource: Crunchyroll",
       "episode_id" : 296286,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 5.16,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UEZXKZ" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shouka Shiai / Last Message / Kaimakuttara Kaimaku!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Transformative Game / Last Message / It`s Opening Day, Okay?!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "昇華試合 / ラストメッセージ / 開幕ったら開幕!"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.89,
-      "total" : 47
+      "rating" : 4.71,
+      "total" : 102
     },
     "TEMPORARY" : {
-      "rating" : 5.46,
-      "total" : 47
+      "rating" : 6.11,
+      "total" : 102
     }
   },
   "resources" : {
@@ -444,9 +466,79 @@
   },
   "start_date" : "2025-04-02",
   "tags" : {
+    "28" : {
+      "info_box" : false,
+      "name" : "baseball",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2879" : {
+      "info_box" : false,
+      "name" : "alcohol",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2881" : {
+      "info_box" : true,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3149" : {
+      "info_box" : false,
+      "name" : "journalism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3170" : {
+      "info_box" : false,
+      "name" : "occupation and career",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5984" : {
+      "info_box" : false,
+      "name" : "girly tears",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6537" : {
+      "info_box" : false,
+      "name" : "beer",
+      "parent_tag_id" : 2879,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

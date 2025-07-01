@@ -50,6 +50,10 @@
       "name" : "Kii",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 149303,
+      "name" : "Kijima Tsumugu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 147203,
       "name" : "Komiya Ema",
       "type" : "CHARACTER"
@@ -219,7 +223,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.69,
+        "rating" : 8.74,
         "total" : 1
       },
       "recap" : false,
@@ -243,7 +247,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.04,
+        "rating" : 4.06,
         "total" : 1
       },
       "recap" : false,
@@ -287,7 +291,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.94,
+        "rating" : 6.98,
         "total" : 1
       },
       "recap" : false,
@@ -311,7 +315,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.04,
+        "rating" : 4.06,
         "total" : 1
       },
       "recap" : false,
@@ -552,6 +556,9 @@
       "length" : 25,
       "number" : 17,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUE303N" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Purirun no Ketsui! Kirakiland e Let`s Go!"
@@ -569,6 +576,9 @@
       "length" : 25,
       "number" : 18,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU8212D" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kimi wa Dare!? Heart Zukyuun Sarechatta"
@@ -586,9 +596,18 @@
       "length" : 25,
       "number" : 19,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UV282P" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Futari no Chikai: Cure Zukyuun & Cure Kiss Debut!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 19"
+        "title" : "The Pair`s Vow! Cure Zukyoon and Cure Kiss Debut!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ふたりの誓い♪キュアズキューン&キュアキッスデビュー!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -597,9 +616,68 @@
       "length" : 25,
       "number" : 20,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8XMX0" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 20"
+        "title" : "Puri! A Picnic to Find Memories!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Purii! Omoide Sagashi no Picnic!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "プリ~! 思い出さがしのピクニック!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-06-29",
+      "episode_id" : 297379,
+      "length" : 25,
+      "number" : 21,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Super-Duper! A Miracle in Unison"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tobikkiri! Kiseki no Unison!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "とびっきり! キセキのユニゾン!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-06",
+      "episode_id" : 297380,
+      "length" : 25,
+      "number" : 22,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 22"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-13",
+      "episode_id" : 297381,
+      "length" : 25,
+      "number" : 23,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 23"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-20",
+      "episode_id" : 297382,
+      "length" : 25,
+      "number" : 24,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 24"
       } ],
       "type" : "REGULAR"
     } ]
@@ -630,12 +708,12 @@
   },
   "similar" : {
     "8709" : {
-      "rating" : 10.0,
-      "total" : 1
+      "rating" : 5.0,
+      "total" : 2
     },
     "18690" : {
-      "rating" : 10.0,
-      "total" : 1
+      "rating" : 5.0,
+      "total" : 2
     }
   },
   "start_date" : "2025-02-02",
@@ -676,6 +754,10 @@
     "language" : "ENGLISH",
     "title" : "precure22",
     "type" : "SHORT"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Idol Precure with You",
+    "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",
     "title" : "You and Idol Pretty Cure",

@@ -74,6 +74,10 @@
       "name" : "Onyango",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 149190,
+      "name" : "Ooguro",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 110928,
       "name" : "Purt Co Pan",
       "type" : "CHARACTER"
@@ -543,7 +547,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 9.06,
+        "rating" : 9.07,
         "total" : 2
       },
       "recap" : false,
@@ -603,11 +607,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-06-07",
+      "description" : "After a glimpse via an Adolla Link, Sho decides to see his brother one more time before the Great Cataclysm.\nSource: Crunchyroll",
       "episode_id" : 296370,
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.09,
+        "rating" : 5.11,
         "total" : 2
       },
       "recap" : false,
@@ -617,6 +622,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Advent"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Apparition"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shutsugen"
@@ -630,16 +638,30 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-06-14",
+      "description" : "The Great Cataclysm is set in motion. A giant pillar appears in the Pacific. Shinra asks to be sent in, but...\nSource: Crunchyroll",
       "episode_id" : 296371,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 3.82,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U3MZN2" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Combat contre le monstre géant"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Dai Kaijuu Sensen"
       }, {
         "language" : "ENGLISH",
         "title" : "The Great Kaiju Battlefront"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Бій з великим кайджю"
       }, {
         "language" : "JAPANESE",
         "title" : "大怪獣戦線"
@@ -647,25 +669,76 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-06-21",
+      "description" : "Faerie captures an unconscious Shinra. Sho appears and attacks. Shinra gets advice from a surprising source.\nSource: Crunchyroll",
       "episode_id" : 296372,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 8.1,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUW08P4" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Inishie no Kyouki"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Madness of the Distant Past"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Безумство далекого минулого"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "古の狂気"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-04-05",
+      "episode_id" : 297951,
+      "length" : 1,
+      "number" : 1,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Opening 1"
       } ],
-      "type" : "REGULAR"
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-04-05",
+      "episode_id" : 297952,
+      "length" : 1,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1a"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-05-10",
+      "episode_id" : 297953,
+      "length" : 1,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1b"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.42,
-      "total" : 36
+      "rating" : 5.43,
+      "total" : 60
     },
     "TEMPORARY" : {
-      "rating" : 6.52,
-      "total" : 36
+      "rating" : 6.49,
+      "total" : 60
     }
   },
   "related" : {

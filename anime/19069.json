@@ -14,6 +14,10 @@
       "name" : "Aizawa Shouta",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 78199,
+      "name" : "All Might",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 92488,
       "name" : "All for One",
       "type" : "CHARACTER"
@@ -70,6 +74,10 @@
       "name" : "Kugutsu Mario",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 149099,
+      "name" : "Mad Hatter Leader",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 87741,
       "name" : "Midnight",
       "type" : "CHARACTER"
@@ -80,6 +88,14 @@
     }, {
       "character_id" : 78198,
       "name" : "Midoriya Izuku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149100,
+      "name" : "Miu Yuu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149098,
+      "name" : "Naruhata Higashi Koukou Dance-bu Buchou",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148061,
@@ -164,10 +180,6 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
-      "character_id" : 78199,
-      "name" : "All Might",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 147086,
       "name" : "Hachisuka Kuin",
       "type" : "CHARACTER"
@@ -220,6 +232,15 @@
     "12357" : [ {
       "name" : "Suzuki Ken`ichi",
       "type" : "DIRECTOR"
+    } ],
+    "21027" : [ {
+      "name" : "Shima Ken`ichi",
+      "other" : "Villain Character Design",
+      "type" : "OTHER"
+    } ],
+    "22298" : [ {
+      "name" : "Tamaki Keiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "27786" : [ {
       "name" : "Hayashi Yuuki",
@@ -316,7 +337,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.47,
+        "rating" : 4.46,
         "total" : 2
       },
       "recap" : false,
@@ -344,7 +365,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.07,
+        "rating" : 7.1,
         "total" : 4
       },
       "recap" : false,
@@ -428,7 +449,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.4,
+        "rating" : 5.45,
         "total" : 3
       },
       "recap" : false,
@@ -453,7 +474,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.45,
+        "rating" : 5.5,
         "total" : 3
       },
       "recap" : false,
@@ -478,7 +499,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.25,
+        "rating" : 7.29,
         "total" : 3
       },
       "recap" : false,
@@ -498,10 +519,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-06-09",
+      "description" : "Pop receives a request to perform at an upcoming local event, and she finds herself in need of guidance.\nSource: Crunchyroll",
       "episode_id" : 296514,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 4.17,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8JZ21" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Event Announcement!"
@@ -518,10 +547,23 @@
       "episode_id" : 296515,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 7.44,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUN14PW" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Honban Toujitsu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "The Day Of"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "本番当日"
       } ],
       "type" : "REGULAR"
     }, {
@@ -532,7 +574,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Goodbye to Dad"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Papa ni Sayonara"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "パパにさよなら"
       } ],
       "type" : "REGULAR"
     }, {
@@ -546,16 +594,57 @@
         "title" : "Episode 13"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-06-30",
+      "episode_id" : 297664,
+      "length" : 60,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Final Episode Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saishuu Wa Chokuzen SP Tokuban"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "最終話直前SP特番"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-04-07",
+      "episode_id" : 297645,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-04-07",
+      "episode_id" : 297646,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.66,
-      "total" : 30
+      "rating" : 5.83,
+      "total" : 31
     },
     "TEMPORARY" : {
-      "rating" : 6.73,
-      "total" : 30
+      "rating" : 6.84,
+      "total" : 32
     }
   },
   "related" : {

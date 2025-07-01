@@ -58,6 +58,10 @@
       "name" : "Shimada Koharu",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 94862,
+      "name" : "Shinshiro Hajime",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146089,
       "name" : "Taishou",
       "type" : "CHARACTER"
@@ -135,7 +139,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.5,
+        "rating" : 7.49,
         "total" : 7
       },
       "recap" : false,
@@ -159,7 +163,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.46,
+        "rating" : 7.42,
         "total" : 5
       },
       "recap" : false,
@@ -231,7 +235,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.95,
+        "rating" : 7.94,
         "total" : 5
       },
       "recap" : false,
@@ -255,7 +259,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.69,
+        "rating" : 7.7,
         "total" : 4
       },
       "recap" : false,
@@ -279,7 +283,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.99,
+        "rating" : 6.98,
         "total" : 3
       },
       "recap" : false,
@@ -304,7 +308,7 @@
       "number" : 8,
       "rating" : {
         "rating" : 10.0,
-        "total" : 1
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -326,10 +330,23 @@
       "episode_id" : 296934,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 9.57,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UEZ3MW" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Nagano / Toyama Trip That`s on the Test (The Second Night)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shiken ni Deru Nagano Toyama no Tabi: Dai 2 Ya"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "試験に出る長野・富山の旅 第2夜"
       } ],
       "type" : "REGULAR"
     }, {
@@ -337,10 +354,23 @@
       "episode_id" : 296935,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 9.29,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUM0357" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Nagano / Toyama Trip That`s on the Test (The Third Night)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shiken ni Deru Nagano Toyama no Tabi: Dai 3 Ya"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "試験に出る長野・富山の旅 第3夜"
       } ],
       "type" : "REGULAR"
     }, {
@@ -530,12 +560,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.26,
-      "total" : 38
+      "rating" : 5.45,
+      "total" : 44
     },
     "TEMPORARY" : {
-      "rating" : 6.06,
-      "total" : 38
+      "rating" : 6.2,
+      "total" : 44
     }
   },
   "related" : {
@@ -556,12 +586,35 @@
   },
   "similar" : {
     "16163" : {
-      "rating" : 6.666666666666666,
-      "total" : 3
+      "rating" : 7.5,
+      "total" : 4
     }
   },
   "start_date" : "2025-04-13",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2805" : {
+      "info_box" : true,
+      "name" : "4-koma manga",
+      "parent_tag_id" : 2798,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

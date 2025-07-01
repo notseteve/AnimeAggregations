@@ -19,6 +19,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 149144,
+      "name" : "Komari Maria",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148449,
       "name" : "Mizutori Mizuka",
       "type" : "CHARACTER"
@@ -66,19 +70,77 @@
         "title" : "PV 1 (1:20)"
       } ],
       "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-06-09",
+      "episode_id" : 297413,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "PV 2 (1:47)"
+      } ],
+      "type" : "PROMOTION"
     } ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "399103" ],
     "ANN" : [ "32848" ],
     "MAL" : [ "59161" ],
+    "SYOBOI" : [ "7499" ],
     "TWITTER" : [ "badgirl_anime" ],
     "WEBSITE" : [ "https://badgirl-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Bad_Girl_(manga)" ],
     "WIKIPEDIA_JP" : [ "ばっどがーる" ]
   },
-  "start_date" : "2025-07",
+  "start_date" : "2025-07-06",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "798" : {
+      "info_box" : false,
+      "name" : "moe",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2805" : {
+      "info_box" : true,
+      "name" : "4-koma manga",
+      "parent_tag_id" : 2798,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

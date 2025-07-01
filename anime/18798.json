@@ -26,6 +26,14 @@
       "name" : "Nukko",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 148969,
+      "name" : "Ooshiro no Haha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 123198,
+      "name" : "Osanai Raidou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 123556,
       "name" : "Raidou Haha",
       "type" : "CHARACTER"
@@ -122,6 +130,10 @@
       "name" : "Sakamoto Chiyoko",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "11733" : [ {
+      "name" : "Moriyama Takeshi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "13979" : [ {
       "name" : "Yahiro Yuuko",
       "type" : "CHARACTER_DESIGN"
@@ -165,6 +177,10 @@
     "71036" : [ {
       "name" : "Laplace Animation",
       "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "74763" : [ {
+      "name" : "Zhang Peng",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "* Based on a romantic comedy school manga by http://anidb.net/cr38902 [Mizu Asato].",
@@ -172,6 +188,7 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-04-07",
+      "description" : "A new school year begins for Raido and Aharen, and they`re joined by a new classmate.\nSource: Crunchyroll",
       "episode_id" : 294628,
       "length" : 25,
       "number" : 1,
@@ -199,9 +216,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-14",
+      "description" : "Raido enjoys a town-building video game before having an intoxicating encounter with some amazake.\nSource: Crunchyroll",
       "episode_id" : 294629,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.55,
+        "total" : 2
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G14UVJ94D" ]
@@ -222,9 +244,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-21",
+      "description" : "After a wardrobe malfunction, Raido and Aharen prepare for a relay race at their school`s athletics festival.\nSource: Crunchyroll",
       "episode_id" : 294630,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.97,
+        "total" : 2
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GJWUQ792Z" ]
@@ -245,12 +272,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-04-28",
+      "description" : "An encounter with Reina`s favorite arcade game has given Raido a severe case of idol brain.\nSource: Crunchyroll",
       "episode_id" : 294631,
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.96,
-        "total" : 1
+        "rating" : 7.31,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -272,12 +300,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-05",
+      "description" : "Exams are coming up, and Raido is hoping on Aharen`s tutelage to improve his test scores.\nSource: Crunchyroll",
       "episode_id" : 295276,
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.87,
-        "total" : 1
+        "rating" : 7.67,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -299,9 +328,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-12",
+      "description" : "The Aharen siblings meet Futaba and the boys, and then Eru and Ren decide to show Reina their gratitude.\nSource: Crunchyroll",
       "episode_id" : 295277,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 9.93,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GMKUEMQXQ" ]
@@ -322,12 +356,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-19",
+      "description" : "It`s time for a class trip to Tokyo, with Raido and Aharen excited to visit a certain theme park.\nSource: Crunchyroll",
       "episode_id" : 295278,
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.96,
-        "total" : 1
+        "rating" : 7.89,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -349,9 +384,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-05-26",
+      "description" : "After a surprise birthday party, Aharen and Raido make plans to spend Christmas together.\nSource: Crunchyroll",
       "episode_id" : 295279,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 8.68,
+        "total" : 2
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G31UVEWXN" ]
@@ -372,14 +412,22 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-06-02",
+      "description" : "Aharen and Raido get a sporty new homeroom teacher as they begin their senior year of high school.\nSource: Crunchyroll",
       "episode_id" : 296493,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 8.28,
+        "total" : 2
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GPWU8JZ8N" ]
       },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "C`est carrément le dernier duel ?"
+      }, {
         "language" : "ENGLISH",
         "title" : "It`s a Battle, Huh?"
       }, {
@@ -392,13 +440,24 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-06-09",
+      "description" : "Ren`s school project inspires a musical turn for Raido and Aharen.\nSource: Crunchyroll",
       "episode_id" : 296494,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 6.96,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUN14N1" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A Musical, Huh?"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Ce serait pas une comédie musicale ?"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Musical ja Ne?"
@@ -413,9 +472,18 @@
       "length" : 25,
       "number" : 11,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WU7VG7P" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "A Cultural Festival, Huh?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bunkasai ja Ne?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "文化祭じゃね?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -426,7 +494,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Seriously, Isn`t This Too Close?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yappari Chikasugi ja Ne?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "やっぱり近すぎじゃね?"
       } ],
       "type" : "REGULAR"
     } ],
@@ -474,12 +548,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.5,
-      "total" : 33
+      "rating" : 5.73,
+      "total" : 37
     },
     "TEMPORARY" : {
-      "rating" : 6.36,
-      "total" : 34
+      "rating" : 6.52,
+      "total" : 38
     }
   },
   "related" : {

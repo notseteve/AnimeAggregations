@@ -202,7 +202,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.8,
+        "rating" : 7.79,
         "total" : 13
       },
       "recap" : false,
@@ -419,7 +419,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.09,
+        "rating" : 8.1,
         "total" : 9
       },
       "recap" : false,
@@ -450,7 +450,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.06,
+        "rating" : 6.07,
         "total" : 8
       },
       "recap" : false,
@@ -616,12 +616,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.82,
-      "total" : 263
+      "rating" : 4.8,
+      "total" : 274
     },
     "TEMPORARY" : {
-      "rating" : 6.26,
-      "total" : 263
+      "rating" : 6.28,
+      "total" : 274
     }
   },
   "resources" : {
@@ -660,6 +660,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -836,6 +843,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4244" : {
       "info_box" : false,
       "name" : "healthcare and medicine",
@@ -855,6 +870,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

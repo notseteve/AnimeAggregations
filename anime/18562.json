@@ -122,6 +122,10 @@
       "name" : "Renpu",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 137179,
+      "name" : "Rikuson",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 147178,
       "name" : "Sekiu",
       "type" : "CHARACTER"
@@ -168,6 +172,10 @@
     }, {
       "character_id" : 138121,
       "name" : "Ukyou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149188,
+      "name" : "Wakai Shishou",
       "type" : "CHARACTER"
     }, {
       "character_id" : 147026,
@@ -246,6 +254,10 @@
       "name" : "OLM",
       "type" : "ANIMATION_WORK"
     } ],
+    "1419" : [ {
+      "name" : "Nakajima Atsuko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "2457" : [ {
       "name" : "Yamashita Yoshimitsu",
       "type" : "CHIEF_ANIMATION_DIRECTION"
@@ -315,7 +327,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.42,
+        "rating" : 8.43,
         "total" : 17
       },
       "recap" : false,
@@ -396,7 +408,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.75,
+        "rating" : 7.76,
         "total" : 14
       },
       "recap" : false,
@@ -508,7 +520,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.4,
+        "rating" : 8.41,
         "total" : 13
       },
       "recap" : false,
@@ -592,7 +604,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 9.35,
+        "rating" : 9.36,
         "total" : 12
       },
       "recap" : false,
@@ -620,7 +632,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 9.53,
+        "rating" : 9.54,
         "total" : 12
       },
       "recap" : false,
@@ -648,7 +660,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 9.57,
+        "rating" : 9.58,
         "total" : 12
       },
       "recap" : false,
@@ -704,7 +716,7 @@
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 8.57,
+        "rating" : 8.58,
         "total" : 11
       },
       "recap" : false,
@@ -732,7 +744,7 @@
       "length" : 25,
       "number" : 16,
       "rating" : {
-        "rating" : 9.01,
+        "rating" : 9.02,
         "total" : 12
       },
       "recap" : false,
@@ -760,7 +772,7 @@
       "length" : 25,
       "number" : 17,
       "rating" : {
-        "rating" : 9.35,
+        "rating" : 9.36,
         "total" : 11
       },
       "recap" : false,
@@ -788,8 +800,8 @@
       "length" : 25,
       "number" : 18,
       "rating" : {
-        "rating" : 9.46,
-        "total" : 10
+        "rating" : 9.3,
+        "total" : 11
       },
       "recap" : false,
       "resources" : {
@@ -816,8 +828,8 @@
       "length" : 25,
       "number" : 19,
       "rating" : {
-        "rating" : 8.1,
-        "total" : 8
+        "rating" : 8.26,
+        "total" : 10
       },
       "recap" : false,
       "resources" : {
@@ -844,8 +856,8 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 7.11,
-        "total" : 5
+        "rating" : 8.21,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -864,10 +876,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-06-06",
+      "description" : "Maomao is accused of attempting to escape, and is tossed into an ancient method of torture and execution.\nSource: Crunchyroll",
       "episode_id" : 296345,
       "length" : 25,
       "number" : 21,
+      "rating" : {
+        "rating" : 8.7,
+        "total" : 9
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UEG777" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Taibon"
@@ -884,10 +904,23 @@
       "episode_id" : 296346,
       "length" : 25,
       "number" : 22,
+      "rating" : {
+        "rating" : 7.99,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMZWW8" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kingun"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 22"
+        "title" : "Royal Guard"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "禁軍"
       } ],
       "type" : "REGULAR"
     }, {
@@ -897,8 +930,14 @@
       "number" : 23,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shi no Ichizoku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 23"
+        "title" : "The Shi Clan"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "子の一族"
       } ],
       "type" : "REGULAR"
     }, {
@@ -1237,6 +1276,40 @@
       } ],
       "type" : "SPECIAL"
     }, {
+      "air_date" : "2025-06-02",
+      "episode_id" : 297172,
+      "length" : 2,
+      "number" : 20,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Maomao no Hitorigoto Dai 44 Wa: Shouki"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Maomao no Hitorigoto Episode 44"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猫猫のひとりごと 第44話 正気"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-06-09",
+      "episode_id" : 297414,
+      "length" : 2,
+      "number" : 21,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Maomao no Hitorigoto Dai 45 Wa: Hitorigoto"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Maomao no Hitorigoto Episode 45"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猫猫のひとりごと 第45話 ひとりごと"
+      } ],
+      "type" : "SPECIAL"
+    }, {
       "air_date" : "2025-05-16",
       "episode_id" : 296224,
       "length" : 60,
@@ -1319,12 +1392,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 9.28,
-      "total" : 170
+      "rating" : 9.23,
+      "total" : 181
     },
     "TEMPORARY" : {
-      "rating" : 8.66,
-      "total" : 175
+      "rating" : 8.64,
+      "total" : 186
     }
   },
   "related" : {
@@ -1341,7 +1414,7 @@
     "WEBSITE" : [ "https://kusuriyanohitorigoto.jp/season2/" ],
     "WIKIPEDIA_EN" : [ "The_Apothecary_Diaries" ],
     "WIKIPEDIA_JP" : [ "薬屋のひとりごと_(アニメ)" ],
-    "YOUTUBE" : [ "watch?v=-cxcsIjw6dY", "watch?v=2q8oPPwpUPs", "watch?v=2ujbjT7k6ak", "watch?v=5GeC-iLrCNo", "watch?v=7Dj9JFCcadA", "watch?v=Bvhuq6anujw", "watch?v=Ha4lD83vUcE", "watch?v=HhSLWNoUoco", "watch?v=HrRxvh4bkHE", "watch?v=J3CE-FEyMWg", "watch?v=NjaNa4lO6a4", "watch?v=P4pEBXT4cLg", "watch?v=Q5jKkqdBC4w", "watch?v=WDL0jSFr6e8", "watch?v=aZKXIWQJAkc", "watch?v=bANkdPu27MI", "watch?v=etWLqR6Kyvg", "watch?v=guTfsi_Wq1k", "watch?v=hUnmx_hUKA8", "watch?v=lzSBXkYFDaw", "watch?v=p0Hu6AgCWGs", "watch?v=vvxCy8lFiDs", "watch?v=wOleNo7T6_4" ]
+    "YOUTUBE" : [ "watch?v=-cxcsIjw6dY", "watch?v=2q8oPPwpUPs", "watch?v=2ujbjT7k6ak", "watch?v=5GeC-iLrCNo", "watch?v=7Dj9JFCcadA", "watch?v=Bvhuq6anujw", "watch?v=Ff9eJ-ScxaE", "watch?v=Ha4lD83vUcE", "watch?v=HhSLWNoUoco", "watch?v=HrRxvh4bkHE", "watch?v=J3CE-FEyMWg", "watch?v=NjaNa4lO6a4", "watch?v=P4pEBXT4cLg", "watch?v=Q5jKkqdBC4w", "watch?v=WDL0jSFr6e8", "watch?v=aZKXIWQJAkc", "watch?v=bANkdPu27MI", "watch?v=etWLqR6Kyvg", "watch?v=guTfsi_Wq1k", "watch?v=hUnmx_hUKA8", "watch?v=lzSBXkYFDaw", "watch?v=o3YEBHtOBWY", "watch?v=p0Hu6AgCWGs", "watch?v=vvxCy8lFiDs", "watch?v=wOleNo7T6_4" ]
   },
   "start_date" : "2025-01-10",
   "tags" : {

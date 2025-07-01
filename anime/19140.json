@@ -1,5 +1,16 @@
 {
   "anime_id" : 19140,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 149176,
+      "name" : "Misha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149175,
+      "name" : "Norun",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "35818" : [ {
       "name" : "Studio 1st",
@@ -16,6 +27,10 @@
       "episode_id" : 292355,
       "length" : 20,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.63,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -34,6 +49,16 @@
       } ],
       "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.25,
+      "total" : 6
+    },
+    "TEMPORARY" : {
+      "rating" : 5.5,
+      "total" : 6
+    }
   },
   "resources" : {
     "MAL" : [ "61599" ],
@@ -110,6 +135,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "My Ideal Life in Another World",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "KOREAN",
+    "title" : "나의 이상적인 이세계 생활",
     "type" : "SYNONYM"
   } ],
   "type" : "OVA"

@@ -46,12 +46,20 @@
       "name" : "Haro",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 149131,
+      "name" : "Kanchana",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148163,
       "name" : "Kowal",
       "type" : "CHARACTER"
     }, {
       "character_id" : 10950,
       "name" : "Kycilia Zabi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149129,
+      "name" : "Lalah Sune",
       "type" : "CHARACTER"
     }, {
       "character_id" : 10957,
@@ -106,9 +114,17 @@
       "name" : "Uragang",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 149130,
+      "name" : "Vani",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148498,
       "name" : "Ward",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 149198,
+      "name" : "MA-08 Big Zam",
+      "type" : "MECH"
     }, {
       "character_id" : 148785,
       "name" : "MAN-03 Kikeroga [MA Keitai]",
@@ -126,6 +142,22 @@
       "name" : "MRX-010 Psycho Gundam",
       "type" : "MECH"
     }, {
+      "character_id" : 149196,
+      "name" : "MS-09 Challia Sen`you Rick Dom",
+      "type" : "MECH"
+    }, {
+      "character_id" : 149194,
+      "name" : "MS-09 Rick Dom",
+      "type" : "MECH"
+    }, {
+      "character_id" : 149195,
+      "name" : "MS-09 Rick Dom Gaia-ki / Ortega-ki",
+      "type" : "MECH"
+    }, {
+      "character_id" : 149197,
+      "name" : "MS-15/H Gyan (Hakuji Soubi)",
+      "type" : "MECH"
+    }, {
       "character_id" : 148783,
       "name" : "MS-15/H Xavier Sen`you Gyan (Hakuji Soubi)",
       "type" : "MECH"
@@ -138,12 +170,28 @@
       "name" : "RGM-79 Kei-Cannon",
       "type" : "MECH"
     }, {
+      "character_id" : 149192,
+      "name" : "RGM-79 Sayla Sen`you Kei-Cannon",
+      "type" : "MECH"
+    }, {
+      "character_id" : 149191,
+      "name" : "RX-77 Guncannon",
+      "type" : "MECH"
+    }, {
       "character_id" : 146515,
       "name" : "RX-78-01 01 Gundam",
       "type" : "MECH"
     }, {
       "character_id" : 146417,
       "name" : "RX-78-02 Shiroi Gundam",
+      "type" : "MECH"
+    }, {
+      "character_id" : 149199,
+      "name" : "Sharon no Bara",
+      "type" : "MECH"
+    }, {
+      "character_id" : 149193,
+      "name" : "gMS-01 Gelgoog",
       "type" : "MECH"
     }, {
       "character_id" : 148502,
@@ -158,6 +206,10 @@
       "name" : "gMS-Alpha Akai Gundam",
       "type" : "MECH"
     }, {
+      "character_id" : 149203,
+      "name" : "gMS-Kappa GFreD",
+      "type" : "MECH"
+    }, {
       "character_id" : 144963,
       "name" : "gMS-Omega GQuuuuuuX",
       "type" : "MECH"
@@ -165,6 +217,14 @@
       "character_id" : 145001,
       "name" : "Pomeranians",
       "type" : "ORGANIZATION"
+    }, {
+      "character_id" : 149127,
+      "name" : "LMSD-70 Pegasus",
+      "type" : "VESSEL"
+    }, {
+      "character_id" : 149128,
+      "name" : "LMSD-70 Sodon",
+      "type" : "VESSEL"
     } ],
     "MAIN" : [ {
       "character_id" : 144960,
@@ -272,6 +332,7 @@
     } ]
   },
   "description" : "http://anidb.net/ch144960 [Amate Yuzuriha] is a high-school student living peacefully in a space colony floating in outer space. When she meets a war refugee named http://anidb.net/ch144961 [Nyaan], Amate is drawn into the illegal mobile suit dueling sport known as Clan Battle. Under the entry name \"Machu,\" she throws herself into fierce battle day after day, piloting the http://anidb.net/ch144963 [GQuuuuuuX]. Then an unidentified Gundam mobile suit pursued by both the space force and the police appears before her, along with its pilot, a boy named http://anidb.net/ch144962 [Shuuji].\nNow their world is about to enter a new era.\nSource: Official website",
+  "end_date" : "2025-06-25",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-04-09",
@@ -459,7 +520,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 9.59,
+        "rating" : 9.6,
         "total" : 2
       },
       "recap" : false,
@@ -500,6 +561,10 @@
       "episode_id" : 296568,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 9.6,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -519,8 +584,14 @@
       "number" : 11,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Alpha Goroshi-tachi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Alphacide"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アルファ殺したち"
       } ],
       "type" : "REGULAR"
     }, {
@@ -561,12 +632,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.37,
-      "total" : 50
+      "rating" : 5.49,
+      "total" : 51
     },
     "TEMPORARY" : {
-      "rating" : 6.33,
-      "total" : 51
+      "rating" : 6.34,
+      "total" : 52
     }
   },
   "related" : {
@@ -618,6 +689,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2626" : {
       "info_box" : false,
       "name" : "future",
@@ -625,6 +704,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2627" : {
+      "info_box" : false,
+      "name" : "space",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2638" : {
       "info_box" : true,
@@ -642,6 +737,38 @@
       "verified" : false,
       "weight" : 600
     },
+    "2659" : {
+      "info_box" : false,
+      "name" : "Moon",
+      "parent_tag_id" : 2660,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2660" : {
+      "info_box" : false,
+      "name" : "other planet",
+      "parent_tag_id" : 2627,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2764" : {
+      "info_box" : false,
+      "name" : "space colony",
+      "parent_tag_id" : 2627,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2846" : {
       "info_box" : true,
       "name" : "science fiction",
@@ -657,6 +784,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "5091" : {
+      "info_box" : false,
+      "name" : "India",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "6173" : {
       "info_box" : false,
@@ -701,6 +836,10 @@
   }, {
     "language" : "CHINESE_TRADITIONAL",
     "title" : "機動戰士Gundam GQuuuuuuX",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "기동전사 건담 지쿠악스",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
