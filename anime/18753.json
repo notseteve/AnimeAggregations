@@ -1,6 +1,23 @@
 {
   "anime_id" : 18753,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 111735,
+      "name" : "Ichinose Sayuri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111759,
+      "name" : "Sasano Takeshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111750,
+      "name" : "Shinbo Youko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 113229,
+      "name" : "Ushiide Hiroshi",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 107489,
       "name" : "Kinoshita Kazuya",
@@ -8,6 +25,27 @@
     }, {
       "character_id" : 107491,
       "name" : "Mizuhara Chizuru",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 110295,
+      "name" : "Kuribayashi Shun",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 107487,
+      "name" : "Nanami Mami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 107490,
+      "name" : "Sakurasawa Sumi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 107488,
+      "name" : "Sarashina Ruka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 125943,
+      "name" : "Yaemori Mini",
       "type" : "CHARACTER"
     } ]
   },
@@ -37,6 +75,82 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-07-01",
+      "episode_id" : 298070,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 2.35,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU3DV2D" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nichijou to Kanojo"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Routine and Girlfriend"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "日常と彼女"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-08",
+      "episode_id" : 298071,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Sigh and Girlfriend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tameiki to Kanojo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "溜め息と彼女"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-15",
+      "episode_id" : 298072,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-22",
+      "episode_id" : 298073,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.36,
+      "total" : 10
+    },
+    "TEMPORARY" : {
+      "rating" : 6.75,
+      "total" : 10
+    }
+  },
   "related" : {
     "PREQUEL" : [ 17629 ]
   },
@@ -44,6 +158,7 @@
     "ALL_CINEMA" : [ "396090" ],
     "ANISON" : [ "22839" ],
     "ANN" : [ "32921" ],
+    "CRUNCHY_ROLL" : [ "G6QWV3976" ],
     "MAL" : [ "59277" ],
     "SYOBOI" : [ "7463" ],
     "WEBSITE" : [ "https://kanokari-official.com" ],
@@ -128,6 +243,10 @@
   }, {
     "language" : "POLISH",
     "title" : "Dziewczyna do wynajęcia Sezon 4",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Rent-a-Girlfriend (2025)",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

@@ -28,8 +28,8 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 2.63,
-        "total" : 1
+        "rating" : 3.67,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -52,12 +52,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.25,
-      "total" : 6
+      "rating" : 4.67,
+      "total" : 11
     },
     "TEMPORARY" : {
-      "rating" : 5.5,
-      "total" : 6
+      "rating" : 5.22,
+      "total" : 11
     }
   },
   "resources" : {
@@ -66,6 +66,21 @@
   },
   "start_date" : "2025-05-02",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2558" : {
+      "info_box" : false,
+      "name" : "cat person",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
@@ -76,6 +91,13 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -104,9 +126,25 @@
       "verified" : false,
       "weight" : 600
     },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

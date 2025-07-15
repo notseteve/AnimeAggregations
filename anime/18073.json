@@ -201,7 +201,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.43,
+        "rating" : 5.41,
         "total" : 2
       },
       "recap" : false,
@@ -223,7 +223,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.63,
+        "rating" : 6.61,
         "total" : 2
       },
       "recap" : false,
@@ -245,7 +245,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.87,
+        "rating" : 6.89,
         "total" : 1
       },
       "recap" : false,
@@ -282,20 +282,22 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.0,
-      "total" : 13
+      "rating" : 4.36,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 4.63,
-      "total" : 13
+      "rating" : 4.37,
+      "total" : 14
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "396149" ],
     "ANISON" : [ "25880" ],
     "ANN" : [ "28699" ],
+    "IMDB" : [ "tt28400589" ],
     "MAL" : [ "55727" ],
     "SYOBOI" : [ "7404" ],
+    "TMDB" : [ "tv/259466" ],
     "TWITTER" : [ "miruanime_info" ],
     "WEBSITE" : [ "https://www.miru-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Miru:_Paths_to_My_Future" ]
@@ -324,6 +326,29 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6097" : {
+      "info_box" : false,
+      "name" : "3D CG animation",
+      "parent_tag_id" : 4064,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

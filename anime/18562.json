@@ -26,10 +26,6 @@
       "name" : "Aylin",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 136120,
-      "name" : "Basen",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 135922,
       "name" : "Guiyuan",
       "type" : "CHARACTER"
@@ -64,6 +60,10 @@
     }, {
       "character_id" : 136122,
       "name" : "Kanan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149374,
+      "name" : "Kanzan",
       "type" : "CHARACTER"
     }, {
       "character_id" : 147179,
@@ -138,20 +138,12 @@
       "name" : "Sentei",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 148810,
-      "name" : "Shenmei",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 146528,
       "name" : "Shenryu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 136123,
       "name" : "Shin",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 138524,
-      "name" : "Shishou",
       "type" : "CHARACTER"
     }, {
       "character_id" : 146163,
@@ -204,6 +196,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 136120,
+      "name" : "Basen",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 135779,
       "name" : "Gaoshun",
       "type" : "CHARACTER"
@@ -230,6 +226,14 @@
     }, {
       "character_id" : 137052,
       "name" : "Loulan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148810,
+      "name" : "Shenmei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138524,
+      "name" : "Shishou",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145144,
@@ -288,6 +292,10 @@
     "13685" : [ {
       "name" : "Fudesaka Akimi",
       "type" : "DIRECTOR"
+    } ],
+    "14363" : [ {
+      "name" : "Imoto Miho",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "18824" : [ {
       "name" : "Nakatani Yukiko",
@@ -355,7 +363,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.66,
+        "rating" : 8.67,
         "total" : 16
       },
       "recap" : false,
@@ -383,7 +391,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.67,
+        "rating" : 8.68,
         "total" : 16
       },
       "recap" : false,
@@ -436,8 +444,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.96,
-        "total" : 15
+        "rating" : 7.91,
+        "total" : 16
       },
       "recap" : false,
       "resources" : {
@@ -464,8 +472,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.34,
-        "total" : 14
+        "rating" : 9.44,
+        "total" : 15
       },
       "recap" : false,
       "resources" : {
@@ -492,8 +500,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 9.21,
-        "total" : 14
+        "rating" : 9.32,
+        "total" : 15
       },
       "recap" : false,
       "resources" : {
@@ -521,7 +529,7 @@
       "number" : 8,
       "rating" : {
         "rating" : 8.41,
-        "total" : 13
+        "total" : 14
       },
       "recap" : false,
       "resources" : {
@@ -688,7 +696,7 @@
       "length" : 25,
       "number" : 14,
       "rating" : {
-        "rating" : 9.01,
+        "rating" : 9.02,
         "total" : 12
       },
       "recap" : false,
@@ -716,7 +724,7 @@
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 8.58,
+        "rating" : 8.57,
         "total" : 11
       },
       "recap" : false,
@@ -800,7 +808,7 @@
       "length" : 25,
       "number" : 18,
       "rating" : {
-        "rating" : 9.3,
+        "rating" : 9.31,
         "total" : 11
       },
       "recap" : false,
@@ -856,8 +864,8 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 8.21,
-        "total" : 9
+        "rating" : 8.1,
+        "total" : 10
       },
       "recap" : false,
       "resources" : {
@@ -881,8 +889,8 @@
       "length" : 25,
       "number" : 21,
       "rating" : {
-        "rating" : 8.7,
-        "total" : 9
+        "rating" : 8.82,
+        "total" : 11
       },
       "recap" : false,
       "resources" : {
@@ -901,12 +909,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-06-13",
+      "description" : "The royal guard, led by Jinshi, arrives, sealing the Shi clan`s fate. Maomao wants to save her friend, Shisui.\nSource: Crunchyroll",
       "episode_id" : 296346,
       "length" : 25,
       "number" : 22,
       "rating" : {
-        "rating" : 7.99,
-        "total" : 7
+        "rating" : 8.76,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -925,10 +934,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-06-27",
+      "description" : "Jinshi and his forces infiltrate the stronghold, cornering the remaining Shi clan members.\nSource: Crunchyroll",
       "episode_id" : 296347,
       "length" : 25,
       "number" : 23,
+      "rating" : {
+        "rating" : 9.34,
+        "total" : 9
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMDGG8" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shi no Ichizoku"
@@ -945,10 +962,23 @@
       "episode_id" : 296348,
       "length" : 25,
       "number" : 24,
+      "rating" : {
+        "rating" : 9.98,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU7300N" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hajimari"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 24"
+        "title" : "The Beginning"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "はじまり"
       } ],
       "type" : "REGULAR"
     } ],
@@ -1310,10 +1340,95 @@
       } ],
       "type" : "SPECIAL"
     }, {
+      "air_date" : "2025-06-16",
+      "episode_id" : 297916,
+      "length" : 2,
+      "number" : 22,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Maomao no Hitorigoto Dai 46 Wa: Kanzashi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Maomao no Hitorigoto Episode 46"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猫猫のひとりごと 第46話 簪"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-06-19",
+      "episode_id" : 298284,
+      "length" : 6,
+      "number" : 23,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Maomao no Hitorigoto Special Edition Part 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Maomao no Hitorigoto Tokubetsu Hen: USJ o Chousa Seyo - Zenpen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猫猫のひとりごと 特別編 ~USJを調査せよ~ 前編"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-06-26",
+      "episode_id" : 298285,
+      "length" : 5,
+      "number" : 24,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Maomao no Hitorigoto Special Edition Part 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Maomao no Hitorigoto Tokubetsu Hen: USJ o Chousa Seyo - Kouhen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猫猫のひとりごと 特別編 ~USJを調査せよ~ 後編"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-06-30",
+      "episode_id" : 298283,
+      "length" : 2,
+      "number" : 25,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Maomao no Hitorigoto Dai 47 Wa: Tomodachi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Maomao no Hitorigoto Episode 47"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猫猫のひとりごと 第47話 友達"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-07-07",
+      "episode_id" : 298481,
+      "length" : 2,
+      "number" : 26,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Maomao no Hitorigoto Dai 48 Wa: Kamen"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Maomao no Hitorigoto Episode 48"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猫猫のひとりごと 第48話 仮面"
+      } ],
+      "type" : "SPECIAL"
+    }, {
       "air_date" : "2025-05-16",
       "episode_id" : 296224,
-      "length" : 60,
-      "number" : 25,
+      "length" : 55,
+      "number" : 27,
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE",
@@ -1329,18 +1444,18 @@
     }, {
       "air_date" : "2025-06-20",
       "episode_id" : 297117,
-      "length" : 90,
-      "number" : 26,
+      "length" : 85,
+      "number" : 28,
       "recap" : false,
       "titles" : [ {
-        "language" : "JAPANESE",
-        "title" : "ABEMA クライマックス直前特番"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Abema Climax Chokuzen Tokuban"
+        "title" : "Dai 2 Ki Climax Chokuzen Tokuban"
       }, {
         "language" : "ENGLISH",
-        "title" : "Abema Climax Pre-Broadcast Special"
+        "title" : "Season 2 Climax Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第2期クライマックス直前特番"
       } ],
       "type" : "SPECIAL"
     } ],
@@ -1349,6 +1464,10 @@
       "episode_id" : 291828,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.99,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -1371,6 +1490,10 @@
       "episode_id" : 291829,
       "length" : 2,
       "number" : 3,
+      "rating" : {
+        "rating" : 2.44,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -1392,38 +1515,171 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 9.23,
-      "total" : 181
+      "rating" : 9.54,
+      "total" : 419
     },
     "TEMPORARY" : {
-      "rating" : 8.64,
-      "total" : 186
+      "rating" : 8.63,
+      "total" : 423
     }
   },
   "related" : {
-    "PREQUEL" : [ 17870 ]
+    "PREQUEL" : [ 17870 ],
+    "SEQUEL" : [ 19444 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "394375" ],
     "ANISON" : [ "25154" ],
     "ANN" : [ "32557" ],
     "CRUNCHY_ROLL" : [ "G3KHEVDJ7" ],
-    "MAL" : [ "58514", "60749" ],
+    "MAL" : [ "58514", "60749", "61876" ],
     "SYOBOI" : [ "7296" ],
     "TWITTER" : [ "kusuriya_PR" ],
     "WEBSITE" : [ "https://kusuriyanohitorigoto.jp/season2/" ],
     "WIKIPEDIA_EN" : [ "The_Apothecary_Diaries" ],
     "WIKIPEDIA_JP" : [ "薬屋のひとりごと_(アニメ)" ],
-    "YOUTUBE" : [ "watch?v=-cxcsIjw6dY", "watch?v=2q8oPPwpUPs", "watch?v=2ujbjT7k6ak", "watch?v=5GeC-iLrCNo", "watch?v=7Dj9JFCcadA", "watch?v=Bvhuq6anujw", "watch?v=Ff9eJ-ScxaE", "watch?v=Ha4lD83vUcE", "watch?v=HhSLWNoUoco", "watch?v=HrRxvh4bkHE", "watch?v=J3CE-FEyMWg", "watch?v=NjaNa4lO6a4", "watch?v=P4pEBXT4cLg", "watch?v=Q5jKkqdBC4w", "watch?v=WDL0jSFr6e8", "watch?v=aZKXIWQJAkc", "watch?v=bANkdPu27MI", "watch?v=etWLqR6Kyvg", "watch?v=guTfsi_Wq1k", "watch?v=hUnmx_hUKA8", "watch?v=lzSBXkYFDaw", "watch?v=o3YEBHtOBWY", "watch?v=p0Hu6AgCWGs", "watch?v=vvxCy8lFiDs", "watch?v=wOleNo7T6_4" ]
+    "YOUTUBE" : [ "watch?v=-cxcsIjw6dY", "watch?v=2q8oPPwpUPs", "watch?v=2ujbjT7k6ak", "watch?v=5GeC-iLrCNo", "watch?v=7Dj9JFCcadA", "watch?v=Bvhuq6anujw", "watch?v=Ff9eJ-ScxaE", "watch?v=Ha4lD83vUcE", "watch?v=HhSLWNoUoco", "watch?v=HrRxvh4bkHE", "watch?v=J3CE-FEyMWg", "watch?v=NjaNa4lO6a4", "watch?v=P4pEBXT4cLg", "watch?v=Q5jKkqdBC4w", "watch?v=RkRlef9XQ2g", "watch?v=Vz7LH26QyAY", "watch?v=WDL0jSFr6e8", "watch?v=aZKXIWQJAkc", "watch?v=bANkdPu27MI", "watch?v=etWLqR6Kyvg", "watch?v=guTfsi_Wq1k", "watch?v=hUnmx_hUKA8", "watch?v=lzSBXkYFDaw", "watch?v=m6bl3cBBEEY", "watch?v=o3YEBHtOBWY", "watch?v=p0Hu6AgCWGs", "watch?v=tbQCto5ILoU", "watch?v=vvxCy8lFiDs", "watch?v=wOleNo7T6_4", "watch?v=yYU9_O9K_94" ]
   },
   "start_date" : "2025-01-10",
   "tags" : {
+    "36" : {
+      "info_box" : false,
+      "name" : "military",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "308" : {
+      "info_box" : true,
+      "name" : "detective",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2772" : {
+      "info_box" : false,
+      "name" : "feudal warfare",
+      "parent_tag_id" : 36,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2878" : {
+      "info_box" : false,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2879" : {
+      "info_box" : false,
+      "name" : "alcohol",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "3683" : {
       "info_box" : false,
@@ -1441,9 +1697,120 @@
       "verified" : false,
       "weight" : 0
     },
+    "3915" : {
+      "info_box" : false,
+      "name" : "child abuse",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3977" : {
+      "info_box" : false,
+      "name" : "dialogue driven",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3993" : {
+      "info_box" : false,
+      "name" : "kidnapping",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4202" : {
+      "info_box" : false,
+      "name" : "contraband",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4227" : {
+      "info_box" : false,
+      "name" : "detailed landscapes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4244" : {
+      "info_box" : false,
+      "name" : "healthcare and medicine",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "4397" : {
+      "info_box" : false,
+      "name" : "court politics",
+      "parent_tag_id" : 2867,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5093" : {
+      "info_box" : false,
+      "name" : "royal intrigue",
+      "parent_tag_id" : 2867,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6070" : {
+      "info_box" : false,
+      "name" : "mystery",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6528" : {
+      "info_box" : false,
+      "name" : "palace",
+      "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

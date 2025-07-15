@@ -1,6 +1,15 @@
 {
   "anime_id" : 18722,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 140656,
+      "name" : "Igarashi Hakua",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140657,
+      "name" : "Minase Akari",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 131207,
       "name" : "Ashiro Mina",
@@ -29,6 +38,14 @@
     }, {
       "character_id" : 131314,
       "name" : "Hoshina Soushirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138657,
+      "name" : "Izumo Haruichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138660,
+      "name" : "Kaguragi Aoi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140557,
@@ -81,6 +98,7 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "Note: The first two episodes received an early screening at a special event on 13 July 2025 at TOHO Cinemas Hibiya in Tokyo. The regular TV broadcast started on 19 July 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-19",
@@ -127,6 +145,54 @@
       } ],
       "type" : "REGULAR"
     } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-03-28",
+      "episode_id" : 298360,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 4.3,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8XE3K" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bangai Hen: Hoshina no Kyuujitsu"
+      }, {
+        "language" : "SPANISH",
+        "title" : "Episodio extra: El día libre de Hoshina"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Extra Episode: Hoshina`s Day Off"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Hoshinas freier Tag"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "番外編 保科の休日"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-07-12",
+      "episode_id" : 298226,
+      "length" : 30,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Chokuzen Tokuban"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前特番"
+      } ],
+      "type" : "SPECIAL"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2025-03-22",
       "episode_id" : 294455,
@@ -138,7 +204,7 @@
         "title" : "2nd Season Teaser PV (0:57)"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Dainiki Teaser PV"
+        "title" : "Dai 2 Ki Teaser PV"
       }, {
         "language" : "JAPANESE",
         "title" : "第2期ティザーPV"
@@ -146,12 +212,23 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.31,
+      "total" : 2
+    },
+    "TEMPORARY" : {
+      "rating" : 6.0,
+      "total" : 2
+    }
+  },
   "related" : {
     "PREQUEL" : [ 17550 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "396347" ],
     "ANN" : [ "32854" ],
+    "CRUNCHY_ROLL" : [ "GG5H5XQ7D" ],
     "MAL" : [ "59177" ],
     "SYOBOI" : [ "7475" ],
     "TWITTER" : [ "KaijuNo8_O" ],
@@ -186,6 +263,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Kaiju No. 8 (2025)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Kaiju No. 8 Staffel 2",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

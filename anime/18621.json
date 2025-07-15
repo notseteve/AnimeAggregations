@@ -1,6 +1,23 @@
 {
   "anime_id" : 18621,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 149437,
+      "name" : "Arima-hakase",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149436,
+      "name" : "Cleo-Neo 0-gou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149438,
+      "name" : "Hashirai-sensei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149439,
+      "name" : "Suzuki Hana",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 145189,
       "name" : "Agatsuma Makina",
@@ -63,7 +80,7 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 3.14,
+        "rating" : 3.13,
         "total" : 6
       },
       "recap" : false,
@@ -84,7 +101,7 @@
       "length" : 15,
       "number" : 2,
       "rating" : {
-        "rating" : 3.62,
+        "rating" : 3.61,
         "total" : 5
       },
       "recap" : false,
@@ -105,7 +122,7 @@
       "length" : 15,
       "number" : 3,
       "rating" : {
-        "rating" : 4.37,
+        "rating" : 4.35,
         "total" : 4
       },
       "recap" : false,
@@ -126,7 +143,7 @@
       "length" : 15,
       "number" : 4,
       "rating" : {
-        "rating" : 5.82,
+        "rating" : 5.81,
         "total" : 4
       },
       "recap" : false,
@@ -147,7 +164,7 @@
       "length" : 15,
       "number" : 5,
       "rating" : {
-        "rating" : 3.68,
+        "rating" : 3.67,
         "total" : 4
       },
       "recap" : false,
@@ -168,7 +185,7 @@
       "length" : 15,
       "number" : 6,
       "rating" : {
-        "rating" : 4.74,
+        "rating" : 4.72,
         "total" : 4
       },
       "recap" : false,
@@ -189,8 +206,8 @@
       "length" : 15,
       "number" : 7,
       "rating" : {
-        "rating" : 4.51,
-        "total" : 3
+        "rating" : 5.1,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -210,8 +227,8 @@
       "length" : 15,
       "number" : 8,
       "rating" : {
-        "rating" : 3.6,
-        "total" : 3
+        "rating" : 4.35,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -231,8 +248,8 @@
       "length" : 15,
       "number" : 9,
       "rating" : {
-        "rating" : 3.19,
-        "total" : 3
+        "rating" : 4.0,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -252,7 +269,7 @@
       "length" : 15,
       "number" : 10,
       "rating" : {
-        "rating" : 3.0,
+        "rating" : 2.97,
         "total" : 3
       },
       "recap" : false,
@@ -273,8 +290,8 @@
       "length" : 15,
       "number" : 11,
       "rating" : {
-        "rating" : 2.91,
-        "total" : 1
+        "rating" : 4.49,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -293,13 +310,17 @@
       "episode_id" : 296508,
       "length" : 15,
       "number" : 12,
+      "rating" : {
+        "rating" : 4.01,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 12"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kakushite, Makina-san wa H na Undou o Suru."
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Thus, Makina Does a Naughty Workout"
       }, {
         "language" : "JAPANESE",
         "title" : "かくして, マキナさんはHな運動をする."
@@ -309,12 +330,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.7,
-      "total" : 34
+      "rating" : 2.17,
+      "total" : 86
     },
     "TEMPORARY" : {
-      "rating" : 5.45,
-      "total" : 34
+      "rating" : 4.71,
+      "total" : 86
     }
   },
   "resources" : {
@@ -327,13 +348,13 @@
     "TMDB" : [ "tv/254174" ],
     "TWITTER" : [ "makinasan_anime" ],
     "WEBSITE" : [ "https://makinasan-anime.com/" ],
-    "WIKIPEDIA_EN" : [ "Makina-san`s_a_Love_Bot%3F!" ],
+    "WIKIPEDIA_EN" : [ "Makina-san's_a_Love_Bot%3F!" ],
     "WIKIPEDIA_JP" : [ "かくして!マキナさん!!" ]
   },
   "similar" : {
     "316" : {
       "rating" : 10.0,
-      "total" : 2
+      "total" : 3
     }
   },
   "start_date" : "2025-04-07",
@@ -554,6 +575,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Makina-san`s a Love Bot?!",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "RUSSIAN",
+    "title" : "Прячься, Макина!",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

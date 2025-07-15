@@ -26,6 +26,10 @@
       "name" : "Chaichi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 149364,
+      "name" : "Conch",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 44309,
       "name" : "Cumron Bloom",
       "type" : "CHARACTER"
@@ -60,6 +64,10 @@
     }, {
       "character_id" : 149129,
       "name" : "Lalah Sune",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149299,
+      "name" : "Leo Lionni",
       "type" : "CHARACTER"
     }, {
       "character_id" : 10957,
@@ -110,6 +118,10 @@
       "name" : "Tangi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 149298,
+      "name" : "Tirza Lionni",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148920,
       "name" : "Uragang",
       "type" : "CHARACTER"
@@ -140,6 +152,34 @@
     }, {
       "character_id" : 148784,
       "name" : "MRX-010 Psycho Gundam",
+      "type" : "MECH"
+    }, {
+      "character_id" : 149346,
+      "name" : "MS-06 Zaku",
+      "type" : "MECH"
+    }, {
+      "character_id" : 149352,
+      "name" : "MS-06 Zaku Pomeranians Shiyou",
+      "type" : "MECH"
+    }, {
+      "character_id" : 149351,
+      "name" : "MS-06 Zaku Renpou Rokaku Ki",
+      "type" : "MECH"
+    }, {
+      "character_id" : 149348,
+      "name" : "MS-06-SSP Gunkei Zaku",
+      "type" : "MECH"
+    }, {
+      "character_id" : 149349,
+      "name" : "MS-06-SSPEX Gunkei Zaku Tokushu Butai Shiyou",
+      "type" : "MECH"
+    }, {
+      "character_id" : 149350,
+      "name" : "MS-06-SSPEX Gunkei Zaku Tokushu Butai Shiyou (Shikikan Ki)",
+      "type" : "MECH"
+    }, {
+      "character_id" : 149347,
+      "name" : "MS-06S Char Sen`you Zaku",
       "type" : "MECH"
     }, {
       "character_id" : 149196,
@@ -367,7 +407,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.22,
+        "rating" : 7.24,
         "total" : 4
       },
       "recap" : false,
@@ -394,7 +434,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.39,
+        "rating" : 7.38,
         "total" : 2
       },
       "recap" : false,
@@ -475,7 +515,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.39,
+        "rating" : 7.38,
         "total" : 2
       },
       "recap" : false,
@@ -520,7 +560,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 9.6,
+        "rating" : 9.59,
         "total" : 2
       },
       "recap" : false,
@@ -541,7 +581,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.17,
+        "rating" : 8.16,
         "total" : 2
       },
       "recap" : false,
@@ -562,7 +602,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 9.6,
+        "rating" : 9.59,
         "total" : 2
       },
       "recap" : false,
@@ -582,6 +622,10 @@
       "episode_id" : 296569,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 7.44,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -597,14 +641,59 @@
     }, {
       "air_date" : "2025-06-25",
       "episode_id" : 296570,
-      "length" : 25,
+      "length" : 30,
       "number" : 12,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dakara Boku wa..."
+      }, {
+        "language" : "ENGLISH",
+        "title" : "That`s Why I..."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "だから僕は..."
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-06-05",
+      "episode_id" : 297683,
+      "length" : 30,
+      "number" : 1,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Kinen: Gundam ga Motto Motto Suki ni Naru!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送記念 ガンダムがもっともっと好きになる!"
       } ],
-      "type" : "REGULAR"
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-06-05",
+      "episode_id" : 297684,
+      "length" : 35,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Kinen: Gundam ga Motto Motto Suki ni Naru! Long Version"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送記念 ガンダムがもっともっと好きになる! ロングバージョン"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "CREDITS" : [ {
       "air_date" : "2025-04-16",
@@ -632,12 +721,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.49,
-      "total" : 51
+      "rating" : 5.06,
+      "total" : 148
     },
     "TEMPORARY" : {
-      "rating" : 6.34,
-      "total" : 52
+      "rating" : 6.25,
+      "total" : 149
     }
   },
   "related" : {
@@ -655,7 +744,7 @@
     "WEBSITE" : [ "https://www.gundam.info/feature/gquuuuuux/" ],
     "WIKIPEDIA_EN" : [ "Mobile_Suit_Gundam_GQuuuuuuX" ],
     "WIKIPEDIA_JP" : [ "機動戦士Gundam_GQuuuuuuX" ],
-    "YOUTUBE" : [ "watch?v=Rd3Gu4pQURY", "watch?v=dcxhZTb_6zs" ]
+    "YOUTUBE" : [ "watch?v=Rd3Gu4pQURY", "watch?v=Svc4t7d031s", "watch?v=dcxhZTb_6zs" ]
   },
   "start_date" : "2025-04-09",
   "tags" : {
@@ -666,6 +755,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2610" : {
       "info_box" : false,
@@ -712,6 +808,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2630" : {
       "info_box" : false,
@@ -769,6 +873,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2838" : {
+      "info_box" : false,
+      "name" : "parallel world",
+      "parent_tag_id" : 2628,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 300
+    },
     "2846" : {
       "info_box" : true,
       "name" : "science fiction",
@@ -776,6 +888,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "3216" : {
       "info_box" : false,

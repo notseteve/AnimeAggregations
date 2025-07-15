@@ -1,6 +1,47 @@
 {
   "anime_id" : 19060,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 145306,
+      "name" : "Kitou Jugem",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145305,
+      "name" : "Kitou Juhiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149447,
+      "name" : "Kitou Juju",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145307,
+      "name" : "Kitou Julian",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145309,
+      "name" : "Kitou Jumaniel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149449,
+      "name" : "Kitou Junko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149448,
+      "name" : "Kitou Juriko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149450,
+      "name" : "Kitou Juteimu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145308,
+      "name" : "Kitou Juuichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149446,
+      "name" : "Tsuru-chan Junsha",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 136698,
       "name" : "Ayase Momo",
@@ -98,17 +139,36 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on a paranormal mystery battle & romantic comedy manga by http://anidb.net/cr74655 [Tatsu Yukinobu].",
+  "description" : "* Based on a paranormal mystery battle & romantic comedy manga by http://anidb.net/cr74655 [Tatsu Yukinobu].\nNote: The first three episodes received an early screening at a special event on 29 June 2025 at United Cinemas Toyosu in Tokyo. The regular TV broadcast started on 4 July 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-04",
       "episode_id" : 297760,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.6,
+        "total" : 9
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU927E2" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "C`est ça, le légendaire serpent géant ?!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Daija Densetsutte Kore jan yo"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Like, This Is the Legend of the Giant Snake"
+      }, {
+        "language" : "POLISH",
+        "title" : "Więc to jest ten legendarny wielki wąż"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "大蛇伝説ってこれじゃんよ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -118,8 +178,17 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jashi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Evil Eye"
+      }, {
+        "language" : "POLISH",
+        "title" : "Złe Oko"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "邪視"
       } ],
       "type" : "REGULAR"
     }, {
@@ -131,6 +200,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yurusanee ze"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ゆずさねえぜ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -145,31 +220,130 @@
       } ],
       "type" : "REGULAR"
     } ],
-    "PROMOTION" : [ {
-      "air_date" : "2025-04-03",
-      "episode_id" : 294967,
-      "length" : 1,
+    "SPECIAL" : [ {
+      "air_date" : "2025-06-27",
+      "episode_id" : 298141,
+      "length" : 25,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 2 Ki Chokuzen: Kore o Mitokeba Tsuzuki ga Motto Tanoshimeru jan yo"
+      }, {
         "language" : "ENGLISH",
-        "title" : "PV 1 (1:22)"
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第2期直前 これを見とけば続きがもっと楽しめるじゃんよ"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-03",
+      "episode_id" : 298395,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 7.41,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-03",
+      "episode_id" : 298396,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ],
+    "PROMOTION" : [ {
+      "air_date" : "2024-12-21",
+      "episode_id" : 298143,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 2 Ki Teaser PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Teaser PV (1:11)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第2期ティザーPV"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-04-26",
+      "episode_id" : 294967,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 2 Ki Dai 1 Dan PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "PV 1 (1:20)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第2期第1弾PV"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-05-20",
+      "episode_id" : 298142,
+      "length" : 2,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 2 Ki Dai 2 Dan PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "PV 2 (1:41)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第2期第2弾PV"
       } ],
       "type" : "PROMOTION"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.71,
+      "total" : 28
+    },
+    "TEMPORARY" : {
+      "rating" : 7.39,
+      "total" : 28
+    }
   },
   "related" : {
     "PREQUEL" : [ 18290 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "398543" ],
+    "ANISON" : [ "25660" ],
     "ANN" : [ "34211" ],
+    "CRUNCHY_ROLL" : [ "GG5H5XQ0D" ],
     "MAL" : [ "60543" ],
+    "NETFLIX" : [ "81736884" ],
     "SYOBOI" : [ "7468" ],
     "TWITTER" : [ "anime_dandadan" ],
     "WEBSITE" : [ "https://anime-dandadan.com/" ],
     "WIKIPEDIA_EN" : [ "Dandadan" ],
-    "WIKIPEDIA_JP" : [ "ダンダダン" ]
+    "WIKIPEDIA_JP" : [ "ダンダダン" ],
+    "YOUTUBE" : [ "watch?v=F2utpez5t3g", "watch?v=LxUeFYhLE0U", "watch?v=No5t3ba0w0A", "watch?v=ZWjbvYWUMHo", "watch?v=cXXRYlDcG-o", "watch?v=ikQimHUZ1zo" ]
   },
   "start_date" : "2025-07-04",
   "tags" : {
@@ -198,8 +372,16 @@
     "title" : "Dan Da Dan (2025)",
     "type" : "OFFICIAL"
   }, {
+    "language" : "HEBREW",
+    "title" : "דן דה דן (2025)",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ダンダダン (2025)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "胆大党 第二季",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

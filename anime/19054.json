@@ -1,6 +1,11 @@
 {
   "anime_id" : 19054,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 149443,
+      "name" : "Polvo",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 147325,
       "name" : "Atrielle",
@@ -35,6 +40,9 @@
   "creators" : {
     "727" : [ {
       "name" : "OLM",
+      "type" : "ANIMATION_WORK"
+    }, {
+      "name" : "OLM",
       "type" : "WORK"
     } ],
     "4556" : [ {
@@ -65,10 +73,23 @@
       "episode_id" : 297768,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.29,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14UVP2J5" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Omae wa Jiyuu Da"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "You Are Free"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "お前は自由だ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -79,7 +100,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "It`s Crazy Delicious!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Meccha Oishii Desu!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "めっちゃおいしいです!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -104,16 +131,58 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-03",
+      "episode_id" : 298404,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-03",
+      "episode_id" : 298405,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.5,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 6.06,
+      "total" : 16
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "399713" ],
+    "ANISON" : [ "25969" ],
     "ANN" : [ "34176" ],
+    "CRUNCHY_ROLL" : [ "GEXH3W2E9" ],
     "MAL" : [ "60523" ],
     "SYOBOI" : [ "7456" ],
     "TWITTER" : [ "tsuishoku_PR" ],
     "WEBSITE" : [ "https://tsuihosha-shokudo.com/" ],
-    "WIKIPEDIA_EN" : [ "Welcome_to_the_Outcast's_Restaurant!" ]
+    "WIKIPEDIA_EN" : [ "Welcome_to_the_Outcast's_Restaurant!" ],
+    "YOUTUBE" : [ "watch?v=fu8Z_vVYuNg", "watch?v=idskIUheaa4" ]
+  },
+  "similar" : {
+    "12385" : {
+      "rating" : 10.0,
+      "total" : 3
+    }
   },
   "start_date" : "2025-07-03",
   "tags" : {
@@ -138,8 +207,20 @@
     "title" : "Tsuihousha Shokudou e Youkoso!",
     "type" : "MAIN"
   }, {
+    "language" : "INDONESIAN",
+    "title" : "Kedai Makan sang Buangan",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "VIETNAMESE",
+    "title" : "Nhà Ăn Của Kẻ Bị Ruồng Bỏ!",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "Welcome to the Outcast`s Restaurant!",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "THAI",
+    "title" : "ยินดีต้อนรับ! สู่ร้านอาหารผู้ถูกขับไล่",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

@@ -1,12 +1,25 @@
 {
   "anime_id" : 19020,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 149409,
+      "name" : "Hawk",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 69716,
+      "name" : "Jael Okuzaki",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 7622,
       "name" : "Lupin Sansei",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 149407,
+      "name" : "Fuua",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 8474,
       "name" : "Ishikawa Goemon",
       "type" : "CHARACTER"
@@ -21,6 +34,10 @@
     }, {
       "character_id" : 148703,
       "name" : "Muom",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149408,
+      "name" : "Ruuo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148702,
@@ -43,6 +60,9 @@
     } ],
     "5160" : [ {
       "name" : "Koike Takeshi",
+      "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Koike Takeshi",
       "type" : "DIRECTOR"
     } ],
     "26068" : [ {
@@ -55,7 +75,7 @@
     "REGULAR" : [ {
       "air_date" : "2025-06-27",
       "episode_id" : 294833,
-      "length" : 0,
+      "length" : 95,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
@@ -66,14 +86,17 @@
     } ]
   },
   "related" : {
-    "PREQUEL" : [ 14616 ]
+    "PREQUEL" : [ 14616, 19338 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "398249" ],
+    "ANISON" : [ "26001" ],
     "ANN" : [ "34100" ],
     "MAL" : [ "60408" ],
     "TWITTER" : [ "lupin_anime" ],
-    "WEBSITE" : [ "https://lupinthe3rd.com/" ]
+    "WEBSITE" : [ "https://lupinthe3rd.com/" ],
+    "WIKIPEDIA_EN" : [ "Lupin_the_IIIrd_the_Movie:_The_Immortal_Bloodline" ],
+    "WIKIPEDIA_JP" : [ "LUPIN_THE_IIIRD_THE_MOVIE_不死身の血族" ]
   },
   "start_date" : "2025-06-27",
   "tags" : {
@@ -101,6 +124,10 @@
     "language" : "JAPANESE",
     "title" : "LUPIN THE IIIRD THE MOVIE 不死身の血族",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Lupin the IIIrd the Movie: The Immortal Bloodline",
+    "type" : "SYNONYM"
   } ],
   "type" : "MOVIE",
   "url" : "https://lupinthe3rd.com/"

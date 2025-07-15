@@ -1,6 +1,19 @@
 {
   "anime_id" : 18781,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 149479,
+      "name" : "Cedric",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149477,
+      "name" : "Elvira",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149478,
+      "name" : "Gregor",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 145317,
       "name" : "Cyrus Granado",
@@ -77,10 +90,23 @@
       "episode_id" : 297788,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU82JZ5" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "I Could Never Replace My Sister"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Onee-sama no Kawari Da Nante Zettai Muri Desu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "お姉様の代わりだなんて絶対無理です"
       } ],
       "type" : "REGULAR"
     }, {
@@ -91,7 +117,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Marie, I Want to Marry You"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ore wa Marie o Metoritai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "俺はマリーを娶りたい"
       } ],
       "type" : "REGULAR"
     }, {
@@ -116,18 +148,53 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-04",
+      "episode_id" : 298441,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-04",
+      "episode_id" : 298442,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.52,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 6.57,
+      "total" : 7
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "398617" ],
     "ANISON" : [ "25967" ],
     "ANN" : [ "33030" ],
+    "CRUNCHY_ROLL" : [ "G9VHN9Q34" ],
     "MAL" : [ "59421" ],
     "SYOBOI" : [ "7477" ],
     "TWITTER" : [ "zutaboro_anime" ],
     "WEBSITE" : [ "https://zutaboro-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Zutaboro_Reijō_wa_Ane_no_Moto_Konyakusha_ni_Dekiai_Sareru" ],
-    "WIKIPEDIA_JP" : [ "ずたぼろ令嬢は姉の元婚約者に溺愛される" ]
+    "WIKIPEDIA_JP" : [ "ずたぼろ令嬢は姉の元婚約者に溺愛される" ],
+    "YOUTUBE" : [ "watch?v=LZnXIc0bM_4", "watch?v=TxzfhanFwHI" ]
   },
   "start_date" : "2025-07-05",
   "tags" : {

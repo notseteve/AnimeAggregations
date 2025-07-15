@@ -28,7 +28,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 146633,
-      "name" : "Dakas",
+      "name" : "Dagas",
       "type" : "CHARACTER"
     }, {
       "character_id" : 147175,
@@ -89,10 +89,23 @@
       "episode_id" : 297808,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.44,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMDWP7" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Lloyd Is Cast Out."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Lloyd, Tsuihou Sareru."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ロイド, 追放される."
       } ],
       "type" : "REGULAR"
     }, {
@@ -128,16 +141,47 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-06-07",
+      "episode_id" : 298189,
+      "length" : 60,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Broadcast Commemoration Live Stream Special"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Kaishi Kinen Namahaishin Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送開始記念生配信スペシャル"
+      } ],
+      "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.88,
+      "total" : 12
+    },
+    "TEMPORARY" : {
+      "rating" : 6.0,
+      "total" : 12
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "398176" ],
+    "ANISON" : [ "25990" ],
     "ANN" : [ "33031" ],
+    "CRUNCHY_ROLL" : [ "G5PHNM9Q0" ],
     "MAL" : [ "59424" ],
     "SYOBOI" : [ "7470" ],
     "TWITTER" : [ "tsuiho_anime" ],
     "WEBSITE" : [ "https://tsuiho-shiromadoshi.com/" ],
-    "WIKIPEDIA_EN" : [ "Yūsha_Party_o_Tsuihō_Sareta_Shiro_Madōshi,_S-Rank_Bōkensha_ni_Hirowareru" ]
+    "WIKIPEDIA_EN" : [ "Yūsha_Party_o_Tsuihō_Sareta_Shiro_Madōshi,_S-Rank_Bōkensha_ni_Hirowareru" ],
+    "YOUTUBE" : [ "watch?v=VoHax0qlK9M" ]
   },
   "start_date" : "2025-07-06",
   "tags" : {

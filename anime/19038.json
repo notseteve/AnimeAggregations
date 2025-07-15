@@ -1,13 +1,22 @@
 {
   "anime_id" : 19038,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 149376,
+      "name" : "Chappy",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149375,
+      "name" : "Happy Mama",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 145371,
       "name" : "Kuze Shizuka",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145372,
-      "name" : "Takopi",
+      "name" : "Takopii",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
@@ -35,6 +44,9 @@
     "54981" : [ {
       "name" : "Nagahara Keita",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Nagahara Keita",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "63376" : [ {
       "name" : "Enishiya",
@@ -45,22 +57,219 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "http://anidb.net/ch145372 [Takopi] travels from his home of Happy Planet to spread happiness across Earth, but meets the unsmiling http://anidb.net/ch145371 [Shizuka] upon landing. Her friends at school and home life seem to be the source of her somber expression and the pure-hearted Takopi is determined to change things for the better! But what truths await him when the curtains rise in this shocking drama?!\nSource: Manga Plus",
+  "description" : "http://anidb.net/ch145372 [Takopii] travels from his home of Happy Planet to spread happiness across Earth, but meets the unsmiling http://anidb.net/ch145371 [Shizuka] upon landing. Her friends at school and home life seem to be the source of her somber expression and the pure-hearted Takopii is determined to change things for the better! But what truths await him when the curtains rise in this shocking drama?!\nSource: Manga Plus\nNote: The first episode received an early screening at a special event on 20 May 2025 at Grand Cinema Sunshine Ikebukuro in Tokyo. The regular TV broadcast started on 28 June 2025.",
+  "end_date" : "2025-08-02",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-06-28",
+      "episode_id" : 297730,
+      "length" : 40,
+      "number" : 1,
+      "rating" : {
+        "rating" : 6.71,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUWQ81M" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "2016-nen no Kimi e"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "2016年のきみへ"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "To You in 2016"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-05",
+      "episode_id" : 297731,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 6.44,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU3DWGQ" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Takopi`s Salvation"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Takopii no Kyousai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "タコピーの救済"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-12",
+      "episode_id" : 297732,
+      "length" : 25,
+      "number" : 3,
+      "rating" : {
+        "rating" : 8.93,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-19",
+      "episode_id" : 297733,
+      "length" : 25,
+      "number" : 4,
+      "rating" : {
+        "rating" : 8.93,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-26",
+      "episode_id" : 297734,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 7.87,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-02",
+      "episode_id" : 297735,
+      "length" : 25,
+      "number" : 6,
+      "rating" : {
+        "rating" : 8.93,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-06-28",
+      "episode_id" : 298410,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-06-28",
+      "episode_id" : 298470,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode C2"
+      } ],
+      "type" : "CREDITS"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 8.06,
+      "total" : 23
+    },
+    "TEMPORARY" : {
+      "rating" : 7.59,
+      "total" : 23
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "398587" ],
+    "ANISON" : [ "26014" ],
     "ANN" : [ "34142" ],
+    "CRUNCHY_ROLL" : [ "GKEH2G0X4" ],
     "MAL" : [ "60489" ],
     "SYOBOI" : [ "7461" ],
     "TWITTER" : [ "takopi_pr" ],
     "WEBSITE" : [ "https://www.tbs.co.jp/anime/takopi_project/" ],
     "WIKIPEDIA_EN" : [ "Takopi's_Original_Sin" ],
-    "WIKIPEDIA_JP" : [ "タコピーの原罪" ]
+    "WIKIPEDIA_JP" : [ "タコピーの原罪" ],
+    "YOUTUBE" : [ "watch?v=ciFvLHCThdg" ]
   },
-  "start_date" : "2025",
+  "similar" : {
+    "11292" : {
+      "rating" : 10.0,
+      "total" : 4
+    },
+    "16033" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
+  },
+  "start_date" : "2025-06-28",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3741" : {
+      "info_box" : false,
+      "name" : "bullying",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3915" : {
+      "info_box" : false,
+      "name" : "child abuse",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -76,17 +285,21 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Takopi no Genzai",
+    "title" : "Takopii no Genzai",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Takopi`s Original Sin",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "タコピーの原罪",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Takopi`s Original Sin",
-    "type" : "SYNONYM"
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "章魚嗶的原罪",
+    "type" : "OFFICIAL"
   } ],
-  "type" : "SERIES",
+  "type" : "WEB",
   "url" : "https://www.tbs.co.jp/anime/takopi_project/"
 }

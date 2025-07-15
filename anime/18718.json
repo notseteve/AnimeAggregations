@@ -392,7 +392,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.43,
+        "rating" : 6.42,
         "total" : 2
       },
       "recap" : false,
@@ -420,7 +420,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 1.67,
+        "rating" : 1.66,
         "total" : 2
       },
       "recap" : false,
@@ -448,7 +448,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 2.97,
+        "rating" : 2.96,
         "total" : 1
       },
       "recap" : false,
@@ -519,12 +519,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.34,
-      "total" : 75
+      "rating" : 5.29,
+      "total" : 103
     },
     "TEMPORARY" : {
-      "rating" : 6.48,
-      "total" : 75
+      "rating" : 6.54,
+      "total" : 103
     }
   },
   "related" : {
@@ -544,9 +544,102 @@
   },
   "start_date" : "2025-04-04",
   "tags" : {
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2069" : {
+      "info_box" : false,
+      "name" : "delinquent",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3703" : {
+      "info_box" : false,
+      "name" : "fist fight",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5626" : {
+      "info_box" : false,
+      "name" : "adults are useless",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5792" : {
+      "info_box" : false,
+      "name" : "gangs",
+      "parent_tag_id" : 2872,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -570,6 +663,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

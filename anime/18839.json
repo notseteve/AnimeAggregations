@@ -1,6 +1,11 @@
 {
   "anime_id" : 18839,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 149599,
+      "name" : "Cherryl Baker",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 145020,
       "name" : "Kusakabe Renji",
@@ -54,15 +59,118 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "Note: The first three episodes received an early screening at a special event on 28 June 2025 at Kino Cinéma Shinjuku in Tokyo. The regular TV broadcast started on 6 July 2025.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-07-06",
+      "episode_id" : 297820,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.53,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UGN5W9" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Boy Meets the Game Centre Girl"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Boy Meets the Game Centre Girl"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Boy Meets the Game Centre Girl"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-13",
+      "episode_id" : 297821,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "If Pushing Doesn`t Work, Try Pulling"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "If Pushing Doesn`t Work, Try Pulling"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "If Pushing Doesn`t Work, Try Pulling"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-20",
+      "episode_id" : 297822,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-27",
+      "episode_id" : 297823,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-06",
+      "episode_id" : 298479,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-06",
+      "episode_id" : 298480,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.73,
+      "total" : 13
+    },
+    "TEMPORARY" : {
+      "rating" : 5.42,
+      "total" : 13
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "398341" ],
+    "ANISON" : [ "25962" ],
     "ANN" : [ "33435" ],
+    "CRUNCHY_ROLL" : [ "G4PH0WJ2G" ],
     "MAL" : [ "59689" ],
     "SYOBOI" : [ "7467" ],
-    "TWITTER" : [ "GaCenGirl" ],
+    "TWITTER" : [ "GaCenGirl_Anime" ],
     "WEBSITE" : [ "https://gacen-girl-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Cultural_Exchange_with_Game_Center_Girl" ],
-    "WIKIPEDIA_JP" : [ "ゲーセン少女と異文化交流" ]
+    "WIKIPEDIA_JP" : [ "ゲーセン少女と異文化交流" ],
+    "YOUTUBE" : [ "watch?v=BLX7qZwt--w", "watch?v=CldOd2aIo9s" ]
   },
   "start_date" : "2025-07-06",
   "tags" : {
@@ -87,16 +195,16 @@
     "title" : "Geesen Shoujo to Ibunka Kouryuu",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Cultural Exchange with a Game Centre Girl",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ゲーセン少女と異文化交流",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
     "title" : "Cross-Cultural Exchange With the Girl at the Arcade",
-    "type" : "SYNONYM"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Cultural Exchange With Game Center Girl",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

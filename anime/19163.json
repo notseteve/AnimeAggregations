@@ -11,12 +11,32 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 149358,
+      "name" : "Anastasia",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149044,
       "name" : "Kanzaki Miki",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 149431,
+      "name" : "Kirihara Sari",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149357,
+      "name" : "Kuji Nozomi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149356,
+      "name" : "Miyazawa Tamami",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149043,
       "name" : "Natsuno Ai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149430,
+      "name" : "Simphis Muto",
       "type" : "CHARACTER"
     } ]
   },
@@ -28,15 +48,112 @@
     "80943" : [ {
       "name" : "Raiose",
       "type" : "ANIMATION_WORK"
+    } ],
+    "82130" : [ {
+      "name" : "Keima Hajime",
+      "type" : "DIRECTOR"
+    }, {
+      "name" : "Keima Hajime",
+      "type" : "SERIES_COMPOSITION"
+    } ],
+    "82131" : [ {
+      "name" : "Karei Yoriko",
+      "type" : "CHARACTER_DESIGN"
     } ]
+  },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-07-02",
+      "episode_id" : 298080,
+      "length" : 5,
+      "number" : 1,
+      "rating" : {
+        "rating" : 2.3,
+        "total" : 3
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Okatai Obasan no Kuchibiru wa..."
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Flavor of My Strict Aunt`s Lips"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "お堅い叔母さんの唇は..."
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-09",
+      "episode_id" : 298081,
+      "length" : 5,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-16",
+      "episode_id" : 298082,
+      "length" : 5,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-23",
+      "episode_id" : 298083,
+      "length" : 5,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-11-26",
+      "episode_id" : 298084,
+      "length" : 5,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kooriyama Yui: Sono Ato..."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "郡山 結 その後..."
+      } ],
+      "type" : "SPECIAL"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.89,
+      "total" : 5
+    },
+    "TEMPORARY" : {
+      "rating" : 4.6,
+      "total" : 5
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "400077" ],
     "ANN" : [ "34713" ],
     "MAL" : [ "61023" ],
+    "SYOBOI" : [ "7527" ],
     "TWITTER" : [ "canchuhai_anime" ],
     "WEBSITE" : [ "https://hitoduma-canchuhai.deregula.com/" ],
-    "WIKIPEDIA_EN" : [ "Hitozuma_no_Kuchibiru_wa_Kan_Chūhai_no_Aji_ga_Shite" ],
+    "WIKIPEDIA_EN" : [ "Chuhai_Lips:_Canned_Flavor_of_Married_Women" ],
     "WIKIPEDIA_JP" : [ "人妻の唇は缶チューハイの味がして" ]
   },
   "start_date" : "2025-07-02",
@@ -61,6 +178,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Chuhai Lips: Canned Flavor of Married Women",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "人妻の唇は缶チューハイの味がして",

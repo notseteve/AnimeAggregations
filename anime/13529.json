@@ -455,12 +455,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 1.67,
-      "total" : 6
+      "rating" : 2.0,
+      "total" : 7
     },
     "TEMPORARY" : {
-      "rating" : 3.33,
-      "total" : 6
+      "rating" : 3.85,
+      "total" : 7
     }
   },
   "resources" : {
@@ -473,9 +473,23 @@
   },
   "start_date" : "2018-03-24",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -488,10 +502,74 @@
       "verified" : false,
       "weight" : 0
     },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2885" : {
+      "info_box" : true,
+      "name" : "law and order",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2897" : {
+      "info_box" : true,
+      "name" : "police",
+      "parent_tag_id" : 2885,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5852" : {
       "info_box" : true,
       "name" : "short episodes",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6075" : {
+      "info_box" : false,
+      "name" : "educational",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6097" : {
+      "info_box" : false,
+      "name" : "3D CG animation",
+      "parent_tag_id" : 4064,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -510,6 +588,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6840" : {
+      "info_box" : false,
+      "name" : "social media",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
@@ -523,6 +609,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "SNS Police",
     "type" : "MAIN"
+  }, {
+    "language" : "SPANISH_LATIN",
+    "title" : "Policía de Redes Sociales",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "SNSポリス",

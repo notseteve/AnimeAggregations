@@ -38,9 +38,10 @@
       "type" : "MUSIC"
     } ]
   },
-  "description" : "* Based on an adventure sci-fi shounen manga series written by http://anidb.net/cr5893 [Inagaki Riichirou] and illustrated by http://anidb.net/cr56664 [Boichi].",
+  "description" : "* Based on an adventure sci-fi shounen manga series written by http://anidb.net/cr5893 [Inagaki Riichirou] and illustrated by http://anidb.net/cr56664 [Boichi].\nNote: The first three episodes received an early screening at a special event on 28 June 2025 at TOHO Cinemas Hibiya in Tokyo and six additional venues across Japan. The regular TV broadcast started on 10 July 2025.",
   "episodes" : {
     "REGULAR" : [ {
+      "air_date" : "2025-07-10",
       "episode_id" : 294571,
       "length" : 25,
       "number" : 1,
@@ -56,12 +57,47 @@
         "title" : "同じ月を見て"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-17",
+      "episode_id" : 297852,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-24",
+      "episode_id" : 297853,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-31",
+      "episode_id" : 297854,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "related" : {
     "PREQUEL" : [ 18336 ]
   },
   "resources" : {
+    "ANISON" : [ "22098" ],
+    "ANN" : [ "35383" ],
     "MAL" : [ "61322" ],
     "SYOBOI" : [ "7494" ],
     "TWITTER" : [ "STONE_anime_off" ],
@@ -92,13 +128,13 @@
     "title" : "Dr. Stone: Science Future (2025)",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Dr. Stone: Science Future (2025)",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "Dr.STONE SCIENCE FUTURE (2025)",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Dr. Stone: Science Future (2025)",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://dr-stone.jp/"

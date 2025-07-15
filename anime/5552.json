@@ -1223,6 +1223,27 @@
   },
   "start_date" : "2008-01-06",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -1244,6 +1265,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
@@ -1251,6 +1280,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2616" : {
+      "info_box" : true,
+      "name" : "mina",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2630" : {
       "info_box" : false,
@@ -1260,6 +1305,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2763" : {
+      "info_box" : false,
+      "name" : "Paris",
+      "parent_tag_id" : 2807,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -1267,6 +1320,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2807" : {
+      "info_box" : false,
+      "name" : "France",
+      "parent_tag_id" : 2831,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2810" : {
+      "info_box" : false,
+      "name" : "Italy",
+      "parent_tag_id" : 2831,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2831" : {
       "info_box" : false,
@@ -1276,6 +1345,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "2840" : {
+      "info_box" : false,
+      "name" : "mafia",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2850" : {
       "info_box" : true,
       "name" : "adventure",
@@ -1283,6 +1360,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2876" : {
+      "info_box" : false,
+      "name" : "religion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2887" : {
       "info_box" : true,
@@ -1292,6 +1393,22 @@
       "verified" : false,
       "weight" : 500
     },
+    "2924" : {
+      "info_box" : false,
+      "name" : "earthquake",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3763" : {
       "info_box" : false,
       "name" : "Sekai Meisaku Gekijou",
@@ -1299,6 +1416,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4302" : {
+      "info_box" : false,
+      "name" : "Christianity",
+      "parent_tag_id" : 2876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4353" : {
+      "info_box" : false,
+      "name" : "Rome",
+      "parent_tag_id" : 2810,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "6151" : {
       "info_box" : false,
@@ -1322,6 +1455,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
@@ -1329,6 +1470,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "8225" : {
+      "info_box" : false,
+      "name" : "Greece",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     }
   },
   "titles" : [ {

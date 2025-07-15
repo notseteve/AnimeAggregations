@@ -15,12 +15,36 @@
       "name" : "Gojou Kaoru",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 149414,
+      "name" : "Himeno Amane",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 120887,
       "name" : "Inui Sajuna",
       "type" : "CHARACTER"
     }, {
       "character_id" : 120886,
       "name" : "Inui Shinju",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149416,
+      "name" : "Kashiwagi Shiki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149417,
+      "name" : "Morita Kensei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 121554,
+      "name" : "Sugaya Nowa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149413,
+      "name" : "Yahiro Daia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149415,
+      "name" : "Yamauchi Rune",
       "type" : "CHARACTER"
     } ]
   },
@@ -61,17 +85,30 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on a love comedy cosplay manga by http://anidb.net/cr63654 [Fukuda Shin`ichi].\nWhen http://anidb.net/ch120646 [Kitagawa Marin] and http://anidb.net/ch120645 [Gojou Wakana] met, they grew close over their love for cosplay. Through interacting with classmates and making new cosplay friends, Marin and Wakana`s world keeps growing. New developments arise as Marin`s love for Wakana continues to be filled with endless excitement. In their ever-expanding world, Marin and Wakana`s story of cosplay and thrills continues!\nSource: Crunchyroll",
+  "description" : "* Based on a love comedy cosplay manga by http://anidb.net/cr63654 [Fukuda Shin`ichi].\nWhen http://anidb.net/ch120646 [Kitagawa Marin] and http://anidb.net/ch120645 [Gojou Wakana] met, they grew close over their love for cosplay. Through interacting with classmates and making new cosplay friends, Marin and Wakana`s world keeps growing. New developments arise as Marin`s love for Wakana continues to be filled with endless excitement. In their ever-expanding world, Marin and Wakana`s story of cosplay and thrills continues!\nSource: Crunchyroll\nNote: The first two episodes received an early screening at a special event on 29 June 2025 at Ikebukuro HUMAX Cinemas in Tokyo. The regular TV broadcast started on 6 July 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-06",
       "episode_id" : 297792,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.85,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU82JK1" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gojou Wakana 15-sai Shishunki"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Wakana Gojo, 15 Years Old, Teenager"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "五条新菜 15歳 思春期"
       } ],
       "type" : "REGULAR"
     }, {
@@ -81,8 +118,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Oppai wa Soubi Dekiru kara"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "You Can Equip Boobs"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "おっぱいは装備できるから"
       } ],
       "type" : "REGULAR"
     }, {
@@ -107,20 +150,45 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-06",
+      "episode_id" : 298440,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.82,
+      "total" : 22
+    },
+    "TEMPORARY" : {
+      "rating" : 7.56,
+      "total" : 22
+    }
   },
   "related" : {
     "PREQUEL" : [ 16250 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "398541" ],
+    "ANISON" : [ "24035" ],
     "ANN" : [ "34207" ],
+    "CRUNCHY_ROLL" : [ "GQWH0M9N8" ],
     "MAL" : [ "53065" ],
     "SYOBOI" : [ "7469" ],
     "TWITTER" : [ "kisekoi_anime" ],
     "WEBSITE" : [ "https://bisquedoll-anime.com/" ],
     "WIKIPEDIA_EN" : [ "My_Dress-Up_Darling" ],
-    "WIKIPEDIA_JP" : [ "その着せ替え人形は恋をする" ]
+    "WIKIPEDIA_JP" : [ "その着せ替え人形は恋をする" ],
+    "YOUTUBE" : [ "watch?v=TpJvHjyITMQ" ]
   },
   "start_date" : "2025-07-06",
   "tags" : {
@@ -151,6 +219,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "その着せ替え人形は恋をする (2025)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "更衣人偶坠入爱河 第二季",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

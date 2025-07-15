@@ -10,12 +10,24 @@
       "name" : "Aragaki",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 149361,
+      "name" : "Atsushi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149360,
+      "name" : "Futaba",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148627,
       "name" : "Futoshi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148281,
       "name" : "Higa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149362,
+      "name" : "Madoka",
       "type" : "CHARACTER"
     }, {
       "character_id" : 124030,
@@ -193,7 +205,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.64,
+        "rating" : 7.65,
         "total" : 3
       },
       "recap" : false,
@@ -333,8 +345,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.93,
-        "total" : 1
+        "rating" : 8.72,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -361,8 +373,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.89,
-        "total" : 2
+        "rating" : 7.6,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -417,8 +429,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.28,
-        "total" : 2
+        "rating" : 7.87,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -445,8 +457,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.96,
-        "total" : 1
+        "rating" : 6.98,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -468,9 +480,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-06-16",
+      "description" : "Aharen is in charge of the class`s exhibit for the culture festival, leaving Raido to ponder the future.\nSource: Crunchyroll",
       "episode_id" : 296495,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 5.97,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G8WU7VG7P" ]
@@ -482,6 +499,9 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Bunkasai ja Ne?"
       }, {
+        "language" : "FRENCH",
+        "title" : "C`est le festival, non ?"
+      }, {
         "language" : "JAPANESE",
         "title" : "文化祭じゃね?"
       } ],
@@ -491,10 +511,20 @@
       "episode_id" : 296496,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 9.79,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UD32DV" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Seriously, Isn`t This Too Close?"
+      }, {
+        "language" : "FRENCH",
+        "title" : "T`es quand même un peu près, non ?"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Yappari Chikasugi ja Ne?"
@@ -503,6 +533,24 @@
         "title" : "やっぱり近すぎじゃね?"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-04-28",
+      "episode_id" : 298337,
+      "length" : 1,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Aharen Sisters Dance Movie"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Aharen Sisters` Dance Movie"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "阿波連シスターズダンスムービー"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "CREDITS" : [ {
       "air_date" : "2025-04-07",
@@ -544,16 +592,84 @@
         "title" : "ティザーPV"
       } ],
       "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-01-23",
+      "episode_id" : 298333,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 1 Dan PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "PV 1 (1:28)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第1弾PV"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-03-07",
+      "episode_id" : 298334,
+      "length" : 2,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 2 Dan PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "PV 2 (1:21)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第2弾PV"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-04-07",
+      "episode_id" : 298335,
+      "length" : 1,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Blu-ray BOX TV CM 1 (0:15)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Blu-ray BOX Terebi CM"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Blu-ray BOX テレビCM"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-04-07",
+      "episode_id" : 298336,
+      "length" : 1,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Blu-ray BOX TV CM 2: \"Wake Up, Raidou\" Ver. (0:15)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Blu-ray BOX Terebi CM Raidou-kun Okite Ver"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Blu-ray BOX テレビCM ライドウくん起きてver"
+      } ],
+      "type" : "PROMOTION"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.73,
-      "total" : 37
+      "rating" : 6.27,
+      "total" : 128
     },
     "TEMPORARY" : {
-      "rating" : 6.52,
-      "total" : 38
+      "rating" : 6.77,
+      "total" : 130
     }
   },
   "related" : {
@@ -570,7 +686,7 @@
     "WEBSITE" : [ "https://aharen-pr.com/" ],
     "WIKIPEDIA_EN" : [ "Aharen-san_wa_Hakarenai" ],
     "WIKIPEDIA_JP" : [ "阿波連さんははかれない" ],
-    "YOUTUBE" : [ "watch?v=diILgbA_tdI" ]
+    "YOUTUBE" : [ "watch?v=5-nbw77_Bss", "watch?v=GnfCfOtWHvU", "watch?v=Lcpw1ng0cf4", "watch?v=diILgbA_tdI", "watch?v=gkOAqptNmV8", "watch?v=m5YpOcaGJP4" ]
   },
   "start_date" : "2025-04-07",
   "tags" : {

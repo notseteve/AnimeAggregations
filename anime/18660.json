@@ -85,6 +85,54 @@
       "type" : "SERIES_COMPOSITION"
     } ]
   },
+  "description" : "Note: The first two episodes received an early screening at a special event on 15 June 2025 at Parthenon Tama in Tokyo. The regular TV broadcast started on 5 July 2025.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-07-05",
+      "episode_id" : 298144,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-05",
+      "episode_id" : 298145,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-12",
+      "episode_id" : 298146,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-19",
+      "episode_id" : 298147,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "resources" : {
     "ALL_CINEMA" : [ "396850" ],
     "ANISON" : [ "26023" ],
@@ -99,6 +147,37 @@
   },
   "start_date" : "2025-07-05",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2800" : {
+      "info_box" : true,
+      "name" : "game",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2803" : {
+      "info_box" : true,
+      "name" : "erotic game",
+      "parent_tag_id" : 2800,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2804" : {
+      "info_box" : true,
+      "name" : "visual novel",
+      "parent_tag_id" : 2800,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

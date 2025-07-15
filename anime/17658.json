@@ -174,7 +174,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.94,
+        "rating" : 5.95,
         "total" : 8
       },
       "recap" : false,
@@ -224,7 +224,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.44,
+        "rating" : 6.45,
         "total" : 5
       },
       "recap" : false,
@@ -249,7 +249,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.25,
+        "rating" : 6.26,
         "total" : 5
       },
       "recap" : false,
@@ -274,7 +274,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.85,
+        "rating" : 6.86,
         "total" : 5
       },
       "recap" : false,
@@ -349,7 +349,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 4.49,
+        "rating" : 4.5,
         "total" : 5
       },
       "recap" : false,
@@ -399,7 +399,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.97,
+        "rating" : 7.98,
         "total" : 5
       },
       "recap" : false,
@@ -424,7 +424,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 7.48,
+        "rating" : 7.5,
         "total" : 6
       },
       "recap" : false,
@@ -449,7 +449,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.92,
+        "rating" : 6.93,
         "total" : 6
       },
       "recap" : false,
@@ -469,6 +469,7 @@
       "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
+      "air_date" : "2023-09-26",
       "episode_id" : 297089,
       "length" : 50,
       "number" : 1,
@@ -485,6 +486,7 @@
       } ],
       "type" : "SPECIAL"
     }, {
+      "air_date" : "2023-12-09",
       "episode_id" : 297090,
       "length" : 50,
       "number" : 2,
@@ -541,16 +543,182 @@
         "title" : "Ending 3"
       } ],
       "type" : "CREDITS"
+    } ],
+    "PROMOTION" : [ {
+      "air_date" : "2022-10-05",
+      "episode_id" : 297697,
+      "length" : 1,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Teaser PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Teaser PV (0:55)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ティザーPV"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2023-06-29",
+      "episode_id" : 297698,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hon PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Main PV (1:35)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "本PV"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2023-09-06",
+      "episode_id" : 297699,
+      "length" : 2,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Chokuzen PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast PV (1:37)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前PV"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2023-11-19",
+      "episode_id" : 297700,
+      "length" : 4,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "1話~7話振り返りPV"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ichiwa ~ Nanawa Furikaeri PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Looking Back at Episodes 1-7 PV (3:48)"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2023-12-18",
+      "episode_id" : 297701,
+      "length" : 1,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Blu-ray Hatsubai Kettei CM (Dai 1 Kan)"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Blu-ray Vol. 1 Pre-Sale CM (0:15)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Blu-ray発売決定CM (第1巻)"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "episode_id" : 297702,
+      "length" : 1,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Blu-ray Hatsubaichuu CM (Dai 1 Kan)"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Blu-ray Vol. 1 Now On Sale CM (0:15)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Blu-ray発売中CM (第1巻)"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "episode_id" : 297703,
+      "length" : 1,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Blu-ray Hatsubai Kettei CM (Dai 2 Kan)"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Blu-ray Vol. 2 Pre-Sale CM (0:15)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Blu-ray発売決定CM (第2巻)"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "episode_id" : 297704,
+      "length" : 1,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Blu-ray Hatsubaichuu CM (Dai 2 Kan)"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Blu-ray Vol. 2 Now On Sale CM (0:15)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Blu-ray発売中CM (第2巻)"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "episode_id" : 297705,
+      "length" : 1,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Blu-ray Hatsubai Kettei CM (Dai 3 Kan)"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Blu-ray Vol. 3 Pre-Sale CM (0:15)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Blu-ray発売決定CM (第3巻)"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "episode_id" : 297706,
+      "length" : 1,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Blu-ray Hatsubaichuu CM (Dai 3 Kan)"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Blu-ray Vol. 3 Now On Sale CM (0:15)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Blu-ray発売中CM (第3巻)"
+      } ],
+      "type" : "PROMOTION"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.87,
-      "total" : 297
+      "rating" : 3.89,
+      "total" : 301
     },
     "TEMPORARY" : {
-      "rating" : 5.87,
-      "total" : 298
+      "rating" : 5.88,
+      "total" : 302
     }
   },
   "related" : {
@@ -566,7 +734,8 @@
     "TWITTER" : [ "SHY_off" ],
     "WEBSITE" : [ "https://shy-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Shy_(manga)" ],
-    "WIKIPEDIA_JP" : [ "SHY_(漫画)" ]
+    "WIKIPEDIA_JP" : [ "SHY_(漫画)" ],
+    "YOUTUBE" : [ "watch?v=5ciKFhwlQ5M", "watch?v=8i_ShH9AMY0", "watch?v=JF_Fouj1m1U", "watch?v=QujOiieQDyE", "watch?v=aUapqFIAoOs", "watch?v=hcAgisWONxs", "watch?v=qjmmAqulvGw" ]
   },
   "start_date" : "2023-10-03",
   "tags" : {
