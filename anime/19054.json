@@ -3,12 +3,12 @@
   "characters" : {
     "APPEARANCE" : [ {
       "character_id" : 149443,
-      "name" : "Polvo",
+      "name" : "Polbo",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 147325,
-      "name" : "Atrielle",
+      "name" : "Atelier",
       "type" : "CHARACTER"
     }, {
       "character_id" : 147326,
@@ -28,8 +28,16 @@
       "name" : "Katie",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 149590,
+      "name" : "Ponite",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149591,
+      "name" : "Tsuinte",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148877,
-      "name" : "Vigor",
+      "name" : "Vigo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148222,
@@ -41,9 +49,6 @@
     "727" : [ {
       "name" : "OLM",
       "type" : "ANIMATION_WORK"
-    }, {
-      "name" : "OLM",
-      "type" : "WORK"
     } ],
     "4556" : [ {
       "name" : "Akao Deko",
@@ -66,7 +71,7 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "Backstabbed by those he considered friends, http://anidb.net/ch147326 [Dennis] has been exiled from one of the strongest guilds around: the Silver Wings Battalion. He doesn`t think much of it, though, as he was dying to use his level 99 cooking skills anyway. That`s why he decides to leave the city behind and open up a diner in the countryside. While pursuing his dream, Dennis meets http://anidb.net/ch147325 [Atrielle], a girl exiled from her noble household and relegated to slavery until he saves her. The pair open the diner together, and their first client is... an exiled knight from a different guild? How peculiar. But she is not the only customer; a cocky mage and a drastically overworked yet underpaid sage become regulars as well. The knight brings trouble to the diner at times, but Dennis`s cooking skills and beloved butcher knives cut through trouble and hunger alike! Thus begins the legend of Dennis and his diner, the talk of the town!\nSource: Tentai Books",
+  "description" : "Backstabbed by those he considered friends, http://anidb.net/ch147326 [Dennis] has been exiled from one of the strongest guilds around: the Silver Wings Battalion. He doesn`t think much of it, though, as he was dying to use his level 99 cooking skills anyway. That`s why he decides to leave the city behind and open up a diner in the countryside. While pursuing his dream, Dennis meets http://anidb.net/ch147325 [Atelier], a girl exiled from her noble household and relegated to slavery until he saves her. The pair open the diner together, and their first client is... an exiled knight from a different guild? How peculiar. But she is not the only customer; a cocky mage and a drastically overworked yet underpaid sage become regulars as well. The knight brings trouble to the diner at times, but Dennis`s cooking skills and beloved butcher knives cut through trouble and hunger alike! Thus begins the legend of Dennis and his diner, the talk of the town!\nSource: Tentai Books",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-03",
@@ -74,7 +79,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.29,
+        "rating" : 6.33,
         "total" : 4
       },
       "recap" : false,
@@ -97,7 +102,14 @@
       "episode_id" : 297769,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.91,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQ187D" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "It`s Crazy Delicious!"
@@ -114,10 +126,23 @@
       "episode_id" : 297770,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 4.18,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNJGK8" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sore ga Boukensha Da!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "That`s an Adventurer!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "それが冒険者だ!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -127,8 +152,58 @@
       "number" : 4,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jaa, Higawari Teishoku de"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Then, I`ll Have the Daily Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "じゃあ, 日替わり定食で"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-31",
+      "episode_id" : 298617,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-07",
+      "episode_id" : 298618,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-14",
+      "episode_id" : 298619,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-21",
+      "episode_id" : 298620,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -158,12 +233,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.5,
-      "total" : 16
+      "rating" : 4.55,
+      "total" : 20
     },
     "TEMPORARY" : {
-      "rating" : 6.06,
-      "total" : 16
+      "rating" : 5.45,
+      "total" : 20
     }
   },
   "resources" : {
@@ -171,8 +246,10 @@
     "ANISON" : [ "25969" ],
     "ANN" : [ "34176" ],
     "CRUNCHY_ROLL" : [ "GEXH3W2E9" ],
+    "IMDB" : [ "tt36600399" ],
     "MAL" : [ "60523" ],
     "SYOBOI" : [ "7456" ],
+    "TMDB" : [ "tv/286723" ],
     "TWITTER" : [ "tsuishoku_PR" ],
     "WEBSITE" : [ "https://tsuihosha-shokudo.com/" ],
     "WIKIPEDIA_EN" : [ "Welcome_to_the_Outcast's_Restaurant!" ],
@@ -181,7 +258,11 @@
   "similar" : {
     "12385" : {
       "rating" : 10.0,
-      "total" : 3
+      "total" : 5
+    },
+    "18528" : {
+      "rating" : 5.0,
+      "total" : 2
     }
   },
   "start_date" : "2025-07-03",
@@ -221,6 +302,14 @@
   }, {
     "language" : "THAI",
     "title" : "ยินดีต้อนรับ! สู่ร้านอาหารผู้ถูกขับไล่",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "欢迎光临流放者食堂！",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "歡迎光臨流放者食堂！",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

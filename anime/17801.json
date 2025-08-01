@@ -80,8 +80,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 1.8,
-        "total" : 3
+        "rating" : 3.29,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -103,10 +103,23 @@
       "episode_id" : 297837,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.44,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUNV88E" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Lost, Outside the Spot"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mayotte, out Spot"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "迷って, アウトスパット"
       } ],
       "type" : "REGULAR"
     }, {
@@ -114,10 +127,23 @@
       "episode_id" : 297838,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.12,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WU7P44M" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Lean On Your Balance Line"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tayotte, Balance Line"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "頼って, バランスライン"
       } ],
       "type" : "REGULAR"
     }, {
@@ -129,6 +155,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-06",
+      "episode_id" : 299236,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-13",
+      "episode_id" : 299237,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-20",
+      "episode_id" : 299238,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-27",
+      "episode_id" : 299239,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -149,16 +219,39 @@
         "title" : "放送直前生配信!"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-09",
+      "episode_id" : 299106,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-16",
+      "episode_id" : 299107,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 1.94,
-      "total" : 5
+      "rating" : 3.3,
+      "total" : 17
     },
     "TEMPORARY" : {
-      "rating" : 4.2,
-      "total" : 5
+      "rating" : 5.35,
+      "total" : 17
     }
   },
   "resources" : {
@@ -174,7 +267,7 @@
     "WEBSITE" : [ "https://turkey-project.com/" ],
     "WIKIPEDIA_EN" : [ "Turkey!_(TV_series)" ],
     "WIKIPEDIA_JP" : [ "Turkey!" ],
-    "YOUTUBE" : [ "watch?v=A3lrCib4PVs" ]
+    "YOUTUBE" : [ "watch?v=2F2UrZJHUug", "watch?v=A3lrCib4PVs", "watch?v=ZUcsckCrr7U" ]
   },
   "start_date" : "2025-07-09",
   "tags" : {
@@ -186,12 +279,34 @@
       "verified" : false,
       "weight" : 200
     },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2637" : {
+      "info_box" : false,
+      "name" : "time travel",
+      "parent_tag_id" : 7050,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 200
     },
     "2669" : {
       "info_box" : false,
@@ -240,6 +355,30 @@
       "verified" : false,
       "weight" : 600
     },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6877" : {
+      "info_box" : false,
+      "name" : "misleading beginning",
+      "parent_tag_id" : 2605,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
@@ -260,6 +399,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Turkey! Time to Strike",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "保齡球少女！",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

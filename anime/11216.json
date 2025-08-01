@@ -100,7 +100,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.39,
+        "rating" : 6.4,
         "total" : 5
       },
       "recap" : false,
@@ -166,7 +166,7 @@
       "length" : 30,
       "number" : 4,
       "rating" : {
-        "rating" : 7.83,
+        "rating" : 7.84,
         "total" : 4
       },
       "recap" : false,
@@ -188,7 +188,7 @@
       "length" : 30,
       "number" : 5,
       "rating" : {
-        "rating" : 7.83,
+        "rating" : 7.84,
         "total" : 4
       },
       "recap" : false,
@@ -232,7 +232,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.99,
+        "rating" : 8.0,
         "total" : 4
       },
       "recap" : false,
@@ -254,7 +254,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.41,
+        "rating" : 7.42,
         "total" : 4
       },
       "recap" : false,
@@ -276,7 +276,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.55,
+        "rating" : 8.56,
         "total" : 4
       },
       "recap" : false,
@@ -298,7 +298,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 9.61,
+        "rating" : 9.62,
         "total" : 4
       },
       "recap" : false,
@@ -379,7 +379,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 5.4,
+        "rating" : 5.41,
         "total" : 2
       },
       "recap" : false,
@@ -392,12 +392,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.58,
-      "total" : 503
+      "rating" : 5.59,
+      "total" : 506
     },
     "TEMPORARY" : {
       "rating" : 6.74,
-      "total" : 509
+      "total" : 512
     }
   },
   "related" : {
@@ -445,6 +445,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
@@ -466,12 +473,43 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2798" : {
       "info_box" : true,

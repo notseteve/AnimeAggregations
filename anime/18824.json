@@ -89,10 +89,23 @@
       "episode_id" : 297800,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.25,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU82J41" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Amemoyou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Rainy Days"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "雨模様"
       } ],
       "type" : "REGULAR"
     }, {
@@ -100,10 +113,23 @@
       "episode_id" : 297801,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.25,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UV2QZJ" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nishibi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Evening Sun"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "西陽"
       } ],
       "type" : "REGULAR"
     }, {
@@ -111,10 +137,23 @@
       "episode_id" : 297802,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8XED3" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Friends"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tomodachi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "友達"
       } ],
       "type" : "REGULAR"
     }, {
@@ -128,17 +167,99 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-03",
+      "episode_id" : 299146,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-10",
+      "episode_id" : 299147,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-17",
+      "episode_id" : 299148,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-24",
+      "episode_id" : 299149,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-06",
+      "episode_id" : 298454,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-06",
+      "episode_id" : 298455,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.15,
+      "total" : 27
+    },
+    "TEMPORARY" : {
+      "rating" : 6.3,
+      "total" : 27
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "396502" ],
+    "ANISON" : [ "25954" ],
     "ANN" : [ "33349" ],
+    "CRUNCHY_ROLL" : [ "GW4HM7WDV" ],
+    "IMDB" : [ "tt36143285" ],
     "MAL" : [ "59619" ],
     "SYOBOI" : [ "7487" ],
+    "TMDB" : [ "tv/262254" ],
     "TWITTER" : [ "amekimi_anime" ],
     "WEBSITE" : [ "https://amekimi-anime.com/" ],
     "WIKIPEDIA_EN" : [ "With_You_and_the_Rain" ],
-    "WIKIPEDIA_JP" : [ "雨と君と" ]
+    "WIKIPEDIA_JP" : [ "雨と君と" ],
+    "YOUTUBE" : [ "watch?v=OOmuZxXI4lU", "watch?v=XYJ1xCEUTxg" ]
   },
   "start_date" : "2025-07-06",
   "tags" : {
@@ -165,6 +286,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "With You and the Rain",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "和雨．和你",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

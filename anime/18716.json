@@ -66,8 +66,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.44,
-        "total" : 1
+        "rating" : 4.67,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -86,10 +86,20 @@
       "episode_id" : 298170,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.44,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Natural Born Erorist / Himitsu no Club / Oshiete Kudasai / Rura-chan wa Chiyahoya Saretai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Natural-Born Ero-ist / Secret Club / Please Tell Me! / Rura-chan Wants to Be Pampered"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ナチュラル・ボーン・エロリスト / 秘密のクラブ / 教えてください / るらちゃんはチヤホヤされたい"
       } ],
       "type" : "REGULAR"
     }, {
@@ -99,8 +109,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Daikkirai / Ruutte Kawaii? / First Kiss / Suzukaze-san wa Gokai Sare Yasui"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "だいっきらい♡ / るーってかわいい? / ふぁーすときっす♡ / 涼風さんは誤解されやすい"
       } ],
       "type" : "REGULAR"
     }, {
@@ -112,6 +128,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-03",
+      "episode_id" : 299134,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-10",
+      "episode_id" : 299135,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-17",
+      "episode_id" : 299136,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-24",
+      "episode_id" : 299137,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -138,6 +198,10 @@
       "episode_id" : 298411,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.52,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -149,6 +213,10 @@
       "episode_id" : 298412,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.39,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -194,20 +262,22 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.1,
-      "total" : 6
+      "rating" : 3.56,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 5.5,
-      "total" : 6
+      "rating" : 5.35,
+      "total" : 14
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "399103" ],
     "ANISON" : [ "25976" ],
     "ANN" : [ "32848" ],
+    "IMDB" : [ "tt35652446" ],
     "MAL" : [ "59161" ],
     "SYOBOI" : [ "7499" ],
+    "TMDB" : [ "tv/258000" ],
     "TWITTER" : [ "badgirl_anime" ],
     "WEBSITE" : [ "https://badgirl-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Bad_Girl_(manga)" ],
@@ -286,6 +356,10 @@
     "language" : "JAPANESE",
     "title" : "ばっどがーる",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "BADGIRL",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://badgirl-anime.com/"

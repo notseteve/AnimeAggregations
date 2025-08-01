@@ -1,6 +1,19 @@
 {
   "anime_id" : 18773,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 149956,
+      "name" : "Matsuda",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 125624,
+      "name" : "Segawa Asami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 125658,
+      "name" : "Umino Nagi (Youshou)",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 116669,
       "name" : "Amano Erika",
@@ -66,7 +79,7 @@
       "type" : "ANIMATION_WORK"
     } ]
   },
-  "description" : "* Based on a love comedy shounen manga by http://anidb.net/cr7585 [Yoshikawa Miki].\nhttp://anidb.net/ch116670 [Umino Nagi] and http://anidb.net/ch116669 [Amano Erika] were born on the same day and swapped at birth. Nagi was raised as the son of a diner owner, and Erika the daughter of a hotel tycoon. Their parents encourage them to become engaged, and they begin life together. Soon though, infatuations arise as Nagi becomes stuck in a love quadrangle. Life and love are embroiled in epic turmoil as fate is set in motion once again!\nSource: Crunchyroll",
+  "description" : "* Based on a love comedy shounen manga by http://anidb.net/cr7585 [Yoshikawa Miki].\nhttp://anidb.net/ch116670 [Umino Nagi] and http://anidb.net/ch116669 [Amano Erika] were born on the same day and swapped at birth. Nagi was raised as the son of a diner owner, and Erika the daughter of a hotel tycoon. Their parents encourage them to become engaged, and they begin life together. Soon though, infatuations arise as Nagi becomes stuck in a love quadrangle. Life and love are embroiled in epic turmoil as fate is set in motion once again!\nSource: Crunchyroll\nNote: The first episode received an advance release on Kadokawa`s YouTube channel on 7 July 2025. The regular TV broadcast started on 8 July 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-07",
@@ -74,12 +87,15 @@
       "length" : 25,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UEGPDQ" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Umino-kun no Hatsukoi Aite wa Dare Desuka?"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Who`s Umino-kun`s First Love?"
       }, {
         "language" : "JAPANESE",
         "title" : "海野君の初恋相手は誰ですか?"
@@ -91,9 +107,18 @@
       "length" : 25,
       "number" : 2,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMZP73" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Onii Confessed to You, Didn`t He?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Onii ni Kokuhaku Sareteta yo ne...?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "お兄に告白されてたよね...?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -102,9 +127,18 @@
       "length" : 25,
       "number" : 3,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMD7W0" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sore o Hyakubai ni Shita Kanji ka na"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "That, but Times a Hundred"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "それを100倍にした感じかな"
       } ],
       "type" : "REGULAR"
     }, {
@@ -115,25 +149,129 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "All Together, Now"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Minasan Osoroi de"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "みなさんおそろいで"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-05",
+      "episode_id" : 298889,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-12",
+      "episode_id" : 298890,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-19",
+      "episode_id" : 298891,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-26",
+      "episode_id" : 298892,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-07-07",
+      "episode_id" : 298527,
+      "length" : 55,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Start Chokuzen! Tanabata Tokuban"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "スタート直前! 七夕特番"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-07",
+      "episode_id" : 298477,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-07",
+      "episode_id" : 298478,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.59,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 5.37,
+      "total" : 8
+    }
   },
   "related" : {
     "PREQUEL" : [ 16188 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "396259" ],
+    "ANISON" : [ "24236" ],
     "ANN" : [ "32992" ],
+    "CRUNCHY_ROLL" : [ "GXJHM39MP" ],
     "MAL" : [ "59402" ],
     "SYOBOI" : [ "7503" ],
     "TWITTER" : [ "cuckoo_anime" ],
     "WEBSITE" : [ "https://cuckoos-anime.com/" ],
     "WIKIPEDIA_EN" : [ "A_Couple_of_Cuckoos" ],
-    "WIKIPEDIA_JP" : [ "カッコウの許嫁" ]
+    "WIKIPEDIA_JP" : [ "カッコウの許嫁" ],
+    "YOUTUBE" : [ "watch?v=HsfGYPHErTg", "watch?v=OrUGEsgfuVk", "watch?v=RVOwhB5wEkA" ]
   },
-  "start_date" : "2025-07-08",
+  "start_date" : "2025-07-07",
   "tags" : {
     "922" : {
       "info_box" : true,
@@ -193,6 +331,10 @@
     "language" : "JAPANESE",
     "title" : "カッコウの許嫁 Season2",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Kakkou no Iinazuke S2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://cuckoos-anime.com/"

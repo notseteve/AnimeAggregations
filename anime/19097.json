@@ -31,12 +31,12 @@
       "name" : "Lewin",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 149269,
-      "name" : "Lihya",
+      "character_id" : 149268,
+      "name" : "Lyn",
       "type" : "CHARACTER"
     }, {
       "character_id" : 149267,
-      "name" : "Michael",
+      "name" : "Michael (Kamei)",
       "type" : "CHARACTER"
     }, {
       "character_id" : 149264,
@@ -47,8 +47,8 @@
       "name" : "Nina",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 149268,
-      "name" : "Rin",
+      "character_id" : 149269,
+      "name" : "Rihya",
       "type" : "CHARACTER"
     } ]
   },
@@ -90,16 +90,24 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-04",
+      "description" : "After dying, Ryo Mihara finds himself reincarnated in a fantasy world with the ability to cast water magic.\nSource: Crunchyroll",
       "episode_id" : 297764,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.37,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UV2Q23" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kiken na Slow Life"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Slow, but Dangerous, Life"
       }, {
         "language" : "JAPANESE",
         "title" : "危険なスローライフ"
@@ -110,10 +118,23 @@
       "episode_id" : 297765,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.82,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8XEXE" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Abel the Castaway"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hyouryuusha Abel"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "漂流者アベル"
       } ],
       "type" : "REGULAR"
     }, {
@@ -125,6 +146,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Lune no Machi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ルンの街"
       } ],
       "type" : "REGULAR"
     }, {
@@ -138,18 +165,79 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-01",
+      "episode_id" : 298990,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-08",
+      "episode_id" : 298991,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-15",
+      "episode_id" : 298992,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-22",
+      "episode_id" : 298993,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.02,
+      "total" : 36
+    },
+    "TEMPORARY" : {
+      "rating" : 6.26,
+      "total" : 36
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "398956" ],
     "ANISON" : [ "25988" ],
     "ANN" : [ "34273" ],
+    "CRUNCHY_ROLL" : [ "GG5H5XQG5" ],
     "MAL" : [ "60732" ],
     "SYOBOI" : [ "7511" ],
     "TWITTER" : [ "anime_mizuzoku" ],
     "WEBSITE" : [ "https://mizuzokusei-anime.com/" ],
     "WIKIPEDIA_EN" : [ "The_Water_Magician_(novel_series)" ],
     "WIKIPEDIA_JP" : [ "水属性の魔法使い" ]
+  },
+  "similar" : {
+    "16261" : {
+      "rating" : 6.666666666666666,
+      "total" : 3
+    }
   },
   "start_date" : "2025-07-04",
   "tags" : {
@@ -181,6 +269,18 @@
     "language" : "JAPANESE",
     "title" : "水属性の魔法使い",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "水屬性的魔法師",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Mizu Zokusei no Mahoutsukai",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Mizuzokusei no Mahoutsukai",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://mizuzokusei-anime.com/"

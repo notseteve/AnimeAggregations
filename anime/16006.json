@@ -289,7 +289,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.65,
+        "rating" : 3.64,
         "total" : 2
       },
       "recap" : false,
@@ -314,7 +314,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.65,
+        "rating" : 3.64,
         "total" : 2
       },
       "recap" : false,
@@ -339,7 +339,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.65,
+        "rating" : 3.64,
         "total" : 2
       },
       "recap" : false,
@@ -364,7 +364,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.65,
+        "rating" : 3.64,
         "total" : 2
       },
       "recap" : false,
@@ -389,7 +389,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 2.11,
+        "rating" : 2.1,
         "total" : 2
       },
       "recap" : false,
@@ -414,7 +414,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 3.59,
+        "rating" : 3.58,
         "total" : 3
       },
       "recap" : false,
@@ -439,7 +439,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 2.11,
+        "rating" : 2.1,
         "total" : 2
       },
       "recap" : false,
@@ -464,7 +464,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 3.65,
+        "rating" : 3.64,
         "total" : 2
       },
       "recap" : false,
@@ -489,7 +489,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 2.11,
+        "rating" : 2.1,
         "total" : 2
       },
       "recap" : false,
@@ -514,7 +514,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 3.65,
+        "rating" : 3.64,
         "total" : 2
       },
       "recap" : false,
@@ -539,7 +539,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 3.65,
+        "rating" : 3.64,
         "total" : 2
       },
       "recap" : false,
@@ -630,12 +630,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.35,
-      "total" : 256
+      "rating" : 2.34,
+      "total" : 258
     },
     "TEMPORARY" : {
-      "rating" : 4.81,
-      "total" : 257
+      "rating" : 4.8,
+      "total" : 259
     }
   },
   "related" : {
@@ -665,9 +665,24 @@
   },
   "start_date" : "2022-01-08",
   "tags" : {
+    "36" : {
+      "info_box" : false,
+      "name" : "military",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -678,6 +693,44 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2619" : {
+      "info_box" : false,
+      "name" : "gunfights",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2626" : {
+      "info_box" : false,
+      "name" : "future",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2750" : {
       "info_box" : true,
@@ -695,9 +748,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

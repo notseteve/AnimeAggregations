@@ -78,16 +78,26 @@
       "type" : "MUSIC"
     } ]
   },
-  "description" : "* Based on a dark fantasy isekai light novel series written by http://anidb.net/cr77297 [Kazuno Fehu] and illustrated by http://anidb.net/cr77298 [Jun].\nIra Takuto succumbed to illness at a young age and ended up reincarnating in a world that resembles the fantasy turn-based strategy game Eternal Nations. Not only did he reincarnate into his favourite game, but as the god who commands the evil civilisation Mynoghra. With Mynoghra`s beautiful hero unit, Sludge Witch Atou by his side, not even legendarily difficult race traits will stand in the way of restarting their civilisation!\nSource: Cross Infinite World\nNote: The first episode received an early screening at Anime Messe Babelsberg in Germany on 5 July 2025. The regular TV broadcast started on 6 July 2025.",
+  "description" : "* Based on a dark fantasy isekai light novel series written by http://anidb.net/cr77297 [Kazuno Fehu] and illustrated by http://anidb.net/cr77298 [Jun].\nhttp://anidb.net/ch141703 [Ira Takuto] succumbed to illness at a young age and ended up reincarnating in a world that resembles the fantasy turn-based strategy game Eternal Nations. Not only did he reincarnate into his favourite game, but as the god who commands the evil civilisation Mynoghra. With Mynoghra`s beautiful hero unit, http://anidb.net/ch146240 [Sludge Witch Atou] by his side, not even legendarily difficult race traits will stand in the way of restarting their civilisation!\nSource: Cross Infinite World\nNote: The first episode received an early screening at Anime Messe Babelsberg in Germany on 5 July 2025. The regular TV broadcast started on 6 July 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-06",
       "episode_id" : 298178,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.09,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UEGPEK" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
+        "title" : "New Game"
+      }, {
+        "language" : "FRENCH",
         "title" : "New Game"
       }, {
         "language" : "JAPANESE",
@@ -102,10 +112,26 @@
       "episode_id" : 298179,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.3,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMZPMK" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Let`s Announce the Founding of Mynoghra"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mynoghra no Juritsu o Sengen Shiyou"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Proclamons la fondation de Mynoghra"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "マイノグーラの樹立を宣言しよう"
       } ],
       "type" : "REGULAR"
     }, {
@@ -130,24 +156,60 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-06",
+      "episode_id" : 298519,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-06",
+      "episode_id" : 298520,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.18,
+      "total" : 23
+    },
+    "TEMPORARY" : {
+      "rating" : 5.69,
+      "total" : 23
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "399131" ],
     "ANISON" : [ "25955" ],
     "ANN" : [ "32834" ],
+    "CRUNCHY_ROLL" : [ "G1XHJV0M7" ],
     "IMDB" : [ "tt32731400" ],
     "MAL" : [ "59130" ],
     "SYOBOI" : [ "7514" ],
     "TMDB" : [ "tv/280038" ],
     "TWITTER" : [ "myap_GCofficial" ],
     "WEBSITE" : [ "https://mynoghra-anime.com/" ],
-    "WIKIPEDIA_EN" : [ "Apocalypse_Bringer_Mynoghra" ]
+    "WIKIPEDIA_EN" : [ "Apocalypse_Bringer_Mynoghra" ],
+    "WIKIPEDIA_JP" : [ "異世界黙示録マイノグーラ〜破滅の文明で始める世界征服〜" ],
+    "YOUTUBE" : [ "watch?v=HsgEZJbp58c", "watch?v=JfgPB5nziX8" ]
   },
   "similar" : {
     "10816" : {
-      "rating" : 10.0,
-      "total" : 1
+      "rating" : 8.333333333333334,
+      "total" : 6
     }
   },
   "start_date" : "2025-07-06",
@@ -285,6 +347,14 @@
   }, {
     "language" : "INDONESIAN",
     "title" : "Apokalips Dunia Lain Mynoghra ~Menaklukan Dunia Dimulai dari Peradaban Kehancuran~",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "异世界默示录米诺戈拉 ～从灭亡的文明开始的世界征服～",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "異世界默示錄麥諾格拉～從毀滅文明開始征服世界～",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

@@ -95,8 +95,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.64,
-        "total" : 4
+        "rating" : 6.56,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -118,10 +118,23 @@
       "episode_id" : 298066,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.64,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14UVPX0P" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyozetsu Suru Mono"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "That Which Rejects"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "拒絶するモノ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -129,10 +142,23 @@
       "episode_id" : 298067,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.37,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQ1JG2" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "In the Wake of Tears, Flowers Bloom"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Namida no Nochi ni Saku Hana"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "涙の後に咲く花"
       } ],
       "type" : "REGULAR"
     }, {
@@ -146,11 +172,55 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-27",
+      "episode_id" : 298683,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-03",
+      "episode_id" : 298684,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-10",
+      "episode_id" : 298685,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-17",
+      "episode_id" : 298686,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
       "air_date" : "2025-06-28",
       "episode_id" : 298069,
-      "length" : 60,
+      "length" : 80,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
@@ -164,16 +234,39 @@
         "title" : "放送直前! 特別授業スペシャル生放送"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-06-29",
+      "episode_id" : 298747,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-06",
+      "episode_id" : 298748,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.05,
-      "total" : 12
+      "rating" : 3.58,
+      "total" : 35
     },
     "TEMPORARY" : {
-      "rating" : 5.54,
-      "total" : 12
+      "rating" : 5.1,
+      "total" : 35
     }
   },
   "resources" : {
@@ -186,7 +279,8 @@
     "TWITTER" : [ "koujo_anime" ],
     "WEBSITE" : [ "https://koujodenka-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Private_Tutor_to_the_Duke's_Daughter" ],
-    "WIKIPEDIA_JP" : [ "公女殿下の家庭教師" ]
+    "WIKIPEDIA_JP" : [ "公女殿下の家庭教師" ],
+    "YOUTUBE" : [ "watch?v=OZ_xRkCPJN0", "watch?v=QMTfG-7RBcI&pp=0gcJCb4JAYcqIYzv", "watch?v=rbruZu_xiDA" ]
   },
   "start_date" : "2025-06-29",
   "tags" : {
@@ -434,6 +528,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "公女殿下の家庭教師",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "公爵千金的家庭教师",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "公爵千金的家庭教師",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

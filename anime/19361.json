@@ -6,16 +6,16 @@
       "name" : "Airune",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 125695,
+      "name" : "Coolrune",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 125694,
       "name" : "Enerune",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148887,
-      "name" : "Jewel",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 125695,
-      "name" : "Kuurune",
+      "name" : "Jewelrune",
       "type" : "CHARACTER"
     }, {
       "character_id" : 125697,
@@ -99,8 +99,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kachi Kochi Land ni Ikurun"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Let`s Go to Kachikochiland"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カチコチランドにいくるん♪"
       } ],
       "type" : "REGULAR"
     }, {
@@ -111,16 +117,77 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Oshirune the Super-Fan"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Oshirune: Osurun"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "おしるん 推するん♪"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-02",
+      "episode_id" : 299063,
+      "length" : 15,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-09",
+      "episode_id" : 299064,
+      "length" : 15,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-16",
+      "episode_id" : 299065,
+      "length" : 15,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-23",
+      "episode_id" : 299066,
+      "length" : 15,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.08,
+      "total" : 1
+    },
+    "TEMPORARY" : {
+      "rating" : 2.0,
+      "total" : 1
+    }
   },
   "related" : {
     "PREQUEL" : [ 18877 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "399874" ],
+    "ANISON" : [ "24597" ],
     "ANN" : [ "35282" ],
     "MAL" : [ "61290" ],
     "SYOBOI" : [ "7510" ],

@@ -66,7 +66,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.5,
+        "rating" : 7.52,
         "total" : 6
       },
       "recap" : false,
@@ -91,7 +91,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.48,
+        "rating" : 7.5,
         "total" : 7
       },
       "recap" : false,
@@ -116,7 +116,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.61,
+        "rating" : 6.63,
         "total" : 7
       },
       "recap" : false,
@@ -141,7 +141,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.17,
+        "rating" : 6.18,
         "total" : 7
       },
       "recap" : false,
@@ -166,7 +166,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.75,
+        "rating" : 7.76,
         "total" : 6
       },
       "recap" : false,
@@ -191,7 +191,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.81,
+        "rating" : 6.82,
         "total" : 8
       },
       "recap" : false,
@@ -215,8 +215,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.49,
-        "total" : 5
+        "rating" : 7.6,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -240,8 +240,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.6,
-        "total" : 4
+        "rating" : 6.6,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -265,8 +265,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.22,
-        "total" : 4
+        "rating" : 7.4,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -290,8 +290,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.41,
-        "total" : 4
+        "rating" : 6.8,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -314,8 +314,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 4.39,
-        "total" : 4
+        "rating" : 3.93,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -338,8 +338,8 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.35,
-        "total" : 4
+        "rating" : 5.13,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -378,7 +378,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 7.66,
+        "rating" : 7.67,
         "total" : 1
       },
       "recap" : false,
@@ -431,12 +431,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.41,
-      "total" : 101
+      "rating" : 6.51,
+      "total" : 116
     },
     "TEMPORARY" : {
       "rating" : 6.98,
-      "total" : 102
+      "total" : 117
     }
   },
   "resources" : {
@@ -453,8 +453,8 @@
   },
   "similar" : {
     "6257" : {
-      "rating" : 5.0,
-      "total" : 2
+      "rating" : 3.333333333333333,
+      "total" : 3
     },
     "9257" : {
       "rating" : 8.0,
@@ -485,6 +485,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -574,6 +581,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2834" : {
       "info_box" : false,
@@ -715,6 +730,14 @@
     "language" : "CHINESE_TRADITIONAL",
     "title" : "歲月流逝飯菜依舊美味",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "hibimeshi",
+    "type" : "SHORT"
+  }, {
+    "language" : "JAPANESE",
+    "title" : "ひびめし",
+    "type" : "SHORT"
   } ],
   "type" : "SERIES",
   "url" : "https://hibimeshi.com/"

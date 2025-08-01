@@ -122,7 +122,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.18,
+        "rating" : 6.19,
         "total" : 5
       },
       "recap" : false,
@@ -147,7 +147,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.75,
+        "rating" : 6.77,
         "total" : 4
       },
       "recap" : false,
@@ -172,7 +172,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.75,
+        "rating" : 4.77,
         "total" : 4
       },
       "recap" : false,
@@ -197,7 +197,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.22,
+        "rating" : 5.23,
         "total" : 3
       },
       "recap" : false,
@@ -222,7 +222,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.31,
+        "rating" : 8.32,
         "total" : 4
       },
       "recap" : false,
@@ -247,7 +247,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 2.8,
+        "rating" : 2.79,
         "total" : 2
       },
       "recap" : false,
@@ -272,7 +272,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.41,
+        "rating" : 3.43,
         "total" : 3
       },
       "recap" : false,
@@ -297,7 +297,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 9.88,
+        "rating" : 9.87,
         "total" : 1
       },
       "recap" : false,
@@ -322,7 +322,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 4.03,
+        "rating" : 4.06,
         "total" : 2
       },
       "recap" : false,
@@ -347,7 +347,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 3.21,
+        "rating" : 3.19,
         "total" : 1
       },
       "recap" : false,
@@ -372,7 +372,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.88,
+        "rating" : 6.86,
         "total" : 1
       },
       "recap" : false,
@@ -397,7 +397,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 6.88,
+        "rating" : 6.86,
         "total" : 1
       },
       "recap" : false,
@@ -423,7 +423,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.88,
+        "rating" : 6.86,
         "total" : 1
       },
       "recap" : false,
@@ -462,12 +462,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.63,
-      "total" : 108
+      "rating" : 2.62,
+      "total" : 109
     },
     "TEMPORARY" : {
-      "rating" : 5.03,
-      "total" : 108
+      "rating" : 5.01,
+      "total" : 109
     }
   },
   "resources" : {
@@ -484,9 +484,62 @@
   },
   "start_date" : "2025-01-02",
   "tags" : {
+    "1973" : {
+      "info_box" : false,
+      "name" : "cooking",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2202" : {
+      "info_box" : false,
+      "name" : "alien",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2555" : {
+      "info_box" : false,
+      "name" : "amnesia",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -498,6 +551,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2652" : {
+      "info_box" : false,
+      "name" : "super deformed",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2797" : {
       "info_box" : true,
       "name" : "new",
@@ -505,6 +582,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2856" : {
       "info_box" : false,
@@ -514,6 +623,38 @@
       "verified" : false,
       "weight" : 100
     },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2923" : {
+      "info_box" : true,
+      "name" : "post-apocalyptic",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2968" : {
+      "info_box" : false,
+      "name" : "faceless alien invasion",
+      "parent_tag_id" : 4831,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4064" : {
       "info_box" : false,
       "name" : "CGI",
@@ -522,10 +663,50 @@
       "verified" : false,
       "weight" : 0
     },
+    "4257" : {
+      "info_box" : false,
+      "name" : "survival",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4831" : {
+      "info_box" : false,
+      "name" : "alien invasion",
+      "parent_tag_id" : 2202,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5835" : {
       "info_box" : false,
       "name" : "Gainax bounce",
       "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5889" : {
+      "info_box" : false,
+      "name" : "magic weapons",
+      "parent_tag_id" : 2094,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -540,6 +721,30 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6849" : {
+      "info_box" : false,
+      "name" : "organism cloning",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

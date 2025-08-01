@@ -101,20 +101,30 @@
       "type" : "DIRECTOR"
     } ]
   },
-  "description" : "Note: The first two episodes received an early screening at a special event on 1 June 2025 at United Cinemas Toyosu in Tokyo. The regular TV broadcast started on 1 July 2025.",
+  "description" : "http://anidb.net/ch145185 [Kurono Miko], also known as Necronomico, graduates from middle school and decides to pursue her dreams of becoming a streamer. One day, as she`s with her childhood friend, http://anidb.net/ch145184 [Mayusaka Mayu], and her rival, http://anidb.net/ch145183 [Kagurazaka Kanna], she accepts an offer to play a new VR game. The game gives Miko the opportunity to take on mysterious challenges with other unique streamers she meets within the VR world.\nSource: Crunchyroll\nNote: The first two episodes received an early screening at a special event on 1 June 2025 at United Cinemas Toyosu in Tokyo. The regular TV broadcast started on 1 July 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-01",
       "episode_id" : 297740,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.2,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMX0NG" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "\"Shoken\" Jashin Game Taikenban Yatte Mita \"Cthulu\""
       }, {
+        "language" : "FRENCH",
+        "title" : "Découverte – Je joue à la démo d`un jeu divinement maléfique (Cthulhu)"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "[No Spoilers!] Let`s Play the Old Ones` Demo [Cthulhu]"
       }, {
         "language" : "JAPANESE",
         "title" : "【初見】邪神ゲーム体験版やってみた【クトゥルフ】"
@@ -125,10 +135,26 @@
       "episode_id" : 297741,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 2.06,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUWQGZ3" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "\"Shoukido\" Jaku Liver de Atsumatte Mita \"Kyuu Shihaisha\""
+      }, {
+        "language" : "FRENCH",
+        "title" : "Taux de santé mentale – On s`est réunis entre faibles stramers (Grands Anciens)"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "[San Check] Small Streamers Collab! [Great Old Ones]"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "【正気度】弱ライバーで集まってみた【旧支配者】"
       } ],
       "type" : "REGULAR"
     }, {
@@ -138,8 +164,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "\"PvE\" Tanoshii Jashin Gakuen \"Shoggoth\""
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "【PvE】たのしい邪神学園【ショゴス】"
       } ],
       "type" : "REGULAR"
     }, {
@@ -153,16 +185,103 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-29",
+      "episode_id" : 298828,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-05",
+      "episode_id" : 298829,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-12",
+      "episode_id" : 298830,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-19",
+      "episode_id" : 298831,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-01",
+      "episode_id" : 298549,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-08",
+      "episode_id" : 298550,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.77,
+      "total" : 19
+    },
+    "TEMPORARY" : {
+      "rating" : 3.36,
+      "total" : 19
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "398450" ],
+    "ANISON" : [ "25975" ],
     "ANN" : [ "34154" ],
+    "CRUNCHY_ROLL" : [ "G0XHWM18P" ],
     "MAL" : [ "60505" ],
     "SYOBOI" : [ "7483" ],
     "TWITTER" : [ "Necronomico_PR" ],
     "WEBSITE" : [ "https://anime-necronomico.help/" ],
-    "WIKIPEDIA_EN" : [ "Necronomico_and_the_Cosmic_Horror_Show" ]
+    "WIKIPEDIA_EN" : [ "Necronomico_and_the_Cosmic_Horror_Show" ],
+    "WIKIPEDIA_JP" : [ "ネクロノミ子のコズミックホラーショウ" ],
+    "YOUTUBE" : [ "watch?v=6VgI1QcAE0Q", "watch?v=xmNorNQsp4A" ]
+  },
+  "similar" : {
+    "17146" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
   },
   "start_date" : "2025-07-01",
   "tags" : {

@@ -1,6 +1,35 @@
 {
   "anime_id" : 17700,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 149642,
+      "name" : "Aizawa-sensei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149637,
+      "name" : "Inoue Kenta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149638,
+      "name" : "Kimura Shunsuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149643,
+      "name" : "Kurokawa Chika",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149639,
+      "name" : "Mori Tomoko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149641,
+      "name" : "Tabata`s Father",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149640,
+      "name" : "Tabata`s Mother",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 146819,
       "name" : "Tabata Hana",
@@ -36,6 +65,13 @@
     "3779" : [ {
       "name" : "Ooshima Miwa",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Ooshima Miwa",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "27370" : [ {
+      "name" : "Sawairi Yuuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "27786" : [ {
       "name" : "Hayashi Yuuki",
@@ -64,6 +100,10 @@
       "episode_id" : 297879,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.93,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -81,10 +121,20 @@
       "episode_id" : 297880,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 2.93,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "How to Act as an Extra"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mob Joshi no Minofurikata"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "モブ女子の身の振り方"
       } ],
       "type" : "REGULAR"
     }, {
@@ -94,8 +144,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mojo to Takane no Hana"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Ugly Girl and Flower on a High Peak"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "喪女と高嶺の花"
       } ],
       "type" : "REGULAR"
     }, {
@@ -125,12 +181,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.91,
-      "total" : 2
+      "rating" : 4.05,
+      "total" : 8
     },
     "TEMPORARY" : {
       "rating" : 5.5,
-      "total" : 2
+      "total" : 8
     }
   },
   "resources" : {
@@ -144,6 +200,12 @@
     "WIKIPEDIA_EN" : [ "April_Showers_Bring_May_Flowers" ],
     "WIKIPEDIA_JP" : [ "ブスに花束を。" ],
     "YOUTUBE" : [ "watch?v=sUP7rjlcWkY" ]
+  },
+  "similar" : {
+    "6466" : {
+      "rating" : 5.0,
+      "total" : 4
+    }
   },
   "start_date" : "2025-07-04",
   "tags" : {
@@ -174,6 +236,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "ブスに花束を.",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "为丑女献上花束",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "為丑女獻上花束",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

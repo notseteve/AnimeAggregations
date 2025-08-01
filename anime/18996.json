@@ -2,11 +2,6 @@
   "anime_id" : 18996,
   "characters" : {
     "MAIN" : [ {
-      "character_id" : 144698,
-      "name" : "Yoshioka Shigeru",
-      "type" : "CHARACTER"
-    } ],
-    "SECONDARY" : [ {
       "character_id" : 147216,
       "name" : "Rizu",
       "type" : "CHARACTER"
@@ -17,6 +12,19 @@
     }, {
       "character_id" : 147217,
       "name" : "Seika",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144698,
+      "name" : "Yoshioka Shigeru",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 149674,
+      "name" : "Fukutsu no Yuusha Aldin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149675,
+      "name" : "Kyoushirou",
       "type" : "CHARACTER"
     } ]
   },
@@ -53,13 +61,23 @@
       "episode_id" : 297892,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.36,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMX5ZK" ]
+      },
       "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "An Epicgod Is Born"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Bakutan Gachi God"
       }, {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "language" : "FRENCH",
+        "title" : "La naissance d`un dieu vivant"
       }, {
         "language" : "JAPANESE",
         "title" : "爆誕ガチゴッド"
@@ -70,10 +88,26 @@
       "episode_id" : 297893,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.84,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUWQ407" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Exploration de donjon"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Exploring Epic Dungeon"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tansaku Gachi Dungeon"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "探索ガチダンジョン"
       } ],
       "type" : "REGULAR"
     }, {
@@ -100,14 +134,27 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.47,
+      "total" : 25
+    },
+    "TEMPORARY" : {
+      "rating" : 5.51,
+      "total" : 26
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "399863" ],
+    "ANISON" : [ "25982" ],
     "ANN" : [ "34043" ],
+    "CRUNCHY_ROLL" : [ "GNVHKN9VK" ],
     "MAL" : [ "60316" ],
     "SYOBOI" : [ "7504" ],
     "TWITTER" : [ "busamen_gachi_f" ],
     "WEBSITE" : [ "https://busamen-gachi-fighter.com/" ],
-    "WIKIPEDIA_EN" : [ "Uglymug,_Epicfighter" ]
+    "WIKIPEDIA_EN" : [ "Uglymug,_Epicfighter" ],
+    "WIKIPEDIA_JP" : [ "ブサメンガチファイター" ]
   },
   "start_date" : "2025-07-06",
   "tags" : {
@@ -132,12 +179,20 @@
     "title" : "Busamen Gachi Fighter",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Uglymug, Epicfighter",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ブサメンガチファイター",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Uglymug, Epicfighter",
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "肥宅勇者",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "醜男真戰士",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

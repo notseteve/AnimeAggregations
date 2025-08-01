@@ -7,8 +7,16 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 149522,
+      "name" : "Ikebukuro-san",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148199,
       "name" : "Inukai Shio",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148974,
+      "name" : "Kaminuma Kiyosuke",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148198,
@@ -23,6 +31,10 @@
       "name" : "Magi Kuriaki",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 149521,
+      "name" : "Nabeshima",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148200,
       "name" : "Nekozuku Kyouko",
       "type" : "CHARACTER"
@@ -33,10 +45,6 @@
     }, {
       "character_id" : 148202,
       "name" : "Nekozuku Toushirou",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 148974,
-      "name" : "Sukekiyo",
       "type" : "CHARACTER"
     } ]
   },
@@ -57,6 +65,10 @@
       "name" : "Ishiodori Hiroshi",
       "type" : "DIRECTOR"
     } ],
+    "11897" : [ {
+      "name" : "Shibuya Kazuhiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "38179" : [ {
       "name" : "Eguchi Natsumi",
       "type" : "ORIGINAL_WORK"
@@ -73,10 +85,26 @@
       "episode_id" : 297832,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.5,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U34P34" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "At a Certain Location in Tokyo"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Dans un coin de la capitale"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tonai Bousho nite"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "都内某所にて"
       } ],
       "type" : "REGULAR"
     }, {
@@ -84,10 +112,26 @@
       "episode_id" : 297833,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.26,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUW7EWQ" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Esprits = humains"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Spirit = Human"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yuurei = Ningen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "幽霊=人間"
       } ],
       "type" : "REGULAR"
     }, {
@@ -97,8 +141,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sorotta Jinzai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Gathered Crew"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "揃った人材"
       } ],
       "type" : "REGULAR"
     }, {
@@ -112,17 +162,86 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-03",
+      "episode_id" : 298780,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-10",
+      "episode_id" : 298781,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-17",
+      "episode_id" : 298782,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-24",
+      "episode_id" : 298783,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-06",
+      "episode_id" : 298511,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.64,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 4.8,
+      "total" : 16
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "397998" ],
+    "ANISON" : [ "25971" ],
     "ANN" : [ "34040" ],
+    "CRUNCHY_ROLL" : [ "GZJH3D8Z1" ],
     "MAL" : [ "60315" ],
     "SYOBOI" : [ "7473" ],
     "TWITTER" : [ "dekinnomogura" ],
     "WEBSITE" : [ "https://dekinnomogura.com/" ],
     "WIKIPEDIA_EN" : [ "Dekin_no_Mogura" ],
-    "WIKIPEDIA_JP" : [ "出禁のモグラ" ]
+    "WIKIPEDIA_JP" : [ "出禁のモグラ" ],
+    "YOUTUBE" : [ "watch?v=i0XigEENjpM" ]
   },
   "start_date" : "2025-07-06",
   "tags" : {
@@ -155,8 +274,16 @@
     "title" : "Dekin no Mogura: The Earthbound Mole",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "出入禁止的鼴鼠",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "出禁のモグラ",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "禁止出入的鼹鼠",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

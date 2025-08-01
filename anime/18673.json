@@ -1,6 +1,31 @@
 {
   "anime_id" : 18673,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 149607,
+      "name" : "Hashimoto Mii",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 80000,
+      "name" : "Hashimoto Nyaa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 79995,
+      "name" : "Hijirisawa Shounosuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149606,
+      "name" : "Murakami Kouji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 118287,
+      "name" : "Shake",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 118288,
+      "name" : "Ume",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 37181,
       "name" : "Choromatsu",
@@ -101,13 +126,23 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-06-06",
+      "description" : "The sextuplets are back again.\nSource: Crunchyroll",
       "episode_id" : 298196,
       "length" : 25,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U34P98" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "It`s Starting Again"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mata Hajimaru Zansu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "また始まるざんす"
       } ],
       "type" : "REGULAR"
     }, {
@@ -116,9 +151,18 @@
       "length" : 25,
       "number" : 2,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUW7EZG" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Suika Seijin"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Watermelon Alien"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "スイカ星人"
       } ],
       "type" : "REGULAR"
     }, {
@@ -128,8 +172,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Raiu to Kakugari"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Thunderstorms and Crew Cuts"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "雷雨と角刈り"
       } ],
       "type" : "REGULAR"
     }, {
@@ -143,20 +193,100 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-06",
+      "episode_id" : 298879,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-13",
+      "episode_id" : 298880,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-20",
+      "episode_id" : 298881,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-27",
+      "episode_id" : 298882,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-09",
+      "episode_id" : 298529,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-09",
+      "episode_id" : 298530,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.39,
+      "total" : 2
+    },
+    "TEMPORARY" : {
+      "rating" : 2.0,
+      "total" : 2
+    }
   },
   "related" : {
     "PREQUEL" : [ 15627 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "398814" ],
+    "ANISON" : [ "26019" ],
     "ANN" : [ "32792" ],
+    "CRUNCHY_ROLL" : [ "GYQ4Q3DP6" ],
     "MAL" : [ "58996" ],
     "SYOBOI" : [ "7489" ],
     "TWITTER" : [ "osomatsu_PR" ],
     "WEBSITE" : [ "https://osomatsusan.com/" ],
     "WIKIPEDIA_EN" : [ "Mr._Osomatsu" ],
-    "WIKIPEDIA_JP" : [ "おそ松さん" ]
+    "WIKIPEDIA_JP" : [ "おそ松さん" ],
+    "YOUTUBE" : [ "watch?v=Kd7GLhMtAXA", "watch?v=w_qoJn4-DUQ" ]
   },
   "start_date" : "2025-06-06",
   "tags" : {
@@ -181,6 +311,10 @@
     "title" : "Osomatsu-san (2025)",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Mr. Osomatsu 4th Season",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "おそ松さん (2025)",
     "type" : "OFFICIAL"
@@ -189,8 +323,8 @@
     "title" : "Osomatsu s4",
     "type" : "SHORT"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Mr. Osomatsu 4th Season",
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Osomatsu-san S4",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

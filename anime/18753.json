@@ -2,8 +2,44 @@
   "anime_id" : 18753,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 111737,
+      "name" : "Ichinose Chizuru",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 111735,
       "name" : "Ichinose Sayuri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 113227,
+      "name" : "Iwafune",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111752,
+      "name" : "Kawanaka Yuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 110294,
+      "name" : "Kibe Yoshiaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 110293,
+      "name" : "Kinoshita Nagomi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149793,
+      "name" : "Marie",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 113210,
+      "name" : "Nakano Umi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149556,
+      "name" : "Nanguu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149792,
+      "name" : "Nozomi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 111759,
@@ -16,6 +52,10 @@
     }, {
       "character_id" : 113229,
       "name" : "Ushiide Hiroshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149791,
+      "name" : "Yuudai",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -54,9 +94,17 @@
       "name" : "TMS Entertainment",
       "type" : "ANIMATION_WORK"
     } ],
+    "2478" : [ {
+      "name" : "Washida Toshiya",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "7370" : [ {
       "name" : "Hirota Mitsutaka",
       "type" : "SERIES_COMPOSITION"
+    } ],
+    "11483" : [ {
+      "name" : "Ono Hiromi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "15951" : [ {
       "name" : "Koga Kazuomi",
@@ -69,10 +117,21 @@
     "49858" : [ {
       "name" : "Hirayama Kanna",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Hirayama Kanna",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "53949" : [ {
+      "name" : "Kikuchi Hanako",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "59435" : [ {
       "name" : "Miyajima Reiji",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "72499" : [ {
+      "name" : "Kikuchi Shouno",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "episodes" : {
@@ -82,8 +141,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.35,
-        "total" : 1
+        "rating" : 2.25,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -105,7 +164,14 @@
       "episode_id" : 298071,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.62,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU92PNE" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Sigh and Girlfriend"
@@ -122,10 +188,23 @@
       "episode_id" : 298072,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.65,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U347M3" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Daikanyama and Girlfriend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Daikanyama to Kanojo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "代官山と彼女"
       } ],
       "type" : "REGULAR"
     }, {
@@ -133,22 +212,101 @@
       "episode_id" : 298073,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 2.35,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUW7X0D" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Decision and Girlfriend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ketsui to Kanojo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "決意と彼女"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-07-29",
+      "episode_id" : 298523,
+      "length" : 25,
+      "number" : 5,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Promised Time and Girlfriend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sono Toki to Kanojo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "その時と彼女"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-05",
+      "episode_id" : 298524,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-12",
+      "episode_id" : 298525,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-19",
+      "episode_id" : 298526,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-08",
+      "episode_id" : 298516,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 1.79,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.36,
-      "total" : 10
+      "rating" : 3.73,
+      "total" : 20
     },
     "TEMPORARY" : {
-      "rating" : 6.75,
-      "total" : 10
+      "rating" : 5.27,
+      "total" : 20
     }
   },
   "related" : {
@@ -163,7 +321,8 @@
     "SYOBOI" : [ "7463" ],
     "WEBSITE" : [ "https://kanokari-official.com" ],
     "WIKIPEDIA_EN" : [ "Rent-A-Girlfriend" ],
-    "WIKIPEDIA_JP" : [ "彼女、お借りします" ]
+    "WIKIPEDIA_JP" : [ "彼女、お借りします" ],
+    "YOUTUBE" : [ "watch?v=VOdmjxK8QGQ" ]
   },
   "start_date" : "2025-07-01",
   "tags" : {
@@ -251,6 +410,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "彼女, お借りします (2025)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "租借女友 第四季",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

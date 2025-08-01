@@ -480,7 +480,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.98,
-      "total" : 2714
+      "total" : 2719
     },
     "REVIEW" : {
       "rating" : 5.16,
@@ -488,7 +488,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.51,
-      "total" : 2728
+      "total" : 2734
     }
   },
   "related" : {
@@ -560,6 +560,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2605" : {
       "info_box" : false,
@@ -658,6 +665,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2672" : {
       "info_box" : false,
       "name" : "Japan",
@@ -673,6 +688,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2778" : {
+      "info_box" : false,
+      "name" : "slow when it comes to love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2785" : {
       "info_box" : false,
@@ -853,6 +892,14 @@
       "info_box" : false,
       "name" : "diet",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5930" : {
+      "info_box" : false,
+      "name" : "unrequited shounen ai",
+      "parent_tag_id" : 2785,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

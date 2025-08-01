@@ -1,6 +1,23 @@
 {
   "anime_id" : 18531,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 149840,
+      "name" : "Kai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149842,
+      "name" : "Matsuda",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149841,
+      "name" : "Tonio",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149969,
+      "name" : "Yamagishi",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 120859,
       "name" : "Nanakusa Nazuna",
@@ -39,6 +56,10 @@
       "name" : "Kohakobe Midori",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 149468,
+      "name" : "LoveGreen",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148677,
       "name" : "Nanakusa Haru",
       "type" : "CHARACTER"
@@ -65,9 +86,16 @@
       "name" : "Itamura Tomoyuki",
       "type" : "DIRECTOR"
     } ],
+    "12263" : [ {
+      "name" : "Matsuoka Kenji",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "32390" : [ {
       "name" : "Sagawa Haruka",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Sagawa Haruka",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "35233" : [ {
       "name" : "Liden Films",
@@ -76,6 +104,18 @@
     "43813" : [ {
       "name" : "Kotoyama",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "56332" : [ {
+      "name" : "Nishio Junnosuke",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "67937" : [ {
+      "name" : "\"Yofukashi no Uta\" Seisaku Iinkai",
+      "type" : "WORK"
+    } ],
+    "82372" : [ {
+      "name" : "Harada Asuka",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "http://anidb.net/ch120860 [Kou] overcomes his confusion about becoming a vampire and decides to \"like\" http://anidb.net/ch120859 [Nazuna], while Nazuna resolves to make Kou \"fall in love\" with her. Without understanding what \"love\" even is, the two of them spend their nights together in a frenzy. Meanwhile, Detective http://anidb.net/ch125855 [Uguisu Anko] is closing in with her plot to kill vampires, not just Nazuna. A vampire`s weakness is \"anything they were attached to when they were human\" and so they all try to get rid of this weakness before it`s too late. But, Nazuna has no memory of her human life. What is Nazuna`s hidden past? Why did Anko start killing vampires? And what is the \"secret\" that Nazuna and Anko share? For Kou, Nazuna, Anko, a fun \"late night\" doesn`t end here... a new \"night\" begins!\nSource: HIDIVE\nNote: The first three episodes received an early screening at a special event on 14 June 2025 at United Cinemas Toyosu in Tokyo. The regular TV broadcast started on 4 July 2025.",
@@ -85,13 +125,17 @@
       "episode_id" : 297883,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.26,
+        "total" : 6
+      },
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Sore wa Bokura no Jikan ja Nai"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "That Time`s Not for Us."
       }, {
         "language" : "JAPANESE",
         "title" : "それは僕らの時間じゃない"
@@ -102,10 +146,20 @@
       "episode_id" : 297884,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.32,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Aitakatta yo"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "I`ve Been Looking for You."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "会いたかったよ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -113,10 +167,20 @@
       "episode_id" : 297885,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 9.84,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Obakeyashiki ni wa Obake Inai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "There Aren`t Any Ghosts in a Haunter House."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "おばけ屋敷にはおばけいない"
       } ],
       "type" : "REGULAR"
     }, {
@@ -128,8 +192,81 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hashireru You ni Naritai kai?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "走れるようになりたいかい?"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-01",
+      "episode_id" : 299097,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-08",
+      "episode_id" : 299098,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-15",
+      "episode_id" : 299099,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-22",
+      "episode_id" : 299100,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-04",
+      "episode_id" : 298393,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-04",
+      "episode_id" : 298394,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2024-03-11",
@@ -150,11 +287,22 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.95,
+      "total" : 31
+    },
+    "TEMPORARY" : {
+      "rating" : 7.2,
+      "total" : 31
+    }
+  },
   "related" : {
     "PREQUEL" : [ 16971 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "399668" ],
+    "ANISON" : [ "24424" ],
     "ANN" : [ "32406" ],
     "MAL" : [ "58390" ],
     "SYOBOI" : [ "7472" ],
@@ -162,7 +310,7 @@
     "WEBSITE" : [ "https://yofukashi-no-uta.com/" ],
     "WIKIPEDIA_EN" : [ "Call_of_the_Night" ],
     "WIKIPEDIA_JP" : [ "よふかしのうた_(漫画)" ],
-    "YOUTUBE" : [ "watch?v=8Sx5ZgCNTps" ]
+    "YOUTUBE" : [ "watch?v=8Sx5ZgCNTps", "watch?v=K5T_aKoN31Q", "watch?v=l5S0JhqULAU" ]
   },
   "start_date" : "2025-07-04",
   "tags" : {
@@ -217,6 +365,14 @@
     "language" : "JAPANESE",
     "title" : "よふかしのうた Season2",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "徹夜之歌 Season 2",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Yofukashi no Uta S2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://yofukashi-no-uta.com/"

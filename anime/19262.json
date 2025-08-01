@@ -1,6 +1,43 @@
 {
   "anime_id" : 19262,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 145809,
+      "name" : "Black Canyon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135947,
+      "name" : "Fairy",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145808,
+      "name" : "Kako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145807,
+      "name" : "Mirai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 106806,
+      "name" : "Mokke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143859,
+      "name" : "Satou Yomogi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146470,
+      "name" : "Shijima Mei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135819,
+      "name" : "Yamabuki Lemon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143860,
+      "name" : "Yokoo Shun",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 106779,
       "name" : "Hanako-kun",
@@ -12,6 +49,39 @@
     }, {
       "character_id" : 106777,
       "name" : "Yashiro Nene",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 107609,
+      "name" : "Akane Aoi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135740,
+      "name" : "Aoi Akane",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147689,
+      "name" : "Hakubo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 107608,
+      "name" : "Minamoto Teru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135946,
+      "name" : "Minamoto Tiara",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135738,
+      "name" : "Mitsuba",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 108365,
+      "name" : "Tsuchigomori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135739,
+      "name" : "Yako",
       "type" : "CHARACTER"
     } ]
   },
@@ -28,10 +98,17 @@
       "episode_id" : 298182,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.44,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMN352" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Final Exams and a School Sleepover"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kimatsu Shiken to Shukuhaku Gakushuu"
@@ -45,10 +122,23 @@
       "episode_id" : 298183,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UDMJG3" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shigan to Higan"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Near Shore and the Far Shore"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "此岸と彼岸"
       } ],
       "type" : "REGULAR"
     }, {
@@ -58,8 +148,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shinigami no Ikenie"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Reaper`s Sacrifice"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "死神の生贄"
       } ],
       "type" : "REGULAR"
     }, {
@@ -73,19 +169,99 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-03",
+      "episode_id" : 298677,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-10",
+      "episode_id" : 298678,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-17",
+      "episode_id" : 298679,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-24",
+      "episode_id" : 298680,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-06",
+      "episode_id" : 298451,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-06",
+      "episode_id" : 298452,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.43,
+      "total" : 3
+    },
+    "TEMPORARY" : {
+      "rating" : 4.33,
+      "total" : 3
+    }
   },
   "related" : {
     "PREQUEL" : [ 17791 ]
   },
   "resources" : {
+    "ANISON" : [ "22451" ],
     "ANN" : [ "35444" ],
+    "CRUNCHY_ROLL" : [ "G24H1N3ZP" ],
     "MAL" : [ "61339" ],
     "SYOBOI" : [ "7500" ],
     "TWITTER" : [ "hanakokun_info" ],
     "WEBSITE" : [ "https://hanakokun.com/2nd" ],
     "WIKIPEDIA_EN" : [ "Toilet-Bound_Hanako-kun" ],
-    "WIKIPEDIA_JP" : [ "地縛少年花子くん" ]
+    "WIKIPEDIA_JP" : [ "地縛少年花子くん" ],
+    "YOUTUBE" : [ "watch?v=5cevONCM6p4", "watch?v=zIPdM4fGk70" ]
   },
   "start_date" : "2025-07-06",
   "tags" : {

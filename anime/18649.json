@@ -1,6 +1,47 @@
 {
   "anime_id" : 18649,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 149651,
+      "name" : "Harasen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149723,
+      "name" : "Indou Hikaru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149652,
+      "name" : "Indou Kouhei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149654,
+      "name" : "Matsushima",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149649,
+      "name" : "Matsuura-san",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149655,
+      "name" : "Mikasa Tetsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149653,
+      "name" : "Takeda Hajime",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149656,
+      "name" : "Tsujinaka Kaoru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149657,
+      "name" : "Tsujinaka Satoko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149650,
+      "name" : "Tsujinaka Toshinori",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 144841,
       "name" : "Hikaru",
@@ -20,7 +61,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 148947,
-      "name" : "Tadokoro Yuki",
+      "name" : "Tadokoro Yuuki",
       "type" : "CHARACTER"
     }, {
       "character_id" : 147550,
@@ -60,17 +101,27 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "Two best friends living in a rural Japanese village: http://anidb.net/ch144842 [Yoshiki] and http://anidb.net/ch144841 [Hikaru]. Growing up together, they were inseparable... until the day Hikaru came back from the mountains, and was no longer himself. \"Something\" has taken over Hikaru`s body, memories, feelings... and everything they know begins to unravel.\nSource: Netflix",
+  "description" : "Two best friends living in a rural Japanese village: http://anidb.net/ch144842 [Yoshiki] and http://anidb.net/ch144841 [Hikaru]. Growing up together, they were inseparable... until the day Hikaru came back from the mountains, and was no longer himself. \"Something\" has taken over Hikaru`s body, memories, feelings... and everything they know begins to unravel.\nSource: Netflix\nNote: The first episode received an early screening at a special event on 29 June 2025 at TOHO Cinemas Shinjuku in Tokyo. The regular TV broadcast started on 6 July 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-06",
       "episode_id" : 298154,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.94,
+        "total" : 8
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Daitaihin"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Replacement"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "代替品"
       } ],
       "type" : "REGULAR"
     }, {
@@ -78,10 +129,20 @@
       "episode_id" : 298155,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.13,
+        "total" : 7
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Giwaku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Suspicion"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "疑惑"
       } ],
       "type" : "REGULAR"
     }, {
@@ -124,10 +185,44 @@
         "title" : "放送直前! スペシャル生放送"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-13",
+      "episode_id" : 298741,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-13",
+      "episode_id" : 298742,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.57,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 6.76,
+      "total" : 17
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "398171" ],
+    "ANISON" : [ "25978" ],
     "ANN" : [ "32758" ],
     "MAL" : [ "58913" ],
     "NETFLIX" : [ "81948057" ],
@@ -135,13 +230,296 @@
     "TWITTER" : [ "hikanatsu_anime" ],
     "WEBSITE" : [ "https://hikanatsu-anime.com/" ],
     "WIKIPEDIA_EN" : [ "The_Summer_Hikaru_Died" ],
-    "WIKIPEDIA_JP" : [ "光が死んだ夏" ]
+    "WIKIPEDIA_JP" : [ "光が死んだ夏" ],
+    "YOUTUBE" : [ "watch?v=UP7la6a1H1g", "watch?v=_dq21OHPJTk" ]
   },
-  "start_date" : "2025-07-05",
+  "start_date" : "2025-07-06",
   "tags" : {
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2043" : {
+      "info_box" : true,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2634" : {
+      "info_box" : false,
+      "name" : "countryside",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2648" : {
+      "info_box" : false,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2851" : {
+      "info_box" : true,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2852" : {
+      "info_box" : true,
+      "name" : "thriller",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2887" : {
+      "info_box" : true,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3663" : {
+      "info_box" : false,
+      "name" : "body takeover",
+      "parent_tag_id" : 6347,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4048" : {
+      "info_box" : false,
+      "name" : "Japanese mythology",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "5773" : {
+      "info_box" : false,
+      "name" : "secret organisation",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6068" : {
+      "info_box" : false,
+      "name" : "human sacrifice",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6070" : {
+      "info_box" : false,
+      "name" : "mystery",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6347" : {
+      "info_box" : false,
+      "name" : "body and host",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

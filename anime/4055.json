@@ -27,16 +27,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.59,
-      "total" : 170
+      "rating" : 3.6,
+      "total" : 171
     },
     "REVIEW" : {
       "rating" : 5.5,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 4.9,
-      "total" : 172
+      "rating" : 4.91,
+      "total" : 173
     }
   },
   "related" : {
@@ -75,6 +75,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "1955" : {
+      "info_box" : false,
+      "name" : "child soldier",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "1996" : {
       "info_box" : true,
@@ -212,6 +220,22 @@
       "info_box" : false,
       "name" : "crime",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

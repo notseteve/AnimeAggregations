@@ -57,10 +57,23 @@
       "episode_id" : 297855,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.97,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU3DZG0" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hitori Yaei nite Omofu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Pondering While Solo Camping"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "独り野営にて思ふ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -71,7 +84,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Enjoy Going Solo"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Solo o Tanoshime"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "孤独[ソロ]を楽しめ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -98,16 +117,35 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.6,
+      "total" : 10
+    },
+    "TEMPORARY" : {
+      "rating" : 5.65,
+      "total" : 10
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "398784" ],
     "ANISON" : [ "25984" ],
     "ANN" : [ "34251" ],
+    "CRUNCHY_ROLL" : [ "G3KHEVDZ8" ],
+    "IMDB" : [ "tt36271866" ],
     "MAL" : [ "60665" ],
     "SYOBOI" : [ "7474" ],
+    "TMDB" : [ "tv/281044" ],
     "TWITTER" : [ "2solocamp_anime" ],
     "WEBSITE" : [ "https://2solocamp-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Solo_Camping_for_Two" ],
     "WIKIPEDIA_JP" : [ "ふたりソロキャンプ" ]
+  },
+  "similar" : {
+    "12743" : {
+      "rating" : 10.0,
+      "total" : 2
+    }
   },
   "start_date" : "2025-07-11",
   "tags" : {
@@ -142,6 +180,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "ふたりソロキャンプ",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "双人单身露营",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "雙人單身露營",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

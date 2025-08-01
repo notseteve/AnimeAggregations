@@ -2,6 +2,10 @@
   "anime_id" : 19038,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 149610,
+      "name" : "Azuma Jun`ya",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149376,
       "name" : "Chappy",
       "type" : "CHARACTER"
@@ -66,8 +70,8 @@
       "length" : 40,
       "number" : 1,
       "rating" : {
-        "rating" : 6.71,
-        "total" : 4
+        "rating" : 7.65,
+        "total" : 10
       },
       "recap" : false,
       "resources" : {
@@ -90,8 +94,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.44,
-        "total" : 2
+        "rating" : 7.05,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -111,16 +115,25 @@
     }, {
       "air_date" : "2025-07-12",
       "episode_id" : 297732,
-      "length" : 25,
+      "length" : 30,
       "number" : 3,
       "rating" : {
-        "rating" : 8.93,
-        "total" : 1
+        "rating" : 6.14,
+        "total" : 8
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU92DK3" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Takopi`s Confession"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Takopii no Kokkai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "タコピーの告解"
       } ],
       "type" : "REGULAR"
     }, {
@@ -129,13 +142,22 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.93,
-        "total" : 1
+        "rating" : 5.85,
+        "total" : 4
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U34KVZ" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Azuma-kun no Kyuusai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Azuma-kun`s Salvation"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "東くんの救済"
       } ],
       "type" : "REGULAR"
     }, {
@@ -144,8 +166,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.87,
-        "total" : 1
+        "rating" : 2.78,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -159,8 +181,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.93,
-        "total" : 1
+        "rating" : 3.25,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -195,12 +217,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.06,
-      "total" : 23
+      "rating" : 8.4,
+      "total" : 47
     },
     "TEMPORARY" : {
-      "rating" : 7.59,
-      "total" : 23
+      "rating" : 7.95,
+      "total" : 48
     }
   },
   "resources" : {
@@ -217,20 +239,269 @@
     "YOUTUBE" : [ "watch?v=ciFvLHCThdg" ]
   },
   "similar" : {
+    "58" : {
+      "rating" : 6.666666666666666,
+      "total" : 3
+    },
+    "782" : {
+      "rating" : 8.333333333333334,
+      "total" : 6
+    },
     "11292" : {
-      "rating" : 10.0,
-      "total" : 4
+      "rating" : 8.88888888888889,
+      "total" : 9
     },
     "16033" : {
-      "rating" : 10.0,
-      "total" : 1
+      "rating" : 2.0,
+      "total" : 5
     }
   },
   "start_date" : "2025-06-28",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1063" : {
+      "info_box" : true,
+      "name" : "elementary school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2090" : {
+      "info_box" : false,
+      "name" : "trauma",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2202" : {
+      "info_box" : true,
+      "name" : "alien",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2637" : {
+      "info_box" : false,
+      "name" : "time travel",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2678" : {
+      "info_box" : false,
+      "name" : "Hokkaido",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2844" : {
+      "info_box" : true,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2852" : {
+      "info_box" : true,
+      "name" : "thriller",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2877" : {
+      "info_box" : false,
+      "name" : "revenge",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2887" : {
+      "info_box" : true,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2952" : {
+      "info_box" : false,
+      "name" : "rotten world",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3276" : {
+      "info_box" : false,
+      "name" : "plot twists",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3395" : {
+      "info_box" : false,
+      "name" : "promise",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3546" : {
+      "info_box" : false,
+      "name" : "experimental animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3606" : {
+      "info_box" : false,
+      "name" : "family without father",
+      "parent_tag_id" : 6249,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -251,10 +522,89 @@
       "verified" : false,
       "weight" : 0
     },
+    "4340" : {
+      "info_box" : false,
+      "name" : "suicide",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4455" : {
       "info_box" : false,
       "name" : "dysfunctional family",
       "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4516" : {
+      "info_box" : false,
+      "name" : "animal abuse",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4663" : {
+      "info_box" : false,
+      "name" : "tone changes",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "5384" : {
+      "info_box" : false,
+      "name" : "put right what once went wrong",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5626" : {
+      "info_box" : false,
+      "name" : "adults are useless",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5789" : {
+      "info_box" : false,
+      "name" : "back to square one",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -266,10 +616,50 @@
       "verified" : false,
       "weight" : 0
     },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6249" : {
       "info_box" : false,
       "name" : "family life",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

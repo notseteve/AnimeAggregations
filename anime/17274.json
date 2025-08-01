@@ -125,7 +125,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.82,
+        "rating" : 6.81,
         "total" : 3
       },
       "recap" : false,
@@ -213,7 +213,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.91,
+        "rating" : 7.88,
         "total" : 3
       },
       "recap" : false,
@@ -235,7 +235,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 9.7,
+        "rating" : 9.69,
         "total" : 3
       },
       "recap" : false,
@@ -257,7 +257,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.83,
+        "rating" : 8.82,
         "total" : 3
       },
       "recap" : false,
@@ -279,7 +279,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 9.44,
+        "rating" : 9.45,
         "total" : 3
       },
       "recap" : false,
@@ -366,7 +366,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 6.82,
+        "rating" : 6.81,
         "total" : 3
       },
       "recap" : false,
@@ -387,7 +387,7 @@
       "length" : 25,
       "number" : 14,
       "rating" : {
-        "rating" : 7.71,
+        "rating" : 7.69,
         "total" : 3
       },
       "recap" : false,
@@ -408,7 +408,7 @@
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 8.09,
+        "rating" : 8.07,
         "total" : 3
       },
       "recap" : false,
@@ -471,7 +471,7 @@
       "length" : 25,
       "number" : 18,
       "rating" : {
-        "rating" : 9.68,
+        "rating" : 9.69,
         "total" : 3
       },
       "recap" : false,
@@ -492,7 +492,7 @@
       "length" : 25,
       "number" : 19,
       "rating" : {
-        "rating" : 5.9,
+        "rating" : 5.88,
         "total" : 3
       },
       "recap" : false,
@@ -513,7 +513,7 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 5.9,
+        "rating" : 5.88,
         "total" : 3
       },
       "recap" : false,
@@ -597,7 +597,7 @@
       "length" : 25,
       "number" : 24,
       "rating" : {
-        "rating" : 8.83,
+        "rating" : 8.82,
         "total" : 3
       },
       "recap" : false,
@@ -660,7 +660,7 @@
       "length" : 25,
       "number" : 27,
       "rating" : {
-        "rating" : 9.7,
+        "rating" : 9.69,
         "total" : 3
       },
       "recap" : false,
@@ -681,7 +681,7 @@
       "length" : 25,
       "number" : 28,
       "rating" : {
-        "rating" : 8.28,
+        "rating" : 8.25,
         "total" : 3
       },
       "recap" : false,
@@ -703,7 +703,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 6.99,
+        "rating" : 6.97,
         "total" : 2
       },
       "recap" : false,
@@ -753,12 +753,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.88,
-      "total" : 113
+      "rating" : 5.96,
+      "total" : 119
     },
     "TEMPORARY" : {
-      "rating" : 7.02,
-      "total" : 116
+      "rating" : 7.01,
+      "total" : 122
     }
   },
   "related" : {
@@ -778,12 +778,65 @@
   },
   "start_date" : "2023-09-21",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2751" : {
+      "info_box" : false,
+      "name" : "combat",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2881" : {
       "info_box" : false,
@@ -793,9 +846,25 @@
       "verified" : false,
       "weight" : 200
     },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

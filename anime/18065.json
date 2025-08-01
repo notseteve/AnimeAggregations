@@ -85,18 +85,30 @@
       "type" : "DIRECTOR"
     } ]
   },
+  "description" : "Note: The first episode received an early screening at a special event on 13 July 2025 at Hitotsubashi Hall in Tokyo. The regular TV broadcast started on 17 July 2025.",
   "episodes" : {
     "REGULAR" : [ {
+      "air_date" : "2025-07-17",
       "episode_id" : 298076,
       "length" : 25,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Keion Debut!?"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Musikclub, hier komme ich?!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Pop Music Debut?!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "軽音デビュー!?"
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2025-07-24",
       "episode_id" : 298077,
       "length" : 25,
       "number" : 2,
@@ -107,6 +119,7 @@
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2025-07-31",
       "episode_id" : 298078,
       "length" : 25,
       "number" : 3,
@@ -117,6 +130,7 @@
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2025-08-07",
       "episode_id" : 298079,
       "length" : 25,
       "number" : 4,
@@ -128,16 +142,29 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.98,
+      "total" : 4
+    },
+    "TEMPORARY" : {
+      "rating" : 4.75,
+      "total" : 4
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "395287" ],
     "ANN" : [ "28644" ],
+    "IMDB" : [ "tt36592773" ],
     "MAL" : [ "55689" ],
+    "SYOBOI" : [ "7540" ],
+    "TMDB" : [ "tv/260848" ],
     "TWITTER" : [ "utamille" ],
     "WEBSITE" : [ "https://utamille.com/anime/" ],
     "WIKIPEDIA_EN" : [ "Utagoe_wa_Mille-Feuille" ],
     "WIKIPEDIA_JP" : [ "うたごえはミルフィーユ" ]
   },
-  "start_date" : "2025-07",
+  "start_date" : "2025-07-17",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -159,6 +186,14 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Utagoe wa Mille-Feuille",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Harmony of Mille-Feuille",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Harmony of Mille-Feuille",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "うたごえはミルフィーユ",

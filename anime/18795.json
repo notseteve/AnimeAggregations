@@ -1,6 +1,11 @@
 {
   "anime_id" : 18795,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 149476,
+      "name" : "Agatha",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 142523,
       "name" : "Monica Everett",
@@ -13,6 +18,10 @@
     }, {
       "character_id" : 148597,
       "name" : "Casey Grove",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149474,
+      "name" : "Claudia Ashley",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148592,
@@ -44,6 +53,10 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 145596,
+      "name" : "Nero",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149475,
       "name" : "Nero",
       "type" : "CHARACTER"
     }, {
@@ -92,13 +105,20 @@
       "episode_id" : 297776,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.49,
+        "total" : 8
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU73GKM" ]
+      },
       "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Colleague Arrives and Acts Unreasonably"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Douki ga Kitarite Mucha o Iu"
-      }, {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
       }, {
         "language" : "JAPANESE",
         "title" : "同期が来たりて無茶を言う"
@@ -109,10 +129,23 @@
       "episode_id" : 297777,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.61,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UXV0EV" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ippo o Fumidasu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Taking a Step Forward"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "一歩を踏み出す"
       } ],
       "type" : "REGULAR"
     }, {
@@ -124,6 +157,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Serendia Gakuen Seitokai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "セレンディア学園生徒会"
       } ],
       "type" : "REGULAR"
     }, {
@@ -155,25 +194,297 @@
         "title" : "放送直前特番"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-05",
+      "episode_id" : 298397,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-05-12",
+      "episode_id" : 298663,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.27,
+      "total" : 47
+    },
+    "TEMPORARY" : {
+      "rating" : 7.32,
+      "total" : 47
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "398787" ],
+    "ANISON" : [ "25964" ],
     "ANN" : [ "33080" ],
+    "CRUNCHY_ROLL" : [ "G9VHN9Q3G" ],
     "IMDB" : [ "tt33317800" ],
     "MAL" : [ "59459" ],
     "SYOBOI" : [ "7457" ],
+    "TMDB" : [ "tv/281058" ],
     "TWITTER" : [ "SilentWitch_pr" ],
     "WEBSITE" : [ "https://silentwitch.net/" ],
     "WIKIPEDIA_EN" : [ "Secrets_of_the_Silent_Witch" ],
     "WIKIPEDIA_JP" : [ "サイレント・ウィッチ" ],
-    "YOUTUBE" : [ "watch?v=CsfrUcyx1co" ]
+    "YOUTUBE" : [ "watch?v=8dky0A7Gx1c", "watch?v=CsfrUcyx1co", "watch?v=ZssInPdN6o8" ]
   },
   "start_date" : "2025-07-05",
   "tags" : {
+    "2094" : {
+      "info_box" : true,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2355" : {
+      "info_box" : false,
+      "name" : "dragon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2774" : {
+      "info_box" : false,
+      "name" : "spellcasting",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3150" : {
+      "info_box" : false,
+      "name" : "social class issues",
+      "parent_tag_id" : 4522,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3368" : {
+      "info_box" : false,
+      "name" : "covert operations",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3805" : {
+      "info_box" : false,
+      "name" : "European stylised",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4178" : {
+      "info_box" : false,
+      "name" : "manipulated memories",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4397" : {
+      "info_box" : false,
+      "name" : "court politics",
+      "parent_tag_id" : 2867,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4522" : {
+      "info_box" : false,
+      "name" : "social commentary",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5093" : {
+      "info_box" : false,
+      "name" : "royal intrigue",
+      "parent_tag_id" : 2867,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5420" : {
+      "info_box" : false,
+      "name" : "wealth-related humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5543" : {
+      "info_box" : false,
+      "name" : "magic school",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -194,6 +505,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Secrets of the Silent Witch",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "Silent Witch 沉默魔女的秘密",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

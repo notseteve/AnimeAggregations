@@ -1,5 +1,122 @@
 {
   "anime_id" : 19248,
+  "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 105726,
+      "name" : "Ishigami Byakuya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149600,
+      "name" : "Stanley (Youshouki)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149601,
+      "name" : "Xeno (Youshouki)",
+      "type" : "CHARACTER"
+    } ],
+    "MAIN" : [ {
+      "character_id" : 103217,
+      "name" : "Asagiri Gen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103219,
+      "name" : "Chrome",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 99322,
+      "name" : "Ishigami Senkuu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103220,
+      "name" : "Kohaku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 121249,
+      "name" : "Nanami Ryuusui",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 99858,
+      "name" : "Ooki Taiju",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 106834,
+      "name" : "Akatsuki Hyouga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146518,
+      "name" : "Carlos Barrios",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147433,
+      "name" : "Charlotte Bony",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144609,
+      "name" : "Dr. Xeno",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103224,
+      "name" : "Ginrou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111114,
+      "name" : "Hanada Niki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 109231,
+      "name" : "Hokutozai Minami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103218,
+      "name" : "Kaseki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103223,
+      "name" : "Kinrou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146516,
+      "name" : "Luna Wright",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135846,
+      "name" : "Matsukaze",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146517,
+      "name" : "Max Adams",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146400,
+      "name" : "Maya Biggs",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 106836,
+      "name" : "Momiji Homura",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 99859,
+      "name" : "Ogawa Yuzuriha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111112,
+      "name" : "Saionji Ukyou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 99860,
+      "name" : "Shishiou Tsukasa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144610,
+      "name" : "Stanley Snyder",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103221,
+      "name" : "Suika",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "917" : [ {
       "name" : "TMS Entertainment",
@@ -45,13 +162,23 @@
       "episode_id" : 294571,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.0,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UDM8MQ" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Gazing at the Same Moon"
+        "language" : "FRENCH",
+        "title" : "Les yeux levés vers la même lune"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Onaji Tsuki o Mite"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Watching the Same Moon"
       }, {
         "language" : "JAPANESE",
         "title" : "同じ月を見て"
@@ -64,8 +191,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "EARTH RACE"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Earth Race"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Earth Race"
       } ],
       "type" : "REGULAR"
     }, {
@@ -90,7 +223,40 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-10",
+      "episode_id" : 298819,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-10",
+      "episode_id" : 298820,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.56,
+      "total" : 13
+    },
+    "TEMPORARY" : {
+      "rating" : 6.57,
+      "total" : 14
+    }
   },
   "related" : {
     "PREQUEL" : [ 18336 ]
@@ -98,12 +264,14 @@
   "resources" : {
     "ANISON" : [ "22098" ],
     "ANN" : [ "35383" ],
+    "CRUNCHY_ROLL" : [ "GYEXQKJG6" ],
     "MAL" : [ "61322" ],
     "SYOBOI" : [ "7494" ],
     "TWITTER" : [ "STONE_anime_off" ],
     "WEBSITE" : [ "https://dr-stone.jp/" ],
     "WIKIPEDIA_EN" : [ "Dr._Stone" ],
-    "WIKIPEDIA_JP" : [ "Dr.STONE" ]
+    "WIKIPEDIA_JP" : [ "Dr.STONE" ],
+    "YOUTUBE" : [ "watch?v=HNYp4T0kMNU", "watch?v=slJjDE64mFY" ]
   },
   "start_date" : "2025-07-10",
   "tags" : {

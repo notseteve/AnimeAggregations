@@ -1,6 +1,23 @@
 {
   "anime_id" : 18867,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 149492,
+      "name" : "Sudou Kaito",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149491,
+      "name" : "Takahashi Tomonari",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149493,
+      "name" : "Tsukada Shin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149494,
+      "name" : "Tsumugi Kyouko",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 147570,
       "name" : "Tsumugi Rintarou",
@@ -60,10 +77,23 @@
       "episode_id" : 297888,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.69,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Rintaro and Kaoruko"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Rintarou to Kaoruko"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Rintarō et Kaoruko"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "凛太郎と薫子"
       } ],
       "type" : "REGULAR"
     }, {
@@ -71,10 +101,20 @@
       "episode_id" : 297889,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.33,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Chidori and Kikyo"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chidori to Kikyou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "千鳥と桔梗"
       } ],
       "type" : "REGULAR"
     }, {
@@ -99,10 +139,44 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-05",
+      "episode_id" : 298438,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-05",
+      "episode_id" : 298439,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.63,
+      "total" : 17
+    },
+    "TEMPORARY" : {
+      "rating" : 7.67,
+      "total" : 20
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "397000" ],
+    "ANISON" : [ "25957" ],
     "ANN" : [ "33549" ],
     "MAL" : [ "59845" ],
     "NETFLIX" : [ "82024665" ],
@@ -110,7 +184,8 @@
     "TWITTER" : [ "kaoruhana_anime" ],
     "WEBSITE" : [ "https://kaoruhana-anime.com/" ],
     "WIKIPEDIA_EN" : [ "The_Fragrant_Flower_Blooms_with_Dignity" ],
-    "WIKIPEDIA_JP" : [ "薫る花は凛と咲く" ]
+    "WIKIPEDIA_JP" : [ "薫る花は凛と咲く" ],
+    "YOUTUBE" : [ "watch?v=8WLNNu78mUk", "watch?v=W4fND8qaTtE" ]
   },
   "start_date" : "2025-07-06",
   "tags" : {
@@ -150,8 +225,20 @@
     "title" : "Kaoru Hana wa Rin to Saku",
     "type" : "MAIN"
   }, {
+    "language" : "FRENCH",
+    "title" : "Bloom",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "TURKISH",
+    "title" : "Güzel Kokulu Çiçekler Zarafetle Açar",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "POLISH",
     "title" : "Kaoru i Rin: Rozkwitając z tobą",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "SPANISH",
+    "title" : "La nobleza de las flores",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

@@ -1,6 +1,90 @@
 {
   "anime_id" : 18676,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 149613,
+      "name" : "Aleksandar-koushi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149616,
+      "name" : "Sharp",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 149624,
+      "name" : "Barlow-hakase",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149617,
+      "name" : "George Darwin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149623,
+      "name" : "Hirst",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149626,
+      "name" : "Hoffman",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149614,
+      "name" : "Klopp",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149630,
+      "name" : "Leviathan no Kanchou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149629,
+      "name" : "Lilit",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149627,
+      "name" : "Matthews",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149622,
+      "name" : "Nene",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149621,
+      "name" : "Newkirk",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149620,
+      "name" : "Nikola Tesla",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149625,
+      "name" : "Pavel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149628,
+      "name" : "Rigby",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149618,
+      "name" : "Sultan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149619,
+      "name" : "Thomas",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149631,
+      "name" : "Volger-hakushaku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149615,
+      "name" : "Zaven",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
+    "3660" : [ {
+      "name" : "Kurashima Ayumi",
+      "type" : "CHARACTER_DESIGN"
+    } ],
     "16800" : [ {
       "name" : "Orange",
       "type" : "ANIMATION_WORK"
@@ -13,6 +97,10 @@
       "name" : "Christophe Ferreira",
       "type" : "DIRECTOR"
     } ],
+    "46748" : [ {
+      "name" : "Kido Yuuichirou",
+      "type" : "SERIES_COMPOSITION"
+    } ],
     "50876" : [ {
       "name" : "Jinnouchi Kazuma",
       "type" : "MUSIC"
@@ -22,7 +110,7 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "In 1914, on the eve of war, a fugitive prince and a girl in disguise meet aboard a bioengineered airship, the HMS Leviathan, and change the course of history.\nSource: Netflix",
+  "description" : "In 1914, on the eve of war, a fugitive http://anidb.net/ch149613 [prince] and a http://anidb.net/ch149616 [girl] in disguise meet aboard a bioengineered airship, the HMS Leviathan, and change the course of history.\nSource: Netflix",
   "end_date" : "2025-07-10",
   "episodes" : {
     "REGULAR" : [ {
@@ -31,6 +119,10 @@
       "episode_id" : 298590,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.63,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -49,6 +141,10 @@
       "episode_id" : 298591,
       "length" : 30,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.7,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -67,6 +163,10 @@
       "episode_id" : 298592,
       "length" : 30,
       "number" : 3,
+      "rating" : {
+        "rating" : 4.52,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -243,15 +343,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.36,
-      "total" : 1
+      "rating" : 5.77,
+      "total" : 11
     },
     "TEMPORARY" : {
-      "rating" : 5.0,
-      "total" : 1
+      "rating" : 5.97,
+      "total" : 11
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "401191" ],
     "ANN" : [ "32799" ],
     "MAL" : [ "59005" ],
     "NETFLIX" : [ "81152269" ],

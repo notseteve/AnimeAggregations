@@ -86,10 +86,20 @@
       "episode_id" : 297869,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.52,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kuroi Otoko"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "黒い男"
       } ],
       "type" : "REGULAR"
     }, {
@@ -97,10 +107,20 @@
       "episode_id" : 297870,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shinri no Tobira"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Door of Truth"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "真理の扉"
       } ],
       "type" : "REGULAR"
     }, {
@@ -125,17 +145,47 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-05",
+      "episode_id" : 298521,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.95,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 5.14,
+      "total" : 7
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "399652" ],
+    "ANISON" : [ "25981" ],
     "ANN" : [ "34259" ],
     "MAL" : [ "60697" ],
     "SYOBOI" : [ "7482" ],
     "TWITTER" : [ "anime_fermat" ],
     "WEBSITE" : [ "https://www.fermat-anime.com/" ],
-    "WIKIPEDIA_EN" : [ "Fermat_no_Ryōri" ],
-    "WIKIPEDIA_JP" : [ "フェルマーの料理" ]
+    "WIKIPEDIA_EN" : [ "Fermat_Kitchen" ],
+    "WIKIPEDIA_JP" : [ "フェルマーの料理" ],
+    "YOUTUBE" : [ "watch?v=ByuXopW9FTg" ]
+  },
+  "similar" : {
+    "10901" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
   },
   "start_date" : "2025-07-05",
   "tags" : {
@@ -160,8 +210,20 @@
     "title" : "Fermat no Ryouri",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Fermat Kitchen",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "フェルマーの料理",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "費馬的料理",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "费马的料理",
     "type" : "OFFICIAL"
   }, {
     "language" : "FRENCH",
