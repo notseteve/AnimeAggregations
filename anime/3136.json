@@ -31,7 +31,7 @@
       "length" : 90,
       "number" : 1,
       "rating" : {
-        "rating" : 6.66,
+        "rating" : 6.65,
         "total" : 1
       },
       "recap" : false,
@@ -47,7 +47,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.44,
+        "rating" : 2.43,
         "total" : 1
       },
       "recap" : false,
@@ -60,12 +60,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.64,
-      "total" : 35
+      "rating" : 2.77,
+      "total" : 36
     },
     "TEMPORARY" : {
-      "rating" : 4.37,
-      "total" : 35
+      "rating" : 4.41,
+      "total" : 36
     }
   },
   "resources" : {
@@ -82,6 +82,21 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2603" : {
+      "info_box" : true,
+      "name" : "office lady",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

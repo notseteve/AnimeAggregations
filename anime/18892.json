@@ -1,7 +1,36 @@
 {
   "anime_id" : 18892,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 106335,
+      "name" : "Iida Kanako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 106333,
+      "name" : "Kamio Kiyoko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 123672,
+      "name" : "Oohashi Rie",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 106332,
+      "name" : "Suzuki Keiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 123674,
+      "name" : "Yokote",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150203,
+      "name" : "Yuuna",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
+      "character_id" : 95227,
+      "name" : "Hamaoka Azusa",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 95220,
       "name" : "Imamura Kouhei",
       "type" : "CHARACTER"
@@ -37,10 +66,6 @@
     }, {
       "character_id" : 96712,
       "name" : "Fujiwara Kenta",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 95227,
-      "name" : "Hamaoka Azusa",
       "type" : "CHARACTER"
     }, {
       "character_id" : 146302,
@@ -147,6 +172,10 @@
       "episode_id" : 297829,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.6,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GX9U34P78" ]
@@ -158,6 +187,9 @@
         "language" : "ENGLISH",
         "title" : "Brother"
       }, {
+        "language" : "FRENCH",
+        "title" : "Grand frère"
+      }, {
         "language" : "JAPANESE",
         "title" : "兄"
       } ],
@@ -167,13 +199,23 @@
       "episode_id" : 297830,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.6,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUW7EXG" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Image Game"
+        "title" : "Association"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Inshou Game"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Le jeu des impressions"
       }, {
         "language" : "JAPANESE",
         "title" : "印象ゲーム"
@@ -184,10 +226,17 @@
       "episode_id" : 297831,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 3.6,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14UVPWE8" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Ticket Scramble"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Ticket Soudatsusen"
@@ -197,13 +246,21 @@
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2025-08-05",
       "episode_id" : 298541,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 3.6,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQ15XM" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "First Time at a Women`s University"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Hajimete no Joshidai"
@@ -213,13 +270,14 @@
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2025-08-12",
       "episode_id" : 298542,
       "length" : 25,
       "number" : 6,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Back to the All-Girls College"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Futatabi no Joshidai"
@@ -229,6 +287,7 @@
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2025-08-19",
       "episode_id" : 298543,
       "length" : 25,
       "number" : 7,
@@ -245,6 +304,7 @@
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2025-08-26",
       "episode_id" : 298544,
       "length" : 25,
       "number" : 8,
@@ -351,12 +411,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.41,
-      "total" : 8
+      "rating" : 8.02,
+      "total" : 24
+    },
+    "REVIEW" : {
+      "rating" : 6.0,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.62,
-      "total" : 8
+      "rating" : 7.54,
+      "total" : 24
     }
   },
   "related" : {

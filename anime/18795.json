@@ -106,8 +106,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.49,
-        "total" : 8
+        "rating" : 7.21,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -130,8 +130,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.61,
-        "total" : 7
+        "rating" : 5.77,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -153,10 +153,17 @@
       "episode_id" : 297778,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 4.63,
+        "total" : 8
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMX40N" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Serendia Academy Student Council"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Serendia Gakuen Seitokai"
@@ -170,10 +177,86 @@
       "episode_id" : 297779,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.95,
+        "total" : 8
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUWQKGW" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kanpeki na Shiki"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Perfect Formula"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "完璧な式"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-02",
+      "episode_id" : 299071,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 7.46,
+        "total" : 5
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU3D0V8" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chinmoku no Majo no Bouken"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Adventure of the Silent Witch"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "沈黙の魔女の冒険"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-09",
+      "episode_id" : 299072,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bachigai na Ippai"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "場違いな一杯"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-16",
+      "episode_id" : 299073,
+      "length" : 25,
+      "number" : 7,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-23",
+      "episode_id" : 299074,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -200,6 +283,10 @@
       "episode_id" : 298397,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.92,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -211,6 +298,10 @@
       "episode_id" : 298663,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.92,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -221,12 +312,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.27,
-      "total" : 47
+      "rating" : 7.51,
+      "total" : 73
     },
     "TEMPORARY" : {
-      "rating" : 7.32,
-      "total" : 47
+      "rating" : 7.45,
+      "total" : 74
     }
   },
   "resources" : {
@@ -276,6 +367,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
@@ -303,6 +401,14 @@
       "info_box" : false,
       "name" : "spellcasting",
       "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -514,6 +620,10 @@
     "language" : "JAPANESE",
     "title" : "サイレント・ウィッチ 沈黙の魔女の隠しごと",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Silent Witch",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://silentwitch.net/"

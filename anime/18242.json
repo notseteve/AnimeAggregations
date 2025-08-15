@@ -6,6 +6,14 @@
       "name" : "Anko-san",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 150118,
+      "name" : "Anna",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150119,
+      "name" : "Gerard Wainwright",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149388,
       "name" : "Gil Algren",
       "type" : "CHARACTER"
@@ -16,6 +24,14 @@
     }, {
       "character_id" : 149392,
       "name" : "Kyouju",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150116,
+      "name" : "Lisa Leinster",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150117,
+      "name" : "Richard Leinster",
       "type" : "CHARACTER"
     }, {
       "character_id" : 149390,
@@ -95,7 +111,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.56,
+        "rating" : 6.54,
         "total" : 6
       },
       "recap" : false,
@@ -119,8 +135,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.64,
-        "total" : 5
+        "rating" : 5.93,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -143,8 +159,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.37,
-        "total" : 4
+        "rating" : 6.4,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -166,25 +182,51 @@
       "episode_id" : 298068,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.09,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNJW9N" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saishuu Shiken"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
-      } ],
-      "type" : "REGULAR"
-    }, {
-      "air_date" : "2025-07-27",
-      "episode_id" : 298683,
-      "length" : 25,
-      "number" : 5,
-      "recap" : false,
-      "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "The Final Exam"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "最終試験"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-08-03",
+      "episode_id" : 298683,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUE357D" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akogare no Ouritsu Gakkou: Zenpen"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Royal Academy at Last, Part 1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "憧れの王立学校 前編"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-10",
       "episode_id" : 298684,
       "length" : 25,
       "number" : 6,
@@ -195,7 +237,7 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-08-10",
+      "air_date" : "2025-08-17",
       "episode_id" : 298685,
       "length" : 25,
       "number" : 7,
@@ -206,7 +248,7 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-08-17",
+      "air_date" : "2025-08-24",
       "episode_id" : 298686,
       "length" : 25,
       "number" : 8,
@@ -218,10 +260,30 @@
       "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
+      "air_date" : "2025-07-27",
+      "episode_id" : 299422,
+      "length" : 25,
+      "number" : 1,
+      "recap" : true,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UGN80W" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Furikaeri Soushuuhen"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Recap: A Look Back"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "振り返り総集編"
+      } ],
+      "type" : "SPECIAL"
+    }, {
       "air_date" : "2025-06-28",
       "episode_id" : 298069,
       "length" : 80,
-      "number" : 1,
+      "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -261,12 +323,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.58,
-      "total" : 35
+      "rating" : 3.74,
+      "total" : 44
     },
     "TEMPORARY" : {
-      "rating" : 5.1,
-      "total" : 35
+      "rating" : 5.25,
+      "total" : 44
     }
   },
   "resources" : {

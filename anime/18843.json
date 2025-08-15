@@ -1,6 +1,27 @@
 {
   "anime_id" : 18843,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 150015,
+      "name" : "Aitemuya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150009,
+      "name" : "Shounin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150010,
+      "name" : "Tenchou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150016,
+      "name" : "Tenshu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150019,
+      "name" : "Yadoya no Kyaku",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 147972,
       "name" : "Majutsu-shi",
@@ -28,13 +49,16 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 4.8,
+        "rating" : 4.78,
         "total" : 1
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "LEVEL:1"
       } ],
       "type" : "REGULAR"
     }, {
@@ -42,21 +66,28 @@
       "episode_id" : 294578,
       "length" : 20,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.59,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "LEVEL:2"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.46,
+      "rating" : 3.37,
       "total" : 22
     },
     "TEMPORARY" : {
-      "rating" : 5.19,
+      "rating" : 5.15,
       "total" : 23
     }
   },
@@ -126,6 +157,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2702" : {
+      "info_box" : false,
+      "name" : "mammary intercourse",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2705" : {
       "info_box" : false,
       "name" : "creampie",
@@ -149,6 +188,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2713" : {
+      "info_box" : false,
+      "name" : "oral",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2722" : {
+      "info_box" : false,
+      "name" : "doggy style",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2725" : {
+      "info_box" : false,
+      "name" : "ahegao",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2748" : {
       "info_box" : true,
@@ -201,6 +264,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6268" : {
+      "info_box" : false,
+      "name" : "fellatio",
+      "parent_tag_id" : 2713,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

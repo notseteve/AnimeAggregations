@@ -2,6 +2,14 @@
   "anime_id" : 19054,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 150121,
+      "name" : "Cynthia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150120,
+      "name" : "Hopper",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149443,
       "name" : "Polbo",
       "type" : "CHARACTER"
@@ -79,7 +87,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.33,
+        "rating" : 6.31,
         "total" : 4
       },
       "recap" : false,
@@ -127,7 +135,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.18,
+        "rating" : 4.17,
         "total" : 3
       },
       "recap" : false,
@@ -150,7 +158,14 @@
       "episode_id" : 297771,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.01,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UGNQ27" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Jaa, Higawari Teishoku de"
@@ -167,10 +182,23 @@
       "episode_id" : 298617,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 3.38,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUE3WMZ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "It`s Too Soon for a Marriage Proposal!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Propose Nante Hayasugiru Daro!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "プロポーズなんて早すぎるだろ!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -178,10 +206,23 @@
       "episode_id" : 298618,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 4.28,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU82JXP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Atelier Ojou-sama Omukae ni Agarimashita"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "I`ve Come for Lady Atelier"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アトリエお嬢様お迎えに上がりました"
       } ],
       "type" : "REGULAR"
     }, {
@@ -192,7 +233,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Get Better Soon"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hayaku, Yoku Natte ne"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "早く, 良くなってね"
       } ],
       "type" : "REGULAR"
     }, {
@@ -233,12 +280,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.55,
-      "total" : 20
+      "rating" : 4.59,
+      "total" : 35
     },
     "TEMPORARY" : {
-      "rating" : 5.45,
-      "total" : 20
+      "rating" : 5.71,
+      "total" : 35
     }
   },
   "resources" : {
@@ -253,6 +300,7 @@
     "TWITTER" : [ "tsuishoku_PR" ],
     "WEBSITE" : [ "https://tsuihosha-shokudo.com/" ],
     "WIKIPEDIA_EN" : [ "Welcome_to_the_Outcast's_Restaurant!" ],
+    "WIKIPEDIA_JP" : [ "追放者食堂へようこそ!" ],
     "YOUTUBE" : [ "watch?v=fu8Z_vVYuNg", "watch?v=idskIUheaa4" ]
   },
   "similar" : {
@@ -261,18 +309,41 @@
       "total" : 5
     },
     "18528" : {
-      "rating" : 5.0,
-      "total" : 2
+      "rating" : 3.333333333333333,
+      "total" : 3
     }
   },
   "start_date" : "2025-07-03",
   "tags" : {
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7220" : {
+      "info_box" : false,
+      "name" : "sexual abuse",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7238" : {
+      "info_box" : false,
+      "name" : "attempted rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7885" : {
       "info_box" : false,

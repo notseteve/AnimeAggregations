@@ -83,6 +83,7 @@
     } ]
   },
   "description" : "If it looks like a dog and acts like a dog and insists it`s a dog, it`s...a dog? Probably? She adopted it anyway, and her life with this \"dog\" will never be boring!\nSource: Kodansha\nNote: The first episode received an early screening at a special event on 29 June 2025 at United Cinemas Minato Mirai in Yokohama. The regular TV broadcast started on 6 July 2025.",
+  "end_date" : "2025-09-21",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-06",
@@ -90,7 +91,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.25,
+        "rating" : 7.22,
         "total" : 3
       },
       "recap" : false,
@@ -114,7 +115,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.25,
+        "rating" : 6.24,
         "total" : 3
       },
       "recap" : false,
@@ -138,8 +139,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 10.0,
-        "total" : 1
+        "rating" : 8.96,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -161,10 +162,23 @@
       "episode_id" : 297803,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUNVJDZ" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Natsumatsuri"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Summer Festival"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夏祭り"
       } ],
       "type" : "REGULAR"
     }, {
@@ -172,10 +186,23 @@
       "episode_id" : 299146,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 8.96,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WU7PE0D" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Onaji Tsuki"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "The Same Moon"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "同じ月"
       } ],
       "type" : "REGULAR"
     }, {
@@ -183,10 +210,23 @@
       "episode_id" : 299147,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UDMJ1P" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Neko to Kabocha"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Cat and Pumpkins"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猫と南瓜"
       } ],
       "type" : "REGULAR"
     }, {
@@ -238,12 +278,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.15,
-      "total" : 27
+      "rating" : 6.09,
+      "total" : 35
     },
     "TEMPORARY" : {
-      "rating" : 6.3,
-      "total" : 27
+      "rating" : 6.47,
+      "total" : 35
     }
   },
   "resources" : {
@@ -263,9 +303,39 @@
   },
   "start_date" : "2025-07-06",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6399" : {
+      "info_box" : false,
+      "name" : "episodic",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

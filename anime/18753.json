@@ -6,6 +6,10 @@
       "name" : "Ichinose Chizuru",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 125944,
+      "name" : "Ichinose Katsuhito",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 111735,
       "name" : "Ichinose Sayuri",
       "type" : "CHARACTER"
@@ -20,6 +24,14 @@
     }, {
       "character_id" : 110294,
       "name" : "Kibe Yoshiaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111721,
+      "name" : "Kinoshita Harumi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111706,
+      "name" : "Kinoshita Kazuo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 110293,
@@ -129,11 +141,16 @@
       "name" : "Miyajima Reiji",
       "type" : "ORIGINAL_WORK"
     } ],
+    "66557" : [ {
+      "name" : "Uno Tomoko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "72499" : [ {
       "name" : "Kikuchi Shouno",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
+  "end_date" : "2025-09-16",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-01",
@@ -189,7 +206,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.65,
+        "rating" : 3.82,
         "total" : 3
       },
       "recap" : false,
@@ -213,8 +230,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.35,
-        "total" : 1
+        "rating" : 3.15,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -236,7 +253,14 @@
       "episode_id" : 298523,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 2.73,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14UVPEJZ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Promised Time and Girlfriend"
@@ -254,9 +278,18 @@
       "length" : 25,
       "number" : 6,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQ1X7P" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Family Trip and Girlfriend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kazoku Ryokou to Kanojo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "家族旅行と彼女"
       } ],
       "type" : "REGULAR"
     }, {
@@ -267,7 +300,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Hawaiians and Girlfriend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hawaiians to Kanojo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ハワイアンズと彼女"
       } ],
       "type" : "REGULAR"
     }, {
@@ -281,6 +320,50 @@
         "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-26",
+      "episode_id" : 299642,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-02",
+      "episode_id" : 299643,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-09",
+      "episode_id" : 299644,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-16",
+      "episode_id" : 299645,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
     } ],
     "CREDITS" : [ {
       "air_date" : "2025-07-08",
@@ -288,7 +371,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 1.79,
+        "rating" : 1.8,
         "total" : 1
       },
       "recap" : false,
@@ -301,12 +384,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.73,
-      "total" : 20
+      "rating" : 3.68,
+      "total" : 23
     },
     "TEMPORARY" : {
-      "rating" : 5.27,
-      "total" : 20
+      "rating" : 5.26,
+      "total" : 23
     }
   },
   "related" : {
@@ -426,6 +509,10 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Kanojo, Okarishimasu Season 4",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Rent-A-Girlfriend Season 4",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

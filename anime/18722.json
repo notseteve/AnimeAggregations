@@ -2,12 +2,84 @@
   "anime_id" : 18722,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 140318,
+      "name" : "Bakko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149998,
+      "name" : "Ichinokura",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140656,
       "name" : "Igarashi Hakua",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 141644,
+      "name" : "Itami Keiji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140213,
+      "name" : "Kafka Youshouki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149999,
+      "name" : "Kinashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141646,
+      "name" : "Kurusu Akira",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140216,
+      "name" : "Miike Ichitaka",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140657,
       "name" : "Minase Akari",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149885,
+      "name" : "Miyake Kuroudo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140214,
+      "name" : "Mizoguchi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140220,
+      "name" : "Nazo no Youjuu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141645,
+      "name" : "Nogizaka Juuzou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140317,
+      "name" : "Sebasu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150112,
+      "name" : "Shinomiya Hikari",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149290,
+      "name" : "Shinonome Rin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150000,
+      "name" : "Tabuchi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149884,
+      "name" : "Tachibana Kouta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140215,
+      "name" : "Tokuda Masahide",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140217,
+      "name" : "Yoshimura",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -63,10 +135,6 @@
       "character_id" : 131276,
       "name" : "Shinomiya Kikoru",
       "type" : "CHARACTER"
-    }, {
-      "character_id" : 149290,
-      "name" : "Shinonome Rin",
-      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -99,19 +167,34 @@
     } ]
   },
   "description" : "Note: The first two episodes received an early screening at a special event on 13 July 2025 at TOHO Cinemas Hibiya in Tokyo. The regular TV broadcast started on 19 July 2025.",
+  "end_date" : "2025-09-27",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-19",
+      "description" : "Kafka goes on a mission with his new squad and faces Kaiju No. 9 once again.\nSource: Crunchyroll",
       "episode_id" : 297859,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.11,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UEGKPX" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Die Kaijū-Waffe"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Kaiju Weapon"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kaijuu Heiki"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Les armes spéciales"
       }, {
         "language" : "JAPANESE",
         "title" : "怪獣兵器"
@@ -122,10 +205,23 @@
       "episode_id" : 297860,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.95,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMZJPQ" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jisedai no Shiren"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Next Generation`s Trial"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "次世代の試練"
       } ],
       "type" : "REGULAR"
     }, {
@@ -133,10 +229,23 @@
       "episode_id" : 297861,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.79,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMDP7X" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saikyou no Butai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Strongest Division"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "最強の部隊"
       } ],
       "type" : "REGULAR"
     }, {
@@ -150,45 +259,94 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-16",
+      "episode_id" : 299537,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-23",
+      "episode_id" : 299538,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-30",
+      "episode_id" : 299539,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-06",
+      "episode_id" : 299540,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
-      "air_date" : "2025-03-28",
-      "episode_id" : 298360,
-      "length" : 25,
+      "air_date" : "2025-07-26",
+      "episode_id" : 299423,
+      "length" : 2,
       "number" : 1,
-      "rating" : {
-        "rating" : 2.17,
-        "total" : 4
-      },
       "recap" : false,
-      "resources" : {
-        "CRUNCHY_ROLL" : [ "GPWU8XE3K" ]
-      },
       "titles" : [ {
-        "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Bangai Hen: Hoshina no Kyuujitsu"
-      }, {
-        "language" : "SPANISH",
-        "title" : "Episodio extra: El día libre de Hoshina"
+        "language" : "JAPANESE",
+        "title" : "HOSHI NIGHT NIPPON 1"
       }, {
         "language" : "ENGLISH",
-        "title" : "Extra Episode: Hoshina`s Day Off"
+        "title" : "Hoshi Night Japan 1"
       }, {
-        "language" : "GERMAN",
-        "title" : "Hoshinas freier Tag"
-      }, {
-        "language" : "FRENCH",
-        "title" : "Le jour de congé de Hoshina"
-      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hoshi Night Nippon 1"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-08-02",
+      "episode_id" : 299595,
+      "length" : 1,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
         "language" : "JAPANESE",
-        "title" : "番外編 保科の休日"
+        "title" : "HOSHI NIGHT NIPPON 2"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Hoshi Night Japan 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hoshi Night Nippon 2"
       } ],
       "type" : "SPECIAL"
     }, {
       "air_date" : "2025-07-12",
       "episode_id" : 298226,
       "length" : 30,
-      "number" : 2,
+      "number" : 11,
+      "rating" : {
+        "rating" : 1.32,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -223,12 +381,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.32,
-      "total" : 2
+      "rating" : 5.96,
+      "total" : 31
     },
     "TEMPORARY" : {
-      "rating" : 6.0,
-      "total" : 2
+      "rating" : 6.94,
+      "total" : 31
     }
   },
   "related" : {
@@ -239,9 +397,9 @@
     "ANISON" : [ "25402" ],
     "ANN" : [ "32854" ],
     "CRUNCHY_ROLL" : [ "GG5H5XQ7D" ],
-    "MAL" : [ "59177", "59490" ],
+    "MAL" : [ "59177" ],
     "SYOBOI" : [ "7475" ],
-    "TWITTER" : [ "KaijuNo8_O" ],
+    "TWITTER" : [ "KaijuNo8_O", "KaijuNo8_O/status/1949122547670221259", "KaijuNo8_O/status/1951651953932452280" ],
     "WEBSITE" : [ "https://kaiju-no8.net/" ],
     "WEBSITE_EN" : [ "https://kaiju-no8.net/en/" ],
     "WIKIPEDIA_EN" : [ "Kaiju_No._8" ],
@@ -286,6 +444,10 @@
     "language" : "JAPANESE",
     "title" : "怪獣8号 (2025)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Kaiju No. 8 Season 2",
+    "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Kaijuu 8 Gou Season 2",

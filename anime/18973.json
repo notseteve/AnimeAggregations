@@ -11,8 +11,20 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 150115,
+      "name" : "Doctor",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150113,
+      "name" : "Hasegawa Iori",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149699,
       "name" : "Kase Toshiya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150114,
+      "name" : "Nina",
       "type" : "CHARACTER"
     }, {
       "character_id" : 149545,
@@ -54,7 +66,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.51,
+        "rating" : 4.47,
         "total" : 2
       },
       "recap" : false,
@@ -127,6 +139,9 @@
       "length" : 25,
       "number" : 4,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U34PVX" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Corpse Reviver"
@@ -144,9 +159,18 @@
       "length" : 25,
       "number" : 5,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUW7EGN" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Remember Me"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Remember Me"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "リメンバー・ミー"
       } ],
       "type" : "REGULAR"
     }, {
@@ -157,7 +181,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "A Last Supper 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saigo no Bansan 1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "最後の晩餐1"
       } ],
       "type" : "REGULAR"
     }, {
@@ -204,11 +234,11 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.98,
+      "rating" : 2.87,
       "total" : 16
     },
     "TEMPORARY" : {
-      "rating" : 4.39,
+      "rating" : 4.33,
       "total" : 16
     }
   },

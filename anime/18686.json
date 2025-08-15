@@ -1,6 +1,27 @@
 {
   "anime_id" : 18686,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 150167,
+      "name" : "Alice",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150164,
+      "name" : "Follo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150163,
+      "name" : "Gris",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150166,
+      "name" : "Semiu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150165,
+      "name" : "Tomme",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 147188,
       "name" : "Rudo",
@@ -77,8 +98,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.2,
-        "total" : 5
+        "rating" : 5.99,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -104,8 +125,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.67,
-        "total" : 3
+        "rating" : 4.42,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -130,10 +151,23 @@
       "episode_id" : 297814,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.4,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8XG75" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gekai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Ground"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "下界"
       } ],
       "type" : "REGULAR"
     }, {
@@ -141,10 +175,67 @@
       "episode_id" : 297815,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 4.93,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUNVQKJ" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Cleaner HQ"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Soujiya Honbu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "掃除屋本部"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-10",
+      "episode_id" : 299411,
+      "length" : 25,
+      "number" : 5,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-17",
+      "episode_id" : 299412,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-24",
+      "episode_id" : 299413,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-31",
+      "episode_id" : 299414,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -153,6 +244,10 @@
       "episode_id" : 298821,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.92,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -164,6 +259,10 @@
       "episode_id" : 298822,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.19,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -174,12 +273,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.12,
-      "total" : 21
+      "rating" : 4.62,
+      "total" : 36
+    },
+    "REVIEW" : {
+      "rating" : 3.5,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 5.64,
-      "total" : 21
+      "rating" : 6.29,
+      "total" : 36
     }
   },
   "resources" : {

@@ -1,9 +1,16 @@
 {
   "anime_id" : 19313,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 150192,
+      "name" : "Azuma Kyouko",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "768" : [ {
       "name" : "T-Rex",
-      "type" : "WORK"
+      "type" : "ANIMATION_WORK"
     } ],
     "6226" : [ {
       "name" : "Raika Ken",
@@ -21,17 +28,10 @@
       "episode_id" : 295976,
       "length" : 20,
       "number" : 1,
-      "recap" : false,
-      "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode"
-      } ],
-      "type" : "REGULAR"
-    }, {
-      "air_date" : "2025-06-27",
-      "episode_id" : 298319,
-      "length" : 20,
-      "number" : 2,
+      "rating" : {
+        "rating" : 5.02,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -42,12 +42,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.52,
-      "total" : 16
+      "rating" : 2.68,
+      "total" : 23
     },
     "TEMPORARY" : {
-      "rating" : 4.62,
-      "total" : 16
+      "rating" : 4.76,
+      "total" : 23
     }
   },
   "related" : {

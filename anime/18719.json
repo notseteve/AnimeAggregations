@@ -132,7 +132,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.86,
+        "rating" : 4.85,
         "total" : 11
       },
       "recap" : false,
@@ -157,7 +157,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.45,
+        "rating" : 6.44,
         "total" : 8
       },
       "recap" : false,
@@ -182,7 +182,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.49,
+        "rating" : 4.48,
         "total" : 9
       },
       "recap" : false,
@@ -207,7 +207,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.7,
+        "rating" : 5.68,
         "total" : 8
       },
       "recap" : false,
@@ -232,7 +232,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.73,
+        "rating" : 7.72,
         "total" : 7
       },
       "recap" : false,
@@ -257,7 +257,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.24,
+        "rating" : 5.21,
         "total" : 7
       },
       "recap" : false,
@@ -282,7 +282,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.52,
+        "rating" : 5.5,
         "total" : 7
       },
       "recap" : false,
@@ -357,7 +357,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.76,
+        "rating" : 5.74,
         "total" : 6
       },
       "recap" : false,
@@ -407,7 +407,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.89,
+        "rating" : 5.88,
         "total" : 5
       },
       "recap" : false,
@@ -470,12 +470,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.89,
-      "total" : 166
+      "rating" : 4.9,
+      "total" : 188
     },
     "TEMPORARY" : {
-      "rating" : 6.23,
-      "total" : 167
+      "rating" : 6.25,
+      "total" : 189
     }
   },
   "resources" : {
@@ -493,6 +493,22 @@
   },
   "start_date" : "2025-03-01",
   "tags" : {
+    "780" : {
+      "info_box" : false,
+      "name" : "fairy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1973" : {
+      "info_box" : false,
+      "name" : "cooking",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2094" : {
       "info_box" : false,
       "name" : "magic",
@@ -504,6 +520,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -553,6 +576,46 @@
       "verified" : false,
       "weight" : 100
     },
+    "2646" : {
+      "info_box" : false,
+      "name" : "demon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2651" : {
+      "info_box" : false,
+      "name" : "absurdist humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2656" : {
+      "info_box" : false,
+      "name" : "satire",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2774" : {
+      "info_box" : false,
+      "name" : "spellcasting",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -569,10 +632,122 @@
       "verified" : false,
       "weight" : 100
     },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3977" : {
+      "info_box" : false,
+      "name" : "dialogue driven",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4498" : {
+      "info_box" : false,
+      "name" : "heart-warming",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5420" : {
+      "info_box" : false,
+      "name" : "wealth-related humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5585" : {
+      "info_box" : false,
+      "name" : "curse",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "5851" : {
       "info_box" : false,
       "name" : "female protagonist",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6088" : {
+      "info_box" : false,
+      "name" : "unrequited shoujo ai",
+      "parent_tag_id" : 2785,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -587,6 +762,14 @@
     "6230" : {
       "info_box" : false,
       "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
       "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,

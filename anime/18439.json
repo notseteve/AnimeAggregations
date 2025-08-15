@@ -26,6 +26,10 @@
       "name" : "Keel",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 136233,
+      "name" : "Lucia",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149966,
       "name" : "Lyceras",
       "type" : "CHARACTER"
@@ -42,12 +46,24 @@
       "name" : "Raph-chan",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 136230,
+      "name" : "Ratotille Anthreya",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149605,
       "name" : "Solea",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 150056,
+      "name" : "Tiran",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149604,
       "name" : "Tsualon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150071,
+      "name" : "Tyran",
       "type" : "CHARACTER"
     }, {
       "character_id" : 136001,
@@ -172,6 +188,7 @@
     } ]
   },
   "description" : "* Based on a fantasy adventure light novel series written by http://anidb.net/cr50703 [Aneko Yusagi] and illustrated by http://anidb.net/cr55879 [Minami Seira].\nAs the Shield Hero, http://anidb.net/ch97224 [Iwatani Naofumi] prepared for the return of the Phoenix, one of the Four Guardian Beasts. He tracked down each of the other three heroes and made his peace with them. But due to a misunderstanding, assassins from a nation called Q`ten Lo thought http://anidb.net/ch97221 [Raphtalia] was going to try and take their throne, and tried to kill her. In order to work things out with Q`ten Lo, Naofumi travels to the demi-human country Siltvelt, the one place where he can get a boat to Q`ten Lo. He`s welcomed warmly by the demi-humans there, who worship the Shield Hero. But even in Siltvelt there are those who aren`t happy to see him. And he finds that Q`ten Lo is politically unstable as well, and that Raphtalia rapidly becomes a symbol for revolution. As things get more and more complex, will Naofumi become a light who guides his comrades?\nSource: Official Website",
+  "end_date" : "2025-09-24",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-09",
@@ -209,7 +226,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.2,
+        "rating" : 5.18,
         "total" : 5
       },
       "recap" : false,
@@ -236,8 +253,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.12,
-        "total" : 1
+        "rating" : 3.88,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -246,6 +263,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A True People"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Ce que sont de vrais sujets"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shin naru Tami to wa"
@@ -259,7 +279,14 @@
       "episode_id" : 298203,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 3.99,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNJP1K" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Entrusted Power"
@@ -276,10 +303,23 @@
       "episode_id" : 298883,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 3.59,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UGN5KN" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hakuko"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "White Tiger"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "白虎[ハクコ]"
       } ],
       "type" : "REGULAR"
     }, {
@@ -290,7 +330,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Leaving Port"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shukkou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "出港"
       } ],
       "type" : "REGULAR"
     }, {
@@ -394,12 +440,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.06,
-      "total" : 20
+      "rating" : 4.55,
+      "total" : 28
     },
     "TEMPORARY" : {
-      "rating" : 6.52,
-      "total" : 21
+      "rating" : 6.17,
+      "total" : 30
     }
   },
   "related" : {
@@ -421,9 +467,164 @@
   },
   "start_date" : "2025-07-09",
   "tags" : {
+    "1244" : {
+      "info_box" : false,
+      "name" : "summoning",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2774" : {
+      "info_box" : false,
+      "name" : "spellcasting",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3610" : {
+      "info_box" : false,
+      "name" : "game references",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3779" : {
+      "info_box" : false,
+      "name" : "fight for peace",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3822" : {
+      "info_box" : false,
+      "name" : "strong male lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4182" : {
+      "info_box" : false,
+      "name" : "hidden power",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

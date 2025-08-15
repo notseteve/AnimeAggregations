@@ -41,6 +41,10 @@
       "name" : "Shiokawa Takashi",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "11550" : [ {
+      "name" : "Suzuki Asuka",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "12514" : [ {
       "name" : "Kishimoto Seiji",
       "type" : "CHIEF_ANIMATION_DIRECTION"
@@ -98,8 +102,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.49,
-        "total" : 5
+        "rating" : 4.93,
+        "total" : 7
       },
       "recap" : false,
       "titles" : [ {
@@ -119,8 +123,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 10.0,
-        "total" : 1
+        "rating" : 8.62,
+        "total" : 6
       },
       "recap" : false,
       "titles" : [ {
@@ -139,10 +143,20 @@
       "episode_id" : 297877,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.15,
+        "total" : 6
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Muriyari Nante, Dame Muri!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "You Can`t Freaking Force Me!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ムリヤリなんて, だめムリ!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -150,10 +164,64 @@
       "episode_id" : 297878,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.68,
+        "total" : 4
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mai Nante, Yappari Muri Muri! (*Muri ja Nakatta!?)"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Mai?! No Freaking Way! (...Or Maybe?)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "真唯なんて, やっぱりムリムリ! (※ムリじゃなかった!?)"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-05",
+      "episode_id" : 299186,
+      "length" : 25,
+      "number" : 5,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-12",
+      "episode_id" : 299187,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-19",
+      "episode_id" : 299188,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-26",
+      "episode_id" : 299189,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -166,6 +234,17 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-15",
+      "episode_id" : 299502,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
       } ],
       "type" : "CREDITS"
     } ],
@@ -224,12 +303,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.65,
-      "total" : 16
+      "rating" : 5.49,
+      "total" : 28
     },
     "TEMPORARY" : {
-      "rating" : 5.65,
-      "total" : 16
+      "rating" : 6.19,
+      "total" : 28
     }
   },
   "resources" : {
@@ -246,6 +325,37 @@
   },
   "start_date" : "2025-07-08",
   "tags" : {
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6088" : {
+      "info_box" : false,
+      "name" : "unrequited shoujo ai",
+      "parent_tag_id" : 2785,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

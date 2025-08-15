@@ -1,6 +1,31 @@
 {
   "anime_id" : 19072,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 150161,
+      "name" : "Dark Matter",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150160,
+      "name" : "Flare Cosmo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150156,
+      "name" : "George",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150159,
+      "name" : "Ice Purin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150157,
+      "name" : "Suramon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150158,
+      "name" : "Suramon (Power Up)",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 142078,
       "name" : "Kawaii Kotarou",
@@ -109,6 +134,7 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "end_date" : "2025-09-21",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-06",
@@ -116,7 +142,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.43,
+        "rating" : 7.42,
         "total" : 1
       },
       "recap" : false,
@@ -140,7 +166,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.74,
+        "rating" : 4.73,
         "total" : 2
       },
       "recap" : false,
@@ -163,7 +189,14 @@
       "episode_id" : 297923,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 8.1,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UGNQE1" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE",
         "title" : "RUNE RUNE DANCE"
@@ -180,10 +213,23 @@
       "episode_id" : 297924,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 9.55,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMKUE3W1V" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "A Being More Perfect Than a Toy"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hobby yori mo Perfect na Sonzai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ホビーよりもパーフェクトな存在"
       } ],
       "type" : "REGULAR"
     }, {
@@ -191,10 +237,23 @@
       "episode_id" : 297925,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 4.72,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU82JM4" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Puniru Power Up!? Kimi no Me de Tashikamero!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Puniru Powers Up?! See It for Yourself!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ぷにるパワーアップ!? 君の目で確かめろ!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -205,7 +264,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "A Human Happy Ending"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ningen no Happy End"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "人間のハッピーエンド"
       } ],
       "type" : "REGULAR"
     }, {
@@ -271,6 +336,41 @@
       } ],
       "type" : "REGULAR"
     } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-07-20",
+      "episode_id" : 299180,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "MV Dai 2 Ki Dai 1 Dan / \"Hai Yorokonde\""
+      }, {
+        "language" : "JAPANESE",
+        "title" : "MV第2期第1弾 / 「はいよろこんで」"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Season 2 MV 1: Hai Yorokonde"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-07-27",
+      "episode_id" : 299441,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "MV Dai 2 Ki Dai 2 Dan / \"Melt\""
+      }, {
+        "language" : "JAPANESE",
+        "title" : "MV第2期第2弾 / 「メルト」"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Season 2 MV 2: Melt"
+      } ],
+      "type" : "SPECIAL"
+    } ],
     "CREDITS" : [ {
       "air_date" : "2025-07-06",
       "episode_id" : 298444,
@@ -332,12 +432,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.81,
-      "total" : 4
+      "rating" : 4.33,
+      "total" : 3
     },
     "TEMPORARY" : {
-      "rating" : 6.6,
-      "total" : 5
+      "rating" : 6.5,
+      "total" : 4
     }
   },
   "related" : {
@@ -354,7 +454,7 @@
     "WEBSITE" : [ "https://puniru-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Puniru_Is_a_Cute_Slime" ],
     "WIKIPEDIA_JP" : [ "ぷにるはかわいいスライム" ],
-    "YOUTUBE" : [ "watch?v=1jbtsWH_oro", "watch?v=RhYMhoPx0O4", "watch?v=dWtvWZ50Uk0", "watch?v=nKA9x9x0itM" ]
+    "YOUTUBE" : [ "watch?v=1jbtsWH_oro", "watch?v=81jl2hwz1Ac", "watch?v=RhYMhoPx0O4", "watch?v=Z4dKaBEkNR8", "watch?v=dWtvWZ50Uk0", "watch?v=nKA9x9x0itM" ]
   },
   "start_date" : "2025-07-06",
   "tags" : {

@@ -1,9 +1,18 @@
 {
   "anime_id" : 17941,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 131355,
+      "name" : "Onobu",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
-      "character_id" : 131361,
-      "name" : "Mizuno Yuunoshin",
+      "character_id" : 131356,
+      "name" : "Madenokouji Arikoto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131358,
+      "name" : "Tokugawa Iemitsu",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
@@ -15,20 +24,12 @@
       "name" : "Kasuga no Tsubone",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 131356,
-      "name" : "Madenokouji Arikoto",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 131355,
-      "name" : "Onobu",
+      "character_id" : 131361,
+      "name" : "Mizuno Yuunoshin",
       "type" : "CHARACTER"
     }, {
       "character_id" : 131359,
       "name" : "Sutezou",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 131358,
-      "name" : "Tokugawa Iemitsu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 131357,
@@ -100,7 +101,7 @@
       "length" : 80,
       "number" : 1,
       "rating" : {
-        "rating" : 8.4,
+        "rating" : 8.41,
         "total" : 5
       },
       "recap" : false,
@@ -273,16 +274,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.17,
-      "total" : 152
+      "rating" : 6.23,
+      "total" : 155
     },
     "REVIEW" : {
       "rating" : 6.66,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.5,
-      "total" : 152
+      "rating" : 6.53,
+      "total" : 155
     }
   },
   "resources" : {
@@ -305,6 +306,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -345,13 +353,29 @@
       "verified" : false,
       "weight" : 0
     },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2625" : {
       "info_box" : false,
       "name" : "past",
       "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2640" : {
       "info_box" : false,
@@ -361,26 +385,74 @@
       "verified" : false,
       "weight" : 600
     },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2676" : {
+      "info_box" : false,
+      "name" : "Tokyo",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2715" : {
+      "info_box" : false,
+      "name" : "rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2750" : {
-      "info_box" : true,
+      "info_box" : false,
       "name" : "violence",
       "parent_tag_id" : 2604,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 400
+      "weight" : 100
     },
-    "2783" : {
-      "info_box" : true,
-      "name" : "shounen ai",
+    "2786" : {
+      "info_box" : false,
+      "name" : "love polygon",
       "parent_tag_id" : 2858,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 500
+      "weight" : 200
+    },
+    "2792" : {
+      "info_box" : false,
+      "name" : "reverse harem",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2855" : {
+      "info_box" : false,
+      "name" : "under one roof",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -393,10 +465,66 @@
       "verified" : false,
       "weight" : 600
     },
+    "2859" : {
+      "info_box" : false,
+      "name" : "harem",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2867" : {
       "info_box" : false,
       "name" : "politics",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3751" : {
+      "info_box" : false,
+      "name" : "grandiose displays of wealth",
+      "parent_tag_id" : 6243,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4335" : {
+      "info_box" : false,
+      "name" : "governmental censorship",
+      "parent_tag_id" : 2867,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -409,9 +537,97 @@
       "verified" : false,
       "weight" : 0
     },
+    "5459" : {
+      "info_box" : false,
+      "name" : "poverty",
+      "parent_tag_id" : 6243,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5466" : {
+      "info_box" : false,
+      "name" : "epidemic",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "5823" : {
+      "info_box" : false,
+      "name" : "predominantly male cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5973" : {
+      "info_box" : false,
+      "name" : "agriculture",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6021" : {
+      "info_box" : false,
+      "name" : "gender bender",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6243" : {
+      "info_box" : false,
+      "name" : "money",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6332" : {
+      "info_box" : false,
+      "name" : "famine",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "6528" : {
+      "info_box" : false,
+      "name" : "palace",
+      "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -423,14 +639,6 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
-    },
-    "7238" : {
-      "info_box" : false,
-      "name" : "attempted rape",
-      "parent_tag_id" : 7220,
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 200
     },
     "7885" : {
       "info_box" : false,

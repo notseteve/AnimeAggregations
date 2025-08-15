@@ -2,12 +2,32 @@
   "anime_id" : 18984,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 146705,
+      "name" : "Kashima",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147058,
+      "name" : "Lu Wutang",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150022,
+      "name" : "Miya-baa",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146555,
       "name" : "Piisuke",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145945,
       "name" : "Sakamoto Tarou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145348,
+      "name" : "X/Slur",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147060,
+      "name" : "Yutarou",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -126,15 +146,25 @@
       "episode_id" : 297904,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.44,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
+        "title" : "Overload"
+      }, {
+        "language" : "FRENCH",
         "title" : "Overload"
       }, {
         "language" : "JAPANESE",
         "title" : "Overload"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Overload"
+      }, {
+        "language" : "POLISH",
         "title" : "Overload"
       } ],
       "type" : "REGULAR"
@@ -143,13 +173,23 @@
       "episode_id" : 297905,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.11,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Bachiatari"
       }, {
+        "language" : "FRENCH",
+        "title" : "Châtiment divin"
+      }, {
         "language" : "ENGLISH",
         "title" : "Just Desserts"
+      }, {
+        "language" : "POLISH",
+        "title" : "Kara boska"
       }, {
         "language" : "JAPANESE",
         "title" : "ばちあたり"
@@ -160,10 +200,23 @@
       "episode_id" : 297906,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 8.42,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyoushuu"
+      }, {
+        "language" : "POLISH",
+        "title" : "Napaść"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Strong Assault"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "強襲"
       } ],
       "type" : "REGULAR"
     }, {
@@ -171,10 +224,64 @@
       "episode_id" : 297907,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 5.68,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Guruguru Tower"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Round and Round the Tower"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ぐるぐるタワー"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-05",
+      "episode_id" : 299190,
+      "length" : 25,
+      "number" : 5,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-12",
+      "episode_id" : 299191,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-19",
+      "episode_id" : 299192,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-26",
+      "episode_id" : 299193,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -239,12 +346,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.4,
-      "total" : 2
+      "rating" : 6.89,
+      "total" : 18
+    },
+    "REVIEW" : {
+      "rating" : 4.0,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.0,
-      "total" : 2
+      "rating" : 6.91,
+      "total" : 18
     }
   },
   "related" : {
@@ -316,6 +427,14 @@
     "language" : "ENGLISH",
     "title" : "Sakamoto Days (2025)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "坂本日常 (2025)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Sakamoto Days Part 2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://sakamotodays.jp/"

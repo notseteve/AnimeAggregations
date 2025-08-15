@@ -100,6 +100,13 @@
     "70967" : [ {
       "name" : "Kumata",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Kumata",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "75584" : [ {
+      "name" : "Iwasaki Takeshi",
+      "type" : "MUSIC"
     } ],
     "79581" : [ {
       "name" : "Qruppo",
@@ -120,19 +127,33 @@
     "79586" : [ {
       "name" : "Kashiko",
       "type" : "MUSIC"
+    } ],
+    "82610" : [ {
+      "name" : "Chame",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
-  "description" : "Note: The first three episodes received an early screening at a special event on 22 June 2025 at Cinem@rt Shinjuku in Tokyo. The regular TV broadcast started on 19 July 2025.\nNote: The anime has 3 versions - fully regulated version for regular TV audiences, less censored streaming-only version, and the least regulated \"Seiran Island\" version distributed on AT-X and Blu-ray.",
+  "description" : "Seiran Island, the tropical remote island, is home to http://anidb.net/ch145452 [Tachibana Junnosuke] and his young sister, http://anidb.net/ch145456 [Asane], who return here from the mainland as a result of their parents` death. However, Seiran Island has become a dystopia where, to stop the decline of population, authorities have enforced the \"Pervert Law.\" Sex is permitted and encouraged anywhere on the island, and those who refuse any sexual acts will be punished as a criminal offense. Being a cherry-picker who takes pride in his virginity, Junnosuke is skeptical about the law, thus, he sets up an anti-mating force, NLNS (No Love No Sex) to protect himself and his innocent sister, making headway to destroy the perverted law!\nSource: OceanVeil\nNote: The first three episodes received an early screening at a special event on 22 June 2025 at Cinem@rt Shinjuku in Tokyo. The regular TV broadcast started on 19 July 2025.\nNote: The anime has 3 versions - fully regulated version for regular TV audiences, less censored streaming-only version, and the least regulated \"Seiran Island\" version distributed on AT-X and Blu-ray.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-19",
       "episode_id" : 298227,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.85,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dosukebe Jourei"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Pervert Law"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ドスケベ条例"
       } ],
       "type" : "REGULAR"
     }, {
@@ -140,10 +161,20 @@
       "episode_id" : 298228,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.75,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyuuseishu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Savior"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "救性主"
       } ],
       "type" : "REGULAR"
     }, {
@@ -151,10 +182,17 @@
       "episode_id" : 298229,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.4,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Pop-up Shower"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夕勃ち"
       } ],
       "type" : "REGULAR"
     }, {
@@ -166,6 +204,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-16",
+      "episode_id" : 299541,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-23",
+      "episode_id" : 299542,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-30",
+      "episode_id" : 299543,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-06",
+      "episode_id" : 299544,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -186,6 +268,29 @@
         "title" : "ファンミーティング ~性夜の情報解禁スペシャル~"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-19",
+      "episode_id" : 299240,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-07-26",
+      "episode_id" : 299377,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2024-01-28",
@@ -238,7 +343,84 @@
         "title" : "第2弾PV"
       } ],
       "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-07-18",
+      "episode_id" : 299114,
+      "length" : 1,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "Blu-ray BOX CM"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Blu-ray Box CM"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Blu-ray Box CM (0:15)"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-07-16",
+      "episode_id" : 299115,
+      "length" : 1,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1 Special Preview"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shokai Tokubetsu Yokoku"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "初回特別予告"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-07-17",
+      "episode_id" : 299116,
+      "length" : 1,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1 Preview"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-07-24",
+      "episode_id" : 299376,
+      "length" : 1,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2 Preview"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-07-31",
+      "episode_id" : 299574,
+      "length" : 1,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3 Preview"
+      } ],
+      "type" : "PROMOTION"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.5,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 6.55,
+      "total" : 17
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "400975" ],
@@ -251,16 +433,122 @@
     "WEBSITE" : [ "https://nukiani.com/" ],
     "WIKIPEDIA_EN" : [ "Nukitashi" ],
     "WIKIPEDIA_JP" : [ "抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか%3F" ],
-    "YOUTUBE" : [ "watch?v=574xEshd4rY", "watch?v=ZQvqWZxlgtQ", "watch?v=cgWYINOVyR4", "watch?v=pKmG25gnaBk" ]
+    "YOUTUBE" : [ "watch?v=-SqAzWV4wGc", "watch?v=3s2Oqxz9sMU", "watch?v=574xEshd4rY", "watch?v=J8YZhx86wdU", "watch?v=OTuvmJFnKx0", "watch?v=WS0QwamioRY", "watch?v=ZQvqWZxlgtQ", "watch?v=cgWYINOVyR4", "watch?v=oq7uxQpZpLU", "watch?v=pKmG25gnaBk", "watch?v=zxxTohgiheM" ]
+  },
+  "similar" : {
+    "10888" : {
+      "rating" : 10.0,
+      "total" : 7
+    },
+    "11148" : {
+      "rating" : 10.0,
+      "total" : 2
+    },
+    "15918" : {
+      "rating" : 3.333333333333333,
+      "total" : 3
+    }
   },
   "start_date" : "2025-07-19",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2631" : {
+      "info_box" : false,
+      "name" : "island",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2693" : {
+      "info_box" : false,
+      "name" : "handjob",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2712" : {
+      "info_box" : false,
+      "name" : "sex toys",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2715" : {
+      "info_box" : false,
+      "name" : "rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2721" : {
+      "info_box" : false,
+      "name" : "public sex",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2748" : {
+      "info_box" : true,
+      "name" : "sex",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2749" : {
+      "info_box" : true,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2800" : {
       "info_box" : true,
@@ -286,12 +574,100 @@
       "verified" : false,
       "weight" : 0
     },
+    "2828" : {
+      "info_box" : false,
+      "name" : "borderline porn",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2848" : {
+      "info_box" : false,
+      "name" : "pornography",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3443" : {
+      "info_box" : false,
+      "name" : "orgy",
+      "parent_tag_id" : 7957,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3929" : {
+      "info_box" : false,
+      "name" : "sociocultural evolution",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4049" : {
+      "info_box" : false,
+      "name" : "outdoor sex",
+      "parent_tag_id" : 2721,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4665" : {
+      "info_box" : false,
+      "name" : "propaganda",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5850" : {
+      "info_box" : false,
+      "name" : "absurdly powerful student council",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7220" : {
+      "info_box" : false,
+      "name" : "sexual abuse",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7238" : {
+      "info_box" : false,
+      "name" : "attempted rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "7885" : {
       "info_box" : false,
@@ -300,6 +676,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7957" : {
+      "info_box" : false,
+      "name" : "group sex",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8038" : {
+      "info_box" : false,
+      "name" : "nipple play",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     }
   },
   "titles" : [ {
@@ -307,8 +699,20 @@
     "title" : "Nukitashi the Animation",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Nukitashi The Animation",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Nukitashi: Welcome to Love Island!",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ぬきたし THE ANIMATION",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "拔作岛",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

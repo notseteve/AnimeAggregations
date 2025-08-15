@@ -34,6 +34,10 @@
       "name" : "Hoken no Sensei",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 150017,
+      "name" : "Hourai Jun",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148578,
       "name" : "Igari Yajuurou",
       "type" : "CHARACTER"
@@ -52,6 +56,14 @@
     }, {
       "character_id" : 149097,
       "name" : "Isshiki Takashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150021,
+      "name" : "Kara no Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150020,
+      "name" : "Kara no Haha",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148576,
@@ -82,6 +94,10 @@
       "name" : "Momota",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 150018,
+      "name" : "Niikura An",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149123,
       "name" : "Saruwatari",
       "type" : "CHARACTER"
@@ -104,6 +120,11 @@
     }, {
       "character_id" : 149115,
       "name" : "Yuuichirou no Tsuma",
+      "type" : "CHARACTER"
+    } ],
+    "CAMEO" : [ {
+      "character_id" : 894,
+      "name" : "Kuujou Joutarou",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -232,7 +253,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.18,
+        "rating" : 5.17,
         "total" : 9
       },
       "recap" : false,
@@ -263,7 +284,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.66,
+        "rating" : 4.65,
         "total" : 9
       },
       "recap" : false,
@@ -294,8 +315,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.44,
-        "total" : 7
+        "rating" : 6.5,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -325,8 +346,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.29,
-        "total" : 6
+        "rating" : 5.52,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -356,8 +377,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.38,
-        "total" : 6
+        "rating" : 6.46,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -387,8 +408,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.61,
-        "total" : 5
+        "rating" : 5.85,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -418,8 +439,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.41,
-        "total" : 4
+        "rating" : 4.91,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -449,8 +470,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.56,
-        "total" : 4
+        "rating" : 4.94,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -480,8 +501,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.16,
-        "total" : 4
+        "rating" : 7.15,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -511,7 +532,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.73,
+        "rating" : 6.75,
         "total" : 4
       },
       "recap" : false,
@@ -542,7 +563,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 3.61,
+        "rating" : 3.62,
         "total" : 4
       },
       "recap" : false,
@@ -573,8 +594,8 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 3.61,
-        "total" : 4
+        "rating" : 3.48,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -635,7 +656,7 @@
       "length" : 25,
       "number" : 14,
       "rating" : {
-        "rating" : 4.36,
+        "rating" : 4.37,
         "total" : 4
       },
       "recap" : false,
@@ -645,6 +666,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Uron Mirage Chapter 119: The Phasey Hunt, Part 4 / Diary of My Favorite Artist"
+      }, {
+        "language" : "POLISH",
+        "title" : "Uron Mirage Rozdział 119: The Fuzzy Hunt, Part 4 / Diary of My Favorite Artis"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Uron Mirage: Dai 119 Wa \"Phasey Toubatsu - 4\" / Oshi Eshi Nisshi"
@@ -658,23 +682,30 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-07-13",
+      "description" : "\"Visit the ancient retainer that exorcises evil.\" Nico`s mother, Ibuki, has delivered a new prophecy. Ibuki has an idea who this \"ancient retainer\" could be, and tells Nico and her familiars to visit them. They were a bit of a ways away, so Nico, Morihito, Kanshi, Keigo, and Nemu head to the lands where this ancient retainer lives with a summer vacation feeling.\nSource: Crunchyroll",
       "episode_id" : 297390,
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 5.15,
-        "total" : 2
+        "rating" : 6.07,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G31UV235X" ]
       },
       "titles" : [ {
+        "language" : "POLISH",
+        "title" : "Letni demon"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Natsu no Mamono"
       }, {
         "language" : "ENGLISH",
         "title" : "Summer Demon"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Un démon en été"
       }, {
         "language" : "JAPANESE",
         "title" : "夏の魔物"
@@ -682,16 +713,30 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-07-20",
+      "description" : "The vampire Miharu Kiryu has moved into the Otogi household. Because he’s a vampire, he tends to be a nightowl and lazily doesn’t wake up until past noon. On top of that, he needs to siphon life energy to survive, so he immediately gets some from Morihito after waking up. He may not do well in a communal living environment, so will this further power up the chaos in the Otogi house?\nSource: Crunchyroll",
       "episode_id" : 297391,
       "length" : 25,
       "number" : 16,
+      "rating" : {
+        "rating" : 3.5,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8X538" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kyuuketsuki: Kiryuu Miharu / Kasa ga Nai / Aete Ureshii"
       }, {
         "language" : "ENGLISH",
         "title" : "Miharu Kiryu, the Vampire / Missing Parasol / I`m So Glad You`re Here"
+      }, {
+        "language" : "POLISH",
+        "title" : "Miharu Kiryu, wampir / Zaginiony parasol / Cieszę się, że tu jesteś"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Miharu Kiryû, le vampire / L`ombrelle disparue / Le bonheur d`avoir des amis"
       }, {
         "language" : "JAPANESE",
         "title" : "吸血鬼 -霧生見晴- / 傘がない / 会えて嬉しい"
@@ -702,10 +747,26 @@
       "episode_id" : 298708,
       "length" : 25,
       "number" : 17,
+      "rating" : {
+        "rating" : 5.3,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUNV3M9" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Death Game Idomareta kedo Kusogee Datta  / Long Long a Go Go"
+      }, {
+        "language" : "POLISH",
+        "title" : "Utknęliśmy w śmiertelnej rozgrywce, ale było fatalnie / Long Long a Go Go"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 17"
+        "title" : "We Got Trapped in a Death Game, but It Sucked / Long Long a Go Go"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "デスゲーム挑まれたけどクソゲーだった / LONG LONG A GO GO"
       } ],
       "type" : "REGULAR"
     }, {
@@ -713,10 +774,23 @@
       "episode_id" : 298709,
       "length" : 25,
       "number" : 18,
+      "rating" : {
+        "rating" : 4.06,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WU7PWKQ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 18"
+        "title" : "Kara and Shiki / Mega Marble Mania Madness / Scramble Scrap Squad"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kara-chan to Shiki / Kyousou no Biidamania / Scramble Scrap Squad"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カラちゃんとシキ / 狂騒のビーダマニア / スクランブル・スクラップ・スクワッド"
       } ],
       "type" : "REGULAR"
     }, {
@@ -727,7 +801,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 19"
+        "title" : "Letter from a Friend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tomodachi no Tegami"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ともだちの手紙"
       } ],
       "type" : "REGULAR"
     }, {
@@ -741,15 +821,71 @@
         "title" : "Episode 20"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-24",
+      "episode_id" : 299618,
+      "length" : 25,
+      "number" : 21,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 21"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-31",
+      "episode_id" : 299619,
+      "length" : 25,
+      "number" : 22,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 22"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-07",
+      "episode_id" : 299620,
+      "length" : 25,
+      "number" : 23,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 23"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-14",
+      "episode_id" : 299621,
+      "length" : 25,
+      "number" : 24,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 24"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-21",
+      "episode_id" : 299622,
+      "length" : 25,
+      "number" : 25,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 25"
+      } ],
+      "type" : "REGULAR"
     } ],
     "CREDITS" : [ {
+      "air_date" : "2025-04-06",
       "episode_id" : 294984,
-      "length" : 0,
+      "length" : 2,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode C1"
+        "title" : "Opening 1"
       } ],
       "type" : "CREDITS"
     }, {
@@ -771,7 +907,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Ending"
+        "title" : "Ending 1"
       } ],
       "type" : "CREDITS"
     }, {
@@ -789,12 +925,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.45,
-      "total" : 113
+      "rating" : 4.47,
+      "total" : 121
     },
     "TEMPORARY" : {
-      "rating" : 6.12,
-      "total" : 113
+      "rating" : 6.14,
+      "total" : 121
     }
   },
   "resources" : {

@@ -1,6 +1,55 @@
 {
   "anime_id" : 18929,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 149983,
+      "name" : "Anikibun",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149984,
+      "name" : "Bouzuatama",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149979,
+      "name" : "Jersey",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149978,
+      "name" : "Kitty-chan Kyoufushou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149986,
+      "name" : "Koyubi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149987,
+      "name" : "Kumichou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149982,
+      "name" : "Moto Juku Koushi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149988,
+      "name" : "Omonaga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149980,
+      "name" : "Punch Perm",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149977,
+      "name" : "T-shirt",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149985,
+      "name" : "Uchuubito",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149981,
+      "name" : "Yamaha no Aniki",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 144384,
       "name" : "Narita Kyouji",
@@ -28,6 +77,9 @@
     "7866" : [ {
       "name" : "Taniguchi Jun`ichirou",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Taniguchi Jun`ichirou",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "11736" : [ {
       "name" : "Matsuura Mai",
@@ -41,6 +93,14 @@
       "name" : "Iga Takurou",
       "type" : "MUSIC"
     } ],
+    "43978" : [ {
+      "name" : "Inade Haruka",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "58589" : [ {
+      "name" : "Morita Rina",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "68391" : [ {
       "name" : "Wayama Yama",
       "type" : "ORIGINAL_WORK"
@@ -53,10 +113,23 @@
       "episode_id" : 298231,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.23,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMD5ZK" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Deai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Encounter"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "出会い"
       } ],
       "type" : "REGULAR"
     }, {
@@ -64,10 +137,23 @@
       "episode_id" : 298232,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.66,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU73D8M" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akumu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Nightmare"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "悪夢"
       } ],
       "type" : "REGULAR"
     }, {
@@ -76,9 +162,18 @@
       "length" : 25,
       "number" : 3,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UXVG2V" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Parting Ways"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Wakare"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "別れ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -92,12 +187,53 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-07-17",
+      "episode_id" : 299354,
+      "length" : 15,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Karaoke Iko! Cast de Karaoke Ikou: Zenpen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カラオケ行こ! キャストでカラオケ行こ~ 前編"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-07-24",
+      "episode_id" : 299419,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.63,
+      "total" : 10
+    },
+    "TEMPORARY" : {
+      "rating" : 4.6,
+      "total" : 10
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "397798" ],
     "ANISON" : [ "25960" ],
     "ANN" : [ "33755" ],
+    "CRUNCHY_ROLL" : [ "GJ0H7QGVM" ],
     "IMDB" : [ "tt34512704" ],
     "MAL" : [ "60131" ],
     "SYOBOI" : [ "7528" ],
@@ -105,7 +241,8 @@
     "TWITTER" : [ "karaokemuchusa" ],
     "WEBSITE" : [ "https://karaoke-muchusa.com/" ],
     "WIKIPEDIA_EN" : [ "Let's_Go_Karaoke!" ],
-    "WIKIPEDIA_JP" : [ "カラオケ行こ!" ]
+    "WIKIPEDIA_JP" : [ "カラオケ行こ!" ],
+    "YOUTUBE" : [ "watch?v=Jh9atzsn2MM", "watch?v=Jxv8tCZse8g" ]
   },
   "start_date" : "2025-07-24",
   "tags" : {
@@ -136,6 +273,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "カラオケ行こ!",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "去K歌吧！",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",
