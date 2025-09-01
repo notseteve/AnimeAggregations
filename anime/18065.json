@@ -92,6 +92,7 @@
     } ]
   },
   "description" : "Note: The first episode received an early screening at a special event on 13 July 2025 at Hitotsubashi Hall in Tokyo. The regular TV broadcast started on 17 July 2025.",
+  "end_date" : "2025-09-18",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-17",
@@ -171,8 +172,14 @@
       "number" : 5,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Natsu no Hajimari no Cacophony"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Summer Cacophony"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夏の始まりのカコフォニィ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -208,6 +215,28 @@
         "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-11",
+      "episode_id" : 300009,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-18",
+      "episode_id" : 300010,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
     } ],
     "CREDITS" : [ {
       "air_date" : "2025-07-24",
@@ -224,16 +253,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.04,
-      "total" : 7
+      "rating" : 3.22,
+      "total" : 8
     },
     "TEMPORARY" : {
-      "rating" : 4.28,
-      "total" : 7
+      "rating" : 4.75,
+      "total" : 8
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "395287" ],
+    "ANISON" : [ "25188" ],
     "ANN" : [ "28644" ],
     "IMDB" : [ "tt36592773" ],
     "MAL" : [ "55689" ],

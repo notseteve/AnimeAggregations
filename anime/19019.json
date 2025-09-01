@@ -66,6 +66,14 @@
       "name" : "Kyuutarou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 150213,
+      "name" : "Maruyama-producer",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150211,
+      "name" : "Mei",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148936,
       "name" : "Miyu",
       "type" : "CHARACTER"
@@ -76,6 +84,10 @@
     }, {
       "character_id" : 147295,
       "name" : "Mori Koharu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150214,
+      "name" : "Natsuno Hanae",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148410,
@@ -112,6 +124,10 @@
     }, {
       "character_id" : 148025,
       "name" : "Sunda Odoru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150212,
+      "name" : "Tenko",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -156,6 +172,10 @@
       "name" : "Cutty",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 150215,
+      "name" : "Jogi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146196,
       "name" : "Meroron",
       "type" : "CHARACTER"
@@ -181,6 +201,10 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 147212,
+      "name" : "Tanakhan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150269,
       "name" : "Tanakhan",
       "type" : "CHARACTER"
     }, {
@@ -223,7 +247,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.74,
+        "rating" : 8.68,
         "total" : 1
       },
       "recap" : false,
@@ -247,7 +271,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.08,
+        "rating" : 4.0,
         "total" : 1
       },
       "recap" : false,
@@ -291,7 +315,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.99,
+        "rating" : 6.91,
         "total" : 1
       },
       "recap" : false,
@@ -315,7 +339,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.08,
+        "rating" : 4.0,
         "total" : 1
       },
       "recap" : false,
@@ -736,6 +760,9 @@
       "length" : 25,
       "number" : 26,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8XG9X" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kyun Koso Mono no Jouzu Nare!"
@@ -753,9 +780,18 @@
       "length" : 25,
       "number" : 27,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUNVQ70" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "CureTube Hajimemashita!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 27"
+        "title" : "We Started a CureTube Channel!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "キュアチューブはじめました!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -765,8 +801,58 @@
       "number" : 28,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Wanwan! Kyuu-chan to Issho!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 28"
+        "title" : "Woof Woof! Together with Kyu-chan!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "わんわん! きゅーちゃんと一緒!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-24",
+      "episode_id" : 299601,
+      "length" : 25,
+      "number" : 29,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 29"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-31",
+      "episode_id" : 299602,
+      "length" : 25,
+      "number" : 30,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 30"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-07",
+      "episode_id" : 299603,
+      "length" : 25,
+      "number" : 31,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 31"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-14",
+      "episode_id" : 299604,
+      "length" : 25,
+      "number" : 32,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 32"
       } ],
       "type" : "REGULAR"
     } ]

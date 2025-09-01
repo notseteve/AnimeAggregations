@@ -147,8 +147,8 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 2.35,
-        "total" : 3
+        "rating" : 2.27,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -171,7 +171,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.31,
+        "rating" : 4.3,
         "total" : 3
       },
       "recap" : false,
@@ -195,7 +195,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 1.97,
+        "rating" : 1.99,
         "total" : 2
       },
       "recap" : false,
@@ -219,8 +219,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.6,
-        "total" : 1
+        "rating" : 3.62,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -242,10 +242,23 @@
       "episode_id" : 299171,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 1.99,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMD7JJ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Cat Max"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Cat Max"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "キャットマックス"
       } ],
       "type" : "REGULAR"
     }, {
@@ -253,10 +266,23 @@
       "episode_id" : 299172,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 1.99,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU735N9" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Cat Rising"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Cat Rising"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "キャットライジング"
       } ],
       "type" : "REGULAR"
     }, {
@@ -264,10 +290,23 @@
       "episode_id" : 299173,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 1.99,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UXV37D" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "The Feline D-Rex from Another World"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yuusei kara no Neko D-Rex"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "遊星からの猫D-REX"
       } ],
       "type" : "REGULAR"
     }, {
@@ -279,6 +318,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-08-31",
+      "episode_id" : 300244,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-07",
+      "episode_id" : 300245,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-14",
+      "episode_id" : 300246,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-21",
+      "episode_id" : 300247,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -326,18 +409,20 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.36,
-      "total" : 26
+      "rating" : 3.15,
+      "total" : 28
     },
     "TEMPORARY" : {
-      "rating" : 4.67,
-      "total" : 26
+      "rating" : 4.5,
+      "total" : 29
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "398342" ],
     "ANISON" : [ "25973" ],
     "ANN" : [ "32177" ],
+    "BANGUMI" : [ "481745" ],
+    "BILI_BILI" : [ "bangumi/media/md26814897" ],
     "CRUNCHY_ROLL" : [ "GKEH2G0DN" ],
     "IMDB" : [ "tt31435652" ],
     "MAL" : [ "58197" ],
@@ -400,6 +485,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "ニャイト・オブ・ザ・リビングキャット",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "活死喵之夜",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

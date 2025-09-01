@@ -1,6 +1,41 @@
 {
   "anime_id" : 17824,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 120940,
+      "name" : "Faputa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 89866,
+      "name" : "Nanachi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 88494,
+      "name" : "Reg",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 88493,
+      "name" : "Riko",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
+    "1757" : [ {
+      "name" : "Kise Kazuchika",
+      "type" : "CHARACTER_DESIGN"
+    } ],
+    "2950" : [ {
+      "name" : "Kinema Citrus",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "4327" : [ {
+      "name" : "Kojima Masayuki",
+      "type" : "DIRECTOR"
+    } ],
+    "16406" : [ {
+      "name" : "Kuroda Yuka",
+      "type" : "CHARACTER_DESIGN"
+    } ],
     "45394" : [ {
       "name" : "Tsukushi Akihito",
       "type" : "ORIGINAL_WORK"
@@ -8,6 +43,23 @@
   },
   "description" : "* Based on http://anidb.net/cr45394 [Tsukushi Akihito]`s seinen manga series.",
   "episodes" : {
+    "REGULAR" : [ {
+      "episode_id" : 299683,
+      "length" : 0,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Awakening Mystery"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mezameru Shinpi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "目覚める神秘"
+      } ],
+      "type" : "REGULAR"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2023-01-15",
       "episode_id" : 262969,
@@ -38,7 +90,7 @@
     "WIKIPEDIA_JP" : [ "メイドインアビス" ],
     "YOUTUBE" : [ "watch?v=ePOyy6Wlk4s" ]
   },
-  "start_date" : "1970-01-01",
+  "start_date" : "2026",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -58,13 +110,13 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Made in Abyss (Zokuhen)",
+    "title" : "Made in Abyss (2026)",
     "type" : "MAIN"
   }, {
     "language" : "JAPANESE",
-    "title" : "メイドインアビス (続編)",
+    "title" : "メイドインアビス (2026)",
     "type" : "OFFICIAL"
   } ],
-  "type" : "UNKNOWN",
+  "type" : "MOVIE",
   "url" : "http://miabyss.com/"
 }

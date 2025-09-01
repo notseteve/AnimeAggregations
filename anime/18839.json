@@ -5,6 +5,10 @@
       "character_id" : 149599,
       "name" : "Cherryl Baker",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 150170,
+      "name" : "Oliver Baker",
+      "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 145020,
@@ -50,6 +54,10 @@
       "name" : "Kikuchi Toshihiro",
       "type" : "DIRECTOR"
     } ],
+    "25425" : [ {
+      "name" : "Fushimi Hiromi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "42386" : [ {
       "name" : "Okano Rikiya",
       "type" : "CHARACTER_DESIGN"
@@ -67,6 +75,7 @@
     } ]
   },
   "description" : "http://anidb.net/ch145020 [Kusakabe Renji], a young man working at a game centre, sees an English girl named http://anidb.net/ch145019 [Lily Baker] playing a crane game on Valentine`s Day. Seeing her fail repeatedly to win a prize, Renji can`t help but take action. The day after Lily finally gets her plushie, Renji receives an unexpected message from her that reads, \"Be my valentine!\" What started as a misunderstanding leads to cultural exchange!\nSource: Crunchyroll\nNote: The first three episodes received an early screening at a special event on 28 June 2025 at Kino Cinéma Shinjuku in Tokyo. The regular TV broadcast started on 6 July 2025.",
+  "end_date" : "2025-09-28",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-06",
@@ -74,8 +83,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.85,
-        "total" : 5
+        "rating" : 5.68,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -98,7 +107,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.34,
+        "rating" : 7.32,
         "total" : 4
       },
       "recap" : false,
@@ -122,7 +131,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.0,
+        "rating" : 7.98,
         "total" : 3
       },
       "recap" : false,
@@ -146,7 +155,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.0,
+        "rating" : 7.98,
         "total" : 3
       },
       "recap" : false,
@@ -169,7 +178,14 @@
       "episode_id" : 298665,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 6.41,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8X1M5" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "This Is My Dad!"
@@ -186,25 +202,44 @@
       "episode_id" : 298666,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 7.69,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUNV89J" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "I Didn`t Notice That At All!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "I Didn`t Notice That at All!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "I Didn`t Notice That at All!"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-08-17",
+      "air_date" : "2025-08-24",
       "episode_id" : 298667,
       "length" : 25,
       "number" : 7,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "All Work and No Play Makes Hotaru a Dull Girl"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "All Work and No Play Makes Hotaru a Dull Girl"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "All Work and No Play Makes Hotaru a Dull Girl"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-08-24",
+      "air_date" : "2025-08-31",
       "episode_id" : 298668,
       "length" : 25,
       "number" : 8,
@@ -214,12 +249,78 @@
         "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-07",
+      "episode_id" : 299767,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-14",
+      "episode_id" : 299768,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-21",
+      "episode_id" : 299769,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-28",
+      "episode_id" : 299770,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-08-17",
+      "episode_id" : 299828,
+      "length" : 25,
+      "number" : 1,
+      "recap" : true,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Geesen Shoujo to Furikaeri Soushuuhen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ゲーセン少女と振り返り総集編"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "CREDITS" : [ {
       "air_date" : "2025-07-06",
       "episode_id" : 298479,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.92,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -231,6 +332,10 @@
       "episode_id" : 298480,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.92,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -241,12 +346,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.2,
-      "total" : 28
+      "rating" : 4.19,
+      "total" : 30
     },
     "TEMPORARY" : {
-      "rating" : 5.39,
-      "total" : 28
+      "rating" : 5.43,
+      "total" : 30
     }
   },
   "resources" : {

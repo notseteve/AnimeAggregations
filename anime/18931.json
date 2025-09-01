@@ -107,7 +107,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.34,
+        "rating" : 5.33,
         "total" : 8
       },
       "recap" : false,
@@ -132,7 +132,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.63,
+        "rating" : 6.61,
         "total" : 7
       },
       "recap" : false,
@@ -157,7 +157,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.26,
+        "rating" : 6.24,
         "total" : 7
       },
       "recap" : false,
@@ -182,7 +182,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.21,
+        "rating" : 6.17,
         "total" : 6
       },
       "recap" : false,
@@ -207,7 +207,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.97,
+        "rating" : 4.95,
         "total" : 5
       },
       "recap" : false,
@@ -232,7 +232,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.04,
+        "rating" : 4.02,
         "total" : 7
       },
       "recap" : false,
@@ -257,7 +257,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.09,
+        "rating" : 5.06,
         "total" : 6
       },
       "recap" : false,
@@ -282,7 +282,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 4.26,
+        "rating" : 4.24,
         "total" : 5
       },
       "recap" : false,
@@ -307,7 +307,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.14,
+        "rating" : 5.11,
         "total" : 6
       },
       "recap" : false,
@@ -332,7 +332,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 4.4,
+        "rating" : 4.37,
         "total" : 6
       },
       "recap" : false,
@@ -357,7 +357,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 4.07,
+        "rating" : 4.04,
         "total" : 6
       },
       "recap" : false,
@@ -382,7 +382,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.78,
+        "rating" : 7.75,
         "total" : 6
       },
       "recap" : false,
@@ -422,21 +422,25 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.22,
-      "total" : 370
+      "rating" : 3.18,
+      "total" : 390
     },
     "TEMPORARY" : {
       "rating" : 5.76,
-      "total" : 373
+      "total" : 393
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "397666" ],
+    "AMAZON_PRIME" : [ "0U5ZXYF6HHAP1044ACRW3SM2SI" ],
     "ANISON" : [ "25896" ],
     "ANN" : [ "33767" ],
     "CRUNCHY_ROLL" : [ "GKEH2G0J4" ],
+    "IMDB" : [ "tt35014218" ],
     "MAL" : [ "60140" ],
+    "NETFLIX" : [ "82058632" ],
     "SYOBOI" : [ "7387" ],
+    "TMDB" : [ "tv/277881" ],
     "TWITTER" : [ "kanchigai_pr" ],
     "WEBSITE" : [ "https://kanchigai-pr.com/" ],
     "WIKIPEDIA_EN" : [ "The_Unaware_Atelier_Master" ],
@@ -463,6 +467,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1244" : {
+      "info_box" : false,
+      "name" : "summoning",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1802" : {
       "info_box" : true,
       "name" : "seinen",
@@ -470,6 +490,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2094" : {
+      "info_box" : true,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2605" : {
       "info_box" : false,
@@ -522,6 +550,22 @@
       "verified" : false,
       "weight" : 600
     },
+    "2646" : {
+      "info_box" : false,
+      "name" : "demon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -554,6 +598,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5889" : {
+      "info_box" : false,
+      "name" : "magic weapons",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -576,6 +628,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7141" : {
+      "info_box" : false,
+      "name" : "goblin",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7885" : {
       "info_box" : false,
