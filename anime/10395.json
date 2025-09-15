@@ -770,7 +770,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.16,
-      "total" : 2104
+      "total" : 2107
     },
     "REVIEW" : {
       "rating" : 2.83,
@@ -778,13 +778,15 @@
     },
     "TEMPORARY" : {
       "rating" : 7.08,
-      "total" : 2114
+      "total" : 2118
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "348105" ],
     "ANISON" : [ "17006" ],
     "ANN" : [ "15853" ],
+    "BANGUMI" : [ "93424" ],
+    "BILI_BILI" : [ "bangumi/media/md4152/" ],
     "CRUNCHY_ROLL" : [ "GYMGDG3WY" ],
     "MAL" : [ "22101" ],
     "SYOBOI" : [ "3377" ],
@@ -1047,8 +1049,12 @@
     "title" : "それでも世界は美しい Still world is Beautiful",
     "type" : "OFFICIAL"
   }, {
-    "language" : "CHINESE_SIMPLIFIED",
+    "language" : "CHINESE_TRADITIONAL",
     "title" : "即使如此世界依然美麗",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "尽管如此世界依然美丽",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

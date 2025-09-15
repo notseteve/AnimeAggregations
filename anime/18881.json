@@ -96,14 +96,107 @@
         "title" : "Complete Movie"
       } ],
       "type" : "REGULAR"
+    } ],
+    "OTHER" : [ {
+      "air_date" : "2025-08-27",
+      "episode_id" : 300721,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMNG50" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Haru"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Spring"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "春"
+      } ],
+      "type" : "OTHER"
+    }, {
+      "air_date" : "2025-08-27",
+      "episode_id" : 300722,
+      "length" : 20,
+      "number" : 2,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUWZJ4K" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Advancement, Reunion, Future"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shinkyuu, Saikai, Shinro"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "進級, 再会, 進路"
+      } ],
+      "type" : "OTHER"
+    }, {
+      "air_date" : "2025-08-27",
+      "episode_id" : 300723,
+      "length" : 20,
+      "number" : 3,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU34PXX" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sukitte Kimochi o"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Feeling Called Love"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "好きって気もちを"
+      } ],
+      "type" : "OTHER"
+    }, {
+      "air_date" : "2025-08-27",
+      "episode_id" : 300724,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9EZ1Q" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hare no Hi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Sunny Day"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "晴れの日"
+      } ],
+      "type" : "OTHER"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.5,
+      "total" : 11
+    },
+    "TEMPORARY" : {
+      "rating" : 6.18,
+      "total" : 11
+    }
   },
   "related" : {
     "PREQUEL" : [ 17945 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "397211" ],
+    "ANISON" : [ "25843" ],
     "ANN" : [ "33622" ],
+    "CRUNCHY_ROLL" : [ "GW4HM7WP9" ],
     "MAL" : [ "59957" ],
     "TWITTER" : [ "painoko_anime" ],
     "WEBSITE" : [ "https://senpaiha-otokonoko.com/" ],
@@ -112,9 +205,108 @@
   },
   "start_date" : "2025-02-14",
   "tags" : {
+    "2565" : {
+      "info_box" : false,
+      "name" : "cross-dressing",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2614" : {
+      "info_box" : true,
+      "name" : "josei",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2786" : {
+      "info_box" : true,
+      "name" : "love polygon",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -132,6 +324,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Eiga Senpai wa Otokonoko: Ame Nochi Hare",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Senpai Is an Otokonoko Movie: Sunshine After the Rain",
+    "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "剧场版 前辈是男孩子：雨过天晴",

@@ -48,12 +48,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.67,
-      "total" : 37
+      "rating" : 4.86,
+      "total" : 39
     },
     "TEMPORARY" : {
-      "rating" : 5.05,
-      "total" : 37
+      "rating" : 5.16,
+      "total" : 39
     }
   },
   "resources" : {
@@ -91,6 +91,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
@@ -112,6 +120,29 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2759" : {
+      "info_box" : true,
+      "name" : "motorsport",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2766" : {
+      "info_box" : false,
+      "name" : "street racing",
+      "parent_tag_id" : 2759,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -120,6 +151,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2881" : {
       "info_box" : false,
       "name" : "sports",
@@ -127,6 +174,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "4258" : {
+      "info_box" : false,
+      "name" : "drifting",
+      "parent_tag_id" : 2759,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "5939" : {
       "info_box" : false,

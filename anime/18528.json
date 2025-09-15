@@ -143,7 +143,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.13,
+        "rating" : 3.12,
         "total" : 13
       },
       "recap" : false,
@@ -171,7 +171,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.58,
+        "rating" : 5.57,
         "total" : 10
       },
       "recap" : false,
@@ -199,7 +199,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.24,
+        "rating" : 5.23,
         "total" : 10
       },
       "recap" : false,
@@ -227,7 +227,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.23,
+        "rating" : 5.22,
         "total" : 10
       },
       "recap" : false,
@@ -283,7 +283,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.42,
+        "rating" : 4.41,
         "total" : 10
       },
       "recap" : false,
@@ -311,7 +311,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.15,
+        "rating" : 4.14,
         "total" : 10
       },
       "recap" : false,
@@ -339,7 +339,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.17,
+        "rating" : 5.16,
         "total" : 10
       },
       "recap" : false,
@@ -367,7 +367,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 4.47,
+        "rating" : 4.45,
         "total" : 10
       },
       "recap" : false,
@@ -423,7 +423,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 4.32,
+        "rating" : 4.31,
         "total" : 9
       },
       "recap" : false,
@@ -512,17 +512,19 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.71,
-      "total" : 422
+      "total" : 443
     },
     "TEMPORARY" : {
       "rating" : 5.99,
-      "total" : 424
+      "total" : 445
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "397803" ],
     "ANISON" : [ "25881" ],
     "ANN" : [ "32386" ],
+    "BANGUMI" : [ "484402" ],
+    "BILI_BILI" : [ "bangumi/media/md25551648" ],
     "CRUNCHY_ROLL" : [ "G4PH0WJ9G" ],
     "IMDB" : [ "tt32524709" ],
     "MAL" : [ "58359" ],
@@ -544,11 +546,26 @@
     },
     "19054" : {
       "rating" : 3.333333333333333,
-      "total" : 3
+      "total" : 6
     }
   },
   "start_date" : "2025-04-03",
   "tags" : {
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2859" : {
+      "info_box" : false,
+      "name" : "harem",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -578,12 +595,12 @@
     "title" : "一瞬で治療していたのに役立たずと追放された天才治癒師, 闇ヒーラーとして楽しく生きる",
     "type" : "OFFICIAL"
   }, {
-    "language" : "CHINESE_TRADITIONAL",
-    "title" : "瞬間治癒卻被當成廢物踢出隊伍的天才治療師，改當無照治療師快樂過活",
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "天才治疗师退队作为无照治疗师快乐过活",
     "type" : "OFFICIAL"
   }, {
-    "language" : "CHINESE_SIMPLIFIED",
-    "title" : "瞬间治愈却被当成废物踢出队伍的天才治疗师，改当无照治疗师快乐过活",
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "瞬間治癒卻被當成廢物踢出隊伍的天才治療師，改當無照治療師快樂過活",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
@@ -592,6 +609,10 @@
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "治疗师退队作为无照治疗师快乐过活",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "瞬间治愈却被当成废物踢出队伍的天才治疗师，改当无照治疗师快乐过活",
     "type" : "SYNONYM"
   }, {
     "language" : "CHINESE_SIMPLIFIED",

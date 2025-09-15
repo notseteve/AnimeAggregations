@@ -139,7 +139,7 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 7.9,
+        "rating" : 7.89,
         "total" : 7
       },
       "recap" : false,
@@ -181,7 +181,7 @@
       "length" : 30,
       "number" : 3,
       "rating" : {
-        "rating" : 7.88,
+        "rating" : 7.86,
         "total" : 6
       },
       "recap" : false,
@@ -202,7 +202,7 @@
       "length" : 30,
       "number" : 4,
       "rating" : {
-        "rating" : 9.01,
+        "rating" : 9.0,
         "total" : 6
       },
       "recap" : false,
@@ -223,7 +223,7 @@
       "length" : 30,
       "number" : 5,
       "rating" : {
-        "rating" : 9.62,
+        "rating" : 9.96,
         "total" : 6
       },
       "recap" : false,
@@ -265,8 +265,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.64,
-        "total" : 3
+        "rating" : 7.86,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -283,12 +283,22 @@
     }, {
       "air_date" : "2025-08-25",
       "episode_id" : 299166,
-      "length" : 25,
+      "length" : 30,
       "number" : 8,
+      "rating" : {
+        "rating" : 7.35,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tanabe-san no Koiwazurai / Honkan no Iji / Manzara / Tekaridake no Enshutsu Sakka Tamashii / Boutique / Shutsujin / Hatsukoi / Gekidan Tekaridake Dai 7 Kai Kouen \"Nodo\""
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Tanabe`s Love Affair / Officer`s Willpower / Altogether / Tekaridake`s Playwright Spirit / Boutique / Deployment / First Love / Tekaridake Troupe 7th Production \"Throat\""
+      }, {
+        "language" : "JAPANESE",
+        "title" : "タナベさんの恋わずらい★ / 本官の意地 / 満更 / 光岳の演出作家魂 / ブティック / 出陣 / 初恋 / 劇団テカリダケ第7回公演『のど』"
       } ],
       "type" : "REGULAR"
     }, {
@@ -296,10 +306,20 @@
       "episode_id" : 300248,
       "length" : 30,
       "number" : 9,
+      "rating" : {
+        "rating" : 9.31,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 4 Kai City Race / Hasha"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "The 4th City Race / Champion"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第4回CITYレース / 覇者"
       } ],
       "type" : "REGULAR"
     }, {
@@ -353,7 +373,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 9.55,
+        "rating" : 9.5,
         "total" : 1
       },
       "recap" : false,
@@ -368,7 +388,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 7.26,
+        "rating" : 7.19,
         "total" : 1
       },
       "recap" : false,
@@ -381,12 +401,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.38,
-      "total" : 48
+      "rating" : 5.37,
+      "total" : 51
     },
     "TEMPORARY" : {
-      "rating" : 6.39,
-      "total" : 49
+      "rating" : 6.47,
+      "total" : 52
     }
   },
   "related" : {
@@ -397,6 +417,8 @@
     "AMAZON" : [ "B0DXT28D1V" ],
     "ANISON" : [ "25966" ],
     "ANN" : [ "33595" ],
+    "BANGUMI" : [ "514358" ],
+    "BILI_BILI" : [ "bangumi/media/md26367205" ],
     "IMDB" : [ "tt33472011" ],
     "MAL" : [ "59898" ],
     "SYOBOI" : [ "7424" ],
@@ -414,6 +436,30 @@
   },
   "start_date" : "2025-07-07",
   "tags" : {
+    "997" : {
+      "info_box" : false,
+      "name" : "association football",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1298" : {
+      "info_box" : false,
+      "name" : "drawing",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1651" : {
+      "info_box" : false,
+      "name" : "photography",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "1802" : {
       "info_box" : true,
       "name" : "seinen",
@@ -432,6 +478,13 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -466,6 +519,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "2655" : {
+      "info_box" : false,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2656" : {
+      "info_box" : false,
+      "name" : "satire",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -482,10 +551,90 @@
       "verified" : false,
       "weight" : 600
     },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2876" : {
+      "info_box" : false,
+      "name" : "religion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "3023" : {
       "info_box" : false,
       "name" : "funny expressions",
       "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3185" : {
+      "info_box" : false,
+      "name" : "wordplay",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3363" : {
+      "info_box" : false,
+      "name" : "Buddhism",
+      "parent_tag_id" : 2876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3993" : {
+      "info_box" : false,
+      "name" : "kidnapping",
+      "parent_tag_id" : 2872,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -497,6 +646,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4388" : {
+      "info_box" : false,
+      "name" : "deconstruction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "4570" : {
       "info_box" : false,
@@ -513,6 +670,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5420" : {
+      "info_box" : false,
+      "name" : "wealth-related humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "5697" : {
       "info_box" : false,

@@ -106,6 +106,14 @@
       "name" : "Sakagami Ruka",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 150395,
+      "name" : "Sakura Atsuko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150392,
+      "name" : "Sakura Heiji",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 147297,
       "name" : "Shigure Ai",
       "type" : "CHARACTER"
@@ -128,6 +136,10 @@
     }, {
       "character_id" : 150212,
       "name" : "Tenko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150391,
+      "name" : "Utsurigi Daisuke",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -166,6 +178,10 @@
     "SECONDARY" : [ {
       "character_id" : 146994,
       "name" : "Chokkirine",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150350,
+      "name" : "Cuttin",
       "type" : "CHARACTER"
     }, {
       "character_id" : 147118,
@@ -210,6 +226,10 @@
     }, {
       "character_id" : 147184,
       "name" : "Zakkuri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150359,
+      "name" : "Zakkurin",
       "type" : "CHARACTER"
     } ]
   },
@@ -271,7 +291,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.0,
+        "rating" : 3.96,
         "total" : 1
       },
       "recap" : false,
@@ -315,7 +335,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.91,
+        "rating" : 6.89,
         "total" : 1
       },
       "recap" : false,
@@ -339,7 +359,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.0,
+        "rating" : 3.96,
         "total" : 1
       },
       "recap" : false,
@@ -800,6 +820,9 @@
       "length" : 25,
       "number" : 28,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WU7PMJ7" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Wanwan! Kyuu-chan to Issho!"
@@ -817,9 +840,18 @@
       "length" : 25,
       "number" : 29,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UDM4G9" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Meroron no Tomodachi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 29"
+        "title" : "Meroron`s Friend"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "メロロンのともだち"
       } ],
       "type" : "REGULAR"
     }, {
@@ -828,9 +860,18 @@
       "length" : 25,
       "number" : 30,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UEGXM0" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 30"
+        "title" : "Precure! Kirakkiran for You!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Precure! Kirakkiran for You!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "プリキュア! キラッキラン・フォー・ユー!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -839,9 +880,18 @@
       "length" : 25,
       "number" : 31,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMZ25X" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Idol Precure no Center!?"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 31"
+        "title" : "Who`s the Center of Idol Precure?!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アイドルプリキュアのセンター!?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -852,19 +902,69 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 32"
+        "title" : "Puri! Mero! Dreamy School Life!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Puri! Mero! Yume no Gakuen Seikatsu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "プリ! メロ! 夢の学園生活"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-21",
+      "episode_id" : 300754,
+      "length" : 25,
+      "number" : 33,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 33"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-28",
+      "episode_id" : 300755,
+      "length" : 25,
+      "number" : 34,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 34"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-05",
+      "episode_id" : 300756,
+      "length" : 25,
+      "number" : 35,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 35"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-12",
+      "episode_id" : 300757,
+      "length" : 25,
+      "number" : 36,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 36"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.95,
-      "total" : 13
+      "rating" : 5.41,
+      "total" : 16
     },
     "TEMPORARY" : {
-      "rating" : 5.46,
-      "total" : 13
+      "rating" : 5.94,
+      "total" : 17
     }
   },
   "related" : {
@@ -883,12 +983,12 @@
   },
   "similar" : {
     "8709" : {
-      "rating" : 3.333333333333333,
-      "total" : 3
+      "rating" : 2.5,
+      "total" : 4
     },
     "18690" : {
-      "rating" : 3.333333333333333,
-      "total" : 3
+      "rating" : 5.0,
+      "total" : 4
     }
   },
   "start_date" : "2025-02-02",

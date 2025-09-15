@@ -149,7 +149,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.34,
+        "rating" : 4.33,
         "total" : 5
       },
       "recap" : false,
@@ -249,7 +249,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.01,
+        "rating" : 4.99,
         "total" : 2
       },
       "recap" : false,
@@ -274,7 +274,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.25,
+        "rating" : 3.24,
         "total" : 2
       },
       "recap" : false,
@@ -299,7 +299,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.01,
+        "rating" : 4.99,
         "total" : 2
       },
       "recap" : false,
@@ -324,7 +324,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.25,
+        "rating" : 3.24,
         "total" : 2
       },
       "recap" : false,
@@ -374,7 +374,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.53,
+        "rating" : 7.54,
         "total" : 2
       },
       "recap" : false,
@@ -399,7 +399,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 9.15,
+        "rating" : 9.16,
         "total" : 2
       },
       "recap" : false,
@@ -446,12 +446,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.91,
-      "total" : 147
+      "rating" : 4.97,
+      "total" : 153
     },
     "TEMPORARY" : {
-      "rating" : 6.23,
-      "total" : 147
+      "rating" : 6.22,
+      "total" : 153
     }
   },
   "resources" : {
@@ -486,9 +486,39 @@
       "verified" : false,
       "weight" : 300
     },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

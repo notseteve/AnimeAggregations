@@ -19,7 +19,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.3,
+        "rating" : 2.29,
         "total" : 3
       },
       "recap" : false,
@@ -59,12 +59,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.61,
-      "total" : 158
+      "rating" : 2.62,
+      "total" : 159
     },
     "TEMPORARY" : {
-      "rating" : 4.79,
-      "total" : 158
+      "rating" : 4.77,
+      "total" : 159
     }
   },
   "resources" : {
@@ -77,6 +77,13 @@
   },
   "start_date" : "1997-05-21",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
@@ -108,9 +115,25 @@
       "verified" : false,
       "weight" : 400
     },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

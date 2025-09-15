@@ -523,7 +523,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.68,
-      "total" : 4477
+      "total" : 4479
     },
     "REVIEW" : {
       "rating" : 6.49,
@@ -531,7 +531,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.2,
-      "total" : 4499
+      "total" : 4501
     }
   },
   "resources" : {
@@ -728,6 +728,14 @@
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -987,6 +995,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "3842" : {
       "info_box" : false,
       "name" : "TV censoring",
@@ -1085,6 +1101,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

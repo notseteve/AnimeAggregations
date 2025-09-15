@@ -98,14 +98,42 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 8.09,
+      "total" : 1
+    },
+    "TEMPORARY" : {
+      "rating" : 8.0,
+      "total" : 1
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "398961" ],
+    "ANISON" : [ "26098" ],
     "ANN" : [ "34335" ],
     "TWITTER" : [ "ChaOmovie" ],
-    "WEBSITE" : [ "https://chao-movie.com/" ]
+    "WEBSITE" : [ "https://chao-movie.com/" ],
+    "WIKIPEDIA_EN" : [ "ChaO_(film)" ],
+    "WIKIPEDIA_JP" : [ "ChaO" ]
   },
   "start_date" : "2025-08-15",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

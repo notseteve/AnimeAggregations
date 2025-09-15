@@ -115,7 +115,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.03,
+        "rating" : 6.01,
         "total" : 2
       },
       "recap" : false,
@@ -163,7 +163,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.9,
+        "rating" : 5.89,
         "total" : 1
       },
       "recap" : false,
@@ -187,7 +187,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.9,
+        "rating" : 5.89,
         "total" : 1
       },
       "recap" : false,
@@ -251,17 +251,19 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.98,
-      "total" : 11
+      "total" : 12
     },
     "TEMPORARY" : {
-      "rating" : 4.9,
-      "total" : 11
+      "rating" : 5.08,
+      "total" : 12
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "397798" ],
     "ANISON" : [ "25960" ],
     "ANN" : [ "33755" ],
+    "BANGUMI" : [ "519956" ],
+    "BILI_BILI" : [ "bangumi/media/md26642375" ],
     "CRUNCHY_ROLL" : [ "GJ0H7QGVM" ],
     "IMDB" : [ "tt34512704" ],
     "MAL" : [ "60131" ],
@@ -336,8 +338,12 @@
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
-    "title" : "去K歌吧！",
+    "title" : "去唱卡拉OK吧！",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "去K歌吧！",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://karaoke-muchusa.com/"

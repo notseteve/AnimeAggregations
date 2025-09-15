@@ -91,7 +91,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.2,
+        "rating" : 7.19,
         "total" : 3
       },
       "recap" : false,
@@ -235,7 +235,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 9.14,
+        "rating" : 9.16,
         "total" : 2
       },
       "recap" : false,
@@ -258,10 +258,23 @@
       "episode_id" : 299149,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 8.95,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMZ7Q7" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nakigoe"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "The Cry"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "鳴き声"
       } ],
       "type" : "REGULAR"
     }, {
@@ -269,10 +282,23 @@
       "episode_id" : 300160,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMDW17" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "A Secret"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Himitsu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "秘密"
       } ],
       "type" : "REGULAR"
     }, {
@@ -335,12 +361,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.9,
-      "total" : 38
+      "rating" : 6.14,
+      "total" : 43
     },
     "TEMPORARY" : {
-      "rating" : 6.38,
-      "total" : 38
+      "rating" : 6.59,
+      "total" : 43
     }
   },
   "resources" : {
@@ -360,6 +386,21 @@
   },
   "start_date" : "2025-07-06",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1282" : {
+      "info_box" : false,
+      "name" : "pet",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
@@ -374,6 +415,21 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2864" : {
       "info_box" : true,
       "name" : "daily life",
@@ -382,9 +438,57 @@
       "verified" : false,
       "weight" : 600
     },
+    "3792" : {
+      "info_box" : false,
+      "name" : "iyashi-kei",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

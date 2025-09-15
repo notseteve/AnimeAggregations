@@ -22,6 +22,10 @@
       "name" : "Magma",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 132527,
+      "name" : "Moz",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149600,
       "name" : "Stanley (Youshouki)",
       "type" : "CHARACTER"
@@ -200,7 +204,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.83,
+        "rating" : 2.82,
         "total" : 2
       },
       "recap" : false,
@@ -227,7 +231,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.83,
+        "rating" : 2.82,
         "total" : 2
       },
       "recap" : false,
@@ -352,6 +356,10 @@
       "episode_id" : 298922,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 5.2,
+        "total" : 2
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GMKUE37MK" ]
@@ -372,7 +380,14 @@
       "episode_id" : 298923,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 5.2,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GVWU825X9" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Katsute Kesou to Shita Mono wa"
@@ -389,10 +404,23 @@
       "episode_id" : 299923,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 9.98,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UV2DEZ" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "OUR Dr.STONE"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Our Dr. Stone"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Our Dr. Stone"
       } ],
       "type" : "REGULAR"
     }, {
@@ -402,8 +430,14 @@
       "number" : 10,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mata Au Hi made"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Until We Meet Again"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "また逢う日まで"
       } ],
       "type" : "REGULAR"
     }, {
@@ -434,6 +468,10 @@
       "episode_id" : 298819,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.63,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -455,12 +493,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.83,
-      "total" : 31
+      "rating" : 6.98,
+      "total" : 36
     },
     "TEMPORARY" : {
-      "rating" : 7.25,
-      "total" : 32
+      "rating" : 7.45,
+      "total" : 37
     }
   },
   "related" : {
@@ -508,6 +546,10 @@
     "language" : "JAPANESE",
     "title" : "Dr.STONE SCIENCE FUTURE (2025)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Dr. Stone Season 4 Part 2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://dr-stone.jp/"

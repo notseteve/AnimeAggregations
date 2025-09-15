@@ -112,7 +112,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.08,
+        "rating" : 4.03,
         "total" : 2
       },
       "recap" : false,
@@ -137,7 +137,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.82,
+        "rating" : 8.79,
         "total" : 1
       },
       "recap" : false,
@@ -161,7 +161,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.82,
+        "rating" : 8.79,
         "total" : 1
       },
       "recap" : false,
@@ -185,7 +185,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.82,
+        "rating" : 8.79,
         "total" : 1
       },
       "recap" : false,
@@ -209,7 +209,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.82,
+        "rating" : 8.79,
         "total" : 1
       },
       "recap" : false,
@@ -233,7 +233,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.82,
+        "rating" : 8.79,
         "total" : 1
       },
       "recap" : false,
@@ -257,7 +257,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.82,
+        "rating" : 8.79,
         "total" : 1
       },
       "recap" : false,
@@ -276,11 +276,18 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-08-28",
+      "air_date" : "2025-08-29",
       "episode_id" : 298931,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 8.79,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUW7Z7W" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Blackout"
@@ -293,14 +300,23 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-09-04",
+      "air_date" : "2025-09-05",
       "episode_id" : 299931,
       "length" : 25,
       "number" : 9,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14UVP2P5" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Desire"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yakubou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "欲望 -Desire-"
       } ],
       "type" : "REGULAR"
     }, {
@@ -311,7 +327,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Artifice and Reality"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kasou to Genjitsu: Articial Real"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "仮想と現実 -Artificial real-"
       } ],
       "type" : "REGULAR"
     }, {
@@ -343,7 +365,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.46,
+        "rating" : 5.43,
         "total" : 3
       },
       "recap" : false,
@@ -377,18 +399,20 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 1.99,
-      "total" : 26
+      "rating" : 2.0,
+      "total" : 27
     },
     "TEMPORARY" : {
-      "rating" : 3.59,
-      "total" : 26
+      "rating" : 3.64,
+      "total" : 27
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "396514" ],
     "ANISON" : [ "25959" ],
     "ANN" : [ "31519" ],
+    "BANGUMI" : [ "475032" ],
+    "BILI_BILI" : [ "bangumi/media/md26640136" ],
     "CRUNCHY_ROLL" : [ "G3KHEVDGD" ],
     "MAL" : [ "57820", "61971" ],
     "SYOBOI" : [ "7476" ],
@@ -427,6 +451,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "神椿市建設中.",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "神椿市建設中。",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

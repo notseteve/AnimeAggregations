@@ -185,7 +185,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.29,
+        "rating" : 7.28,
         "total" : 2
       },
       "recap" : false,
@@ -210,7 +210,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.29,
+        "rating" : 7.28,
         "total" : 2
       },
       "recap" : false,
@@ -235,7 +235,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.29,
+        "rating" : 7.28,
         "total" : 2
       },
       "recap" : false,
@@ -260,7 +260,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.29,
+        "rating" : 7.28,
         "total" : 2
       },
       "recap" : false,
@@ -285,7 +285,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.29,
+        "rating" : 7.28,
         "total" : 2
       },
       "recap" : false,
@@ -310,7 +310,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.43,
+        "rating" : 6.42,
         "total" : 2
       },
       "recap" : false,
@@ -385,7 +385,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.55,
+        "rating" : 5.54,
         "total" : 2
       },
       "recap" : false,
@@ -410,7 +410,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 4.46,
+        "rating" : 4.45,
         "total" : 2
       },
       "recap" : false,
@@ -435,7 +435,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 9.06,
+        "rating" : 9.04,
         "total" : 1
       },
       "recap" : false,
@@ -480,12 +480,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.91,
-      "total" : 359
+      "rating" : 4.92,
+      "total" : 364
     },
     "TEMPORARY" : {
-      "rating" : 6.35,
-      "total" : 362
+      "rating" : 6.36,
+      "total" : 367
     }
   },
   "resources" : {
@@ -521,6 +521,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1759" : {
       "info_box" : false,
       "name" : "carefree",
@@ -537,6 +545,13 @@
       "verified" : false,
       "weight" : 100
     },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -551,9 +566,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -591,12 +621,12 @@
       "weight" : 0
     },
     "2849" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "fantasy",
       "parent_tag_id" : 7050,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
     },
     "2853" : {
       "info_box" : true,
@@ -654,6 +684,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6149" : {
       "info_box" : false,
       "name" : "TO BE MOVED TO CHARACTER",
@@ -665,6 +703,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -149,20 +149,6 @@
         "title" : "秒速5センチメートル"
       } ],
       "type" : "REGULAR"
-    }, {
-      "description" : "Complete version for EP1-EP3",
-      "episode_id" : 298435,
-      "length" : 63,
-      "number" : 4,
-      "recap" : true,
-      "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Byousoku 5 Centimeter Complete Version"
-      }, {
-        "language" : "JAPANESE",
-        "title" : "秒速5センチメートル Complete Version"
-      } ],
-      "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
       "episode_id" : 81127,
@@ -332,7 +318,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.91,
-      "total" : 10976
+      "total" : 10984
     },
     "REVIEW" : {
       "rating" : 8.93,
@@ -340,7 +326,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.1,
-      "total" : 11132
+      "total" : 11140
     }
   },
   "resources" : {
@@ -793,6 +779,22 @@
       "info_box" : false,
       "name" : "speculative fiction",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7075" : {
+      "info_box" : false,
+      "name" : "adapted into Japanese movie",
+      "parent_tag_id" : 7242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7242" : {
+      "info_box" : false,
+      "name" : "adapted into other media",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

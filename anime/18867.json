@@ -91,7 +91,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.52,
+        "rating" : 6.5,
         "total" : 6
       },
       "recap" : false,
@@ -118,7 +118,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.92,
+        "rating" : 8.91,
         "total" : 4
       },
       "recap" : false,
@@ -142,7 +142,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.06,
+        "rating" : 7.03,
         "total" : 2
       },
       "recap" : false,
@@ -166,7 +166,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.5,
+        "rating" : 9.48,
         "total" : 3
       },
       "recap" : false,
@@ -214,7 +214,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.15,
+        "rating" : 9.13,
         "total" : 2
       },
       "recap" : false,
@@ -238,8 +238,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 3.17,
-        "total" : 1
+        "rating" : 7.51,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -261,10 +261,23 @@
       "episode_id" : 299035,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kanjou no Shoutai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "The Meaning of These Feelings"
+      }, {
+        "language" : "POLISH",
+        "title" : "Znaczenie tych uczuć"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "感情の正体"
       } ],
       "type" : "REGULAR"
     }, {
@@ -272,10 +285,23 @@
       "episode_id" : 300150,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 8.56,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Blond Hair and Pierced Ears"
+      }, {
+        "language" : "POLISH",
+        "title" : "Blond włosy i przekłute uszy"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kinpatsu to Pierce"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "金髪とピアス"
       } ],
       "type" : "REGULAR"
     }, {
@@ -349,18 +375,20 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.67,
-      "total" : 45
+      "rating" : 7.21,
+      "total" : 57
     },
     "TEMPORARY" : {
-      "rating" : 7.33,
-      "total" : 48
+      "rating" : 7.52,
+      "total" : 61
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "397000" ],
     "ANISON" : [ "25957" ],
     "ANN" : [ "33549" ],
+    "BANGUMI" : [ "513345" ],
+    "BILI_BILI" : [ "bangumi/media/md26641346" ],
     "MAL" : [ "59845" ],
     "NETFLIX" : [ "82024665" ],
     "SYOBOI" : [ "7491" ],
@@ -372,6 +400,13 @@
   },
   "start_date" : "2025-07-06",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "922" : {
       "info_box" : true,
       "name" : "shounen",
@@ -380,13 +415,21 @@
       "verified" : false,
       "weight" : 0
     },
+    "1279" : {
+      "info_box" : false,
+      "name" : "all-girls school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2043" : {
       "info_box" : true,
       "name" : "high school",
       "parent_tag_id" : 2869,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 500
+      "weight" : 600
     },
     "2606" : {
       "info_box" : false,
@@ -409,18 +452,66 @@
       "verified" : false,
       "weight" : 0
     },
+    "2665" : {
+      "info_box" : false,
+      "name" : "school sports festival",
+      "parent_tag_id" : 6148,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2668" : {
+      "info_box" : false,
+      "name" : "all-boys school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2858" : {
       "info_box" : true,
       "name" : "romance",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 500
+      "weight" : 600
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2869" : {
       "info_box" : false,
       "name" : "school life",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3734" : {
+      "info_box" : false,
+      "name" : "school rivalry",
+      "parent_tag_id" : 5826,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5826" : {
+      "info_box" : false,
+      "name" : "rivalry",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6148" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO EPISODE",
+      "parent_tag_id" : 30,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -458,6 +549,10 @@
     "title" : "Kaoru i Rin: Rozkwitając z tobą",
     "type" : "OFFICIAL"
   }, {
+    "language" : "GERMAN",
+    "title" : "Kaoru und Rin",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "SPANISH",
     "title" : "La nobleza de las flores",
     "type" : "OFFICIAL"
@@ -468,6 +563,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "薫る花は凛と咲く",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "薰香花朵凛然绽放",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

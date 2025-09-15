@@ -273,7 +273,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.21,
+        "rating" : 4.2,
         "total" : 3
       },
       "recap" : false,
@@ -298,7 +298,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.21,
+        "rating" : 4.2,
         "total" : 3
       },
       "recap" : false,
@@ -323,7 +323,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.0,
+        "rating" : 9.01,
         "total" : 2
       },
       "recap" : false,
@@ -373,7 +373,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.8,
+        "rating" : 4.78,
         "total" : 2
       },
       "recap" : false,
@@ -594,22 +594,24 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.67,
-      "total" : 203
+      "rating" : 4.69,
+      "total" : 213
     },
     "REVIEW" : {
       "rating" : 6.5,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.24,
-      "total" : 204
+      "rating" : 6.26,
+      "total" : 214
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "394149" ],
     "ANISON" : [ "25772" ],
     "ANN" : [ "32283" ],
+    "BANGUMI" : [ "482719" ],
+    "BILI_BILI" : [ "bangumi/media/md24361881" ],
     "CRUNCHY_ROLL" : [ "GMEHME77W" ],
     "MAL" : [ "58271" ],
     "SYOBOI" : [ "7312" ],
@@ -714,12 +716,16 @@
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
-    "title" : "蜂蜜柠檬碳酸水",
+    "title" : "蜂蜜柠檬苏打",
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_TRADITIONAL",
     "title" : "青春特調蜂蜜檸檬蘇打",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "蜂蜜柠檬碳酸水",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://honeylemon-anime.com/"

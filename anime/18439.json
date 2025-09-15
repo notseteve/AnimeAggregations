@@ -86,6 +86,10 @@
       "name" : "Ruftmila",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 150735,
+      "name" : "Shildina",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149605,
       "name" : "Solea",
       "type" : "CHARACTER"
@@ -232,7 +236,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.93,
+        "rating" : 3.91,
         "total" : 6
       },
       "recap" : false,
@@ -316,7 +320,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.99,
+        "rating" : 3.98,
         "total" : 5
       },
       "recap" : false,
@@ -364,7 +368,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.76,
+        "rating" : 4.77,
         "total" : 4
       },
       "recap" : false,
@@ -388,8 +392,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.56,
-        "total" : 2
+        "rating" : 4.04,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -411,7 +415,14 @@
       "episode_id" : 298886,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 5.26,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UXV3N1" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Orochi"
@@ -428,10 +439,23 @@
       "episode_id" : 299951,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 2.21,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMX5KE" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Zodia"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Zodia"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ゾディア"
       } ],
       "type" : "REGULAR"
     }, {
@@ -441,8 +465,14 @@
       "number" : 10,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Inori"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Prayer"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "祈り"
       } ],
       "type" : "REGULAR"
     }, {
@@ -546,12 +576,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.56,
-      "total" : 34
+      "rating" : 4.68,
+      "total" : 38
     },
     "TEMPORARY" : {
-      "rating" : 6.14,
-      "total" : 37
+      "rating" : 6.26,
+      "total" : 41
     }
   },
   "related" : {
@@ -561,6 +591,8 @@
     "ALL_CINEMA" : [ "399458" ],
     "ANISON" : [ "21616" ],
     "ANN" : [ "31736" ],
+    "BANGUMI" : [ "476542" ],
+    "BILI_BILI" : [ "bangumi/play/ss102130" ],
     "CRUNCHY_ROLL" : [ "G6W4QKX0R" ],
     "MAL" : [ "57907" ],
     "SYOBOI" : [ "7512" ],
@@ -759,6 +791,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "盾の勇者の成り上がり Season 4",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "盾之勇者成名录 第四季",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "盾之勇者成名錄 第四季",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

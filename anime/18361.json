@@ -144,7 +144,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.7,
+        "rating" : 5.69,
         "total" : 8
       },
       "recap" : false,
@@ -169,7 +169,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.52,
+        "rating" : 4.51,
         "total" : 7
       },
       "recap" : false,
@@ -194,7 +194,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.71,
+        "rating" : 7.7,
         "total" : 7
       },
       "recap" : false,
@@ -219,7 +219,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.32,
+        "rating" : 3.37,
         "total" : 8
       },
       "recap" : false,
@@ -244,7 +244,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.67,
+        "rating" : 4.66,
         "total" : 7
       },
       "recap" : false,
@@ -269,7 +269,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.37,
+        "rating" : 6.36,
         "total" : 7
       },
       "recap" : false,
@@ -294,7 +294,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.94,
+        "rating" : 5.92,
         "total" : 7
       },
       "recap" : false,
@@ -319,7 +319,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.26,
+        "rating" : 5.25,
         "total" : 6
       },
       "recap" : false,
@@ -344,7 +344,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 3.21,
+        "rating" : 3.19,
         "total" : 5
       },
       "recap" : false,
@@ -369,7 +369,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 6.61,
+        "rating" : 6.6,
         "total" : 6
       },
       "recap" : false,
@@ -631,22 +631,24 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.52,
-      "total" : 401
+      "rating" : 5.53,
+      "total" : 414
     },
     "REVIEW" : {
       "rating" : 10.0,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.66,
-      "total" : 402
+      "rating" : 6.67,
+      "total" : 415
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "397460" ],
     "ANISON" : [ "25799" ],
     "ANN" : [ "31172" ],
+    "BANGUMI" : [ "472661" ],
+    "BILI_BILI" : [ "bangumi/media/md27125905" ],
     "CRUNCHY_ROLL" : [ "G24H1NWWE" ],
     "MAL" : [ "57648", "60295" ],
     "SYOBOI" : [ "7283" ],
@@ -808,12 +810,16 @@
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
-    "title" : "欢迎来到日本，精灵小姐。",
+    "title" : "欢迎来到日本，妖精小姐。",
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_TRADITIONAL",
     "title" : "歡迎來到日本，妖精小姐。",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "欢迎来到日本，精灵小姐。",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://welcome-elfsan.com/"

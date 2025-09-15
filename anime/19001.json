@@ -103,7 +103,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.91,
+        "rating" : 4.9,
         "total" : 7
       },
       "recap" : false,
@@ -124,7 +124,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.61,
+        "rating" : 8.6,
         "total" : 6
       },
       "recap" : false,
@@ -187,7 +187,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.16,
+        "rating" : 6.17,
         "total" : 5
       },
       "recap" : false,
@@ -208,8 +208,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.99,
-        "total" : 4
+        "rating" : 10.0,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -228,10 +228,20 @@
       "episode_id" : 299188,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 7.65,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "No Freaking Way I`m Surviving This Mess!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shuraba toka, Dou Agaite mo Muri!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "修羅場とか, どうあがいてもムリ!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -239,10 +249,84 @@
       "episode_id" : 299189,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 6.22,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "A Perfect Win? No Freaking Way!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kanzen Shouri Suru Nante, Muri Muri!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "完全勝利するなんて, ムリムリ!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-02",
+      "episode_id" : 300289,
+      "length" : 25,
+      "number" : 9,
+      "rating" : {
+        "rating" : 7.48,
+        "total" : 4
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ajisai-san no Otaku Houmon toka, Muri!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Visiting Ajisai`s House? No Freaking Way!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "紫陽花さんのお宅訪問とか, ムリ!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-09",
+      "episode_id" : 300290,
+      "length" : 25,
+      "number" : 10,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Trip with Just the Two of Us?! No Way!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Futarikkiri no Ryokou Nante, Muri!?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ふたりっきりの旅行なんて, ムリ!?"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-16",
+      "episode_id" : 300291,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-09-23",
+      "episode_id" : 300292,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -324,12 +408,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.76,
-      "total" : 36
+      "rating" : 5.61,
+      "total" : 44
     },
     "TEMPORARY" : {
-      "rating" : 6.36,
-      "total" : 36
+      "rating" : 6.53,
+      "total" : 45
     }
   },
   "resources" : {
@@ -346,6 +430,13 @@
   },
   "start_date" : "2025-07-08",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
@@ -357,6 +448,14 @@
       "info_box" : false,
       "name" : "unrequited love",
       "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -413,6 +512,10 @@
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "我怎么可能成为你的恋人，不行不行！(※不是不可能！？)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "murimuri",
+    "type" : "SHORT"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "watanare",
