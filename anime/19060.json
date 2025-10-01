@@ -82,6 +82,10 @@
       "name" : "Paterson",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 150749,
+      "name" : "Sawaki Rin",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 150241,
       "name" : "Toshirou",
       "type" : "CHARACTER"
@@ -92,6 +96,10 @@
     }, {
       "character_id" : 149446,
       "name" : "Tsuru-chan Junsha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151051,
+      "name" : "Vamola",
       "type" : "CHARACTER"
     }, {
       "character_id" : 150473,
@@ -112,10 +120,6 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
-      "character_id" : 143423,
-      "name" : "Acrobatic Sarasara",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 141682,
       "name" : "Ayase Seiko",
       "type" : "CHARACTER"
@@ -130,10 +134,6 @@
     }, {
       "character_id" : 141683,
       "name" : "Enjouji Jin",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 143425,
-      "name" : "Flatwoods Monster",
       "type" : "CHARACTER"
     }, {
       "character_id" : 143427,
@@ -212,8 +212,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.35,
-        "total" : 14
+        "rating" : 8.25,
+        "total" : 15
       },
       "recap" : false,
       "resources" : {
@@ -242,8 +242,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.7,
-        "total" : 14
+        "rating" : 7.64,
+        "total" : 15
       },
       "recap" : false,
       "resources" : {
@@ -272,8 +272,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.91,
-        "total" : 14
+        "rating" : 6.7,
+        "total" : 15
       },
       "recap" : false,
       "resources" : {
@@ -302,8 +302,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.01,
-        "total" : 15
+        "rating" : 9.03,
+        "total" : 16
       },
       "recap" : false,
       "resources" : {
@@ -332,8 +332,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.89,
-        "total" : 16
+        "rating" : 7.83,
+        "total" : 17
       },
       "recap" : false,
       "resources" : {
@@ -360,7 +360,7 @@
       "number" : 6,
       "rating" : {
         "rating" : 9.36,
-        "total" : 16
+        "total" : 17
       },
       "recap" : false,
       "resources" : {
@@ -386,8 +386,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.66,
-        "total" : 11
+        "rating" : 7.82,
+        "total" : 13
       },
       "recap" : false,
       "resources" : {
@@ -413,8 +413,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 9.04,
-        "total" : 9
+        "rating" : 8.79,
+        "total" : 12
       },
       "recap" : false,
       "resources" : {
@@ -440,8 +440,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 9.01,
-        "total" : 7
+        "rating" : 8.39,
+        "total" : 10
       },
       "recap" : false,
       "resources" : {
@@ -466,7 +466,14 @@
       "episode_id" : 299685,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 8.74,
+        "total" : 9
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UV2QX3" ]
+      },
       "titles" : [ {
         "language" : "POLISH",
         "title" : "Jak mieć branie?"
@@ -486,10 +493,26 @@
       "episode_id" : 299686,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 8.89,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8XEKE" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Hey, It`s a Kaiju"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaijuu jan yo"
+      }, {
+        "language" : "POLISH",
+        "title" : "Przecież to potwór"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "怪獣じゃんよ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -497,10 +520,26 @@
       "episode_id" : 299687,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 9.35,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUNVJ08" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Clash! Space Kaiju vs. Giant Robot!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gekitotsu! Uchuu Kaijuu tai Kyodai Robo!"
+      }, {
+        "language" : "POLISH",
+        "title" : "Starcie! Kosmita kontra wielki mech!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "激突! 宇宙怪獣対巨大ロボ!"
       } ],
       "type" : "REGULAR"
     } ],
@@ -545,7 +584,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 5.64,
+        "rating" : 6.2,
         "total" : 4
       },
       "recap" : false,
@@ -560,8 +599,8 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 9.99,
-        "total" : 2
+        "rating" : 7.45,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -625,16 +664,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.96,
-      "total" : 86
+      "rating" : 8.7,
+      "total" : 272
     },
     "TEMPORARY" : {
-      "rating" : 7.77,
-      "total" : 89
+      "rating" : 8.05,
+      "total" : 276
     }
   },
   "related" : {
-    "PREQUEL" : [ 18290 ]
+    "PREQUEL" : [ 18290 ],
+    "SEQUEL" : [ 19584 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "398543" ],

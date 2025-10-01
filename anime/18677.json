@@ -77,8 +77,53 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on a spy action comedy manga by http://anidb.net/cr65491 [Endou Tatsuya].",
+  "description" : "* Based on a spy action comedy manga by http://anidb.net/cr65491 [Endou Tatsuya].\nNote: The first two episodes received an early screening at a special event on 28 September 2025 at Lawson United Cinemas Minatomirai in Yokohama and six additional venues across Japan. The regular TV broadcast started on 4 October 2025.",
   "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-10-04",
+      "episode_id" : 301146,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-11",
+      "episode_id" : 301147,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-18",
+      "episode_id" : 301148,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-25",
+      "episode_id" : 301149,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2025-07-22",
       "episode_id" : 299333,
@@ -88,6 +133,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "PV 1 (0:48)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Season 3 Dai 1 Dan PV"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Season 3 第1弾PV"
       } ],
       "type" : "PROMOTION"
     } ]
@@ -98,11 +149,14 @@
   "resources" : {
     "ALL_CINEMA" : [ "398744" ],
     "ANN" : [ "32804" ],
+    "CRUNCHY_ROLL" : [ "G4PH0WXVJ" ],
     "MAL" : [ "59027" ],
+    "SYOBOI" : [ "7573" ],
     "TWITTER" : [ "spyfamily_anime" ],
     "WEBSITE" : [ "https://spy-family.net/tvseries/" ],
     "WIKIPEDIA_EN" : [ "Spy_×_Family" ],
-    "WIKIPEDIA_JP" : [ "SPY×FAMILY_(アニメ)" ]
+    "WIKIPEDIA_JP" : [ "SPY×FAMILY_(アニメ)" ],
+    "YOUTUBE" : [ "watch?v=mdB4IDEHFYk" ]
   },
   "start_date" : "2025-10-04",
   "tags" : {
@@ -157,8 +211,16 @@
     "title" : "Spy x Family (2025)",
     "type" : "MAIN"
   }, {
+    "language" : "GERMAN",
+    "title" : "SPY x FAMILY Staffel 3",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "SPY×FAMILY (2025)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Spy x Family (2025)",
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
@@ -167,10 +229,6 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Spy x Family Season 3",
-    "type" : "SYNONYM"
-  }, {
-    "language" : "JAPANESE",
-    "title" : "スパイファミリー (Shin Anime)",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

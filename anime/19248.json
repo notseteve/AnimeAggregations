@@ -2,8 +2,20 @@
   "anime_id" : 19248,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 132392,
+      "name" : "Amaryllis",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146662,
       "name" : "Brody Dudley",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132022,
+      "name" : "Chalk",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105412,
+      "name" : "Ganen",
       "type" : "CHARACTER"
     }, {
       "character_id" : 105726,
@@ -18,6 +30,10 @@
       "name" : "Kirisame",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 105411,
+      "name" : "Kokuyou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 105413,
       "name" : "Magma",
       "type" : "CHARACTER"
@@ -26,8 +42,64 @@
       "name" : "Moz",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 105644,
+      "name" : "Natori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132814,
+      "name" : "Ooarashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103222,
+      "name" : "Ruri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 109195,
+      "name" : "Ryuu-san",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105645,
+      "name" : "Sagan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132021,
+      "name" : "Sagara",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105050,
+      "name" : "Senkuu (Youshouki)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 116073,
+      "name" : "Shishiou Mirai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 109201,
+      "name" : "Shou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 109200,
+      "name" : "Soyuz",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149600,
       "name" : "Stanley (Youshouki)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151052,
+      "name" : "Suika",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 105051,
+      "name" : "Taiju (Youshouki)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 109203,
+      "name" : "Titan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 136160,
+      "name" : "Toushu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 111113,
@@ -204,7 +276,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.82,
+        "rating" : 2.83,
         "total" : 2
       },
       "recap" : false,
@@ -231,7 +303,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 2.82,
+        "rating" : 2.83,
         "total" : 2
       },
       "recap" : false,
@@ -428,7 +500,14 @@
       "episode_id" : 299924,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 8.15,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8X4JZ" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Mata Au Hi made"
@@ -445,10 +524,23 @@
       "episode_id" : 299925,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 5.46,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUNVW1G" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hitoribocchi no Scientist"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Scientist, All Alone"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ひとりぼっちのサイエンティスト"
       } ],
       "type" : "REGULAR"
     }, {
@@ -458,8 +550,14 @@
       "number" : 12,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "WHOLE NEW WORLD"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Whole New World"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Whole New World"
       } ],
       "type" : "REGULAR"
     } ],
@@ -469,7 +567,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.63,
+        "rating" : 4.77,
         "total" : 1
       },
       "recap" : false,
@@ -483,6 +581,10 @@
       "episode_id" : 298820,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.77,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -493,12 +595,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.98,
-      "total" : 36
+      "rating" : 6.63,
+      "total" : 39
     },
     "TEMPORARY" : {
-      "rating" : 7.45,
-      "total" : 37
+      "rating" : 7.32,
+      "total" : 40
     }
   },
   "related" : {

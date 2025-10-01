@@ -209,8 +209,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.55,
-        "total" : 18
+        "rating" : 4.46,
+        "total" : 19
       },
       "recap" : false,
       "titles" : [ {
@@ -240,8 +240,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.33,
-        "total" : 15
+        "rating" : 6.27,
+        "total" : 16
       },
       "recap" : false,
       "titles" : [ {
@@ -271,8 +271,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.34,
-        "total" : 12
+        "rating" : 6.27,
+        "total" : 13
       },
       "recap" : false,
       "titles" : [ {
@@ -302,8 +302,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.04,
-        "total" : 12
+        "rating" : 5.99,
+        "total" : 13
       },
       "recap" : false,
       "titles" : [ {
@@ -333,8 +333,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.84,
-        "total" : 11
+        "rating" : 6.73,
+        "total" : 12
       },
       "recap" : false,
       "titles" : [ {
@@ -364,8 +364,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.69,
-        "total" : 14
+        "rating" : 6.42,
+        "total" : 15
       },
       "recap" : false,
       "titles" : [ {
@@ -395,8 +395,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.89,
-        "total" : 11
+        "rating" : 5.62,
+        "total" : 12
       },
       "recap" : false,
       "titles" : [ {
@@ -426,8 +426,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.68,
-        "total" : 12
+        "rating" : 5.45,
+        "total" : 13
       },
       "recap" : false,
       "titles" : [ {
@@ -457,8 +457,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.96,
-        "total" : 11
+        "rating" : 7.76,
+        "total" : 12
       },
       "recap" : false,
       "titles" : [ {
@@ -488,8 +488,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.06,
-        "total" : 8
+        "rating" : 6.58,
+        "total" : 9
       },
       "recap" : false,
       "titles" : [ {
@@ -519,8 +519,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.84,
-        "total" : 9
+        "rating" : 5.52,
+        "total" : 10
       },
       "recap" : false,
       "titles" : [ {
@@ -550,8 +550,8 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.49,
-        "total" : 8
+        "rating" : 6.37,
+        "total" : 9
       },
       "recap" : false,
       "titles" : [ {
@@ -802,11 +802,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.35,
-      "total" : 1477
+      "total" : 1483
     },
     "TEMPORARY" : {
       "rating" : 7.2,
-      "total" : 1483
+      "total" : 1489
     }
   },
   "related" : {
@@ -853,6 +853,14 @@
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -961,6 +969,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2618" : {
       "info_box" : false,
       "name" : "collateral damage",
@@ -977,6 +993,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2646" : {
       "info_box" : false,
       "name" : "demon",
@@ -992,6 +1016,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2649" : {
+      "info_box" : false,
+      "name" : "dark fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2750" : {
       "info_box" : true,
@@ -1064,6 +1104,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2851" : {
+      "info_box" : false,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2853" : {
       "info_box" : false,
@@ -1152,6 +1200,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3040" : {
       "info_box" : false,
       "name" : "male protagonist",
@@ -1176,6 +1232,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3435" : {
+      "info_box" : false,
+      "name" : "eating of humans",
+      "parent_tag_id" : 2851,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3528" : {
       "info_box" : false,
       "name" : "reincarnation",
@@ -1188,6 +1252,14 @@
       "info_box" : false,
       "name" : "storytelling",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3721" : {
+      "info_box" : false,
+      "name" : "RPG aspects",
+      "parent_tag_id" : 2931,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1256,6 +1328,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4096" : {
+      "info_box" : false,
+      "name" : "gore",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4128" : {
       "info_box" : false,
       "name" : "zero to hero",
@@ -1296,6 +1376,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5604" : {
+      "info_box" : false,
+      "name" : "following one`s dream",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5792" : {
       "info_box" : false,
       "name" : "gangs",
@@ -1323,6 +1411,14 @@
     "5935" : {
       "info_box" : false,
       "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5948" : {
+      "info_box" : false,
+      "name" : "visible aura",
       "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
@@ -1371,6 +1467,22 @@
       "info_box" : true,
       "name" : "isekai",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6901" : {
+      "info_box" : false,
+      "name" : "underground",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6947" : {
+      "info_box" : false,
+      "name" : "orphanage",
+      "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

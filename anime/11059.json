@@ -349,11 +349,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.64,
-      "total" : 844
+      "total" : 848
     },
     "TEMPORARY" : {
       "rating" : 7.86,
-      "total" : 848
+      "total" : 852
     }
   },
   "related" : {
@@ -383,9 +383,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -450,6 +465,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2652" : {
+      "info_box" : false,
+      "name" : "super deformed",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2660" : {
       "info_box" : false,
       "name" : "other planet",
@@ -465,6 +488,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2798" : {
       "info_box" : true,
@@ -489,6 +520,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2850" : {
+      "info_box" : false,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2853" : {
       "info_box" : false,
@@ -545,9 +584,33 @@
       "verified" : false,
       "weight" : 300
     },
+    "3314" : {
+      "info_box" : false,
+      "name" : "fate",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3683" : {
       "info_box" : false,
       "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3792" : {
+      "info_box" : false,
+      "name" : "iyashi-kei",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
       "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
@@ -585,6 +648,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3977" : {
+      "info_box" : false,
+      "name" : "dialogue driven",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4055" : {
       "info_box" : false,
       "name" : "facial distortion",
@@ -617,10 +688,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "4251" : {
+      "info_box" : false,
+      "name" : "ensemble cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4333" : {
       "info_box" : false,
       "name" : "predominantly female cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4488" : {
+      "info_box" : false,
+      "name" : "terraforming",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4498" : {
+      "info_box" : false,
+      "name" : "heart-warming",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -665,6 +760,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5884" : {
+      "info_box" : false,
+      "name" : "slow-paced",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5963" : {
       "info_box" : false,
       "name" : "utopia",
@@ -672,6 +775,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "6029" : {
+      "info_box" : false,
+      "name" : "mundane made awesome",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6097" : {
       "info_box" : false,
@@ -699,6 +810,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

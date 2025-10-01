@@ -390,7 +390,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.11,
+        "rating" : 8.1,
         "total" : 9
       },
       "recap" : false,
@@ -424,7 +424,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.28,
+        "rating" : 7.27,
         "total" : 10
       },
       "recap" : false,
@@ -492,7 +492,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.84,
+        "rating" : 5.83,
         "total" : 10
       },
       "recap" : false,
@@ -1079,7 +1079,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.37,
-      "total" : 2599
+      "total" : 2604
     },
     "REVIEW" : {
       "rating" : 6.08,
@@ -1087,7 +1087,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.21,
-      "total" : 2612
+      "total" : 2617
     }
   },
   "related" : {
@@ -1156,6 +1156,14 @@
   },
   "start_date" : "2020-01-08",
   "tags" : {
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2043" : {
       "info_box" : false,
       "name" : "high school",
@@ -1168,6 +1176,38 @@
       "info_box" : false,
       "name" : "magic",
       "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2257" : {
+      "info_box" : false,
+      "name" : "zombie",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2346" : {
+      "info_box" : false,
+      "name" : "angel",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2355" : {
+      "info_box" : false,
+      "name" : "dragon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2535" : {
+      "info_box" : false,
+      "name" : "ghost",
+      "parent_tag_id" : 1152,
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
@@ -1230,6 +1270,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2620" : {
+      "info_box" : false,
+      "name" : "battle royale",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2622" : {
       "info_box" : false,
       "name" : "swordplay",
@@ -1278,6 +1326,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2646" : {
+      "info_box" : false,
+      "name" : "demon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2653" : {
       "info_box" : false,
       "name" : "slapstick",
@@ -1322,6 +1378,14 @@
       "info_box" : false,
       "name" : "hyperspace mallet",
       "parent_tag_id" : 2653,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1406,6 +1470,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2862" : {
       "info_box" : false,
       "name" : "friendship",
@@ -1452,6 +1524,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "3097" : {
+      "info_box" : false,
+      "name" : "underwater",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "3148" : {
       "info_box" : false,
@@ -1605,6 +1685,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4394" : {
       "info_box" : false,
       "name" : "defeat means friendship",
@@ -1645,6 +1733,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5781" : {
+      "info_box" : false,
+      "name" : "exorcism",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5851" : {
       "info_box" : false,
       "name" : "female protagonist",
@@ -1657,6 +1753,14 @@
       "info_box" : false,
       "name" : "power gives you wings",
       "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5889" : {
+      "info_box" : false,
+      "name" : "magic weapons",
+      "parent_tag_id" : 2094,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1767,6 +1871,14 @@
       "info_box" : false,
       "name" : "soft science fiction",
       "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "7146" : {
+      "info_box" : false,
+      "name" : "cute girls doing cute things",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 100

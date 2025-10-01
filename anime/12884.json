@@ -94,12 +94,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.77,
-      "total" : 175
+      "rating" : 4.75,
+      "total" : 176
     },
     "TEMPORARY" : {
       "rating" : 6.04,
-      "total" : 176
+      "total" : 177
     }
   },
   "resources" : {
@@ -130,6 +130,20 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2607" : {
       "info_box" : false,
@@ -207,6 +221,22 @@
       "verified" : false,
       "weight" : 600
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2793" : {
       "info_box" : false,
       "name" : "performance",
@@ -255,6 +285,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2883" : {
       "info_box" : false,
       "name" : "the arts",
@@ -262,6 +300,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2924" : {
+      "info_box" : false,
+      "name" : "earthquake",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "4227" : {
       "info_box" : false,
@@ -271,10 +333,66 @@
       "verified" : false,
       "weight" : 0
     },
+    "4431" : {
+      "info_box" : false,
+      "name" : "love at first sight",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4440" : {
+      "info_box" : false,
+      "name" : "boy meets girl",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4480" : {
+      "info_box" : false,
+      "name" : "happy ending",
+      "parent_tag_id" : 6246,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4588" : {
+      "info_box" : false,
+      "name" : "fast-paced",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4606" : {
+      "info_box" : false,
+      "name" : "slide show animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5768" : {
       "info_box" : false,
       "name" : "intact family",
       "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5916" : {
+      "info_box" : false,
+      "name" : "product placement",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -297,6 +415,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -332,6 +466,10 @@
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
+    "title" : "Hakubo",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "SPANISH_LATIN",
     "title" : "Hakubo",
     "type" : "OFFICIAL"
   }, {

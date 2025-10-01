@@ -119,7 +119,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.98,
+        "rating" : 5.97,
         "total" : 6
       },
       "recap" : false,
@@ -143,7 +143,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.63,
+        "rating" : 6.61,
         "total" : 5
       },
       "recap" : false,
@@ -167,7 +167,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.99,
+        "rating" : 5.97,
         "total" : 5
       },
       "recap" : false,
@@ -191,7 +191,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.08,
+        "rating" : 6.07,
         "total" : 5
       },
       "recap" : false,
@@ -215,7 +215,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.4,
+        "rating" : 6.38,
         "total" : 5
       },
       "recap" : false,
@@ -239,8 +239,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.8,
-        "total" : 4
+        "rating" : 5.3,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -263,8 +263,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.23,
-        "total" : 4
+        "rating" : 7.16,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -287,8 +287,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 4.53,
-        "total" : 4
+        "rating" : 6.58,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -311,8 +311,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 3.97,
-        "total" : 1
+        "rating" : 4.89,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -334,7 +334,14 @@
       "episode_id" : 299940,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 8.77,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQ13MZ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Black Dragon"
@@ -351,10 +358,23 @@
       "episode_id" : 299941,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 5.6,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNJEZ4" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tenjou Kessen"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "The Battle Above the Clouds"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "天上決戦"
       } ],
       "type" : "REGULAR"
     }, {
@@ -364,8 +384,14 @@
       "number" : 12,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hikari no Naka de"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "In the Light"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "光の中で"
       } ],
       "type" : "REGULAR"
     } ],
@@ -410,7 +436,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 5.42,
+        "rating" : 5.4,
         "total" : 1
       },
       "recap" : false,
@@ -434,12 +460,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.92,
-      "total" : 49
+      "rating" : 6.11,
+      "total" : 53
     },
     "TEMPORARY" : {
-      "rating" : 6.81,
-      "total" : 50
+      "rating" : 6.87,
+      "total" : 54
     }
   },
   "related" : {
@@ -464,6 +490,22 @@
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1157" : {
+      "info_box" : false,
+      "name" : "horny nosebleed",
+      "parent_tag_id" : 2653,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -526,6 +568,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2628" : {
       "info_box" : false,
       "name" : "fictional location",
@@ -533,6 +583,46 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2646" : {
+      "info_box" : false,
+      "name" : "demon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2652" : {
+      "info_box" : false,
+      "name" : "super deformed",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2654" : {
+      "info_box" : false,
+      "name" : "medium awareness",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2656" : {
+      "info_box" : false,
+      "name" : "satire",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2750" : {
       "info_box" : false,
@@ -542,9 +632,25 @@
       "verified" : false,
       "weight" : 300
     },
+    "2769" : {
+      "info_box" : false,
+      "name" : "hyperspace mallet",
+      "parent_tag_id" : 2653,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2773" : {
       "info_box" : false,
       "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2774" : {
+      "info_box" : false,
+      "name" : "spellcasting",
       "parent_tag_id" : 2094,
       "spoiler" : false,
       "verified" : false,
@@ -590,6 +696,22 @@
       "verified" : false,
       "weight" : 600
     },
+    "2979" : {
+      "info_box" : false,
+      "name" : "mutilation",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3040" : {
       "info_box" : false,
       "name" : "male protagonist",
@@ -598,6 +720,38 @@
       "verified" : false,
       "weight" : 0
     },
+    "3202" : {
+      "info_box" : false,
+      "name" : "adoring fan club",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4167" : {
+      "info_box" : false,
+      "name" : "air combat",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "4611" : {
       "info_box" : false,
       "name" : "nearly almighty protagonist",
@@ -605,6 +759,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "5285" : {
+      "info_box" : false,
+      "name" : "street fighting",
+      "parent_tag_id" : 3411,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5889" : {
+      "info_box" : false,
+      "name" : "magic weapons",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5993" : {
+      "info_box" : false,
+      "name" : "black humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "6173" : {
       "info_box" : false,
@@ -617,6 +803,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
