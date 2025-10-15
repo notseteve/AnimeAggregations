@@ -16,6 +16,10 @@
       "episode_id" : 298058,
       "length" : 20,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.37,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -27,6 +31,10 @@
       "episode_id" : 298059,
       "length" : 20,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.37,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -37,17 +45,18 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.54,
-      "total" : 8
+      "rating" : 4.52,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 5.25,
-      "total" : 8
+      "rating" : 6.15,
+      "total" : 22
     }
   },
   "resources" : {
     "MAL" : [ "61935" ],
     "TMDB" : [ "tv/294740" ],
+    "VNDB" : [ "v35201" ],
     "WEBSITE" : [ "https://www.lune-soft.jp/ova/29536", "https://www.lune-soft.jp/ova/29558" ]
   },
   "start_date" : "2025-08-29",
@@ -92,6 +101,13 @@
     "2608" : {
       "info_box" : false,
       "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -174,6 +190,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2800" : {
+      "info_box" : true,
+      "name" : "game",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2804" : {
+      "info_box" : true,
+      "name" : "visual novel",
+      "parent_tag_id" : 2800,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2848" : {
       "info_box" : false,

@@ -24,6 +24,20 @@
       } ],
       "type" : "REGULAR"
     } ],
+    "SPECIAL" : [ {
+      "episode_id" : 302904,
+      "length" : 3,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Tokuhou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "特報"
+      } ],
+      "type" : "SPECIAL"
+    } ],
     "PROMOTION" : [ {
       "episode_id" : 268114,
       "length" : 3,
@@ -39,11 +53,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.08,
-      "total" : 165
+      "total" : 166
     },
     "TEMPORARY" : {
       "rating" : 5.81,
-      "total" : 168
+      "total" : 169
     }
   },
   "related" : {
@@ -60,6 +74,12 @@
     "WEBSITE" : [ "http://www.toei-anim.co.jp/lineup/movie/saiyuki/" ],
     "WIKIPEDIA_EN" : [ "Alakazam_the_Great" ],
     "WIKIPEDIA_JP" : [ "西遊記_(1960年の映画)" ]
+  },
+  "similar" : {
+    "5693" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
   },
   "start_date" : "1960-08-14",
   "tags" : {

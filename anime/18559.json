@@ -86,13 +86,98 @@
     } ]
   },
   "description" : "* Based on a fantasy romantic adventure manga by http://anidb.net/cr29746 [Maybe].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-10-04",
+      "episode_id" : 301158,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 7.77,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UDV9G0" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-11",
+      "episode_id" : 301159,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-18",
+      "episode_id" : 301160,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-25",
+      "episode_id" : 301161,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-10-04",
+      "episode_id" : 302945,
+      "length" : 60,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hanayome Shuugyou Kaimaku! Housou Chokuzen Cast Tokuban"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Cast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "花嫁修業開幕! 放送直前キャスト特番"
+      } ],
+      "type" : "SPECIAL"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.89,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 4.85,
+      "total" : 7
+    }
+  },
   "related" : {
     "PREQUEL" : [ 17826 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "402066" ],
+    "ANISON" : [ "25261" ],
     "ANN" : [ "32556" ],
+    "CRUNCHY_ROLL" : [ "G79H23ZGP" ],
     "MAL" : [ "58515" ],
+    "SYOBOI" : [ "7564" ],
     "TWITTER" : [ "weddingringsPR" ],
     "WEBSITE" : [ "https://talesofweddingrings-anime.jp/" ],
     "WIKIPEDIA_EN" : [ "Tales_of_Wedding_Rings" ],
@@ -100,6 +185,21 @@
   },
   "start_date" : "2025-10-04",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -121,13 +221,13 @@
     "title" : "Kekkon Yubiwa Monogatari II",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Tales of Wedding Rings Season 2",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "結婚指輪物語II",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Tales of Wedding Rings II",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://talesofweddingrings-anime.jp/"

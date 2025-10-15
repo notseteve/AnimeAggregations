@@ -1,6 +1,15 @@
 {
   "anime_id" : 18677,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 151482,
+      "name" : "Bob",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151481,
+      "name" : "Mannenhitsu",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 120729,
       "name" : "Anya Forger",
@@ -84,10 +93,23 @@
       "episode_id" : 301146,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.79,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMG8NJ" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Berlint Panic / Shouhouya to Tobari"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Berlint Panic / The Informant and Nightfall"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "バーリント・パニック / 情報屋と &lt;夜帷[とばり]&gt;"
       } ],
       "type" : "REGULAR"
     }, {
@@ -97,8 +119,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "&lt;雷[トニト]&gt;を回避せよ / ■■■■の記憶I"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Avoid Getting Tonitrus Bolts / xxxx`s Memories I"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tonito o Kaihi Seyo / no Kioku I"
       } ],
       "type" : "REGULAR"
     }, {
@@ -124,6 +152,70 @@
       } ],
       "type" : "REGULAR"
     } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-09-28",
+      "episode_id" : 302946,
+      "length" : 30,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Kinen: Forger-ke Dai Shuugou SP"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送記念 フォージャー家大集合SP"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-09-28",
+      "episode_id" : 302947,
+      "length" : 20,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai Kanransha \"Cosmo Clock 21\" Tentou Shiki & Forger-ke Cast Mini Talk Show"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode S2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "大観覧車「コスモクロック21」点灯式&フォージャー家キャストミニトークショー"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-10-04",
+      "episode_id" : 302948,
+      "length" : 60,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Operation &lt;Abema&gt; - Season 3 Housou Chokuzen Tokuban"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Operation Abema: Season 3 Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "オペレーション &lt;アベマ&gt; Season 3 放送直前特番"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-10-04",
+      "episode_id" : 302936,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2025-07-22",
       "episode_id" : 299333,
@@ -143,11 +235,22 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.51,
+      "total" : 21
+    },
+    "TEMPORARY" : {
+      "rating" : 6.84,
+      "total" : 22
+    }
+  },
   "related" : {
     "PREQUEL" : [ 17784 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "398744" ],
+    "ANISON" : [ "24231" ],
     "ANN" : [ "32804" ],
     "CRUNCHY_ROLL" : [ "G4PH0WXVJ" ],
     "MAL" : [ "59027" ],
@@ -156,7 +259,7 @@
     "WEBSITE" : [ "https://spy-family.net/tvseries/" ],
     "WIKIPEDIA_EN" : [ "Spy_×_Family" ],
     "WIKIPEDIA_JP" : [ "SPY×FAMILY_(アニメ)" ],
-    "YOUTUBE" : [ "watch?v=mdB4IDEHFYk" ]
+    "YOUTUBE" : [ "watch?v=mdB4IDEHFYk", "watch?v=nHbt-N6k2UQ" ]
   },
   "start_date" : "2025-10-04",
   "tags" : {

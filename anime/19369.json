@@ -84,23 +84,39 @@
     "76548" : [ {
       "name" : "Ebisawa Saki",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Ebisawa Saki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "81913" : [ {
       "name" : "Leeanne M. Krecic",
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "http://anidb.net/ch148961 [She]`s young, single and about to achieve her dream of creating incredible videogames. But then life throws her a one-two punch: a popular streamer gives her first game a scathing review. Even worse she finds out that same troublesome critic is now her new neighbor! A funny, sexy and all-too-real story about gaming, memes and social anxiety.\nSource: Webtoon",
+  "description" : "http://anidb.net/ch148961 [She]`s young, single and about to achieve her dream of creating incredible videogames. But then life throws her a one-two punch: a popular streamer gives her first game a scathing review. Even worse she finds out that same troublesome critic is now her new neighbor! A funny, sexy and all-too-real story about gaming, memes and social anxiety.\nSource: Webtoon\nNote: The first episode received an early screening on 3 July 2025 at Anime Expo in Los Angeles. The regular TV broadcast started on 2 October 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-02",
       "episode_id" : 301218,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.03,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00354964JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Life Is S-Rank"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Life Is S-Rank"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Life is S-Rank"
       } ],
       "type" : "REGULAR"
     }, {
@@ -108,10 +124,23 @@
       "episode_id" : 301219,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.86,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00354965JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "I Am N00b"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "I Am N00b"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "I am N00b"
       } ],
       "type" : "REGULAR"
     }, {
@@ -138,19 +167,47 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.13,
+      "total" : 13
+    },
+    "TEMPORARY" : {
+      "rating" : 4.38,
+      "total" : 13
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "400856" ],
     "ANN" : [ "30375" ],
+    "CRUNCHY_ROLL" : [ "GEXH3W2N9" ],
+    "MAL" : [ "61773" ],
     "SYOBOI" : [ "7595" ],
     "TWITTER" : [ "letsplay_anime/" ],
     "WEBSITE" : [ "https://letsplay-anime.com/" ],
-    "WIKIPEDIA_EN" : [ "Let's_Play_(comic)" ]
+    "WIKIPEDIA_EN" : [ "Let's_Play_(comic)" ],
+    "WIKIPEDIA_JP" : [ "Let's_Play_クエストだらけのマイライフ" ]
   },
   "start_date" : "2025-10-02",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3170" : {
+      "info_box" : false,
+      "name" : "occupation and career",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -159,6 +216,14 @@
       "info_box" : true,
       "name" : "Western comics",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3971" : {
+      "info_box" : false,
+      "name" : "entertainment industry",
+      "parent_tag_id" : 3170,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -199,6 +264,10 @@
     "language" : "JAPANESE",
     "title" : "Let`s Play クエストだらけのマイライフ",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Let`s Play: Quest-darake no My Life",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://letsplay-anime.com/"

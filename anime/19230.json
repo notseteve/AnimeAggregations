@@ -70,6 +70,114 @@
       "type" : "CHARACTER_DESIGN"
     } ]
   },
+  "description" : "Note: The first episode received an early screening at a special event on 20 September and 21 September 2025 at Digimon Expo`25 in Tokyo. The regular TV broadcast started on 5 October 2025.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-10-05",
+      "episode_id" : 301288,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364380JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kanjou no Kodou"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Beat of Emotions"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "感情の鼓動"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-12",
+      "episode_id" : 301289,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Glowing Dawn"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Glowing Dawn"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "グローイングドーン"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-19",
+      "episode_id" : 301290,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-26",
+      "episode_id" : 301291,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-09-28",
+      "episode_id" : 302931,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Oretachi! Digimon Sendenbu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "俺たち! デジモン宣伝部"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-09-28",
+      "episode_id" : 302932,
+      "length" : 40,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Oretachi! Digimon Sendenbu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "俺たち! デジモン宣伝部"
+      } ],
+      "type" : "SPECIAL"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.64,
+      "total" : 4
+    },
+    "TEMPORARY" : {
+      "rating" : 5.5,
+      "total" : 4
+    }
+  },
   "related" : {
     "OTHER" : [ 234 ]
   },
@@ -77,11 +185,14 @@
     "ALL_CINEMA" : [ "399742" ],
     "ANISON" : [ "26152" ],
     "ANN" : [ "35250" ],
+    "CRUNCHY_ROLL" : [ "GT00364378" ],
     "MAL" : [ "61269" ],
+    "SYOBOI" : [ "7614" ],
     "TWITTER" : [ "digimon_tv" ],
     "WEBSITE" : [ "https://www.toei-anim.co.jp/tv/digimon_beatbreak/" ],
     "WIKIPEDIA_EN" : [ "Digimon_Beatbreak" ],
-    "WIKIPEDIA_JP" : [ "デジモンビートブレイク" ]
+    "WIKIPEDIA_JP" : [ "デジモンビートブレイク" ],
+    "YOUTUBE" : [ "watch?v=nQ00CZ9E-PI" ]
   },
   "start_date" : "2025-10-05",
   "tags" : {
@@ -108,6 +219,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "DIGIMON BEATBREAK",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Digimon Beatbreak",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

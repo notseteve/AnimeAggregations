@@ -15,12 +15,24 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 151498,
+      "name" : "Kamizato Toki",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 150694,
       "name" : "Makina",
       "type" : "CHARACTER"
     }, {
       "character_id" : 150693,
-      "name" : "Neon",
+      "name" : "Neon Wozniak",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151497,
+      "name" : "Omoikane Tokoyo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151496,
+      "name" : "Yashiki Hana",
       "type" : "CHARACTER"
     } ]
   },
@@ -61,10 +73,23 @@
       "episode_id" : 301166,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.92,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00361984JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hajimemashite"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Nice to Meet You"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "はじめまして"
       } ],
       "type" : "REGULAR"
     }, {
@@ -100,17 +125,48 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-10-04",
+      "episode_id" : 302999,
+      "length" : 65,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Chokuzen Namahaishin"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前生配信"
+      } ],
+      "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.66,
+      "total" : 10
+    },
+    "TEMPORARY" : {
+      "rating" : 5.5,
+      "total" : 10
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "400194" ],
+    "ANISON" : [ "26122" ],
     "ANN" : [ "34354" ],
+    "CRUNCHY_ROLL" : [ "GXJHM3GZJ" ],
     "MAL" : [ "60781" ],
     "SYOBOI" : [ "7571" ],
     "TWITTER" : [ "alma_chan_pr" ],
     "WEBSITE" : [ "https://alma-chan.com/" ],
     "WIKIPEDIA_EN" : [ "Alma-chan_Wants_to_Be_a_Family!" ],
-    "WIKIPEDIA_JP" : [ "少女型兵器は家族になりたい" ]
+    "WIKIPEDIA_JP" : [ "少女型兵器は家族になりたい" ],
+    "YOUTUBE" : [ "watch?v=Nk3cdjLy0IY" ]
   },
   "start_date" : "2025-10-05",
   "tags" : {

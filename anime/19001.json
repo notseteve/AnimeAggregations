@@ -103,7 +103,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.89,
+        "rating" : 4.87,
         "total" : 7
       },
       "recap" : false,
@@ -124,7 +124,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.6,
+        "rating" : 8.58,
         "total" : 6
       },
       "recap" : false,
@@ -145,7 +145,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.14,
+        "rating" : 7.12,
         "total" : 6
       },
       "recap" : false,
@@ -166,7 +166,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.07,
+        "rating" : 7.06,
         "total" : 5
       },
       "recap" : false,
@@ -187,7 +187,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.16,
+        "rating" : 6.14,
         "total" : 5
       },
       "recap" : false,
@@ -229,7 +229,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.64,
+        "rating" : 7.63,
         "total" : 5
       },
       "recap" : false,
@@ -250,7 +250,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.21,
+        "rating" : 6.2,
         "total" : 5
       },
       "recap" : false,
@@ -271,7 +271,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.35,
+        "rating" : 7.34,
         "total" : 5
       },
       "recap" : false,
@@ -292,7 +292,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 9.64,
+        "rating" : 9.63,
         "total" : 5
       },
       "recap" : false,
@@ -313,8 +313,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 9.4,
-        "total" : 4
+        "rating" : 8.98,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -333,10 +333,20 @@
       "episode_id" : 300292,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 8.25,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Natsuyasumi ga Mou Owaru! Muri!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "No Freaking Way Summer Break Is Over!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夏休みがもう終わる! ムリ!"
       } ],
       "type" : "REGULAR"
     } ],
@@ -345,6 +355,10 @@
       "episode_id" : 298508,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.09,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -356,6 +370,10 @@
       "episode_id" : 299502,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.51,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -418,13 +436,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.76,
-      "total" : 46
+      "rating" : 6.44,
+      "total" : 124
     },
     "TEMPORARY" : {
-      "rating" : 6.67,
-      "total" : 48
+      "rating" : 6.94,
+      "total" : 126
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 19601 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "398207" ],

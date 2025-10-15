@@ -225,7 +225,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.06,
+        "rating" : 6.05,
         "total" : 13
       },
       "recap" : false,
@@ -256,7 +256,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.16,
+        "rating" : 6.15,
         "total" : 13
       },
       "recap" : false,
@@ -287,7 +287,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.31,
+        "rating" : 6.3,
         "total" : 13
       },
       "recap" : false,
@@ -318,7 +318,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.23,
+        "rating" : 7.22,
         "total" : 10
       },
       "recap" : false,
@@ -349,7 +349,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.5,
+        "rating" : 7.49,
         "total" : 10
       },
       "recap" : false,
@@ -470,7 +470,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 8.96,
+        "rating" : 8.95,
         "total" : 8
       },
       "recap" : false,
@@ -498,7 +498,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 8.45,
+        "rating" : 8.44,
         "total" : 10
       },
       "recap" : false,
@@ -526,7 +526,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 8.27,
+        "rating" : 8.26,
         "total" : 9
       },
       "recap" : false,
@@ -594,12 +594,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.53,
-      "total" : 439
+      "rating" : 5.55,
+      "total" : 447
     },
     "TEMPORARY" : {
-      "rating" : 6.55,
-      "total" : 441
+      "rating" : 6.56,
+      "total" : 449
     }
   },
   "resources" : {
@@ -625,6 +625,14 @@
   },
   "start_date" : "2025-01-05",
   "tags" : {
+    "1298" : {
+      "info_box" : false,
+      "name" : "drawing",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "1609" : {
       "info_box" : false,
       "name" : "elf",
@@ -692,6 +700,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2797" : {
       "info_box" : true,
       "name" : "new",
@@ -699,6 +723,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2849" : {
       "info_box" : false,
@@ -732,9 +764,25 @@
       "verified" : false,
       "weight" : 200
     },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3170" : {
+      "info_box" : false,
+      "name" : "occupation and career",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -743,6 +791,22 @@
       "info_box" : false,
       "name" : "despair",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3946" : {
+      "info_box" : false,
+      "name" : "filmmaking",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "3971" : {
+      "info_box" : false,
+      "name" : "entertainment industry",
+      "parent_tag_id" : 3170,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

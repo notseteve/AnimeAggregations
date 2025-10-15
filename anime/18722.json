@@ -6,6 +6,10 @@
       "name" : "Bakko",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151182,
+      "name" : "Hoshina Souichirou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149998,
       "name" : "Ichinokura",
       "type" : "CHARACTER"
@@ -24,6 +28,10 @@
     }, {
       "character_id" : 141644,
       "name" : "Itami Keiji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151116,
+      "name" : "Kaen",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140213,
@@ -52,6 +60,10 @@
     }, {
       "character_id" : 141646,
       "name" : "Kurusu Akira",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151117,
+      "name" : "Mayunashi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140216,
@@ -118,8 +130,16 @@
       "name" : "Takao",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151181,
+      "name" : "Tokuda Chieko",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 140215,
       "name" : "Tokuda Masahide",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141385,
+      "name" : "Tonari",
       "type" : "CHARACTER"
     }, {
       "character_id" : 140217,
@@ -274,7 +294,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.02,
+        "rating" : 6.03,
         "total" : 5
       },
       "recap" : false,
@@ -418,8 +438,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.46,
-        "total" : 1
+        "rating" : 4.02,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -441,10 +461,23 @@
       "episode_id" : 300726,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 6.62,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U34XG3" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Cataclysms"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gunpatsu Saigai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "群発災害"
       } ],
       "type" : "REGULAR"
     }, {
@@ -452,10 +485,23 @@
       "episode_id" : 300727,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 4.41,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUW79JD" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 2 Ha"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Second Wave"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第2波"
       } ],
       "type" : "REGULAR"
     } ],
@@ -596,10 +642,27 @@
       } ],
       "type" : "SPECIAL"
     }, {
+      "air_date" : "2025-09-20",
+      "episode_id" : 301357,
+      "length" : 2,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "HOSHI NIGHT NIPPON 9"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Hoshi Night Japan 9"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hoshi Night Nippon 9"
+      } ],
+      "type" : "SPECIAL"
+    }, {
       "air_date" : "2025-07-12",
       "episode_id" : 298226,
       "length" : 30,
-      "number" : 11,
+      "number" : 10,
       "rating" : {
         "rating" : 1.32,
         "total" : 1
@@ -614,6 +677,40 @@
       }, {
         "language" : "JAPANESE",
         "title" : "放送直前特番"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-08-05",
+      "episode_id" : 301764,
+      "length" : 85,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Anime Go! Game mo Go! \"Kaijuu 8 Gou\" 8 Gou no Hi Tokuban"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode S11"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アニメもGO! ゲームもGO! 『怪獣8号』8号の日特番"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-09-20",
+      "episode_id" : 301765,
+      "length" : 55,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S12"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fight, Gunpatsu! \"Kaijuu 8 Gou\" Dai 2 Ki Abema Tokuban!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ファイト, 群発っ! 『怪獣8号』第2期ABEMA特番!"
       } ],
       "type" : "SPECIAL"
     } ],
@@ -638,12 +735,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.73,
-      "total" : 64
+      "rating" : 6.06,
+      "total" : 261
     },
     "TEMPORARY" : {
-      "rating" : 6.87,
-      "total" : 66
+      "rating" : 6.9,
+      "total" : 263
     }
   },
   "related" : {
@@ -657,12 +754,12 @@
     "CRUNCHY_ROLL" : [ "GG5H5XQ7D" ],
     "MAL" : [ "59177" ],
     "SYOBOI" : [ "7475" ],
-    "TWITTER" : [ "KaijuNo8_O", "KaijuNo8_O/status/1949122547670221259", "KaijuNo8_O/status/1951651953932452280", "KaijuNo8_O/status/1954193450225762609", "KaijuNo8_O/status/1956724628719841511", "KaijuNo8_O/status/1959261092234105204", "KaijuNo8_O/status/1961797807435862122", "KaijuNo8_O/status/1964334773993951566", "KaijuNo8_O/status/1966871489698828715" ],
+    "TWITTER" : [ "KaijuNo8_O", "KaijuNo8_O/status/1949122547670221259", "KaijuNo8_O/status/1951651953932452280", "KaijuNo8_O/status/1954193450225762609", "KaijuNo8_O/status/1956724628719841511", "KaijuNo8_O/status/1959261092234105204", "KaijuNo8_O/status/1961797807435862122", "KaijuNo8_O/status/1964334773993951566", "KaijuNo8_O/status/1966871489698828715", "KaijuNo8_O/status/1969408203726471674" ],
     "WEBSITE" : [ "https://kaiju-no8.net/" ],
     "WEBSITE_EN" : [ "https://kaiju-no8.net/en/" ],
     "WIKIPEDIA_EN" : [ "Kaiju_No._8" ],
     "WIKIPEDIA_JP" : [ "怪獣8号" ],
-    "YOUTUBE" : [ "watch?v=zhXaZ4pL8gQ" ]
+    "YOUTUBE" : [ "watch?v=E01oAIu6X_U", "watch?v=zhXaZ4pL8gQ" ]
   },
   "start_date" : "2025-07-19",
   "tags" : {

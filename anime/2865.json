@@ -1,5 +1,54 @@
 {
   "anime_id" : 2865,
+  "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 151442,
+      "name" : "Yakata no Aruji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151443,
+      "name" : "Yakata no Musume",
+      "type" : "CHARACTER"
+    } ],
+    "MAIN" : [ {
+      "character_id" : 151407,
+      "name" : "Cherry Pai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151410,
+      "name" : "Lemon Pai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151409,
+      "name" : "Milky Pai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151408,
+      "name" : "Peach Pai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151405,
+      "name" : "Suuchii Pai",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 151406,
+      "name" : "Cecil Derringer",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151412,
+      "name" : "Katagiri Shiho",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151413,
+      "name" : "Pinzu Monster",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151411,
+      "name" : "Sasaki Rumi",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "913" : [ {
       "name" : "Daume",
@@ -69,12 +118,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.05,
-      "total" : 353
+      "rating" : 2.06,
+      "total" : 355
     },
     "TEMPORARY" : {
-      "rating" : 4.21,
-      "total" : 354
+      "rating" : 4.22,
+      "total" : 356
     }
   },
   "resources" : {
@@ -95,6 +144,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "1969" : {
+      "info_box" : false,
+      "name" : "mahjong",
+      "parent_tag_id" : 2756,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2180" : {
       "info_box" : true,
       "name" : "cyborg",
@@ -102,6 +159,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2202" : {
+      "info_box" : false,
+      "name" : "alien",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2438" : {
+      "info_box" : false,
+      "name" : "idol",
+      "parent_tag_id" : 2794,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2604" : {
       "info_box" : false,
@@ -120,6 +193,13 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -161,6 +241,22 @@
       "verified" : false,
       "weight" : 300
     },
+    "2756" : {
+      "info_box" : false,
+      "name" : "board games",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2794" : {
+      "info_box" : false,
+      "name" : "music",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2800" : {
       "info_box" : true,
       "name" : "game",
@@ -193,6 +289,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2856" : {
       "info_box" : true,
       "name" : "ecchi",
@@ -208,6 +312,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2891" : {
       "info_box" : false,

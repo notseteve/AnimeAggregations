@@ -1,9 +1,34 @@
 {
   "anime_id" : 18751,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 151437,
+      "name" : "Amagi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151440,
+      "name" : "Douzono Ikkei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151436,
+      "name" : "Izawa Miku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151438,
+      "name" : "Mogi Hajime",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151361,
+      "name" : "Tetsudome Toyo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151439,
+      "name" : "Utagawa Iori",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 145431,
-      "name" : "Sanda Hitoe",
+      "name" : "Sanda Kazushige",
       "type" : "CHARACTER"
     }, {
       "character_id" : 145430,
@@ -65,7 +90,74 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "The story starts with http://anidb.net/ch145431 [Sanda], a second year middle school student, getting attacked with a kitchen knife by his classmate Fuyumura. While Sanda couldn`t make sense of the situation at first, he gradually came to believe that Fuyumura`s actions were just mean acts stemming off from the latter having a peculiar puberty phase. But that is all a misunderstanding. Fuyumura actually suspects that Sanda is the descendant of a certain lineage.\nSource: M-U",
+  "description" : "The story starts with http://anidb.net/ch145431 [Sanda], a second year middle school student, getting attacked with a kitchen knife by his classmate Fuyumura. While Sanda couldn`t make sense of the situation at first, he gradually came to believe that Fuyumura`s actions were just mean acts stemming off from the latter having a peculiar puberty phase. But that is all a misunderstanding. Fuyumura actually suspects that Sanda is the descendant of a certain lineage.\nSource: M-U\nNote: The first episode received an early screening on 4 July 2025 at Anime Expo in Los Angeles. The regular TV broadcast started on 4 October 2025.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-10-04",
+      "episode_id" : 301269,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 6.28,
+        "total" : 6
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Everything`s Bright, Am I Aging?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Subete ga Mabushii: Kore ga Oi ka"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "全てが眩しい これが老いか"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-11",
+      "episode_id" : 301270,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-18",
+      "episode_id" : 301271,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-25",
+      "episode_id" : 301272,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.56,
+      "total" : 11
+    },
+    "TEMPORARY" : {
+      "rating" : 5.45,
+      "total" : 11
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "398650" ],
     "AMAZON" : [ "B0FMQQP92B" ],
@@ -75,10 +167,18 @@
     "SYOBOI" : [ "7560" ],
     "TWITTER" : [ "sanda_anime" ],
     "WEBSITE" : [ "https://sanda.red/" ],
-    "WIKIPEDIA_EN" : [ "Sanda_(manga)" ]
+    "WIKIPEDIA_EN" : [ "Sanda_(manga)" ],
+    "WIKIPEDIA_JP" : [ "SANDA" ]
   },
   "start_date" : "2025-10-04",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "922" : {
       "info_box" : true,
       "name" : "shounen",
@@ -101,6 +201,21 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -109,9 +224,41 @@
       "verified" : false,
       "weight" : 0
     },
+    "2880" : {
+      "info_box" : false,
+      "name" : "Christmas",
+      "parent_tag_id" : 6148,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "6148" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO EPISODE",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

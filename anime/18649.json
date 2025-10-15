@@ -138,7 +138,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.61,
+        "rating" : 6.59,
         "total" : 10
       },
       "recap" : false,
@@ -159,7 +159,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.05,
+        "rating" : 6.03,
         "total" : 9
       },
       "recap" : false,
@@ -180,7 +180,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.7,
+        "rating" : 7.68,
         "total" : 7
       },
       "recap" : false,
@@ -201,7 +201,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.9,
+        "rating" : 6.87,
         "total" : 6
       },
       "recap" : false,
@@ -222,7 +222,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.18,
+        "rating" : 6.13,
         "total" : 6
       },
       "recap" : false,
@@ -243,7 +243,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.84,
+        "rating" : 5.79,
         "total" : 5
       },
       "recap" : false,
@@ -264,7 +264,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.33,
+        "rating" : 8.31,
         "total" : 7
       },
       "recap" : false,
@@ -285,7 +285,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.08,
+        "rating" : 6.03,
         "total" : 5
       },
       "recap" : false,
@@ -306,8 +306,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.3,
-        "total" : 4
+        "rating" : 6.68,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -327,8 +327,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.05,
-        "total" : 3
+        "rating" : 6.39,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -347,10 +347,20 @@
       "episode_id" : 299773,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 6.97,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Indo`s Sin"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Indou no Tobira"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "忌堂の扉"
       } ],
       "type" : "REGULAR"
     }, {
@@ -358,17 +368,27 @@
       "episode_id" : 299774,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 9.02,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ibasho"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Its Place"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "居場所"
       } ],
       "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
       "air_date" : "2025-06-29",
       "episode_id" : 298158,
-      "length" : 60,
+      "length" : 55,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
@@ -409,13 +429,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.32,
-      "total" : 51
+      "rating" : 6.27,
+      "total" : 133
     },
     "TEMPORARY" : {
-      "rating" : 6.89,
-      "total" : 53
+      "rating" : 6.77,
+      "total" : 135
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 19618 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "398171" ],

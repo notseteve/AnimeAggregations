@@ -22,6 +22,10 @@
       "name" : "Tsukada Shin",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151226,
+      "name" : "Tsumugi Keiichirou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149494,
       "name" : "Tsumugi Kyouko",
       "type" : "CHARACTER"
@@ -91,7 +95,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.48,
+        "rating" : 6.46,
         "total" : 6
       },
       "recap" : false,
@@ -121,7 +125,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.88,
+        "rating" : 8.87,
         "total" : 4
       },
       "recap" : false,
@@ -148,7 +152,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.99,
+        "rating" : 6.95,
         "total" : 2
       },
       "recap" : false,
@@ -172,7 +176,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.46,
+        "rating" : 9.44,
         "total" : 3
       },
       "recap" : false,
@@ -196,7 +200,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 9.46,
+        "rating" : 9.44,
         "total" : 3
       },
       "recap" : false,
@@ -220,7 +224,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.8,
+        "rating" : 9.77,
         "total" : 3
       },
       "recap" : false,
@@ -244,7 +248,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.99,
+        "rating" : 8.95,
         "total" : 3
       },
       "recap" : false,
@@ -268,7 +272,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 9.46,
+        "rating" : 9.44,
         "total" : 3
       },
       "recap" : false,
@@ -292,7 +296,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 9.79,
+        "rating" : 9.77,
         "total" : 4
       },
       "recap" : false,
@@ -316,7 +320,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.36,
+        "rating" : 7.33,
         "total" : 3
       },
       "recap" : false,
@@ -340,8 +344,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 9.38,
-        "total" : 2
+        "rating" : 9.77,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -364,8 +368,8 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 9.89,
-        "total" : 1
+        "rating" : 10.0,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -387,10 +391,20 @@
       "episode_id" : 300154,
       "length" : 25,
       "number" : 13,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 13"
+        "title" : "Kaoruko and Rintaro"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaoruko to Rintarou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "薫子と凛太郎"
       } ],
       "type" : "REGULAR"
     } ],
@@ -420,12 +434,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.12,
-      "total" : 64
+      "rating" : 7.92,
+      "total" : 179
     },
     "TEMPORARY" : {
-      "rating" : 7.66,
-      "total" : 69
+      "rating" : 7.75,
+      "total" : 184
     }
   },
   "resources" : {
@@ -455,6 +469,14 @@
     "922" : {
       "info_box" : true,
       "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1077" : {
+      "info_box" : true,
+      "name" : "shoujo",
       "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
@@ -490,6 +512,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
@@ -512,6 +541,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2858" : {
       "info_box" : true,

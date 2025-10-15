@@ -1,6 +1,23 @@
 {
   "anime_id" : 17904,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 151462,
+      "name" : "Fuuna",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151465,
+      "name" : "Kasabe",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151463,
+      "name" : "Nagisa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151464,
+      "name" : "Saki",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 115463,
       "name" : "Fushi",
@@ -35,6 +52,18 @@
       "name" : "Hanna",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151356,
+      "name" : "Hirotoshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151359,
+      "name" : "Itsuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151358,
+      "name" : "Izumi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 128775,
       "name" : "Kai Renald Rawle",
       "type" : "CHARACTER"
@@ -53,6 +82,10 @@
     }, {
       "character_id" : 128777,
       "name" : "Messar Robin Bastar",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151357,
+      "name" : "Mimori",
       "type" : "CHARACTER"
     }, {
       "character_id" : 148908,
@@ -89,6 +122,14 @@
       "name" : "Yabuno Kouji",
       "type" : "CHARACTER_DESIGN"
     } ],
+    "26534" : [ {
+      "name" : "Imakado Takuya",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "33151" : [ {
+      "name" : "Ikeda Yuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "41690" : [ {
       "name" : "Ooima Yoshitoki",
       "type" : "ORIGINAL_WORK"
@@ -105,6 +146,14 @@
       "name" : "Drive",
       "type" : "ANIMATION_WORK"
     } ],
+    "64002" : [ {
+      "name" : "Li Shaolei",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "65585" : [ {
+      "name" : "Hu Fengcheng",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "66549" : [ {
       "name" : "Yokote Souta",
       "type" : "DIRECTOR"
@@ -117,10 +166,23 @@
       "episode_id" : 301150,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.13,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMGW3J" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Odayaka Naru Yo"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Peaceful World"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "穏やかなる世"
       } ],
       "type" : "REGULAR"
     }, {
@@ -131,7 +193,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "A Knot in the Soul"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kokoro no Musubime"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "こころのむすびめ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -158,6 +226,16 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.42,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 6.66,
+      "total" : 9
+    }
+  },
   "related" : {
     "PREQUEL" : [ 16573 ]
   },
@@ -165,6 +243,7 @@
     "ALL_CINEMA" : [ "400080" ],
     "ANISON" : [ "23062" ],
     "ANN" : [ "27347" ],
+    "CRUNCHY_ROLL" : [ "GG5H5XMWV" ],
     "MAL" : [ "54703" ],
     "SYOBOI" : [ "7576" ],
     "TWITTER" : [ "nep_fumetsu" ],
@@ -174,9 +253,172 @@
   },
   "start_date" : "2025-10-04",
   "tags" : {
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2642" : {
+      "info_box" : false,
+      "name" : "alternative present",
+      "parent_tag_id" : 2624,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2854" : {
+      "info_box" : false,
+      "name" : "henshin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4611" : {
+      "info_box" : false,
+      "name" : "nearly almighty protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5862" : {
+      "info_box" : false,
+      "name" : "melodrama",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

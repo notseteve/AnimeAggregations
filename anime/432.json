@@ -238,7 +238,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 4.36,
+        "rating" : 4.37,
         "total" : 2
       },
       "recap" : false,
@@ -280,7 +280,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 4.22,
+        "rating" : 4.21,
         "total" : 2
       },
       "recap" : false,
@@ -486,7 +486,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 7.01,
+        "rating" : 7.02,
         "total" : 1
       },
       "recap" : false,
@@ -626,7 +626,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 2.74,
-      "total" : 918
+      "total" : 919
     },
     "REVIEW" : {
       "rating" : 5.5,
@@ -634,7 +634,7 @@
     },
     "TEMPORARY" : {
       "rating" : 5.89,
-      "total" : 932
+      "total" : 933
     }
   },
   "resources" : {
@@ -642,9 +642,11 @@
     "ANIME_NFO" : [ "865,lksuiu" ],
     "ANISON" : [ "4775" ],
     "ANN" : [ "397" ],
+    "IMDB" : [ "tt0347854" ],
     "LAIN" : [ "mediadb/media/137" ],
     "MAL" : [ "1098" ],
     "MARUMEGANEL" : [ "2001/realbout_highschool" ],
+    "TMDB" : [ "tv/46673" ],
     "WEBSITE" : [ "http://www.gonzo.co.jp/works/samurai-girl-real-bout-high-school/" ],
     "WIKIPEDIA_EN" : [ "Samurai_Girl:_Real_Bout_High_School" ],
     "WIKIPEDIA_JP" : [ "召喚教師リアルバウトハイスクール" ]
@@ -972,6 +974,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4199" : {
+      "info_box" : false,
+      "name" : "live-action closing -- TO BE MOVED AND DELETED",
+      "parent_tag_id" : 6148,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5835" : {
       "info_box" : false,
       "name" : "Gainax bounce",
@@ -980,10 +990,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "5980" : {
+      "info_box" : false,
+      "name" : "live-action imagery",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6148" : {
       "info_box" : false,
       "name" : "TO BE MOVED TO EPISODE",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

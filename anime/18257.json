@@ -101,10 +101,26 @@
       "episode_id" : 301178,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMZ3Z8" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Arata na Nakama wa Tondemonai"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Der neue Kamerad ist ungeheuerlich"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "My New Friend Is Absurd"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "新たな仲間はとんでもない"
       } ],
       "type" : "REGULAR"
     }, {
@@ -114,8 +130,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Earth Dragon Kaitai Uketamawarimasu"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "地竜[アースドラゴン]解体承ります"
       } ],
       "type" : "REGULAR"
     }, {
@@ -142,6 +164,16 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.81,
+      "total" : 11
+    },
+    "TEMPORARY" : {
+      "rating" : 6.5,
+      "total" : 11
+    }
+  },
   "related" : {
     "PREQUEL" : [ 17689 ]
   },
@@ -149,6 +181,7 @@
     "ALL_CINEMA" : [ "400435" ],
     "ANISON" : [ "24676" ],
     "ANN" : [ "30535" ],
+    "CRUNCHY_ROLL" : [ "GG5H5X3EE" ],
     "MAL" : [ "57025" ],
     "SYOBOI" : [ "7569" ],
     "TWITTER" : [ "tonsuki_anime" ],
@@ -183,9 +216,17 @@
     "title" : "Campfire Cooking in Another World with My Absurd Skill Season 2",
     "type" : "OFFICIAL"
   }, {
+    "language" : "GERMAN",
+    "title" : "Campfire Cooking in Another World with My Absurd Skill Staffel 2",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "とんでもスキルで異世界放浪メシ2",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Tondemo Skill de Isekai Hourou Meshi S2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://tondemoskill-anime.com/"

@@ -51,8 +51,90 @@
       "type" : "CHARACTER"
     } ]
   },
+  "creators" : {
+    "5818" : [ {
+      "name" : "Kawada Ruka",
+      "type" : "MUSIC"
+    } ],
+    "21007" : [ {
+      "name" : "Ashina Minoru",
+      "type" : "DIRECTOR"
+    } ],
+    "21054" : [ {
+      "name" : "Takehara Minoru",
+      "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Takehara Minoru",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "23382" : [ {
+      "name" : "Studio Pu Yukai",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "42661" : [ {
+      "name" : "Maruyama Kugane",
+      "type" : "ORIGINAL_WORK"
+    } ],
+    "43256" : [ {
+      "name" : "Akatsuki Natsume",
+      "type" : "ORIGINAL_WORK"
+    } ],
+    "43464" : [ {
+      "name" : "Nagatsuki Tappei",
+      "type" : "ORIGINAL_WORK"
+    } ],
+    "44789" : [ {
+      "name" : "Carlo Zen",
+      "type" : "ORIGINAL_WORK"
+    } ]
+  },
   "description" : "* Isekai Quartet is a crossover series featuring characters from popular \"isekai\" franchises illustrated in cute, superdeformed style.",
   "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-10-13",
+      "episode_id" : 302878,
+      "length" : 15,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-20",
+      "episode_id" : 302879,
+      "length" : 15,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-27",
+      "episode_id" : 302880,
+      "length" : 15,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-03",
+      "episode_id" : 302881,
+      "length" : 15,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2025-08-08",
       "episode_id" : 300926,
@@ -70,21 +152,40 @@
         "title" : "ティザーPV"
       } ],
       "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-09-18",
+      "episode_id" : 302882,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Main PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Main PV (1:40)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "メインPV"
+      } ],
+      "type" : "PROMOTION"
     } ]
   },
   "related" : {
     "PREQUEL" : [ 15481 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "402208" ],
     "ANN" : [ "36547" ],
     "MAL" : [ "61851" ],
+    "SYOBOI" : [ "7611" ],
     "TWITTER" : [ "isekai_quartet" ],
     "WEBSITE" : [ "https://isekai-quartet.com/" ],
     "WIKIPEDIA_EN" : [ "Isekai_Quartet" ],
     "WIKIPEDIA_JP" : [ "異世界かるてっと" ],
-    "YOUTUBE" : [ "watch?v=yRKG0QKz514" ]
+    "YOUTUBE" : [ "watch?v=EWVNFG-wPMw", "watch?v=yRKG0QKz514" ]
   },
-  "start_date" : "1970-01-01",
+  "start_date" : "2025-10-13",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -107,13 +208,13 @@
     "title" : "Isekai Quartet 3",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Isekai Quartet 3",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "異世界かるてっと3",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Isekai Quartet 3",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://isekai-quartet.com/"

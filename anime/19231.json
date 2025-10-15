@@ -72,10 +72,23 @@
       "episode_id" : 301162,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.58,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364920JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Alec, Banished!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Alec, Tsuihou!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アレク, 追放!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -111,12 +124,41 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-10-04",
+      "episode_id" : 302933,
+      "length" : 60,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Chokuzen Tokuban! Motto Omoshiroku Naru Mahou o Kakemasu SP"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前特番! もっと面白くなる魔法をかけますSP"
+      } ],
+      "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.01,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 4.25,
+      "total" : 8
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "399859" ],
     "ANISON" : [ "26131" ],
     "ANN" : [ "35279" ],
+    "CRUNCHY_ROLL" : [ "GT00364918" ],
     "MAL" : [ "61276" ],
     "SYOBOI" : [ "7558" ],
     "TWITTER" : [ "hojomaho/" ],
@@ -144,7 +186,7 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Mikata ga Yowa Sugite Hojo Mahou ni Tesshite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou o Mezasu",
+    "title" : "Mikata ga Yowasugite Hojo Mahou ni Tesshite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou o Mezasu",
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
@@ -162,6 +204,10 @@
     "language" : "JAPANESE",
     "title" : "補助魔法",
     "type" : "SHORT"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "A Court Magician, Who Was Focused on Supportive Magic Because His Allies Were too Weak, Aims to Become the Strongest After Being Banished, Story of Lasting Period",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://hojomaho.com/"

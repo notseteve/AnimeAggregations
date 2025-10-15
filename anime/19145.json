@@ -67,8 +67,14 @@
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Te o Nobashita Hi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Day I Reached out My Hand"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "手を伸ばした日"
       } ],
       "type" : "REGULAR"
     }, {
@@ -79,7 +85,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Call My Name"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Namae o Yonde"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "名前を呼んで"
       } ],
       "type" : "REGULAR"
     }, {
@@ -106,15 +118,27 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.54,
+      "total" : 3
+    },
+    "TEMPORARY" : {
+      "rating" : 5.33,
+      "total" : 3
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "399275" ],
+    "AMAZON" : [ "B0FN3Y6LC2" ],
     "ANISON" : [ "26148" ],
     "ANN" : [ "34655" ],
     "MAL" : [ "60969" ],
     "SYOBOI" : [ "7577" ],
     "TWITTER" : [ "tamahoshi_anime" ],
     "WEBSITE" : [ "https://tamahoshi-anime.com/" ],
-    "WIKIPEDIA_EN" : [ "A_Star_Brighter_Than_the_Sun" ]
+    "WIKIPEDIA_EN" : [ "A_Star_Brighter_Than_the_Sun" ],
+    "WIKIPEDIA_JP" : [ "太陽よりも眩しい星" ]
   },
   "start_date" : "2025-10-02",
   "tags" : {
@@ -138,6 +162,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Taiyou yori mo Mabushii Hoshi",
     "type" : "MAIN"
+  }, {
+    "language" : "SPANISH",
+    "title" : "Una estrella más radiante que el Sol",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "太陽よりも眩しい星",

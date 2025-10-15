@@ -78,14 +78,164 @@
       "type" : "ANIMATION_WORK"
     } ]
   },
+  "description" : "Note: The first two episodes received an early screening at a special event on 15 September 2025 at Grand Cinema Sunshine Ikebukuro in Tokyo. The regular TV broadcast started on 6 October 2025.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-10-06",
+      "episode_id" : 301322,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 6.12,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00361928JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Certain Mangaka and Her Editor."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Toaru Mangaka to Henshuu Desu."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "とある漫画家と編集です."
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-13",
+      "episode_id" : 301323,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "She`s a Truly Dependable Assistant."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shinsoko Tayoreru Ashi-san Desu."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "心底頼れるアシさんです."
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-20",
+      "episode_id" : 301324,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-27",
+      "episode_id" : 301325,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-09-21",
+      "episode_id" : 301328,
+      "length" : 60,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Broadcast Commemoration Live Stream Special"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Kaishi Kinen Namahaishin SP"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送開始記念★生配信SP"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "PROMOTION" : [ {
+      "air_date" : "2025-02-27",
+      "episode_id" : 301327,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Teaser PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Teaser PV (1:15)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ティザーPV"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-07-17",
+      "episode_id" : 301326,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "PV 1 (1:40)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "PV Dai 1 Dan"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "PV第1弾"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-09-15",
+      "episode_id" : 301124,
+      "length" : 2,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "PV 2 (1:25)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "PV Dai 2 Dan"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "PV第2弾"
+      } ],
+      "type" : "PROMOTION"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.24,
+      "total" : 11
+    },
+    "TEMPORARY" : {
+      "rating" : 4.81,
+      "total" : 11
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "399532" ],
     "ANN" : [ "31611" ],
+    "CRUNCHY_ROLL" : [ "GT00361926" ],
     "MAL" : [ "57859" ],
+    "SYOBOI" : [ "7581" ],
     "TWITTER" : [ "egatae" ],
     "WEBSITE" : [ "https://www.egatae.com/" ],
     "WIKIPEDIA_EN" : [ "Egao_no_Taenai_Shokuba_Desu" ],
-    "WIKIPEDIA_JP" : [ "笑顔のたえない職場です。" ]
+    "WIKIPEDIA_JP" : [ "笑顔のたえない職場です。" ],
+    "YOUTUBE" : [ "watch?v=B3oDeY86E9Q", "watch?v=R76RivlfUWg", "watch?v=RV9zf3K_HkU", "watch?v=elSXyWs0Pm0" ]
   },
   "start_date" : "2025-10-06",
   "tags" : {
@@ -110,13 +260,13 @@
     "title" : "Egao no Taenai Shokuba Desu.",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "A Mangaka`s Weirdly Wonderful Workplace",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "笑顔のたえない職場です.",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "A Mangaka`s Weirdly Wonderful Workplace",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://www.egatae.com/"

@@ -9,13 +9,19 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Unmei no Time Leap"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "運命のタイムリープ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -24,13 +30,19 @@
       "length" : 20,
       "number" : 2,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kodoku no Sabaku Highway"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "孤独の砂漠ハイウェイ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -39,7 +51,7 @@
       "length" : 20,
       "number" : 3,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
@@ -54,7 +66,7 @@
       "length" : 20,
       "number" : 4,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
@@ -69,7 +81,7 @@
       "length" : 20,
       "number" : 5,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
@@ -84,7 +96,7 @@
       "length" : 20,
       "number" : 6,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
@@ -99,7 +111,7 @@
       "length" : 20,
       "number" : 7,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
@@ -114,7 +126,7 @@
       "length" : 20,
       "number" : 8,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
@@ -129,7 +141,7 @@
       "length" : 20,
       "number" : 9,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
@@ -144,7 +156,7 @@
       "length" : 20,
       "number" : 10,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
@@ -159,7 +171,7 @@
       "length" : 20,
       "number" : 11,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
@@ -174,7 +186,7 @@
       "length" : 20,
       "number" : 12,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
@@ -189,7 +201,7 @@
       "length" : 20,
       "number" : 13,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
@@ -204,7 +216,7 @@
       "length" : 20,
       "number" : 14,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
@@ -219,7 +231,7 @@
       "length" : 20,
       "number" : 15,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
@@ -234,7 +246,7 @@
       "length" : 20,
       "number" : 16,
       "rating" : {
-        "rating" : 9.04,
+        "rating" : 9.03,
         "total" : 1
       },
       "recap" : false,
@@ -247,12 +259,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.75,
-      "total" : 26
+      "rating" : 6.66,
+      "total" : 27
     },
     "TEMPORARY" : {
-      "rating" : 6.65,
-      "total" : 26
+      "rating" : 6.66,
+      "total" : 27
     }
   },
   "resources" : {
@@ -261,6 +273,7 @@
     "BILI_BILI" : [ "bangumi/media/md28339918/" ],
     "DOUBAN" : [ "36141054" ],
     "MAL" : [ "57663" ],
+    "SYOBOI" : [ "7605" ],
     "TMDB" : [ "tv/245325" ],
     "WEBSITE" : [ "https://www.fujitv.co.jp/hasanfugou/" ]
   },
@@ -332,6 +345,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "The Richest Man In Game",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE",
+    "title" : "破産富豪 The Richest Man in GAME",
     "type" : "SYNONYM"
   } ],
   "type" : "WEB"

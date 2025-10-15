@@ -11,7 +11,7 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
-      "character_id" : 99301,
+      "character_id" : 151343,
       "name" : "Ai",
       "type" : "CHARACTER"
     }, {
@@ -83,6 +83,10 @@
       "name" : "Shizuna",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151344,
+      "name" : "Takechiyo",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 94295,
       "name" : "Tsubaki Shirou",
       "type" : "CHARACTER"
@@ -125,10 +129,23 @@
       "episode_id" : 301205,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.71,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14UV4527" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Our Tanuki Is Getting Married."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tanuki no Yomeiri."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "狸の嫁入り."
       } ],
       "type" : "REGULAR"
     }, {
@@ -138,8 +155,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Atarashii Onsen Manjuu Tsukurimasu."
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "I`ll Make New Hot-Spring Buns."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "新しい温泉まんじゅう作ります."
       } ],
       "type" : "REGULAR"
     }, {
@@ -166,6 +189,16 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.65,
+      "total" : 3
+    },
+    "TEMPORARY" : {
+      "rating" : 4.66,
+      "total" : 3
+    }
+  },
   "related" : {
     "PREQUEL" : [ 13564 ]
   },
@@ -173,13 +206,15 @@
     "ALL_CINEMA" : [ "394946" ],
     "ANISON" : [ "21032" ],
     "ANN" : [ "32707" ],
+    "CRUNCHY_ROLL" : [ "G6MEK1ZGR" ],
     "MAL" : [ "58772" ],
+    "SYOBOI" : [ "7618" ],
     "TWITTER" : [ "kakuriyo_anime" ],
     "WEBSITE" : [ "http://kakuriyo-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Kakuriyo:_Bed_and_Breakfast_for_Spirits" ],
     "WIKIPEDIA_JP" : [ "かくりよの宿飯" ]
   },
-  "start_date" : "2025-10-01",
+  "start_date" : "2025-10-02",
   "tags" : {
     "2605" : {
       "info_box" : false,

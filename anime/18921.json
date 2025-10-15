@@ -1,7 +1,40 @@
 {
   "anime_id" : 18921,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 140923,
+      "name" : "Aoyama no Chichioya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 140922,
+      "name" : "Aoyama no Hahaoya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 106125,
+      "name" : "Fatgum",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 107604,
+      "name" : "Fatgum",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141802,
+      "name" : "Kunieda",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 90901,
+      "name" : "Stain",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 87742,
+      "name" : "Tsukauchi Naomasa",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
+      "character_id" : 92566,
+      "name" : "Deku",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 78198,
       "name" : "Midoriya Izuku",
       "type" : "CHARACTER"
@@ -21,6 +54,14 @@
     }, {
       "character_id" : 143927,
       "name" : "Armored All Might",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 92277,
+      "name" : "Can`t Stop Twinkling.",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 92275,
+      "name" : "Invisible Girl",
       "type" : "CHARACTER"
     }, {
       "character_id" : 87108,
@@ -69,10 +110,26 @@
       "episode_id" : 301251,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.45,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UND0M0" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Toshinori Yagi: Rising Origin"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Toshinori Yagi: Rising Origin"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yagi Toshinori: Rising Origin"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "八木俊典: ライジングオリジン"
       } ],
       "type" : "REGULAR"
     }, {
@@ -82,8 +139,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "The End of An Era,And―"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The End of an Era, And-"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "The End of an Era, And-"
       } ],
       "type" : "REGULAR"
     }, {
@@ -108,7 +171,29 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-10-04",
+      "episode_id" : 302944,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.67,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 7.1,
+      "total" : 10
+    }
   },
   "related" : {
     "PREQUEL" : [ 17931 ]
@@ -117,7 +202,9 @@
     "ALL_CINEMA" : [ "397471" ],
     "ANISON" : [ "18982" ],
     "ANN" : [ "33714" ],
+    "CRUNCHY_ROLL" : [ "G6NQ5DWZ6" ],
     "MAL" : [ "60098" ],
+    "SYOBOI" : [ "7627" ],
     "TWITTER" : [ "heroaca_anime" ],
     "WEBSITE" : [ "https://heroaca.com/" ],
     "WIKIPEDIA_EN" : [ "My_Hero_Academia" ],
@@ -125,6 +212,21 @@
   },
   "start_date" : "2025-10-04",
   "tags" : {
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",

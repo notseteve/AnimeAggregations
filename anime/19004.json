@@ -1,6 +1,23 @@
 {
   "anime_id" : 19004,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 151433,
+      "name" : "Hirano Takeshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 88166,
+      "name" : "Kachou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151434,
+      "name" : "Takeuchi Jun`ichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151435,
+      "name" : "Unno Juuzou",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 100310,
       "name" : "Kisugi Ai",
@@ -61,10 +78,23 @@
       "episode_id" : 301192,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.03,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Cat`s Eye Is Here!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Cat`s Eye Sanjou"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Das Supertrio taucht auf!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "キャッツアイ参上"
       } ],
       "type" : "REGULAR"
     }, {
@@ -74,8 +104,17 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Erinnerung an Papa"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Memory of Dad"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Papa no Omoide"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "パパの思い出"
       } ],
       "type" : "REGULAR"
     }, {
@@ -101,6 +140,16 @@
       } ],
       "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.28,
+      "total" : 11
+    },
+    "TEMPORARY" : {
+      "rating" : 5.13,
+      "total" : 11
+    }
   },
   "related" : {
     "ALTERNATIVE_SETTING" : [ 1025 ],
@@ -147,6 +196,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "CAT`S EYE (2025)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Cat`s Eye – Ein Supertrio",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

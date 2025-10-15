@@ -1,27 +1,101 @@
 {
   "anime_id" : 19405,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 148015,
+      "name" : "Taffee",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148014,
+      "name" : "Teeffee",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148016,
+      "name" : "Toffee",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 151097,
+      "name" : "Kumee",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151100,
+      "name" : "Nao",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148017,
+      "name" : "Porumee",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151098,
+      "name" : "Saja",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151099,
+      "name" : "Soapy",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148013,
+      "name" : "Willy",
+      "type" : "CHARACTER"
+    } ]
+  },
+  "creators" : {
+    "13073" : [ {
+      "name" : "Minagawa Kazunori",
+      "type" : "DIRECTOR"
+    } ],
+    "20876" : [ {
+      "name" : "Tsutsumi Hiroaki",
+      "type" : "MUSIC"
+    } ],
+    "70914" : [ {
+      "name" : "Toho Animation Studio",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "80788" : [ {
+      "name" : "Minagawa Miki",
+      "type" : "DIRECTOR"
+    } ]
+  },
+  "description" : "In the Muzik Forest, by a beautiful lake, live three tigers—http://anidb.net/ch148016 [Toffee], http://anidb.net/ch148014 [Teeffee], and http://anidb.net/ch148015 [Taffee]—along with a mouse named http://anidb.net/ch148013 [Willy], a moon rabbit called http://anidb.net/ch148017 [Porumee], an Asiatic black bear http://anidb.net/ch151097 [Kumee], a baby cat http://anidb.net/ch151099 [Soapy], and http://anidb.net/ch151098 [Saja], the superstar in Muzik Forest.\nThey lead a carefree life, not working, but every day is filled with fun and fascinating moments.\nSource: Official Website",
   "episodes" : {
     "REGULAR" : [ {
+      "air_date" : "2025-10-01",
       "episode_id" : 297321,
       "length" : 1,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Star no Himitsu: Part 1"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Secret of the Superstar: Part 1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "スターの秘密 part1"
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2025-10-08",
       "episode_id" : 297322,
       "length" : 1,
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Star no Himitsu: Part 2"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Secret of the Superstar: Part 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "スターの秘密 part2"
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2025-10-15",
       "episode_id" : 297323,
       "length" : 1,
       "number" : 3,
@@ -31,16 +105,39 @@
         "title" : "Episode 3"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-22",
+      "episode_id" : 301713,
+      "length" : 1,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.32,
+      "total" : 1
+    },
+    "TEMPORARY" : {
+      "rating" : 3.0,
+      "total" : 1
+    }
   },
   "related" : {
     "PREQUEL" : [ 18639 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "402403" ],
+    "ANN" : [ "37851" ],
     "TWITTER" : [ "muziktiger_JP" ],
     "WEBSITE" : [ "https://muziktiger-anime.com/" ]
   },
-  "start_date" : "2025-10",
+  "start_date" : "2025-10-01",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -66,6 +163,10 @@
     "language" : "JAPANESE",
     "title" : "MUZIK TIGER In the Forest (2025)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE",
+    "title" : "ムジークタイガー (2025)",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://muziktiger-anime.com/"

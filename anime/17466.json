@@ -104,7 +104,7 @@
       "length" : 90,
       "number" : 1,
       "rating" : {
-        "rating" : 6.26,
+        "rating" : 6.28,
         "total" : 5
       },
       "recap" : false,
@@ -131,7 +131,7 @@
       "length" : 75,
       "number" : 2,
       "rating" : {
-        "rating" : 6.47,
+        "rating" : 6.48,
         "total" : 2
       },
       "recap" : false,
@@ -211,12 +211,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.33,
-      "total" : 65
+      "rating" : 8.55,
+      "total" : 68
     },
     "TEMPORARY" : {
-      "rating" : 7.51,
-      "total" : 65
+      "rating" : 7.53,
+      "total" : 69
     }
   },
   "related" : {
@@ -240,6 +240,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -282,6 +289,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2862" : {
       "info_box" : false,

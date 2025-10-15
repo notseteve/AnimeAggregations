@@ -61,9 +61,18 @@
       "length" : 25,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364869JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "City of Mirage"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mirage no Machi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "蜃気楼[ミラージュ]の街"
       } ],
       "type" : "REGULAR"
     }, {
@@ -101,16 +110,45 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.41,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 3.85,
+      "total" : 7
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "401654" ],
+    "ANISON" : [ "26174" ],
     "ANN" : [ "37203" ],
+    "CRUNCHY_ROLL" : [ "G4PH0WJ8V" ],
     "MAL" : [ "62126" ],
+    "SYOBOI" : [ "7628" ],
     "TWITTER" : [ "sivis_official" ],
     "WEBSITE" : [ "https://si-vis.live/" ],
-    "WIKIPEDIA_EN" : [ "Si-Vis:_The_Sound_of_Heroes" ]
+    "WIKIPEDIA_EN" : [ "Si-Vis:_The_Sound_of_Heroes" ],
+    "WIKIPEDIA_JP" : [ "SI-VIS:_The_Sound_of_Heroes" ]
   },
   "start_date" : "2025-10-05",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -139,6 +177,10 @@
     "language" : "ENGLISH",
     "title" : "Si-Vis: The Sound of Heroes",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "SI-VIS - The Sound of Heroes",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://si-vis.live/"

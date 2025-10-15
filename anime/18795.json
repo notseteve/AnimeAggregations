@@ -10,8 +10,16 @@
       "name" : "Agatha",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151375,
+      "name" : "Bartholomeus Bar",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 150131,
       "name" : "Benedict Laing",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151312,
+      "name" : "Benjamin Moulding",
       "type" : "CHARACTER"
     }, {
       "character_id" : 150969,
@@ -26,12 +34,40 @@
       "name" : "Caroline Simmons",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151316,
+      "name" : "Dan Redding",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151306,
+      "name" : "Doris",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151315,
+      "name" : "Eugene Pittman",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151314,
+      "name" : "Gideon Rutherford",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 150129,
       "name" : "Lindsay Peil",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151305,
+      "name" : "Madam Cassandra",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151300,
+      "name" : "Mary Harvey",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 150132,
       "name" : "Oji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151317,
+      "name" : "Robert Winkel",
       "type" : "CHARACTER"
     }, {
       "character_id" : 150124,
@@ -125,6 +161,10 @@
       "name" : "Kanasaki Takaomi",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "15182" : [ {
+      "name" : "Koike Satoshi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "15763" : [ {
       "name" : "Iwamoto Yasuo",
       "type" : "DIRECTOR"
@@ -136,6 +176,10 @@
     "44461" : [ {
       "name" : "Cygames",
       "type" : "MUSIC"
+    } ],
+    "67596" : [ {
+      "name" : "Takamura Ryoutarou",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "76385" : [ {
       "name" : "Tayama Rina",
@@ -151,7 +195,7 @@
     } ]
   },
   "description" : "http://anidb.net/ch142523 [Monica Everett], the Silent Witch, is the only mage in the world who can use unchanted magecraft, a true hero who singlehandedly defeated a legendary black dragon. However, this young genius is actually...super-duper shy! That`s right: She learned to cast spells silently just to avoid speaking in public, and despite her power, she has zero self-confidence. Now Monica has been tasked with secretly guarding the second prince. Can she keep it together as she faces both the evil forces targeting the prince and the terrors of social interaction?\nSource: Yen Press\nNote: The first two episodes received an early screening at a special event on 21 June 2025 at United Cinemas Toyosu in Tokyo. The regular TV broadcast started on 5 July 2025.",
-  "end_date" : "2025-10-04",
+  "end_date" : "2025-10-05",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-07-05",
@@ -159,7 +203,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.85,
+        "rating" : 7.84,
         "total" : 11
       },
       "recap" : false,
@@ -183,7 +227,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.35,
+        "rating" : 6.34,
         "total" : 10
       },
       "recap" : false,
@@ -207,7 +251,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.42,
+        "rating" : 5.4,
         "total" : 10
       },
       "recap" : false,
@@ -231,7 +275,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.27,
+        "rating" : 8.26,
         "total" : 10
       },
       "recap" : false,
@@ -255,7 +299,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.23,
+        "rating" : 7.22,
         "total" : 9
       },
       "recap" : false,
@@ -303,7 +347,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.15,
+        "rating" : 8.14,
         "total" : 8
       },
       "recap" : false,
@@ -327,7 +371,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.06,
+        "rating" : 8.04,
         "total" : 9
       },
       "recap" : false,
@@ -351,7 +395,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.83,
+        "rating" : 7.81,
         "total" : 8
       },
       "recap" : false,
@@ -375,8 +419,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.32,
-        "total" : 7
+        "rating" : 6.72,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -398,10 +442,17 @@
       "episode_id" : 300061,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 6.5,
+        "total" : 9
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNJG77" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "My Friend"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Watashi no Tomodachi"
@@ -415,14 +466,27 @@
       "episode_id" : 300062,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 7.12,
+        "total" : 8
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UGNQ4Q" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Monica Becomes a Delinquent"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Monica, Furyou ni Naru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "モニカ, 不良になる"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-10-04",
+      "air_date" : "2025-10-05",
       "episode_id" : 300063,
       "length" : 25,
       "number" : 13,
@@ -430,6 +494,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 13"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hon no Kachi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "本の価値"
       } ],
       "type" : "REGULAR"
     } ],
@@ -439,7 +509,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.13,
+        "rating" : 7.07,
         "total" : 1
       },
       "recap" : true,
@@ -512,19 +582,18 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.42,
-      "total" : 121
+      "rating" : 7.26,
+      "total" : 140
     },
     "TEMPORARY" : {
-      "rating" : 7.61,
-      "total" : 125
+      "rating" : 7.55,
+      "total" : 145
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "398787" ],
     "ANISON" : [ "25964" ],
     "ANN" : [ "33080" ],
-    "BILI_BILI" : [ "bangumi/media/md26625039" ],
     "CRUNCHY_ROLL" : [ "G9VHN9Q3G" ],
     "IMDB" : [ "tt33317800" ],
     "MAL" : [ "59459" ],

@@ -74,10 +74,17 @@
       "episode_id" : 301134,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.39,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362337JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Yano-kun"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Yano-kun"
@@ -137,12 +144,40 @@
         "title" : "アニメ放送開始記念生配信スペシャル"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-09-30",
+      "episode_id" : 302788,
+      "length" : 30,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Kinen Special Tokuban"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送記念スペシャル特番"
+      } ],
+      "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.42,
+      "total" : 13
+    },
+    "TEMPORARY" : {
+      "rating" : 4.84,
+      "total" : 13
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "399651" ],
     "ANISON" : [ "26128" ],
     "ANN" : [ "32869" ],
+    "CRUNCHY_ROLL" : [ "GT00362335" ],
     "MAL" : [ "60254" ],
     "SYOBOI" : [ "7559" ],
     "TWITTER" : [ "yanokun3" ],
@@ -153,9 +188,94 @@
   },
   "start_date" : "2025-10-01",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

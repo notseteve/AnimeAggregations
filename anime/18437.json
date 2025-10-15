@@ -1,6 +1,15 @@
 {
   "anime_id" : 18437,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 151504,
+      "name" : "Agiel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151503,
+      "name" : "Alberto",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 147551,
       "name" : "Ellen",
@@ -16,7 +25,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 150645,
-      "name" : "Ravisuel",
+      "name" : "Ravisel",
       "type" : "CHARACTER"
     }, {
       "character_id" : 147553,
@@ -51,14 +60,87 @@
     } ]
   },
   "description" : "http://anidb.net/ch147551 [Ellen] is a young girl reincarnated from modern-day Japan as a half-spirit. Her father, http://anidb.net/ch147553 [Rovel], is the legendary hero who saved the kingdom, and her mother, http://anidb.net/ch147552 [Origin], is the primordial queen and ruler of all spirits. Furthermore, she herself has the overpowered ability to manipulate the elements. While looking absolutely adorable, this perfect little girl will fall back on her past life`s knowledge and the power of the spirits to protect her precious family!\nSource: Comikey",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-10-05",
+      "episode_id" : 301170,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 9.9,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364481JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Eiyuu no Kikan"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Hero Returns"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "英雄の帰還"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-12",
+      "episode_id" : 301171,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-19",
+      "episode_id" : 301172,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-26",
+      "episode_id" : 301173,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.94,
+      "total" : 14
+    },
+    "TEMPORARY" : {
+      "rating" : 5.82,
+      "total" : 14
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "401123" ],
     "ANISON" : [ "26144" ],
     "ANN" : [ "31706" ],
+    "CRUNCHY_ROLL" : [ "GT00364479" ],
     "MAL" : [ "57888" ],
+    "SYOBOI" : [ "7572" ],
     "TWITTER" : [ "hahanoha_anime" ],
     "WEBSITE" : [ "https://hahanoha-anime.com/" ],
-    "WIKIPEDIA_EN" : [ "Reincarnated_as_the_Daughter_of_the_Legendary_Hero_and_the_Queen_of_Spirits" ]
+    "WIKIPEDIA_EN" : [ "Reincarnated_as_the_Daughter_of_the_Legendary_Hero_and_the_Queen_of_Spirits" ],
+    "WIKIPEDIA_JP" : [ "父は英雄、母は精霊、娘の私は転生者。" ]
   },
   "start_date" : "2025-10-05",
   "tags" : {
@@ -83,12 +165,20 @@
     "title" : "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tensei-sha.",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Dad Is a Hero, Mom Is a Spirit, I`m a Reincarnator",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "父は英雄, 母は精霊, 娘の私は転生者.",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
-    "title" : "Dad is a Hero, Mom is a Spirit, I`m a Reincarnator",
+    "title" : "Hahanoha",
+    "type" : "SHORT"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha",
     "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",

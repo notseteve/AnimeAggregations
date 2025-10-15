@@ -21,12 +21,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 1.91,
-      "total" : 47
+      "rating" : 1.93,
+      "total" : 48
     },
     "TEMPORARY" : {
-      "rating" : 3.78,
-      "total" : 48
+      "rating" : 3.82,
+      "total" : 49
     }
   },
   "resources" : {
@@ -44,6 +44,21 @@
   },
   "start_date" : "2012",
   "tags" : {
+    "308" : {
+      "info_box" : true,
+      "name" : "detective",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -58,6 +73,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2872" : {
       "info_box" : false,
       "name" : "crime",
@@ -65,6 +88,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "3546" : {
+      "info_box" : false,
+      "name" : "experimental animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "4316" : {
       "info_box" : false,

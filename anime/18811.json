@@ -62,16 +62,102 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "Note: The first episode received an early screening at a special event on 13 September 2025 at Fukui Korona Cinema World in Fukui and on 28 September 2025 at Shinjuku Piccadilly in Tokyo. The regular TV broadcast started on 7 October 2025.",
   "episodes" : {
-    "PROMOTION" : [ {
-      "air_date" : "2025-08-19",
-      "episode_id" : 300397,
-      "length" : 1,
+    "REGULAR" : [ {
+      "air_date" : "2025-10-07",
+      "episode_id" : 301337,
+      "length" : 50,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Teaser Trailer (1:13)"
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-14",
+      "episode_id" : 301338,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-21",
+      "episode_id" : 301339,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-28",
+      "episode_id" : 301340,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "PROMOTION" : [ {
+      "air_date" : "2025-03-22",
+      "episode_id" : 301342,
+      "length" : 1,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ultra Teaser PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Ultra Teaser PV (0:51)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ウルトラティザーPV"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-08-19",
+      "episode_id" : 300397,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Teaser PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Teaser PV (1:13)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ティザーPV"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-09-13",
+      "episode_id" : 301341,
+      "length" : 3,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hon PV"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Main PV (2:11)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "本PV"
       } ],
       "type" : "PROMOTION"
     } ]
@@ -80,10 +166,12 @@
     "ALL_CINEMA" : [ "399357" ],
     "ANN" : [ "33207" ],
     "MAL" : [ "59517" ],
+    "SYOBOI" : [ "7597" ],
     "TWITTER" : [ "anime_chiramune" ],
     "WEBSITE" : [ "https://chiramune.com/" ],
     "WIKIPEDIA_EN" : [ "Chitose_Is_in_the_Ramune_Bottle" ],
-    "WIKIPEDIA_JP" : [ "千歳くんはラムネ瓶のなか" ]
+    "WIKIPEDIA_JP" : [ "千歳くんはラムネ瓶のなか" ],
+    "YOUTUBE" : [ "watch?v=5FT2xcSvEAQ", "watch?v=g39p59JtDfw", "watch?v=wC7FYPFHLeQ" ]
   },
   "start_date" : "2025-10-07",
   "tags" : {
@@ -107,6 +195,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Chitose-kun wa Ramune Bin no Naka",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Chitose Is in the Ramune Bottle",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "千歳くんはラムネ瓶のなか",

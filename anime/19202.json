@@ -1,9 +1,18 @@
 {
   "anime_id" : 19202,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 151447,
+      "name" : "Hongou Takeshi",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 149481,
       "name" : "Okada Yuriko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151456,
+      "name" : "Okada Yuriko (Henshin)",
       "type" : "CHARACTER"
     }, {
       "character_id" : 149482,
@@ -14,12 +23,45 @@
       "name" : "Shimamura Mitsuba",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151455,
+      "name" : "Shimamura Mitsuba (Henshin)",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 147654,
       "name" : "Toujima Tanzaburou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151457,
+      "name" : "Toujima Tanzaburou (Henshin)",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 151450,
+      "name" : "Ishige Fukushi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151451,
+      "name" : "Itou Satoshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151452,
+      "name" : "Nakao Hachirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151453,
+      "name" : "Nakao Hachirou (Shocker Sentouin)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151449,
+      "name" : "Satou Daisuke",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149480,
-      "name" : "Yukaris",
+      "name" : "Yukarisu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151454,
+      "name" : "Yukarisu (Shocker Sentouin)",
       "type" : "CHARACTER"
     } ]
   },
@@ -49,17 +91,30 @@
       "type" : "ANIMATION_WORK"
     } ]
   },
-  "description" : "Note: The first five episodes received an early screening at a special event on 26 September 2025 at Shinjuku Wald 9 in Tokyo. The regular TV broadcast started on 5 October 2025.",
+  "description" : "Note: The first five episodes received an early screening at a special event on 26 September 2025 at Shinjuku Wald 9 in Tokyo. Additionally, the first five episodes received a one-week theatrical run at Shinjuku Wald 9 and T-Joy Umeda, starting on 3 October 2025. The regular TV broadcast started on 5 October 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-05",
       "episode_id" : 301313,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.66,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364947JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Tojima Wants to Be a Kamen Rider"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Toujima Tanzaburou wa Kamen Rider ni Naritai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "東島丹三郎は仮面ライダーになりたい"
       } ],
       "type" : "REGULAR"
     }, {
@@ -70,7 +125,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "I Am Tackle"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Watashi wa Tackle"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "私はタックル"
       } ],
       "type" : "REGULAR"
     }, {
@@ -108,10 +169,21 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.59,
+      "total" : 11
+    },
+    "TEMPORARY" : {
+      "rating" : 6.45,
+      "total" : 11
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "399810" ],
     "ANISON" : [ "26133" ],
     "ANN" : [ "35007" ],
+    "CRUNCHY_ROLL" : [ "GT00364945" ],
     "MAL" : [ "61159" ],
     "SYOBOI" : [ "7591" ],
     "TWITTER" : [ "tojima_rider" ],
@@ -121,6 +193,21 @@
   },
   "start_date" : "2025-10-05",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

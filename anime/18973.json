@@ -67,7 +67,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.41,
+        "rating" : 4.4,
         "total" : 2
       },
       "recap" : false,
@@ -295,11 +295,14 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-09-21",
+      "air_date" : "2025-09-22",
       "episode_id" : 299778,
       "length" : 25,
       "number" : 12,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UV20ME" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Another Sky 3"
@@ -317,9 +320,18 @@
       "length" : 25,
       "number" : 13,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8X1WX" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 13"
+        "title" : "Another Sky 4"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Another Sky 4"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アナザー・スカイ4"
       } ],
       "type" : "REGULAR"
     } ],
@@ -344,13 +356,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.93,
-      "total" : 23
+      "rating" : 3.12,
+      "total" : 53
     },
     "TEMPORARY" : {
-      "rating" : 4.46,
-      "total" : 24
+      "rating" : 4.98,
+      "total" : 54
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 19621 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "397787" ],
