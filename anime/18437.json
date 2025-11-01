@@ -9,6 +9,10 @@
       "character_id" : 151503,
       "name" : "Alberto",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 151785,
+      "name" : "Sauvel",
+      "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 147551,
@@ -49,6 +53,9 @@
     "12920" : [ {
       "name" : "Oosawa Mina",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Oosawa Mina",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "68212" : [ {
       "name" : "Umase Misaki",
@@ -63,12 +70,13 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-05",
+      "description" : "Rovel is a hero who has spent ten years away from home, but sees it`s time to return.\nSource: Crunchyroll",
       "episode_id" : 301170,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 9.9,
-        "total" : 2
+        "rating" : 8.45,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -87,24 +95,52 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-12",
+      "description" : "With Rovel`s return, the family must now come up with a plan on how to handle Agiel and her outrageous claims.\nSource: Crunchyroll",
       "episode_id" : 301171,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.46,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364483JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Vankreift Family Predicament"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Vankreift-ke no Mondai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ヴァンクライフト家の問題"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-19",
+      "description" : "With the secret out, Rovel decides to introduce his family to everyone, especially to his mother.\nSource: Crunchyroll",
       "episode_id" : 301172,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 9.31,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364485JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "King Ravisel"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kokuou Ravisel"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "国王ラヴィスエル"
       } ],
       "type" : "REGULAR"
     }, {
@@ -118,16 +154,83 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-02",
+      "episode_id" : 303874,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-09",
+      "episode_id" : 303875,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-16",
+      "episode_id" : 303876,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-23",
+      "episode_id" : 303877,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-10-05",
+      "episode_id" : 303102,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-10-05",
+      "episode_id" : 303103,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.94,
-      "total" : 14
+      "rating" : 4.36,
+      "total" : 24
     },
     "TEMPORARY" : {
-      "rating" : 5.82,
-      "total" : 14
+      "rating" : 6.0,
+      "total" : 24
     }
   },
   "resources" : {
@@ -169,8 +272,16 @@
     "title" : "Dad Is a Hero, Mom Is a Spirit, I`m a Reincarnator",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "无敌的我是英雄爸爸和精灵妈妈的女儿",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "父は英雄, 母は精霊, 娘の私は転生者.",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "轉生後的我成了英雄爸爸和精靈媽媽的女兒",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
@@ -183,6 +294,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Reincarnated as the Daughter of the Legendary Hero and the Queen of Spirits",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "转生后的我成了英雄爸爸和精灵妈妈的女儿",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

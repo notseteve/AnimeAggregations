@@ -140,11 +140,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 2.98,
-      "total" : 149
+      "total" : 150
     },
     "TEMPORARY" : {
       "rating" : 4.76,
-      "total" : 151
+      "total" : 152
     }
   },
   "resources" : {
@@ -175,6 +175,13 @@
       "info_box" : true,
       "name" : "shoujo",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -239,6 +246,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2858" : {
       "info_box" : true,
       "name" : "romance",
@@ -279,6 +294,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6148" : {
       "info_box" : false,
       "name" : "TO BE MOVED TO EPISODE",
@@ -297,6 +320,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

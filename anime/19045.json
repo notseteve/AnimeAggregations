@@ -67,7 +67,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.85,
+        "rating" : 3.83,
         "total" : 7
       },
       "recap" : false,
@@ -92,7 +92,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.62,
+        "rating" : 4.61,
         "total" : 6
       },
       "recap" : false,
@@ -117,7 +117,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.55,
+        "rating" : 4.52,
         "total" : 4
       },
       "recap" : false,
@@ -142,7 +142,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.63,
+        "rating" : 6.62,
         "total" : 4
       },
       "recap" : false,
@@ -167,7 +167,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.96,
+        "rating" : 6.95,
         "total" : 4
       },
       "recap" : false,
@@ -192,7 +192,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.03,
+        "rating" : 5.0,
         "total" : 3
       },
       "recap" : false,
@@ -256,11 +256,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.47,
-      "total" : 133
+      "total" : 142
     },
     "TEMPORARY" : {
-      "rating" : 6.53,
-      "total" : 136
+      "rating" : 6.54,
+      "total" : 145
     }
   },
   "resources" : {
@@ -280,9 +280,94 @@
   },
   "start_date" : "2025-07-07",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3977" : {
+      "info_box" : false,
+      "name" : "dialogue driven",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -91,7 +91,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.19,
+        "rating" : 4.18,
         "total" : 8
       },
       "recap" : false,
@@ -141,7 +141,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 1.93,
+        "rating" : 1.92,
         "total" : 5
       },
       "recap" : false,
@@ -166,7 +166,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.22,
+        "rating" : 2.21,
         "total" : 3
       },
       "recap" : false,
@@ -521,12 +521,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.18,
-      "total" : 682
+      "rating" : 2.19,
+      "total" : 683
     },
     "TEMPORARY" : {
       "rating" : 5.07,
-      "total" : 688
+      "total" : 690
     }
   },
   "resources" : {
@@ -800,6 +800,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2887" : {
+      "info_box" : true,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
@@ -980,6 +996,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6972" : {
+      "info_box" : false,
+      "name" : "volcanic eruption",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7050" : {
       "info_box" : false,

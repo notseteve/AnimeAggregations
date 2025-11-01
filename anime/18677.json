@@ -2,12 +2,52 @@
   "anime_id" : 18677,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 124355,
+      "name" : "Bill Watkins",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151482,
       "name" : "Bob",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 122760,
+      "name" : "Donovan Desmond",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 123859,
+      "name" : "Emile Elman",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 123862,
+      "name" : "Ewen Egeberg",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151611,
+      "name" : "Gochou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151616,
+      "name" : "Loid Forger (Youshouki)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151614,
+      "name" : "Loid no Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151615,
+      "name" : "Loid no Haha",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151481,
       "name" : "Mannenhitsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151613,
+      "name" : "Shousa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151612,
+      "name" : "Taishou",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -58,6 +98,10 @@
     } ]
   },
   "creators" : {
+    "14228" : [ {
+      "name" : "Miyazaki Makoto",
+      "type" : "MUSIC"
+    } ],
     "25992" : [ {
       "name" : "Shimada Kazuaki",
       "type" : "CHARACTER_DESIGN"
@@ -86,7 +130,7 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on a spy action comedy manga by http://anidb.net/cr65491 [Endou Tatsuya].\nNote: The first two episodes received an early screening at a special event on 28 September 2025 at Lawson United Cinemas Minatomirai in Yokohama and six additional venues across Japan. The regular TV broadcast started on 4 October 2025.",
+  "description" : "* Based on a spy action comedy manga by http://anidb.net/cr65491 [Endou Tatsuya].\nThe cold war between Ostania and Westalis continues with a terrible strawberry shortage! Can http://anidb.net/ch126970 [Fiona Frost], AKA Nightfall, solve the crisis before it becomes too much? Maybe, but perhaps the bigger question is whether or not the entire Forger family can thwart an enraged construction worker from going on a rampage without letting each other in on their secrets!\nSource: ANN\nNote: The first two episodes received an early screening at a special event on 28 September 2025 at Lawson United Cinemas Minatomirai in Yokohama and six additional venues across Japan. The regular TV broadcast started on 4 October 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-04",
@@ -94,8 +138,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.79,
-        "total" : 3
+        "rating" : 6.66,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -117,16 +161,23 @@
       "episode_id" : 301147,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.74,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU78ZGG" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE",
         "title" : "&lt;雷[トニト]&gt;を回避せよ / ■■■■の記憶I"
       }, {
         "language" : "ENGLISH",
-        "title" : "Avoid Getting Tonitrus Bolts / xxxx`s Memories I"
+        "title" : "Avoid Getting Tonitrus Bolts / ____`s Memories I"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Tonito o Kaihi Seyo / no Kioku I"
+        "title" : "Tonito o Kaihi Seyo / ____ no Kioku I"
       } ],
       "type" : "REGULAR"
     }, {
@@ -136,8 +187,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "____ no Kioku II"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "____`s Memories II"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "■■■■の記憶II"
       } ],
       "type" : "REGULAR"
     }, {
@@ -149,6 +206,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-01",
+      "episode_id" : 303192,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-08",
+      "episode_id" : 303193,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-15",
+      "episode_id" : 303194,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-22",
+      "episode_id" : 303195,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -237,12 +338,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.51,
-      "total" : 21
+      "rating" : 6.79,
+      "total" : 31
     },
     "TEMPORARY" : {
-      "rating" : 6.84,
-      "total" : 22
+      "rating" : 7.21,
+      "total" : 32
     }
   },
   "related" : {

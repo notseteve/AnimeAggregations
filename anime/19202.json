@@ -44,6 +44,10 @@
       "name" : "Itou Satoshi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151859,
+      "name" : "Kumota",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151452,
       "name" : "Nakao Hachirou",
       "type" : "CHARACTER"
@@ -95,6 +99,7 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-05",
+      "description" : "Tanzaburo Tojima has always idolized Kamen Rider, to the point of wanting to be him. He turns 40 this year...\nSource: Crunchyroll",
       "episode_id" : 301313,
       "length" : 25,
       "number" : 1,
@@ -119,10 +124,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-12",
+      "description" : "Yuriko Okada has always idolized Electro-Wave Human Tackle. But seeing Tojima forces her into action...\nSource: Crunchyroll",
       "episode_id" : 301314,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.66,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364949JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "I Am Tackle"
@@ -136,13 +149,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-19",
+      "description" : "After their encounter with the real Shocker, Tojima meets someone who knows more about the evil organization.\nSource: Crunchyroll",
       "episode_id" : 301315,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 5.49,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364951JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "I Love the Moment When Hate Turns to Love"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kirai ga Suki ni Naru to Sugoku Suki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "嫌いが好きになるとスゴク好き"
       } ],
       "type" : "REGULAR"
     }, {
@@ -152,8 +179,14 @@
       "number" : 4,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saikyou no Kamen Rider wa Dare Da"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Who Is the Strongest Kamen Rider?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "最強の仮面ライダーは誰だ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -167,16 +200,49 @@
         "title" : "Episode 5"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-09",
+      "episode_id" : 303847,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-16",
+      "episode_id" : 303848,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-23",
+      "episode_id" : 303849,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.59,
-      "total" : 11
+      "rating" : 5.25,
+      "total" : 20
     },
     "TEMPORARY" : {
-      "rating" : 6.45,
-      "total" : 11
+      "rating" : 6.47,
+      "total" : 20
     }
   },
   "resources" : {
@@ -190,6 +256,12 @@
     "WEBSITE" : [ "https://tojima-rider.com/" ],
     "WIKIPEDIA_EN" : [ "Tojima_Wants_to_Be_a_Kamen_Rider" ],
     "WIKIPEDIA_JP" : [ "東島丹三郎は仮面ライダーになりたい" ]
+  },
+  "similar" : {
+    "9967" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
   },
   "start_date" : "2025-10-05",
   "tags" : {
@@ -233,8 +305,16 @@
     "title" : "Tojima Wants to Be a Kamen Rider",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "东岛丹三郎想成为假面骑士",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "東島丹三郎は仮面ライダーになりたい",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "東島丹三郎想成為假面騎士",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

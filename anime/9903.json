@@ -908,7 +908,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.33,
-      "total" : 4775
+      "total" : 4778
     },
     "REVIEW" : {
       "rating" : 6.66,
@@ -916,7 +916,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.21,
-      "total" : 4795
+      "total" : 4799
     }
   },
   "related" : {
@@ -1064,6 +1064,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1238,6 +1245,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3129" : {
       "info_box" : false,
       "name" : "fake relationship",
@@ -1326,6 +1341,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "5227" : {
+      "info_box" : false,
+      "name" : "alternating animation style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5529" : {
+      "info_box" : false,
+      "name" : "black and white",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5862" : {
       "info_box" : false,
       "name" : "melodrama",
@@ -1376,6 +1407,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

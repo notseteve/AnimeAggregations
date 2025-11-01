@@ -59,12 +59,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.56,
-      "total" : 11
+      "rating" : 4.23,
+      "total" : 12
     },
     "TEMPORARY" : {
-      "rating" : 5.04,
-      "total" : 11
+      "rating" : 4.87,
+      "total" : 12
     }
   },
   "resources" : {
@@ -77,6 +77,107 @@
   },
   "start_date" : "1980-10-10",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2641" : {
+      "info_box" : true,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "4616" : {
+      "info_box" : false,
+      "name" : "based on real events",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5980" : {
+      "info_box" : false,
+      "name" : "live-action imagery",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

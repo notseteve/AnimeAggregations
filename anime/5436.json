@@ -114,12 +114,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.51,
-      "total" : 42
+      "rating" : 4.53,
+      "total" : 43
     },
     "TEMPORARY" : {
-      "rating" : 5.27,
-      "total" : 42
+      "rating" : 5.26,
+      "total" : 43
     }
   },
   "resources" : {
@@ -134,9 +134,23 @@
   },
   "start_date" : "1992-06",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -151,6 +165,13 @@
     "2610" : {
       "info_box" : false,
       "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -219,9 +240,41 @@
       "verified" : false,
       "weight" : 600
     },
+    "2875" : {
+      "info_box" : false,
+      "name" : "ecology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4572" : {
+      "info_box" : false,
+      "name" : "human-animal relationship",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

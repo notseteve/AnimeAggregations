@@ -54,12 +54,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.3,
-      "total" : 12
+      "rating" : 3.43,
+      "total" : 13
     },
     "TEMPORARY" : {
-      "rating" : 4.16,
-      "total" : 12
+      "rating" : 4.23,
+      "total" : 13
     }
   },
   "resources" : {
@@ -86,6 +86,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -93,18 +100,119 @@
       "verified" : false,
       "weight" : 0
     },
-    "2881" : {
+    "2609" : {
       "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2651" : {
+      "info_box" : false,
+      "name" : "absurdist humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2881" : {
+      "info_box" : true,
       "name" : "sports",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 400
     },
     "3955" : {
       "info_box" : false,
       "name" : "DESCRIPTION MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4251" : {
+      "info_box" : false,
+      "name" : "ensemble cast",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -120,6 +228,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

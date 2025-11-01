@@ -35,7 +35,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.67,
+        "rating" : 5.66,
         "total" : 3
       },
       "recap" : false,
@@ -89,7 +89,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.18,
+        "rating" : 9.17,
         "total" : 2
       },
       "recap" : false,
@@ -105,6 +105,9 @@
       }, {
         "language" : "JAPANESE",
         "title" : "タブーと記憶"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "禁忌与记忆"
       } ],
       "type" : "REGULAR"
     }, {
@@ -112,10 +115,26 @@
       "episode_id" : 302302,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364704JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Manekarezaru Kyaku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Uninvited Guests"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "不速之客"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "招かれざる客"
       } ],
       "type" : "REGULAR"
     }, {
@@ -123,10 +142,26 @@
       "episode_id" : 302303,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 8.28,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364706JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tensai Shounen Mahou Tsukai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Genius Boy Wizard"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "天才少年魔法使い"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "少年天才魔法师"
       } ],
       "type" : "REGULAR"
     }, {
@@ -155,12 +190,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.43,
-      "total" : 14
+      "rating" : 5.53,
+      "total" : 18
     },
     "TEMPORARY" : {
-      "rating" : 6.85,
-      "total" : 14
+      "rating" : 6.81,
+      "total" : 18
     }
   },
   "resources" : {
@@ -181,6 +216,21 @@
   },
   "start_date" : "2025-09-28",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6152" : {
       "info_box" : false,
       "name" : "Chinese production",

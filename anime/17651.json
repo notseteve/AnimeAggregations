@@ -180,7 +180,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.13,
+        "rating" : 6.14,
         "total" : 7
       },
       "recap" : false,
@@ -411,7 +411,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.99,
+        "rating" : 7.0,
         "total" : 3
       },
       "recap" : false,
@@ -436,7 +436,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 6.99,
+        "rating" : 7.0,
         "total" : 3
       },
       "recap" : false,
@@ -486,7 +486,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.93,
+        "rating" : 4.94,
         "total" : 1
       },
       "recap" : false,
@@ -501,7 +501,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 4.93,
+        "rating" : 4.94,
         "total" : 1
       },
       "recap" : false,
@@ -514,12 +514,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.39,
-      "total" : 350
+      "rating" : 4.38,
+      "total" : 353
     },
     "TEMPORARY" : {
       "rating" : 5.95,
-      "total" : 351
+      "total" : 354
     }
   },
   "resources" : {
@@ -534,8 +534,26 @@
     "WIKIPEDIA_EN" : [ "Revenger_(TV_series)" ],
     "WIKIPEDIA_JP" : [ "REVENGER" ]
   },
+  "similar" : {
+    "4571" : {
+      "rating" : 10.0,
+      "total" : 1
+    },
+    "7248" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
+  },
   "start_date" : "2023-01-05",
   "tags" : {
+    "165" : {
+      "info_box" : false,
+      "name" : "painting",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "1589" : {
       "info_box" : false,
       "name" : "samurai",
@@ -544,6 +562,22 @@
       "verified" : false,
       "weight" : 300
     },
+    "1651" : {
+      "info_box" : false,
+      "name" : "photography",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2565" : {
+      "info_box" : false,
+      "name" : "cross-dressing",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
@@ -551,9 +585,23 @@
       "verified" : false,
       "weight" : 0
     },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -643,6 +691,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "2674" : {
+      "info_box" : false,
+      "name" : "China",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2680" : {
       "info_box" : false,
       "name" : "Nagasaki",
@@ -667,6 +723,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "2748" : {
+      "info_box" : false,
+      "name" : "sex",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2750" : {
       "info_box" : true,
       "name" : "violence",
@@ -674,6 +746,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2797" : {
       "info_box" : true,
@@ -699,6 +779,22 @@
       "verified" : false,
       "weight" : 300
     },
+    "2844" : {
+      "info_box" : false,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2845" : {
+      "info_box" : false,
+      "name" : "blackmail",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2848" : {
       "info_box" : false,
       "name" : "pornography",
@@ -706,6 +802,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2851" : {
+      "info_box" : false,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2872" : {
       "info_box" : false,
@@ -715,6 +827,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "2876" : {
+      "info_box" : false,
+      "name" : "religion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2877" : {
       "info_box" : false,
       "name" : "revenge",
@@ -722,6 +842,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2878" : {
+      "info_box" : false,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2884" : {
       "info_box" : false,
@@ -731,18 +867,266 @@
       "verified" : false,
       "weight" : 200
     },
+    "2885" : {
+      "info_box" : false,
+      "name" : "law and order",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2897" : {
+      "info_box" : false,
+      "name" : "police",
+      "parent_tag_id" : 2885,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2952" : {
       "info_box" : false,
       "name" : "rotten world",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
+      "weight" : 300
+    },
+    "2979" : {
+      "info_box" : false,
+      "name" : "mutilation",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3150" : {
+      "info_box" : false,
+      "name" : "social class issues",
+      "parent_tag_id" : 4522,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3363" : {
+      "info_box" : false,
+      "name" : "Buddhism",
+      "parent_tag_id" : 2876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3378" : {
+      "info_box" : false,
+      "name" : "redemption",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3435" : {
+      "info_box" : false,
+      "name" : "eating of humans",
+      "parent_tag_id" : 2851,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3759" : {
+      "info_box" : false,
+      "name" : "teamwork",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3915" : {
+      "info_box" : false,
+      "name" : "child abuse",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3993" : {
+      "info_box" : false,
+      "name" : "kidnapping",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4202" : {
+      "info_box" : false,
+      "name" : "contraband",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4271" : {
+      "info_box" : false,
+      "name" : "corrupt church",
+      "parent_tag_id" : 2876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4302" : {
+      "info_box" : false,
+      "name" : "Christianity",
+      "parent_tag_id" : 2876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
       "weight" : 200
+    },
+    "4340" : {
+      "info_box" : false,
+      "name" : "suicide",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "4520" : {
       "info_box" : false,
       "name" : "betrayal",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4522" : {
+      "info_box" : false,
+      "name" : "social commentary",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5095" : {
+      "info_box" : false,
+      "name" : "slum",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5459" : {
+      "info_box" : false,
+      "name" : "poverty",
+      "parent_tag_id" : 6243,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5773" : {
+      "info_box" : false,
+      "name" : "secret organisation",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5779" : {
+      "info_box" : false,
+      "name" : "anachronisms",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5790" : {
+      "info_box" : false,
+      "name" : "family without mother",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5792" : {
+      "info_box" : false,
+      "name" : "gangs",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5816" : {
+      "info_box" : false,
+      "name" : "massacre",
+      "parent_tag_id" : 4316,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5823" : {
+      "info_box" : false,
+      "name" : "predominantly male cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6070" : {
+      "info_box" : false,
+      "name" : "mystery",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -753,6 +1137,86 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6243" : {
+      "info_box" : false,
+      "name" : "money",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6248" : {
+      "info_box" : false,
+      "name" : "thievery",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6371" : {
+      "info_box" : false,
+      "name" : "red-light district",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6730" : {
+      "info_box" : false,
+      "name" : "torture",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7402" : {
+      "info_box" : false,
+      "name" : "corrupt nobility",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,

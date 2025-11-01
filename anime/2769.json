@@ -56,12 +56,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.79,
-      "total" : 86
+      "rating" : 3.76,
+      "total" : 87
     },
     "TEMPORARY" : {
-      "rating" : 4.85,
-      "total" : 87
+      "rating" : 4.82,
+      "total" : 88
     }
   },
   "resources" : {
@@ -182,9 +182,25 @@
       "verified" : false,
       "weight" : 400
     },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

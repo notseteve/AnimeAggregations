@@ -153,12 +153,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.08,
-      "total" : 52
+      "rating" : 4.02,
+      "total" : 53
     },
     "TEMPORARY" : {
-      "rating" : 5.74,
-      "total" : 53
+      "rating" : 5.69,
+      "total" : 54
     }
   },
   "resources" : {
@@ -171,6 +171,13 @@
   },
   "start_date" : "2003-10-24",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -209,9 +216,33 @@
       "verified" : false,
       "weight" : 400
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6055" : {
+      "info_box" : false,
+      "name" : "time loop",
+      "parent_tag_id" : 2605,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

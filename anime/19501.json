@@ -6,6 +6,10 @@
       "name" : "June",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151796,
+      "name" : "Kyouya",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149993,
       "name" : "Mu",
       "type" : "CHARACTER"
@@ -16,6 +20,19 @@
     }, {
       "character_id" : 149995,
       "name" : "Souji",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 151794,
+      "name" : "Kamisato Rui",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151795,
+      "name" : "Nagi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151793,
+      "name" : "Saegusa Seina",
       "type" : "CHARACTER"
     }, {
       "character_id" : 149992,
@@ -57,6 +74,7 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-05",
+      "description" : "Minami Kyoya aspires to join SI-VIS, a music group. But he gets caught up in a mysterious force, Mirage.\nSource: Crunchyroll",
       "episode_id" : 301309,
       "length" : 25,
       "number" : 1,
@@ -77,24 +95,44 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-12",
+      "description" : "Yosuke dies in the battle with the Mirage, and Kyoya is devastated. Soji tells him to go back to his hometown.\nSource: Crunchyroll",
       "episode_id" : 301310,
       "length" : 25,
       "number" : 2,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364871JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "A Thoroughly Eaten Star"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kuitsukusareru Hoshi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "食い尽くされる星"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-19",
+      "description" : "Kyoya struggles to reach the other members’ level. When his debut stage is about to start, the Mirage appears.\nSource: Crunchyroll",
       "episode_id" : 301311,
       "length" : 25,
       "number" : 3,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364873JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jigoku no You na Tengoku ni Youkoso"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Welcome to Hellish Paradise"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "地獄のような天国にようこそ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -108,16 +146,60 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-02",
+      "episode_id" : 303887,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-09",
+      "episode_id" : 303888,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-16",
+      "episode_id" : 303889,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-23",
+      "episode_id" : 303890,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.41,
-      "total" : 7
+      "rating" : 2.65,
+      "total" : 9
     },
     "TEMPORARY" : {
-      "rating" : 3.85,
-      "total" : 7
+      "rating" : 3.88,
+      "total" : 9
     }
   },
   "resources" : {
@@ -174,12 +256,20 @@
     "title" : "SI-VIS: The Sound of Heroes",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "SI-VIS：英雄之声",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "Si-Vis: The Sound of Heroes",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
     "title" : "SI-VIS - The Sound of Heroes",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "希维司：英雄之声",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

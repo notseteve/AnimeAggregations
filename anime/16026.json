@@ -1,6 +1,31 @@
 {
   "anime_id" : 16026,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 151601,
+      "name" : "Maihama Kyouko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151543,
+      "name" : "Otoi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151544,
+      "name" : "Suzuki Takeshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151600,
+      "name" : "Takahashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151599,
+      "name" : "Takamiya Asuka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151542,
+      "name" : "Tsukinomori Makoto",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 115195,
       "name" : "Kohinata Iroha",
@@ -33,6 +58,10 @@
       "name" : "Machida Touko",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "7900" : [ {
+      "name" : "Taniguchi Motohiro",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "14315" : [ {
       "name" : "Satou Katsuyuki",
       "type" : "CHARACTER_DESIGN"
@@ -44,6 +73,10 @@
     "36386" : [ {
       "name" : "Blade",
       "type" : "ANIMATION_WORK"
+    } ],
+    "44416" : [ {
+      "name" : "Wang Guonian",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "48387" : [ {
       "name" : "Nakamura Hanae",
@@ -73,10 +106,23 @@
       "episode_id" : 301154,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.7,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364758JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "My Friend`s Little Sister Has It in for Me"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tomodachi no Imouto ga Ore ni dake Uzai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "友達の妹が俺にだけウザい"
       } ],
       "type" : "REGULAR"
     }, {
@@ -84,10 +130,23 @@
       "episode_id" : 301155,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.63,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364760JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hisabisa no Itoko ga Ore ni dake Tsumetai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Cousin I Haven`t Seen in Years Is Cold to Me"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "久々の従姉妹が俺にだけ冷たい"
       } ],
       "type" : "REGULAR"
     }, {
@@ -112,11 +171,46 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-10-05",
+      "episode_id" : 303508,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-10-05",
+      "episode_id" : 303509,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.7,
+      "total" : 21
+    },
+    "TEMPORARY" : {
+      "rating" : 4.8,
+      "total" : 21
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "375754" ],
+    "ANISON" : [ "26163" ],
     "ANN" : [ "23996" ],
+    "CRUNCHY_ROLL" : [ "GT00364756" ],
     "MAL" : [ "47158" ],
     "SYOBOI" : [ "7557" ],
     "TWITTER" : [ "imouza_PR" ],
@@ -124,11 +218,98 @@
     "WIKIPEDIA_EN" : [ "My_Friend's_Little_Sister_Has_It_In_for_Me!" ],
     "WIKIPEDIA_JP" : [ "友達の妹が俺にだけウザい" ]
   },
+  "similar" : {
+    "15382" : {
+      "rating" : 5.0,
+      "total" : 2
+    },
+    "17565" : {
+      "rating" : 8.0,
+      "total" : 5
+    }
+  },
   "start_date" : "2025-10-05",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2817" : {
+      "info_box" : false,
+      "name" : "skimpy clothing",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3185" : {
+      "info_box" : false,
+      "name" : "wordplay",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -153,6 +334,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "友達の妹が俺にだけウザい",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "朋友的妹妹只纏著我",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "朋友的妹妹只缠着我",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

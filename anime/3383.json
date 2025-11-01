@@ -120,9 +120,23 @@
       "verified" : false,
       "weight" : 0
     },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -285,12 +299,12 @@
       "weight" : 0
     },
     "2853" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "comedy",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 400
     },
     "2856" : {
       "info_box" : true,
@@ -300,9 +314,72 @@
       "verified" : false,
       "weight" : 600
     },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "4223" : {
+      "info_box" : false,
+      "name" : "running gag",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4570" : {
+      "info_box" : false,
+      "name" : "watercolour style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -314,6 +391,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7199" : {
+      "info_box" : false,
+      "name" : "sexual humour",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "7220" : {
       "info_box" : false,

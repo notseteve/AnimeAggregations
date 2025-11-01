@@ -74,8 +74,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.9,
-        "total" : 5
+        "rating" : 4.73,
+        "total" : 6
       },
       "recap" : false,
       "titles" : [ {
@@ -95,8 +95,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.87,
-        "total" : 3
+        "rating" : 5.02,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -116,8 +116,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.75,
-        "total" : 3
+        "rating" : 4.55,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -136,10 +136,20 @@
       "episode_id" : 301212,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 5.23,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chika Dungeon"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Underground Dungeon"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "地下ダンジョン"
       } ],
       "type" : "REGULAR"
     }, {
@@ -190,12 +200,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.58,
-      "total" : 28
+      "rating" : 3.51,
+      "total" : 36
     },
     "TEMPORARY" : {
-      "rating" : 5.51,
-      "total" : 28
+      "rating" : 5.3,
+      "total" : 36
     }
   },
   "resources" : {
@@ -342,6 +352,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "4128" : {
+      "info_box" : false,
+      "name" : "zero to hero",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -353,6 +379,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

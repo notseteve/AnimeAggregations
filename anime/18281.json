@@ -19,6 +19,10 @@
       "name" : "Maezono Hiroki",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151858,
+      "name" : "Maezono Rikako",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 150547,
       "name" : "Minami Motoki",
       "type" : "CHARACTER"
@@ -81,6 +85,7 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-06",
+      "description" : "When Yumeko wakes up in a hospital, she learns that she`s lost her memory and gained a brand new personality.\nSource: Crunchyroll",
       "episode_id" : 301174,
       "length" : 25,
       "number" : 1,
@@ -105,16 +110,24 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-13",
+      "description" : "Yumeko must give her first presentation at work, but her idea notebooks go missing.\nSource: Crunchyroll",
       "episode_id" : 301175,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.78,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362172JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kouen no Kare to Fukushachou"
       }, {
         "language" : "ENGLISH",
-        "title" : "The Man from the Park and the Vice President"
+        "title" : "The Man from the Park and Vice President"
       }, {
         "language" : "JAPANESE",
         "title" : "公園の彼と副社長"
@@ -122,13 +135,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-20",
+      "description" : "As police investigate her accident, Yumeko begins suffering from unsettling flashbacks of her past.\nSource: Crunchyroll",
       "episode_id" : 301176,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.57,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362174JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mukashi no Sugata"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Old Me"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "昔の姿"
       } ],
       "type" : "REGULAR"
     }, {
@@ -139,7 +166,57 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Charm Point"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Charm Point"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "チャームポイント"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-03",
+      "episode_id" : 303516,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-10",
+      "episode_id" : 303517,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-17",
+      "episode_id" : 303518,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-24",
+      "episode_id" : 303519,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -164,12 +241,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.92,
-      "total" : 9
+      "rating" : 3.9,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 5.44,
-      "total" : 9
+      "rating" : 5.07,
+      "total" : 14
     }
   },
   "resources" : {
@@ -213,6 +290,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "デブとラブと過ちと!",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "胖子与爱情以及过错！",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "胖子與愛情以及過錯！",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

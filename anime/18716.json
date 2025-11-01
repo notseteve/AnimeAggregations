@@ -107,7 +107,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.61,
+        "rating" : 4.6,
         "total" : 8
       },
       "recap" : false,
@@ -191,7 +191,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.85,
+        "rating" : 6.86,
         "total" : 5
       },
       "recap" : false,
@@ -254,8 +254,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.24,
-        "total" : 4
+        "rating" : 5.24,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -275,8 +275,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.22,
-        "total" : 4
+        "rating" : 6.04,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -296,8 +296,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.78,
-        "total" : 4
+        "rating" : 7.09,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -317,8 +317,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 8.25,
-        "total" : 4
+        "rating" : 6.95,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -338,8 +338,8 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.66,
-        "total" : 3
+        "rating" : 5.3,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -441,12 +441,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.69,
-      "total" : 103
+      "rating" : 4.72,
+      "total" : 118
     },
     "TEMPORARY" : {
-      "rating" : 6.2,
-      "total" : 105
+      "rating" : 6.27,
+      "total" : 120
     }
   },
   "resources" : {
@@ -480,12 +480,96 @@
       "verified" : false,
       "weight" : 0
     },
+    "2069" : {
+      "info_box" : false,
+      "name" : "delinquent",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2798" : {
       "info_box" : true,
@@ -499,6 +583,102 @@
       "info_box" : true,
       "name" : "4-koma manga",
       "parent_tag_id" : 2798,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2816" : {
+      "info_box" : false,
+      "name" : "sexual fantasies",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2842" : {
+      "info_box" : false,
+      "name" : "incest",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5697" : {
+      "info_box" : false,
+      "name" : "randomness",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6088" : {
+      "info_box" : false,
+      "name" : "unrequited shoujo ai",
+      "parent_tag_id" : 2785,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -517,6 +697,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6271" : {
+      "info_box" : false,
+      "name" : "sister-sister incest",
+      "parent_tag_id" : 2842,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6840" : {
+      "info_box" : false,
+      "name" : "social media",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "7146" : {
+      "info_box" : false,
+      "name" : "cute girls doing cute things",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "7885" : {
       "info_box" : false,

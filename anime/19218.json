@@ -19,6 +19,10 @@
       "name" : "Odajima-san",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151545,
+      "name" : "Oniwarada-sensei",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151177,
       "name" : "Oota Ane",
       "type" : "CHARACTER"
@@ -73,24 +77,48 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-04",
+      "description" : "Kashiwada is inexpressive and Oota is very expressive.\nSource: Crunchyroll",
       "episode_id" : 301261,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.4,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362009JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mattaku Kao ni Denai Hito to Mechakucha Kao ni Deru Hito / Kashiwada-san no Ichinichi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Those Who Are Completely Inexpressive and Those Who Are Super Expressive"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "全く顔に出ない人とめちゃくちゃ顔に出る人 / 柏田さんの一日"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-11",
+      "description" : "Oota hopes that the extra tools around the pool will give him the means to shock Kashiwada.\nSource: Crunchyroll",
       "episode_id" : 301262,
       "length" : 25,
       "number" : 2,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362011JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Kashiwada-san and Oota-kun and Swimming / Tabuchi-san`s Secret / Oota-kun`s Lunch / Kashiwada-san`s Tears"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kashiwada-san to Oota-kun to Suiei / Tabuchi-san no Himitsu / Oota-kun no Ohiru / Kashiwada-san no Namida"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "柏田さんと太田君と水泳 / 田淵さんの秘密 / 太田君のお昼 / 柏田さんの涙"
       } ],
       "type" : "REGULAR"
     }, {
@@ -99,9 +127,18 @@
       "length" : 25,
       "number" : 3,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362013JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Class with Kashiwada-san and Oota-kun / Oniwarada-sensei`s Class / Oota-kun and Tabuchi-san`s Battle / Kashiwada-san and Oota-kun in the Gym Storage Room"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kashiwada-san to Oota-kun no Jugyou / Oniwarada-sensei no Jugyou / Oota-kun to Tabuchi-san no Battle / Kashiwada-san to Oota-kun to Taiiku Souko"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "柏田さんと太田君の授業 / 鬼藁田先生の授業 / 太田君と田淵さんのバトル / 柏田さんと太田君と体育倉庫"
       } ],
       "type" : "REGULAR"
     }, {
@@ -115,12 +152,67 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-01",
+      "episode_id" : 303815,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-08",
+      "episode_id" : 303816,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-15",
+      "episode_id" : 303817,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-22",
+      "episode_id" : 303818,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.48,
+      "total" : 18
+    },
+    "TEMPORARY" : {
+      "rating" : 5.22,
+      "total" : 18
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "401106" ],
     "ANISON" : [ "26165" ],
     "ANN" : [ "35153" ],
+    "CRUNCHY_ROLL" : [ "GT00362007" ],
     "MAL" : [ "61209" ],
     "SYOBOI" : [ "7589" ],
     "TWITTER" : [ "kashiwada_ohta" ],
@@ -130,6 +222,21 @@
   },
   "start_date" : "2025-10-04",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -153,6 +260,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Inexpressive Kashiwada and Expressive Oota",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "不动声色的柏田与喜形于色的太田",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

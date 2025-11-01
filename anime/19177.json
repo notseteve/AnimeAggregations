@@ -45,10 +45,20 @@
       "episode_id" : 301347,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.17,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shinoha to Kiwami"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Shinoha vs Kiwami"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "忍者[しのは]と極道[きわみ]"
       } ],
       "type" : "REGULAR"
     }, {
@@ -58,8 +68,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Daiisshou: Akasaka Keppuu Noroshi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Part 1: The Blood-Scented Signal Flare of Akasaka"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第一章 赤坂血風狼烟"
       } ],
       "type" : "REGULAR"
     }, {
@@ -86,8 +102,19 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.69,
+      "total" : 5
+    },
+    "TEMPORARY" : {
+      "rating" : 5.0,
+      "total" : 5
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "400495" ],
+    "AMAZON" : [ "B0FNV7LF55" ],
     "ANN" : [ "34799" ],
     "MAL" : [ "61067" ],
     "SYOBOI" : [ "7593" ],

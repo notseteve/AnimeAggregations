@@ -59,7 +59,7 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 7.22,
+        "rating" : 7.21,
         "total" : 4
       },
       "recap" : false,
@@ -74,7 +74,7 @@
       "length" : 30,
       "number" : 2,
       "rating" : {
-        "rating" : 5.02,
+        "rating" : 5.01,
         "total" : 4
       },
       "recap" : false,
@@ -102,12 +102,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.3,
-      "total" : 285
+      "rating" : 3.31,
+      "total" : 286
     },
     "TEMPORARY" : {
-      "rating" : 5.36,
-      "total" : 295
+      "rating" : 5.37,
+      "total" : 296
     }
   },
   "resources" : {
@@ -154,9 +154,23 @@
       "verified" : false,
       "weight" : 0
     },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -453,6 +467,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2877" : {
+      "info_box" : false,
+      "name" : "revenge",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2891" : {
       "info_box" : false,
       "name" : "breasts",
@@ -557,6 +579,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4398" : {
+      "info_box" : false,
+      "name" : "antihero",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5939" : {
       "info_box" : false,
       "name" : "CAST MISSING",
@@ -583,6 +613,14 @@
       "info_box" : false,
       "name" : "gokkun",
       "parent_tag_id" : 2704,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

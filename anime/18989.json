@@ -66,8 +66,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.27,
-        "total" : 3
+        "rating" : 4.56,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -86,10 +86,20 @@
       "episode_id" : 301248,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 2.65,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Naraku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Abyss"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "奈落"
       } ],
       "type" : "REGULAR"
     }, {
@@ -99,8 +109,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hametsu no Ou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Lord of Destruction"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "破滅の王"
       } ],
       "type" : "REGULAR"
     }, {
@@ -111,7 +127,57 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Adventurers"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Boukensha"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "冒険者"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-31",
+      "episode_id" : 303721,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-07",
+      "episode_id" : 303722,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-14",
+      "episode_id" : 303723,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-21",
+      "episode_id" : 303724,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -136,12 +202,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.11,
-      "total" : 14
+      "rating" : 3.23,
+      "total" : 27
     },
     "TEMPORARY" : {
-      "rating" : 5.71,
-      "total" : 14
+      "rating" : 5.0,
+      "total" : 27
     }
   },
   "resources" : {
@@ -158,6 +224,21 @@
   },
   "start_date" : "2025-10-03",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -185,6 +266,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ!』します!",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能「无限扭蛋」获得等级9999的伙伴，我要向前队友和世界展开复仇&「给他们好看！」",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "差點在迷宮深處被信任的夥伴殺掉，但靠著天賜技能「無限扭蛋」獲得等級 9999 的夥伴，我要向前隊友和世界展開復仇＆「給他們好看！」",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

@@ -2,6 +2,10 @@
   "anime_id" : 17904,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 127344,
+      "name" : "Fen",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151462,
       "name" : "Fuuna",
       "type" : "CHARACTER"
@@ -10,12 +14,44 @@
       "name" : "Kasabe",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 118571,
+      "name" : "Ligard",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151463,
       "name" : "Nagisa",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 127345,
+      "name" : "Nikuson",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 117777,
+      "name" : "Oniguma",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 127341,
+      "name" : "Pocoa Uralis",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151540,
+      "name" : "Rikuya",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151464,
       "name" : "Saki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151538,
+      "name" : "Sayaka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151735,
+      "name" : "Tanasen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 127566,
+      "name" : "Uma",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -130,6 +166,10 @@
       "name" : "Ikeda Yuki",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "36130" : [ {
+      "name" : "Masui Yoshinori",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "41690" : [ {
       "name" : "Ooima Yoshitoki",
       "type" : "ORIGINAL_WORK"
@@ -163,6 +203,7 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-04",
+      "description" : "Fushi awakens in a world where peace reigns. What new and old encounters await him?\nSource: Crunchyroll",
       "episode_id" : 301150,
       "length" : 25,
       "number" : 1,
@@ -187,10 +228,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-11",
+      "description" : "Fushi begins his new life in the present day and begins to gather his former classmates at Yuki`s house.\nSource: Crunchyroll",
       "episode_id" : 301151,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.24,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMNE41" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A Knot in the Soul"
@@ -207,10 +256,23 @@
       "episode_id" : 301152,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.38,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U3QVN3" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Mizuha"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mizuha"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "みずは"
       } ],
       "type" : "REGULAR"
     }, {
@@ -220,20 +282,70 @@
       "number" : 4,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Inakunatta Hito"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "The One Who Vanished"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "いなくなったひと"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-01",
+      "episode_id" : 303184,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-08",
+      "episode_id" : 303185,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-15",
+      "episode_id" : 303186,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-22",
+      "episode_id" : 303187,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.42,
-      "total" : 9
+      "rating" : 6.72,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 6.66,
-      "total" : 9
+      "rating" : 6.92,
+      "total" : 21
     }
   },
   "related" : {
@@ -250,6 +362,12 @@
     "WEBSITE" : [ "https://www.nhk-character.com/chara/fumetsu/" ],
     "WIKIPEDIA_EN" : [ "To_Your_Eternity" ],
     "WIKIPEDIA_JP" : [ "不滅のあなたへ" ]
+  },
+  "similar" : {
+    "6098" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
   },
   "start_date" : "2025-10-04",
   "tags" : {

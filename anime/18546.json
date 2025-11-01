@@ -148,7 +148,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.46,
+        "rating" : 7.45,
         "total" : 7
       },
       "recap" : false,
@@ -223,7 +223,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.26,
+        "rating" : 9.25,
         "total" : 5
       },
       "recap" : false,
@@ -248,7 +248,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.46,
+        "rating" : 8.45,
         "total" : 6
       },
       "recap" : false,
@@ -273,7 +273,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.19,
+        "rating" : 8.18,
         "total" : 6
       },
       "recap" : false,
@@ -298,7 +298,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.85,
+        "rating" : 7.83,
         "total" : 5
       },
       "recap" : false,
@@ -348,7 +348,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 9.4,
+        "rating" : 9.39,
         "total" : 5
       },
       "recap" : false,
@@ -373,7 +373,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 8.98,
+        "rating" : 8.97,
         "total" : 6
       },
       "recap" : false,
@@ -398,7 +398,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 8.79,
+        "rating" : 8.78,
         "total" : 4
       },
       "recap" : false,
@@ -640,12 +640,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.29,
-      "total" : 182
+      "rating" : 6.33,
+      "total" : 190
     },
     "TEMPORARY" : {
-      "rating" : 6.83,
-      "total" : 182
+      "rating" : 6.85,
+      "total" : 190
     }
   },
   "related" : {
@@ -672,12 +672,104 @@
   },
   "start_date" : "2025-04-13",
   "tags" : {
+    "1651" : {
+      "info_box" : false,
+      "name" : "photography",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "1973" : {
+      "info_box" : false,
+      "name" : "cooking",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2669" : {
+      "info_box" : false,
+      "name" : "school clubs",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2798" : {
       "info_box" : true,
@@ -695,9 +787,121 @@
       "verified" : false,
       "weight" : 0
     },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2850" : {
+      "info_box" : true,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2851" : {
+      "info_box" : false,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3285" : {
+      "info_box" : false,
+      "name" : "journey",
+      "parent_tag_id" : 2850,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3946" : {
+      "info_box" : false,
+      "name" : "filmmaking",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6840" : {
+      "info_box" : false,
+      "name" : "social media",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

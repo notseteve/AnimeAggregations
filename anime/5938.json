@@ -58,15 +58,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.27,
-      "total" : 16
+      "rating" : 4.07,
+      "total" : 17
     },
     "TEMPORARY" : {
-      "rating" : 5.0,
-      "total" : 16
+      "rating" : 4.88,
+      "total" : 17
     }
   },
   "related" : {
+    "FULL_STORY" : [ 2799 ],
     "PREQUEL" : [ 5813 ]
   },
   "resources" : {
@@ -83,6 +84,145 @@
       "verified" : false,
       "weight" : 0
     },
+    "2568" : {
+      "info_box" : true,
+      "name" : "deity",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2641" : {
+      "info_box" : false,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2876" : {
+      "info_box" : false,
+      "name" : "religion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3363" : {
+      "info_box" : false,
+      "name" : "Buddhism",
+      "parent_tag_id" : 2876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3955" : {
       "info_box" : false,
       "name" : "DESCRIPTION MISSING",
@@ -90,6 +230,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4048" : {
+      "info_box" : false,
+      "name" : "Japanese mythology",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4413" : {
+      "info_box" : false,
+      "name" : "heaven",
+      "parent_tag_id" : 6563,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "5939" : {
       "info_box" : false,
@@ -102,6 +258,38 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6563" : {
+      "info_box" : false,
+      "name" : "spirit realm",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "6619" : {
+      "info_box" : false,
+      "name" : "Asuka period",
+      "parent_tag_id" : 2641,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -1,6 +1,43 @@
 {
   "anime_id" : 19056,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 151424,
+      "name" : "Hamawaki Akemi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151423,
+      "name" : "Hisayama Kaoru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151421,
+      "name" : "Hita Kousuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151418,
+      "name" : "Kanzaki-senpai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151422,
+      "name" : "Kurokawa Eiji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151425,
+      "name" : "Satou Miharu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151420,
+      "name" : "Suzugaya Rin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151419,
+      "name" : "Tamana Minori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151426,
+      "name" : "Tanaka Misaki",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 149943,
       "name" : "Kamegawa Yuu",
@@ -65,13 +102,21 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-02",
+      "description" : "Socially awkward Kannawa is tasked to mentor the newbie, Kamegawa. Can she pull off being the cool senpai?\nSource: Crunchyroll",
       "episode_id" : 301214,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.14,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00365235JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Me? The Mentor?!"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Uchi ga Kyouikugakari!?"
@@ -82,13 +127,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-09",
+      "description" : "Kannawa tackles a new challenge: Inviting her junior to lunch!\nSource: Crunchyroll",
       "episode_id" : 301215,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.14,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00365238JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "I Wanna Invite My Junior to Lunch!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kouhai o Lunch ni Sasoitaiccha!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "後輩をランチに誘いたいっちゃ!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -97,9 +156,18 @@
       "length" : 25,
       "number" : 3,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00365241JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "I Gotta Support the Drinking Party`s Organizer!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nomikai Kanji o Support Sento!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "飲み会幹事をサポートせんと!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -113,12 +181,90 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-30",
+      "episode_id" : 303551,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-06",
+      "episode_id" : 303552,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-13",
+      "episode_id" : 303553,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-20",
+      "episode_id" : 303554,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-10-02",
+      "episode_id" : 303104,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-10-02",
+      "episode_id" : 303105,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.42,
+      "total" : 19
+    },
+    "TEMPORARY" : {
+      "rating" : 5.15,
+      "total" : 19
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "398492" ],
     "ANISON" : [ "26171" ],
     "ANN" : [ "34182" ],
+    "CRUNCHY_ROLL" : [ "GT00365233" ],
     "MAL" : [ "60531" ],
     "SYOBOI" : [ "7601" ],
     "TWITTER" : [ "bukiyou_anime" ],
@@ -153,8 +299,16 @@
     "title" : "My Awkward Senpai",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "不中用的前輩。",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "不器用な先輩.",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "笨拙之极的前辈。",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

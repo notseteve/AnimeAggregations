@@ -1,6 +1,63 @@
 {
   "anime_id" : 17576,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 78304,
+      "name" : "Armored Gorilla",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 102707,
+      "name" : "Bomb",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 102721,
+      "name" : "Do-S",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 104666,
+      "name" : "Gouka no Flame",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 79062,
+      "name" : "Ia-ian",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151618,
+      "name" : "Kirisa King",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 104667,
+      "name" : "Kuroi Seishi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 77231,
+      "name" : "Metal Knight",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151617,
+      "name" : "Mushigami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 102708,
+      "name" : "Narinki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 102717,
+      "name" : "Phoenix Otoko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 104665,
+      "name" : "Shippuu no Wind",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 78464,
+      "name" : "Sitch",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 102704,
+      "name" : "Tareo",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 101076,
       "name" : "Garou",
@@ -59,6 +116,10 @@
       "name" : "King",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 75037,
+      "name" : "Onsoku no Sonic",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 77229,
       "name" : "Puri-Puri Prisoner",
       "type" : "CHARACTER"
@@ -93,6 +154,10 @@
       "name" : "Miyazaki Makoto",
       "type" : "MUSIC"
     } ],
+    "16515" : [ {
+      "name" : "Ono Kazumi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "28424" : [ {
       "name" : "Suzuki Tomohiro",
       "type" : "SERIES_COMPOSITION"
@@ -114,42 +179,77 @@
       "type" : "CHARACTER_DESIGN"
     } ]
   },
+  "description" : "http://anidb.net/ch73940 [Saitama] is a hero who only became a hero for fun.\nAfter three years of \"special training,\" he`s become so strong that he`s practically invincible. In fact, he`s too strong—even his mightiest opponents are taken out with a single punch. Alongside http://anidb.net/ch73941 [Genos], his faithful disciple, Saitama performs his official hero duties as a member of the Hero Association.\nOne day, monsters claiming to be from the Monster Association suddenly appeared, taking a child of the Hero Association executive hostage. The S-class heroes gather and plan a raid on the Monster Association hideout to rescue the hostage. Meanwhile, http://anidb.net/ch101076 [Garou], a \"human monster\" who was taken by the Monster Association during a battle with the heroes, awakens in the Monster Association hideout.\nSource: Viz",
   "episodes" : {
     "REGULAR" : [ {
-      "air_date" : "2025-10-05",
+      "air_date" : "2025-10-12",
+      "description" : "The heroes plan a rescue of a child kidnapped by monsters, while Garou awakens deep underground.\nSource: Crunchyroll",
       "episode_id" : 301301,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.91,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G31UVXJNM" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sakusen no Kaigi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
-      } ],
-      "type" : "REGULAR"
-    }, {
-      "air_date" : "2025-10-12",
-      "episode_id" : 301302,
-      "length" : 25,
-      "number" : 2,
-      "recap" : false,
-      "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Strategy Meeting"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "作戦の会議"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-19",
+      "description" : "On his way to hunt heroes, Garou dines and dashes at a restaurant, but is chased by Saitama.\nSource: Crunchyroll",
+      "episode_id" : 301302,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 1.64,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8K29Q" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaijin no Jouken"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Monster Traits"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "怪人の条件"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-26",
       "episode_id" : 301303,
       "length" : 25,
       "number" : 3,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Organism Limits"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Seibutsu no Genkai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "生物の限界"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-10-26",
+      "air_date" : "2025-11-02",
       "episode_id" : 301304,
       "length" : 25,
       "number" : 4,
@@ -159,14 +259,94 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-09",
+      "episode_id" : 303927,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-16",
+      "episode_id" : 303928,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-23",
+      "episode_id" : 303929,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-30",
+      "episode_id" : 303930,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-10-06",
+      "episode_id" : 302873,
+      "length" : 25,
+      "number" : 1,
+      "recap" : true,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU78ZVD" ]
+      },
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Broadcast Commemorative Episode: a Serious Look Back at the Anime One-Punch Man Season 2"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Get It All in One Punch! Season 2 Serious Recap"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ichigeki de Wakaru! One Punch Man: Dai 2 Ki Maji Furikaeri!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "一撃でわかる! ONE PUNCH MAN ワンパンマン 第2期マジ振り返り!"
+      } ],
+      "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.91,
+      "total" : 25
+    },
+    "TEMPORARY" : {
+      "rating" : 6.57,
+      "total" : 26
+    }
   },
   "related" : {
     "PREQUEL" : [ 12430 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "398456" ],
+    "ANISON" : [ "18535" ],
     "ANN" : [ "26230" ],
+    "CRUNCHY_ROLL" : [ "G63K98PZ6" ],
     "MAL" : [ "52807" ],
     "SYOBOI" : [ "7619" ],
     "TWITTER" : [ "opm_anime" ],
@@ -180,6 +360,20 @@
       "info_box" : true,
       "name" : "seinen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -198,6 +392,100 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2623" : {
+      "info_box" : true,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2642" : {
+      "info_box" : false,
+      "name" : "alternative present",
+      "parent_tag_id" : 2624,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2655" : {
+      "info_box" : false,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -206,9 +494,89 @@
       "verified" : false,
       "weight" : 0
     },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3315" : {
+      "info_box" : false,
+      "name" : "superhero",
+      "parent_tag_id" : 2623,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4223" : {
+      "info_box" : false,
+      "name" : "running gag",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4611" : {
+      "info_box" : false,
+      "name" : "nearly almighty protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5823" : {
+      "info_box" : false,
+      "name" : "predominantly male cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -235,9 +603,21 @@
     "title" : "One Punch Man (2025)",
     "type" : "OFFICIAL"
   }, {
+    "language" : "GERMAN",
+    "title" : "One Punch Man Staffel 3",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "一拳超人 第三季",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "opm s3",
     "type" : "SHORT"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "One-Punch Man S3",
+    "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",
     "title" : "One-Punch Man Season 3",

@@ -54,12 +54,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.86,
-      "total" : 132
+      "rating" : 4.87,
+      "total" : 133
     },
     "TEMPORARY" : {
-      "rating" : 6.4,
-      "total" : 135
+      "rating" : 6.38,
+      "total" : 136
     }
   },
   "related" : {
@@ -112,6 +112,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2607" : {
       "info_box" : false,
@@ -214,9 +221,41 @@
       "verified" : false,
       "weight" : 400
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5823" : {
+      "info_box" : false,
+      "name" : "predominantly male cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

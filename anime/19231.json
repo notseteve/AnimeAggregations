@@ -23,8 +23,20 @@
       "name" : "Eldas Mikhaila",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151743,
+      "name" : "Loki Silveria",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151020,
       "name" : "Regulus Galdana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151742,
+      "name" : "Reviel Stunts",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151744,
+      "name" : "Rosa Alhatia",
       "type" : "CHARACTER"
     } ]
   },
@@ -69,11 +81,12 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-04",
+      "description" : "Court magician Alec is banished by an angry prince.\nSource: Crunchyroll",
       "episode_id" : 301162,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.58,
+        "rating" : 5.74,
         "total" : 3
       },
       "recap" : false,
@@ -93,13 +106,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-11",
+      "description" : "Alec is reunited with his old party and becomes an adventurer once more.\nSource: Crunchyroll",
       "episode_id" : 301163,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.53,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364922JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sai Kesshuu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Together Again"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "再結集"
       } ],
       "type" : "REGULAR"
     }, {
@@ -107,10 +134,23 @@
       "episode_id" : 301164,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.82,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364924JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Deadly Battle! The 64th Floor Boss"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shitou! 64 Kaisou Floor Boss!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "死闘! 64階層フロアボス!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -122,6 +162,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-01",
+      "episode_id" : 303823,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-08",
+      "episode_id" : 303824,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-15",
+      "episode_id" : 303825,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-22",
+      "episode_id" : 303826,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -146,12 +230,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.01,
-      "total" : 8
+      "rating" : 2.7,
+      "total" : 23
     },
     "TEMPORARY" : {
-      "rating" : 4.25,
-      "total" : 8
+      "rating" : 4.34,
+      "total" : 23
     }
   },
   "resources" : {
@@ -196,6 +280,18 @@
     "language" : "JAPANESE",
     "title" : "味方が弱すぎて補助魔法に徹していた宮廷魔法師, 追放されて最強を目指す",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "貫徹輔助魔法支援弱小隊友的宮廷魔法師，慘遭驅逐後目標成為最強冒險者",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "队友太弱所以贯彻辅助的宫廷魔法师，惨遭流放目标却是最强",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Hojomaho",
+    "type" : "SHORT"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "hojo mahou",

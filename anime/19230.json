@@ -1,6 +1,19 @@
 {
   "anime_id" : 19230,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 151789,
+      "name" : "Kawarazaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151787,
+      "name" : "Kutsuwada Maki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151788,
+      "name" : "Yoshimura",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 149584,
       "name" : "Gekkoumon",
@@ -34,6 +47,14 @@
       "character_id" : 150079,
       "name" : "Sawashiro Kyou",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 151607,
+      "name" : "Shinomiya Hitomi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151608,
+      "name" : "Tenma Asuka",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -57,6 +78,10 @@
       "name" : "Hongou Akiyoshi",
       "type" : "ORIGINAL_PLAN"
     } ],
+    "18282" : [ {
+      "name" : "Asanuma Akihiro",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "27421" : [ {
       "name" : "Miyamoto Hiroaki",
       "type" : "DIRECTOR"
@@ -68,12 +93,16 @@
     "78401" : [ {
       "name" : "Kojima Takahiro",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Kojima Takahiro",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
-  "description" : "Note: The first episode received an early screening at a special event on 20 September and 21 September 2025 at Digimon Expo`25 in Tokyo. The regular TV broadcast started on 5 October 2025.",
+  "description" : "http://anidb.net/ch149585 [Tenma Tomorou] lives in a world where human thoughts and emotions—known as \"e-Pulse\"—power AI devices called Sapotama. But when Digimon begin materializing from Sapotama and feeding on e-Pulse, society begins to fracture. After http://anidb.net/ch149584 [Gekkoumon] appears from his device, Tomorou joins Glowing Dawn, a secret team investigating rogue Digimon and the dark truth of a system both fueled and corrupted by emotion.\nSource: Crunchyroll\nNote: The first episode received an early screening at a special event on 20 September and 21 September 2025 at Digimon Expo`25 in Tokyo. The regular TV broadcast started on 5 October 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-05",
+      "description" : "An ideal society managed by Sapotamas. Underneath, terrifying creatures called Digimon appear. After a classmate is attacked, Tomoro Tenma`s emotions explode. Suddenly his Sapotama shines and Gekkomon is born.\nSource: Crunchyroll",
       "episode_id" : 301288,
       "length" : 25,
       "number" : 1,
@@ -94,10 +123,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-12",
+      "description" : "Gekkomon is awakened by Tomoro`s anger and overwhelms his enemy. Just then, a mysterious Digimon steals their Sapotama. With his brother lost, Tomoro shuts down emotionally, until he is shocked by what the leader of the \"\"Glowing Dawn\"\" has to say.\nSource: Crunchyroll",
       "episode_id" : 301289,
       "length" : 25,
       "number" : 2,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364382JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Glowing Dawn"
@@ -111,13 +144,23 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-19",
+      "description" : "Upon learning that the bounty intel is wrong, Tomoro and Gekkomon follow the scent of his own e-Pulse. There they find the Mirror World, a virtual space inside the net. Inside the Sapotama that glows within Hyemon…\nSource: Crunchyroll",
       "episode_id" : 301290,
       "length" : 25,
       "number" : 3,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364384JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Awasekagami"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Facing Mirrors"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "合わせ鏡"
       } ],
       "type" : "REGULAR"
     }, {
@@ -128,7 +171,57 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Family"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Family"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ファミリー"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-02",
+      "episode_id" : 303362,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-09",
+      "episode_id" : 303363,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-16",
+      "episode_id" : 303364,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-23",
+      "episode_id" : 303365,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -139,43 +232,67 @@
       "number" : 1,
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode S1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Oretachi! Digimon Sendenbu"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "We Are the Digimon Promotion Department"
       }, {
         "language" : "JAPANESE",
         "title" : "俺たち! デジモン宣伝部"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-10-05",
+      "episode_id" : 303111,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     }, {
-      "air_date" : "2025-09-28",
-      "episode_id" : 302932,
-      "length" : 40,
+      "air_date" : "2025-10-05",
+      "episode_id" : 303230,
+      "length" : 2,
       "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode S2"
-      }, {
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ],
+    "OTHER" : [ {
+      "air_date" : "2025-09-28",
+      "episode_id" : 302932,
+      "length" : 40,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Oretachi! Digimon Sendenbu"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "We Are the Digimon Promotion Department (Web Version)"
       }, {
         "language" : "JAPANESE",
         "title" : "俺たち! デジモン宣伝部"
       } ],
-      "type" : "SPECIAL"
+      "type" : "OTHER"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.64,
-      "total" : 4
+      "rating" : 4.27,
+      "total" : 8
     },
     "TEMPORARY" : {
-      "rating" : 5.5,
-      "total" : 4
+      "rating" : 5.75,
+      "total" : 8
     }
   },
   "related" : {
@@ -196,6 +313,21 @@
   },
   "start_date" : "2025-10-05",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -214,7 +346,7 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Digimon BeatBreak",
+    "title" : "Digimon Beatbreak",
     "type" : "MAIN"
   }, {
     "language" : "JAPANESE",

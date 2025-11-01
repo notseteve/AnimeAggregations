@@ -23,6 +23,10 @@
       "name" : "Eikichi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151594,
+      "name" : "Furaribi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151002,
       "name" : "Kawauso",
       "type" : "CHARACTER"
@@ -79,18 +83,23 @@
     "58649" : [ {
       "name" : "Shiga Yuuka",
       "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "83228" : [ {
+      "name" : "Anime \"Shabake\" Seisaku Iinkai",
+      "type" : "WORK"
     } ]
   },
   "description" : "http://anidb.net/ch150996 [Ichitarou], the young master of Nagasakiya, one of the top commercial stores in Japan during the Edo period, was born with a weak constitution that leaves him unable to go out much. He is always surrounded by his spirit companions, including a Hakutaku and an Inugami, who protect him. One night, Ichitarou steps outside and witnesses a murder, and from that day onward, bizarre murder cases keep happening all over Edo. So with the help of the spirits, Ichitarou`s hunt for the culprit begins!\nSource: Crunchyroll\nNote: The first four episodes received an early screening at a special event on 23 August 2025 at the Sony Music Entertainment headquarters in Tokyo. Additionally, each episode received an early screening at a weekly special event at the Noitamina Shop & Cafe Theater in Tokyo, starting on 28 September 2025, with one episode screened each week. The regular TV broadcast started on 3 October 2025.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-03",
+      "description" : "The sickly heir to a thriving business sneaks out from under the watchful eyes of his supernatural caretakers.\nSource: Crunchyroll",
       "episode_id" : 301243,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.14,
-        "total" : 3
+        "rating" : 3.51,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -109,13 +118,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-10",
+      "description" : "Running from a robber, Ichitaro stumbles on the scene of a grisly murder.\nSource: Crunchyroll",
       "episode_id" : 301244,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.47,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362199JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Melancholy"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Monoui"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ものうい"
       } ],
       "type" : "REGULAR"
     }, {
@@ -123,10 +146,23 @@
       "episode_id" : 301245,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 5.45,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362201JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Herald"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sakibure"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "さきぶれ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -140,16 +176,60 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-31",
+      "episode_id" : 303717,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-07",
+      "episode_id" : 303718,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-14",
+      "episode_id" : 303719,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-21",
+      "episode_id" : 303720,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.28,
-      "total" : 6
+      "rating" : 3.66,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 5.16,
-      "total" : 6
+      "rating" : 4.85,
+      "total" : 14
     }
   },
   "related" : {
@@ -169,6 +249,21 @@
   },
   "start_date" : "2025-10-03",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -196,6 +291,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "しゃばけ (2025)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "娑婆气",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "娑婆氣",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

@@ -2,10 +2,6 @@
   "anime_id" : 16020,
   "characters" : {
     "APPEARANCE" : [ {
-      "character_id" : 122163,
-      "name" : "Amamiya",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 143982,
       "name" : "Kangoshi A",
       "type" : "CHARACTER"
@@ -13,12 +9,12 @@
       "character_id" : 143983,
       "name" : "Kangoshi B",
       "type" : "CHARACTER"
-    }, {
-      "character_id" : 122162,
-      "name" : "Ootsuka",
-      "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
+      "character_id" : 122163,
+      "name" : "Amamiya",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 130100,
       "name" : "Hiramatsu",
       "type" : "CHARACTER"
@@ -31,14 +27,6 @@
       "name" : "Kurokawa",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 143980,
-      "name" : "Mako",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 143981,
-      "name" : "Miya",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 130101,
       "name" : "Mochizuki",
       "type" : "CHARACTER"
@@ -47,8 +35,20 @@
       "name" : "Numajiri",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 122162,
+      "name" : "Ootsuka",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 116043,
       "name" : "Tachibana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143980,
+      "name" : "Tendou Mako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143981,
+      "name" : "Tendou Mia",
       "type" : "CHARACTER"
     }, {
       "character_id" : 117175,
@@ -159,7 +159,7 @@
       "length" : 20,
       "number" : 4,
       "rating" : {
-        "rating" : 8.47,
+        "rating" : 8.48,
         "total" : 2
       },
       "recap" : false,
@@ -183,7 +183,7 @@
       "length" : 20,
       "number" : 5,
       "rating" : {
-        "rating" : 8.47,
+        "rating" : 8.48,
         "total" : 2
       },
       "recap" : false,
@@ -300,7 +300,7 @@
     }, {
       "air_date" : "2025-08-29",
       "episode_id" : 297098,
-      "length" : 20,
+      "length" : 30,
       "number" : 10,
       "rating" : {
         "rating" : 7.77,
@@ -370,19 +370,19 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.44,
-      "total" : 121
+      "rating" : 5.48,
+      "total" : 124
     },
     "TEMPORARY" : {
-      "rating" : 6.42,
-      "total" : 129
+      "rating" : 6.44,
+      "total" : 132
     }
   },
   "resources" : {
     "MAL" : [ "48651" ],
     "TMDB" : [ "tv/124867" ],
     "VNDB" : [ "v30235", "v32706" ],
-    "WEBSITE" : [ "https://www.pinkpineapple.co.jp/detail.php?did=2220", "https://www.pinkpineapple.co.jp/detail.php?did=2340&cid=4", "https://www.pinkpineapple.co.jp/detail.php?did=2342&cid=4", "https://www.pinkpineapple.co.jp/detail.php?did=2386", "https://www.pinkpineapple.co.jp/detail.php?did=2388", "https://www.pinkpineapple.co.jp/detail.php?did=2438", "https://www.pinkpineapple.co.jp/detail.php?did=2440", "https://www.pinkpineapple.co.jp/detail.php?did=2464", "https://www.pinkpineapple.co.jp/detail.php?did=2479" ],
+    "WEBSITE" : [ "https://www.pinkpineapple.co.jp/detail.php?did=2220", "https://www.pinkpineapple.co.jp/detail.php?did=2340&cid=4", "https://www.pinkpineapple.co.jp/detail.php?did=2342&cid=4", "https://www.pinkpineapple.co.jp/detail.php?did=2386", "https://www.pinkpineapple.co.jp/detail.php?did=2388", "https://www.pinkpineapple.co.jp/detail.php?did=2438", "https://www.pinkpineapple.co.jp/detail.php?did=2440", "https://www.pinkpineapple.co.jp/detail.php?did=2464", "https://www.pinkpineapple.co.jp/detail.php?did=2479", "https://www.pinkpineapple.co.jp/detail.php?did=2561" ],
     "WIKIPEDIA_JP" : [ "搾精病棟〜性格最悪のナースしかいない病院で射精管理生活〜" ]
   },
   "start_date" : "2021-04-30",
@@ -700,13 +700,6 @@
       "verified" : false,
       "weight" : 0
     },
-    "6151" : {
-      "info_box" : false,
-      "name" : "technical aspects",
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 0
-    },
     "6164" : {
       "info_box" : false,
       "name" : "onahole",
@@ -734,14 +727,6 @@
       "info_box" : false,
       "name" : "fellatio",
       "parent_tag_id" : 2713,
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 0
-    },
-    "6494" : {
-      "info_box" : true,
-      "name" : "half-length episodes",
-      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -1,6 +1,63 @@
 {
   "anime_id" : 19145,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 151895,
+      "name" : "Honda",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151755,
+      "name" : "Imatou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151891,
+      "name" : "Kinoshita",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151756,
+      "name" : "Kobayashi-sensei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151890,
+      "name" : "Komori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151894,
+      "name" : "Kudou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151757,
+      "name" : "Mori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151896,
+      "name" : "Nishino",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151758,
+      "name" : "Noguchi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151586,
+      "name" : "Rei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151759,
+      "name" : "Saitou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151893,
+      "name" : "Sasaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151892,
+      "name" : "Souma",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151585,
+      "name" : "Watanabe Takuya",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 148321,
       "name" : "Iwata Sae",
@@ -33,9 +90,21 @@
     } ]
   },
   "creators" : {
+    "7326" : [ {
+      "name" : "Yanase Jouji",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "9849" : [ {
+      "name" : "Fujisawa Toshiyuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "44194" : [ {
       "name" : "Nakanishi Yasuhiro",
       "type" : "SERIES_COMPOSITION"
+    } ],
+    "44923" : [ {
+      "name" : "Muranaga Yuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "48386" : [ {
       "name" : "Tabuchi Natsumi",
@@ -53,9 +122,17 @@
       "name" : "Studio Kai",
       "type" : "ANIMATION_WORK"
     } ],
+    "59930" : [ {
+      "name" : "Sakoe Sara",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "60955" : [ {
       "name" : "Kawahara Kazune",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "83231" : [ {
+      "name" : "Zeng Jinfeng",
+      "type" : "CHARACTER_DESIGN"
     } ]
   },
   "description" : "http://anidb.net/ch148321 [Sae] has always been taller and stronger than the average girl. http://anidb.net/ch148322 [Kouki] used to be smaller and weaker than the average boy. But now that he`s in high school, he`s tall and super popular! Will their childhood friendship rekindle...and maybe develop into something more?\nSource: Viz",
@@ -65,6 +142,10 @@
       "episode_id" : 301222,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.38,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -82,6 +163,10 @@
       "episode_id" : 301223,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.73,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -99,10 +184,20 @@
       "episode_id" : 301224,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 8.73,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Donna ni Tookute mo"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "No Matter How Far"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "どんなに遠くても"
       } ],
       "type" : "REGULAR"
     }, {
@@ -113,19 +208,75 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "He`s Still There Even When I Close My Eyes"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mabuta Tojite mo Soko ni Aru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "まぶた閉じてもそこに在る"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-10-30",
+      "episode_id" : 303097,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hanete, Yuraide"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Jumping and Swinging"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "跳ねて, 揺らいで"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-06",
+      "episode_id" : 303098,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-13",
+      "episode_id" : 303099,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-20",
+      "episode_id" : 303100,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.54,
-      "total" : 3
+      "rating" : 5.34,
+      "total" : 15
     },
     "TEMPORARY" : {
-      "rating" : 5.33,
-      "total" : 3
+      "rating" : 6.2,
+      "total" : 15
     }
   },
   "resources" : {
@@ -163,6 +314,10 @@
     "title" : "Taiyou yori mo Mabushii Hoshi",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "A Star Brighter Than the Sun",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "SPANISH",
     "title" : "Una estrella más radiante que el Sol",
     "type" : "OFFICIAL"
@@ -178,10 +333,6 @@
     "language" : "JAPANESE",
     "title" : "たまほし",
     "type" : "SHORT"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "A Star Brighter Than the Sun",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://tamahoshi-anime.com/"

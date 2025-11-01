@@ -2,8 +2,36 @@
   "anime_id" : 19067,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 144316,
+      "name" : "Hiroko",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 144313,
       "name" : "Ichirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 7651,
+      "name" : "Jusenkyou Guide",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144317,
+      "name" : "Kiichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144314,
+      "name" : "Noriko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151642,
+      "name" : "Shampoo Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144318,
+      "name" : "Shingo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144315,
+      "name" : "Tomoyo",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -60,6 +88,10 @@
       "name" : "Ono Toufuu",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 7491,
+      "name" : "P-chan",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 7962,
       "name" : "Sanzen`in Mikado",
       "type" : "CHARACTER"
@@ -73,6 +105,10 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 7460,
+      "name" : "Shampoo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 7492,
       "name" : "Shampoo",
       "type" : "CHARACTER"
     }, {
@@ -143,8 +179,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.82,
-        "total" : 3
+        "rating" : 4.65,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -166,10 +202,23 @@
       "episode_id" : 301306,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.34,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Angriff des wilden Mousse"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Attack of the Wild Mousse"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mousse Shuurai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ムース襲来"
       } ],
       "type" : "REGULAR"
     }, {
@@ -177,10 +226,23 @@
       "episode_id" : 301307,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.88,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Chestnuts Roasting on an Open Fire"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kachuu Tenshin Amaguri Ken"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Kastanien aus dem Feuer holen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "火中天津甘栗拳"
       } ],
       "type" : "REGULAR"
     }, {
@@ -194,16 +256,60 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-02",
+      "episode_id" : 303378,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-09",
+      "episode_id" : 303379,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-16",
+      "episode_id" : 303380,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-23",
+      "episode_id" : 303381,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.21,
-      "total" : 8
+      "rating" : 7.71,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 7.66,
-      "total" : 9
+      "rating" : 7.9,
+      "total" : 15
     }
   },
   "related" : {
@@ -222,9 +328,32 @@
   },
   "start_date" : "2025-10-05",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6442" : {
+      "info_box" : false,
+      "name" : "Weekly Shounen Sunday",
+      "parent_tag_id" : 2798,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

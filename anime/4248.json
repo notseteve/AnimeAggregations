@@ -56,12 +56,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.74,
-      "total" : 23
+      "rating" : 4.66,
+      "total" : 24
     },
     "TEMPORARY" : {
-      "rating" : 5.17,
-      "total" : 23
+      "rating" : 5.12,
+      "total" : 24
     }
   },
   "resources" : {
@@ -77,6 +77,13 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -185,6 +192,14 @@
       "info_box" : false,
       "name" : "DESCRIPTION MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
