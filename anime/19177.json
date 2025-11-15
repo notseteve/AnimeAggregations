@@ -1,7 +1,36 @@
 {
   "anime_id" : 19177,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 151946,
+      "name" : "Kasai Zanzou (Bijo)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151944,
+      "name" : "Kasai Zanzou (Bishounen)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151947,
+      "name" : "Kasai Zanzou (King)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151945,
+      "name" : "Kasai Zanzou (Kinpatsu Bijo)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151949,
+      "name" : "Kasai Zanzou (Shounen)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151948,
+      "name" : "Kasai Zanzou (Yajuu)",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
+      "character_id" : 148569,
+      "name" : "Gamute",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148571,
       "name" : "Kimura Kiwami",
       "type" : "CHARACTER"
@@ -11,8 +40,52 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
-      "character_id" : 148569,
-      "name" : "Gamute",
+      "character_id" : 151840,
+      "name" : "Akiba Kaiza",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151846,
+      "name" : "Hasegawa Sako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151943,
+      "name" : "Kasai Zanzou (Dandy)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151845,
+      "name" : "Kohara Maya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151844,
+      "name" : "Kurita Anatomi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151843,
+      "name" : "Matsumoto Nodoka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151848,
+      "name" : "Odaka Tome",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151842,
+      "name" : "Saitou Hanako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151847,
+      "name" : "Yagi Uryuu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151839,
+      "name" : "Yajima Hiroki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151841,
+      "name" : "Yamada Shiki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151838,
+      "name" : "Yuzawa Kousei",
       "type" : "CHARACTER"
     } ]
   },
@@ -21,9 +94,25 @@
       "name" : "Studio Deen",
       "type" : "WORK"
     } ],
+    "6827" : [ {
+      "name" : "Kitamura Tomoyuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "6896" : [ {
       "name" : "Matsutake Tokuyuki",
       "type" : "CHARACTER_DESIGN"
+    } ],
+    "7855" : [ {
+      "name" : "Miyagawa Chieko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "10833" : [ {
+      "name" : "Morimoto Hirofumi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "14065" : [ {
+      "name" : "Takahashi Keita",
+      "type" : "MUSIC"
     } ],
     "16568" : [ {
       "name" : "Watabe Toshinori",
@@ -32,6 +121,10 @@
     "19347" : [ {
       "name" : "Oochi Keiichirou",
       "type" : "SERIES_COMPOSITION"
+    } ],
+    "80364" : [ {
+      "name" : "Watanabe Shun`ya",
+      "type" : "MUSIC"
     } ],
     "81575" : [ {
       "name" : "Kondou Shinsuke",
@@ -66,6 +159,10 @@
       "episode_id" : 301348,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.17,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -83,10 +180,20 @@
       "episode_id" : 301349,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 8.17,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai Ni Shou: Moeru Jingi no Kabuchika"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Part 2: Blazing Chivalry and Justice in Kabuchika"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第二章 燃える仁義のカブチカ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -94,27 +201,88 @@
       "episode_id" : 301350,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 8.17,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai San Shou: Jouai Dai Bousou 1st"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Part 3: The Great Burial of Love #1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第三章 情愛大暴葬 1st"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-05",
+      "episode_id" : 304015,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai San Shou: Jouai Dai Bousou 2nd"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Part 3: The Great Burial of Love #2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第三章 情愛大暴葬 2nd"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-12",
+      "episode_id" : 304016,
+      "length" : 25,
+      "number" : 6,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-19",
+      "episode_id" : 304017,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-26",
+      "episode_id" : 304018,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.69,
-      "total" : 5
+      "rating" : 3.6,
+      "total" : 11
     },
     "TEMPORARY" : {
-      "rating" : 5.0,
-      "total" : 5
+      "rating" : 4.72,
+      "total" : 11
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "400495" ],
     "AMAZON" : [ "B0FNV7LF55" ],
+    "ANISON" : [ "26162" ],
     "ANN" : [ "34799" ],
     "MAL" : [ "61067" ],
     "SYOBOI" : [ "7593" ],
@@ -146,13 +314,13 @@
     "title" : "Ninja to Gokudou",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Ninja Vs. Gokudo",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "忍者と極道",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Ninja Vs. Gokudo",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://www.ningoku-anime.com/"

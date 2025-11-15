@@ -15,8 +15,24 @@
       "name" : "Aida Yukihiro",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151851,
+      "name" : "Kawashima Ritsuka",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 150210,
       "name" : "Kisara",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151852,
+      "name" : "Ochi Yuusuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151853,
+      "name" : "Shitara Ayano",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151850,
+      "name" : "Yukimi",
       "type" : "CHARACTER"
     } ]
   },
@@ -52,12 +68,13 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-14",
+      "description" : "Mari is late to school one day and meets a new student who is also late named Tsunagu, who is a beastperson.\nSource: Crunchyroll",
       "episode_id" : 301410,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.4,
-        "total" : 3
+        "rating" : 7.12,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -70,10 +87,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-21",
+      "description" : "Mari and Tsunagu test the boundaries of their relationship.\nSource: Crunchyroll",
       "episode_id" : 301411,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.38,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362312JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
@@ -81,10 +106,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-28",
+      "description" : "Mari`s friend Ayano starts to act strange when Tsunagu places top in their class academically.\nSource: Crunchyroll",
       "episode_id" : 301412,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.56,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362314JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
@@ -92,13 +125,65 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-04",
+      "description" : "Mari, Tsunagu, and Yukihiro go out together on their day off.\nSource: Crunchyroll",
       "episode_id" : 301413,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.38,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362316JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-11",
+      "episode_id" : 304215,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-18",
+      "episode_id" : 304216,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-25",
+      "episode_id" : 304217,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-02",
+      "episode_id" : 304218,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -123,12 +208,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.41,
-      "total" : 2
+      "rating" : 3.51,
+      "total" : 17
     },
     "TEMPORARY" : {
-      "rating" : 4.5,
-      "total" : 2
+      "rating" : 4.7,
+      "total" : 17
     }
   },
   "resources" : {
@@ -145,6 +230,21 @@
   },
   "start_date" : "2025-10-14",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

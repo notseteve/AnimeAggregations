@@ -20,6 +20,10 @@
       "episode_id" : 300690,
       "length" : 20,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.28,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -31,6 +35,10 @@
       "episode_id" : 300701,
       "length" : 20,
       "number" : 2,
+      "rating" : {
+        "rating" : 1.28,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -38,6 +46,16 @@
       } ],
       "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.21,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 6.75,
+      "total" : 10
+    }
   },
   "resources" : {
     "MAL" : [ "62380" ],
@@ -60,6 +78,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2615" : {
       "info_box" : true,
       "name" : "18 restricted",
@@ -67,6 +92,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2711" : {
+      "info_box" : false,
+      "name" : "urination",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2748" : {
       "info_box" : true,
@@ -83,6 +116,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2848" : {
+      "info_box" : false,
+      "name" : "pornography",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,
@@ -108,6 +149,10 @@
     "language" : "JAPANESE",
     "title" : "OVA 夏妻",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "여름 아내",
+    "type" : "SYNONYM"
   } ],
   "type" : "OVA",
   "url" : "https://www.lune-soft.jp/ova/29798"

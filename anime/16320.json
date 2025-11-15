@@ -244,8 +244,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.09,
-        "total" : 2
+        "rating" : 6.83,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -275,8 +275,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.09,
-        "total" : 2
+        "rating" : 7.43,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -303,8 +303,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.24,
-        "total" : 2
+        "rating" : 5.62,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -334,8 +334,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.37,
-        "total" : 2
+        "rating" : 5.68,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -365,8 +365,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.13,
-        "total" : 2
+        "rating" : 6.95,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -396,8 +396,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.82,
-        "total" : 2
+        "rating" : 8.07,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -427,8 +427,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.24,
-        "total" : 2
+        "rating" : 6.25,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -455,8 +455,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 8.13,
-        "total" : 2
+        "rating" : 7.55,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -486,8 +486,8 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 4.54,
-        "total" : 2
+        "rating" : 5.1,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -516,6 +516,10 @@
       "episode_id" : 271192,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.88,
+        "total" : 1
+      },
       "recap" : true,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -706,7 +710,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.38,
-      "total" : 352
+      "total" : 355
     },
     "REVIEW" : {
       "rating" : 3.16,
@@ -714,7 +718,7 @@
     },
     "TEMPORARY" : {
       "rating" : 5.43,
-      "total" : 355
+      "total" : 358
     }
   },
   "resources" : {
@@ -753,6 +757,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2607" : {
       "info_box" : false,
@@ -878,6 +889,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4335" : {
       "info_box" : false,
       "name" : "governmental censorship",
@@ -897,6 +916,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -96,7 +96,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.73,
+        "rating" : 6.72,
         "total" : 11
       },
       "recap" : false,
@@ -149,12 +149,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.45,
-      "total" : 534
+      "rating" : 6.43,
+      "total" : 537
     },
     "TEMPORARY" : {
-      "rating" : 7.1,
-      "total" : 537
+      "rating" : 7.09,
+      "total" : 540
     }
   },
   "related" : {
@@ -176,6 +176,22 @@
   },
   "start_date" : "2021-09-10",
   "tags" : {
+    "7" : {
+      "info_box" : false,
+      "name" : "juujin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "780" : {
+      "info_box" : false,
+      "name" : "fairy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "922" : {
       "info_box" : true,
       "name" : "shounen",
@@ -184,9 +200,38 @@
       "verified" : false,
       "weight" : 0
     },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -212,6 +257,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
@@ -226,7 +279,7 @@
       "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
     },
     "2634" : {
       "info_box" : false,
@@ -240,6 +293,46 @@
       "info_box" : true,
       "name" : "contemporary fantasy",
       "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2649" : {
+      "info_box" : false,
+      "name" : "dark fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2774" : {
+      "info_box" : false,
+      "name" : "spellcasting",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2777" : {
+      "info_box" : false,
+      "name" : "London",
+      "parent_tag_id" : 2809,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
@@ -266,15 +359,55 @@
       "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2844" : {
+      "info_box" : false,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2849" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "fantasy",
       "parent_tag_id" : 7050,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
+    },
+    "2851" : {
+      "info_box" : false,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2854" : {
+      "info_box" : false,
+      "name" : "henshin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2858" : {
       "info_box" : false,
@@ -283,6 +416,102 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3898" : {
+      "info_box" : false,
+      "name" : "science and magic coexist",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4244" : {
+      "info_box" : false,
+      "name" : "healthcare and medicine",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "4669" : {
+      "info_box" : false,
+      "name" : "parenting",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5543" : {
+      "info_box" : false,
+      "name" : "magic school",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5585" : {
+      "info_box" : false,
+      "name" : "curse",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5768" : {
+      "info_box" : false,
+      "name" : "intact family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6073" : {
       "info_box" : false,
@@ -295,6 +524,30 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

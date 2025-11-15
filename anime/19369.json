@@ -97,6 +97,7 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-02",
+      "description" : "Sam is an ordinary young woman whose passion is video games and everything that surrounds them.\nSource: Crunchyroll",
       "episode_id" : 301218,
       "length" : 25,
       "number" : 1,
@@ -121,11 +122,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-09",
+      "description" : "Sam`s indie game is review bombed after a streamer releases a negative review.\nSource: Crunchyroll",
       "episode_id" : 301219,
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.86,
+        "rating" : 5.85,
         "total" : 1
       },
       "recap" : false,
@@ -145,9 +147,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-16",
+      "description" : "Sam goes to Marshall`s apartment to tell him she made Ruminate, but a gorgeous woman greets her at the door.\nSource: Crunchyroll",
       "episode_id" : 301220,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 5.85,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00354966JAJP" ]
@@ -165,24 +172,44 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-23",
+      "description" : "Marshall feels guilty for ruining Sam`s game dev dreams, but his attempts to apologize are unsucessful.\nSource: Crunchyroll",
       "episode_id" : 301221,
       "length" : 25,
       "number" : 4,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00354967JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "Witch, Wizard, Sword Master and The King of Beasts"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Witch, Wizard, Sword Master and the King of Beasts"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Witch, Wizard, Sword Master and the King of Beasts"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-30",
+      "description" : "Sam learns about Marshall`s past and thinks about her own dreams and work while worrying about her future.\nSource: Crunchyroll",
       "episode_id" : 303559,
       "length" : 25,
       "number" : 5,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00354968JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Peel"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Peel"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Peel"
       } ],
       "type" : "REGULAR"
     }, {
@@ -222,12 +249,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.96,
-      "total" : 16
+      "rating" : 2.81,
+      "total" : 18
     },
     "TEMPORARY" : {
-      "rating" : 3.88,
-      "total" : 17
+      "rating" : 3.84,
+      "total" : 19
     }
   },
   "resources" : {
@@ -244,6 +271,13 @@
   },
   "start_date" : "2025-10-02",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -257,6 +291,60 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2812" : {
+      "info_box" : false,
+      "name" : "United States",
+      "parent_tag_id" : 2832,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2832" : {
+      "info_box" : false,
+      "name" : "Americas",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "3170" : {
       "info_box" : false,
@@ -290,9 +378,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "5640" : {
+      "info_box" : false,
+      "name" : "video game development",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

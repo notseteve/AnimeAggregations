@@ -89,12 +89,13 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-07",
+      "description" : "Saku Chitose is an elite student who has an unexpected wrench thrown into his beautiful life.\nSource: Crunchyroll",
       "episode_id" : 301337,
       "length" : 35,
       "number" : 1,
       "rating" : {
-        "rating" : 2.78,
-        "total" : 3
+        "rating" : 3.08,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -113,12 +114,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-14",
+      "description" : "Chitose tries to break down Kenta`s barrier and will help him change if he returns to class.\nSource: Crunchyroll",
       "episode_id" : 301338,
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.14,
-        "total" : 2
+        "rating" : 4.06,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -137,10 +139,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-21",
+      "description" : "Kenta`s progress hits some bumps on the road.\nSource: Crunchyroll",
       "episode_id" : 301339,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 5.11,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364789JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A Lonesome Hero"
@@ -154,13 +164,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-28",
+      "description" : "Kenta rides into battle as the three-week period comes to a close.\nSource: Crunchyroll",
       "episode_id" : 301340,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 6.72,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364791JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ramune no Bin ni Shizunda Biidama no Tsuki"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "The Marble Moon in the Ramune Bottle"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ラムネの瓶に沈んだビー玉の月"
       } ],
       "type" : "REGULAR"
     }, {
@@ -171,7 +195,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "A Fickle Starting Line"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Karisome no Start Line"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "かりそめのスタートライン"
       } ],
       "type" : "REGULAR"
     }, {
@@ -339,12 +369,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.75,
-      "total" : 13
+      "rating" : 4.33,
+      "total" : 19
     },
     "TEMPORARY" : {
-      "rating" : 6.21,
-      "total" : 14
+      "rating" : 5.87,
+      "total" : 20
     }
   },
   "resources" : {
@@ -362,9 +392,46 @@
   },
   "start_date" : "2025-10-07",
   "tags" : {
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -376,6 +443,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
@@ -383,10 +457,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2656" : {
       "info_box" : false,
       "name" : "satire",
       "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2669" : {
+      "info_box" : false,
+      "name" : "school clubs",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
@@ -398,6 +504,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2844" : {
       "info_box" : false,
@@ -430,6 +544,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2888" : {
+      "info_box" : false,
+      "name" : "coming of age",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "3040" : {
       "info_box" : false,
@@ -467,6 +613,14 @@
       "info_box" : false,
       "name" : "social commentary",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5936" : {
+      "info_box" : false,
+      "name" : "uniform fetish",
+      "parent_tag_id" : 2608,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

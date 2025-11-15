@@ -38,14 +38,6 @@
       "name" : "Daisy",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 123859,
-      "name" : "Emile Elman",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 123862,
-      "name" : "Ewen Egeberg",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 135890,
       "name" : "Franklin Perkin",
       "type" : "CHARACTER"
@@ -178,6 +170,14 @@
     }, {
       "character_id" : 123860,
       "name" : "Damian Desmond",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 123859,
+      "name" : "Emile Elman",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 123862,
+      "name" : "Ewen Egeberg",
       "type" : "CHARACTER"
     }, {
       "character_id" : 126970,
@@ -444,7 +444,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 9.15,
+        "rating" : 9.22,
         "total" : 11
       },
       "recap" : false,
@@ -719,7 +719,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 7.84,
+        "rating" : 7.83,
         "total" : 4
       },
       "recap" : false,
@@ -790,7 +790,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.4,
-      "total" : 1303
+      "total" : 1317
     },
     "REVIEW" : {
       "rating" : 5.0,
@@ -798,13 +798,13 @@
     },
     "TEMPORARY" : {
       "rating" : 7.59,
-      "total" : 1307
+      "total" : 1321
     }
   },
   "related" : {
-    "OTHER" : [ 17785 ],
     "PREQUEL" : [ 17061 ],
-    "SEQUEL" : [ 18677 ]
+    "SEQUEL" : [ 18677 ],
+    "SIDE_STORY" : [ 17785 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "390669" ],
@@ -1082,6 +1082,10 @@
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
+    "title" : "Spy x Family (2023)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "POLISH",
     "title" : "Spy x Family (2023)",
     "type" : "OFFICIAL"
   }, {

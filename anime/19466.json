@@ -1,5 +1,24 @@
 {
   "anime_id" : 19466,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 151854,
+      "name" : "Jugemu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151855,
+      "name" : "Neo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151857,
+      "name" : "Rinne",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151856,
+      "name" : "Yakumo",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "3115" : [ {
       "name" : "Ookubo Masao",
@@ -32,6 +51,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Monster"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "モンスター"
       } ],
       "type" : "REGULAR"
     }, {
@@ -43,6 +68,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyoushuu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "強襲"
       } ],
       "type" : "REGULAR"
     }, {
@@ -67,15 +98,63 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-10-07",
+      "episode_id" : 304013,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Seiya & Hikorokii ga Chousen! Shichousha Present o Kaketa Monsto Anime Quiz: Zenpen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "せいや&ヒコロヒーが挑戦! ~視聴者プレゼントをかけたモンストアニメクイズ~ 前編"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-10-14",
+      "episode_id" : 304014,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Seiya & Hikorokii ga Chousen! Shichousha Present o Kaketa Monsto Anime Quiz: Kouhen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "せいや&ヒコロヒーが挑戦! ~視聴者プレゼントをかけたモンストアニメクイズ~ 後編"
+      } ],
+      "type" : "SPECIAL"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.66,
+      "total" : 2
+    },
+    "TEMPORARY" : {
+      "rating" : 4.0,
+      "total" : 2
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "402204" ],
+    "ANISON" : [ "26184" ],
     "ANN" : [ "37024" ],
     "MAL" : [ "62066" ],
     "SYOBOI" : [ "7592" ],
     "TWITTER" : [ "monst_animation" ],
-    "WEBSITE" : [ "https://anime.monster-strike.com/deadverse-reloaded/" ]
+    "WEBSITE" : [ "https://anime.monster-strike.com/deadverse-reloaded/" ],
+    "WIKIPEDIA_EN" : [ "Monster_Strike_(anime)" ],
+    "WIKIPEDIA_JP" : [ "モンスターストライク_(アニメ)" ]
   },
   "start_date" : "2025-10-21",
   "tags" : {

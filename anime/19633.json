@@ -22,7 +22,7 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 6.82,
+        "rating" : 6.81,
         "total" : 2
       },
       "recap" : false,
@@ -43,7 +43,7 @@
       "length" : 15,
       "number" : 2,
       "rating" : {
-        "rating" : 4.78,
+        "rating" : 4.75,
         "total" : 3
       },
       "recap" : false,
@@ -64,7 +64,7 @@
       "length" : 15,
       "number" : 3,
       "rating" : {
-        "rating" : 5.45,
+        "rating" : 5.41,
         "total" : 3
       },
       "recap" : false,
@@ -84,10 +84,20 @@
       "episode_id" : 302823,
       "length" : 15,
       "number" : 4,
+      "rating" : {
+        "rating" : 5.6,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaede Shouten"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カエデ商店"
       } ],
       "type" : "REGULAR"
     }, {
@@ -95,10 +105,20 @@
       "episode_id" : 303713,
       "length" : 15,
       "number" : 5,
+      "rating" : {
+        "rating" : 5.48,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 5"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shitsurei na Elf"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "失礼なエルフ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -106,10 +126,20 @@
       "episode_id" : 303714,
       "length" : 15,
       "number" : 6,
+      "rating" : {
+        "rating" : 6.7,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 6"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Raishouseki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "雷晶石"
       } ],
       "type" : "REGULAR"
     }, {
@@ -138,12 +168,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 1.94,
-      "total" : 18
+      "rating" : 2.03,
+      "total" : 24
     },
     "TEMPORARY" : {
-      "rating" : 3.47,
-      "total" : 18
+      "rating" : 3.76,
+      "total" : 25
     }
   },
   "resources" : {
@@ -159,7 +189,7 @@
   "similar" : {
     "17878" : {
       "rating" : 10.0,
-      "total" : 4
+      "total" : 5
     }
   },
   "start_date" : "2025-10-03",
@@ -285,6 +315,10 @@
     "title" : "Potion, Wagami o Tasukeru",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "I Saved Myself with a Potion! : Life in Another World",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ポーション, わが身を助ける",
     "type" : "OFFICIAL"
@@ -296,10 +330,6 @@
     "language" : "CHINESE_TRADITIONAL",
     "title" : "魔法藥水救救我",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "I Saved Myself with a Potion! Life in Another World",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://animationid.com/potion/"

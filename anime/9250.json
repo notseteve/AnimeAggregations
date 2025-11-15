@@ -78,7 +78,7 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 8.26,
+        "rating" : 8.24,
         "total" : 11
       },
       "recap" : false,
@@ -111,11 +111,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.55,
-      "total" : 3770
+      "total" : 3773
     },
     "TEMPORARY" : {
       "rating" : 7.55,
-      "total" : 3783
+      "total" : 3786
     }
   },
   "related" : {
@@ -196,6 +196,13 @@
       "verified" : false,
       "weight" : 400
     },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
@@ -271,6 +278,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2774" : {
       "info_box" : false,
       "name" : "spellcasting",
@@ -278,6 +293,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2793" : {
       "info_box" : false,
@@ -406,10 +429,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "3805" : {
+      "info_box" : false,
+      "name" : "European stylised",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4096" : {
+      "info_box" : false,
+      "name" : "gore",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4333" : {
       "info_box" : false,
       "name" : "predominantly female cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4516" : {
+      "info_box" : false,
+      "name" : "animal abuse",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -438,10 +493,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "5463" : {
+      "info_box" : false,
+      "name" : "boarding school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "5543" : {
       "info_box" : false,
       "name" : "magic school",
       "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

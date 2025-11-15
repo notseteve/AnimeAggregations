@@ -27,6 +27,10 @@
       "name" : "Henmi Yukari",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151860,
+      "name" : "Kirimine Misuzu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149963,
       "name" : "Kusunoki Misa",
       "type" : "CHARACTER"
@@ -78,8 +82,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.04,
-        "total" : 4
+        "rating" : 7.35,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -98,10 +102,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-19",
+      "description" : "Ishikawa`s classmate, Eiko Sakuma, stumbles upon her practice session with Otori in the school library.\nSource: Crunchyroll",
       "episode_id" : 301400,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.04,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362062JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kyuuketsuki-chan to Sakuma-san"
@@ -115,13 +127,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-26",
+      "description" : "Ishikawa battles an empty stomach in the middle of a basketball match. Ishikawa looks for a club to join.\nSource: Crunchyroll",
       "episode_id" : 301401,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.94,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362064JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyuuketsuki-chan to Kyuugisai / Kyuuketsuki-chan to Bukatsu Tanbou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Li`l Miss Vampire and the Sports Tournament / Li`l Miss Vampire and the Club Search"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "吸血鬼ちゃんと球技祭 / 吸血鬼ちゃんと部活探訪"
       } ],
       "type" : "REGULAR"
     }, {
@@ -129,10 +155,23 @@
       "episode_id" : 301402,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.38,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362066JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyuuketsuki-chan to Chouri Jisshuu / Kyuuketsuki-chan to Odekake"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Li`l Miss Vampire and Cooking Class / Li`l Miss Vampire`s Day Out"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "吸血鬼ちゃんと調理実習 / 吸血鬼ちゃんとおでかけ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -142,8 +181,14 @@
       "number" : 5,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyuuketsuki-chan to Kusunoki-san / Kyuuketsuki-chan no Tanjoubi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Li`l Miss Vampire and Kusunoki-san / Li`l Miss Vampire`s Birthday"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "吸血鬼ちゃんと楠木さん / 吸血鬼ちゃんの誕生日"
       } ],
       "type" : "REGULAR"
     }, {
@@ -253,16 +298,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.28,
-      "total" : 15
+      "rating" : 3.07,
+      "total" : 23
     },
     "TEMPORARY" : {
-      "rating" : 4.63,
-      "total" : 15
+      "rating" : 4.8,
+      "total" : 23
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "399224" ],
+    "ANISON" : [ "26164" ],
     "ANN" : [ "34558" ],
     "CRUNCHY_ROLL" : [ "GT00362058" ],
     "MAL" : [ "60933" ],
@@ -364,6 +410,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "ちゃんと吸えない吸血鬼ちゃん",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "不擅吸血的吸血鬼",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

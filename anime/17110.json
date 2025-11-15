@@ -165,7 +165,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.42,
+        "rating" : 4.4,
         "total" : 6
       },
       "recap" : false,
@@ -190,7 +190,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.72,
+        "rating" : 4.71,
         "total" : 5
       },
       "recap" : false,
@@ -215,7 +215,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.57,
+        "rating" : 5.56,
         "total" : 5
       },
       "recap" : false,
@@ -240,7 +240,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.46,
+        "rating" : 5.43,
         "total" : 5
       },
       "recap" : false,
@@ -265,7 +265,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.66,
+        "rating" : 5.64,
         "total" : 5
       },
       "recap" : false,
@@ -290,7 +290,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 1.84,
+        "rating" : 1.82,
         "total" : 4
       },
       "recap" : false,
@@ -315,7 +315,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.94,
+        "rating" : 3.91,
         "total" : 4
       },
       "recap" : false,
@@ -340,7 +340,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 2.61,
+        "rating" : 2.58,
         "total" : 4
       },
       "recap" : false,
@@ -365,7 +365,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.38,
+        "rating" : 6.34,
         "total" : 3
       },
       "recap" : false,
@@ -390,7 +390,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.05,
+        "rating" : 5.01,
         "total" : 3
       },
       "recap" : false,
@@ -415,7 +415,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 4.1,
+        "rating" : 4.06,
         "total" : 3
       },
       "recap" : false,
@@ -524,12 +524,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.15,
-      "total" : 291
+      "rating" : 3.19,
+      "total" : 299
     },
     "TEMPORARY" : {
-      "rating" : 5.69,
-      "total" : 292
+      "rating" : 5.72,
+      "total" : 300
     }
   },
   "related" : {
@@ -552,9 +552,63 @@
   },
   "start_date" : "2025-04-05",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4611" : {
+      "info_box" : false,
+      "name" : "nearly almighty protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

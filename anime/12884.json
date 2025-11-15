@@ -95,11 +95,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.75,
-      "total" : 176
+      "total" : 177
     },
     "TEMPORARY" : {
       "rating" : 6.04,
-      "total" : 177
+      "total" : 178
     }
   },
   "resources" : {
@@ -145,6 +145,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -185,6 +192,14 @@
       "info_box" : false,
       "name" : "place",
       "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2616" : {
+      "info_box" : true,
+      "name" : "mina",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -300,6 +315,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2924" : {
       "info_box" : false,

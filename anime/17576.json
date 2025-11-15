@@ -18,8 +18,16 @@
       "name" : "Gouka no Flame",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 102718,
+      "name" : "Hedoro Kurage",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 79062,
       "name" : "Ia-ian",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 77236,
+      "name" : "Kinzoku Bat",
       "type" : "CHARACTER"
     }, {
       "character_id" : 151618,
@@ -28,6 +36,10 @@
     }, {
       "character_id" : 104667,
       "name" : "Kuroi Seishi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 78310,
+      "name" : "Kuseno-hakase",
       "type" : "CHARACTER"
     }, {
       "character_id" : 77231,
@@ -42,8 +54,20 @@
       "name" : "Narinki",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 104662,
+      "name" : "Nyaan",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 102717,
       "name" : "Phoenix Otoko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 102698,
+      "name" : "Rhino Wrestler",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152111,
+      "name" : "Sekingal",
       "type" : "CHARACTER"
     }, {
       "character_id" : 104665,
@@ -54,8 +78,16 @@
       "name" : "Sitch",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 76040,
+      "name" : "Tank-Top Master",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 102704,
       "name" : "Tareo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 102713,
+      "name" : "Waganma",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -188,7 +220,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 1.91,
+        "rating" : 1.75,
         "total" : 6
       },
       "recap" : false,
@@ -213,8 +245,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 1.64,
-        "total" : 4
+        "rating" : 2.58,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -233,10 +265,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-26",
+      "description" : "Garou fights Insect God and King the Ripper, while Tareo gets kidnapped. Dr. Kuseno visits Saitama.\nSource: Crunchyroll",
       "episode_id" : 301303,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 2.41,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364585JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Organism Limits"
@@ -250,13 +290,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-02",
+      "description" : "The heroes prepare for battle without Silverfang and Genos. Garou attacks the Monster Association.\nSource: Crunchyroll",
       "episode_id" : 301304,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 1.93,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364587JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Counterattack Signal"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hangeki no Noroshi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "反撃の狼煙"
       } ],
       "type" : "REGULAR"
     }, {
@@ -266,8 +320,14 @@
       "number" : 5,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaijin no Ou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Monster King"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "怪人の王"
       } ],
       "type" : "REGULAR"
     }, {
@@ -331,12 +391,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.91,
-      "total" : 25
+      "rating" : 3.32,
+      "total" : 56
     },
     "TEMPORARY" : {
-      "rating" : 6.57,
-      "total" : 26
+      "rating" : 5.4,
+      "total" : 58
     }
   },
   "related" : {
@@ -534,6 +594,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3696" : {
+      "info_box" : false,
+      "name" : "off-model animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4055" : {
       "info_box" : false,
       "name" : "facial distortion",
@@ -562,6 +630,21 @@
       "info_box" : false,
       "name" : "predominantly male cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

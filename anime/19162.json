@@ -1,6 +1,11 @@
 {
   "anime_id" : 19162,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 151837,
+      "name" : "Kirika Rosequartz",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 146604,
       "name" : "Amelia Rosequartz",
@@ -11,12 +16,28 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 151835,
+      "name" : "Asahina Kyosuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151973,
+      "name" : "Aurum Trace",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152119,
+      "name" : "Crow",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149816,
-      "name" : "Ria Lagoon",
+      "name" : "Lia Lagoon",
       "type" : "CHARACTER"
     }, {
       "character_id" : 149815,
-      "name" : "Saran Misrey",
+      "name" : "Saran Mithray",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151834,
+      "name" : "Satou Tsukasa",
       "type" : "CHARACTER"
     }, {
       "character_id" : 149817,
@@ -40,10 +61,16 @@
     "20126" : [ {
       "name" : "Saitou Kaori",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Saitou Kaori",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "49221" : [ {
       "name" : "Okada Hirona",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Okada Hirona",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "61178" : [ {
       "name" : "Igarashi Satoshi",
@@ -63,8 +90,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.36,
-        "total" : 6
+        "rating" : 4.71,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -91,8 +118,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.97,
-        "total" : 4
+        "rating" : 5.07,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -111,10 +138,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-21",
+      "description" : "Akira Oda’s high school class is summoned to another world and granted abilities. Now, Akira is on the run!\nSource: Crunchyroll",
       "episode_id" : 301335,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 4.95,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362147DEDE" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Ansatsusha wa Neko to Fureau"
@@ -128,24 +163,52 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-28",
+      "description" : "The gang encounters Kilika, Amelia`s sister, who holds a massive grudge against her.\nSource: Crunchyroll",
       "episode_id" : 301336,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 2.98,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362149DEDE" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ansatsusha wa Namae o Yobu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "The Assassin Calls the Name"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "暗殺者は名前を呼ぶ"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-04",
+      "description" : "Akira and gang head to the land of beastfolk and face new encounters.\nSource: Crunchyroll",
       "episode_id" : 303061,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 6.1,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362151JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ansatsusha wa Bed de Nemuru"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "The Assassin Sleeps in a Bed"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "暗殺者はベッドで眠る"
       } ],
       "type" : "REGULAR"
     }, {
@@ -155,8 +218,14 @@
       "number" : 6,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ansatsusha wa Mazoku to Tatakau"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Assassin Fights a Demon"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "暗殺者は魔族と戦う"
       } ],
       "type" : "REGULAR"
     }, {
@@ -203,16 +272,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.57,
-      "total" : 32
+      "rating" : 5.2,
+      "total" : 61
     },
     "TEMPORARY" : {
       "rating" : 6.65,
-      "total" : 33
+      "total" : 62
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "399368" ],
+    "ANISON" : [ "26084" ],
     "ANN" : [ "34723" ],
     "CRUNCHY_ROLL" : [ "G0XHWM1JP" ],
     "MAL" : [ "61026" ],
@@ -547,7 +617,7 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi Nodaga",
+    "title" : "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no Da ga",
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
@@ -577,10 +647,6 @@
     "language" : "JAPANESE",
     "title" : "ステつよ",
     "type" : "SHORT"
-  }, {
-    "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
-    "type" : "SYNONYM"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "明明只是暗杀者，我的面板数值却比勇者还要强",

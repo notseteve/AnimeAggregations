@@ -12,6 +12,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 151746,
+      "name" : "Alekko",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142863,
       "name" : "Ansem Smart",
       "type" : "CHARACTER"
@@ -22,6 +26,10 @@
     }, {
       "character_id" : 147464,
       "name" : "Arnold Hail",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151747,
+      "name" : "Artbaran Henning",
       "type" : "CHARACTER"
     }, {
       "character_id" : 147467,
@@ -74,6 +82,10 @@
     }, {
       "character_id" : 142870,
       "name" : "Luke Sykol",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151749,
+      "name" : "Mary Auden",
       "type" : "CHARACTER"
     }, {
       "character_id" : 147470,
@@ -135,11 +147,12 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-04",
+      "description" : "After five years, Tino nostalgically recalls his first encounter with the Grieving Souls and Krai.\nSource: Crunchyroll",
       "episode_id" : 301265,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.67,
+        "rating" : 6.65,
         "total" : 3
       },
       "recap" : false,
@@ -159,11 +172,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-11",
+      "description" : "House Gradis directly requests Krai for a job. To get out of it he goes on vacation.\nSource: Crunchyroll",
       "episode_id" : 301266,
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.63,
+        "rating" : 4.6,
         "total" : 3
       },
       "recap" : false,
@@ -183,10 +197,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-18",
+      "description" : "Krai enjoys his vacation, but Arnold who`s in pursuit him is having the worst time.\nSource: Crunchyroll",
       "episode_id" : 301267,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.98,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU34KGW" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "I Want to Leave the City`s Peace to You"
@@ -200,13 +222,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-25",
+      "description" : "Krai`s vacation continues, and so do the hardships for Arnold and the others chasing him.\nSource: Crunchyroll",
       "episode_id" : 301268,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.61,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9EWKP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "I`ll Pass On the Strong Monsters"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsuyoi Mamono wa Pass Shitai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "強い魔物はパスしたい"
       } ],
       "type" : "REGULAR"
     }, {
@@ -214,10 +250,23 @@
       "episode_id" : 303188,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 2.62,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U3QNV9" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "I Want to Soak It Up in the Hot Springs"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nonbiri Onsen Tsukaritai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "のんびり温泉浸かりたい"
       } ],
       "type" : "REGULAR"
     }, {
@@ -227,8 +276,14 @@
       "number" : 6,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dounika Kounika Kirinuketai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Somehow or Another, I`d Like to Get Out"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "どうにかこうにか切り抜けたい"
       } ],
       "type" : "REGULAR"
     }, {
@@ -257,12 +312,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.64,
-      "total" : 19
+      "rating" : 5.83,
+      "total" : 29
     },
     "TEMPORARY" : {
-      "rating" : 5.9,
-      "total" : 19
+      "rating" : 6.51,
+      "total" : 29
     }
   },
   "related" : {

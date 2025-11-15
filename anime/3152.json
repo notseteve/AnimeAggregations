@@ -273,7 +273,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.1,
+        "rating" : 3.09,
         "total" : 1
       },
       "recap" : false,
@@ -315,7 +315,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.1,
+        "rating" : 3.09,
         "total" : 1
       },
       "recap" : false,
@@ -441,7 +441,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 3.1,
+        "rating" : 3.09,
         "total" : 1
       },
       "recap" : false,
@@ -483,7 +483,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 3.1,
+        "rating" : 3.09,
         "total" : 1
       },
       "recap" : false,
@@ -577,12 +577,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.62,
-      "total" : 75
+      "rating" : 6.57,
+      "total" : 76
     },
     "TEMPORARY" : {
-      "rating" : 7.04,
-      "total" : 78
+      "rating" : 7.0,
+      "total" : 79
     }
   },
   "related" : {
@@ -602,6 +602,60 @@
   },
   "start_date" : "2005-04-12",
   "tags" : {
+    "760" : {
+      "info_box" : true,
+      "name" : "robot helper",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "1278" : {
+      "info_box" : true,
+      "name" : "android",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2180" : {
+      "info_box" : true,
+      "name" : "cyborg",
+      "parent_tag_id" : 2636,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2202" : {
+      "info_box" : true,
+      "name" : "alien",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2274" : {
+      "info_box" : false,
+      "name" : "robot",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -609,9 +663,32 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -624,6 +701,38 @@
       "verified" : false,
       "weight" : 0
     },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2627" : {
+      "info_box" : false,
+      "name" : "space",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2636" : {
+      "info_box" : true,
+      "name" : "human enhancement",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2638" : {
       "info_box" : true,
       "name" : "mecha",
@@ -632,18 +741,161 @@
       "verified" : false,
       "weight" : 400
     },
-    "2841" : {
+    "2642" : {
       "info_box" : false,
+      "name" : "alternative present",
+      "parent_tag_id" : 2624,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2644" : {
+      "info_box" : true,
+      "name" : "transforming craft",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2645" : {
+      "info_box" : true,
+      "name" : "piloted robot",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2660" : {
+      "info_box" : false,
+      "name" : "other planet",
+      "parent_tag_id" : 2627,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2661" : {
+      "info_box" : false,
+      "name" : "shipboard",
+      "parent_tag_id" : 2627,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2775" : {
+      "info_box" : true,
+      "name" : "humanoid alien",
+      "parent_tag_id" : 2202,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2807" : {
+      "info_box" : false,
+      "name" : "France",
+      "parent_tag_id" : 2831,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2831" : {
+      "info_box" : false,
+      "name" : "Europe",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2841" : {
+      "info_box" : true,
       "name" : "action",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
     },
     "2846" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "science fiction",
       "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2887" : {
+      "info_box" : true,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3087" : {
+      "info_box" : false,
+      "name" : "super robot",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "4215" : {
+      "info_box" : false,
+      "name" : "daikaijuu",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5865" : {
+      "info_box" : false,
+      "name" : "manly tears",
+      "parent_tag_id" : 2931,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -660,6 +912,21 @@
       "info_box" : false,
       "name" : "the power of love",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6153" : {
+      "info_box" : false,
+      "name" : "multi-anime projects",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -683,6 +950,14 @@
       "info_box" : false,
       "name" : "speculative fiction",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7119" : {
+      "info_box" : false,
+      "name" : "Super Robot Wars",
+      "parent_tag_id" : 6153,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

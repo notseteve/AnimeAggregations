@@ -2,6 +2,10 @@
   "anime_id" : 18677,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 136112,
+      "name" : "\"Wise\" Kikan`in",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 124355,
       "name" : "Bill Watkins",
       "type" : "CHARACTER"
@@ -14,16 +18,20 @@
       "name" : "Donovan Desmond",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 123859,
-      "name" : "Emile Elman",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 123862,
-      "name" : "Ewen Egeberg",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 151611,
       "name" : "Gochou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151760,
+      "name" : "Gochou (Seinenki)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151955,
+      "name" : "Jonas Wellman",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151956,
+      "name" : "Kebab",
       "type" : "CHARACTER"
     }, {
       "character_id" : 151616,
@@ -42,12 +50,36 @@
       "name" : "Mannenhitsu",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 128753,
+      "name" : "Martha Marriott",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152083,
+      "name" : "Nola",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151957,
+      "name" : "Pance Karmer",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151613,
       "name" : "Shousa",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 151761,
+      "name" : "Shousa (Seinenki)",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151612,
       "name" : "Taishou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151762,
+      "name" : "Taishou (Seinenki)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 136115,
+      "name" : "Tenchou",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -76,6 +108,14 @@
       "name" : "Damian Desmond",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 123859,
+      "name" : "Emile Elman",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 123862,
+      "name" : "Ewen Egeberg",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 126970,
       "name" : "Fiona Frost",
       "type" : "CHARACTER"
@@ -86,6 +126,10 @@
     }, {
       "character_id" : 122759,
       "name" : "Henry Henderson",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151951,
+      "name" : "Melinda Desmond",
       "type" : "CHARACTER"
     }, {
       "character_id" : 122757,
@@ -134,12 +178,13 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-04",
+      "description" : "The Forgers enjoy a day off while Nightfall hires Franky to help her on a mission.\nSource: Crunchyroll",
       "episode_id" : 301146,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.66,
-        "total" : 5
+        "rating" : 7.16,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -158,12 +203,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-11",
+      "description" : "Anya`s class must avoid getting Tonitrus Bolts and we get a glimpse into someone`s past.\nSource: Crunchyroll",
       "episode_id" : 301147,
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.74,
-        "total" : 4
+        "rating" : 7.53,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -182,10 +228,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-18",
+      "description" : "Loid recalls what happened in the past that led him to where he is today.\nSource: Crunchyroll",
       "episode_id" : 301148,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 8.79,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU78NWP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "____ no Kioku II"
@@ -199,24 +253,52 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-10-25",
+      "description" : "WISE agents protect an opera singer and Henderson gives Anya tips on becoming an Imperial Scholar.\nSource: Crunchyroll",
       "episode_id" : 301149,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 6.01,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX27QE" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Behind the Scandal / The Path to an Imperial Scholar"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Scandal no Uragawa / Imperial Scholar e no Michi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "スキャンダルの裏側 / インペリアル・スカラーへの道"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-01",
+      "description" : "Yor goes out shopping and happens to save someone quite unexpected.\nSource: Crunchyroll",
       "episode_id" : 303192,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 6.63,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMNQ14" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mamatomo Sakusen"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "The Mommy-Friends Scheme"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ママ友作戦"
       } ],
       "type" : "REGULAR"
     }, {
@@ -226,8 +308,14 @@
       "number" : 6,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shiroi Shitto / Eden Kou Bus Jack Jiken"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "White Jealousy / The Eden College Busjacking Incident"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "白い嫉妬 / イーデン校バスジャック事件"
       } ],
       "type" : "REGULAR"
     }, {
@@ -310,6 +398,10 @@
       "episode_id" : 302936,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.07,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -338,12 +430,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.79,
-      "total" : 31
+      "rating" : 7.19,
+      "total" : 51
     },
     "TEMPORARY" : {
-      "rating" : 7.21,
-      "total" : 32
+      "rating" : 7.11,
+      "total" : 52
     }
   },
   "related" : {

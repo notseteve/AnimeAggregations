@@ -1,7 +1,16 @@
 {
   "anime_id" : 18324,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 127392,
+      "name" : "Nyaako",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
+      "character_id" : 151995,
+      "name" : "Bomb no Akuma",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149461,
       "name" : "Chainsaw Man",
       "type" : "CHARACTER"
@@ -102,7 +111,7 @@
       "length" : 0,
       "number" : 1,
       "rating" : {
-        "rating" : 2.72,
+        "rating" : 2.7,
         "total" : 1
       },
       "recap" : false,
@@ -115,12 +124,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.2,
-      "total" : 15
+      "rating" : 8.35,
+      "total" : 142
     },
     "TEMPORARY" : {
-      "rating" : 7.56,
-      "total" : 16
+      "rating" : 7.1,
+      "total" : 145
     }
   },
   "related" : {
@@ -140,6 +149,44 @@
   },
   "start_date" : "2025-09-19",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2890" : {
+      "info_box" : false,
+      "name" : "foot fetish",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "4462" : {
+      "info_box" : false,
+      "name" : "barefoot",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -160,6 +207,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Gekijouban Chainsaw Man: Reze Hen",
     "type" : "MAIN"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Chainsaw Man - The Movie: Reze Arc",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "劇場版チェンソーマン レゼ篇",
