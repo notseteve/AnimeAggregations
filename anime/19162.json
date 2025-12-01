@@ -5,6 +5,10 @@
       "character_id" : 151837,
       "name" : "Kirika Rosequartz",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 152199,
+      "name" : "Mahiro Abe",
+      "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 146604,
@@ -90,8 +94,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.71,
-        "total" : 7
+        "rating" : 5.17,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -118,8 +122,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.07,
-        "total" : 7
+        "rating" : 5.26,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -143,8 +147,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.95,
-        "total" : 5
+        "rating" : 4.93,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -168,8 +172,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.98,
-        "total" : 5
+        "rating" : 3.02,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -193,8 +197,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.1,
-        "total" : 3
+        "rating" : 3.07,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -213,10 +217,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-11",
+      "description" : "Amelia has been abducted, and Akira gets some unexpected aid in his quest to take her back.\nSource: Crunchyroll",
       "episode_id" : 303062,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 3.63,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362153JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Ansatsusha wa Mazoku to Tatakau"
@@ -230,13 +242,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-18",
+      "description" : "Akira faces an unprecedented challenge as Mahiro, another demon, appears to take him on.\nSource: Crunchyroll",
       "episode_id" : 303063,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 4.47,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362155JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ansatsusha wa Chikau"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "The Assassin Makes a Vow"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "暗殺者は誓う"
       } ],
       "type" : "REGULAR"
     }, {
@@ -246,8 +272,58 @@
       "number" : 8,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ansatsusha wa Mitoreru"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "The Assassin Is Spellbound"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "暗殺者は見蕩れる"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-02",
+      "episode_id" : 304796,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-09",
+      "episode_id" : 304797,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-16",
+      "episode_id" : 304798,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-23",
+      "episode_id" : 304799,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -268,16 +344,39 @@
         "title" : "放送直前スペシャル"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-10-07",
+      "episode_id" : 305128,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-10-14",
+      "episode_id" : 305129,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.2,
-      "total" : 61
+      "rating" : 4.59,
+      "total" : 72
     },
     "TEMPORARY" : {
-      "rating" : 6.65,
-      "total" : 62
+      "rating" : 6.31,
+      "total" : 73
     }
   },
   "resources" : {
@@ -290,7 +389,8 @@
     "TWITTER" : [ "sutetsuyo_an" ],
     "WEBSITE" : [ "https://sutetsuyo-anime.com/" ],
     "WIKIPEDIA_EN" : [ "My_Status_as_an_Assassin_Obviously_Exceeds_the_Hero's" ],
-    "WIKIPEDIA_JP" : [ "暗殺者である俺のステータスが勇者よりも明らかに強いのだが" ]
+    "WIKIPEDIA_JP" : [ "暗殺者である俺のステータスが勇者よりも明らかに強いのだが" ],
+    "YOUTUBE" : [ "watch?v=3zI6ItNOVFQ", "watch?v=LWeHkXwBEfM" ]
   },
   "start_date" : "2025-10-07",
   "tags" : {

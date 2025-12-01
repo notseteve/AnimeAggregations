@@ -615,7 +615,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.47,
-      "total" : 2175
+      "total" : 2176
     },
     "REVIEW" : {
       "rating" : 6.26,
@@ -623,7 +623,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.28,
-      "total" : 2203
+      "total" : 2204
     }
   },
   "resources" : {
@@ -647,8 +647,8 @@
       "total" : 12
     },
     "7405" : {
-      "rating" : 2.5,
-      "total" : 8
+      "rating" : 3.333333333333333,
+      "total" : 9
     }
   },
   "start_date" : "2006-10-06",
@@ -668,6 +668,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "635" : {
+      "info_box" : false,
+      "name" : "navy",
+      "parent_tag_id" : 36,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1589" : {
       "info_box" : true,
       "name" : "samurai",
@@ -675,6 +691,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "1645" : {
+      "info_box" : false,
+      "name" : "kendo",
+      "parent_tag_id" : 2751,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "1802" : {
       "info_box" : true,
@@ -708,9 +732,32 @@
       "verified" : false,
       "weight" : 0
     },
+    "2535" : {
+      "info_box" : false,
+      "name" : "ghost",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2565" : {
+      "info_box" : false,
+      "name" : "cross-dressing",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -725,6 +772,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -789,7 +843,7 @@
       "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
     },
     "2641" : {
       "info_box" : true,
@@ -823,6 +877,30 @@
       "verified" : false,
       "weight" : 600
     },
+    "2676" : {
+      "info_box" : false,
+      "name" : "Tokyo",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2678" : {
+      "info_box" : false,
+      "name" : "Hokkaido",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2679" : {
+      "info_box" : false,
+      "name" : "Kyoto",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2690" : {
       "info_box" : false,
       "name" : "Tokugawa period",
@@ -839,6 +917,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2726" : {
+      "info_box" : false,
+      "name" : "prostitution",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2750" : {
       "info_box" : true,
       "name" : "violence",
@@ -846,6 +932,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2751" : {
+      "info_box" : false,
+      "name" : "combat",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2772" : {
       "info_box" : true,
@@ -855,13 +949,29 @@
       "verified" : false,
       "weight" : 400
     },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2793" : {
+      "info_box" : false,
+      "name" : "performance",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2834" : {
       "info_box" : false,
       "name" : "Asia",
       "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
     },
     "2841" : {
       "info_box" : true,
@@ -870,6 +980,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2848" : {
+      "info_box" : false,
+      "name" : "pornography",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2849" : {
       "info_box" : true,
@@ -887,13 +1005,53 @@
       "verified" : false,
       "weight" : 100
     },
+    "2871" : {
+      "info_box" : false,
+      "name" : "anti-war",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2874" : {
       "info_box" : false,
       "name" : "disaster",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 400
+    },
+    "2877" : {
+      "info_box" : false,
+      "name" : "revenge",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2878" : {
+      "info_box" : false,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2885" : {
       "info_box" : false,
@@ -901,7 +1059,7 @@
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 200
     },
     "2887" : {
       "info_box" : true,
@@ -911,13 +1069,29 @@
       "verified" : false,
       "weight" : 400
     },
+    "2897" : {
+      "info_box" : false,
+      "name" : "police",
+      "parent_tag_id" : 2885,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2898" : {
       "info_box" : false,
       "name" : "special squads",
       "parent_tag_id" : 2885,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 200
+    },
+    "2924" : {
+      "info_box" : false,
+      "name" : "earthquake",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2925" : {
       "info_box" : false,
@@ -926,6 +1100,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2926" : {
+      "info_box" : false,
+      "name" : "post-war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2931" : {
       "info_box" : false,
@@ -942,10 +1124,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3170" : {
+      "info_box" : false,
+      "name" : "occupation and career",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3245" : {
       "info_box" : false,
       "name" : "strategy",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3295" : {
+      "info_box" : false,
+      "name" : "world domination",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3374" : {
+      "info_box" : false,
+      "name" : "civil war",
+      "parent_tag_id" : 2925,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -958,6 +1172,110 @@
       "verified" : false,
       "weight" : 200
     },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3635" : {
+      "info_box" : false,
+      "name" : "sea battles",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3663" : {
+      "info_box" : false,
+      "name" : "body takeover",
+      "parent_tag_id" : 6347,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3818" : {
+      "info_box" : false,
+      "name" : "kids in war",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3971" : {
+      "info_box" : false,
+      "name" : "entertainment industry",
+      "parent_tag_id" : 3170,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4244" : {
+      "info_box" : false,
+      "name" : "healthcare and medicine",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4565" : {
+      "info_box" : false,
+      "name" : "war-zone realities",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4952" : {
       "info_box" : false,
       "name" : "nationalism",
@@ -965,6 +1283,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "5003" : {
+      "info_box" : false,
+      "name" : "imperialism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5150" : {
+      "info_box" : false,
+      "name" : "asymmetric warfare",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5816" : {
+      "info_box" : false,
+      "name" : "massacre",
+      "parent_tag_id" : 4316,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5838" : {
+      "info_box" : false,
+      "name" : "fire",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "5889" : {
       "info_box" : false,
@@ -982,6 +1332,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "6062" : {
+      "info_box" : false,
+      "name" : "heroic sacrifice",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6072" : {
+      "info_box" : false,
+      "name" : "just as planned",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6149" : {
       "info_box" : false,
       "name" : "TO BE MOVED TO CHARACTER",
@@ -997,6 +1363,94 @@
       "verified" : false,
       "weight" : 0
     },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6347" : {
+      "info_box" : false,
+      "name" : "body and host",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6351" : {
+      "info_box" : false,
+      "name" : "Chinese mythology",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6371" : {
+      "info_box" : false,
+      "name" : "red-light district",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6595" : {
+      "info_box" : false,
+      "name" : "Yokohama",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "6870" : {
+      "info_box" : false,
+      "name" : "kabuki",
+      "parent_tag_id" : 2793,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7050" : {
       "info_box" : false,
       "name" : "speculative fiction",
@@ -1004,6 +1458,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7693" : {
+      "info_box" : false,
+      "name" : "Yamagata",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,

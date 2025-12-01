@@ -1,5 +1,12 @@
 {
   "anime_id" : 19489,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 152287,
+      "name" : "Alice",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "82365" : [ {
       "name" : "Toono Esuke",
@@ -12,22 +19,29 @@
       "episode_id" : 299162,
       "length" : 20,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.18,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "デカパイ義妹、襲来"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 1.19,
-      "total" : 1
+      "rating" : 4.74,
+      "total" : 8
     },
     "TEMPORARY" : {
-      "rating" : 5.5,
-      "total" : 2
+      "rating" : 6.5,
+      "total" : 10
     }
   },
   "resources" : {
@@ -113,6 +127,10 @@
     "language" : "JAPANESE",
     "title" : "ちょろ・めす・でいず",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "쉬운 암컷의 나날",
+    "type" : "SYNONYM"
   } ],
   "type" : "OVA"
 }

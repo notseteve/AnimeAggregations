@@ -69,6 +69,26 @@
       "name" : "OLM",
       "type" : "ANIMATION_WORK"
     } ],
+    "741" : [ {
+      "name" : "Fuji TV",
+      "type" : "WORK"
+    } ],
+    "916" : [ {
+      "name" : "Klock Worx",
+      "type" : "WORK"
+    } ],
+    "1177" : [ {
+      "name" : "Hakuhodo",
+      "type" : "WORK"
+    } ],
+    "1213" : [ {
+      "name" : "Kansai TV",
+      "type" : "WORK"
+    } ],
+    "1315" : [ {
+      "name" : "Fuji Creative Corporation",
+      "type" : "WORK"
+    } ],
     "4221" : [ {
       "name" : "Conisch",
       "type" : "MUSIC"
@@ -77,9 +97,17 @@
       "name" : "Matsui Aya",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "31296" : [ {
+      "name" : "Slow Curve",
+      "type" : "WORK"
+    } ],
     "35485" : [ {
       "name" : "Tomiyasu Daiki",
       "type" : "DIRECTOR"
+    } ],
+    "43505" : [ {
+      "name" : "Crunchyroll",
+      "type" : "WORK"
     } ],
     "76548" : [ {
       "name" : "Ebisawa Saki",
@@ -94,6 +122,7 @@
     } ]
   },
   "description" : "http://anidb.net/ch148961 [She]`s young, single and about to achieve her dream of creating incredible videogames. But then life throws her a one-two punch: a popular streamer gives her first game a scathing review. Even worse she finds out that same troublesome critic is now her new neighbor! A funny, sexy and all-too-real story about gaming, memes and social anxiety.\nSource: Webtoon\nNote: The first episode received an early screening on 3 July 2025 at Anime Expo in Los Angeles. The regular TV broadcast started on 2 October 2025.",
+  "end_date" : "2025-12-18",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-02",
@@ -102,7 +131,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 9.02,
+        "rating" : 9.01,
         "total" : 1
       },
       "recap" : false,
@@ -127,7 +156,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.85,
+        "rating" : 5.84,
         "total" : 1
       },
       "recap" : false,
@@ -152,7 +181,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.85,
+        "rating" : 5.84,
         "total" : 1
       },
       "recap" : false,
@@ -214,13 +243,23 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-06",
+      "description" : "Link and Sam run into Monica and Marshall at the dog park. Meanwhile, Charles recalls an event from the past.\nSource: Crunchyroll",
       "episode_id" : 303560,
       "length" : 25,
       "number" : 6,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00354969JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "ADS -Aim Down Sights-"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "ADS: Aim Down Sights"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "ADS: Aim Down Sights"
       } ],
       "type" : "REGULAR"
     }, {
@@ -229,9 +268,18 @@
       "length" : 25,
       "number" : 7,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00354970JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Good Game"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Good Game"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Good Game"
       } ],
       "type" : "REGULAR"
     }, {
@@ -245,16 +293,60 @@
         "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-27",
+      "episode_id" : 304898,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-04",
+      "episode_id" : 304899,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-11",
+      "episode_id" : 304900,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-18",
+      "episode_id" : 304901,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.81,
-      "total" : 18
+      "rating" : 2.96,
+      "total" : 22
     },
     "TEMPORARY" : {
-      "rating" : 3.84,
-      "total" : 19
+      "rating" : 3.89,
+      "total" : 23
     }
   },
   "resources" : {

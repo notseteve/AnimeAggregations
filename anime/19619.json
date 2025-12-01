@@ -47,7 +47,7 @@
       "length" : 5,
       "number" : 2,
       "rating" : {
-        "rating" : 4.58,
+        "rating" : 4.59,
         "total" : 2
       },
       "recap" : false,
@@ -68,7 +68,7 @@
       "length" : 5,
       "number" : 3,
       "rating" : {
-        "rating" : 5.85,
+        "rating" : 5.84,
         "total" : 1
       },
       "recap" : false,
@@ -89,8 +89,8 @@
       "length" : 5,
       "number" : 4,
       "rating" : {
-        "rating" : 4.3,
-        "total" : 1
+        "rating" : 5.06,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -109,10 +109,20 @@
       "episode_id" : 304004,
       "length" : 5,
       "number" : 5,
+      "rating" : {
+        "rating" : 5.06,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 5"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Itsuwari no Happy End"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "偽りのハッピーエンド"
       } ],
       "type" : "REGULAR"
     }, {
@@ -120,10 +130,20 @@
       "episode_id" : 304005,
       "length" : 5,
       "number" : 6,
+      "rating" : {
+        "rating" : 4.31,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Anata no Ko ja Nai"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 6"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あなたの子じゃない"
       } ],
       "type" : "REGULAR"
     }, {
@@ -135,6 +155,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 7"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Uketsuida Sainou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "受け継いだ才能"
       } ],
       "type" : "REGULAR"
     }, {
@@ -152,12 +178,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.49,
-      "total" : 6
+      "rating" : 2.0,
+      "total" : 8
     },
     "TEMPORARY" : {
-      "rating" : 3.83,
-      "total" : 6
+      "rating" : 3.25,
+      "total" : 8
     }
   },
   "resources" : {
@@ -169,6 +195,21 @@
   },
   "start_date" : "2025-10-07",
   "tags" : {
+    "5852" : {
+      "info_box" : true,
+      "name" : "short episodes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

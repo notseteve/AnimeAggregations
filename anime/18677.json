@@ -6,6 +6,10 @@
       "name" : "\"Wise\" Kikan`in",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 128754,
+      "name" : "Becky no Chichi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 124355,
       "name" : "Bill Watkins",
       "type" : "CHARACTER"
@@ -18,6 +22,14 @@
       "name" : "Donovan Desmond",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 127077,
+      "name" : "George Glooman",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 136782,
+      "name" : "Gerald Gorey",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151611,
       "name" : "Gochou",
       "type" : "CHARACTER"
@@ -26,12 +38,24 @@
       "name" : "Gochou (Seinenki)",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 135764,
+      "name" : "Green",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151955,
       "name" : "Jonas Wellman",
       "type" : "CHARACTER"
     }, {
       "character_id" : 151956,
       "name" : "Kebab",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135888,
+      "name" : "Kokka Hoankyoku Chuui",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135889,
+      "name" : "Kokka Hoankyoku Kyokuchou",
       "type" : "CHARACTER"
     }, {
       "character_id" : 151616,
@@ -81,6 +105,14 @@
       "character_id" : 136115,
       "name" : "Tenchou",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 152195,
+      "name" : "Thomas Austin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152194,
+      "name" : "Vadim",
+      "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 120729,
@@ -102,6 +134,10 @@
     "SECONDARY" : [ {
       "character_id" : 123861,
       "name" : "Becky Blackbell",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152257,
+      "name" : "Billy Squire",
       "type" : "CHARACTER"
     }, {
       "character_id" : 123860,
@@ -175,6 +211,7 @@
     } ]
   },
   "description" : "* Based on a spy action comedy manga by http://anidb.net/cr65491 [Endou Tatsuya].\nThe cold war between Ostania and Westalis continues with a terrible strawberry shortage! Can http://anidb.net/ch126970 [Fiona Frost], AKA Nightfall, solve the crisis before it becomes too much? Maybe, but perhaps the bigger question is whether or not the entire Forger family can thwart an enraged construction worker from going on a rampage without letting each other in on their secrets!\nSource: ANN\nNote: The first two episodes received an early screening at a special event on 28 September 2025 at Lawson United Cinemas Minatomirai in Yokohama and six additional venues across Japan. The regular TV broadcast started on 4 October 2025.",
+  "end_date" : "2025-12-27",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-04",
@@ -183,8 +220,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.16,
-        "total" : 7
+        "rating" : 7.01,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -208,8 +245,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.53,
-        "total" : 7
+        "rating" : 7.34,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -233,8 +270,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.79,
-        "total" : 7
+        "rating" : 8.48,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -258,8 +295,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.01,
-        "total" : 6
+        "rating" : 6.0,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -283,8 +320,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.63,
-        "total" : 6
+        "rating" : 6.53,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -306,7 +343,14 @@
       "episode_id" : 303193,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 5.6,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUWZ524" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shiroi Shitto / Eden Kou Bus Jack Jiken"
@@ -324,9 +368,18 @@
       "length" : 25,
       "number" : 7,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00365008JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akai Circus"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "The Red Circus"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "赤いサーカス"
       } ],
       "type" : "REGULAR"
     }, {
@@ -336,8 +389,69 @@
       "number" : 8,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bus Jack Han o Seiatsu Seyo"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Take Down the Busjacker"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "バスジャック犯を制圧せよ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-29",
+      "episode_id" : 304586,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-06",
+      "episode_id" : 304587,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-13",
+      "episode_id" : 304588,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-20",
+      "episode_id" : 304589,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-27",
+      "episode_id" : 304646,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 13"
       } ],
       "type" : "REGULAR"
     } ],
@@ -399,7 +513,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 3.07,
+        "rating" : 3.08,
         "total" : 1
       },
       "recap" : false,
@@ -430,12 +544,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.19,
-      "total" : 51
+      "rating" : 7.34,
+      "total" : 55
     },
     "TEMPORARY" : {
-      "rating" : 7.11,
-      "total" : 52
+      "rating" : 7.21,
+      "total" : 56
     }
   },
   "related" : {
@@ -517,6 +631,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Spy x Family (2025)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "UKRAINIAN",
+    "title" : "Сім’я шпигуна (2025)",
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",

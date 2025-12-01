@@ -8,6 +8,10 @@
       "episode_id" : 300547,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.55,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -19,6 +23,10 @@
       "episode_id" : 300548,
       "length" : 20,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.89,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -30,6 +38,10 @@
       "episode_id" : 300549,
       "length" : 20,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.89,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -41,6 +53,10 @@
       "episode_id" : 300550,
       "length" : 20,
       "number" : 4,
+      "rating" : {
+        "rating" : 2.06,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -52,6 +68,10 @@
       "episode_id" : 300551,
       "length" : 20,
       "number" : 5,
+      "rating" : {
+        "rating" : 2.55,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -63,6 +83,10 @@
       "episode_id" : 300552,
       "length" : 20,
       "number" : 6,
+      "rating" : {
+        "rating" : 3.16,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -74,6 +98,10 @@
       "episode_id" : 300553,
       "length" : 20,
       "number" : 7,
+      "rating" : {
+        "rating" : 3.16,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -85,6 +113,10 @@
       "episode_id" : 300554,
       "length" : 20,
       "number" : 8,
+      "rating" : {
+        "rating" : 4.73,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -96,6 +128,10 @@
       "episode_id" : 300555,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 6.54,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -192,6 +228,16 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.58,
+      "total" : 1
+    },
+    "TEMPORARY" : {
+      "rating" : 4.0,
+      "total" : 1
+    }
+  },
   "resources" : {
     "BAIDU_BAIKE" : [ "鬼吹灯之南海归墟/66307345" ],
     "BANGUMI" : [ "395186" ],
@@ -202,6 +248,225 @@
   },
   "start_date" : "2025-08-23",
   "tags" : {
+    "1155" : {
+      "info_box" : false,
+      "name" : "mermaid",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1700" : {
+      "info_box" : false,
+      "name" : "pirate",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2631" : {
+      "info_box" : false,
+      "name" : "island",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2850" : {
+      "info_box" : true,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3097" : {
+      "info_box" : false,
+      "name" : "underwater",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3285" : {
+      "info_box" : false,
+      "name" : "journey",
+      "parent_tag_id" : 2850,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3618" : {
+      "info_box" : false,
+      "name" : "ocean",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3635" : {
+      "info_box" : false,
+      "name" : "sea battles",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3759" : {
+      "info_box" : false,
+      "name" : "teamwork",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4052" : {
+      "info_box" : false,
+      "name" : "treasure hunting",
+      "parent_tag_id" : 2850,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5823" : {
+      "info_box" : false,
+      "name" : "predominantly male cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6097" : {
+      "info_box" : false,
+      "name" : "3D CG animation",
+      "parent_tag_id" : 4064,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6152" : {
       "info_box" : false,
       "name" : "Chinese production",
@@ -216,6 +481,46 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6351" : {
+      "info_box" : false,
+      "name" : "Chinese mythology",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7317" : {
+      "info_box" : false,
+      "name" : "aboard ship",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     }
   },
   "titles" : [ {

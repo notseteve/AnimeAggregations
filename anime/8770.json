@@ -35,12 +35,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.7,
-      "total" : 171
+      "rating" : 4.67,
+      "total" : 174
     },
     "TEMPORARY" : {
       "rating" : 5.56,
-      "total" : 171
+      "total" : 174
     }
   },
   "related" : {
@@ -64,6 +64,13 @@
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -121,6 +128,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5939" : {
       "info_box" : false,
       "name" : "CAST MISSING",
@@ -139,6 +154,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

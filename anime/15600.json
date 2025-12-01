@@ -238,12 +238,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.7,
-      "total" : 218
+      "rating" : 6.69,
+      "total" : 219
     },
     "TEMPORARY" : {
-      "rating" : 6.88,
-      "total" : 220
+      "rating" : 6.87,
+      "total" : 221
     }
   },
   "related" : {
@@ -272,6 +272,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2043" : {
+      "info_box" : true,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
@@ -279,9 +287,70 @@
       "verified" : false,
       "weight" : 0
     },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5843" : {
+      "info_box" : false,
+      "name" : "sibling yin yang",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -297,6 +366,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -6,12 +6,28 @@
       "name" : "Fen",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 115460,
+      "name" : "Hayase",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152269,
+      "name" : "Hirotoshi no Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 125820,
+      "name" : "Kahaku",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 118571,
       "name" : "Ligard",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152106,
       "name" : "Manabu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152268,
+      "name" : "Miyabi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 127345,
@@ -28,6 +44,10 @@
     }, {
       "character_id" : 151538,
       "name" : "Sayaka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152209,
+      "name" : "Sumika",
       "type" : "CHARACTER"
     }, {
       "character_id" : 151735,
@@ -335,7 +355,14 @@
       "episode_id" : 303185,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 6.23,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQ2P4P" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Heiwa no Shoumei"
@@ -352,10 +379,23 @@
       "episode_id" : 303186,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 7.09,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UND855" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shuugeki"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "The Attack"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "しゅうげき"
       } ],
       "type" : "REGULAR"
     }, {
@@ -366,19 +406,69 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Trouble"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yakkai Goto"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "やっかいごと"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-11-29",
+      "episode_id" : 304578,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-06",
+      "episode_id" : 304579,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-13",
+      "episode_id" : 304580,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-20",
+      "episode_id" : 304581,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.64,
-      "total" : 30
+      "rating" : 6.82,
+      "total" : 33
     },
     "TEMPORARY" : {
       "rating" : 7.03,
-      "total" : 30
+      "total" : 33
     }
   },
   "related" : {

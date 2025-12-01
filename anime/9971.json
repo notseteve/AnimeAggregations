@@ -102,7 +102,7 @@
       "length" : 55,
       "number" : 1,
       "rating" : {
-        "rating" : 5.26,
+        "rating" : 5.25,
         "total" : 10
       },
       "recap" : false,
@@ -134,11 +134,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.37,
-      "total" : 2119
+      "total" : 2122
     },
     "TEMPORARY" : {
-      "rating" : 7.42,
-      "total" : 2124
+      "rating" : 7.43,
+      "total" : 2127
     }
   },
   "related" : {
@@ -159,6 +159,22 @@
   },
   "start_date" : "2015-07-03",
   "tags" : {
+    "760" : {
+      "info_box" : false,
+      "name" : "robot helper",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1244" : {
+      "info_box" : false,
+      "name" : "summoning",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2094" : {
       "info_box" : true,
       "name" : "magic",
@@ -167,9 +183,31 @@
       "verified" : false,
       "weight" : 600
     },
+    "2274" : {
+      "info_box" : false,
+      "name" : "robot",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -181,12 +219,99 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2638" : {
+      "info_box" : false,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2642" : {
+      "info_box" : false,
+      "name" : "alternative present",
+      "parent_tag_id" : 2624,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2774" : {
       "info_box" : false,
@@ -196,6 +321,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "2797" : {
       "info_box" : true,
       "name" : "new",
@@ -204,6 +337,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "2809" : {
+      "info_box" : false,
+      "name" : "United Kingdom",
+      "parent_tag_id" : 2831,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2831" : {
+      "info_box" : false,
+      "name" : "Europe",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2841" : {
       "info_box" : false,
       "name" : "action",
@@ -211,6 +368,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2849" : {
       "info_box" : true,
@@ -227,6 +392,54 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2884" : {
+      "info_box" : false,
+      "name" : "psychoactive drugs",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3741" : {
+      "info_box" : false,
+      "name" : "bullying",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3898" : {
+      "info_box" : false,
+      "name" : "science and magic coexist",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3915" : {
+      "info_box" : false,
+      "name" : "child abuse",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "4333" : {
       "info_box" : false,
@@ -252,6 +465,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "5889" : {
+      "info_box" : false,
+      "name" : "magic weapons",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6151" : {
       "info_box" : false,
       "name" : "technical aspects",
@@ -273,6 +502,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6248" : {
+      "info_box" : false,
+      "name" : "thievery",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "6358" : {
       "info_box" : false,
