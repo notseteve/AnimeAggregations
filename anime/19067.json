@@ -280,7 +280,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.94,
+        "rating" : 7.95,
         "total" : 5
       },
       "recap" : false,
@@ -301,8 +301,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.7,
-        "total" : 3
+        "rating" : 4.3,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -321,6 +321,10 @@
       "episode_id" : 303380,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 4.65,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -335,10 +339,20 @@
       "episode_id" : 303381,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 5.65,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "\"Okonomiyaki\" Means \"I Love You\""
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Okonomiyaki no Ukyou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "お好み焼きの右京"
       } ],
       "type" : "REGULAR"
     }, {
@@ -346,10 +360,20 @@
       "episode_id" : 304714,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 4.34,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kanpeki na Love Letter"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Love Letters in the Sauce"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "完璧なラブレター"
       } ],
       "type" : "REGULAR"
     }, {
@@ -357,10 +381,20 @@
       "episode_id" : 304715,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 2.2,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Juliet Game"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Not Your Typical Juliet"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ジュリエットゲーム"
       } ],
       "type" : "REGULAR"
     }, {
@@ -385,16 +419,47 @@
         "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-10-05",
+      "episode_id" : 305117,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.1,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-10-05",
+      "episode_id" : 305118,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 3.1,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.75,
-      "total" : 23
+      "rating" : 7.58,
+      "total" : 30
     },
     "TEMPORARY" : {
-      "rating" : 7.95,
-      "total" : 24
+      "rating" : 7.65,
+      "total" : 32
     }
   },
   "related" : {
@@ -409,7 +474,8 @@
     "TWITTER" : [ "ranma_pr" ],
     "WEBSITE" : [ "https://ranma-pr.com/" ],
     "WIKIPEDIA_EN" : [ "Ranma_½" ],
-    "WIKIPEDIA_JP" : [ "らんま1/2#アニメ（2024年版）" ]
+    "WIKIPEDIA_JP" : [ "らんま1/2#アニメ（2024年版）" ],
+    "YOUTUBE" : [ "watch?v=QQ94onekjWE", "watch?v=X-SOSlnkXAc" ]
   },
   "start_date" : "2025-10-05",
   "tags" : {
@@ -420,10 +486,41 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3322" : {
+      "info_box" : false,
+      "name" : "remake",
+      "parent_tag_id" : 6173,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

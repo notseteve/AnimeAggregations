@@ -13,6 +13,24 @@
         "title" : "Episode 1"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "description" : "Autobiography of Fujiko. F. Fujio.",
+      "episode_id" : 305575,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Boku Fujiko. F. Fujio"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "I`m Fujiko. F. Fujio"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ぼく 藤子。Ｆ。不二雄"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
@@ -39,10 +57,48 @@
       "verified" : false,
       "weight" : 0
     },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3394" : {
+      "info_box" : false,
+      "name" : "environmentalism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3955" : {
       "info_box" : false,
       "name" : "DESCRIPTION MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5477" : {
+      "info_box" : false,
+      "name" : "global warming",
+      "parent_tag_id" : 3394,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -58,6 +114,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

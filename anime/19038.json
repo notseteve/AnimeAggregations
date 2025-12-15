@@ -2,36 +2,16 @@
   "anime_id" : 19038,
   "characters" : {
     "APPEARANCE" : [ {
-      "character_id" : 149610,
-      "name" : "Azuma Jun`ya",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 150181,
-      "name" : "Azuma no Haha",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 149376,
       "name" : "Chappy",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 149375,
-      "name" : "Happy Mama",
       "type" : "CHARACTER"
     }, {
       "character_id" : 150180,
       "name" : "Marina no Chichi",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 150179,
-      "name" : "Marina no Haha",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 150178,
       "name" : "Shizuka no Chichi",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 150182,
-      "name" : "Shizuka no Haha",
       "type" : "CHARACTER"
     }, {
       "character_id" : 150177,
@@ -43,6 +23,14 @@
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
+      "character_id" : 147065,
+      "name" : "Azuma Naoki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147064,
+      "name" : "Kirarazaka Marina",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 145371,
       "name" : "Kuze Shizuka",
       "type" : "CHARACTER"
@@ -52,12 +40,24 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
-      "character_id" : 147065,
-      "name" : "Azuma Naoki",
+      "character_id" : 149610,
+      "name" : "Azuma Jun`ya",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 147064,
-      "name" : "Kirarazaka Marina",
+      "character_id" : 150181,
+      "name" : "Azuma no Haha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149375,
+      "name" : "Happy Mama",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150179,
+      "name" : "Marina no Haha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150182,
+      "name" : "Shizuka no Haha",
       "type" : "CHARACTER"
     } ]
   },
@@ -99,7 +99,7 @@
       "length" : 40,
       "number" : 1,
       "rating" : {
-        "rating" : 7.77,
+        "rating" : 7.73,
         "total" : 16
       },
       "recap" : false,
@@ -124,7 +124,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.19,
+        "rating" : 7.14,
         "total" : 14
       },
       "recap" : false,
@@ -149,7 +149,7 @@
       "length" : 30,
       "number" : 3,
       "rating" : {
-        "rating" : 6.34,
+        "rating" : 6.32,
         "total" : 13
       },
       "recap" : false,
@@ -174,7 +174,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.96,
+        "rating" : 6.94,
         "total" : 12
       },
       "recap" : false,
@@ -264,7 +264,7 @@
       "length" : 1,
       "number" : 2,
       "rating" : {
-        "rating" : 7.42,
+        "rating" : 7.43,
         "total" : 3
       },
       "recap" : false,
@@ -277,8 +277,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.77,
-      "total" : 431
+      "rating" : 7.79,
+      "total" : 461
     },
     "REVIEW" : {
       "rating" : 4.16,
@@ -286,7 +286,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.42,
-      "total" : 439
+      "total" : 469
     }
   },
   "resources" : {
@@ -928,6 +928,10 @@
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "章鱼哔的原罪",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "타코피의 원죄",
     "type" : "OFFICIAL"
   } ],
   "type" : "WEB",

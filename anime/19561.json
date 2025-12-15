@@ -27,12 +27,28 @@
     } ]
   },
   "resources" : {
+    "MAL" : [ "62897" ],
     "TWITTER" : [ "IchigoaikaAnime" ],
     "WEBSITE" : [ "https://ichigo-aika.af-original.com/" ],
     "WIKIPEDIA_EN" : [ "Ichigo_Aika" ]
   },
-  "start_date" : "2026-01",
+  "start_date" : "2025-12-12",
   "tags" : {
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2615" : {
+      "info_box" : true,
+      "name" : "18 restricted",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -62,6 +78,6 @@
     "title" : "イチゴ哀歌 ~雑で生イキな妹と割り切れない兄~",
     "type" : "OFFICIAL"
   } ],
-  "type" : "SERIES",
+  "type" : "WEB",
   "url" : "https://ichigo-aika.af-original.com/"
 }

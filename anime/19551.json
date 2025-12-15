@@ -2,19 +2,74 @@
   "anime_id" : 19551,
   "characters" : {
     "MAIN" : [ {
+      "character_id" : 2260,
+      "name" : "Edogawa Conan",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 150642,
       "name" : "Hagiwara Chihaya",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 8186,
+      "name" : "Hagiwara Kenji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 8187,
+      "name" : "Matsuda Jinbei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 8163,
+      "name" : "Mouri Kogorou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 2343,
+      "name" : "Mouri Ran",
+      "type" : "CHARACTER"
     } ]
   },
-  "end_date" : "2026",
+  "creators" : {
+    "474" : [ {
+      "name" : "Aoyama Goushou",
+      "type" : "ORIGINAL_WORK"
+    } ],
+    "917" : [ {
+      "name" : "TMS Entertainment",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "6306" : [ {
+      "name" : "Kanno Yuugo",
+      "type" : "MUSIC"
+    } ],
+    "54142" : [ {
+      "name" : "Hasui Takahiro",
+      "type" : "DIRECTOR"
+    } ]
+  },
+  "end_date" : "2026-04-10",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-10",
+      "episode_id" : 305526,
+      "length" : 0,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Complete Movie"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "related" : {
     "PARENT" : [ 266 ]
   },
   "resources" : {
-    "TWITTER" : [ "conan_movie" ]
+    "TWITTER" : [ "conan_movie" ],
+    "WEBSITE" : [ "https://www.conan-movie.jp/2026/" ],
+    "WIKIPEDIA_JP" : [ "名探偵コナン_ハイウェイの堕天使" ]
   },
-  "start_date" : "2026",
+  "start_date" : "2026-04-10",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -34,16 +89,17 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Meitantei Conan (2026)",
+    "title" : "Meitantei Conan: Highway no Datenshi",
     "type" : "MAIN"
   }, {
     "language" : "JAPANESE",
-    "title" : "名探偵コナン (2026)",
+    "title" : "名探偵コナン ハイウェイの堕天使",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
-    "title" : "Detective Conan (2026)",
+    "title" : "Detective Conan: Fallen Angel of the Highway",
     "type" : "SYNONYM"
   } ],
-  "type" : "MOVIE"
+  "type" : "MOVIE",
+  "url" : "https://www.conan-movie.jp/2026/"
 }

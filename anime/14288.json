@@ -60,7 +60,7 @@
       "length" : 15,
       "number" : 3,
       "rating" : {
-        "rating" : 5.48,
+        "rating" : 5.49,
         "total" : 1
       },
       "recap" : false,
@@ -78,7 +78,7 @@
       "length" : 15,
       "number" : 4,
       "rating" : {
-        "rating" : 1.62,
+        "rating" : 1.61,
         "total" : 1
       },
       "recap" : false,
@@ -96,7 +96,7 @@
       "length" : 15,
       "number" : 5,
       "rating" : {
-        "rating" : 5.48,
+        "rating" : 5.49,
         "total" : 1
       },
       "recap" : false,
@@ -132,7 +132,7 @@
       "length" : 15,
       "number" : 7,
       "rating" : {
-        "rating" : 5.48,
+        "rating" : 5.49,
         "total" : 1
       },
       "recap" : false,
@@ -150,7 +150,7 @@
       "length" : 20,
       "number" : 8,
       "rating" : {
-        "rating" : 5.48,
+        "rating" : 5.49,
         "total" : 1
       },
       "recap" : false,
@@ -168,7 +168,7 @@
       "length" : 15,
       "number" : 9,
       "rating" : {
-        "rating" : 5.48,
+        "rating" : 5.49,
         "total" : 1
       },
       "recap" : false,
@@ -186,7 +186,7 @@
       "length" : 20,
       "number" : 10,
       "rating" : {
-        "rating" : 8.16,
+        "rating" : 8.19,
         "total" : 1
       },
       "recap" : false,
@@ -205,7 +205,7 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 8.16,
+        "rating" : 8.19,
         "total" : 1
       },
       "recap" : false,
@@ -223,7 +223,7 @@
       "length" : 15,
       "number" : 2,
       "rating" : {
-        "rating" : 8.16,
+        "rating" : 8.19,
         "total" : 1
       },
       "recap" : false,
@@ -241,7 +241,7 @@
       "length" : 15,
       "number" : 3,
       "rating" : {
-        "rating" : 5.48,
+        "rating" : 5.49,
         "total" : 1
       },
       "recap" : false,
@@ -259,7 +259,7 @@
       "length" : 15,
       "number" : 4,
       "rating" : {
-        "rating" : 8.16,
+        "rating" : 8.19,
         "total" : 1
       },
       "recap" : false,
@@ -275,12 +275,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.94,
-      "total" : 308
+      "rating" : 6.99,
+      "total" : 360
     },
     "TEMPORARY" : {
-      "rating" : 7.06,
-      "total" : 313
+      "rating" : 6.7,
+      "total" : 365
     }
   },
   "related" : {
@@ -311,9 +311,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2282" : {
+      "info_box" : false,
+      "name" : "martial arts",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -325,12 +340,51 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2631" : {
+      "info_box" : false,
+      "name" : "island",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2634" : {
+      "info_box" : false,
+      "name" : "countryside",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2658" : {
       "info_box" : false,
@@ -348,10 +402,42 @@
       "verified" : false,
       "weight" : 0
     },
-    "2853" : {
+    "2841" : {
       "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2853" : {
+      "info_box" : true,
       "name" : "comedy",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "4128" : {
+      "info_box" : false,
+      "name" : "zero to hero",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -375,6 +461,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

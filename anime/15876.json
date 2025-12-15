@@ -260,7 +260,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.87,
+        "rating" : 7.88,
         "total" : 3
       },
       "recap" : false,
@@ -316,7 +316,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.87,
+        "rating" : 7.88,
         "total" : 3
       },
       "recap" : false,
@@ -372,7 +372,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.87,
+        "rating" : 7.88,
         "total" : 3
       },
       "recap" : false,
@@ -484,7 +484,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.56,
+        "rating" : 5.57,
         "total" : 3
       },
       "recap" : false,
@@ -897,12 +897,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.3,
-      "total" : 566
+      "rating" : 6.31,
+      "total" : 570
     },
     "TEMPORARY" : {
       "rating" : 7.05,
-      "total" : 571
+      "total" : 575
     }
   },
   "related" : {
@@ -922,6 +922,20 @@
   },
   "start_date" : "2023-01-09",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -936,9 +950,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -951,6 +980,62 @@
       "verified" : false,
       "weight" : 600
     },
+    "2655" : {
+      "info_box" : false,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2779" : {
+      "info_box" : false,
+      "name" : "multiple couples",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2786" : {
+      "info_box" : false,
+      "name" : "love polygon",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -959,6 +1044,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2849" : {
       "info_box" : true,
       "name" : "fantasy",
@@ -966,6 +1059,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2872" : {
       "info_box" : false,
@@ -983,6 +1100,13 @@
       "verified" : false,
       "weight" : 100
     },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3086" : {
       "info_box" : false,
       "name" : "parricide",
@@ -990,6 +1114,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "4316" : {
       "info_box" : false,
@@ -999,10 +1131,73 @@
       "verified" : false,
       "weight" : 200
     },
+    "4352" : {
+      "info_box" : false,
+      "name" : "censored uncensored version",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4520" : {
       "info_box" : false,
       "name" : "betrayal",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4522" : {
+      "info_box" : false,
+      "name" : "social commentary",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5794" : {
+      "info_box" : false,
+      "name" : "forbidden love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6050" : {
+      "info_box" : false,
+      "name" : "human - non-human relationship",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6073" : {
+      "info_box" : false,
+      "name" : "age difference romance",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1014,10 +1209,50 @@
       "verified" : false,
       "weight" : 0
     },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6242" : {
       "info_box" : false,
       "name" : "death",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6399" : {
+      "info_box" : false,
+      "name" : "episodic",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1029,6 +1264,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7199" : {
+      "info_box" : false,
+      "name" : "sexual humour",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,

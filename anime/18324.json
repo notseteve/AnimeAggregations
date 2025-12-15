@@ -111,8 +111,8 @@
       "length" : 0,
       "number" : 1,
       "rating" : {
-        "rating" : 2.7,
-        "total" : 1
+        "rating" : 8.09,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -124,12 +124,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.34,
-      "total" : 177
+      "rating" : 8.68,
+      "total" : 316
     },
     "TEMPORARY" : {
-      "rating" : 7.1,
-      "total" : 180
+      "rating" : 7.14,
+      "total" : 319
     }
   },
   "related" : {
@@ -292,6 +292,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2849" : {
       "info_box" : false,
       "name" : "fantasy",
@@ -300,6 +308,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2854" : {
       "info_box" : false,
       "name" : "henshin",
@@ -307,6 +323,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2874" : {
       "info_box" : false,
@@ -356,10 +380,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "4663" : {
+      "info_box" : false,
+      "name" : "tone changes",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "5816" : {
       "info_box" : false,
       "name" : "massacre",
       "parent_tag_id" : 4316,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -383,6 +423,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

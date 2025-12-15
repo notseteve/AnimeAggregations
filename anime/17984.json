@@ -364,7 +364,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.99,
+        "rating" : 7.0,
         "total" : 3
       },
       "recap" : false,
@@ -573,7 +573,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.44,
+        "rating" : 2.43,
         "total" : 1
       },
       "recap" : false,
@@ -685,12 +685,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.12,
-      "total" : 399
+      "rating" : 5.2,
+      "total" : 413
     },
     "TEMPORARY" : {
-      "rating" : 6.61,
-      "total" : 400
+      "rating" : 6.65,
+      "total" : 414
     }
   },
   "resources" : {
@@ -723,12 +723,73 @@
       "verified" : false,
       "weight" : 0
     },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2864" : {
       "info_box" : false,
@@ -754,6 +815,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6149" : {
       "info_box" : false,
       "name" : "TO BE MOVED TO CHARACTER",
@@ -765,6 +834,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

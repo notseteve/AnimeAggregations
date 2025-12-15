@@ -141,11 +141,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.86,
-      "total" : 167
+      "total" : 168
     },
     "TEMPORARY" : {
       "rating" : 6.49,
-      "total" : 167
+      "total" : 168
     }
   },
   "resources" : {
@@ -162,15 +162,30 @@
   "similar" : {
     "7" : {
       "rating" : 10.0,
-      "total" : 5
+      "total" : 6
     },
     "4403" : {
       "rating" : 10.0,
-      "total" : 3
+      "total" : 4
     }
   },
   "start_date" : "2022-02-04",
   "tags" : {
+    "36" : {
+      "info_box" : false,
+      "name" : "military",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
@@ -206,6 +221,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
@@ -213,6 +236,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2623" : {
       "info_box" : false,
@@ -230,6 +261,46 @@
       "verified" : false,
       "weight" : 600
     },
+    "2633" : {
+      "info_box" : false,
+      "name" : "prison",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2634" : {
+      "info_box" : false,
+      "name" : "countryside",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2772" : {
+      "info_box" : false,
+      "name" : "feudal warfare",
+      "parent_tag_id" : 36,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -237,6 +308,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2849" : {
       "info_box" : false,
@@ -254,6 +333,30 @@
       "verified" : false,
       "weight" : 300
     },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2871" : {
+      "info_box" : false,
+      "name" : "anti-war",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2874" : {
       "info_box" : false,
       "name" : "disaster",
@@ -261,6 +364,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2876" : {
+      "info_box" : false,
+      "name" : "religion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2877" : {
+      "info_box" : false,
+      "name" : "revenge",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2878" : {
+      "info_box" : false,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2887" : {
       "info_box" : false,
@@ -270,6 +397,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2926" : {
       "info_box" : false,
       "name" : "post-war",
@@ -277,6 +412,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2979" : {
+      "info_box" : false,
+      "name" : "mutilation",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "3285" : {
       "info_box" : false,
@@ -302,10 +453,42 @@
       "verified" : false,
       "weight" : 100
     },
+    "3394" : {
+      "info_box" : false,
+      "name" : "environmentalism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3663" : {
       "info_box" : false,
       "name" : "body takeover",
       "parent_tag_id" : 6347,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3818" : {
+      "info_box" : false,
+      "name" : "kids in war",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3822" : {
+      "info_box" : false,
+      "name" : "strong male lead",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -318,10 +501,50 @@
       "verified" : false,
       "weight" : 0
     },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4203" : {
+      "info_box" : false,
+      "name" : "rebellion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4244" : {
+      "info_box" : false,
+      "name" : "healthcare and medicine",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "4278" : {
       "info_box" : false,
       "name" : "stand-alone movie",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4397" : {
+      "info_box" : false,
+      "name" : "court politics",
+      "parent_tag_id" : 2867,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -334,10 +557,66 @@
       "verified" : false,
       "weight" : 0
     },
+    "4520" : {
+      "info_box" : false,
+      "name" : "betrayal",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4572" : {
       "info_box" : false,
       "name" : "human-animal relationship",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4577" : {
+      "info_box" : false,
+      "name" : "family values",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4669" : {
+      "info_box" : false,
+      "name" : "parenting",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4952" : {
+      "info_box" : false,
+      "name" : "nationalism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5093" : {
+      "info_box" : false,
+      "name" : "royal intrigue",
+      "parent_tag_id" : 2867,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -350,9 +629,33 @@
       "verified" : false,
       "weight" : 300
     },
+    "5816" : {
+      "info_box" : false,
+      "name" : "massacre",
+      "parent_tag_id" : 4316,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5842" : {
+      "info_box" : false,
+      "name" : "guerilla warfare",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "5948" : {
       "info_box" : false,
       "name" : "visible aura",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6062" : {
+      "info_box" : false,
+      "name" : "heroic sacrifice",
       "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
@@ -372,6 +675,38 @@
       "verified" : false,
       "weight" : 0
     },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6233" : {
       "info_box" : false,
       "name" : "tropes",
@@ -380,10 +715,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6246" : {
       "info_box" : false,
       "name" : "ending",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6328" : {
+      "info_box" : false,
+      "name" : "biological warfare",
+      "parent_tag_id" : 2925,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

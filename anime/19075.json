@@ -153,7 +153,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.65,
+        "rating" : 6.64,
         "total" : 3
       },
       "recap" : false,
@@ -178,7 +178,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.61,
+        "rating" : 4.6,
         "total" : 3
       },
       "recap" : false,
@@ -203,7 +203,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.99,
+        "rating" : 6.98,
         "total" : 3
       },
       "recap" : false,
@@ -253,7 +253,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.23,
+        "rating" : 5.22,
         "total" : 3
       },
       "recap" : false,
@@ -278,7 +278,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 2.9,
+        "rating" : 2.89,
         "total" : 3
       },
       "recap" : false,
@@ -303,7 +303,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.01,
+        "rating" : 6.0,
         "total" : 3
       },
       "recap" : false,
@@ -323,10 +323,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-22",
+      "description" : "In order to protect the Emperor, Krai assembles a team. The first day`s uneventful, but it`s not quite over.\nSource: Crunchyroll",
       "episode_id" : 303191,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 7.61,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00365323JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Goei no Tabi wa Enryo Shitai"
@@ -343,10 +351,23 @@
       "episode_id" : 304582,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 6.31,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00365325JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyuubi no Kitsune wa An`yaku Shitai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "The Nine-Tailed Fox Wants to Move in the Shadows"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "九尾の狐は暗躍したい"
       } ],
       "type" : "REGULAR"
     }, {
@@ -357,7 +378,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "I`m Grateful for the Assistance of My Friends"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nakama no Hosa ni Kansha Shitai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "仲間の補佐に感謝したい"
       } ],
       "type" : "REGULAR"
     }, {
@@ -375,12 +402,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.6,
-      "total" : 34
+      "rating" : 5.63,
+      "total" : 37
     },
     "TEMPORARY" : {
-      "rating" : 6.52,
-      "total" : 34
+      "rating" : 6.41,
+      "total" : 38
     }
   },
   "related" : {
@@ -400,9 +427,173 @@
   },
   "start_date" : "2025-10-04",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2850" : {
+      "info_box" : true,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3993" : {
+      "info_box" : false,
+      "name" : "kidnapping",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4052" : {
+      "info_box" : false,
+      "name" : "treasure hunting",
+      "parent_tag_id" : 2850,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4388" : {
+      "info_box" : false,
+      "name" : "deconstruction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "4397" : {
+      "info_box" : false,
+      "name" : "court politics",
+      "parent_tag_id" : 2867,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5792" : {
+      "info_box" : false,
+      "name" : "gangs",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

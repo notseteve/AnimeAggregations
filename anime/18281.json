@@ -11,6 +11,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 152286,
+      "name" : "Degawa Rei",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 150549,
       "name" : "Hosoi Masahiko",
       "type" : "CHARACTER"
@@ -214,9 +218,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-10",
+      "description" : "As Minami’s investigation deepens, Yumeko decides to revisit past relationships in search of answers.\nSource: Crunchyroll",
       "episode_id" : 303517,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 3.56,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00362180JAJP" ]
@@ -234,10 +243,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-17",
+      "description" : "Yumeko meets the package designer for her product and learns more about Keisuke and Maezono`s past.\nSource: Crunchyroll",
       "episode_id" : 303518,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 3.56,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362182JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Sekai ni Hitotsu dake no......"
@@ -251,13 +268,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-24",
+      "description" : "Yumeko rushes to complete tasks at work, and just when she makes plans to meet Keisuke, she catches a cold.\nSource: Crunchyroll",
       "episode_id" : 303519,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 3.56,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362184JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Kindness Comes with a Cold"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yasashisa wa Kaze to Tomo ni"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "優しさは風邪とともに"
       } ],
       "type" : "REGULAR"
     }, {
@@ -265,10 +296,23 @@
       "episode_id" : 304769,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 3.56,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362186JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kare no Suki na Hito?"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "The Person He Loves?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "彼の好きな人?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -279,7 +323,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Minami Wants to Die"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shi ni Tagari no Minami"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "死にたがりの南"
       } ],
       "type" : "REGULAR"
     }, {
@@ -326,12 +376,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.49,
-      "total" : 18
+      "rating" : 4.61,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 5.44,
-      "total" : 18
+      "rating" : 5.42,
+      "total" : 21
     }
   },
   "resources" : {
@@ -348,12 +398,533 @@
   },
   "start_date" : "2025-10-06",
   "tags" : {
+    "308" : {
+      "info_box" : false,
+      "name" : "detective",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "1760" : {
+      "info_box" : false,
+      "name" : "bishounen",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1973" : {
+      "info_box" : false,
+      "name" : "cooking",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2555" : {
+      "info_box" : false,
+      "name" : "amnesia",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2603" : {
+      "info_box" : true,
+      "name" : "office lady",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2614" : {
+      "info_box" : true,
+      "name" : "josei",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2676" : {
+      "info_box" : false,
+      "name" : "Tokyo",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2786" : {
+      "info_box" : false,
+      "name" : "love polygon",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2795" : {
+      "info_box" : false,
+      "name" : "baking",
+      "parent_tag_id" : 1973,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2844" : {
+      "info_box" : false,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2879" : {
+      "info_box" : false,
+      "name" : "alcohol",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2885" : {
+      "info_box" : false,
+      "name" : "law and order",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2897" : {
+      "info_box" : false,
+      "name" : "police",
+      "parent_tag_id" : 2885,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2910" : {
+      "info_box" : false,
+      "name" : "parental abandonment",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "3263" : {
+      "info_box" : false,
+      "name" : "fashion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3378" : {
+      "info_box" : false,
+      "name" : "redemption",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3759" : {
+      "info_box" : false,
+      "name" : "teamwork",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3953" : {
+      "info_box" : false,
+      "name" : "in medias res",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3977" : {
+      "info_box" : false,
+      "name" : "dialogue driven",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4128" : {
+      "info_box" : false,
+      "name" : "zero to hero",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4223" : {
+      "info_box" : false,
+      "name" : "running gag",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4577" : {
+      "info_box" : false,
+      "name" : "family values",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4656" : {
+      "info_box" : false,
+      "name" : "infidelity",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "4669" : {
+      "info_box" : false,
+      "name" : "parenting",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "5384" : {
+      "info_box" : false,
+      "name" : "put right what once went wrong",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5768" : {
+      "info_box" : false,
+      "name" : "intact family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5826" : {
+      "info_box" : false,
+      "name" : "rivalry",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5875" : {
+      "info_box" : false,
+      "name" : "jealousy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5956" : {
+      "info_box" : false,
+      "name" : "broken friendship",
+      "parent_tag_id" : 2862,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6070" : {
+      "info_box" : false,
+      "name" : "mystery",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7871" : {
+      "info_box" : false,
+      "name" : "medium breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "7872" : {
+      "info_box" : false,
+      "name" : "huge breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,

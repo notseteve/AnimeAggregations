@@ -22,6 +22,26 @@
       "name" : "Chikara",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152307,
+      "name" : "Cure Break",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152305,
+      "name" : "Cure Kagura",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152302,
+      "name" : "Cure Lock",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152306,
+      "name" : "Cure Soul",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152301,
+      "name" : "Cure Top",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 147296,
       "name" : "Director",
       "type" : "CHARACTER"
@@ -44,6 +64,10 @@
     }, {
       "character_id" : 147204,
       "name" : "Higashinaka Mikoto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152299,
+      "name" : "Hoshikawa Gaku",
       "type" : "CHARACTER"
     }, {
       "character_id" : 151679,
@@ -78,6 +102,10 @@
       "name" : "Kurikyuuta",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152310,
+      "name" : "Kurose Maito",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 147202,
       "name" : "Kyuutarou",
       "type" : "CHARACTER"
@@ -106,6 +134,10 @@
       "name" : "Mori Koharu",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152300,
+      "name" : "Natsume Hayato",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 150214,
       "name" : "Natsuno Hanae",
       "type" : "CHARACTER"
@@ -124,6 +156,14 @@
     }, {
       "character_id" : 151431,
       "name" : "Owarai Hiroshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152303,
+      "name" : "Pas De Deux",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152304,
+      "name" : "Pas De Deux",
       "type" : "CHARACTER"
     }, {
       "character_id" : 151830,
@@ -158,12 +198,24 @@
       "name" : "Shouta-senpai",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152298,
+      "name" : "Sunda Mawaru",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148025,
       "name" : "Sunda Odoru",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152309,
+      "name" : "Tengen Kouga",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 150212,
       "name" : "Tenko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152308,
+      "name" : "Tsukimiya Sasana",
       "type" : "CHARACTER"
     }, {
       "character_id" : 150391,
@@ -335,7 +387,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.75,
+        "rating" : 3.72,
         "total" : 1
       },
       "recap" : false,
@@ -379,7 +431,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.7,
+        "rating" : 6.69,
         "total" : 1
       },
       "recap" : false,
@@ -403,7 +455,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.75,
+        "rating" : 3.72,
         "total" : 1
       },
       "recap" : false,
@@ -1124,6 +1176,9 @@
       "length" : 25,
       "number" : 41,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GPWU8KWGK" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "I`ll Protect Hearts Going Kyun-Kyun!"
@@ -1141,9 +1196,18 @@
       "length" : 25,
       "number" : 42,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G2XUN0ZQN" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 42"
+        "title" : "Connect! Echo from You!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Connect! Kimi kara no Echo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "コネクト! キミからのEcho"
       } ],
       "type" : "REGULAR"
     }, {
@@ -1153,8 +1217,14 @@
       "number" : 43,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Uta no Uta"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 43"
+        "title" : "Uta`s Song"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "うたの歌"
       } ],
       "type" : "REGULAR"
     }, {
@@ -1168,16 +1238,60 @@
         "title" : "Episode 44"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-21",
+      "episode_id" : 305417,
+      "length" : 25,
+      "number" : 45,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 45"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-28",
+      "episode_id" : 305418,
+      "length" : 25,
+      "number" : 46,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 46"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-04",
+      "episode_id" : 305419,
+      "length" : 25,
+      "number" : 47,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 47"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-11",
+      "episode_id" : 305420,
+      "length" : 25,
+      "number" : 48,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 48"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.6,
-      "total" : 17
+      "rating" : 5.87,
+      "total" : 19
     },
     "TEMPORARY" : {
-      "rating" : 6.0,
-      "total" : 18
+      "rating" : 6.05,
+      "total" : 20
     }
   },
   "related" : {

@@ -141,7 +141,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.74,
+        "rating" : 7.75,
         "total" : 1
       },
       "recap" : false,
@@ -203,10 +203,20 @@
       "episode_id" : 303569,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 6.61,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Wanda-san no Nyuugaku Mae"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Wanda`s Pre-High School Days"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "湾田さんの入学前"
       } ],
       "type" : "REGULAR"
     }, {
@@ -214,22 +224,92 @@
       "episode_id" : 303570,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 9.32,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Dance Battle"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dance Battle"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ダンスバトル"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-03",
+      "episode_id" : 305156,
+      "length" : 25,
+      "number" : 9,
+      "rating" : {
+        "rating" : 7.75,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Genre no Kabe"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Style Wall"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ジャンルの壁"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-10",
+      "episode_id" : 305157,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Prelims"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yosen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "予選"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-17",
+      "episode_id" : 305158,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-24",
+      "episode_id" : 305159,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.73,
-      "total" : 24
+      "rating" : 5.58,
+      "total" : 27
     },
     "TEMPORARY" : {
       "rating" : 5.96,
-      "total" : 25
+      "total" : 28
     }
   },
   "resources" : {
@@ -247,6 +327,100 @@
   },
   "start_date" : "2025-10-08",
   "tags" : {
+    "362" : {
+      "info_box" : false,
+      "name" : "dancing",
+      "parent_tag_id" : 2793,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2043" : {
+      "info_box" : true,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2793" : {
+      "info_box" : true,
+      "name" : "performance",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2883" : {
+      "info_box" : true,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2888" : {
+      "info_box" : true,
+      "name" : "coming of age",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

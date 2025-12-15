@@ -127,7 +127,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.68,
+        "rating" : 3.67,
         "total" : 4
       },
       "recap" : false,
@@ -253,7 +253,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.86,
+        "rating" : 8.87,
         "total" : 2
       },
       "recap" : false,
@@ -380,7 +380,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 7.47,
+        "rating" : 7.48,
         "total" : 1
       },
       "recap" : false,
@@ -404,11 +404,11 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.75,
+      "rating" : 3.77,
       "total" : 177
     },
     "TEMPORARY" : {
-      "rating" : 5.76,
+      "rating" : 5.78,
       "total" : 177
     }
   },
@@ -431,6 +431,13 @@
   },
   "start_date" : "2024-01-06",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1969" : {
       "info_box" : false,
       "name" : "mahjong",
@@ -439,9 +446,39 @@
       "verified" : false,
       "weight" : 500
     },
+    "1973" : {
+      "info_box" : false,
+      "name" : "cooking",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2406" : {
+      "info_box" : false,
+      "name" : "talking animal",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -460,6 +497,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
@@ -467,6 +512,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2630" : {
       "info_box" : false,
@@ -488,6 +541,14 @@
       "info_box" : false,
       "name" : "board games",
       "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -517,9 +578,32 @@
       "weight" : 600
     },
     "2881" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "sports",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4131" : {
+      "info_box" : false,
+      "name" : "cultural references",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -532,9 +616,72 @@
       "verified" : false,
       "weight" : 400
     },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6399" : {
+      "info_box" : false,
+      "name" : "episodic",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7146" : {
+      "info_box" : false,
+      "name" : "cute girls doing cute things",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "7242" : {
+      "info_box" : false,
+      "name" : "adapted into other media",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7330" : {
+      "info_box" : false,
+      "name" : "adapted into manga",
+      "parent_tag_id" : 7242,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

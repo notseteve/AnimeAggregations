@@ -426,7 +426,9 @@
   "resources" : {
     "BANGUMI" : [ "328518" ],
     "DOUBAN" : [ "35344127" ],
-    "MAL" : [ "47044" ]
+    "MAL" : [ "47044" ],
+    "STREAM" : [ "https://www.iq.com/album/astral-sutra-2021-ytlc1msg2p", "https://www.iqiyi.com/v_2fol3e2anbw.html" ],
+    "TMDB" : [ "tv/118265" ]
   },
   "start_date" : "2021-01-28",
   "tags" : {
@@ -489,12 +491,20 @@
     "title" : "Xing Wu Shen Jue",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Astral Sutra",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "星武神诀",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
     "title" : "Star Martial God Technique",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_TRANSLITERATED",
+    "title" : "Xing Wushen Jue",
     "type" : "SYNONYM"
   } ],
   "type" : "WEB"

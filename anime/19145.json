@@ -62,6 +62,10 @@
       "name" : "Sasaki",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152398,
+      "name" : "Sawada",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151892,
       "name" : "Souma",
       "type" : "CHARACTER"
@@ -181,7 +185,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.72,
+        "rating" : 8.71,
         "total" : 1
       },
       "recap" : false,
@@ -202,7 +206,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.72,
+        "rating" : 8.71,
         "total" : 1
       },
       "recap" : false,
@@ -223,7 +227,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.72,
+        "rating" : 8.71,
         "total" : 1
       },
       "recap" : false,
@@ -244,7 +248,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.72,
+        "rating" : 8.71,
         "total" : 1
       },
       "recap" : false,
@@ -265,7 +269,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.72,
+        "rating" : 8.71,
         "total" : 1
       },
       "recap" : false,
@@ -285,6 +289,10 @@
       "episode_id" : 303099,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 8.71,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -302,6 +310,10 @@
       "episode_id" : 303100,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 8.71,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE",
@@ -319,10 +331,20 @@
       "episode_id" : 304504,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 8.71,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dareka no Kimochi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Someone`s Feelings"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "誰かの気持ち"
       } ],
       "type" : "REGULAR"
     }, {
@@ -333,7 +355,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Rumors"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Uwasa"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "噂"
       } ],
       "type" : "REGULAR"
     }, {
@@ -358,16 +386,39 @@
         "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-10-09",
+      "episode_id" : 305134,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-10-16",
+      "episode_id" : 305135,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.11,
-      "total" : 19
+      "rating" : 4.97,
+      "total" : 23
     },
     "TEMPORARY" : {
-      "rating" : 5.89,
-      "total" : 19
+      "rating" : 6.0,
+      "total" : 23
     }
   },
   "resources" : {
@@ -380,10 +431,58 @@
     "TWITTER" : [ "tamahoshi_anime" ],
     "WEBSITE" : [ "https://tamahoshi-anime.com/" ],
     "WIKIPEDIA_EN" : [ "A_Star_Brighter_Than_the_Sun" ],
-    "WIKIPEDIA_JP" : [ "太陽よりも眩しい星" ]
+    "WIKIPEDIA_JP" : [ "太陽よりも眩しい星" ],
+    "YOUTUBE" : [ "watch?v=Bn_V31fD-eI", "watch?v=t61JhbufBG8" ]
   },
   "start_date" : "2025-10-02",
   "tags" : {
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2678" : {
+      "info_box" : false,
+      "name" : "Hokkaido",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

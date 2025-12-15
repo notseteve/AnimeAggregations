@@ -10,6 +10,10 @@
       "name" : "Bomb",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152392,
+      "name" : "Captain Mizuki",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 152204,
       "name" : "Chou Mouse",
       "type" : "CHARACTER"
@@ -40,6 +44,10 @@
     }, {
       "character_id" : 151618,
       "name" : "Kirisa King",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152432,
+      "name" : "Kishin G5",
       "type" : "CHARACTER"
     }, {
       "character_id" : 104667,
@@ -90,6 +98,10 @@
       "name" : "Sitch",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152434,
+      "name" : "Sodachisugita Pochi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 76040,
       "name" : "Tank-Top Master",
       "type" : "CHARACTER"
@@ -120,6 +132,10 @@
       "name" : "Bang",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152435,
+      "name" : "Busaiku Daisoutou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 77234,
       "name" : "Butagami",
       "type" : "CHARACTER"
@@ -132,6 +148,10 @@
       "name" : "Doutei",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152442,
+      "name" : "Evil Tennensui",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 73941,
       "name" : "Genos",
       "type" : "CHARACTER"
@@ -142,6 +162,14 @@
     }, {
       "character_id" : 104664,
       "name" : "Gyoro Gyoro",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152436,
+      "name" : "Haguki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152433,
+      "name" : "Homeless Tei",
       "type" : "CHARACTER"
     }, {
       "character_id" : 76666,
@@ -264,7 +292,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 1.69,
+        "rating" : 1.7,
         "total" : 8
       },
       "recap" : false,
@@ -292,7 +320,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 1.54,
+        "rating" : 1.55,
         "total" : 7
       },
       "recap" : false,
@@ -320,7 +348,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 1.55,
+        "rating" : 1.56,
         "total" : 7
       },
       "recap" : false,
@@ -399,12 +427,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-23",
+      "description" : "Heroes arrive in Z City but face a monster ambush. A-class aids while Gyoro-Gyoro watches the fight.\nSource: Crunchyroll",
       "episode_id" : 303929,
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 1.01,
-        "total" : 1
+        "rating" : 1.53,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -426,10 +455,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-30",
+      "description" : "Tempest Wind and Hellfire Flame, who were ninjas but are now monsters, battle with Flashy Flash.\nSource: Crunchyroll",
       "episode_id" : 303930,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 4.48,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364595JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Ninja Tale"
@@ -437,19 +474,39 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shinobi no Maki"
       }, {
+        "language" : "UKRAINIAN",
+        "title" : "Історія про нінджя"
+      }, {
         "language" : "JAPANESE",
         "title" : "忍の巻"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-12-07",
+      "air_date" : "2025-12-08",
+      "description" : "Child Emperor finds Waganma and faces Phoenix Man, using his ultimate weapon to protect him.\nSource: Crunchyroll",
       "episode_id" : 305066,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 2.23,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364597JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Brave Child"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Warabe no Yuu"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Відважна дитина"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "童の勇"
       } ],
       "type" : "REGULAR"
     }, {
@@ -459,8 +516,14 @@
       "number" : 10,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fujimi no Dorojiai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Immortal Bloodbath"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "不死身の泥仕合"
       } ],
       "type" : "REGULAR"
     }, {
@@ -516,12 +579,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.73,
-      "total" : 73
+      "rating" : 2.22,
+      "total" : 97
+    },
+    "REVIEW" : {
+      "rating" : 1.0,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 4.73,
-      "total" : 82
+      "rating" : 4.52,
+      "total" : 109
     }
   },
   "related" : {

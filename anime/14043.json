@@ -251,12 +251,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.57,
-      "total" : 227
+      "rating" : 7.58,
+      "total" : 228
     },
     "TEMPORARY" : {
       "rating" : 7.41,
-      "total" : 227
+      "total" : 228
     }
   },
   "related" : {
@@ -277,6 +277,13 @@
   },
   "start_date" : "2021-06-11",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -306,10 +313,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2626" : {
       "info_box" : false,
       "name" : "future",
       "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -330,6 +353,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2836" : {
+      "info_box" : false,
+      "name" : "Australia",
+      "parent_tag_id" : 7082,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2846" : {
       "info_box" : true,
       "name" : "science fiction",
@@ -338,10 +369,41 @@
       "verified" : false,
       "weight" : 600
     },
+    "3196" : {
+      "info_box" : false,
+      "name" : "photographic backgrounds",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3216" : {
       "info_box" : false,
       "name" : "Universal Century",
       "parent_tag_id" : 2626,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5884" : {
+      "info_box" : false,
+      "name" : "slow-paced",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6004" : {
+      "info_box" : false,
+      "name" : "development hell",
+      "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -357,6 +419,14 @@
       "info_box" : false,
       "name" : "speculative fiction",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7082" : {
+      "info_box" : false,
+      "name" : "Oceania",
+      "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -86,6 +86,10 @@
       "name" : "Nakajou Kumi",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "25047" : [ {
+      "name" : "Kanakubo Norie",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "27421" : [ {
       "name" : "Miyamoto Hiroaki",
       "type" : "DIRECTOR"
@@ -215,6 +219,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-09",
+      "description" : "Pandamon is furious that Yuukari has hurt the boss but is conflicted between their feelings and teachings about chivalry. Tomoro wants to challenge Astamon in battle. Meanwhile, Kyo investigates the identity of the mastermind.\nSource: Crunchyroll",
       "episode_id" : 303363,
       "length" : 25,
       "number" : 6,
@@ -235,6 +240,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-16",
+      "description" : "Tomoro and the others find hikers who’ve nearly fallen victim to Cold Heart. They are saved by an exhausted Kyo and Murasamemon. Deep in the mountain is an old observatory that holds Kyo’s secret.\nSource: Crunchyroll",
       "episode_id" : 303364,
       "length" : 25,
       "number" : 7,
@@ -255,10 +261,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-23",
+      "description" : "Hitomi takes Tomoro to school to investigate a series of student disappearances. Only the top students are going missing. Gekkomon struggles to rescue Tomoro when he’s trapped inside Mimicmon.\nSource: Crunchyroll",
       "episode_id" : 303365,
       "length" : 25,
       "number" : 8,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364394JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kieru Kyoushitsu"
@@ -272,24 +282,44 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-11-30",
+      "description" : "Going after a bounty, the Glowing Dawn infiltrate Shangri-La Egg, a utopia created after a massive disaster. There, other Cleaners who are also after Goldnumemon appear in front of Tomoro and the others…\nSource: Crunchyroll",
       "episode_id" : 304694,
       "length" : 25,
       "number" : 9,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364396JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Risoukyou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Utopia"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "理想郷"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-07",
+      "description" : "Chiropmon is taken from Makoto by Haruko, who sees Digimon as toys. Kyo tries to interrupt the buyer’s transaction, while Makoto feels troubled because his own weakness caused Chiropmon to suffer.\nSource: Crunchyroll",
       "episode_id" : 304695,
       "length" : 25,
       "number" : 10,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364398JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "A True Friend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hontou no Tomodachi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "本当の友達"
       } ],
       "type" : "REGULAR"
     }, {
@@ -300,7 +330,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "A Black Emotion"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kuroi Kanjou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "黒い感情"
       } ],
       "type" : "REGULAR"
     }, {
@@ -312,6 +348,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-28",
+      "episode_id" : 305657,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 13"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-04",
+      "episode_id" : 305658,
+      "length" : 25,
+      "number" : 14,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 14"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-11",
+      "episode_id" : 305659,
+      "length" : 25,
+      "number" : 15,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 15"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-18",
+      "episode_id" : 305660,
+      "length" : 25,
+      "number" : 16,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 16"
       } ],
       "type" : "REGULAR"
     } ],
@@ -376,12 +456,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.62,
-      "total" : 10
+      "rating" : 4.47,
+      "total" : 13
     },
     "TEMPORARY" : {
-      "rating" : 6.1,
-      "total" : 10
+      "rating" : 5.5,
+      "total" : 13
     }
   },
   "related" : {
@@ -445,6 +525,14 @@
     "language" : "ENGLISH",
     "title" : "Digimon Beatbreak",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "UNKNOWN",
+    "title" : "digimon s10",
+    "type" : "SHORT"
+  }, {
+    "language" : "UNKNOWN",
+    "title" : "digimon10",
+    "type" : "SHORT"
   }, {
     "language" : "JAPANESE",
     "title" : "デジモンビートブレイク",
