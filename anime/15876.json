@@ -176,7 +176,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.36,
+        "rating" : 6.37,
         "total" : 3
       },
       "recap" : false,
@@ -922,6 +922,22 @@
   },
   "start_date" : "2023-01-09",
   "tags" : {
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2535" : {
+      "info_box" : false,
+      "name" : "ghost",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
@@ -972,6 +988,38 @@
       "verified" : false,
       "weight" : 0
     },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2648" : {
       "info_box" : true,
       "name" : "contemporary fantasy",
@@ -980,6 +1028,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2655" : {
       "info_box" : false,
       "name" : "parody",
@@ -987,6 +1043,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2749" : {
       "info_box" : false,
@@ -1044,9 +1108,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2841" : {
       "info_box" : false,
       "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2844" : {
+      "info_box" : false,
+      "name" : "angst",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
@@ -1100,6 +1180,30 @@
       "verified" : false,
       "weight" : 100
     },
+    "2885" : {
+      "info_box" : false,
+      "name" : "law and order",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2897" : {
+      "info_box" : false,
+      "name" : "police",
+      "parent_tag_id" : 2885,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
@@ -1107,10 +1211,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "2952" : {
+      "info_box" : false,
+      "name" : "rotten world",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "3086" : {
       "info_box" : false,
       "name" : "parricide",
       "parent_tag_id" : 4316,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3170" : {
+      "info_box" : false,
+      "name" : "occupation and career",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3378" : {
+      "info_box" : false,
+      "name" : "redemption",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1122,6 +1258,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "3876" : {
+      "info_box" : false,
+      "name" : "folklore",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4048" : {
+      "info_box" : false,
+      "name" : "Japanese mythology",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "4316" : {
       "info_box" : false,
@@ -1163,10 +1323,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4576" : {
       "info_box" : false,
       "name" : "summer",
       "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5213" : {
+      "info_box" : false,
+      "name" : "the effects of time and distance on human relationships",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5384" : {
+      "info_box" : false,
+      "name" : "put right what once went wrong",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5585" : {
+      "info_box" : false,
+      "name" : "curse",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
@@ -1178,6 +1370,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5993" : {
+      "info_box" : false,
+      "name" : "black humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "6050" : {
       "info_box" : false,
@@ -1191,6 +1399,14 @@
       "info_box" : false,
       "name" : "age difference romance",
       "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6086" : {
+      "info_box" : false,
+      "name" : "the power of love",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1232,6 +1448,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6242" : {
       "info_box" : false,

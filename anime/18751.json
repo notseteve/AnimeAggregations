@@ -49,6 +49,10 @@
       "character_id" : 152409,
       "name" : "Wakai Tetsudome",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 152466,
+      "name" : "Yagiuda Saburou (15-sai)",
+      "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 145431,
@@ -173,7 +177,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.2,
+        "rating" : 7.21,
         "total" : 5
       },
       "recap" : false,
@@ -215,7 +219,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.09,
+        "rating" : 6.1,
         "total" : 5
       },
       "recap" : false,
@@ -236,7 +240,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.2,
+        "rating" : 7.21,
         "total" : 5
       },
       "recap" : false,
@@ -257,7 +261,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.31,
+        "rating" : 5.32,
         "total" : 3
       },
       "recap" : false,
@@ -278,7 +282,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 4.93,
+        "rating" : 4.94,
         "total" : 3
       },
       "recap" : false,
@@ -299,8 +303,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 4.87,
-        "total" : 2
+        "rating" : 4.2,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -319,10 +323,20 @@
       "episode_id" : 304990,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 4.79,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nagai Isshun no You na Kimi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "You, an Everlasting Moment"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "長い一瞬のような君"
       } ],
       "type" : "REGULAR"
     }, {
@@ -330,10 +344,20 @@
       "episode_id" : 304991,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 3.4,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Flashback Attack"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Soumatou no Shinkou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "走馬灯の侵攻"
       } ],
       "type" : "REGULAR"
     }, {
@@ -341,12 +365,40 @@
       "episode_id" : 304992,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 5.09,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Pale Blue Pall"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Pale Blue no Tobari"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ペールブルーの帳"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-11-14",
+      "episode_id" : 306085,
+      "length" : 60,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sukoshi Hayame no Christmas Party Tokuban"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "少し早めのクリスマスパーティー特番"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "CREDITS" : [ {
       "air_date" : "2025-10-04",
@@ -382,17 +434,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.48,
-      "total" : 35
+      "rating" : 5.08,
+      "total" : 80
     },
     "TEMPORARY" : {
-      "rating" : 5.84,
-      "total" : 35
+      "rating" : 5.99,
+      "total" : 80
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "398650" ],
-    "AMAZON" : [ "B0FMNVVXW3" ],
+    "AMAZON" : [ "B0FMQQP92B" ],
     "ANISON" : [ "26151" ],
     "ANN" : [ "32918" ],
     "MAL" : [ "59267" ],
@@ -400,7 +452,8 @@
     "TWITTER" : [ "sanda_anime" ],
     "WEBSITE" : [ "https://sanda.red/" ],
     "WIKIPEDIA_EN" : [ "Sanda_(manga)" ],
-    "WIKIPEDIA_JP" : [ "SANDA" ]
+    "WIKIPEDIA_JP" : [ "SANDA" ],
+    "YOUTUBE" : [ "watch?v=LGBCtbqCSg8" ]
   },
   "start_date" : "2025-10-04",
   "tags" : {

@@ -76,7 +76,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.13,
+        "rating" : 6.12,
         "total" : 6
       },
       "recap" : false,
@@ -101,7 +101,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.73,
+        "rating" : 7.72,
         "total" : 4
       },
       "recap" : false,
@@ -126,7 +126,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.73,
+        "rating" : 7.72,
         "total" : 4
       },
       "recap" : false,
@@ -151,8 +151,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.79,
-        "total" : 3
+        "rating" : 7.8,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -176,8 +176,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 9.27,
-        "total" : 3
+        "rating" : 8.25,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -201,8 +201,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.26,
-        "total" : 2
+        "rating" : 7.0,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -226,8 +226,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.7,
-        "total" : 1
+        "rating" : 5.97,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -250,6 +250,10 @@
       "episode_id" : 303566,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 3.44,
+        "total" : 2
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00362240JAJP" ]
@@ -272,8 +276,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 2.93,
-        "total" : 1
+        "rating" : 3.55,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -292,9 +296,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-11",
+      "description" : "Iana has fought hard to change the Dark History, but she realizes that the story is being altered in ways that she can`t control. While visiting a country villa, Iana and the others meet a boy accompanying a wounded elf and decide to look after them—an event that signals that the vampire incident is about to occur. As Iana prepares to check the vampire`s tomb, Sol asks her to take him along.\nSource: Crunchyroll",
       "episode_id" : 304903,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 6.5,
+        "total" : 2
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00362244JAJP" ]
@@ -342,12 +351,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.94,
-      "total" : 33
+      "rating" : 3.98,
+      "total" : 34
     },
     "TEMPORARY" : {
-      "rating" : 5.15,
-      "total" : 33
+      "rating" : 5.23,
+      "total" : 34
     }
   },
   "resources" : {
@@ -364,9 +373,56 @@
   },
   "start_date" : "2025-10-09",
   "tags" : {
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1409" : {
+      "info_box" : false,
+      "name" : "vampire",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1609" : {
+      "info_box" : false,
+      "name" : "elf",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

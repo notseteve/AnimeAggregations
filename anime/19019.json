@@ -26,6 +26,10 @@
       "name" : "Cure Break",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152502,
+      "name" : "Cure Connect",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 152305,
       "name" : "Cure Kagura",
       "type" : "CHARACTER"
@@ -80,6 +84,10 @@
     }, {
       "character_id" : 147210,
       "name" : "Jou Renji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152666,
+      "name" : "Kai Chiyo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 149021,
@@ -182,6 +190,10 @@
       "name" : "Sakura Heiji",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152670,
+      "name" : "Shachou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 147297,
       "name" : "Shigure Ai",
       "type" : "CHARACTER"
@@ -212,6 +224,10 @@
     }, {
       "character_id" : 150212,
       "name" : "Tenko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152521,
+      "name" : "Touya Kazuma",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152308,
@@ -387,7 +403,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.72,
+        "rating" : 3.68,
         "total" : 1
       },
       "recap" : false,
@@ -431,7 +447,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.69,
+        "rating" : 6.67,
         "total" : 1
       },
       "recap" : false,
@@ -455,7 +471,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.72,
+        "rating" : 3.68,
         "total" : 1
       },
       "recap" : false,
@@ -1216,6 +1232,9 @@
       "length" : 25,
       "number" : 43,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WU7N9M5" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Uta no Uta"
@@ -1233,9 +1252,18 @@
       "length" : 25,
       "number" : 44,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UDVN45" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kirakiland no Himitsu!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 44"
+        "title" : "The Secret of Kirakiland!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "キラキランドのひみつ!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -1244,24 +1272,39 @@
       "length" : 25,
       "number" : 45,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UEV4X1" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 45"
+        "title" : "A Kirakilala Christmas"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kirakkiranran! Christmas"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "キラッキランラン! クリスマス♡"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2025-12-28",
+      "air_date" : "2026-01-04",
       "episode_id" : 305418,
       "length" : 25,
       "number" : 46,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 46"
+        "title" : "Happy New Year Idol Precure"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kotoshi mo Yoroshiku Idol Precure!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "今年もよろしくアイドルプリキュア!"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-01-04",
+      "air_date" : "2026-01-11",
       "episode_id" : 305419,
       "length" : 25,
       "number" : 47,
@@ -1272,7 +1315,7 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-01-11",
+      "air_date" : "2026-01-18",
       "episode_id" : 305420,
       "length" : 25,
       "number" : 48,
@@ -1286,7 +1329,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.87,
+      "rating" : 5.86,
       "total" : 19
     },
     "TEMPORARY" : {
@@ -1314,8 +1357,8 @@
       "total" : 4
     },
     "18690" : {
-      "rating" : 6.0,
-      "total" : 5
+      "rating" : 6.666666666666666,
+      "total" : 6
     }
   },
   "start_date" : "2025-02-02",

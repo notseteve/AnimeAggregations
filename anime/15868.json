@@ -15,7 +15,7 @@
       "length" : 3,
       "number" : 1,
       "rating" : {
-        "rating" : 1.78,
+        "rating" : 1.77,
         "total" : 4
       },
       "recap" : false,
@@ -24,22 +24,37 @@
         "title" : "Short Movie"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2021-01-29",
+      "episode_id" : 305985,
+      "length" : 20,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Three Minutes, Three Years: Making Puparia"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.73,
-      "total" : 370
+      "total" : 373
     },
     "TEMPORARY" : {
       "rating" : 6.8,
-      "total" : 371
+      "total" : 374
     }
   },
   "resources" : {
+    "IMDB" : [ "tt13680598" ],
     "MAL" : [ "44059" ],
     "STREAM" : [ "https://vimeo.com/410320375/5236180d3a" ],
+    "TMDB" : [ "movie/766423" ],
     "TWITTER" : [ "ShingoTamagawa/status/1329758457356959744" ],
+    "WIKIPEDIA_EN" : [ "Puparia" ],
     "YOUTUBE" : [ "watch?v=CWnqX41JHuM" ]
   },
   "start_date" : "2020-11-20",

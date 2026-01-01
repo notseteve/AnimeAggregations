@@ -120,7 +120,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.36,
+        "rating" : 8.37,
         "total" : 2
       },
       "recap" : false,
@@ -141,7 +141,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.75,
+        "rating" : 7.76,
         "total" : 1
       },
       "recap" : false,
@@ -162,7 +162,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 9.29,
+        "rating" : 9.3,
         "total" : 3
       },
       "recap" : false,
@@ -204,7 +204,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.61,
+        "rating" : 6.62,
         "total" : 2
       },
       "recap" : false,
@@ -225,7 +225,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 9.32,
+        "rating" : 9.33,
         "total" : 3
       },
       "recap" : false,
@@ -246,7 +246,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.75,
+        "rating" : 7.76,
         "total" : 1
       },
       "recap" : false,
@@ -266,6 +266,10 @@
       "episode_id" : 305157,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 9.53,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -283,10 +287,20 @@
       "episode_id" : 305158,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 9.08,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jikaku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Self-Awareness"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "自覚"
       } ],
       "type" : "REGULAR"
     }, {
@@ -294,22 +308,32 @@
       "episode_id" : 305159,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 9.53,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Wandance"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Wandance"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ワンダンス"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.58,
-      "total" : 27
+      "rating" : 5.92,
+      "total" : 43
     },
     "TEMPORARY" : {
-      "rating" : 5.96,
-      "total" : 28
+      "rating" : 6.25,
+      "total" : 44
     }
   },
   "resources" : {
@@ -420,6 +444,29 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6097" : {
+      "info_box" : false,
+      "name" : "3D CG animation",
+      "parent_tag_id" : 4064,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

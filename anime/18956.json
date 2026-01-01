@@ -45,14 +45,52 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "episodes" : {
+    "PROMOTION" : [ {
+      "air_date" : "2025-06-06",
+      "episode_id" : 306006,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "PV 1 (1:14)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "PV Dai 1 Dan"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "PV第1弾"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-11-26",
+      "episode_id" : 306007,
+      "length" : 3,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "PV 2"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "PV 2 (2:19)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "PV②"
+      } ],
+      "type" : "PROMOTION"
+    } ]
+  },
   "resources" : {
     "ALL_CINEMA" : [ "402682" ],
     "ANN" : [ "33888" ],
     "MAL" : [ "60223" ],
     "TWITTER" : [ "kayakowa" ],
     "WEBSITE" : [ "https://kayachan.com/" ],
-    "WIKIPEDIA_EN" : [ "Kaya-chan_wa_Kowakunai" ],
-    "WIKIPEDIA_JP" : [ "カヤちゃんはコワくない" ]
+    "WIKIPEDIA_EN" : [ "Kaya-chan_Isn't_Scary" ],
+    "WIKIPEDIA_JP" : [ "カヤちゃんはコワくない" ],
+    "YOUTUBE" : [ "watch?v=BGa9_xVMaEY", "watch?v=mDUkXvxI-kM" ]
   },
   "similar" : {
     "16132" : {
@@ -62,6 +100,21 @@
   },
   "start_date" : "2026-01-11",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -83,13 +136,13 @@
     "title" : "Kaya-chan wa Kowakunai",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Kaya-chan Isn`t Scary",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "カヤちゃんはコワくない",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Kaya-chan Isn`t Scary",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://kayachan.com/"

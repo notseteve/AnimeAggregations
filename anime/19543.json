@@ -3,7 +3,7 @@
   "characters" : {
     "MAIN" : [ {
       "character_id" : 152126,
-      "name" : "Riko",
+      "name" : "Ooe Riko",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152125,
@@ -27,6 +27,10 @@
       "episode_id" : 300604,
       "length" : 20,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.91,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -45,6 +49,16 @@
       } ],
       "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.37,
+      "total" : 1
+    },
+    "TEMPORARY" : {
+      "rating" : 4.0,
+      "total" : 1
+    }
   },
   "resources" : {
     "MAL" : [ "62369" ],
@@ -209,6 +223,10 @@
     "language" : "JAPANESE",
     "title" : "ドSなペット",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "도S한 펫",
+    "type" : "SYNONYM"
   } ],
   "type" : "OVA"
 }

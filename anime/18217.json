@@ -219,7 +219,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.96,
+      "rating" : 4.97,
       "total" : 116
     },
     "TEMPORARY" : {
@@ -228,7 +228,8 @@
     }
   },
   "related" : {
-    "PREQUEL" : [ 17125 ]
+    "PREQUEL" : [ 17125 ],
+    "SEQUEL" : [ 19691 ]
   },
   "resources" : {
     "BAIDU_BAIKE" : [ "仙王的日常生活4" ],
@@ -238,6 +239,8 @@
     "DOUBAN" : [ "36141050" ],
     "FUNIMATION" : [ "the-daily-life-of-the-immortal-king/" ],
     "MAL" : [ "53450" ],
+    "STREAM" : [ "https://www.bilibili.tv/en/media/2091454" ],
+    "TMDB" : [ "tv/98123" ],
     "WIKIPEDIA_EN" : [ "The_Daily_Life_of_the_Immortal_King" ]
   },
   "start_date" : "2023-12-17",
@@ -307,7 +310,15 @@
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
+    "title" : "The Daily Life of the Immortal King 4",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
     "title" : "The Daily Life of the Immortal King Season 4",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_TRANSLITERATED",
+    "title" : "Xian Wang de Richang Shenghuo 4",
     "type" : "SYNONYM"
   } ],
   "type" : "WEB"

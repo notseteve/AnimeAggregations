@@ -160,7 +160,7 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 5.32,
+        "rating" : 5.33,
         "total" : 3
       },
       "recap" : false,
@@ -223,7 +223,7 @@
       "length" : 20,
       "number" : 4,
       "rating" : {
-        "rating" : 7.07,
+        "rating" : 7.08,
         "total" : 3
       },
       "recap" : false,
@@ -324,6 +324,51 @@
   },
   "start_date" : "2023-12-28",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2800" : {
+      "info_box" : true,
+      "name" : "game",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "3206" : {
       "info_box" : false,
       "name" : "stop motion",
@@ -342,6 +387,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

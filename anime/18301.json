@@ -119,11 +119,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.24,
-      "total" : 18
+      "total" : 19
     },
     "TEMPORARY" : {
-      "rating" : 6.63,
-      "total" : 18
+      "rating" : 6.65,
+      "total" : 19
     }
   },
   "resources" : {
@@ -139,9 +139,47 @@
   },
   "start_date" : "2024-10-04",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

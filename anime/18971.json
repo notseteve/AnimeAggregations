@@ -77,7 +77,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 2.39,
+        "rating" : 2.38,
         "total" : 2
       },
       "recap" : false,
@@ -102,7 +102,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.56,
+        "rating" : 3.55,
         "total" : 1
       },
       "recap" : false,
@@ -152,7 +152,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.56,
+        "rating" : 3.55,
         "total" : 1
       },
       "recap" : false,
@@ -177,7 +177,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.56,
+        "rating" : 3.55,
         "total" : 1
       },
       "recap" : false,
@@ -202,7 +202,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.38,
+        "rating" : 7.37,
         "total" : 1
       },
       "recap" : false,
@@ -227,7 +227,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 3.56,
+        "rating" : 3.55,
         "total" : 1
       },
       "recap" : false,
@@ -252,7 +252,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.56,
+        "rating" : 3.55,
         "total" : 1
       },
       "recap" : false,
@@ -277,7 +277,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 3.56,
+        "rating" : 3.55,
         "total" : 1
       },
       "recap" : false,
@@ -297,9 +297,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-03",
+      "description" : "Kiyoko, Mei, and Izumi plan a birthday surprise for Yano-kun.\nSource: Crunchyroll",
       "episode_id" : 304878,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 7.37,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00362355JAJP" ]
@@ -317,13 +322,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-10",
+      "description" : "Yano-kun participates in preparing for the school festival for the first time.\nSource: Crunchyroll",
       "episode_id" : 304879,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 3.55,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362357JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bunkasai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "School Festival"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "文化祭"
       } ],
       "type" : "REGULAR"
     }, {
@@ -400,11 +419,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.11,
-      "total" : 47
+      "total" : 52
     },
     "TEMPORARY" : {
-      "rating" : 6.64,
-      "total" : 47
+      "rating" : 6.77,
+      "total" : 52
     }
   },
   "resources" : {
@@ -420,11 +439,39 @@
     "WIKIPEDIA_JP" : [ "矢野くんの普通の日々" ],
     "YOUTUBE" : [ "watch?v=LCgZptmyAhk", "watch?v=Y3n6Kdsdvr8", "watch?v=wS-lmrs7h-0" ]
   },
+  "similar" : {
+    "10542" : {
+      "rating" : 5.0,
+      "total" : 2
+    }
+  },
   "start_date" : "2025-10-01",
   "tags" : {
+    "2043" : {
+      "info_box" : true,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -451,6 +498,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2624" : {
       "info_box" : false,
       "name" : "present",
@@ -458,6 +513,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2853" : {
       "info_box" : true,
@@ -475,6 +562,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "3023" : {
       "info_box" : false,
       "name" : "funny expressions",
@@ -487,6 +590,14 @@
       "info_box" : false,
       "name" : "facial distortion",
       "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4498" : {
+      "info_box" : false,
+      "name" : "heart-warming",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

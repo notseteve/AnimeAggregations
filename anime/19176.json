@@ -1,6 +1,27 @@
 {
   "anime_id" : 19176,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 152706,
+      "name" : "Akiba Jiroo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152703,
+      "name" : "Hanako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152705,
+      "name" : "ISAAQ",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152702,
+      "name" : "Suzuki Ichirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152704,
+      "name" : "Toilet Tarou",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 146751,
       "name" : "Airi",
@@ -8,6 +29,11 @@
     }, {
       "character_id" : 146752,
       "name" : "Youko",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 152701,
+      "name" : "Chitose",
       "type" : "CHARACTER"
     } ]
   },
@@ -175,7 +201,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.32,
+        "rating" : 5.31,
         "total" : 4
       },
       "recap" : false,
@@ -200,7 +226,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.32,
+        "rating" : 5.31,
         "total" : 4
       },
       "recap" : false,
@@ -275,7 +301,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.07,
+        "rating" : 5.06,
         "total" : 4
       },
       "recap" : false,
@@ -295,24 +321,52 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-13",
+      "description" : "After leaving Nikko, Airi hears a mysterious sound only she can hear. They head to the origins of that sound, to find out that it`s the Yoshimi Hundred Caves in Saitama, a historical site.\nSource: Crunchyroll",
       "episode_id" : 304995,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 6.83,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364689JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Yoshimi Hundred Caves"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yoshimi Hyakuana"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "吉見百穴"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-20",
+      "description" : "After camping on the shores of Lake Shirakaba, Yoko and Airi head over to Venus Line, the best touring spot often considered sacred ground among riders. As they emerge from a dense fog, what the two see is—.\nSource: Crunchyroll",
       "episode_id" : 304996,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 6.32,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364691JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Venus Line Shelter"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Venus Line, Shelter"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ビーナスライン・シェルター"
       } ],
       "type" : "REGULAR"
     } ],
@@ -348,6 +402,23 @@
       }, {
         "language" : "JAPANESE",
         "title" : "【バイクの日記念】「終末ツーリング」アニメ新情報発表生配信"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-11-16",
+      "episode_id" : 306123,
+      "length" : 55,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S3"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Namahaishin Tokubetsu Bangumi: Tabi no Kore made to Korekara"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "生配信特別番組 ~旅のこれまでとこれから~"
       } ],
       "type" : "SPECIAL"
     } ],
@@ -429,12 +500,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.88,
-      "total" : 40
+      "rating" : 6.22,
+      "total" : 83
     },
     "TEMPORARY" : {
-      "rating" : 7.31,
-      "total" : 40
+      "rating" : 6.86,
+      "total" : 83
     }
   },
   "resources" : {
@@ -453,7 +524,7 @@
   "similar" : {
     "13256" : {
       "rating" : 10.0,
-      "total" : 6
+      "total" : 8
     }
   },
   "start_date" : "2025-10-04",

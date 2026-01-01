@@ -92,7 +92,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.08,
+        "rating" : 4.07,
         "total" : 5
       },
       "recap" : false,
@@ -226,7 +226,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.03,
+        "rating" : 3.02,
         "total" : 2
       },
       "recap" : false,
@@ -276,7 +276,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.31,
+        "rating" : 5.3,
         "total" : 3
       },
       "recap" : false,
@@ -301,7 +301,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 2.89,
+        "rating" : 2.88,
         "total" : 3
       },
       "recap" : false,
@@ -351,7 +351,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 3.03,
+        "rating" : 3.02,
         "total" : 2
       },
       "recap" : false,
@@ -376,7 +376,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 3.96,
+        "rating" : 3.97,
         "total" : 2
       },
       "recap" : false,
@@ -399,11 +399,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.23,
-      "total" : 263
+      "total" : 269
     },
     "TEMPORARY" : {
       "rating" : 5.56,
-      "total" : 264
+      "total" : 270
     }
   },
   "resources" : {
@@ -420,9 +420,39 @@
   },
   "start_date" : "2025-07-06",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

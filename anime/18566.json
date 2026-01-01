@@ -27,6 +27,10 @@
       "name" : "Gilga",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152724,
+      "name" : "Ham-chan",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 136366,
       "name" : "Inki",
       "type" : "CHARACTER"
@@ -45,6 +49,10 @@
     }, {
       "character_id" : 136029,
       "name" : "Maou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152725,
+      "name" : "Penta",
       "type" : "CHARACTER"
     }, {
       "character_id" : 136365,
@@ -96,6 +104,51 @@
   },
   "description" : "* Based on a fantasy gag manga written by http://anidb.net/cr34717 [Haruhara Robinson] and drawn by http://anidb.net/cr72419 [Hirakei].",
   "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-01-12",
+      "episode_id" : 305912,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-19",
+      "episode_id" : 305913,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-26",
+      "episode_id" : 305914,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-02",
+      "episode_id" : 305915,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2024-03-26",
       "episode_id" : 289037,
@@ -121,6 +174,7 @@
   "resources" : {
     "ANN" : [ "32594" ],
     "MAL" : [ "58524" ],
+    "SYOBOI" : [ "7658" ],
     "TWITTER" : [ "himesama_goumon" ],
     "WEBSITE" : [ "https://himesama-goumon.com/" ],
     "WIKIPEDIA_EN" : [ "'Tis_Time_for_\"Torture,\"_Princess" ],
@@ -129,6 +183,21 @@
   },
   "start_date" : "2026-01-12",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

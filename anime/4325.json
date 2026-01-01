@@ -640,7 +640,7 @@
       "length" : 9,
       "number" : 9,
       "rating" : {
-        "rating" : 3.74,
+        "rating" : 3.73,
         "total" : 1
       },
       "recap" : false,
@@ -881,7 +881,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.01,
-      "total" : 4658
+      "total" : 4661
     },
     "REVIEW" : {
       "rating" : 6.95,
@@ -889,7 +889,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.78,
-      "total" : 4706
+      "total" : 4709
     }
   },
   "related" : {
@@ -942,29 +942,6 @@
   },
   "start_date" : "2008-01-06",
   "tags" : {
-    "30" : {
-      "info_box" : false,
-      "name" : "maintenance tags",
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 0
-    },
-    "870" : {
-      "info_box" : false,
-      "name" : "strict",
-      "parent_tag_id" : 6149,
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 0
-    },
-    "1179" : {
-      "info_box" : false,
-      "name" : "indecisive",
-      "parent_tag_id" : 6149,
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 0
-    },
     "2043" : {
       "info_box" : true,
       "name" : "high school",
@@ -972,6 +949,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2607" : {
       "info_box" : false,
@@ -1016,7 +1000,7 @@
       "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 400
+      "weight" : 600
     },
     "2630" : {
       "info_box" : false,
@@ -1024,7 +1008,7 @@
       "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 400
+      "weight" : 600
     },
     "2672" : {
       "info_box" : false,
@@ -1032,7 +1016,15 @@
       "parent_tag_id" : 2834,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 400
+      "weight" : 600
+    },
+    "2760" : {
+      "info_box" : false,
+      "name" : "basketball",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2785" : {
       "info_box" : false,
@@ -1056,7 +1048,7 @@
       "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 400
+      "weight" : 600
     },
     "2842" : {
       "info_box" : false,
@@ -1107,12 +1099,20 @@
       "weight" : 400
     },
     "2869" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "school life",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 400
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2887" : {
       "info_box" : false,
@@ -1138,10 +1138,10 @@
       "verified" : false,
       "weight" : 300
     },
-    "6149" : {
+    "5884" : {
       "info_box" : false,
-      "name" : "TO BE MOVED TO CHARACTER",
-      "parent_tag_id" : 30,
+      "name" : "slow-paced",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1152,6 +1152,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "6185" : {
       "info_box" : false,

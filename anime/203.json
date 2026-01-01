@@ -223,7 +223,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.75,
-      "total" : 549
+      "total" : 550
     },
     "REVIEW" : {
       "rating" : 6.16,
@@ -231,7 +231,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.35,
-      "total" : 557
+      "total" : 558
     }
   },
   "resources" : {
@@ -261,6 +261,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2607" : {
       "info_box" : false,
@@ -318,6 +325,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6399" : {
+      "info_box" : false,
+      "name" : "episodic",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

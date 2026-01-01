@@ -143,8 +143,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.69,
-        "total" : 11
+        "rating" : 4.86,
+        "total" : 12
       },
       "recap" : false,
       "titles" : [ {
@@ -170,8 +170,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.62,
-        "total" : 7
+        "rating" : 5.78,
+        "total" : 8
       },
       "recap" : false,
       "titles" : [ {
@@ -197,8 +197,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.18,
-        "total" : 7
+        "rating" : 5.76,
+        "total" : 8
       },
       "recap" : false,
       "titles" : [ {
@@ -224,8 +224,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.09,
-        "total" : 7
+        "rating" : 6.69,
+        "total" : 8
       },
       "recap" : false,
       "titles" : [ {
@@ -317,12 +317,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.93,
-      "total" : 712
+      "rating" : 6.92,
+      "total" : 716
     },
     "TEMPORARY" : {
       "rating" : 7.22,
-      "total" : 716
+      "total" : 720
     }
   },
   "related" : {
@@ -348,12 +348,65 @@
       "verified" : false,
       "weight" : 0
     },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2623" : {
+      "info_box" : true,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "3955" : {
       "info_box" : false,
@@ -374,6 +427,14 @@
       "info_box" : false,
       "name" : "episodic",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

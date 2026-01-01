@@ -10,8 +10,16 @@
       "name" : "Anzai Mitsuyoshi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 89758,
+      "name" : "Chapa-ou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 107605,
       "name" : "Gojou Satoru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 11415,
+      "name" : "Nappa",
       "type" : "CHARACTER"
     }, {
       "character_id" : 1162,
@@ -20,6 +28,10 @@
     }, {
       "character_id" : 12820,
       "name" : "Sorachi Hideaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 2105,
+      "name" : "Vegeta",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -350,6 +362,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-02",
+      "description" : "The school festival is coming, and all the problems that come with it.\nSource: Crunchyroll",
       "episode_id" : 304816,
       "length" : 25,
       "number" : 9,
@@ -370,13 +383,20 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-09",
+      "description" : "The gang members of class 3-Z become involved in the monk pants raid that affects all of Kabukicho.\nSource: Crunchyroll",
       "episode_id" : 304817,
       "length" : 25,
       "number" : 10,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00365125JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Not Everything`s Better Short"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "なんでもかんでも短くすりゃいいってもんでもない"
       } ],
       "type" : "REGULAR"
     }, {
@@ -385,9 +405,18 @@
       "length" : 25,
       "number" : 11,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00365127JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Wazato Okurete Kite Medatou to Suru Yatsu ni Dropkick"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Whoever Shows Up Late on Purpose to Stand Out Deserves a Dropkick"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "わざと遅れて来て目立とうとする奴にドロップキック"
       } ],
       "type" : "REGULAR"
     }, {
@@ -398,7 +427,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Old Times Talk in Reunions and Last Episode Recaps in Anime Are Just Filler for When You Have Nothing to Show or Talk About"
       } ],
       "type" : "REGULAR"
     } ],
@@ -420,12 +449,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.81,
-      "total" : 34
+      "rating" : 8.29,
+      "total" : 42
     },
     "TEMPORARY" : {
-      "rating" : 7.11,
-      "total" : 34
+      "rating" : 7.65,
+      "total" : 42
     }
   },
   "related" : {

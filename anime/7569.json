@@ -230,7 +230,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.5,
+        "rating" : 6.51,
         "total" : 12
       },
       "recap" : false,
@@ -640,16 +640,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.82,
-      "total" : 2122
+      "rating" : 6.83,
+      "total" : 2127
     },
     "REVIEW" : {
       "rating" : 6.66,
       "total" : 2
     },
     "TEMPORARY" : {
-      "rating" : 7.37,
-      "total" : 2135
+      "rating" : 7.38,
+      "total" : 2140
     }
   },
   "resources" : {
@@ -670,8 +670,8 @@
       "total" : 17
     },
     "6340" : {
-      "rating" : 7.288135593220338,
-      "total" : 59
+      "rating" : 7.333333333333333,
+      "total" : 60
     },
     "6780" : {
       "rating" : 5.405405405405405,
@@ -703,10 +703,26 @@
       "verified" : false,
       "weight" : 200
     },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1283" : {
       "info_box" : false,
       "name" : "tsukkomi",
       "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1363" : {
+      "info_box" : false,
+      "name" : "breast fondling",
+      "parent_tag_id" : 2856,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -727,6 +743,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2072" : {
       "info_box" : true,
       "name" : "maid",
@@ -743,10 +767,33 @@
       "verified" : false,
       "weight" : 100
     },
+    "2346" : {
+      "info_box" : false,
+      "name" : "angel",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2455" : {
       "info_box" : false,
       "name" : "tsundere",
       "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2535" : {
+      "info_box" : false,
+      "name" : "ghost",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -824,6 +871,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2626" : {
+      "info_box" : false,
+      "name" : "future",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2630" : {
       "info_box" : false,
       "name" : "Earth",
@@ -840,13 +895,37 @@
       "verified" : false,
       "weight" : 100
     },
+    "2648" : {
+      "info_box" : false,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2651" : {
+      "info_box" : false,
+      "name" : "absurdist humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2655" : {
       "info_box" : false,
       "name" : "parody",
       "parent_tag_id" : 2853,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 200
     },
     "2672" : {
       "info_box" : false,
@@ -855,6 +934,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2786" : {
+      "info_box" : false,
+      "name" : "love polygon",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2790" : {
       "info_box" : false,
@@ -880,6 +983,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2820" : {
+      "info_box" : false,
+      "name" : "wardrobe malfunction",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2826" : {
+      "info_box" : false,
+      "name" : "pantsu",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2834" : {
       "info_box" : false,
       "name" : "Asia",
@@ -888,9 +1007,25 @@
       "verified" : false,
       "weight" : 600
     },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2846" : {
       "info_box" : false,
       "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
       "parent_tag_id" : 7050,
       "spoiler" : false,
       "verified" : false,
@@ -903,6 +1038,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2858" : {
       "info_box" : false,
@@ -919,6 +1062,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2881" : {
       "info_box" : false,
@@ -943,6 +1094,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3209" : {
       "info_box" : false,
       "name" : "table tennis",
@@ -950,6 +1109,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "3265" : {
+      "info_box" : false,
+      "name" : "death is cheap",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "3792" : {
       "info_box" : false,
@@ -967,6 +1134,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3934" : {
+      "info_box" : false,
+      "name" : "non-linear",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4131" : {
       "info_box" : false,
       "name" : "cultural references",
@@ -974,6 +1149,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4413" : {
+      "info_box" : false,
+      "name" : "heaven",
+      "parent_tag_id" : 6563,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "4474" : {
       "info_box" : false,
@@ -991,10 +1174,58 @@
       "verified" : false,
       "weight" : 0
     },
+    "4663" : {
+      "info_box" : false,
+      "name" : "tone changes",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5227" : {
+      "info_box" : false,
+      "name" : "alternating animation style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5485" : {
+      "info_box" : false,
+      "name" : "penis jokes",
+      "parent_tag_id" : 7199,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5518" : {
+      "info_box" : false,
+      "name" : "flat chest jokes",
+      "parent_tag_id" : 7199,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5697" : {
       "info_box" : false,
       "name" : "randomness",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5835" : {
+      "info_box" : false,
+      "name" : "Gainax bounce",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1045,6 +1276,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6233" : {
       "info_box" : false,
       "name" : "tropes",
@@ -1053,6 +1292,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6399" : {
+      "info_box" : false,
+      "name" : "episodic",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6563" : {
+      "info_box" : false,
+      "name" : "spirit realm",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "7050" : {
       "info_box" : false,
       "name" : "speculative fiction",
@@ -1060,6 +1323,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7199" : {
+      "info_box" : false,
+      "name" : "sexual humour",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7885" : {
       "info_box" : false,

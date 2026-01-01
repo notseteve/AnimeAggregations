@@ -6,10 +6,6 @@
       "name" : "Arel",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 148390,
-      "name" : "Lilia",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 148389,
       "name" : "Raina",
       "type" : "CHARACTER"
@@ -37,6 +33,10 @@
     }, {
       "character_id" : 150823,
       "name" : "Leon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 148390,
+      "name" : "Lilia",
       "type" : "CHARACTER"
     }, {
       "character_id" : 150822,
@@ -87,8 +87,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.72,
-        "total" : 6
+        "rating" : 4.65,
+        "total" : 8
       },
       "recap" : false,
       "titles" : [ {
@@ -108,8 +108,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.01,
-        "total" : 4
+        "rating" : 4.82,
+        "total" : 6
       },
       "recap" : false,
       "titles" : [ {
@@ -129,8 +129,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.52,
-        "total" : 5
+        "rating" : 4.75,
+        "total" : 7
       },
       "recap" : false,
       "titles" : [ {
@@ -150,8 +150,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.21,
-        "total" : 4
+        "rating" : 5.71,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -171,8 +171,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.52,
-        "total" : 3
+        "rating" : 6.04,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -192,8 +192,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.56,
-        "total" : 2
+        "rating" : 4.5,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -213,8 +213,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.11,
-        "total" : 2
+        "rating" : 5.77,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -234,8 +234,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.56,
-        "total" : 2
+        "rating" : 5.44,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -255,8 +255,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 1.82,
-        "total" : 1
+        "rating" : 3.18,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -275,6 +275,10 @@
       "episode_id" : 304455,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 4.37,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -292,6 +296,10 @@
       "episode_id" : 304456,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 3.65,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -309,22 +317,32 @@
       "episode_id" : 304457,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 2.36,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jokou no Koukoku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "The Empress` Empire"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "女皇の皇国"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.12,
-      "total" : 58
+      "rating" : 2.56,
+      "total" : 189
     },
     "TEMPORARY" : {
-      "rating" : 5.1,
-      "total" : 58
+      "rating" : 5.15,
+      "total" : 191
     }
   },
   "resources" : {
@@ -542,6 +560,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Hero Without A Class: Who Even Needs Skills?!",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "无职英雄：技能什么的毫无用处",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

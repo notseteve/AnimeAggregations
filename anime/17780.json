@@ -1,9 +1,55 @@
 {
   "anime_id" : 17780,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 22303,
+      "name" : "Hanako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 22315,
+      "name" : "Joy",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 22314,
+      "name" : "Junsaa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 22301,
+      "name" : "Ookido Shigeru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 12558,
+      "name" : "Ookido Yukinari-hakase",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
+      "character_id" : 8091,
+      "name" : "Pikachu (Satoshi)",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 6693,
       "name" : "Satoshi",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 16389,
+      "name" : "Kasumi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 2611,
+      "name" : "Kojirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 1937,
+      "name" : "Musashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 1938,
+      "name" : "Nyarth (Rocket-dan)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 16390,
+      "name" : "Takeshi",
       "type" : "CHARACTER"
     } ]
   },
@@ -329,6 +375,59 @@
   },
   "start_date" : "2023-01-13",
   "tags" : {
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2800" : {
+      "info_box" : true,
+      "name" : "game",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2850" : {
+      "info_box" : true,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

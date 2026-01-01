@@ -320,13 +320,17 @@
       "episode_id" : 304690,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
-        "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Bacchanales"
-      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Bacchanale"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bacchanale"
       }, {
         "language" : "JAPANESE",
         "title" : "バッカナール"
@@ -337,10 +341,14 @@
       "episode_id" : 304691,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Identity"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Rashisa"
@@ -354,10 +362,20 @@
       "episode_id" : 304692,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Present"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Present"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "プレゼント"
       } ],
       "type" : "REGULAR"
     }, {
@@ -368,19 +386,75 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Choir"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gasshou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "合唱"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-04",
+      "episode_id" : 305806,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Asagiri"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Morning Mist"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "朝霧"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-11",
+      "episode_id" : 305807,
+      "length" : 25,
+      "number" : 14,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 14"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-18",
+      "episode_id" : 305808,
+      "length" : 25,
+      "number" : 15,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 15"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-25",
+      "episode_id" : 305809,
+      "length" : 25,
+      "number" : 16,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 16"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.06,
-      "total" : 10
+      "rating" : 8.28,
+      "total" : 17
     },
     "TEMPORARY" : {
-      "rating" : 7.6,
-      "total" : 10
+      "rating" : 8.0,
+      "total" : 17
     }
   },
   "related" : {
@@ -399,6 +473,21 @@
   },
   "start_date" : "2025-10-05",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

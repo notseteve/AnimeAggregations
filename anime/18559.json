@@ -99,7 +99,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.72,
+        "rating" : 7.7,
         "total" : 2
       },
       "recap" : false,
@@ -118,7 +118,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.78,
+        "rating" : 6.77,
         "total" : 2
       },
       "recap" : false,
@@ -137,7 +137,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.81,
+        "rating" : 3.77,
         "total" : 2
       },
       "recap" : false,
@@ -156,7 +156,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.0,
+        "rating" : 2.96,
         "total" : 2
       },
       "recap" : false,
@@ -175,7 +175,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 2.38,
+        "rating" : 2.35,
         "total" : 2
       },
       "recap" : false,
@@ -194,7 +194,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.88,
+        "rating" : 6.87,
         "total" : 1
       },
       "recap" : false,
@@ -213,7 +213,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 3.14,
+        "rating" : 3.13,
         "total" : 1
       },
       "recap" : false,
@@ -232,7 +232,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.88,
+        "rating" : 6.87,
         "total" : 1
       },
       "recap" : false,
@@ -261,10 +261,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-06",
+      "description" : "The group travels to the Great Mountain Wall and prepares to launch an attack against the Abyss King.\nSource: Crunchyroll",
       "episode_id" : 304981,
       "length" : 25,
       "number" : 10,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX2K5G" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 10"
@@ -272,10 +276,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-13",
+      "description" : "Satou`s group steels their resolve and invades the Abyss King`s castle to begin their final battle.\nSource: Crunchyroll",
       "episode_id" : 304982,
       "length" : 25,
       "number" : 11,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMNVWJ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 11"
@@ -283,10 +291,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-20",
+      "description" : "Satou and the princesses fight the Abyss King and the forces of the Abyss.\nSource: Crunchyroll",
       "episode_id" : 304983,
       "length" : 25,
       "number" : 12,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUWZ13X" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 12"
@@ -325,12 +337,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.79,
-      "total" : 14
+      "rating" : 3.71,
+      "total" : 16
     },
     "TEMPORARY" : {
-      "rating" : 5.42,
-      "total" : 14
+      "rating" : 5.76,
+      "total" : 17
     }
   },
   "related" : {
@@ -350,12 +362,42 @@
   },
   "start_date" : "2025-10-04",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2748" : {
+      "info_box" : true,
+      "name" : "sex",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2798" : {
       "info_box" : true,
@@ -365,9 +407,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "3843" : {
+      "info_box" : false,
+      "name" : "saving the world",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

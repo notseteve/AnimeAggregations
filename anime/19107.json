@@ -112,7 +112,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.56,
+        "rating" : 3.55,
         "total" : 1
       },
       "recap" : false,
@@ -131,7 +131,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.04,
+        "rating" : 7.02,
         "total" : 2
       },
       "recap" : false,
@@ -150,7 +150,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.05,
+        "rating" : 5.03,
         "total" : 2
       },
       "recap" : false,
@@ -169,7 +169,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.58,
+        "rating" : 7.6,
         "total" : 2
       },
       "recap" : false,
@@ -202,12 +202,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-02",
+      "description" : "Mari and Tsunagu spend some time together in the town of beastfolk.\nSource: Crunchyroll",
       "episode_id" : 304218,
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.38,
-        "total" : 1
+        "rating" : 9.52,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -220,10 +221,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-09",
+      "description" : "Mari has doubts that she`s attractive and someone from the school paper wants to interview Tsunagu.\nSource: Crunchyroll",
       "episode_id" : 305288,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 5.03,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362326JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 9"
@@ -231,10 +240,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-16",
+      "description" : "The school festival begins and Kisara comes to visit.\nSource: Crunchyroll",
       "episode_id" : 305289,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 8.84,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362328JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 10"
@@ -245,7 +262,14 @@
       "episode_id" : 305290,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 3.55,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362330JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 11"
@@ -307,12 +331,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.82,
-      "total" : 23
+      "rating" : 3.88,
+      "total" : 24
     },
     "TEMPORARY" : {
-      "rating" : 4.93,
-      "total" : 24
+      "rating" : 5.06,
+      "total" : 25
     }
   },
   "resources" : {
@@ -329,12 +353,81 @@
   },
   "start_date" : "2025-10-14",
   "tags" : {
+    "7" : {
+      "info_box" : true,
+      "name" : "juujin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2043" : {
+      "info_box" : true,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2786" : {
+      "info_box" : false,
+      "name" : "love polygon",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2798" : {
       "info_box" : true,
@@ -344,9 +437,73 @@
       "verified" : false,
       "weight" : 0
     },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2888" : {
+      "info_box" : true,
+      "name" : "coming of age",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "4440" : {
+      "info_box" : false,
+      "name" : "boy meets girl",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4498" : {
+      "info_box" : false,
+      "name" : "heart-warming",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

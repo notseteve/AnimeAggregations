@@ -67,12 +67,87 @@
     } ]
   },
   "description" : "* Based on an action historical manga by http://anidb.net/cr21290 [Yasuda Tsuyoshi].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-12-20",
+      "episode_id" : 305848,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14UV4D8N" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bousou Rantou"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Wild Brawl"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "暴走乱闘"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2025-12-27",
+      "episode_id" : 305849,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hito no Michi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Path of Humanity"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "人の道"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-03",
+      "episode_id" : 305850,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-10",
+      "episode_id" : 305851,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.39,
+      "total" : 3
+    },
+    "TEMPORARY" : {
+      "rating" : 5.33,
+      "total" : 3
+    }
+  },
   "related" : {
     "PREQUEL" : [ 18193 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "402001" ],
     "ANN" : [ "35414" ],
+    "CRUNCHY_ROLL" : [ "GXJHM3GP8" ],
     "MAL" : [ "61333" ],
+    "SYOBOI" : [ "7671" ],
     "TWITTER" : [ "miburo_anime" ],
     "WEBSITE" : [ "https://miburoanime.com/" ],
     "WIKIPEDIA_EN" : [ "The_Blue_Wolves_of_Mibu" ],
@@ -101,12 +176,16 @@
     "title" : "Ao no Miburo: Serizawa Ansatsu Hen",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Blue Miburo: Serizawa Assassination",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "青のミブロ 芹沢暗殺編",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Blue Miburo: Serizawa Assassination",
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Ao no Miburo S2",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
