@@ -309,20 +309,23 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.26,
-      "total" : 17
+      "rating" : 7.74,
+      "total" : 15
     },
     "TEMPORARY" : {
-      "rating" : 6.38,
-      "total" : 17
+      "rating" : 7.23,
+      "total" : 15
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 19794 ]
   },
   "resources" : {
     "BAIDU_BAIKE" : [ "剑来/58257276" ],
     "BANGUMI" : [ "345825" ],
     "DOUBAN" : [ "35639781" ],
     "MAL" : [ "59389" ],
-    "STREAM" : [ "https://v.qq.com/x/cover/mzc0020072zgk61/t4100wuibew.html" ],
+    "STREAM" : [ "https://v.qq.com/x/cover/mzc0020072zgk61/t4100wuibew.html", "https://wetv.vip/en/album/4ewnyu4xzukwknv" ],
     "TMDB" : [ "tv/259537" ]
   },
   "start_date" : "2024-08-15",
@@ -349,12 +352,20 @@
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
-    "title" : "Sword of Coming",
+    "title" : "The Swords",
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "剑来",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Sword of Coming",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "The Sword Comes",
+    "type" : "SYNONYM"
   } ],
   "type" : "WEB"
 }

@@ -849,7 +849,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 9.49,
+        "rating" : 9.5,
         "total" : 48
       },
       "recap" : false,
@@ -917,7 +917,7 @@
       "length" : 25,
       "number" : 14,
       "rating" : {
-        "rating" : 9.23,
+        "rating" : 9.24,
         "total" : 43
       },
       "recap" : false,
@@ -1608,7 +1608,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.97,
-      "total" : 10187
+      "total" : 10189
     },
     "REVIEW" : {
       "rating" : 8.42,
@@ -1616,7 +1616,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.68,
-      "total" : 10375
+      "total" : 10377
     }
   },
   "related" : {
@@ -1678,8 +1678,8 @@
       "total" : 14
     },
     "5787" : {
-      "rating" : 9.153094462540716,
-      "total" : 307
+      "rating" : 9.155844155844155,
+      "total" : 308
     },
     "7233" : {
       "rating" : 1.875,
@@ -1751,10 +1751,25 @@
       "verified" : false,
       "weight" : 400
     },
+    "1396" : {
+      "info_box" : false,
+      "name" : "immortality",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1802" : {
       "info_box" : true,
       "name" : "seinen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1865,6 +1880,38 @@
       "verified" : false,
       "weight" : 600
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2779" : {
+      "info_box" : false,
+      "name" : "multiple couples",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -1921,6 +1968,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2874" : {
       "info_box" : false,
       "name" : "disaster",
@@ -1943,7 +2006,7 @@
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 100
     },
     "2883" : {
       "info_box" : false,
@@ -1976,6 +2039,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3086" : {
+      "info_box" : false,
+      "name" : "parricide",
+      "parent_tag_id" : 4316,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3148" : {
       "info_box" : false,
       "name" : "open-ended",
@@ -2000,6 +2071,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3378" : {
+      "info_box" : false,
+      "name" : "redemption",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3394" : {
       "info_box" : false,
       "name" : "environmentalism",
@@ -2012,6 +2091,14 @@
       "info_box" : false,
       "name" : "mythology",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3663" : {
+      "info_box" : false,
+      "name" : "body takeover",
+      "parent_tag_id" : 6347,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -2064,6 +2151,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "3934" : {
+      "info_box" : false,
+      "name" : "non-linear",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3941" : {
+      "info_box" : false,
+      "name" : "flood",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3977" : {
       "info_box" : false,
       "name" : "dialogue driven",
@@ -2088,6 +2191,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4498" : {
       "info_box" : false,
       "name" : "heart-warming",
@@ -2104,6 +2223,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4558" : {
+      "info_box" : false,
+      "name" : "long time span",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4570" : {
       "info_box" : false,
       "name" : "watercolour style",
@@ -2111,6 +2238,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4656" : {
+      "info_box" : false,
+      "name" : "infidelity",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4669" : {
+      "info_box" : false,
+      "name" : "parenting",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "4753" : {
       "info_box" : false,
@@ -2124,6 +2283,22 @@
       "info_box" : false,
       "name" : "superstition",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5213" : {
+      "info_box" : false,
+      "name" : "the effects of time and distance on human relationships",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5459" : {
+      "info_box" : false,
+      "name" : "poverty",
+      "parent_tag_id" : 6243,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -2152,10 +2327,26 @@
       "verified" : false,
       "weight" : 200
     },
+    "5768" : {
+      "info_box" : false,
+      "name" : "intact family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5781" : {
       "info_box" : false,
       "name" : "exorcism",
       "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5792" : {
+      "info_box" : false,
+      "name" : "gangs",
+      "parent_tag_id" : 2872,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -2184,6 +2375,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5973" : {
+      "info_box" : false,
+      "name" : "agriculture",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6018" : {
       "info_box" : false,
       "name" : "predominantly adult cast",
@@ -2196,6 +2395,14 @@
       "info_box" : false,
       "name" : "human - non-human relationship",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6068" : {
+      "info_box" : false,
+      "name" : "human sacrifice",
+      "parent_tag_id" : 6242,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -2230,6 +2437,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6185" : {
       "info_box" : false,
       "name" : "season",
@@ -2238,10 +2453,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6230" : {
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6243" : {
+      "info_box" : false,
+      "name" : "money",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -2262,6 +2501,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6332" : {
+      "info_box" : false,
+      "name" : "famine",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6347" : {
+      "info_box" : false,
+      "name" : "body and host",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6399" : {
       "info_box" : false,
       "name" : "episodic",
@@ -2269,6 +2532,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6563" : {
+      "info_box" : false,
+      "name" : "spirit realm",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6972" : {
+      "info_box" : false,
+      "name" : "volcanic eruption",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7050" : {
       "info_box" : false,
@@ -2298,6 +2577,13 @@
       "info_box" : false,
       "name" : "Japanese production",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8236" : {
+      "info_box" : false,
+      "name" : "landslide",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

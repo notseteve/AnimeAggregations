@@ -1,5 +1,57 @@
 {
   "anime_id" : 18869,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 153003,
+      "name" : "Gino",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153010,
+      "name" : "Heri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152999,
+      "name" : "Ian",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153004,
+      "name" : "Jaka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153009,
+      "name" : "Noa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153002,
+      "name" : "Shion",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153006,
+      "name" : "Solon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153005,
+      "name" : "Sooha",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 153000,
+      "name" : "Engie",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153001,
+      "name" : "Khan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153008,
+      "name" : "Najak",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153007,
+      "name" : "Taher",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "677" : [ {
       "name" : "Machida Touko",
@@ -26,10 +78,88 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-01-10",
+      "episode_id" : 306414,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366126JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Neumond"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "New Moon -出会い-"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "New Moon: Deai"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "New Moon: Meeting"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-17",
+      "episode_id" : 306415,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "Crescent Moon -塀を越えた狼たち-"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Crescent Moon: Hei o Koeta Ookami-tachi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Crescent Moon: The Wolves Who Climbed over the Wall"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-24",
+      "episode_id" : 306416,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-31",
+      "episode_id" : 306417,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.26,
+      "total" : 3
+    },
+    "TEMPORARY" : {
+      "rating" : 3.66,
+      "total" : 3
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "402358" ],
+    "ANISON" : [ "26302" ],
     "ANN" : [ "33548" ],
+    "CRUNCHY_ROLL" : [ "GT00365556" ],
     "MAL" : [ "59853" ],
+    "SYOBOI" : [ "7725" ],
     "TWITTER" : [ "DARKMOON_TBA" ],
     "WEBSITE" : [ "https://darkmoon-tba.com/" ],
     "WIKIPEDIA_EN" : [ "Dark_Moon:_The_Blood_Altar" ]
@@ -60,6 +190,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "1760" : {
+      "info_box" : true,
+      "name" : "bishounen",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
@@ -77,6 +215,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -190,6 +335,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Dark Moon - Tsuki no Saidan",
     "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

@@ -526,7 +526,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 9.6,
-      "total" : 2658
+      "total" : 2661
     },
     "REVIEW" : {
       "rating" : 6.61,
@@ -534,7 +534,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.65,
-      "total" : 2683
+      "total" : 2686
     }
   },
   "related" : {
@@ -582,6 +582,13 @@
       "info_box" : true,
       "name" : "seinen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -692,6 +699,38 @@
       "verified" : false,
       "weight" : 300
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2776" : {
+      "info_box" : false,
+      "name" : "parasite",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -740,9 +779,33 @@
       "verified" : false,
       "weight" : 500
     },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2875" : {
       "info_box" : false,
       "name" : "ecology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2876" : {
+      "info_box" : false,
+      "name" : "religion",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
@@ -772,9 +835,25 @@
       "verified" : false,
       "weight" : 200
     },
+    "2924" : {
+      "info_box" : false,
+      "name" : "earthquake",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2983" : {
+      "info_box" : false,
+      "name" : "body sharing",
+      "parent_tag_id" : 6347,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -783,6 +862,14 @@
       "info_box" : false,
       "name" : "male protagonist",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3086" : {
+      "info_box" : false,
+      "name" : "parricide",
+      "parent_tag_id" : 4316,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -803,6 +890,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3285" : {
+      "info_box" : false,
+      "name" : "journey",
+      "parent_tag_id" : 2850,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3394" : {
       "info_box" : false,
       "name" : "environmentalism",
@@ -819,6 +914,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3606" : {
+      "info_box" : false,
+      "name" : "family without father",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3683" : {
       "info_box" : false,
       "name" : "storytelling",
@@ -826,6 +929,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "3869" : {
       "info_box" : false,
@@ -839,6 +950,14 @@
       "info_box" : false,
       "name" : "folklore",
       "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3941" : {
+      "info_box" : false,
+      "name" : "flood",
+      "parent_tag_id" : 2874,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -859,6 +978,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4479" : {
       "info_box" : false,
       "name" : "sense of foreboding",
@@ -875,6 +1010,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4558" : {
+      "info_box" : false,
+      "name" : "long time span",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4570" : {
       "info_box" : false,
       "name" : "watercolour style",
@@ -882,6 +1025,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "4614" : {
       "info_box" : false,
@@ -899,6 +1050,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "5459" : {
+      "info_box" : false,
+      "name" : "poverty",
+      "parent_tag_id" : 6243,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5466" : {
+      "info_box" : false,
+      "name" : "epidemic",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "5585" : {
       "info_box" : false,
       "name" : "curse",
@@ -907,6 +1074,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "5768" : {
+      "info_box" : false,
+      "name" : "intact family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5781" : {
       "info_box" : false,
       "name" : "exorcism",
@@ -914,6 +1089,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "5790" : {
+      "info_box" : false,
+      "name" : "family without mother",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5838" : {
+      "info_box" : false,
+      "name" : "fire",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "5884" : {
       "info_box" : false,
@@ -938,6 +1129,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6028" : {
+      "info_box" : false,
+      "name" : "Shintoism",
+      "parent_tag_id" : 2876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "6050" : {
       "info_box" : false,
@@ -985,10 +1184,50 @@
       "verified" : false,
       "weight" : 0
     },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6230" : {
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6243" : {
+      "info_box" : false,
+      "name" : "money",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1001,6 +1240,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6347" : {
+      "info_box" : false,
+      "name" : "body and host",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6399" : {
       "info_box" : false,
       "name" : "episodic",
@@ -1008,6 +1263,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6563" : {
+      "info_box" : false,
+      "name" : "spirit realm",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7050" : {
       "info_box" : false,

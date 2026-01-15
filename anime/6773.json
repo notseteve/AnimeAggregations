@@ -283,7 +283,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.39,
+        "rating" : 6.38,
         "total" : 10
       },
       "recap" : false,
@@ -333,7 +333,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.47,
+        "rating" : 6.46,
         "total" : 9
       },
       "recap" : false,
@@ -565,7 +565,7 @@
       "length" : 1,
       "number" : 5,
       "rating" : {
-        "rating" : 5.28,
+        "rating" : 5.27,
         "total" : 2
       },
       "recap" : false,
@@ -594,7 +594,7 @@
       "length" : 1,
       "number" : 7,
       "rating" : {
-        "rating" : 5.28,
+        "rating" : 5.27,
         "total" : 2
       },
       "recap" : false,
@@ -609,7 +609,7 @@
       "length" : 1,
       "number" : 8,
       "rating" : {
-        "rating" : 5.79,
+        "rating" : 5.78,
         "total" : 2
       },
       "recap" : false,
@@ -837,7 +837,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.05,
-      "total" : 3997
+      "total" : 3999
     },
     "REVIEW" : {
       "rating" : 5.33,
@@ -845,7 +845,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.82,
-      "total" : 4039
+      "total" : 4041
     }
   },
   "resources" : {
@@ -864,16 +864,16 @@
   },
   "similar" : {
     "2478" : {
-      "rating" : 5.5,
-      "total" : 20
+      "rating" : 5.238095238095238,
+      "total" : 21
     },
     "6327" : {
-      "rating" : 2.682926829268293,
-      "total" : 41
+      "rating" : 2.8571428571428568,
+      "total" : 42
     },
     "7268" : {
-      "rating" : 3.1818181818181817,
-      "total" : 22
+      "rating" : 3.4782608695652173,
+      "total" : 23
     }
   },
   "start_date" : "2010-01-07",
@@ -921,6 +921,14 @@
       "info_box" : false,
       "name" : "undead",
       "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1363" : {
+      "info_box" : false,
+      "name" : "breast fondling",
+      "parent_tag_id" : 2856,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1189,6 +1197,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -1196,6 +1212,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2821" : {
+      "info_box" : false,
+      "name" : "sudden naked girl appearance",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2826" : {
+      "info_box" : false,
+      "name" : "pantsu",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2828" : {
       "info_box" : false,
@@ -1244,6 +1276,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2852" : {
+      "info_box" : true,
+      "name" : "thriller",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2853" : {
       "info_box" : false,
@@ -1372,10 +1412,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "3276" : {
+      "info_box" : false,
+      "name" : "plot twists",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3395" : {
       "info_box" : false,
       "name" : "promise",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1408,6 +1464,14 @@
       "info_box" : false,
       "name" : "older female younger male",
       "parent_tag_id" : 6073,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3977" : {
+      "info_box" : false,
+      "name" : "dialogue driven",
+      "parent_tag_id" : 3683,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1460,6 +1524,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4227" : {
+      "info_box" : false,
+      "name" : "detailed landscapes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4246" : {
       "info_box" : false,
       "name" : "childhood promise",
@@ -1488,6 +1560,14 @@
       "info_box" : false,
       "name" : "boy meets girl",
       "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5227" : {
+      "info_box" : false,
+      "name" : "alternating animation style",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1673,6 +1753,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7220" : {
+      "info_box" : false,
+      "name" : "sexual abuse",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7221" : {
+      "info_box" : false,
+      "name" : "psychological sexual abuse",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "7222" : {
+      "info_box" : false,
+      "name" : "groping",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7885" : {
       "info_box" : false,

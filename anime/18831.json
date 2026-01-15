@@ -127,8 +127,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.37,
-        "total" : 8
+        "rating" : 6.83,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -158,8 +158,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.08,
-        "total" : 6
+        "rating" : 5.52,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -189,8 +189,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.67,
-        "total" : 7
+        "rating" : 6.85,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -220,8 +220,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.08,
-        "total" : 7
+        "rating" : 4.55,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -251,8 +251,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.21,
-        "total" : 5
+        "rating" : 3.59,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -282,8 +282,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.11,
-        "total" : 5
+        "rating" : 3.0,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -313,7 +313,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 1.93,
+        "rating" : 1.92,
         "total" : 4
       },
       "recap" : false,
@@ -344,7 +344,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.34,
+        "rating" : 3.33,
         "total" : 4
       },
       "recap" : false,
@@ -375,7 +375,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.19,
+        "rating" : 5.18,
         "total" : 3
       },
       "recap" : false,
@@ -437,8 +437,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 6.07,
-        "total" : 3
+        "rating" : 6.65,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -468,8 +468,8 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.44,
-        "total" : 3
+        "rating" : 7.66,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -496,12 +496,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.34,
-      "total" : 232
+      "rating" : 5.42,
+      "total" : 328
     },
     "TEMPORARY" : {
-      "rating" : 6.52,
-      "total" : 233
+      "rating" : 6.61,
+      "total" : 329
     }
   },
   "related" : {
@@ -525,12 +525,20 @@
       "total" : 11
     },
     "16069" : {
-      "rating" : 6.363636363636363,
+      "rating" : 5.454545454545454,
       "total" : 11
     }
   },
   "start_date" : "2025-09-27",
   "tags" : {
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
@@ -541,6 +549,27 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -598,6 +627,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2849" : {
       "info_box" : true,
       "name" : "fantasy",
@@ -605,6 +642,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2868" : {
+      "info_box" : false,
+      "name" : "racism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2877" : {
+      "info_box" : false,
+      "name" : "revenge",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2931" : {
       "info_box" : false,
@@ -621,6 +690,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3721" : {
+      "info_box" : false,
+      "name" : "RPG aspects",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4022" : {
       "info_box" : false,
       "name" : "strong female lead",
@@ -628,6 +705,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4167" : {
+      "info_box" : false,
+      "name" : "air combat",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "4611" : {
       "info_box" : false,
@@ -637,10 +722,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "5767" : {
+      "info_box" : false,
+      "name" : "Itano circus",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5851" : {
       "info_box" : false,
       "name" : "female protagonist",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6021" : {
+      "info_box" : false,
+      "name" : "gender bender",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -660,6 +761,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7050" : {
       "info_box" : false,
       "name" : "speculative fiction",
@@ -675,6 +784,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7905" : {
+      "info_box" : false,
+      "name" : "large breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     }
   },
   "titles" : [ {

@@ -268,7 +268,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.45,
+        "rating" : 5.44,
         "total" : 11
       },
       "recap" : false,
@@ -324,7 +324,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.21,
+        "rating" : 7.2,
         "total" : 9
       },
       "recap" : false,
@@ -352,7 +352,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.86,
+        "rating" : 4.85,
         "total" : 8
       },
       "recap" : false,
@@ -464,7 +464,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.23,
+        "rating" : 6.22,
         "total" : 10
       },
       "recap" : false,
@@ -492,7 +492,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 6.03,
+        "rating" : 6.02,
         "total" : 10
       },
       "recap" : false,
@@ -520,7 +520,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.89,
+        "rating" : 5.88,
         "total" : 10
       },
       "recap" : false,
@@ -576,7 +576,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.06,
+        "rating" : 7.05,
         "total" : 1
       },
       "recap" : true,
@@ -621,7 +621,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 3.17,
+        "rating" : 3.19,
         "total" : 2
       },
       "recap" : false,
@@ -636,7 +636,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 2.47,
+        "rating" : 2.48,
         "total" : 2
       },
       "recap" : false,
@@ -649,12 +649,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.22,
-      "total" : 625
+      "rating" : 7.2,
+      "total" : 651
     },
     "TEMPORARY" : {
-      "rating" : 7.44,
-      "total" : 629
+      "rating" : 7.43,
+      "total" : 655
     }
   },
   "resources" : {
@@ -697,6 +697,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -711,12 +718,43 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2614" : {
+      "info_box" : true,
+      "name" : "josei",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2653" : {
       "info_box" : false,
@@ -774,6 +812,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2867" : {
       "info_box" : false,
       "name" : "politics",
@@ -781,6 +827,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2931" : {
       "info_box" : false,
@@ -909,10 +963,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "5875" : {
+      "info_box" : false,
+      "name" : "jealousy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5935" : {
       "info_box" : false,
       "name" : "ass-kicking girls",
       "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5956" : {
+      "info_box" : false,
+      "name" : "broken friendship",
+      "parent_tag_id" : 2862,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

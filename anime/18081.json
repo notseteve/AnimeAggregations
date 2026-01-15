@@ -6,17 +6,41 @@
       "name" : "Asirpa",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 93150,
+      "name" : "Shiraishi Yoshitake",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 92502,
       "name" : "Sugimoto Saichi",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 127376,
+      "name" : "Ariko Rikimatsu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 94281,
       "name" : "Hijikata Toshizou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 132616,
+      "name" : "Ishikawa Takuboku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 99542,
+      "name" : "Kadokura Toshiyuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132511,
+      "name" : "Kirawus",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 98532,
       "name" : "Koito Otonoshin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132991,
+      "name" : "Michael Ostrog",
       "type" : "CHARACTER"
     }, {
       "character_id" : 94286,
@@ -35,8 +59,8 @@
       "name" : "Oosawa Fusatarou",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 93150,
-      "name" : "Shiraishi Yoshitake",
+      "character_id" : 112993,
+      "name" : "Toni Anji",
       "type" : "CHARACTER"
     }, {
       "character_id" : 96247,
@@ -47,6 +71,10 @@
       "name" : "Tsurumi Tokushirou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 132407,
+      "name" : "Ueji Keiji",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 99516,
       "name" : "Usami Tokishige",
       "type" : "CHARACTER"
@@ -54,9 +82,36 @@
       "character_id" : 94283,
       "name" : "Ushiyama Tatsuuma",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 127375,
+      "name" : "Vasily Pavlichenko",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
+    "982" : [ {
+      "name" : "Brain`s Base",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "2435" : [ {
+      "name" : "Suehiro Ken`ichirou",
+      "type" : "MUSIC"
+    } ],
+    "7428" : [ {
+      "name" : "Takagi Noboru",
+      "type" : "SERIES_COMPOSITION"
+    } ],
+    "19293" : [ {
+      "name" : "Sugahara Shizutaka",
+      "type" : "CHIEF_DIRECTOR"
+    } ],
+    "29417" : [ {
+      "name" : "Yamakawa Takumi",
+      "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Yamakawa Takumi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "51117" : [ {
       "name" : "Noda Satoru",
       "type" : "ORIGINAL_WORK"
@@ -66,13 +121,27 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-05",
+      "description" : "The different groups collide in Sapporo as a Jack the Ripper copycat is on the loose.\nSource: Crunchyroll",
       "episode_id" : 306001,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.72,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9EJG3" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saikai no Machi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Town of Reunions"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "再会の街"
       } ],
       "type" : "REGULAR"
     }, {
@@ -83,7 +152,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Send up the Fireworks"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Uchiage Hanabi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "打ち上げ花火"
       } ],
       "type" : "REGULAR"
     }, {
@@ -110,10 +185,23 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.12,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 6.44,
+      "total" : 9
+    }
+  },
   "related" : {
-    "PREQUEL" : [ 19475 ]
+    "PREQUEL" : [ 17023, 19475 ]
   },
   "resources" : {
+    "ANISON" : [ "21059" ],
+    "ANN" : [ "37046" ],
+    "CRUNCHY_ROLL" : [ "GY8DWQN5Y" ],
     "MAL" : [ "55772" ],
     "SYOBOI" : [ "7656" ],
     "TWITTER" : [ "kamuy_anime" ],
@@ -151,6 +239,10 @@
     "language" : "JAPANESE",
     "title" : "ゴールデンカムイ 最終章",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Golden Kamuy Season 5",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://kamuy-anime.com/"

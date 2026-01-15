@@ -7,7 +7,7 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 3.41,
+        "rating" : 3.4,
         "total" : 1
       },
       "recap" : false,
@@ -34,12 +34,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.2,
-      "total" : 11
+      "rating" : 3.32,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 5.36,
-      "total" : 11
+      "rating" : 5.21,
+      "total" : 14
     }
   },
   "resources" : {
@@ -86,9 +86,24 @@
       "verified" : false,
       "weight" : 600
     },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6494" : {
+      "info_box" : true,
+      "name" : "half-length episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

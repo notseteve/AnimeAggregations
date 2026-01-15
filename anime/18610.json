@@ -9,6 +9,27 @@
       "character_id" : 150731,
       "name" : "Takumi Asa",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 152860,
+      "name" : "Daigo Nana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152859,
+      "name" : "Kasamachi Shingo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152857,
+      "name" : "Koudai Minori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152858,
+      "name" : "Nara Emiri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152856,
+      "name" : "Touno Kazunari",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -19,6 +40,9 @@
     "6065" : [ {
       "name" : "Hayama Kenji",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Hayama Kenji",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "21223" : [ {
       "name" : "Ooshiro Miyuki",
@@ -37,17 +61,31 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "Note: The first two episodes received an early screening at a special event on 2 December 2025 at Grand Cinema Sunshine Ikebukuro in Tokyo. The regular TV broadcast started in January 2026.",
+  "description" : "Reclusive novelist http://anidb.net/ch150732 [Koudai Makio] has always preferred the company of books—but when her sister and brother-in-law pass away, Makio unexpectedly becomes the guardian of her 15-year-old niece, http://anidb.net/ch150731 [Takumi Asa]. As they navigate grief, clashing personalities, and the challenges of living together, the two slowly open their hearts to each other, discovering warmth, understanding, and the meaning of family.\nSource: Crunchyroll\nNote: The first two episodes received an early screening at a special event on 2 December 2025 at Grand Cinema Sunshine Ikebukuro in Tokyo. The regular TV broadcast started on 4 January 2026.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-04",
+      "description" : "When 15-year-old Asa loses her parents to an accident, she`s taken in by her strange aunt, Makio.\nSource: Crunchyroll",
       "episode_id" : 305856,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.11,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366221JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Afureru"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Overflow"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "溢[あふ]れる"
       } ],
       "type" : "REGULAR"
     }, {
@@ -83,17 +121,53 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-04",
+      "episode_id" : 306767,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-04",
+      "episode_id" : 306768,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.69,
+      "total" : 10
+    },
+    "TEMPORARY" : {
+      "rating" : 6.1,
+      "total" : 10
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "402147" ],
+    "ANISON" : [ "26243" ],
     "ANN" : [ "32711" ],
+    "CRUNCHY_ROLL" : [ "GT00365571" ],
     "MAL" : [ "58788" ],
     "SYOBOI" : [ "7668" ],
     "TWITTER" : [ "ikoku_anime" ],
     "WEBSITE" : [ "https://ikoku-anime.com/" ],
-    "WIKIPEDIA_EN" : [ "Ikoku_Nikki" ],
-    "WIKIPEDIA_JP" : [ "違国日記" ]
+    "WIKIPEDIA_EN" : [ "Journal_with_Witch" ],
+    "WIKIPEDIA_JP" : [ "違国日記" ],
+    "YOUTUBE" : [ "watch?v=fyzUQiDSXqs", "watch?v=g_nDJVMvSD8" ]
   },
   "start_date" : "2026-01-04",
   "tags" : {
@@ -117,6 +191,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Ikoku Nikki",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Journal with Witch",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "違国日記",

@@ -2028,16 +2028,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.49,
-      "total" : 478
+      "rating" : 5.48,
+      "total" : 481
     },
     "REVIEW" : {
       "rating" : 4.5,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.57,
-      "total" : 483
+      "rating" : 6.58,
+      "total" : 486
     }
   },
   "resources" : {
@@ -2069,6 +2069,29 @@
       "verified" : false,
       "weight" : 0
     },
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2069" : {
+      "info_box" : false,
+      "name" : "delinquent",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
@@ -2090,6 +2113,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2669" : {
+      "info_box" : false,
+      "name" : "school clubs",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2760" : {
       "info_box" : true,
       "name" : "basketball",
@@ -2106,6 +2137,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2881" : {
       "info_box" : true,
       "name" : "sports",
@@ -2114,9 +2153,41 @@
       "verified" : false,
       "weight" : 600
     },
+    "3759" : {
+      "info_box" : false,
+      "name" : "teamwork",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4251" : {
+      "info_box" : false,
+      "name" : "ensemble cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5823" : {
+      "info_box" : false,
+      "name" : "predominantly male cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

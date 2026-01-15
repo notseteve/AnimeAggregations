@@ -1,6 +1,15 @@
 {
   "anime_id" : 19402,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 113606,
+      "name" : "Makihara Kozue",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131633,
+      "name" : "Shijou Mikado",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 99202,
       "name" : "Shinomiya Kaguya",
@@ -25,6 +34,26 @@
     }, {
       "character_id" : 100281,
       "name" : "Ishigami Yuu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 100277,
+      "name" : "Kashiwagi Nagisa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 100614,
+      "name" : "Shijou Maki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 100280,
+      "name" : "Shirogane Kei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 100279,
+      "name" : "Shirogane no Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 109525,
+      "name" : "Tanuma Tsubasa",
       "type" : "CHARACTER"
     } ]
   },
@@ -58,26 +87,139 @@
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
-  "description" : "* Based on a romantic comedy seinen manga by http://anidb.net/cr55229 [Akasaka Aka].",
+  "description" : "* Based on a romantic comedy seinen manga by http://anidb.net/cr55229 [Akasaka Aka].\nNote: The TV special received an early screening at a special event on 28 December 2025 at Chayamachi Plaza Stage in Osaka. The regular TV broadcast started on 31 December 2025.",
   "end_date" : "2025-12-31",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-12-31",
       "episode_id" : 305761,
-      "length" : 0,
+      "length" : 55,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "TV Special"
+        "title" : "Chika Fujiwara Wants to Surprise / Miyuki Shirogane Wants to Talk / Kaguya Shinomiya`s Impossible Task / The ABCs of Men and Women / Kaguya Wants to Talk / Kaguya Wants to See Them Off"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fujiwara Chika wa Odorokasetai / Shirogane Miyuki wa Hanashitai / Shinomiya Kaguya no Murinandai / Otoko to Onna no ABC / Kaguya-sama wa Hanashitai / Kaguya-sama wa Miokuritai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "藤原千花は驚かせたい / 白銀御行は話したい / 四宮かぐやの無理難題 / 男と女のABC / かぐや様は話したい / かぐや様は見送りたい"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-12-31",
+      "episode_id" : 306567,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2025-12-31",
+      "episode_id" : 306568,
+      "length" : 3,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1a"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-01",
+      "episode_id" : 306577,
+      "length" : 2,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1b"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-01",
+      "episode_id" : 306578,
+      "length" : 2,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending 1c"
+      } ],
+      "type" : "CREDITS"
+    } ],
+    "OTHER" : [ {
+      "air_date" : "2026-01-01",
+      "episode_id" : 306564,
+      "length" : 30,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.81,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU78X9N" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Chika Fujiwara Wants to Surprise / Miyuki Shirogane Wants to Talk / Kaguya Shinomiya`s Impossible Task"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fujiwara Chika wa Odorokasetai / Shirogane Miyuki wa Hanashitai / Shinomiya Kaguya no Murinandai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "藤原千花は驚かせたい / 白銀御行は話したい / 四宮かぐやの無理難題"
+      } ],
+      "type" : "OTHER"
+    }, {
+      "air_date" : "2026-01-01",
+      "episode_id" : 306565,
+      "length" : 30,
+      "number" : 2,
+      "rating" : {
+        "rating" : 3.3,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX29MM" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Otoko to Onna no ABC / Kaguya-sama wa Hanashitai / Kaguya-sama wa Miokuritai"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The ABCs of Men and Women / Kaguya Wants to Talk / Kaguya Wants to See Them Off"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "男と女のABC / かぐや様は話したい / かぐや様は見送りたい"
+      } ],
+      "type" : "OTHER"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 8.5,
+      "total" : 36
+    },
+    "TEMPORARY" : {
+      "rating" : 7.83,
+      "total" : 37
+    }
+  },
   "related" : {
-    "PREQUEL" : [ 17477 ]
+    "PREQUEL" : [ 17477 ],
+    "SEQUEL" : [ 19801 ]
   },
   "resources" : {
+    "ANN" : [ "36700" ],
+    "CRUNCHY_ROLL" : [ "GRJ0J828Y" ],
     "MAL" : [ "61903" ],
     "SYOBOI" : [ "7694" ],
     "TWITTER" : [ "anime_kaguya" ],
@@ -122,6 +264,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Kaguya-sama: Love Is War - Stairway to Adulthood",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "かぐや様は告らせたい 大人への階段",

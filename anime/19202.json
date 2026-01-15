@@ -104,8 +104,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.12,
-        "total" : 4
+        "rating" : 7.31,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -129,8 +129,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.12,
-        "total" : 4
+        "rating" : 7.31,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -154,8 +154,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.8,
-        "total" : 3
+        "rating" : 8.05,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -179,8 +179,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.29,
-        "total" : 3
+        "rating" : 9.02,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -204,8 +204,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.82,
-        "total" : 3
+        "rating" : 8.72,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -229,7 +229,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.15,
+        "rating" : 6.16,
         "total" : 3
       },
       "recap" : false,
@@ -279,7 +279,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.8,
+        "rating" : 7.81,
         "total" : 2
       },
       "recap" : false,
@@ -374,11 +374,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-21",
+      "description" : "The gang has an unexpected encounter at Futaba`s pub.\nSource: Crunchyroll",
       "episode_id" : 304653,
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 9.34,
+        "rating" : 9.35,
         "total" : 2
       },
       "recap" : false,
@@ -398,10 +399,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-28",
+      "description" : "Futaba`s rage towards her brother, Ichiyo, reaches it`s breaking point.\nSource: Crunchyroll",
       "episode_id" : 306128,
       "length" : 25,
       "number" : 13,
+      "rating" : {
+        "rating" : 9.35,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364971JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "I Will Fight, and Die, Against Shocker"
@@ -421,7 +430,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 14"
+        "title" : "I Want to Learn More About Humans"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Motto Ningen o Shiritai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "もっと人間を知りたい"
       } ],
       "type" : "REGULAR"
     }, {
@@ -450,12 +465,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.24,
-      "total" : 53
+      "rating" : 6.83,
+      "total" : 67
     },
     "TEMPORARY" : {
-      "rating" : 7.15,
-      "total" : 53
+      "rating" : 7.35,
+      "total" : 67
     }
   },
   "resources" : {
@@ -474,10 +489,73 @@
     "9967" : {
       "rating" : 10.0,
       "total" : 5
+    },
+    "11123" : {
+      "rating" : 3.333333333333333,
+      "total" : 3
     }
   },
   "start_date" : "2025-10-05",
   "tags" : {
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2056" : {
+      "info_box" : false,
+      "name" : "cosplaying",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2180" : {
+      "info_box" : false,
+      "name" : "cyborg",
+      "parent_tag_id" : 2636,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -485,10 +563,519 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2634" : {
+      "info_box" : false,
+      "name" : "countryside",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2636" : {
+      "info_box" : false,
+      "name" : "human enhancement",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2655" : {
+      "info_box" : true,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2751" : {
+      "info_box" : false,
+      "name" : "combat",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2826" : {
+      "info_box" : false,
+      "name" : "pantsu",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2854" : {
+      "info_box" : false,
+      "name" : "henshin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2893" : {
+      "info_box" : false,
+      "name" : "female teacher",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3196" : {
+      "info_box" : false,
+      "name" : "photographic backgrounds",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3206" : {
+      "info_box" : false,
+      "name" : "stop motion",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3276" : {
+      "info_box" : false,
+      "name" : "plot twists",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3315" : {
+      "info_box" : false,
+      "name" : "superhero",
+      "parent_tag_id" : 2623,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3378" : {
+      "info_box" : false,
+      "name" : "redemption",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3516" : {
+      "info_box" : false,
+      "name" : "insects of doom",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3718" : {
+      "info_box" : false,
+      "name" : "love between enemies",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3759" : {
+      "info_box" : false,
+      "name" : "teamwork",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3822" : {
+      "info_box" : false,
+      "name" : "strong male lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3863" : {
+      "info_box" : false,
+      "name" : "competition",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3992" : {
+      "info_box" : false,
+      "name" : "nostalgia",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4251" : {
+      "info_box" : false,
+      "name" : "ensemble cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4387" : {
+      "info_box" : false,
+      "name" : "good vs evil",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4474" : {
+      "info_box" : false,
+      "name" : "self-parody",
+      "parent_tag_id" : 2655,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4663" : {
+      "info_box" : false,
+      "name" : "tone changes",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "5285" : {
+      "info_box" : false,
+      "name" : "street fighting",
+      "parent_tag_id" : 3411,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5355" : {
+      "info_box" : false,
+      "name" : "tournament",
+      "parent_tag_id" : 3863,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5604" : {
+      "info_box" : false,
+      "name" : "following one`s dream",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5773" : {
+      "info_box" : false,
+      "name" : "secret organisation",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5792" : {
+      "info_box" : false,
+      "name" : "gangs",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5821" : {
+      "info_box" : false,
+      "name" : "sibling rivalry",
+      "parent_tag_id" : 5826,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5826" : {
+      "info_box" : false,
+      "name" : "rivalry",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5948" : {
+      "info_box" : false,
+      "name" : "visible aura",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5954" : {
+      "info_box" : false,
+      "name" : "call my name",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6019" : {
+      "info_box" : false,
+      "name" : "brainwashing",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6030" : {
+      "info_box" : false,
+      "name" : "otaku culture",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6086" : {
+      "info_box" : false,
+      "name" : "the power of love",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -499,6 +1086,54 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6248" : {
+      "info_box" : false,
+      "name" : "thievery",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7086" : {
+      "info_box" : false,
+      "name" : "soft science fiction",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "7872" : {
+      "info_box" : true,
+      "name" : "huge breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "7885" : {
       "info_box" : false,

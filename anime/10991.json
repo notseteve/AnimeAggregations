@@ -85,11 +85,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 9.47,
-      "total" : 1742
+      "total" : 1745
     },
     "TEMPORARY" : {
       "rating" : 8.51,
-      "total" : 1752
+      "total" : 1755
     }
   },
   "related" : {
@@ -135,6 +135,13 @@
       "info_box" : true,
       "name" : "seinen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -211,7 +218,7 @@
       "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
     },
     "2634" : {
       "info_box" : false,
@@ -245,6 +252,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -259,7 +282,7 @@
       "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
     },
     "2849" : {
       "info_box" : true,
@@ -388,10 +411,50 @@
       "verified" : false,
       "weight" : 0
     },
+    "4227" : {
+      "info_box" : false,
+      "name" : "detailed landscapes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4244" : {
+      "info_box" : false,
+      "name" : "healthcare and medicine",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4558" : {
+      "info_box" : false,
+      "name" : "long time span",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4570" : {
       "info_box" : false,
       "name" : "watercolour style",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -482,6 +545,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6230" : {
       "info_box" : false,
       "name" : "cast",
@@ -489,6 +568,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6563" : {
+      "info_box" : false,
+      "name" : "spirit realm",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7050" : {
       "info_box" : false,

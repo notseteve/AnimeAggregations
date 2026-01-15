@@ -1,6 +1,55 @@
 {
   "anime_id" : 18648,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 152779,
+      "name" : "Genta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152791,
+      "name" : "Hirako-sensei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152790,
+      "name" : "Kabaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152788,
+      "name" : "Kaidou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152780,
+      "name" : "Kawano",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152785,
+      "name" : "Morikawa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152781,
+      "name" : "Murata",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152782,
+      "name" : "Numano",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152784,
+      "name" : "Onomichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152783,
+      "name" : "Tsuneda",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152777,
+      "name" : "Yamashita",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152789,
+      "name" : "Zaitsu",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 148265,
       "name" : "Komiya",
@@ -8,6 +57,19 @@
     }, {
       "character_id" : 148264,
       "name" : "Togashi",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 152778,
+      "name" : "Asakusa Aoi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152787,
+      "name" : "Nigami Takeru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152786,
+      "name" : "Shiina Suzume",
       "type" : "CHARACTER"
     } ]
   },
@@ -41,8 +103,12 @@
     "REGULAR" : [ {
       "air_date" : "2025-09-19",
       "episode_id" : 295679,
-      "length" : 0,
+      "length" : 110,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.22,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -53,32 +119,80 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 9.6,
-      "total" : 8
+      "rating" : 9.06,
+      "total" : 51
     },
     "REVIEW" : {
       "rating" : 8.66,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 7.88,
-      "total" : 9
+      "rating" : 8.05,
+      "total" : 53
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "395376" ],
+    "ANISON" : [ "26091" ],
     "ANN" : [ "32760" ],
     "MAL" : [ "58919" ],
     "NETFLIX" : [ "81785821" ],
     "TWITTER" : [ "hyakuemu_anime" ],
     "WEBSITE" : [ "https://hyakuemu-anime.com/" ],
-    "WIKIPEDIA_EN" : [ "Hyakuemu" ]
+    "WIKIPEDIA_EN" : [ "Hyakuemu" ],
+    "WIKIPEDIA_JP" : [ "ひゃくえむ。" ]
   },
   "start_date" : "2025-09-19",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2753" : {
+      "info_box" : false,
+      "name" : "track and field",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2881" : {
+      "info_box" : true,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -101,8 +215,80 @@
     "title" : "100 Meters",
     "type" : "OFFICIAL"
   }, {
+    "language" : "GERMAN",
+    "title" : "100 Metres",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "PORTUGUESE_BRAZIL",
+    "title" : "100 Metros",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "FRENCH",
+    "title" : "100 MÈTRES",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CROATIAN",
+    "title" : "100 metara",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ITALIAN",
+    "title" : "100 metri - Hyakuemu",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "SPANISH",
+    "title" : "100 metros",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "SPANISH_LATIN",
+    "title" : "100 metros",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "VIETNAMESE",
+    "title" : "100 mét",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "HUNGARIAN",
+    "title" : "100 méter",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GREEK",
+    "title" : "100 Μέτρα",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "UKRAINIAN",
+    "title" : "100 метрів",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "HEBREW",
+    "title" : "100 מטר",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "THAI",
+    "title" : "100 เมตร",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "100미터",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CZECH",
+    "title" : "Běh do sebe",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ARABIC",
+    "title" : "‎100 متر",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ひゃくえむ.",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "一百公尺",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "百米。",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

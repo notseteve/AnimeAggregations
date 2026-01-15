@@ -66,8 +66,53 @@
       "type" : "CHARACTER_DESIGN"
     } ]
   },
-  "description" : "* Based on an action-adventure fantasy manga written by http://anidb.net/cr68714 [Yamada Kanehito] and drawn by http://anidb.net/cr68715 [Abe Tsukasa].",
+  "description" : "* Based on an action-adventure fantasy manga written by http://anidb.net/cr68714 [Yamada Kanehito] and drawn by http://anidb.net/cr68715 [Abe Tsukasa].\nNote: The first two episodes received an early screening at a special event on 11 January 2026 at TOHO Cinemas Roppongi Hills in Tokyo and 9 additional venues across Japan. The regular TV broadcast started on 16 January 2026.",
   "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-01-16",
+      "episode_id" : 306529,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-23",
+      "episode_id" : 306530,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-30",
+      "episode_id" : 306531,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-06",
+      "episode_id" : 306532,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2024-09-28",
       "episode_id" : 286767,
@@ -90,6 +135,16 @@
       } ],
       "type" : "PROMOTION"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 10.0,
+      "total" : 1
+    },
+    "TEMPORARY" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
   },
   "related" : {
     "PREQUEL" : [ 17617 ]

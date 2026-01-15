@@ -11,6 +11,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 139136,
+      "name" : "Anno Un",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 134708,
       "name" : "Apocalypse",
       "type" : "CHARACTER"
@@ -23,8 +27,40 @@
       "name" : "Billy",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 140848,
+      "name" : "Burn",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138518,
+      "name" : "Creed Deckard",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138517,
+      "name" : "Fan",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 134709,
       "name" : "Juice",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139390,
+      "name" : "Mico Vorgeil",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 134713,
+      "name" : "Nico Forgeir",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128732,
+      "name" : "Shen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143236,
+      "name" : "Spoil",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152799,
+      "name" : "Tella",
       "type" : "CHARACTER"
     } ]
   },
@@ -57,25 +93,54 @@
   "end_date" : "2025-12-26",
   "episodes" : {
     "REGULAR" : [ {
-      "air_date" : "2025-12-25",
+      "air_date" : "2025-12-26",
       "episode_id" : 284937,
-      "length" : 60,
+      "length" : 50,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.01,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "TV Special"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2025-12-26",
+      "episode_id" : 306313,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.38,
+      "total" : 33
+    },
+    "TEMPORARY" : {
+      "rating" : 6.65,
+      "total" : 33
+    }
+  },
   "related" : {
-    "PREQUEL" : [ 17586 ]
+    "PREQUEL" : [ 17586 ],
+    "SEQUEL" : [ 19793 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "401769" ],
+    "ANISON" : [ "25117" ],
     "ANN" : [ "33054" ],
     "MAL" : [ "59435" ],
+    "SYOBOI" : [ "7699" ],
     "TWITTER" : [ "undeadunluck_an" ],
     "WEBSITE" : [ "https://undead-unluck.net/" ],
     "WIKIPEDIA_EN" : [ "Undead_Unluck" ],

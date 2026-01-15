@@ -9,6 +9,39 @@
       "character_id" : 149467,
       "name" : "Youki",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 152904,
+      "name" : "Duke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152889,
+      "name" : "Happiness",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152890,
+      "name" : "Mikana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152891,
+      "name" : "Misaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152893,
+      "name" : "Raven",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152888,
+      "name" : "Seek",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152887,
+      "name" : "Shike",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152892,
+      "name" : "Yuuga",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -49,17 +82,31 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "Reincarnated as a mid-tier demon, http://anidb.net/ch149467 [Youki] had one job: Crush the hero`s party. Then he saw the party`s priestess, http://anidb.net/ch149466 [Cecilia], and fell for her hard. Now this lovestruck demon vows to confess his feelings, even if it means betraying the Demon King. Will love bloom between these two sworn enemies?\nSource: Crunchyroll",
+  "description" : "* Based on an isekai romantic comedy light novel series written by http://anidb.net/cr82150 [Suisei] and illustrated by http://anidb.net/cr60580 [La-na].\nReincarnated as a mid-tier demon, http://anidb.net/ch149467 [Youki] had one job: Crush the hero`s party. Then he saw the party`s priestess, http://anidb.net/ch149466 [Cecilia], and fell for her hard. Now this lovestruck demon vows to confess his feelings, even if it means betraying the Demon King. Will love bloom between these two sworn enemies?\nSource: Crunchyroll",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-06",
+      "description" : "A subordinate of the Demon King falls in love with a priestess in the hero`s party.\nSource: Crunchyroll",
       "episode_id" : 305884,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.74,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366389JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "I Tried Confessing"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kokuhaku Shite Mita."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "告白してみた."
       } ],
       "type" : "REGULAR"
     }, {
@@ -95,17 +142,42 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-06",
+      "episode_id" : 306773,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.12,
+      "total" : 19
+    },
+    "TEMPORARY" : {
+      "rating" : 4.65,
+      "total" : 19
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "402376" ],
+    "ANISON" : [ "26283" ],
     "ANN" : [ "36859" ],
+    "CRUNCHY_ROLL" : [ "GT00355229" ],
     "MAL" : [ "61983" ],
     "SYOBOI" : [ "7667" ],
     "TWITTER" : [ "yuukawa_anime" ],
     "WEBSITE" : [ "https://yuukawa-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Yūsha_Party_ni_Kawaii_Ko_ga_Ita_no_de,_Kokuhaku_Shite_Mita" ],
-    "WIKIPEDIA_JP" : [ "勇者パーティーにかわいい子がいたので、告白してみた。" ]
+    "WIKIPEDIA_JP" : [ "勇者パーティーにかわいい子がいたので、告白してみた。" ],
+    "YOUTUBE" : [ "watch?v=-KjRdQjMRes" ]
   },
   "start_date" : "2026-01-06",
   "tags" : {
@@ -145,6 +217,10 @@
     "language" : "JAPANESE",
     "title" : "ゆうかわ",
     "type" : "SHORT"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://yuukawa-anime.com/"

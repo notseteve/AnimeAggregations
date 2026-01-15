@@ -63,12 +63,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.86,
-      "total" : 10
+      "rating" : 6.07,
+      "total" : 18
     },
     "TEMPORARY" : {
-      "rating" : 7.13,
-      "total" : 11
+      "rating" : 6.78,
+      "total" : 19
     }
   },
   "related" : {
@@ -86,12 +86,83 @@
   },
   "start_date" : "2025-04-18",
   "tags" : {
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7681" : {
+      "info_box" : false,
+      "name" : "Nagano",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "7885" : {
       "info_box" : false,
@@ -121,6 +192,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Detective Conan Movie 28",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Detective Conan: Movie 28 - One-Eyed Flashback",
     "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",

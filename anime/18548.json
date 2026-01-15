@@ -1,6 +1,43 @@
 {
   "anime_id" : 18548,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 152685,
+      "name" : "Azuma Homare",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152686,
+      "name" : "Azuma Maia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152683,
+      "name" : "Azuma Sorako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152684,
+      "name" : "Azuma Takemi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152682,
+      "name" : "Azuma Tobera",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152681,
+      "name" : "Azuma Yumina",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152678,
+      "name" : "Itsuki Kaiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152679,
+      "name" : "Myouga Riu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152680,
+      "name" : "Tokoroyama Saki",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 120922,
       "name" : "Uzen Kyouka",
@@ -100,6 +137,13 @@
     "13553" : [ {
       "name" : "Nakano Keiya",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Nakano Keiya",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "17918" : [ {
+      "name" : "Fukushima Isamu",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "20490" : [ {
       "name" : "Takahiro",
@@ -120,13 +164,106 @@
     "67269" : [ {
       "name" : "Hayabusa Film",
       "type" : "ANIMATION_WORK"
+    } ],
+    "80402" : [ {
+      "name" : "Hashizume Shin`ya",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
+  },
+  "description" : "Note: The first two episodes received an early screening at a special event on 11 December 2025 at Cinemart Shinjuku in Tokyo and at T-Joy Kyoto in Kyoto. The regular TV broadcast started on 8 January 2026.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-01-08",
+      "episode_id" : 306347,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Commanders` Meeting"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kumichou Kaigi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "組長会議"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-15",
+      "episode_id" : 306348,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hen no Kage"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Shadow of Love"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "恋の影"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-22",
+      "episode_id" : 306349,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-29",
+      "episode_id" : 306350,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2026-01-07",
+      "episode_id" : 306824,
+      "length" : 55,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mato ni mo Todoke!! Minna de Party Nama Topa: Housou Chokuzen Special"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "魔都にもとどけ!! みんなでParty 生トパ 放送直前スペシャル"
+      } ],
+      "type" : "SPECIAL"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.96,
+      "total" : 4
+    },
+    "TEMPORARY" : {
+      "rating" : 5.0,
+      "total" : 4
+    }
   },
   "related" : {
     "PREQUEL" : [ 16982 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "399898" ],
+    "ANISON" : [ "25250" ],
     "ANN" : [ "32540" ],
     "MAL" : [ "58505" ],
     "SYOBOI" : [ "7657" ],
@@ -158,12 +295,20 @@
     "title" : "Mato Seihei no Slave 2",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Chained Soldier Season 2",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "魔都精兵のスレイブ2",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
     "title" : "Chained Soldier 2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Mato Seihei no Slave S2",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

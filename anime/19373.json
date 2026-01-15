@@ -1,14 +1,34 @@
 {
   "anime_id" : 19373,
   "characters" : {
-    "APPEARANCE" : [ {
-      "character_id" : 152483,
-      "name" : "Katakuchi Nairo",
-      "type" : "CHARACTER"
-    } ],
     "MAIN" : [ {
       "character_id" : 149023,
       "name" : "Kinme Wakana",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 152872,
+      "name" : "Aji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152874,
+      "name" : "Ishimochi Kyuushou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152483,
+      "name" : "Katakuchi Nairo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152875,
+      "name" : "Wakasagi Kuriru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152876,
+      "name" : "Wakasagi Moruda",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152873,
+      "name" : "Yagara Asami",
       "type" : "CHARACTER"
     } ]
   },
@@ -38,32 +58,52 @@
       "type" : "MUSIC"
     } ]
   },
-  "description" : "For two years, Wakana Kinme has run a laundry service in the seaside resort town of Atami. Kinme Cleaning is a well-loved business, and Atami residents admire Wakana`s devotion to her trade. She builds a fulfilling life making friends with the locals and visiting hot springs. Although Wakana has no knowledge of her own past, her cleaning services safeguard memories imbued in customers` precious items.\nSource: Square Enix",
+  "description" : "For two years, http://anidb.net/ch149023 [Kinme Wakana] has run a laundry service in the seaside resort town of Atami. Kinme Cleaning is a well-loved business, and Atami residents admire Wakana`s devotion to her trade. She builds a fulfilling life making friends with the locals and visiting hot springs. Although Wakana has no knowledge of her own past, her cleaning services safeguard memories imbued in customers` precious items.\nSource: Square Enix",
   "episodes" : {
     "REGULAR" : [ {
-      "air_date" : "2026-01-06",
+      "air_date" : "2026-01-05",
+      "description" : "Kinme Wakana runs a dry cleaning business in the city of Atami, where she leads a peaceful life.\nSource: Crunchyroll",
       "episode_id" : 305864,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.07,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366402JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kinme ni Omakase Kudasai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "You Can Count On Kinme"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "金目にお任せください"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-01-13",
+      "air_date" : "2026-01-12",
       "episode_id" : 305865,
       "length" : 25,
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gensen Kakenagashi ga Jiman Dakara"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "We`re Proud of Our Natural Hot Spring"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "源泉掛け流しが自慢だから"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-01-20",
+      "air_date" : "2026-01-19",
       "episode_id" : 305866,
       "length" : 25,
       "number" : 3,
@@ -74,7 +114,7 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-01-27",
+      "air_date" : "2026-01-26",
       "episode_id" : 305867,
       "length" : 25,
       "number" : 4,
@@ -85,30 +125,96 @@
       } ],
       "type" : "REGULAR"
     } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-05",
+      "episode_id" : 306755,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 2.46,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-05",
+      "episode_id" : 306791,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 2.46,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ],
     "PROMOTION" : [ {
-      "air_date" : "2025-09-14",
+      "air_date" : "2025-09-17",
       "episode_id" : 301123,
       "length" : 1,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Teaser PV"
+      }, {
         "language" : "ENGLISH",
-        "title" : "PV 1 (0:40)"
+        "title" : "Teaser PV (0:40)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ティザーPV"
       } ],
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.37,
+      "total" : 13
+    },
+    "TEMPORARY" : {
+      "rating" : 5.69,
+      "total" : 13
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "400902" ],
+    "ANISON" : [ "26273" ],
     "ANN" : [ "36413" ],
+    "CRUNCHY_ROLL" : [ "GT00365775" ],
     "MAL" : [ "61782" ],
     "SYOBOI" : [ "7660" ],
     "TWITTER" : [ "kinishite_anime" ],
     "WEBSITE" : [ "https://kinishite.com/" ],
-    "WIKIPEDIA_EN" : [ "Wash_It_All_Away_(manga)" ]
+    "WIKIPEDIA_EN" : [ "Wash_It_All_Away_(manga)" ],
+    "WIKIPEDIA_JP" : [ "綺麗にしてもらえますか。" ],
+    "YOUTUBE" : [ "watch?v=aTG30psUIBc", "watch?v=kCERfeJ2HWI", "watch?v=kinVGoEF3O4" ]
   },
   "start_date" : "2026-01-05",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3792" : {
+      "info_box" : false,
+      "name" : "iyashi-kei",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

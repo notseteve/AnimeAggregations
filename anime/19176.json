@@ -76,8 +76,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.41,
-        "total" : 5
+        "rating" : 7.0,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -101,8 +101,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.55,
-        "total" : 4
+        "rating" : 9.14,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -126,8 +126,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.41,
-        "total" : 4
+        "rating" : 7.71,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -151,8 +151,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.44,
-        "total" : 4
+        "rating" : 7.91,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -176,8 +176,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.36,
-        "total" : 4
+        "rating" : 6.9,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -201,8 +201,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.31,
-        "total" : 4
+        "rating" : 6.06,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -226,8 +226,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.31,
-        "total" : 4
+        "rating" : 6.06,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -251,8 +251,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 4.81,
-        "total" : 4
+        "rating" : 5.83,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -276,8 +276,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.44,
-        "total" : 4
+        "rating" : 8.38,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -301,8 +301,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.06,
-        "total" : 4
+        "rating" : 6.04,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -326,8 +326,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 6.83,
-        "total" : 4
+        "rating" : 7.27,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -351,8 +351,8 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.32,
-        "total" : 4
+        "rating" : 7.22,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -500,12 +500,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.22,
-      "total" : 83
+      "rating" : 5.86,
+      "total" : 118
     },
     "TEMPORARY" : {
-      "rating" : 6.86,
-      "total" : 83
+      "rating" : 6.63,
+      "total" : 119
     }
   },
   "resources" : {
@@ -524,17 +524,340 @@
   "similar" : {
     "13256" : {
       "rating" : 10.0,
-      "total" : 8
+      "total" : 11
     }
   },
   "start_date" : "2025-10-04",
   "tags" : {
+    "1528" : {
+      "info_box" : false,
+      "name" : "artificial intelligence",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2626" : {
+      "info_box" : false,
+      "name" : "future",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2631" : {
+      "info_box" : false,
+      "name" : "island",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2634" : {
+      "info_box" : false,
+      "name" : "countryside",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2676" : {
+      "info_box" : false,
+      "name" : "Tokyo",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2759" : {
+      "info_box" : false,
+      "name" : "motorsport",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2767" : {
+      "info_box" : false,
+      "name" : "formula racing",
+      "parent_tag_id" : 2759,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2850" : {
+      "info_box" : true,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2923" : {
+      "info_box" : true,
+      "name" : "post-apocalyptic",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2927" : {
+      "info_box" : false,
+      "name" : "Akihabara",
+      "parent_tag_id" : 2676,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3028" : {
+      "info_box" : false,
+      "name" : "real-world location",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3394" : {
+      "info_box" : false,
+      "name" : "environmentalism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3792" : {
+      "info_box" : false,
+      "name" : "iyashi-kei",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3869" : {
+      "info_box" : false,
+      "name" : "mono no aware",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4257" : {
+      "info_box" : false,
+      "name" : "survival",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "4498" : {
+      "info_box" : false,
+      "name" : "heart-warming",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4646" : {
+      "info_box" : false,
+      "name" : "hospital",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "4663" : {
+      "info_box" : false,
+      "name" : "tone changes",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5477" : {
+      "info_box" : false,
+      "name" : "global warming",
+      "parent_tag_id" : 3394,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5697" : {
+      "info_box" : false,
+      "name" : "randomness",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5769" : {
+      "info_box" : false,
+      "name" : "panels that require pausing",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6595" : {
+      "info_box" : false,
+      "name" : "Yokohama",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7496" : {
+      "info_box" : false,
+      "name" : "preaired episodes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7679" : {
+      "info_box" : false,
+      "name" : "Chiba",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7885" : {
       "info_box" : false,

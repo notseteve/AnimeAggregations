@@ -626,7 +626,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 9.42,
-      "total" : 3024
+      "total" : 3031
     },
     "REVIEW" : {
       "rating" : 8.41,
@@ -634,7 +634,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.55,
-      "total" : 3046
+      "total" : 3053
     }
   },
   "related" : {
@@ -683,6 +683,13 @@
       "info_box" : true,
       "name" : "seinen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -793,6 +800,54 @@
       "verified" : false,
       "weight" : 400
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2776" : {
+      "info_box" : false,
+      "name" : "parasite",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2779" : {
+      "info_box" : false,
+      "name" : "multiple couples",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -817,6 +872,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2849" : {
       "info_box" : true,
       "name" : "fantasy",
@@ -833,6 +896,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "2851" : {
+      "info_box" : false,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2864" : {
       "info_box" : true,
       "name" : "daily life",
@@ -840,6 +919,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2875" : {
       "info_box" : false,
@@ -863,7 +958,7 @@
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 100
     },
     "2881" : {
       "info_box" : false,
@@ -872,6 +967,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2884" : {
+      "info_box" : false,
+      "name" : "psychoactive drugs",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2887" : {
       "info_box" : false,
@@ -892,6 +995,14 @@
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2983" : {
+      "info_box" : false,
+      "name" : "body sharing",
+      "parent_tag_id" : 6347,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -936,10 +1047,34 @@
       "verified" : false,
       "weight" : 400
     },
+    "3378" : {
+      "info_box" : false,
+      "name" : "redemption",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3394" : {
       "info_box" : false,
       "name" : "environmentalism",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3435" : {
+      "info_box" : false,
+      "name" : "eating of humans",
+      "parent_tag_id" : 2851,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3436" : {
+      "info_box" : false,
+      "name" : "human experimentation",
+      "parent_tag_id" : 2846,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -956,6 +1091,22 @@
       "info_box" : false,
       "name" : "mythology",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3625" : {
+      "info_box" : false,
+      "name" : "water scarcity",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3663" : {
+      "info_box" : false,
+      "name" : "body takeover",
+      "parent_tag_id" : 6347,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1016,6 +1167,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "4244" : {
+      "info_box" : false,
+      "name" : "healthcare and medicine",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "4479" : {
       "info_box" : false,
       "name" : "sense of foreboding",
@@ -1032,6 +1199,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4558" : {
+      "info_box" : false,
+      "name" : "long time span",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4570" : {
       "info_box" : false,
       "name" : "watercolour style",
@@ -1039,6 +1214,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "4753" : {
       "info_box" : false,
@@ -1056,6 +1239,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "5459" : {
+      "info_box" : false,
+      "name" : "poverty",
+      "parent_tag_id" : 6243,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5466" : {
+      "info_box" : false,
+      "name" : "epidemic",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "5585" : {
       "info_box" : false,
       "name" : "curse",
@@ -1063,6 +1262,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "5838" : {
+      "info_box" : false,
+      "name" : "fire",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "5884" : {
       "info_box" : false,
@@ -1166,9 +1373,49 @@
       "verified" : false,
       "weight" : 0
     },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6243" : {
+      "info_box" : false,
+      "name" : "money",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6246" : {
       "info_box" : false,
       "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6332" : {
+      "info_box" : false,
+      "name" : "famine",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6347" : {
+      "info_box" : false,
+      "name" : "body and host",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6399" : {
+      "info_box" : false,
+      "name" : "episodic",
       "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,

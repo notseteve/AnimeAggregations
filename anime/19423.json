@@ -1,6 +1,19 @@
 {
   "anime_id" : 19423,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 152971,
+      "name" : "Hotta Ichirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152970,
+      "name" : "Hotta Jirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149432,
+      "name" : "Tottoko Sisters",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 146116,
       "name" : "Haimawari Kouichi",
@@ -51,6 +64,18 @@
       "name" : "Kaniyashiki Monika",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 87741,
+      "name" : "Midnight",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149100,
+      "name" : "Miu Yuu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149098,
+      "name" : "Naruhata Higashi Koukou Dance-bu Buchou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148061,
       "name" : "No. 6",
       "type" : "CHARACTER"
@@ -80,10 +105,22 @@
     "4163" : [ {
       "name" : "Yoshida Takahiko",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Yoshida Takahiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "12357" : [ {
       "name" : "Suzuki Ken`ichi",
       "type" : "DIRECTOR"
+    } ],
+    "21027" : [ {
+      "name" : "Shima Ken`ichi",
+      "other" : "Villain Character Design",
+      "type" : "OTHER"
+    } ],
+    "22298" : [ {
+      "name" : "Tamaki Keiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "27786" : [ {
       "name" : "Hayashi Yuuki",
@@ -114,17 +151,124 @@
       "type" : "MUSIC"
     } ]
   },
+  "description" : "* Based on a superhero manga written by http://anidb.net/cr37914 [Furuhashi Hideyuki] and drawn by http://anidb.net/cr79560 [Betten Kouto], on original concepts by My Hero Academia series creator http://anidb.net/cr44143 [Horikoshi Kouhei].\nhttp://anidb.net/ch146116 [Haimawari Kouichi] is a dull college student who aspires to be a hero but has given up on his dream. Although 80% of the world`s population has superhuman powers called Quirks, few are chosen to become heroes and protect people. Everything changes for Kouichi when he and http://anidb.net/ch146115 [Pop☆Step] are saved by the vigilante http://anidb.net/ch146114 [Knuckle Duster] and get recruited to become vigilantes themselves!\nSource: Crunchyroll",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-01-05",
+      "description" : "Pop gets invited to a mascot-idol event in Osaka, and Koichi accompanies her.\nSource: Crunchyroll",
+      "episode_id" : 306301,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 4.78,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366271JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Day-Tripping Down to Naniwa!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Naniwa no Machi ni Shuuchou ya de!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "浪花の街に出張やで!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-12",
+      "episode_id" : 306302,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Crabtastic Rampage"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-19",
+      "episode_id" : 306303,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-26",
+      "episode_id" : 306304,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-05",
+      "episode_id" : 306753,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.28,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-05",
+      "episode_id" : 306754,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 1.99,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.49,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 6.5,
+      "total" : 10
+    }
+  },
   "related" : {
     "PREQUEL" : [ 19069 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "401262" ],
+    "ANISON" : [ "25907" ],
     "ANN" : [ "36817" ],
+    "CRUNCHY_ROLL" : [ "G79H23ZQ3" ],
     "MAL" : [ "61942" ],
+    "SYOBOI" : [ "7683" ],
     "TWITTER" : [ "vigilante_mha" ],
     "WEBSITE" : [ "https://vigilante-anime.com/" ],
     "WIKIPEDIA_EN" : [ "My_Hero_Academia:_Vigilantes" ],
-    "WIKIPEDIA_JP" : [ "僕のヒーローアカデミア_(アニメ)" ]
+    "WIKIPEDIA_JP" : [ "僕のヒーローアカデミア_(アニメ)" ],
+    "YOUTUBE" : [ "watch?v=S3HQmsf7BSY", "watch?v=bJFqYBcIMcc" ]
   },
   "start_date" : "2026-01-05",
   "tags" : {
@@ -156,6 +300,14 @@
     "language" : "JAPANESE",
     "title" : "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- (2026)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "My Hero Academia: Vigilantes Season 2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Vigilante - Boku no Hero Academia Illegals S2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://vigilante-anime.com/"

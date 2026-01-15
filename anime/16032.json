@@ -431,7 +431,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.95,
+        "rating" : 6.96,
         "total" : 5
       },
       "recap" : false,
@@ -459,7 +459,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 9.43,
+        "rating" : 9.44,
         "total" : 5
       },
       "recap" : false,
@@ -516,7 +516,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.85,
+        "rating" : 3.86,
         "total" : 3
       },
       "recap" : true,
@@ -538,7 +538,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 3.13,
+        "rating" : 3.11,
         "total" : 1
       },
       "recap" : false,
@@ -553,7 +553,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 6.87,
+        "rating" : 6.86,
         "total" : 1
       },
       "recap" : false,
@@ -667,12 +667,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.58,
-      "total" : 1223
+      "rating" : 6.59,
+      "total" : 1228
     },
     "TEMPORARY" : {
       "rating" : 7.27,
-      "total" : 1234
+      "total" : 1239
     }
   },
   "related" : {
@@ -700,9 +700,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -722,6 +737,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "5205" : {
+      "info_box" : false,
+      "name" : "dungeon",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

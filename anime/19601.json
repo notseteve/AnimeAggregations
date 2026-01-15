@@ -93,27 +93,164 @@
   "description" : "A specially edited theater version of episodes 13-17.",
   "end_date" : "2025-11-21",
   "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2025-11-21",
+      "episode_id" : 306569,
+      "length" : 120,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Complete Movie"
+      } ],
+      "type" : "REGULAR"
+    } ],
     "PROMOTION" : [ {
-      "air_date" : "2025-10-16",
-      "episode_id" : 303774,
+      "air_date" : "2025-09-23",
+      "episode_id" : 306570,
       "length" : 1,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "PV 1 (0:25)"
+        "title" : "PV 1 (0:20)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tokuhou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "特報"
       } ],
       "type" : "PROMOTION"
+    }, {
+      "air_date" : "2025-10-16",
+      "episode_id" : 303774,
+      "length" : 1,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "PV 2 (0:25)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tokuhou Dai 2 Dan"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "特報第2弾"
+      } ],
+      "type" : "PROMOTION"
+    } ],
+    "OTHER" : [ {
+      "air_date" : "2026-01-01",
+      "episode_id" : 306571,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 7.11,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Getting Along with Kaho-chan? No Freaking Way!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaho-chan to Nakayoku wa, Muri!?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "香穂ちゃんと仲良くは, ムリ!?"
+      } ],
+      "type" : "OTHER"
+    }, {
+      "air_date" : "2026-01-01",
+      "episode_id" : 306572,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "First Time Cosplaying and It`s a Freaking Disaster?!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hajimete no Cosplay wa Yabai Muri!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "初めてのコスプレはやばいムリ!"
+      } ],
+      "type" : "OTHER"
+    }, {
+      "air_date" : "2026-01-01",
+      "episode_id" : 306573,
+      "length" : 25,
+      "number" : 3,
+      "rating" : {
+        "rating" : 9.92,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "No Freaking Way We`re Going on an Amusement Park Date?!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yuuenchi Date Nante, Muri!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "遊園地デートなんて, ムリ!"
+      } ],
+      "type" : "OTHER"
+    }, {
+      "air_date" : "2026-01-01",
+      "episode_id" : 306574,
+      "length" : 25,
+      "number" : 4,
+      "rating" : {
+        "rating" : 9.92,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Konna Stage, Watashi ni wa Muri!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Perform? On a Stage Like That? No Freaking Way!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "こんなステージ, わたしにはムリ!"
+      } ],
+      "type" : "OTHER"
+    }, {
+      "air_date" : "2026-01-01",
+      "episode_id" : 306575,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Is There No Way for Us to Remain Like This?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (*Muri ja Nakatta!)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "わたしが恋人になれるわけないじゃん, ムリムリ! (※ムリじゃなかった!)"
+      } ],
+      "type" : "OTHER"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 10.0,
-      "total" : 1
+      "rating" : 7.42,
+      "total" : 40
     },
     "TEMPORARY" : {
-      "rating" : 10.0,
-      "total" : 1
+      "rating" : 7.36,
+      "total" : 40
     }
   },
   "related" : {
@@ -123,13 +260,30 @@
     "ALL_CINEMA" : [ "402459" ],
     "ANN" : [ "37865" ],
     "MAL" : [ "62543" ],
+    "SYOBOI" : [ "7700" ],
     "TWITTER" : [ "watanare_anime/" ],
     "WEBSITE" : [ "https://www.watanare-anime.com/next-shine/" ],
     "WIKIPEDIA_EN" : [ "There's_No_Freaking_Way_I'll_be_Your_Lover!_Unless..." ],
-    "WIKIPEDIA_JP" : [ "わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!%3F）" ]
+    "WIKIPEDIA_JP" : [ "わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!%3F）" ],
+    "YOUTUBE" : [ "watch?v=HU4N6eKEeLQ", "watch?v=xoXRSXgjme0" ]
   },
   "start_date" : "2025-11-21",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

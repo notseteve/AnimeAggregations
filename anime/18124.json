@@ -15,6 +15,10 @@
       "name" : "Dotta Luzulas",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152811,
+      "name" : "Frenci Mastibolt",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151083,
       "name" : "Jayce Partiract",
       "type" : "CHARACTER"
@@ -29,6 +33,10 @@
     }, {
       "character_id" : 147666,
       "name" : "Patausche Kivia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152812,
+      "name" : "Rhyno",
       "type" : "CHARACTER"
     }, {
       "character_id" : 151084,
@@ -70,12 +78,86 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on a dark fantasy light novel series written by http://anidb.net/cr72702 [Rocket Shoukai] and illustrated by http://anidb.net/cr72703 [Mephisto].\nHeroism—a punishment for only the worst criminals. Those sentenced to the fate of a hero are forced to fight at the front lines against the demon king`s army—and if they die, all they can expect is to be revived and continue the battle. But when their leader, convicted of killing a goddess, meets another goddess himself, the contract they forge may be enough to change the world...\nSource: Yen Press",
+  "description" : "* Based on a dark fantasy light novel series written by http://anidb.net/cr72702 [Rocket Shoukai] and illustrated by http://anidb.net/cr72703 [Mephisto].\nHeroism—a punishment for only the worst criminals. Those sentenced to the fate of a hero are forced to fight at the front lines against the demon king`s army—and if they die, all they can expect is to be revived and continue the battle. But when their leader, convicted of killing a goddess, meets another goddess himself, the contract they forge may be enough to change the world...\nSource: Yen Press\nNote: The first episode received an early screening at a special event on 7 December 2025 at Anime x Game Festival in Goyang, Korea. Additionally, the first three episodes received an early screening at a special event on 13 December 2025 at Shinjuku Piccadilly in Tokyo. The regular TV broadcast started on 3 January 2026.",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-01-03",
+      "description" : "Penal hero Xylo gets an unwelcome helper during an assignment to supporting the main army`s retreat.\nSource: Crunchyroll",
+      "episode_id" : 306285,
+      "length" : 60,
+      "number" : 1,
+      "rating" : {
+        "rating" : 8.36,
+        "total" : 8
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00356811JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Keibatsu: Couveunge Shinrin Tettai Shien"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Sentence: Support Retreat From Couveunge Forest"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "刑罰: クヴンジ森林撤退支援"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-15",
+      "episode_id" : 306286,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-22",
+      "episode_id" : 306287,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-29",
+      "episode_id" : 306288,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.29,
+      "total" : 44
+    },
+    "TEMPORARY" : {
+      "rating" : 7.0,
+      "total" : 45
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "398959" ],
+    "ANISON" : [ "26262" ],
     "ANN" : [ "29058" ],
+    "CRUNCHY_ROLL" : [ "GT00356809" ],
     "MAL" : [ "56009" ],
     "SYOBOI" : [ "7677" ],
+    "TMDB" : [ "tv/249907" ],
     "TWITTER" : [ "yushakei_PJ" ],
     "WEBSITE" : [ "https://yushakei-pj.com/" ],
     "WIKIPEDIA_EN" : [ "Sentenced_to_Be_a_Hero" ],
@@ -83,6 +165,21 @@
   },
   "start_date" : "2026-01-03",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -108,9 +205,17 @@
     "title" : "Sentenced to Be a Hero",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "判处勇者刑 惩罚勇者9004队刑务纪录",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "勇者刑に処す 懲罰勇者9004隊刑務記録",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "判處勇者刑",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://yushakei-pj.com/"

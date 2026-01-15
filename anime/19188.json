@@ -1,12 +1,107 @@
 {
   "anime_id" : 19188,
-  "resources" : {
-    "TWITTER" : [ "usagi_anime" ],
-    "WIKIPEDIA_EN" : [ "Is_the_Order_a_Rabbit%3F" ],
-    "WIKIPEDIA_JP" : [ "ご注文はうさぎですか%3F" ]
+  "creators" : {
+    "4120" : [ {
+      "name" : "Hara Tetsuo",
+      "type" : "ORIGINAL_PLAN"
+    } ],
+    "4128" : [ {
+      "name" : "Buronson",
+      "type" : "ORIGINAL_PLAN"
+    } ]
   },
-  "start_date" : "1970-01-01",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-01-05",
+      "episode_id" : 306707,
+      "length" : 4,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.1,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ken`ou-gun ni You Gobo!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "拳王軍にようごぼっ!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-12",
+      "episode_id" : 306708,
+      "length" : 4,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-19",
+      "episode_id" : 306709,
+      "length" : 4,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-26",
+      "episode_id" : 306710,
+      "length" : 4,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.1,
+      "total" : 1
+    },
+    "TEMPORARY" : {
+      "rating" : 2.0,
+      "total" : 1
+    }
+  },
+  "resources" : {
+    "ALL_CINEMA" : [ "402373" ],
+    "ANN" : [ "37840" ],
+    "MAL" : [ "62987" ],
+    "SYOBOI" : [ "7721" ],
+    "TWITTER" : [ "hokuto_zakoban" ],
+    "WEBSITE" : [ "https://zakoban.com/" ]
+  },
+  "start_date" : "2026-01-05",
   "tags" : {
+    "5852" : {
+      "info_box" : true,
+      "name" : "short episodes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -25,16 +120,21 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Gochuumon wa Usagi Desuka? (Shinsaku Anime)",
+    "title" : "Hokuto no Ken: Ken`ou-gun Zako-tachi no Banka",
     "type" : "MAIN"
   }, {
     "language" : "JAPANESE",
-    "title" : "ご注文はうさぎですか? (新作アニメ)",
+    "title" : "北斗の拳 拳王軍ザコたちの挽歌",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
-    "title" : "Is the Order a Rabbit? (New Anime)",
+    "title" : "Elegy for the Henchmen: Fist of the North Star",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Fist of the North Star: Elegy of Ken-Oh`s Army Grunts",
     "type" : "SYNONYM"
   } ],
-  "type" : "UNKNOWN"
+  "type" : "SERIES",
+  "url" : "https://zakoban.com/"
 }

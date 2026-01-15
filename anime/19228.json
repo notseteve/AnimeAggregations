@@ -22,7 +22,7 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 2.24,
+        "rating" : 2.22,
         "total" : 2
       },
       "recap" : false,
@@ -36,7 +36,7 @@
       "length" : 20,
       "number" : 2,
       "rating" : {
-        "rating" : 5.21,
+        "rating" : 5.22,
         "total" : 1
       },
       "recap" : false,
@@ -49,12 +49,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.17,
-      "total" : 21
+      "rating" : 3.98,
+      "total" : 24
     },
     "TEMPORARY" : {
-      "rating" : 6.09,
-      "total" : 22
+      "rating" : 5.96,
+      "total" : 25
     }
   },
   "resources" : {
@@ -78,9 +78,23 @@
       "verified" : false,
       "weight" : 0
     },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -109,6 +123,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2787" : {
+      "info_box" : false,
+      "name" : "teacher x student",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -116,6 +138,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2896" : {
+      "info_box" : false,
+      "name" : "deflowering",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "6173" : {
       "info_box" : false,

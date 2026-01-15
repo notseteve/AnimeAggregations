@@ -11,6 +11,26 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 152883,
+      "name" : "Gail",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152882,
+      "name" : "Gilbert Stein",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152884,
+      "name" : "Hannah Stein",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152886,
+      "name" : "Lesley K. Lipman",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152885,
+      "name" : "Philip Graham",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 152523,
       "name" : "Rivera Feyerabend",
       "type" : "CHARACTER"
@@ -50,15 +70,95 @@
       "type" : "MUSIC"
     } ]
   },
-  "description" : "The Animal Liberation Alliance, an eco-terrorist organization, rescues a pregnant chimpanzee from an animal testing lab-only for it to give birth to a half-human, half-chimpanzee \"humanzee\" named Charlie! Fifteen years later, Charlie`s human foster parents are finally ready to send him to a normal high school, where he makes his first friend: a human girl named Lucy. In the meantime, however, the ALA`s stance has become ever more extreme, and now they`re here to drag Charlie into their terrorist plot...\nSource: Kodansha",
+  "description" : "* Based on action social suspense manga by http://anidb.net/cr76887 [Umezawa Shun].\nThe Animal Liberation Alliance, an eco-terrorist organization, rescues a pregnant chimpanzee from an animal testing lab-only for it to give birth to a half-human, half-chimpanzee \"humanzee\" named http://anidb.net/ch152522 [Charlie]! Fifteen years later, Charlie`s human foster parents are finally ready to send him to a normal high school, where he makes his first friend: a human girl named http://anidb.net/ch152524 [Lucy]. In the meantime, however, the ALA`s stance has become ever more extreme, and now they`re here to drag Charlie into their terrorist plot...\nSource: Kodansha",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-01-07",
+      "episode_id" : 306327,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "HUMANZEE"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Humanzee"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Humanzee"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-14",
+      "episode_id" : 306328,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-21",
+      "episode_id" : 306329,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-28",
+      "episode_id" : 306330,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-07",
+      "episode_id" : 306776,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-07",
+      "episode_id" : 306777,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ]
+  },
   "resources" : {
     "ALL_CINEMA" : [ "399658" ],
+    "AMAZON" : [ "B0G5647BNF" ],
+    "ANISON" : [ "26263" ],
     "ANN" : [ "32752" ],
     "MAL" : [ "58886" ],
+    "SYOBOI" : [ "7695" ],
     "TWITTER" : [ "darwins_anime" ],
     "WEBSITE" : [ "https://darwinsincident.net/" ],
     "WIKIPEDIA_EN" : [ "The_Darwin_Incident" ],
-    "WIKIPEDIA_JP" : [ "ダーウィン事変" ]
+    "WIKIPEDIA_JP" : [ "ダーウィン事変" ],
+    "YOUTUBE" : [ "watch?v=MFNM8RXPDuE", "watch?v=wTDmqzeugx8" ]
   },
   "start_date" : "2026-01-07",
   "tags" : {
@@ -83,16 +183,20 @@
     "title" : "Darwin Jihen",
     "type" : "MAIN"
   }, {
+    "language" : "SPANISH",
+    "title" : "El incidente Darwin",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "The Darwin Incident",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ダーウィン事変",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
     "title" : "Darwin`s Incident",
-    "type" : "SYNONYM"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "The Darwin Incident",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

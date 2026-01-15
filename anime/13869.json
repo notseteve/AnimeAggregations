@@ -147,7 +147,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.48,
+        "rating" : 5.49,
         "total" : 6
       },
       "recap" : false,
@@ -175,7 +175,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.01,
+        "rating" : 6.03,
         "total" : 5
       },
       "recap" : false,
@@ -203,7 +203,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.56,
+        "rating" : 7.58,
         "total" : 4
       },
       "recap" : false,
@@ -231,7 +231,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.28,
+        "rating" : 5.3,
         "total" : 4
       },
       "recap" : false,
@@ -259,7 +259,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.95,
+        "rating" : 5.97,
         "total" : 4
       },
       "recap" : false,
@@ -287,7 +287,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.56,
+        "rating" : 7.58,
         "total" : 4
       },
       "recap" : false,
@@ -315,7 +315,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.8,
+        "rating" : 7.82,
         "total" : 3
       },
       "recap" : false,
@@ -427,7 +427,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.56,
+        "rating" : 5.55,
         "total" : 3
       },
       "recap" : false,
@@ -455,7 +455,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 3.52,
+        "rating" : 3.55,
         "total" : 2
       },
       "recap" : false,
@@ -628,12 +628,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.97,
-      "total" : 777
+      "rating" : 5.96,
+      "total" : 781
     },
     "TEMPORARY" : {
-      "rating" : 6.64,
-      "total" : 783
+      "rating" : 6.63,
+      "total" : 787
     }
   },
   "resources" : {
@@ -654,6 +654,10 @@
     "8421" : {
       "rating" : 10.0,
       "total" : 21
+    },
+    "10811" : {
+      "rating" : 6.666666666666666,
+      "total" : 3
     }
   },
   "start_date" : "2019-04-12",
@@ -665,6 +669,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "893" : {
+      "info_box" : false,
+      "name" : "dominatrix",
+      "parent_tag_id" : 2729,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "997" : {
       "info_box" : false,
@@ -678,6 +690,22 @@
       "info_box" : false,
       "name" : "photography",
       "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1894" : {
+      "info_box" : false,
+      "name" : "shota",
+      "parent_tag_id" : 2608,
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
@@ -708,6 +736,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -795,6 +830,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2651" : {
       "info_box" : false,
       "name" : "absurdist humour",
@@ -818,6 +861,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2729" : {
+      "info_box" : false,
+      "name" : "BDSM",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2749" : {
       "info_box" : false,
@@ -843,6 +894,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2797" : {
       "info_box" : true,
       "name" : "new",
@@ -851,9 +910,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "2816" : {
+      "info_box" : false,
+      "name" : "sexual fantasies",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2820" : {
       "info_box" : false,
       "name" : "wardrobe malfunction",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2827" : {
+      "info_box" : false,
+      "name" : "sudden naked guy appearance",
       "parent_tag_id" : 2856,
       "spoiler" : false,
       "verified" : false,
@@ -874,6 +949,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2844" : {
+      "info_box" : true,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2848" : {
+      "info_box" : false,
+      "name" : "pornography",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2849" : {
       "info_box" : false,
@@ -955,6 +1054,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2878" : {
+      "info_box" : false,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2881" : {
       "info_box" : false,
       "name" : "sports",
@@ -970,6 +1077,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2884" : {
+      "info_box" : false,
+      "name" : "psychoactive drugs",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2925" : {
       "info_box" : false,
@@ -1018,6 +1133,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3276" : {
+      "info_box" : false,
+      "name" : "plot twists",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3411" : {
       "info_box" : false,
       "name" : "fighting",
@@ -1038,6 +1161,14 @@
       "info_box" : false,
       "name" : "family without father",
       "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3671" : {
+      "info_box" : false,
+      "name" : "footage reuse",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1106,10 +1237,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "4206" : {
+      "info_box" : false,
+      "name" : "magical boy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4228" : {
+      "info_box" : false,
+      "name" : "subtle OP ED sequence change",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4251" : {
       "info_box" : false,
       "name" : "ensemble cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4327" : {
+      "info_box" : false,
+      "name" : "be careful what you wish for",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1129,6 +1284,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4516" : {
+      "info_box" : false,
+      "name" : "animal abuse",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4520" : {
+      "info_box" : false,
+      "name" : "betrayal",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4663" : {
+      "info_box" : false,
+      "name" : "tone changes",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "4729" : {
       "info_box" : false,
@@ -1174,6 +1353,14 @@
       "info_box" : false,
       "name" : "monster of the week",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5980" : {
+      "info_box" : false,
+      "name" : "live-action imagery",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1239,6 +1426,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6730" : {
+      "info_box" : false,
+      "name" : "torture",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7050" : {
       "info_box" : false,

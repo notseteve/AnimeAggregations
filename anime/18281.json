@@ -99,8 +99,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.04,
-        "total" : 2
+        "rating" : 5.8,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -124,8 +124,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.78,
-        "total" : 3
+        "rating" : 4.63,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -324,7 +324,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 1.48,
+        "rating" : 1.47,
         "total" : 1
       },
       "recap" : false,
@@ -344,11 +344,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-15",
+      "description" : "Yumeko`s Ramune Chips turns out to be a hit, and Yuki plans a grill-out to celebrate her team`s success.\nSource: Crunchyroll",
       "episode_id" : 304771,
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 1.48,
+        "rating" : 1.47,
         "total" : 1
       },
       "recap" : false,
@@ -368,10 +369,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2025-12-22",
+      "description" : "As Degawa urges Yumeko to confront Rikako, the two run into Maezono. Meanwhile, Yuki and Rikako return home.\nSource: Crunchyroll",
       "episode_id" : 304772,
       "length" : 25,
       "number" : 12,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362192JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Anata ga Warau to Shiawase"
@@ -405,12 +410,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.54,
-      "total" : 21
+      "rating" : 4.49,
+      "total" : 64
     },
     "TEMPORARY" : {
-      "rating" : 5.19,
-      "total" : 21
+      "rating" : 5.7,
+      "total" : 64
     }
   },
   "resources" : {
@@ -427,8 +432,8 @@
   },
   "similar" : {
     "10918" : {
-      "rating" : 10.0,
-      "total" : 2
+      "rating" : 5.0,
+      "total" : 4
     }
   },
   "start_date" : "2025-10-06",
@@ -730,6 +735,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3217" : {
       "info_box" : false,
       "name" : "working life",
@@ -933,6 +946,14 @@
       "info_box" : false,
       "name" : "tropes",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

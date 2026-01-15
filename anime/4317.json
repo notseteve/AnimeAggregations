@@ -40,12 +40,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.5,
-      "total" : 179
+      "rating" : 4.49,
+      "total" : 181
     },
     "TEMPORARY" : {
-      "rating" : 5.47,
-      "total" : 181
+      "rating" : 5.46,
+      "total" : 183
     }
   },
   "resources" : {
@@ -78,6 +78,13 @@
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -116,7 +123,7 @@
       "parent_tag_id" : 2881,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
     },
     "2798" : {
       "info_box" : true,
@@ -125,6 +132,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2853" : {
       "info_box" : true,
@@ -135,9 +150,41 @@
       "weight" : 600
     },
     "2881" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "sports",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3170" : {
+      "info_box" : false,
+      "name" : "occupation and career",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5823" : {
+      "info_box" : false,
+      "name" : "predominantly male cast",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -145,6 +192,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
