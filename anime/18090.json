@@ -1,6 +1,47 @@
 {
   "anime_id" : 18090,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 153121,
+      "name" : "Dokuro Doushi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132454,
+      "name" : "Gui Fa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132380,
+      "name" : "Houko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132282,
+      "name" : "Ju Fa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132838,
+      "name" : "Namekuji Doushi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132739,
+      "name" : "Ran",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131858,
+      "name" : "Sato no Chou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132283,
+      "name" : "Tao Fa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131496,
+      "name" : "Yui",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132452,
+      "name" : "Zhu Jin",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 128772,
       "name" : "Gabimaru",
@@ -21,6 +62,10 @@
     }, {
       "character_id" : 130053,
       "name" : "Nurugai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132737,
+      "name" : "Rien",
       "type" : "CHARACTER"
     }, {
       "character_id" : 128771,
@@ -76,6 +121,17 @@
     "14401" : [ {
       "name" : "Hisaki Kouji",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Hisaki Kouji",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "18940" : [ {
+      "name" : "Nishimura Rie",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "27448" : [ {
+      "name" : "Itou Shinji",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "31375" : [ {
       "name" : "MAPPA",
@@ -94,17 +150,31 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on an action-adventure fantasy horror manga by http://anidb.net/cr62808 [Kaku Yuuji].\nNote: The first two episodes received an early screening at a special event on 7 January 2026 at Shinjuku Wald 9 in Tokyo and at T-Joy Umeda in Osaka. The regular TV broadcast started on 11 January 2026.",
+  "description" : "* Based on an action-adventure fantasy horror manga by http://anidb.net/cr62808 [Kaku Yuuji].\nIn search of clues to the elixir, http://anidb.net/ch128772 [Gabimaru] and his group arrive at the castle of Tensen, ruled by the monsters who rule the island. Meanwhile, the shogunate sends additional expeditions to Shinsenkyou led by http://anidb.net/ch133480 [Yamada Asaemon Shugen], which the Iwagakure joins. Gabimaru must find the elixir and escape the island as an all-out showdown between humans and celestial immortals looms.\nSource: ANN\nNote: The first two episodes received an early screening at a special event on 7 January 2026 at Shinjuku Wald 9 in Tokyo and at T-Joy Umeda in Osaka. The regular TV broadcast started on 11 January 2026.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-11",
+      "description" : "Shugen and Jikka are sent to Shinsenkyo, while Gabimaru and his companions battle Aza Chobe and Toma.\nSource: Crunchyroll",
       "episode_id" : 306491,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.51,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00198973JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Dawn and Confusion"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Reimei to Konmei"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "黎明と昏迷"
       } ],
       "type" : "REGULAR"
     }, {
@@ -112,10 +182,23 @@
       "episode_id" : 306492,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.43,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00198974JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Reality and Fantasy"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Utsutsu to Maboroshi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "現[うつつ]と幻"
       } ],
       "type" : "REGULAR"
     }, {
@@ -140,20 +223,91 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2026-01-12",
+      "episode_id" : 306990,
+      "length" : 3,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Bit of Hell`s Paradise Episode 1: Tensen`s Name"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chobitto! Jigokuraku! Dai Ichi Wa: Tensen no Namae"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ちょびっと! じごくらく! -第一話- 天仙の名前"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2026-01-19",
+      "episode_id" : 307272,
+      "length" : 3,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Bit of Hell`s Paradise Episode 2: Chobe`s Food Critic"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chobitto! Jigokuraku! Dai Ni Wa: Choubee no Tabe Log"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ちょびっと! じごくらく! -第二話- 弔兵衛の食べ郎供"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-11",
+      "episode_id" : 306976,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-11",
+      "episode_id" : 306977,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.65,
+      "total" : 20
+    },
+    "TEMPORARY" : {
+      "rating" : 6.85,
+      "total" : 20
+    }
   },
   "related" : {
     "PREQUEL" : [ 16012 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "398745" ],
+    "ANISON" : [ "24830" ],
     "ANN" : [ "28842" ],
+    "CRUNCHY_ROLL" : [ "GJ0H7Q5ZJ" ],
     "MAL" : [ "55825" ],
     "SYOBOI" : [ "7684" ],
     "TWITTER" : [ "jplus_jigokurak" ],
     "WEBSITE" : [ "https://www.jigokuraku.com/" ],
     "WIKIPEDIA_EN" : [ "Hell's_Paradise:_Jigokuraku" ],
-    "WIKIPEDIA_JP" : [ "地獄楽" ]
+    "WIKIPEDIA_JP" : [ "地獄楽" ],
+    "YOUTUBE" : [ "watch?v=5NS_3Rom9OU", "watch?v=N-Go4JtUw6U&pp=0gcJCU0KAYcqIYzv", "watch?v=Z9EKxKRa1uM", "watch?v=gHIA3Mhc618" ]
   },
   "start_date" : "2026-01-11",
   "tags" : {

@@ -6,8 +6,20 @@
       "name" : "Iketani Kouichirou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 128995,
+      "name" : "Kenji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143650,
+      "name" : "Nakamura Kenta",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 129015,
       "name" : "Takahashi Keisuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129005,
+      "name" : "Takeuchi Itsuki",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -26,6 +38,14 @@
     }, {
       "character_id" : 129014,
       "name" : "Akaba Kaito",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129011,
+      "name" : "Akiyama Wataru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129010,
+      "name" : "Ishigami Fuujin",
       "type" : "CHARACTER"
     }, {
       "character_id" : 128993,
@@ -48,12 +68,28 @@
       "name" : "Ogata",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 129002,
+      "name" : "Okuyama Hiroya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129000,
+      "name" : "Ooishi Daigo",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 128999,
       "name" : "Sakamoto Yuudai",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 129009,
+      "name" : "Satou Mami",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 129007,
       "name" : "Sawatari Kouki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129004,
+      "name" : "Yanagida Takuya",
       "type" : "CHARACTER"
     }, {
       "character_id" : 128996,
@@ -102,11 +138,12 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-01",
+      "description" : "Kanata drops through the positions due to an injured elbow and an inability to use second gear, until...\nSource: Crunchyroll",
       "episode_id" : 306263,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.21,
+        "rating" : 8.23,
         "total" : 1
       },
       "recap" : false,
@@ -129,7 +166,14 @@
       "episode_id" : 306264,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.23,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GD9UEVK27" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Fireball"
@@ -148,8 +192,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Final Lap Totsunyuu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Into the Final Lap"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ファイナルラップ突入"
       } ],
       "type" : "REGULAR"
     }, {
@@ -163,16 +213,60 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-29",
+      "episode_id" : 306820,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-05",
+      "episode_id" : 306821,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-12",
+      "episode_id" : 306822,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-19",
+      "episode_id" : 306823,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.97,
-      "total" : 4
+      "rating" : 7.83,
+      "total" : 15
     },
     "TEMPORARY" : {
-      "rating" : 6.62,
-      "total" : 4
+      "rating" : 7.83,
+      "total" : 15
     }
   },
   "related" : {
@@ -180,6 +274,7 @@
   },
   "resources" : {
     "ALL_CINEMA" : [ "399372" ],
+    "ANISON" : [ "25053" ],
     "ANN" : [ "34228" ],
     "CRUNCHY_ROLL" : [ "GEXH3W2W7" ],
     "MAL" : [ "60602" ],

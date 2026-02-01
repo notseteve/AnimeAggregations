@@ -127,7 +127,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.6,
+        "rating" : 5.58,
         "total" : 1
       },
       "recap" : false,
@@ -151,9 +151,18 @@
       "length" : 25,
       "number" : 3,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366318JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Temee, Yabee Fan Da na"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "You`re One of Those Insane Fans"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "テメェ, やべェファンだな"
       } ],
       "type" : "REGULAR"
     }, {
@@ -165,6 +174,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-29",
+      "episode_id" : 307079,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-05",
+      "episode_id" : 307080,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-12",
+      "episode_id" : 307081,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-19",
+      "episode_id" : 307082,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -179,16 +232,27 @@
         "title" : "Opening"
       } ],
       "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-08",
+      "episode_id" : 306968,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.24,
-      "total" : 11
+      "rating" : 4.06,
+      "total" : 16
     },
     "TEMPORARY" : {
-      "rating" : 5.54,
-      "total" : 11
+      "rating" : 5.34,
+      "total" : 16
     }
   },
   "resources" : {
@@ -202,10 +266,133 @@
     "WEBSITE" : [ "https://tamon-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Tamon's_B-Side" ],
     "WIKIPEDIA_JP" : [ "多聞くん今どっち!%3F" ],
-    "YOUTUBE" : [ "watch?v=cugf5FQ4fLE" ]
+    "YOUTUBE" : [ "watch?v=_2dl3blJgy8", "watch?v=cugf5FQ4fLE" ]
   },
   "start_date" : "2026-01-01",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "362" : {
+      "info_box" : false,
+      "name" : "dancing",
+      "parent_tag_id" : 2793,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1077" : {
+      "info_box" : true,
+      "name" : "shoujo",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2438" : {
+      "info_box" : true,
+      "name" : "idol",
+      "parent_tag_id" : 2794,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2793" : {
+      "info_box" : true,
+      "name" : "performance",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2794" : {
+      "info_box" : true,
+      "name" : "music",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2883" : {
+      "info_box" : true,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3758" : {
+      "info_box" : false,
+      "name" : "performing in a concert",
+      "parent_tag_id" : 6148,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6148" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO EPISODE",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

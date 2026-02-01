@@ -48,6 +48,10 @@
       "name" : "Hirayama Gorou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 144058,
+      "name" : "Inoue Genzaburou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 152850,
       "name" : "Katsura Kogorou",
       "type" : "CHARACTER"
@@ -58,6 +62,10 @@
     }, {
       "character_id" : 144054,
       "name" : "Nagakura Shinpachi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144059,
+      "name" : "Niimi Nishiki",
       "type" : "CHARACTER"
     }, {
       "character_id" : 144060,
@@ -194,7 +202,14 @@
       "episode_id" : 305850,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.12,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNDE5V" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A Lone Sheep"
@@ -212,9 +227,18 @@
       "length" : 25,
       "number" : 4,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GK9UG3J7M" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akumyou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Infamy"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "悪名"
       } ],
       "type" : "REGULAR"
     }, {
@@ -225,7 +249,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Firefly Glow"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hotaru no Hikari"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "蛍の光"
       } ],
       "type" : "REGULAR"
     }, {
@@ -265,12 +295,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.72,
-      "total" : 6
+      "rating" : 5.7,
+      "total" : 8
     },
     "TEMPORARY" : {
-      "rating" : 6.66,
-      "total" : 6
+      "rating" : 6.12,
+      "total" : 8
     }
   },
   "related" : {
@@ -278,6 +308,7 @@
   },
   "resources" : {
     "ALL_CINEMA" : [ "402001" ],
+    "ANISON" : [ "25644" ],
     "ANN" : [ "35414" ],
     "CRUNCHY_ROLL" : [ "GXJHM3GP8" ],
     "MAL" : [ "61333" ],

@@ -87,8 +87,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.15,
-        "total" : 3
+        "rating" : 3.34,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -110,10 +110,23 @@
       "episode_id" : 306336,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.54,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366139JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nanjaku Majutsu no Tadashii Shiyou Houhou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "The Proper Way to Use Magic"
+        "title" : "The Proper Way to Use Weak Magic"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "軟弱魔術の正しい使用方法"
       } ],
       "type" : "REGULAR"
     }, {
@@ -124,7 +137,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Wonderful Renovation of an Impoverished Frontier"
       } ],
       "type" : "REGULAR"
     }, {
@@ -138,16 +151,28 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-07",
+      "episode_id" : 306970,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.88,
-      "total" : 14
+      "rating" : 4.19,
+      "total" : 25
     },
     "TEMPORARY" : {
-      "rating" : 6.0,
-      "total" : 14
+      "rating" : 6.14,
+      "total" : 25
     }
   },
   "resources" : {
@@ -159,7 +184,8 @@
     "SYOBOI" : [ "7692" ],
     "TWITTER" : [ "okiraku_anime" ],
     "WEBSITE" : [ "https://okiraku-ryousyu-anime.jp/" ],
-    "WIKIPEDIA_EN" : [ "Easygoing_Territory_Defense_by_the_Optimistic_Lord" ]
+    "WIKIPEDIA_EN" : [ "Easygoing_Territory_Defense_by_the_Optimistic_Lord" ],
+    "YOUTUBE" : [ "watch?v=D_VIrnh8Gx4" ]
   },
   "start_date" : "2026-01-07",
   "tags" : {
@@ -190,6 +216,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "お気楽領主の楽しい領地防衛~生産系魔術で名もなき村を最強の城塞都市に~",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "安逸领主的愉快领地防卫～以生产系魔术将无名小村打造成最强要塞都市～",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

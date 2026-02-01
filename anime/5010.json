@@ -60,12 +60,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.91,
-      "total" : 255
+      "rating" : 2.87,
+      "total" : 257
+    },
+    "REVIEW" : {
+      "rating" : 1.5,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 4.71,
-      "total" : 255
+      "rating" : 4.69,
+      "total" : 257
     }
   },
   "resources" : {
@@ -85,6 +89,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "627" : {
+      "info_box" : false,
+      "name" : "lingerie",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2605" : {
       "info_box" : false,
@@ -177,6 +189,22 @@
       "verified" : false,
       "weight" : 600
     },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2858" : {
       "info_box" : true,
       "name" : "romance",
@@ -201,6 +229,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4431" : {
       "info_box" : false,
       "name" : "love at first sight",
@@ -213,6 +249,14 @@
       "info_box" : false,
       "name" : "boy meets girl",
       "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5884" : {
+      "info_box" : false,
+      "name" : "slow-paced",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -243,6 +287,14 @@
     "6230" : {
       "info_box" : false,
       "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
       "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,

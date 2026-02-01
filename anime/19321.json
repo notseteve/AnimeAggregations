@@ -1,5 +1,12 @@
 {
   "anime_id" : 19321,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 149212,
+      "name" : "Nueno Meisuke",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "7384" : [ {
       "name" : "Makura Shou",
@@ -26,7 +33,7 @@
       "type" : "ANIMATION_WORK"
     } ]
   },
-  "description" : "* Based on an occult manga, with story by http://anidb.net/cr7384 [Makura Shou] and art by http://anidb.net/cr5907 [Okano Takeshi], serialized in http://anidb.net/cr780 [Shueisha]`s http://anidb.net/cr5372 [Weekly Shounen Jump] magazine from 1993 to 1999.",
+  "description" : "* Based on an occult manga, with story by http://anidb.net/cr7384 [Makura Shou] and art by http://anidb.net/cr5907 [Okano Takeshi], serialized in http://anidb.net/cr780 [Shueisha]`s http://anidb.net/cr5372 [Weekly Shounen Jump] magazine from 1993 to 1999.\nhttp://anidb.net/ch149212 [Nube] is a grade-school teacher with a demon hand, which he uses to protect his students from all sorts of evil creatures. Nube fights everything from urban legends and aliens to mythological creatures, all whilst trying to catch the eye of his crush and fellow teacher.\nSource: ANN",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-07",
@@ -35,8 +42,14 @@
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jigen Youkai: Makuragaeshi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Pillow-Flipping Dimensional Yokai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "次元妖怪・まくらがえし"
       } ],
       "type" : "REGULAR"
     }, {
@@ -47,7 +60,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Exorcist Who Leapt Through Time"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Toki o Kakeru Nube"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "時をかけるぬ~べ~"
       } ],
       "type" : "REGULAR"
     }, {
@@ -59,6 +78,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yukionna Futatabi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "雪女ふたたび"
       } ],
       "type" : "REGULAR"
     }, {
@@ -72,14 +97,71 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-04",
+      "episode_id" : 307310,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-11",
+      "episode_id" : 307311,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-18",
+      "episode_id" : 307312,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-25",
+      "episode_id" : 307313,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.61,
+      "total" : 4
+    },
+    "TEMPORARY" : {
+      "rating" : 5.75,
+      "total" : 4
+    }
   },
   "related" : {
     "PREQUEL" : [ 18767 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "403551" ],
+    "AMAZON" : [ "B0G8ZXHJQX" ],
+    "ANISON" : [ "25965" ],
     "ANN" : [ "35934" ],
+    "MAL" : [ "61608" ],
     "SYOBOI" : [ "7681" ],
     "TWITTER" : [ "nube_ani" ],
     "WEBSITE" : [ "https://nube-anime.com/" ],

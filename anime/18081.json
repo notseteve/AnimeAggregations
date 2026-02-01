@@ -1,6 +1,11 @@
 {
   "anime_id" : 18081,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 99115,
+      "name" : "Kantarou",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 92501,
       "name" : "Asirpa",
@@ -29,6 +34,10 @@
     }, {
       "character_id" : 99542,
       "name" : "Kadokura Toshiyuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 125363,
+      "name" : "Kikuta Mokutarou",
       "type" : "CHARACTER"
     }, {
       "character_id" : 132511,
@@ -149,7 +158,14 @@
       "episode_id" : 306002,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.56,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U3QXZZ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Send up the Fireworks"
@@ -168,8 +184,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tokushirou-san no Ichiban"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Tokushirou-san`s Number One"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "篤四郎さんの一番"
       } ],
       "type" : "REGULAR"
     }, {
@@ -183,16 +205,83 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-02",
+      "episode_id" : 307012,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-09",
+      "episode_id" : 307013,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-16",
+      "episode_id" : 307014,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-23",
+      "episode_id" : 307015,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-12",
+      "episode_id" : 307045,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-12",
+      "episode_id" : 307046,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.12,
-      "total" : 9
+      "rating" : 6.64,
+      "total" : 11
     },
     "TEMPORARY" : {
-      "rating" : 6.44,
-      "total" : 9
+      "rating" : 6.09,
+      "total" : 11
     }
   },
   "related" : {
@@ -207,7 +296,8 @@
     "TWITTER" : [ "kamuy_anime" ],
     "WEBSITE" : [ "https://kamuy-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Golden_Kamuy" ],
-    "WIKIPEDIA_JP" : [ "ゴールデンカムイ" ]
+    "WIKIPEDIA_JP" : [ "ゴールデンカムイ" ],
+    "YOUTUBE" : [ "watch?v=SrmET-l5P_4", "watch?v=YcRYX8hwQ8Y" ]
   },
   "start_date" : "2026-01-05",
   "tags" : {

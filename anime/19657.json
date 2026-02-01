@@ -1,5 +1,49 @@
 {
   "anime_id" : 19657,
+  "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 153045,
+      "name" : "Hidari Maki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153107,
+      "name" : "Hokori Takashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153046,
+      "name" : "Honba Desuko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153044,
+      "name" : "Ooba Kayo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153043,
+      "name" : "Sandanbara Ikue",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153108,
+      "name" : "Setto Kimeru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153106,
+      "name" : "Sugata Kazaru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153109,
+      "name" : "Tanokin Torio",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 153042,
+      "name" : "Amano Jako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153105,
+      "name" : "Kireide Shou",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "16561" : [ {
       "name" : "Shinzawa Motoei",
@@ -36,7 +80,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Enter Kimengumi!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kimengumi Toujou!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "奇面組登場!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -47,7 +97,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "New Semester: The Ultimate Self-Introduction / A Battle Without Rules: Classmates United"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shingakki: Hissatsu Jikoshoukai / Rule Naki Tatakai: Kyuuyuu Kyoutou Hen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "新学期・必殺自己紹介 / ルールなき戦い 級友共闘編"
       } ],
       "type" : "REGULAR"
     }, {
@@ -59,6 +115,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shinsetsushin no Gag Kouka!? / Amanojaku ni Omegumi o"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "親切心のギャグ効果!? / あまのじゃくにおめぐみを"
       } ],
       "type" : "REGULAR"
     }, {
@@ -74,10 +136,24 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.54,
+      "total" : 4
+    },
+    "TEMPORARY" : {
+      "rating" : 2.5,
+      "total" : 4
+    }
+  },
   "related" : {
     "ALTERNATIVE_SETTING" : [ 1356 ]
   },
   "resources" : {
+    "AMAZON" : [ "B0G5G46FRK" ],
+    "ANISON" : [ "26251" ],
+    "ANN" : [ "37919" ],
+    "MAL" : [ "62804" ],
     "SYOBOI" : [ "7665" ],
     "TWITTER" : [ "kimengumi_anime" ],
     "WEBSITE" : [ "https://kimengumi.com/" ],
@@ -86,6 +162,29 @@
   },
   "start_date" : "2026-01-09",
   "tags" : {
+    "3865" : {
+      "info_box" : true,
+      "name" : "noitaminA",
+      "parent_tag_id" : 6153,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6153" : {
+      "info_box" : false,
+      "name" : "multi-anime projects",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -107,12 +206,24 @@
     "title" : "High School! Kimengumi (2026)",
     "type" : "MAIN"
   }, {
+    "language" : "SPANISH",
+    "title" : "Kimengumi: Escuela de locos",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ハイスクール! 奇面組 (2026)",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "高校！奇面組",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "High School! Kimengumi (2026)",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "高校奇面组 2026",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

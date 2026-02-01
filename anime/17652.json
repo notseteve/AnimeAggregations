@@ -307,7 +307,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 9.0,
+        "rating" : 9.01,
         "total" : 6
       },
       "recap" : false,
@@ -363,7 +363,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.05,
+        "rating" : 9.06,
         "total" : 5
       },
       "recap" : false,
@@ -391,7 +391,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.97,
+        "rating" : 8.98,
         "total" : 5
       },
       "recap" : false,
@@ -419,7 +419,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.72,
+        "rating" : 8.73,
         "total" : 6
       },
       "recap" : false,
@@ -447,7 +447,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.58,
+        "rating" : 8.59,
         "total" : 5
       },
       "recap" : false,
@@ -475,7 +475,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.32,
+        "rating" : 8.33,
         "total" : 6
       },
       "recap" : false,
@@ -531,7 +531,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 9.23,
+        "rating" : 9.24,
         "total" : 5
       },
       "recap" : false,
@@ -644,7 +644,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 1.34,
+        "rating" : 1.33,
         "total" : 1
       },
       "recap" : false,
@@ -659,7 +659,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 3.11,
+        "rating" : 3.1,
         "total" : 1
       },
       "recap" : false,
@@ -794,12 +794,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.82,
-      "total" : 1114
+      "rating" : 7.83,
+      "total" : 1124
     },
     "TEMPORARY" : {
       "rating" : 7.75,
-      "total" : 1126
+      "total" : 1136
     }
   },
   "related" : {
@@ -911,9 +911,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1122,6 +1137,14 @@
       "info_box" : false,
       "name" : "predominantly female cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5205" : {
+      "info_box" : false,
+      "name" : "dungeon",
+      "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

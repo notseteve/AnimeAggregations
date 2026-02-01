@@ -1,6 +1,19 @@
 {
   "anime_id" : 18886,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 137232,
+      "name" : "Ehre",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 137238,
+      "name" : "Scharf",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 137226,
+      "name" : "Wirbel",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 134379,
       "name" : "Fern",
@@ -73,10 +86,29 @@
       "episode_id" : 306529,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.46,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G8WU7NX0K" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jaa Ikouka"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Lasst uns aufbrechen"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Shall We Go, Then?"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "То що, ходімо?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "じゃあ行こうか"
       } ],
       "type" : "REGULAR"
     }, {
@@ -86,8 +118,17 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Der Held des Südens"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Minami no Yuusha"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "The Hero of the South"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "南の勇者"
       } ],
       "type" : "REGULAR"
     }, {
@@ -113,13 +154,36 @@
       } ],
       "type" : "REGULAR"
     } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-16",
+      "episode_id" : 307173,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-16",
+      "episode_id" : 307174,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2024-09-28",
       "episode_id" : 286767,
       "length" : 1,
       "number" : 1,
       "rating" : {
-        "rating" : 3.67,
+        "rating" : 3.68,
         "total" : 1
       },
       "recap" : false,
@@ -139,11 +203,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 10.0,
-      "total" : 1
+      "total" : 22
     },
     "TEMPORARY" : {
-      "rating" : 10.0,
-      "total" : 1
+      "rating" : 8.81,
+      "total" : 23
     }
   },
   "related" : {
@@ -151,14 +215,16 @@
   },
   "resources" : {
     "ALL_CINEMA" : [ "399566" ],
+    "ANISON" : [ "25083" ],
     "ANN" : [ "33628" ],
+    "CRUNCHY_ROLL" : [ "GG5H5XQX4" ],
     "MAL" : [ "59978" ],
     "SYOBOI" : [ "7629" ],
     "TWITTER" : [ "Anime_Frieren/" ],
     "WEBSITE" : [ "https://frieren-anime.jp/" ],
     "WIKIPEDIA_EN" : [ "Frieren" ],
     "WIKIPEDIA_JP" : [ "葬送のフリーレン" ],
-    "YOUTUBE" : [ "watch?v=DknvOzqQCTo" ]
+    "YOUTUBE" : [ "watch?v=C0BG3B7aksU", "watch?v=DknvOzqQCTo", "watch?v=FY4Bx2qtkRM" ]
   },
   "start_date" : "2026-01-16",
   "tags" : {
@@ -271,12 +337,20 @@
     "title" : "Frieren: Beyond Journey`s End (2026)",
     "type" : "OFFICIAL"
   }, {
+    "language" : "GERMAN",
+    "title" : "Frieren: Nach dem Ende der Reise Staffel 2",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "葬送のフリーレン (2026)",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
     "title" : "Frieren 2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Sousou no Frieren S2",
     "type" : "SYNONYM"
   }, {
     "language" : "GERMAN",

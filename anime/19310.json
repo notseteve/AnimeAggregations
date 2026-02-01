@@ -56,10 +56,16 @@
     "7070" : [ {
       "name" : "Matsumoto Fumio",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Matsumoto Fumio",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "7889" : [ {
       "name" : "Fukuyo Takaaki",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Fukuyo Takaaki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "9774" : [ {
       "name" : "Kunisawa Mariko",
@@ -68,6 +74,9 @@
     "13410" : [ {
       "name" : "Furusawa Takafumi",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Furusawa Takafumi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "40304" : [ {
       "name" : "Takahashi Ryou",
@@ -86,28 +95,56 @@
       "type" : "DIRECTOR"
     } ]
   },
-  "description" : "To vanquish the increasingly powerful Demon Lord, divine revelation ordained a party of heroes, each blessed with a unique power. That spelled trouble for http://anidb.net/ch149412 [Flum Apricot], a total weakling of a girl who has no idea what her power of \"Reversal\" even does. Betrayed and left behind with a wretched slave trader who enjoys nothing more than seeing his merchandise fight for their lives, Flum thinks all hope is lost—until she gets her hand on a massive, cursed sword. Finally, after so many years, she understands the nature of her power, and both she and her new companion Milkit are about to experience a huge \"Reversal\" of their fate!\nSource: Seven Seas Entertainment",
+  "description" : "* Based on a dark fantasy battle yuri light novel series written by http://anidb.net/cr81353 [Kiki] and illustrated by http://anidb.net/cr81354 [Kinta] and http://anidb.net/cr82119 [Kodamazon].\nTo vanquish the increasingly powerful Demon Lord, divine revelation ordained a party of heroes, each blessed with a unique power. That spelled trouble for http://anidb.net/ch149412 [Flum Apricot], a total weakling of a girl who has no idea what her power of \"Reversal\" even does. Betrayed and left behind with a wretched slave trader who enjoys nothing more than seeing his merchandise fight for their lives, Flum thinks all hope is lost—until she gets her hand on a massive, cursed sword. Finally, after so many years, she understands the nature of her power, and both she and her new companion http://anidb.net/ch150096 [Milkit] are about to experience a huge \"Reversal\" of their fate!\nSource: Seven Seas Entertainment",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-09",
+      "description" : "Flum Apricot`s journey gets off to a horrible start as she goes from hero to zero.\nSource: Crunchyroll",
       "episode_id" : 306391,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.95,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366304JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hajimari to Owari"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Beginning and the End"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "はじまりとおわり"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-16",
+      "description" : "Flum heads off in search of the werewolf from the job request, but she encounters more than she bargained for.\nSource: Crunchyroll",
       "episode_id" : 306392,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.84,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366305JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Coincidence and Fate"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Guuzen to Unmei"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "偶然と運命"
       } ],
       "type" : "REGULAR"
     }, {
@@ -117,8 +154,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Junshin to Yokoshima"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Purity and Corruption"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "純真と邪"
       } ],
       "type" : "REGULAR"
     }, {
@@ -132,18 +175,53 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-09",
+      "episode_id" : 306831,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-09",
+      "episode_id" : 306832,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.49,
+      "total" : 26
+    },
+    "TEMPORARY" : {
+      "rating" : 5.55,
+      "total" : 26
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "401238" ],
     "ANISON" : [ "26276" ],
     "ANN" : [ "35878" ],
+    "CRUNCHY_ROLL" : [ "GT00365592" ],
     "MAL" : [ "61587" ],
     "SYOBOI" : [ "7707" ],
     "TWITTER" : [ "omagoto_anime" ],
     "WEBSITE" : [ "https://omagoto.com/" ],
     "WIKIPEDIA_EN" : [ "Roll_Over_and_Die" ],
-    "WIKIPEDIA_JP" : [ "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい" ]
+    "WIKIPEDIA_JP" : [ "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい" ],
+    "YOUTUBE" : [ "watch?v=2q2mJyyQBhc", "watch?v=CUdMc-TYOIs" ]
   },
   "start_date" : "2026-01-09",
   "tags" : {
@@ -174,6 +252,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので, 王都で気ままに暮らしたい",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "「憑妳也想討伐魔王？」被勇者小隊逐出隊伍，只好在王都自在過活",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

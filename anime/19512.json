@@ -3,11 +3,11 @@
   "characters" : {
     "MAIN" : [ {
       "character_id" : 150173,
-      "name" : "Aquasteed",
+      "name" : "Aquasteed Marineforest",
       "type" : "CHARACTER"
     }, {
       "character_id" : 150174,
-      "name" : "Tiararose",
+      "name" : "Tiararose Lapis Clamentile",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
@@ -20,7 +20,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 150175,
-      "name" : "Hartnight",
+      "name" : "Hartknights Lapislazuli Lactomuth",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152445,
@@ -66,7 +66,7 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "Note: The first episode received an early screening at a special event on 14 December 2025 at Hotel New Otani in Tokyo. The regular TV broadcast started on 11 January 2026.",
+  "description" : "* Based on a fantasy villainess romance light novel series written by http://anidb.net/cr82619 [Puni-chan] and illustrated by http://anidb.net/cr82620 [Naruse Akeno].\nhttp://anidb.net/ch150174 [Tiararose Lapis Clamentile] is a Japanese woman who reincarnates into the otome game Lapis Lazuli Ring. She`s supposed to be the game`s antagonist, but her bad day turns good when the http://anidb.net/ch150173 [crown prince] of another nation proposes to her.\nSource: Crunchyroll\nNote: The first episode received an early screening at a special event on 14 December 2025 at Hotel New Otani in Tokyo. The regular TV broadcast started on 11 January 2026.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-11",
@@ -74,9 +74,18 @@
       "length" : 25,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366377JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "A Love That Begins with the Ending"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ending kara Hajimaru Koi wa"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "エンディングから始まる恋は"
       } ],
       "type" : "REGULAR"
     }, {
@@ -86,8 +95,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Aqua-sama wa Sugar ga Osuki?"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Prince Aqua, Do You Like Sugar?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アクア様はシュガーがお好き?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -112,17 +127,53 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-11",
+      "episode_id" : 306971,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-11",
+      "episode_id" : 306972,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.49,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 3.87,
+      "total" : 8
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "401807" ],
+    "ANISON" : [ "26278" ],
     "ANN" : [ "36868" ],
+    "CRUNCHY_ROLL" : [ "GT00365613" ],
     "MAL" : [ "62000" ],
     "SYOBOI" : [ "7679" ],
     "TWITTER" : [ "akudeki_anime" ],
     "WEBSITE" : [ "https://akudeki-anime.com/" ],
     "WIKIPEDIA_EN" : [ "The_Villainess_Is_Adored_by_the_Prince_of_the_Neighbor_Kingdom" ],
-    "WIKIPEDIA_JP" : [ "悪役令嬢は隣国の王太子に溺愛される" ]
+    "WIKIPEDIA_JP" : [ "悪役令嬢は隣国の王太子に溺愛される" ],
+    "YOUTUBE" : [ "watch?v=GBs5dPA_iQs", "watch?v=MOsbaJaL02k" ]
   },
   "start_date" : "2026-01-11",
   "tags" : {

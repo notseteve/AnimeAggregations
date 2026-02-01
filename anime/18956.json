@@ -9,6 +9,51 @@
       "character_id" : 149041,
       "name" : "Satou Kaya",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 153066,
+      "name" : "Akira-sensei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153071,
+      "name" : "Chihiro-sensei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153074,
+      "name" : "Ebisumori Mutsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153073,
+      "name" : "Ebisumori Namu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153072,
+      "name" : "Ebisumori Nana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153069,
+      "name" : "Kenken",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153075,
+      "name" : "Mobu Osamu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153070,
+      "name" : "Saku-chan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153068,
+      "name" : "Satou Mirai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153067,
+      "name" : "Satou Shizuo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153076,
+      "name" : "Yuzu-chan",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -41,21 +86,35 @@
       "type" : "CHARACTER_DESIGN"
     } ],
     "81926" : [ {
-      "name" : "Yuritarou",
+      "name" : "Yuri Tarou",
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "Note: The first two episodes received an early screening at a special event on 9 January 2026 at Ikebukuro HUMAX Cinemas in Tokyo. The regular TV broadcast started on 11 January 2026.",
+  "description" : "* Based on an action horror manga by http://anidb.net/cr81926 [Yuri Tarou].\nhttp://anidb.net/ch149041 [Kaya-chan] attends Hanamugi Kindergarten, and she has an incredibly strong sixth sense. She secretly beats up the ghosts that stalk her friends and family, but in turn, she`s treated like a troublemaker since nobody understands her strange behavior. Everything changes when her teacher, http://anidb.net/ch149042 [Chie], discovers her secret. Kaya-chan`s fists will go flying at any sinister spirits that show up!\nSource: Crunchyroll\nNote: The first two episodes received an early screening at a special event on 9 January 2026 at Ikebukuro HUMAX Cinemas in Tokyo. The regular TV broadcast started on 11 January 2026.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-11",
+      "description" : "Kaya-chan is the strongest kindergartener psychic, and she protects everyone from evil ghosts.\nSource: Crunchyroll",
       "episode_id" : 306499,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.12,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366246JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Kaya-chan Isn`t Scary?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kaya-chan wa Kowakunai?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "カヤちゃんはコワくない?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -63,10 +122,23 @@
       "episode_id" : 306500,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.55,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366247JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Invisible Things Aren`t Scary / Parks Aren`t Scary / Strangers Aren`t Scary?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mienai Mono wa Kowakunai / Kouen wa Kowakunai / Shiranai Hito wa Kowakunai?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "見えないものはコワくない / 公園はコワくない / 知らない人はコワくない?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -91,6 +163,33 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-11",
+      "episode_id" : 306958,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-11",
+      "episode_id" : 306959,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 7.49,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2025-06-06",
@@ -128,32 +227,76 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.67,
+      "total" : 14
+    },
+    "TEMPORARY" : {
+      "rating" : 4.85,
+      "total" : 14
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "402682" ],
     "ANISON" : [ "26274" ],
     "ANN" : [ "33888" ],
+    "CRUNCHY_ROLL" : [ "GT00365583" ],
     "MAL" : [ "60223" ],
     "SYOBOI" : [ "7701" ],
     "TWITTER" : [ "kayakowa" ],
     "WEBSITE" : [ "https://kayachan.com/" ],
     "WIKIPEDIA_EN" : [ "Kaya-chan_Isn't_Scary" ],
     "WIKIPEDIA_JP" : [ "カヤちゃんはコワくない" ],
-    "YOUTUBE" : [ "watch?v=BGa9_xVMaEY", "watch?v=mDUkXvxI-kM" ]
+    "YOUTUBE" : [ "watch?v=BGa9_xVMaEY", "watch?v=OGCOFl9HDlw", "watch?v=mDUkXvxI-kM", "watch?v=qAlPo5EHilg" ]
   },
   "similar" : {
     "16132" : {
       "rating" : 7.5,
-      "total" : 4
+      "total" : 8
+    },
+    "17536" : {
+      "rating" : 8.75,
+      "total" : 8
     }
   },
   "start_date" : "2026-01-11",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2798" : {
       "info_box" : true,
@@ -163,9 +306,57 @@
       "verified" : false,
       "weight" : 0
     },
+    "2851" : {
+      "info_box" : true,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -190,6 +381,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "カヤちゃんはコワくない",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "神八小妹不可怕",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

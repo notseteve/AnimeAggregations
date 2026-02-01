@@ -1,6 +1,11 @@
 {
   "anime_id" : 19219,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 153215,
+      "name" : "Ed Cyrus",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 152578,
       "name" : "\"Shinigami\" Yashiro",
@@ -11,6 +16,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 153144,
+      "name" : "\"Kohaku no Ibara\" Kyou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 152576,
       "name" : "\"Moguri\" no Maruta",
       "type" : "CHARACTER"
@@ -29,6 +38,10 @@
     }, {
       "character_id" : 152580,
       "name" : "Saera Kashiwagi Pendragon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153145,
+      "name" : "Takamiya Kiyohito",
       "type" : "CHARACTER"
     } ]
   },
@@ -58,28 +71,56 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "In an alternate 21st century, rich mafia members can turn into \"Demon Kings\" through increasingly popular ether-enhancement surgery, and the bounty hunters called \"Braves\" are the ones called upon to take them down. Yashiro only wants the simple pleasures in life - pizza, beer, and card games. When three young Braves offer him a majestic sum to be their private tutor, he agrees solely for the money - but is it worth what he`s getting himself into?\nSource: Manga Planet\nNote: The first three episodes received an early screening at a special event on 14 December 2025 at Marunouchi Piccadilly in Tokyo. The regular TV broadcast started on 11 January 2026.",
+  "description" : "* Based on an urban fantasy light novel series written by http://anidb.net/cr72702 [Rocket Shoukai].\nIn an alternate 21st century, rich mafia members can turn into \"Demon Kings\" through increasingly popular ether-enhancement surgery, and the bounty hunters called \"Braves\" are the ones called upon to take them down. http://anidb.net/ch152578 [Yashiro] only wants the simple pleasures in life - pizza, beer, and card games. When three young Braves offer him a majestic sum to be their private tutor, he agrees solely for the money - but is it worth what he`s getting himself into?\nSource: Manga Planet\nNote: The first three episodes received an early screening at a special event on 14 December 2025 at Marunouchi Piccadilly in Tokyo. The regular TV broadcast started on 11 January 2026.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-11",
+      "description" : "In a world where crime has turned fantastical, Braves like Yashiro to take down the magical criminals.\nSource: Crunchyroll",
       "episode_id" : 306511,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.6,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00367923JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Meeting of the Braves"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yuusha no Deai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "勇者の出会い"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-18",
+      "description" : "Jogamine and Yashiro make a move on the Count of Amber Thorns` base.\nSource: Crunchyroll",
       "episode_id" : 306512,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.47,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00367924JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "A Brave`s Magic"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yuusha no Mahou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "勇者の魔法"
       } ],
       "type" : "REGULAR"
     }, {
@@ -90,7 +131,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "A Teacher for Braves"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yuusha no Kyoukan"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "勇者の教官"
       } ],
       "type" : "REGULAR"
     }, {
@@ -104,6 +151,73 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-08",
+      "episode_id" : 307227,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-15",
+      "episode_id" : 307228,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-22",
+      "episode_id" : 307229,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-01",
+      "episode_id" : 307230,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-11",
+      "episode_id" : 306960,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-11",
+      "episode_id" : 306961,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2025-12-06",
@@ -124,17 +238,28 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.15,
+      "total" : 27
+    },
+    "TEMPORARY" : {
+      "rating" : 6.29,
+      "total" : 27
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "402369" ],
     "ANISON" : [ "26285" ],
     "ANN" : [ "35165" ],
+    "CRUNCHY_ROLL" : [ "GT00365730" ],
     "MAL" : [ "61217" ],
     "SYOBOI" : [ "7703" ],
     "TWITTER" : [ "yushanokuzu" ],
     "WEBSITE" : [ "https://yushanokuzu.com/" ],
     "WIKIPEDIA_EN" : [ "Scum_of_the_Brave" ],
     "WIKIPEDIA_JP" : [ "勇者のクズ" ],
-    "YOUTUBE" : [ "watch?v=rmhxBsx9yLw" ]
+    "YOUTUBE" : [ "watch?v=0uwmTsnMSV0", "watch?v=6owf1r3HGpM", "watch?v=rmhxBsx9yLw" ]
   },
   "start_date" : "2026-01-11",
   "tags" : {
@@ -165,6 +290,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "勇者のクズ",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "勇者之屑",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "勇者之渣",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

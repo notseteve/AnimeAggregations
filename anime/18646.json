@@ -1,6 +1,31 @@
 {
   "anime_id" : 18646,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 153120,
+      "name" : "Fowler",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152897,
+      "name" : "Kayla",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153119,
+      "name" : "Marco",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152896,
+      "name" : "Mia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152894,
+      "name" : "Ozzy",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152895,
+      "name" : "Trevor",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 152522,
       "name" : "Charlie",
@@ -77,6 +102,10 @@
       "episode_id" : 306327,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 8.19,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE",
@@ -94,10 +123,20 @@
       "episode_id" : 306328,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.28,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "ALA (ANIMAL LIBERATION ALLIANCE)"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "ALA (Animal Liberation Alliance)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "ALA (Animal Liberation Alliance)"
       } ],
       "type" : "REGULAR"
     }, {
@@ -108,7 +147,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Heterosis"
       } ],
       "type" : "REGULAR"
     }, {
@@ -119,7 +158,51 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "One of a Kind"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-04",
+      "episode_id" : 307029,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "The Struggle for Rights"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-11",
+      "episode_id" : 307030,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Direct Action"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-18",
+      "episode_id" : 307031,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Red Pill"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-25",
+      "episode_id" : 307032,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Visitors"
       } ],
       "type" : "REGULAR"
     } ],
@@ -146,6 +229,16 @@
       } ],
       "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.92,
+      "total" : 13
+    },
+    "TEMPORARY" : {
+      "rating" : 5.38,
+      "total" : 13
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "399658" ],
@@ -187,12 +280,36 @@
     "title" : "El incidente Darwin",
     "type" : "OFFICIAL"
   }, {
+    "language" : "SPANISH_LATIN",
+    "title" : "El incidente Darwin",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "POLISH",
+    "title" : "Incydent Darwina",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "The Darwin Incident",
     "type" : "OFFICIAL"
   }, {
+    "language" : "THAI",
+    "title" : "ดาร์วิน พันธุ์อุบัติใหม่‬",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ダーウィン事変",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "达尔文事变",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "達爾文事變‬",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "다윈 사변‬",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

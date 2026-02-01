@@ -9,6 +9,99 @@
       "character_id" : 149156,
       "name" : "Gai",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 152943,
+      "name" : "Houjou Musashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152948,
+      "name" : "Houjou Musashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152942,
+      "name" : "Houjou Yamato",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152949,
+      "name" : "Houjou Yamato",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152945,
+      "name" : "Ishida Shion",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152950,
+      "name" : "Ishida Shion",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152941,
+      "name" : "Uesugi Kaito",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152947,
+      "name" : "Uesugi Kaito",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 152951,
+      "name" : "Anayama",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152944,
+      "name" : "Aragaki Mirei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152952,
+      "name" : "Isa Nyuudou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152962,
+      "name" : "Izumo-souridaijin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152954,
+      "name" : "Kakei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152955,
+      "name" : "Kamanosuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152960,
+      "name" : "Mochizuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152940,
+      "name" : "Nasti Yagyuu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152959,
+      "name" : "Nezu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152946,
+      "name" : "Oda Ryuusei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152961,
+      "name" : "Ramaga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152956,
+      "name" : "Saizou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152957,
+      "name" : "Sasuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152958,
+      "name" : "Seikai Nyuudou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152953,
+      "name" : "Unno",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -25,10 +118,18 @@
       "other" : "Villain Character Design",
       "type" : "OTHER"
     } ],
+    "5795" : [ {
+      "name" : "Yamanaka Junko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "7615" : [ {
       "name" : "Suzuki Takuya",
       "other" : "Animation Armor Gear Design",
       "type" : "OTHER"
+    } ],
+    "13121" : [ {
+      "name" : "Tanaka Tomoko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "15999" : [ {
       "name" : "Murota Yuuhei",
@@ -47,17 +148,34 @@
       "type" : "SERIES_COMPOSITION"
     } ]
   },
-  "description" : "Note: The first three episodes received an early screening at a special event on 23 December 2025 at Shinjuku Piccadilly in Tokyo. The regular TV broadcast started on 6 January 2026.",
+  "description" : "The Demon World once plunged the Human World into terror. With the seal broken and hordes of Demon Soldiers launching an invasion, five young warriors rushed to humanity`s rescue. They were called the Samurai Troopers, and now their battle begins anew!\nSource: Crunchyroll\nNote: The first three episodes received an early screening at a special event on 23 December 2025 at Shinjuku Piccadilly in Tokyo. The regular TV broadcast started on 6 January 2026.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-06",
+      "description" : "35 years after the first demon invasion, a new menace threatens Tokyo.\nSource: Crunchyroll",
       "episode_id" : 305880,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.67,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00367519JAJP" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Prolog"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Prologue"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Prologue"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "賦露楼寓"
       } ],
       "type" : "REGULAR"
     }, {
@@ -65,10 +183,26 @@
       "episode_id" : 305881,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.95,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00367521JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Armor"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Armor"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Rüstung"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "阿亜魔亜"
       } ],
       "type" : "REGULAR"
     }, {
@@ -79,7 +213,16 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Link"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Link"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Link"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "璃天駆"
       } ],
       "type" : "REGULAR"
     }, {
@@ -93,20 +236,109 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-03",
+      "episode_id" : 307035,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-10",
+      "episode_id" : 307036,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-17",
+      "episode_id" : 307037,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-24",
+      "episode_id" : 307038,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-06",
+      "episode_id" : 307039,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 9.95,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-13",
+      "episode_id" : 307040,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 6.88,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.19,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 4.83,
+      "total" : 9
+    }
+  },
   "related" : {
-    "PREQUEL" : [ 3380 ]
+    "PREQUEL" : [ 3380 ],
+    "SEQUEL" : [ 19816 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "400965" ],
+    "ANISON" : [ "26245" ],
     "ANN" : [ "36518" ],
+    "CRUNCHY_ROLL" : [ "GT00367517" ],
     "MAL" : [ "61830" ],
     "SYOBOI" : [ "7654" ],
     "TWITTER" : [ "samuraitroo_pr/" ],
     "WEBSITE" : [ "https://www.samurai-trooper.net/" ],
     "WIKIPEDIA_EN" : [ "Ronin_Warriors" ],
-    "WIKIPEDIA_JP" : [ "鎧伝サムライトルーパー" ]
+    "WIKIPEDIA_JP" : [ "鎧伝サムライトルーパー" ],
+    "YOUTUBE" : [ "watch?v=VJflo-z7e7A", "watch?v=kHUPdA8H6qk" ]
   },
   "start_date" : "2026-01-06",
   "tags" : {
@@ -130,6 +362,14 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Yoroi Shin Den Samurai Troopers",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Yoroi-Shinden Samurai Troopers",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Yoroi-Shinden Samurai Troopers",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "鎧真伝サムライトルーパー",

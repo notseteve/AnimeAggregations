@@ -1,49 +1,66 @@
 {
   "anime_id" : 4087,
-  "description" : "Adapted from the ancient Chinese novel \"Journey to the West\", this lively animated film depicts one of the most popular of the Monkey King stories - Fighting the Heavenly Army. The Monkey Sun Wukong, cheated and jeered by the heavenly court, revolts and fights his way to earth to assume his rightful place as king. Follow his adventures, as the Emperor sends his army to catch the Monkey King.",
-  "end_date" : "1965",
+  "creators" : {
+    "84439" : [ {
+      "name" : "Wan Laiming",
+      "type" : "DIRECTOR"
+    } ]
+  },
+  "description" : "Adapted from the ancient Chinese novel \"Journey to the West\", this lively animated film depicts one of the most popular of the Monkey King stories - Fighting the Heavenly Army. The Monkey Sun Wukong, cheated and jeered by the heavenly court, revolts and fights his way to earth to assume his rightful place as king. Follow his adventures, as the Emperor sends his army to catch the Monkey King.\n[i]The first part of the film was completed in 1961 by Wan Laiming and Wan Guchan. The second part was completed in 1964 with the assistance of Wan Chaochen and Wan Dihuan. Both parts of the film were screened together for the first time in 1965.\nOn 2025-08-01, DiscMedia collaborated with Shanghai Animation Film Studio to release a remastered version of the complete 110 minute movie as World Cinema Library (WCL) #90.[/i]",
+  "end_date" : "1964-07-25",
   "episodes" : {
     "REGULAR" : [ {
-      "episode_id" : 47428,
-      "length" : 115,
+      "episode_id" : 42642,
+      "length" : 45,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Complete Movie"
-      } ],
-      "type" : "REGULAR"
-    }, {
-      "episode_id" : 42642,
-      "length" : 60,
-      "number" : 2,
-      "recap" : false,
-      "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Part 1 of 2"
+        "title" : "Part 1"
       } ],
       "type" : "REGULAR"
     }, {
       "episode_id" : 42643,
-      "length" : 55,
-      "number" : 3,
+      "length" : 70,
+      "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Part 2 of 2"
+        "title" : "Part 2"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "episode_id" : 306688,
+      "length" : 35,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Film Legend: Monkey King Uproar in Heaven - Me and the Monkey King"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "OTHER" : [ {
+      "episode_id" : 47428,
+      "length" : 110,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "1965 Complete Movie"
+      } ],
+      "type" : "OTHER"
     }, {
-      "air_date" : "2012-01-12",
-      "episode_id" : 178431,
-      "length" : 95,
-      "number" : 4,
+      "episode_id" : 306718,
+      "length" : 110,
+      "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "HD Remaster"
+        "title" : "1965 Complete Movie: 2025 Remaster"
       } ],
-      "type" : "REGULAR"
+      "type" : "OTHER"
     } ]
   },
   "ratings" : {
@@ -57,11 +74,13 @@
     }
   },
   "related" : {
+    "ALTERNATIVE_SETTING" : [ 19727 ],
     "CHARACTER" : [ 2753, 7927, 9369 ],
     "SEQUEL" : [ 7386 ]
   },
   "resources" : {
     "AMAZON" : [ "B01A9MHYL6" ],
+    "BAIDU_BAIKE" : [ "大闹天宫/134" ],
     "IMDB" : [ "tt0059855" ],
     "MAL" : [ "6855" ],
     "WIKIPEDIA_EN" : [ "Havoc_in_Heaven" ],
@@ -70,11 +89,11 @@
   },
   "similar" : {
     "2199" : {
-      "rating" : 10.0,
-      "total" : 2
+      "rating" : 6.666666666666666,
+      "total" : 3
     }
   },
-  "start_date" : "1965",
+  "start_date" : "1961",
   "tags" : {
     "30" : {
       "info_box" : false,
@@ -199,6 +218,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3795" : {
+      "info_box" : false,
+      "name" : "remastered version available",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4278" : {
       "info_box" : false,
       "name" : "stand-alone movie",
@@ -280,7 +307,7 @@
   },
   "titles" : [ {
     "language" : "CHINESE_TRANSLITERATED",
-    "title" : "Da Nao Tian Gong",
+    "title" : "Danao Tiangong",
     "type" : "MAIN"
   }, {
     "language" : "GERMAN",
@@ -313,6 +340,10 @@
   }, {
     "language" : "CHINESE_TRANSLITERATED",
     "title" : "Da no tien gu",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_TRANSLITERATED",
+    "title" : "Dao Nao Tiangong",
     "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",

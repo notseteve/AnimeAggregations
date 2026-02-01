@@ -251,7 +251,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.83,
+        "rating" : 5.82,
         "total" : 5
       },
       "recap" : false,
@@ -276,7 +276,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.38,
+        "rating" : 8.39,
         "total" : 5
       },
       "recap" : false,
@@ -301,7 +301,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.04,
+        "rating" : 6.03,
         "total" : 5
       },
       "recap" : false,
@@ -500,12 +500,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.86,
-      "total" : 118
+      "rating" : 5.85,
+      "total" : 128
     },
     "TEMPORARY" : {
-      "rating" : 6.63,
-      "total" : 119
+      "rating" : 6.66,
+      "total" : 129
     }
   },
   "resources" : {
@@ -524,11 +524,19 @@
   "similar" : {
     "13256" : {
       "rating" : 10.0,
-      "total" : 11
+      "total" : 12
     }
   },
   "start_date" : "2025-10-04",
   "tags" : {
+    "1278" : {
+      "info_box" : false,
+      "name" : "android",
+      "parent_tag_id" : 2274,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "1528" : {
       "info_box" : false,
       "name" : "artificial intelligence",
@@ -536,6 +544,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2202" : {
+      "info_box" : false,
+      "name" : "alien",
+      "parent_tag_id" : 2846,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2274" : {
+      "info_box" : false,
+      "name" : "robot",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2605" : {
       "info_box" : false,
@@ -613,6 +637,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2638" : {
+      "info_box" : false,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2672" : {
       "info_box" : false,
       "name" : "Japan",
@@ -653,6 +685,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2794" : {
+      "info_box" : false,
+      "name" : "music",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2834" : {
       "info_box" : false,
       "name" : "Asia",
@@ -667,7 +707,7 @@
       "parent_tag_id" : 7050,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 300
     },
     "2850" : {
       "info_box" : true,
@@ -704,6 +744,14 @@
     "2881" : {
       "info_box" : false,
       "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
@@ -753,6 +801,14 @@
       "info_box" : false,
       "name" : "mono no aware",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3941" : {
+      "info_box" : false,
+      "name" : "flood",
+      "parent_tag_id" : 2874,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -834,6 +890,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "7005" : {
+      "info_box" : false,
+      "name" : "ancient aliens",
+      "parent_tag_id" : 2846,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
     },
     "7050" : {
       "info_box" : false,

@@ -1,6 +1,47 @@
 {
   "anime_id" : 18363,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 107605,
+      "name" : "Gojou Satoru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 113302,
+      "name" : "Ieiri Shouko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 113301,
+      "name" : "Ijichi Kiyotaka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 113135,
+      "name" : "Itadori Wasuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153137,
+      "name" : "Ken-san",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 121358,
+      "name" : "Miguel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 121365,
+      "name" : "Nitta Akari",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152979,
+      "name" : "Rika",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152978,
+      "name" : "Zen`in Jin`ichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152980,
+      "name" : "Zen`in Ougi",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 116511,
       "name" : "Chousou",
@@ -12,10 +53,6 @@
     }, {
       "character_id" : 107128,
       "name" : "Itadori Yuuji",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 118696,
-      "name" : "Okkotsu Yuuta",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
@@ -35,12 +72,20 @@
       "name" : "Kogane",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 152976,
+      "name" : "Okkotsu Yuuta",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 113298,
       "name" : "Panda",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152688,
       "name" : "Reggie Star",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 113132,
+      "name" : "Ryoumen Sukuna",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152693,
@@ -55,7 +100,7 @@
       "name" : "Tsukumo Yuki",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 113296,
+      "character_id" : 152974,
       "name" : "Zen`in Maki",
       "type" : "CHARACTER"
     }, {
@@ -65,6 +110,14 @@
     } ]
   },
   "creators" : {
+    "1910" : [ {
+      "name" : "Shimizu Takako",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "18164" : [ {
+      "name" : "Mori Mitsue",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "31375" : [ {
       "name" : "MAPPA",
       "type" : "WORK"
@@ -72,6 +125,9 @@
     "33355" : [ {
       "name" : "Niwa Hiromi",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Niwa Hiromi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "37817" : [ {
       "name" : "Seko Hiroshi",
@@ -88,23 +144,44 @@
     "57476" : [ {
       "name" : "Yajima Yousuke",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Yajima Yousuke",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "59303" : [ {
       "name" : "Akutami Gege",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "66014" : [ {
+      "name" : "Yamazaki Souta",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
-  "description" : "* Based on a dark fantasy shounen manga by http://anidb.net/cr59303 [Akutami Gege].",
+  "description" : "* Based on a dark fantasy shounen manga by http://anidb.net/cr59303 [Akutami Gege].\nIn a world where cursed spirits feed on unsuspecting humans, fragments of the legendary and feared demon Sukuna Ryomen have been lost and scattered about. Should any demon consume Sukuna`s body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of jujutsu sorcerers who exist to protect the precarious existence of the living from the supernatural!\nHunted down by http://anidb.net/ch152976 [Okkotsu] and on the brink of death, http://anidb.net/ch107128 [Itadori] recalls a troubling family scene from his past. But why is the former form of Kamo Noritoshi there? As the sorcerers begin to take action toward suppressing the lethal culling game, http://anidb.net/ch152974 [Maki] pays the Zen`in clan a visit...\nSource: Viz\nNote: The first two episodes received an early premiere in cinemas worldwide as part of a season 2 recap movie titled Jujutsu Kaisen: Execution - Shibuya Incident x The Culling Game Begins starting on 7 November 2025 in Japan. The regular TV broadcast started on 9 January 2026.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-09",
+      "description" : "While Yuji grapples with the weight of his sins, Naoya Zen`in and Yuta Okkotsu set out to execute him.\nSource: Crunchyroll",
       "episode_id" : 306399,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.8,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00367568JAJP" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Die Hinrichtung"
+      }, {
+        "language" : "SPANISH",
+        "title" : "Ejecución"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Execution"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shikkou"
@@ -118,13 +195,26 @@
       "episode_id" : 306400,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.21,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00367569JAJP" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 2"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Mou Ichido"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Noch einmal"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "One More Time"
+      }, {
+        "language" : "SPANISH",
+        "title" : "Otra vez"
       }, {
         "language" : "JAPANESE",
         "title" : "もう一度"
@@ -132,13 +222,30 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-16",
+      "description" : "Itadori and his friends speak with Tengen about Kenjaku`s objectives and their plans for the Culling Game.\nSource: Crunchyroll",
       "episode_id" : 306401,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 5.72,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00367570JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "About the Culling Game"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shimetsu Kaiyuu ni Tsuite"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Über die Metzel-Spiele"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "死滅回游について"
       } ],
       "type" : "REGULAR"
     }, {
@@ -148,11 +255,120 @@
       "number" : 4,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ashi o Fukumu"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Perfect Preparation"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "葦を啣む"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-01-30",
+      "episode_id" : 306848,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-06",
+      "episode_id" : 306849,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-13",
+      "episode_id" : 306850,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-20",
+      "episode_id" : 306851,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-12-27",
+      "episode_id" : 306819,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "\"Shimetsu Kaiyuu\" Housou Chokuzen! Jujutsu Kaisen: Soufukushuu Special Tokuban!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "「死滅回游」放送直前! 呪術廻戦 総復習スペシャル特番!"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-09",
+      "episode_id" : 306825,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 6.38,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-09",
+      "episode_id" : 306830,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 5.31,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.17,
+      "total" : 37
+    },
+    "TEMPORARY" : {
+      "rating" : 7.55,
+      "total" : 38
+    }
   },
   "related" : {
     "PREQUEL" : [ 17196 ]
@@ -161,12 +377,14 @@
     "ALL_CINEMA" : [ "402136" ],
     "ANISON" : [ "23041" ],
     "ANN" : [ "31174" ],
+    "CRUNCHY_ROLL" : [ "GRDV0019R" ],
     "MAL" : [ "57658" ],
     "SYOBOI" : [ "7685" ],
     "TWITTER" : [ "animejujutsu" ],
     "WEBSITE" : [ "https://jujutsukaisen.jp/" ],
     "WIKIPEDIA_EN" : [ "Jujutsu_Kaisen" ],
-    "WIKIPEDIA_JP" : [ "呪術廻戦_(アニメ)" ]
+    "WIKIPEDIA_JP" : [ "呪術廻戦_(アニメ)" ],
+    "YOUTUBE" : [ "watch?v=-i8LR9-WVps", "watch?v=Xr032EhUDPw" ]
   },
   "start_date" : "2026-01-09",
   "tags" : {
@@ -188,16 +406,24 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Jujutsu Kaisen: Shimetsu Kaiyuu",
+    "title" : "Jujutsu Kaisen: Shimetsu Kaiyuu Zenpen",
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
-    "title" : "Jujutsu Kaisen: The Culling Game",
+    "title" : "Jujutsu Kaisen: The Culling Game Part 1",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
-    "title" : "呪術廻戦 死滅回游",
+    "title" : "呪術廻戦 死滅回游 前編",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "咒术回战 死灭回游 前篇",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Jujutsu Kaisen Season 3",
+    "type" : "SYNONYM"
   }, {
     "language" : "BULGARIAN",
     "title" : "Джуджуцу Кайсен: Игра на подбор",

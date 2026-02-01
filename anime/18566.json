@@ -1,6 +1,23 @@
 {
   "anime_id" : 18566,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 138843,
+      "name" : "Bruse",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153190,
+      "name" : "Chacha-chan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 137302,
+      "name" : "Kyui",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153189,
+      "name" : "Usatsuchi",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 133240,
       "name" : "Ex",
@@ -17,6 +34,10 @@
     "SECONDARY" : [ {
       "character_id" : 136918,
       "name" : "Canadge",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138162,
+      "name" : "Datarma",
       "type" : "CHARACTER"
     }, {
       "character_id" : 136915,
@@ -102,14 +123,22 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "* Based on a fantasy gag manga written by http://anidb.net/cr34717 [Haruhara Robinson] and drawn by http://anidb.net/cr72419 [Hirakei].",
+  "description" : "* Based on a fantasy gag manga written by http://anidb.net/cr34717 [Haruhara Robinson] and drawn by http://anidb.net/cr72419 [Hirakei].\nThe battle between the Imperial Army and Hellhorde has continued for many years. The http://anidb.net/ch133242 [princess], who is also the Commander of the Third Legion of the Imperial Army, is now being captured by the Hellhorde.\"`Tis Time for \"Torture\", Princess\". Awaiting the imprisoned princess were numerous excruciating forms of \"Torture\". Fluffy freshly baked toast! Late-night ramen with hot steam rising! Playtime with adorable animals! The princess, relentlessly confronted with delicious meals and joyful activities, will she be able to overcome the \"tortures\" and protect the kingdom`s secrets?\nSource: Ani-One Asia",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-12",
+      "description" : "The princess is plagued by memory loss, candles on a cake, a game of basketball, and her own imagination.\nSource: Crunchyroll",
       "episode_id" : 305912,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.51,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00327901JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
@@ -120,7 +149,14 @@
       "episode_id" : 305913,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.2,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00327904JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
@@ -149,6 +185,51 @@
       } ],
       "type" : "REGULAR"
     } ],
+    "SPECIAL" : [ {
+      "air_date" : "2026-01-12",
+      "episode_id" : 307016,
+      "length" : 60,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Toujitsu Countdown Namahaishin"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送当日カウントダウン生配信"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-12",
+      "episode_id" : 307018,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-12",
+      "episode_id" : 307019,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 6.67,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2024-03-26",
       "episode_id" : 289037,
@@ -168,18 +249,31 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.96,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 6.87,
+      "total" : 8
+    }
+  },
   "related" : {
     "PREQUEL" : [ 18082 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "400389" ],
+    "ANISON" : [ "25272" ],
     "ANN" : [ "32594" ],
+    "CRUNCHY_ROLL" : [ "G1XHJV0KV" ],
     "MAL" : [ "58524" ],
     "SYOBOI" : [ "7658" ],
     "TWITTER" : [ "himesama_goumon" ],
     "WEBSITE" : [ "https://himesama-goumon.com/" ],
     "WIKIPEDIA_EN" : [ "'Tis_Time_for_\"Torture,\"_Princess" ],
     "WIKIPEDIA_JP" : [ "姫様“拷問”の時間です" ],
-    "YOUTUBE" : [ "watch?v=Ddu4vARk3u0" ]
+    "YOUTUBE" : [ "watch?v=Ddu4vARk3u0", "watch?v=KPSvI5K6O_k", "watch?v=dvhpqvIwrfs" ]
   },
   "start_date" : "2026-01-12",
   "tags" : {

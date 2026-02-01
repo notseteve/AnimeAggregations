@@ -1,5 +1,16 @@
 {
   "anime_id" : 13226,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 153201,
+      "name" : "Atori Kippei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153200,
+      "name" : "Kuga Towa",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "720" : [ {
       "name" : "J.C.Staff",
@@ -30,17 +41,53 @@
     } ]
   },
   "description" : "With the rapidly accelerating development of hyper-technology, a humanoid-type machine called \"Labor\" is being used in every field of industry. However, it has created the new social menace of \"Labor\" crime. In order to curb such crimes from happening one after another, the Metropolitan Police Department has established a special department. The \"Special Vehicle Section No.2\". It consists of company of patrol \"Labor\" known as Patlabor.",
+  "end_date" : "2027-03",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-05-15",
+      "episode_id" : 307332,
+      "length" : 0,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Movie 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-14",
+      "episode_id" : 307333,
+      "length" : 0,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Movie 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 307334,
+      "length" : 0,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Movie 3"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "related" : {
     "OTHER" : [ 1518 ]
   },
   "resources" : {
-    "ALL_CINEMA" : [ "365175" ],
+    "ALL_CINEMA" : [ "365175", "404169", "404170" ],
     "ANN" : [ "33589" ],
     "MAL" : [ "59889" ],
     "TWITTER" : [ "patlabor0810" ],
-    "WEBSITE" : [ "http://patlabor.tokyo/" ]
+    "WEBSITE" : [ "https://ezy.patlabor.tokyo/" ]
   },
-  "start_date" : "1970-01-01",
+  "start_date" : "2026-05-15",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -67,6 +114,6 @@
     "title" : "機動警察パトレイバー EZY",
     "type" : "OFFICIAL"
   } ],
-  "type" : "UNKNOWN",
-  "url" : "http://patlabor.tokyo/"
+  "type" : "MOVIE",
+  "url" : "https://ezy.patlabor.tokyo/"
 }

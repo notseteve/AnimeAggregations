@@ -2,8 +2,40 @@
   "anime_id" : 18901,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 153131,
+      "name" : "Geinin Mizuno",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153132,
+      "name" : "Geinin Yagi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 127016,
       "name" : "Hoshino Ai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132215,
+      "name" : "Kaburagi Masaya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153128,
+      "name" : "Kote Momiji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132316,
+      "name" : "Kotobuki Minami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131912,
+      "name" : "Saitou Ichigo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153133,
+      "name" : "Shikai Sawa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132317,
+      "name" : "Shiranui Frill",
       "type" : "CHARACTER"
     }, {
       "character_id" : 150981,
@@ -38,6 +70,10 @@
     }, {
       "character_id" : 131353,
       "name" : "Mem-cho",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131910,
+      "name" : "Saitou Miyako",
       "type" : "CHARACTER"
     }, {
       "character_id" : 143823,
@@ -102,17 +138,30 @@
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
-  "description" : "* Based on a seinen manga written by http://anidb.net/cr55229 [Akasaka Aka] and drawn by http://anidb.net/cr40028 [Yokoyari Mengo].\nNote: The first episode received an early screening at a special event on 28 December 2025 at Marunouchi Piccadilly in Tokyo and 104 additional venues across Japan. The regular TV broadcast started on 14 January 2026.",
+  "description" : "* Based on a seinen manga written by http://anidb.net/cr55229 [Akasaka Aka] and drawn by http://anidb.net/cr40028 [Yokoyari Mengo].\nThe story enters a new stage... Six months have passed since the release of \"POP IN 2.\" Thanks to http://anidb.net/ch131353 [MEM-cho]`s efforts, B-Komachi is now on the verge of a breakthrough. http://anidb.net/ch128518 [Aqua] is steadily progressing as a multi-talented artist and http://anidb.net/ch131354 [Akane] is on her way to becoming a skilled actress. Meanwhile, http://anidb.net/ch130523 [Kana] has lost her former cheerful demeanor. And http://anidb.net/ch128520 [Ruby] is climbing the ranks of the entertainment industry while pursuing the truth behind the deaths of http://anidb.net/ch127016 [Ai] and http://anidb.net/ch128521 [Gorou] — using lies as a weapon.\nSource: HIDIVE\nNote: The first episode received an early screening at a special event on 28 December 2025 at Marunouchi Piccadilly in Tokyo and 104 additional venues across Japan. The regular TV broadcast started on 14 January 2026.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-14",
       "episode_id" : 306525,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.19,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366819JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Down Bad"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Irekomi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "入れ込み"
       } ],
       "type" : "REGULAR"
     }, {
@@ -155,7 +204,7 @@
       "length" : 1,
       "number" : 1,
       "rating" : {
-        "rating" : 2.76,
+        "rating" : 2.75,
         "total" : 1
       },
       "recap" : false,
@@ -193,18 +242,30 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.44,
+      "total" : 12
+    },
+    "TEMPORARY" : {
+      "rating" : 7.89,
+      "total" : 14
+    }
+  },
   "related" : {
     "PREQUEL" : [ 18086 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "399210" ],
+    "ANISON" : [ "24845" ],
     "ANN" : [ "33662" ],
+    "CRUNCHY_ROLL" : [ "GT00366791" ],
     "MAL" : [ "60058" ],
     "SYOBOI" : [ "7689" ],
     "TWITTER" : [ "anime_oshinoko" ],
     "WEBSITE" : [ "https://ichigoproduction.com/Season3/" ],
     "WIKIPEDIA_EN" : [ "Oshi_no_Ko" ],
-    "WIKIPEDIA_JP" : [ "【推しの子】" ],
+    "WIKIPEDIA_JP" : [ "【推しの子】_(アニメ)" ],
     "YOUTUBE" : [ "watch?v=YMsDROPoe1o", "watch?v=wRiwe0FGzJU" ]
   },
   "start_date" : "2026-01-14",
@@ -268,8 +329,16 @@
     "title" : "[推しの子] (2026)",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "【我推的孩子】",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "Oshi no Ko 3",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Oshi no Ko S3",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

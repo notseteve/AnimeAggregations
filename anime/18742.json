@@ -14,6 +14,10 @@
       "name" : "Assault",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153156,
+      "name" : "Benimaru (Shounen)",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 106647,
       "name" : "Dr. Giovanni",
       "type" : "CHARACTER"
@@ -86,6 +90,18 @@
       "name" : "Scop",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153158,
+      "name" : "Setsuko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153157,
+      "name" : "Setsuko no Musuko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153159,
+      "name" : "Shinpeita",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 106656,
       "name" : "Souichirou Hague",
       "type" : "CHARACTER"
@@ -112,10 +128,6 @@
     }, {
       "character_id" : 111664,
       "name" : "Yuu",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 111126,
-      "name" : "Yuuichirou Kurono",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -200,6 +212,10 @@
       "name" : "Ooguro",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 102510,
+      "name" : "Princess Hibana",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 102517,
       "name" : "Rekka Hoshimiya",
       "type" : "CHARACTER"
@@ -222,6 +238,10 @@
     }, {
       "character_id" : 102516,
       "name" : "Takeru Noto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111126,
+      "name" : "Yuuichirou Kurono",
       "type" : "CHARACTER"
     } ]
   },
@@ -259,14 +279,22 @@
       "type" : "SERIES_COMPOSITION"
     } ]
   },
-  "description" : "* Based on an action shounen manga drawn by http://anidb.net/cr9469 [Ookubo Atsushi].",
+  "description" : "* Based on an action shounen manga drawn by http://anidb.net/cr9469 [Ookubo Atsushi].\nFacing His Demons with the Great Cataclysm underway, Adolla draws ever nearer. The Special Fire Force has their hands full when the sixth and seventh pillars emerge simultaneously. Company 8 would help if only the Empire didn`t want them for treason. Meanwhile, http://anidb.net/ch102513 [Benimaru] hears about the seventh pillar`s Demon Infernal and declares, \"This is my fight.\"\nSource: Kodansha",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-10",
+      "description" : "Shinra is overwhelmed and loses consciousness. The next time he wakes, he`s tied down in an unfamiliar room.\nSource: Crunchyroll",
       "episode_id" : 297936,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.92,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GJWUQ23JV" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Mujikaku"
@@ -274,19 +302,45 @@
         "language" : "ENGLISH",
         "title" : "Unaware"
       }, {
+        "language" : "GERMAN",
+        "title" : "Unbewusstheit"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Підміна"
+      }, {
         "language" : "JAPANESE",
         "title" : "無自覚"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-17",
+      "description" : "Fire soldiers race out to fight two pillars at once. Benimaru spots a certain Infernal near one of the two.\nSource: Crunchyroll",
       "episode_id" : 306411,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.33,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GN7UNDEWV" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Das Sonnenrad auf dem Rücken"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nichirin o Se ni"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "With the Sun at His Back"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "З Сонцем за спиною"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "日輪を背に"
       } ],
       "type" : "REGULAR"
     }, {
@@ -297,7 +351,16 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Birth"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Geburt"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shussei"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "出生"
       } ],
       "type" : "REGULAR"
     }, {
@@ -311,7 +374,73 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-07",
+      "episode_id" : 307133,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-14",
+      "episode_id" : 307134,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-21",
+      "episode_id" : 307135,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-28",
+      "episode_id" : 307136,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-10",
+      "episode_id" : 306969,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.12,
+      "total" : 13
+    },
+    "TEMPORARY" : {
+      "rating" : 5.84,
+      "total" : 13
+    }
   },
   "related" : {
     "PREQUEL" : [ 17420 ],
@@ -321,12 +450,14 @@
     "ALL_CINEMA" : [ "402374" ],
     "ANISON" : [ "22099" ],
     "ANN" : [ "32885" ],
+    "CRUNCHY_ROLL" : [ "GYQWNXPZY" ],
     "MAL" : [ "59229" ],
     "SYOBOI" : [ "7686" ],
     "TWITTER" : [ "FireForce_PR" ],
     "WEBSITE" : [ "https://fireforce-anime.jp/" ],
     "WIKIPEDIA_EN" : [ "Fire_Force" ],
-    "WIKIPEDIA_JP" : [ "炎炎ノ消防隊" ]
+    "WIKIPEDIA_JP" : [ "炎炎ノ消防隊" ],
+    "YOUTUBE" : [ "watch?v=FsQ09FXk_0o" ]
   },
   "start_date" : "2026-01-10",
   "tags" : {
@@ -517,8 +648,16 @@
     "title" : "炎炎ノ消防隊 参ノ章 (2026)",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "炎炎消防队 叁之章 第2部分",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "ENGLISH",
     "title" : "Fire Force Season 3 Part 2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "炎炎消防隊 參之章 2026",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

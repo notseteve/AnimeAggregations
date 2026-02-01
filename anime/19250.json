@@ -73,9 +73,18 @@
       "length" : 25,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00349298JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "10年後の花火"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Juunengo no Hanabi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Fireworks Ten Years Later"
       } ],
       "type" : "REGULAR"
     }, {
@@ -85,8 +94,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akiramerarenai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "I Can`t Give Up"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "諦められない"
       } ],
       "type" : "REGULAR"
     }, {
@@ -111,7 +126,40 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-09",
+      "episode_id" : 306834,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-09",
+      "episode_id" : 306835,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.6,
+      "total" : 5
+    },
+    "TEMPORARY" : {
+      "rating" : 3.8,
+      "total" : 5
+    }
   },
   "related" : {
     "PREQUEL" : [ 18506 ]
@@ -126,7 +174,8 @@
     "TWITTER" : [ "koishima_pr" ],
     "WEBSITE" : [ "https://koishima-pr.com/" ],
     "WIKIPEDIA_EN" : [ "Anyway,_I'm_Falling_in_Love_with_You" ],
-    "WIKIPEDIA_JP" : [ "どうせ、恋してしまうんだ。" ]
+    "WIKIPEDIA_JP" : [ "どうせ、恋してしまうんだ。" ],
+    "YOUTUBE" : [ "watch?v=0Lxu3LIY-m4", "watch?v=ycgs83FGgJA" ]
   },
   "start_date" : "2026-01-09",
   "tags" : {
@@ -158,6 +207,14 @@
     "language" : "JAPANESE",
     "title" : "どうせ, 恋してしまうんだ. (2026)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Anyway, I`m Falling in Love with You. Season 2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Douse, Koishite Shimaunda S2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://koishima-pr.com/"

@@ -50,6 +50,7 @@
     } ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "402529" ],
     "ANN" : [ "34506" ],
     "MAL" : [ "60852" ],
     "TWITTER" : [ "korinojoheki_pr" ],
@@ -57,8 +58,23 @@
     "WIKIPEDIA_EN" : [ "The_Ramparts_of_Ice" ],
     "WIKIPEDIA_JP" : [ "氷の城壁" ]
   },
-  "start_date" : "2026-04",
+  "start_date" : "2026-04-02",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

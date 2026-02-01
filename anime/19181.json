@@ -1,5 +1,82 @@
 {
   "anime_id" : 19181,
+  "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 153099,
+      "name" : "Dategaseki Moriemon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153098,
+      "name" : "Hasegawa Eizou Nobuo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153093,
+      "name" : "Houjou Rokuemon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153097,
+      "name" : "Jinsuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153095,
+      "name" : "Kingorou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153102,
+      "name" : "Onatsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153101,
+      "name" : "Osuzu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153096,
+      "name" : "Renji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153094,
+      "name" : "Torigoe Akiyo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153100,
+      "name" : "Tougorou",
+      "type" : "CHARACTER"
+    } ],
+    "MAIN" : [ {
+      "character_id" : 153087,
+      "name" : "Matsunaga Gengo",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 153085,
+      "name" : "Hikoya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153082,
+      "name" : "Kaji Seijuurou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153088,
+      "name" : "Miyuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153083,
+      "name" : "Ooto Kankurou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153086,
+      "name" : "Orishita Samon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153084,
+      "name" : "Torajirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153089,
+      "name" : "Torigoe Shinnosuke",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "1163" : [ {
       "name" : "SynergySP",
@@ -9,6 +86,10 @@
       "name" : "Takanashi Yasuharu",
       "type" : "MUSIC"
     } ],
+    "3579" : [ {
+      "name" : "Kamegaki Hajime",
+      "type" : "CHIEF_DIRECTOR"
+    } ],
     "80321" : [ {
       "name" : "Imamura Shougo",
       "type" : "ORIGINAL_WORK"
@@ -16,21 +97,33 @@
     "84189" : [ {
       "name" : "Mori Ryuusuke",
       "type" : "SERIES_COMPOSITION"
+    } ],
+    "84569" : [ {
+      "name" : "Yasumi Hiroshi",
+      "type" : "DIRECTOR"
     } ]
   },
+  "description" : "* Based on a historical novel series written by http://anidb.net/cr80321 [Imamura Shougo].\nhttp://anidb.net/ch153087 [Matsunaga Gengo], once known as Phoenix, was the greatest samurai fire-slayer in all of Edo. After leaving fire-slaying, Gengo is approached with an offer from the Shinjo Domain. Encouraged by his wife, http://anidb.net/ch153088 [Miyuki], he sets out to rebuild a fallen firefighting brigade. Gengo gathers a group of misfits, the Ragged Fire-Slayers, as they investigate mysterious fires started by the arsonist Kitsunebi.\nSource: Crunchyroll",
   "episodes" : {
     "REGULAR" : [ {
-      "air_date" : "2026-01-11",
+      "air_date" : "2026-01-12",
       "episode_id" : 305908,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.44,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366284JAJP" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Saisei no Hidane"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Sparks of Rebirth"
       }, {
         "language" : "JAPANESE",
         "title" : "再生の火種"
@@ -43,8 +136,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dohyougiwa no Rikishi"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "土俵際の力士"
       } ],
       "type" : "REGULAR"
     }, {
@@ -69,20 +168,60 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-12",
+      "episode_id" : 307047,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.78,
+      "total" : 10
+    },
+    "TEMPORARY" : {
+      "rating" : 2.81,
+      "total" : 11
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "401999" ],
+    "ANISON" : [ "26280" ],
     "ANN" : [ "34843" ],
+    "CRUNCHY_ROLL" : [ "GT00365724" ],
     "MAL" : [ "61084" ],
     "SYOBOI" : [ "7672" ],
     "TWITTER" : [ "hikuidori_pj" ],
     "WEBSITE" : [ "https://hikuidori-project.com/" ],
     "WIKIPEDIA_EN" : [ "Ushūboro_Tobigumi" ],
-    "WIKIPEDIA_JP" : [ "羽州ぼろ鳶組シリーズ" ]
+    "WIKIPEDIA_JP" : [ "羽州ぼろ鳶組シリーズ" ],
+    "YOUTUBE" : [ "watch?v=3GZ6TUiQv2I" ]
   },
-  "start_date" : "2026-01-11",
+  "start_date" : "2026-01-12",
   "tags" : {
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -104,9 +243,25 @@
     "title" : "Hikuidori: Ushuu Boro Tobi-gumi",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Oedo Fire Slayer: The Legend of Phoenix",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "大江戶烈火殺手",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "火喰鳥 羽州ぼろ鳶組",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "火喰鸟 羽州褴褛鸢组",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Hikuidori - Ushuu Boro Tobi-gumi",
+    "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",
     "title" : "Oedo Fire Slayer -The Legend of Phoenix-",

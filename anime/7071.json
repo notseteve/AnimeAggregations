@@ -240,6 +240,17 @@
         "title" : "カンビュセスの籤"
       } ],
       "type" : "REGULAR"
+    } ],
+    "PROMOTION" : [ {
+      "episode_id" : 306939,
+      "length" : 3,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Trailer"
+      } ],
+      "type" : "PROMOTION"
     } ]
   },
   "ratings" : {
@@ -257,7 +268,8 @@
     "ANIME_NFO" : [ "2743,bosdre" ],
     "ANISON" : [ "2617" ],
     "ANN" : [ "8229" ],
-    "MAL" : [ "19899" ]
+    "MAL" : [ "19899" ],
+    "YOUTUBE" : [ "watch?v=8pkQPUcici4" ]
   },
   "start_date" : "1990-03",
   "tags" : {
@@ -275,6 +287,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -282,6 +301,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "3955" : {
       "info_box" : false,
@@ -294,6 +321,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

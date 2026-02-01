@@ -58,7 +58,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.14,
+      "rating" : 4.13,
       "total" : 12
     },
     "TEMPORARY" : {
@@ -84,6 +84,29 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2637" : {
+      "info_box" : true,
+      "name" : "time travel",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "3955" : {
       "info_box" : false,
       "name" : "DESCRIPTION MISSING",
@@ -95,6 +118,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

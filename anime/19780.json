@@ -1,5 +1,86 @@
 {
   "anime_id" : 19780,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 141794,
+      "name" : "Myoudou Akina",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 123614,
+      "name" : "Hazama Michiru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141793,
+      "name" : "Inabe Nao",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141798,
+      "name" : "Saitou Mikoto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145270,
+      "name" : "Yakumo Kagetsu",
+      "type" : "CHARACTER"
+    } ]
+  },
+  "creators" : {
+    "2950" : [ {
+      "name" : "Kinema Citrus",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "6287" : [ {
+      "name" : "Bushiroad",
+      "type" : "ORIGINAL_WORK"
+    } ],
+    "6592" : [ {
+      "name" : "Kidani Takaaki",
+      "type" : "ORIGINAL_PLAN"
+    } ],
+    "10763" : [ {
+      "name" : "Nagasaku Tomokatsu",
+      "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Nagasaku Tomokatsu",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "16765" : [ {
+      "name" : "Kuwano Hijiri",
+      "type" : "MUSIC"
+    } ],
+    "20778" : [ {
+      "name" : "Saita Hiroyuki",
+      "type" : "CHARACTER_DESIGN"
+    } ],
+    "21507" : [ {
+      "name" : "Itou Akira",
+      "type" : "ORIGINAL_WORK"
+    } ],
+    "45935" : [ {
+      "name" : "Yamada Taku",
+      "type" : "DIRECTOR"
+    } ],
+    "51089" : [ {
+      "name" : "Gift-o`-Animation",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "60633" : [ {
+      "name" : "Oonishi Takahito",
+      "type" : "SERIES_COMPOSITION"
+    } ],
+    "63489" : [ {
+      "name" : "Studio Jemi",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "65060" : [ {
+      "name" : "Park Ga-Young",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "67827" : [ {
+      "name" : "Menjou Shun",
+      "type" : "SERIES_COMPOSITION"
+    } ]
+  },
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-10",
@@ -8,11 +89,11 @@
       "number" : 1,
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Genma Seisen"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Parallactic Clash"
       }, {
         "language" : "JAPANESE",
         "title" : "幻真星戦"
@@ -25,8 +106,14 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyuusai no Zero"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Zero of Salvation"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "救済の零"
       } ],
       "type" : "REGULAR"
     }, {
@@ -37,7 +124,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Life and Death"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sei to Shi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "生と死"
       } ],
       "type" : "REGULAR"
     }, {
@@ -51,7 +144,73 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-07",
+      "episode_id" : 307129,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-14",
+      "episode_id" : 307130,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-21",
+      "episode_id" : 307131,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-28",
+      "episode_id" : 307132,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-10",
+      "episode_id" : 307048,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.06,
+      "total" : 1
+    },
+    "TEMPORARY" : {
+      "rating" : 4.0,
+      "total" : 1
+    }
   },
   "related" : {
     "PREQUEL" : [ 19352 ]
@@ -62,7 +221,8 @@
     "MAL" : [ "62649" ],
     "SYOBOI" : [ "7688" ],
     "WEBSITE" : [ "https://anime.cf-vanguard.com/vgd/" ],
-    "WIKIPEDIA_JP" : [ "カードファイト!!_ヴァンガード_overDress" ]
+    "WIKIPEDIA_JP" : [ "カードファイト!!_ヴァンガード_overDress" ],
+    "YOUTUBE" : [ "watch?v=1i_whZ8w2w0", "watch?v=RYIy6ZPZI8Y", "watch?v=zCbiWxWN1dE" ]
   },
   "start_date" : "2026-01-10",
   "tags" : {

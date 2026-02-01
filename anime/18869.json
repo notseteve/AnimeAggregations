@@ -2,20 +2,20 @@
   "anime_id" : 18869,
   "characters" : {
     "MAIN" : [ {
-      "character_id" : 153003,
-      "name" : "Gino",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 153010,
-      "name" : "Heri",
+      "name" : "Heli",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152999,
-      "name" : "Ian",
+      "name" : "Jaan",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153004,
-      "name" : "Jaka",
+      "name" : "Jakah",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153003,
+      "name" : "Jino",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153009,
@@ -78,12 +78,17 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "* Based on a dark urban fantasy manhwa by http://anidb.net/cr80804 [Hybe].\nIn the seaside city of Riverfield stands Decelis Academy, home to seven mysterious boys sharing the same secret: They`re vampires, hiding their murky pasts. When http://anidb.net/ch153005 [Sooha], a female student who hates vampires, transfers to the academy, the boys find themselves irresistibly drawn to her. As strange events shake the city, old sins and buried secrets resurface, and their world begins to fracture.\nSource: Crunchyroll",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-10",
       "episode_id" : 306414,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.73,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00366126JAJP" ]
@@ -108,6 +113,9 @@
       "length" : 25,
       "number" : 2,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366127JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE",
         "title" : "Crescent Moon -塀を越えた狼たち-"
@@ -126,8 +134,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "Half Moon -抜け駆けデート-"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Half Moon: Nukegake Date"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Half Moon: The Pre-emptive Date"
       } ],
       "type" : "REGULAR"
     }, {
@@ -141,16 +155,83 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-07",
+      "episode_id" : 307149,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-14",
+      "episode_id" : 307150,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-21",
+      "episode_id" : 307151,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-28",
+      "episode_id" : 307152,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-10",
+      "episode_id" : 306952,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-17",
+      "episode_id" : 307175,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.26,
-      "total" : 3
+      "rating" : 3.33,
+      "total" : 7
     },
     "TEMPORARY" : {
-      "rating" : 3.66,
-      "total" : 3
+      "rating" : 4.14,
+      "total" : 7
     }
   },
   "resources" : {
@@ -162,7 +243,8 @@
     "SYOBOI" : [ "7725" ],
     "TWITTER" : [ "DARKMOON_TBA" ],
     "WEBSITE" : [ "https://darkmoon-tba.com/" ],
-    "WIKIPEDIA_EN" : [ "Dark_Moon:_The_Blood_Altar" ]
+    "WIKIPEDIA_EN" : [ "Dark_Moon:_The_Blood_Altar" ],
+    "YOUTUBE" : [ "watch?v=GW6uUdv_JmM", "watch?v=aiAUHgVtGH0" ]
   },
   "start_date" : "2026-01-10",
   "tags" : {

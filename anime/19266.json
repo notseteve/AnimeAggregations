@@ -2,12 +2,20 @@
   "anime_id" : 19266,
   "characters" : {
     "MAIN" : [ {
+      "character_id" : 152879,
+      "name" : "Hinata Haru",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 151025,
       "name" : "Hiodoshi Akari",
       "type" : "CHARACTER"
     }, {
       "character_id" : 151024,
       "name" : "Minamo Shio",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152880,
+      "name" : "Sakai Yonosuke",
       "type" : "CHARACTER"
     }, {
       "character_id" : 151023,
@@ -28,26 +36,87 @@
       "name" : "Hirota Mitsutaka",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "11211" : [ {
+      "name" : "Ukulele Zenjirou",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "19514" : [ {
+      "name" : "Ujiie Akio",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "24449" : [ {
+      "name" : "Yonemoto Nana",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "26108" : [ {
+      "name" : "Yashikin",
+      "type" : "MUSIC"
+    } ],
+    "28911" : [ {
+      "name" : "Yun Jeong-Hye",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "38825" : [ {
+      "name" : "Itou Tsubasa",
+      "type" : "MUSIC"
+    } ],
+    "47078" : [ {
+      "name" : "Asama Hidehiro",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "49764" : [ {
+      "name" : "Zenta",
+      "type" : "MUSIC"
+    } ],
+    "52672" : [ {
+      "name" : "Noguchi Masatsune",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "62825" : [ {
       "name" : "Iwasaki Reina",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Iwasaki Reina",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "78512" : [ {
+      "name" : "Yakuwa Tomomi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "80795" : [ {
       "name" : "Misu Shin`ya",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "81398" : [ {
+      "name" : "Wada Kaoru",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
-  "description" : "Note: The first two episodes received an early screening at a special event on 12 December 2025 at United Cinemas Aqua City Odaiba in Tokyo. The regular TV broadcast started on 6 January 2026.",
+  "description" : "* Based on a romantic comedy manga by http://anidb.net/cr80795 [Misu Shin`ya].\nHigh school freshman http://anidb.net/ch152880 [Sakai Yonosuke], aka Eiyu, is obsessed with rom-coms, especially ones about childhood friends. But even though he has two childhood friends of his own—http://anidb.net/ch151024 [Shio] and http://anidb.net/ch151025 [Akari]—he`s sadly given up on romance becoming a reality. Little does he know, both girls have the hots for him! A humorous will-they-or-won`t-they rom-com about friendship, love, and first crushes!\nSource: Crunchyroll\nNote: The first two episodes received an early screening at a special event on 12 December 2025 at United Cinemas Aqua City Odaiba in Tokyo. The regular TV broadcast started on 6 January 2026.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-06",
+      "description" : "Shio and Akari, Eiyu`s childhood friends, each try to get his attention in their own twisted way.\nSource: Crunchyroll",
       "episode_id" : 305876,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.52,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366904JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Road to School? Indirect Kiss? Butt on Lap? Still Won`t Start a Rom-Com"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tsuugakuro de mo Kansetsu Kiss de mo Oshiri o Nosete mo Lovecome ni Naranai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "通学路でも間接キスでもお尻を乗せてもラブコメにならない"
       } ],
       "type" : "REGULAR"
     }, {
@@ -55,10 +124,23 @@
       "episode_id" : 305877,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.86,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366905JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Full Bus? Drenched in Rain? Feelings Exposed? Admiring Them? Still Won`t Start a Rom-Com"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Man`in Bus de mo Ame ni Nurete mo Suki ga Barete mo Akogarete mo Lovecome ni Naranai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "満員バスでも雨に濡れても好きがバレても憧れてもラブコメにならない"
       } ],
       "type" : "REGULAR"
     }, {
@@ -68,8 +150,14 @@
       "number" : 3,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Akogarete Ite mo Hitoribocchi de mo Yoru no Gakkou de mo Mousou Shite mo Yakusoku Shite mo Lovecome ni Naranai"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "憧れていてもひとりぼっちでも夜の学校でも妄想しても約束してもラブコメにならない"
       } ],
       "type" : "REGULAR"
     }, {
@@ -83,17 +171,57 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-06",
+      "episode_id" : 306771,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 7.49,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-06",
+      "episode_id" : 306772,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.43,
+      "total" : 20
+    },
+    "TEMPORARY" : {
+      "rating" : 3.97,
+      "total" : 20
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "400000" ],
+    "ANISON" : [ "26272" ],
     "ANN" : [ "35487" ],
+    "CRUNCHY_ROLL" : [ "GT00365622" ],
     "MAL" : [ "61359" ],
     "SYOBOI" : [ "7666" ],
     "TWITTER" : [ "love_Osnnjm_wm" ],
     "WEBSITE" : [ "https://anime-osalove.com/" ],
     "WIKIPEDIA_EN" : [ "You_Can't_Be_in_a_Rom-Com_with_Your_Childhood_Friends!" ],
-    "WIKIPEDIA_JP" : [ "幼馴染とはラブコメにならない" ]
+    "WIKIPEDIA_JP" : [ "幼馴染とはラブコメにならない" ],
+    "YOUTUBE" : [ "watch?v=6bCKqFGK5ko", "watch?v=UgDL_Y4Qi8Y" ]
   },
   "start_date" : "2026-01-06",
   "tags" : {
@@ -172,6 +300,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2655" : {
       "info_box" : false,
       "name" : "parody",
@@ -187,6 +323,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2770" : {
+      "info_box" : false,
+      "name" : "violent retribution for accidental infringement",
+      "parent_tag_id" : 2653,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2778" : {
       "info_box" : false,
@@ -220,6 +364,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2856" : {
+      "info_box" : true,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2858" : {
       "info_box" : true,
       "name" : "romance",
@@ -252,10 +404,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "3103" : {
+      "info_box" : false,
+      "name" : "first love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4474" : {
       "info_box" : false,
       "name" : "self-parody",
       "parent_tag_id" : 2655,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4570" : {
+      "info_box" : false,
+      "name" : "watercolour style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -285,8 +460,16 @@
     "title" : "You Can`t Be in a Rom-Com with Your Childhood Friends!",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "和青梅竹马之间不会有恋爱喜剧",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "幼馴染とはラブコメにならない",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "青梅竹馬的戀愛喜劇無法成立",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

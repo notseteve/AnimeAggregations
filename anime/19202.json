@@ -104,7 +104,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.31,
+        "rating" : 7.32,
         "total" : 5
       },
       "recap" : false,
@@ -129,7 +129,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.31,
+        "rating" : 7.32,
         "total" : 5
       },
       "recap" : false,
@@ -154,7 +154,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.05,
+        "rating" : 8.06,
         "total" : 4
       },
       "recap" : false,
@@ -229,7 +229,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.16,
+        "rating" : 6.17,
         "total" : 3
       },
       "recap" : false,
@@ -279,7 +279,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.81,
+        "rating" : 7.82,
         "total" : 2
       },
       "recap" : false,
@@ -427,7 +427,14 @@
       "episode_id" : 306129,
       "length" : 25,
       "number" : 14,
+      "rating" : {
+        "rating" : 8.32,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364973JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "I Want to Learn More About Humans"
@@ -447,7 +454,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 15"
+        "title" : "A Masked Idol? Heavy Chop"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fukumen Idol Heavy Chop"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "覆面アイドルヘビーチョップ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -461,16 +474,78 @@
         "title" : "Episode 16"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-01",
+      "episode_id" : 307168,
+      "length" : 25,
+      "number" : 17,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 17"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-08",
+      "episode_id" : 307169,
+      "length" : 25,
+      "number" : 18,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 18"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-15",
+      "episode_id" : 307170,
+      "length" : 25,
+      "number" : 19,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 19"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-22",
+      "episode_id" : 307171,
+      "length" : 25,
+      "number" : 20,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 20"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-12-30",
+      "episode_id" : 306927,
+      "length" : 55,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tokuban! Omae no Rider o Misete Miro SP"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "特番! お前のライダーを見せてみろSP"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.83,
-      "total" : 67
+      "rating" : 6.73,
+      "total" : 69
     },
     "TEMPORARY" : {
-      "rating" : 7.35,
-      "total" : 67
+      "rating" : 7.32,
+      "total" : 69
     }
   },
   "resources" : {
@@ -491,8 +566,8 @@
       "total" : 5
     },
     "11123" : {
-      "rating" : 3.333333333333333,
-      "total" : 3
+      "rating" : 2.0,
+      "total" : 5
     }
   },
   "start_date" : "2025-10-05",
@@ -520,6 +595,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2282" : {
+      "info_box" : false,
+      "name" : "martial arts",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2604" : {
       "info_box" : false,
@@ -761,6 +844,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2877" : {
+      "info_box" : false,
+      "name" : "revenge",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2881" : {
       "info_box" : false,
       "name" : "sports",
@@ -814,6 +905,14 @@
       "name" : "plot twists",
       "parent_tag_id" : 2605,
       "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3295" : {
+      "info_box" : false,
+      "name" : "world domination",
+      "parent_tag_id" : 2607,
+      "spoiler" : true,
       "verified" : false,
       "weight" : 0
     },
@@ -888,6 +987,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "3843" : {
+      "info_box" : false,
+      "name" : "saving the world",
+      "parent_tag_id" : 2607,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
     },
     "3863" : {
       "info_box" : false,
