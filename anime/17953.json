@@ -1,12 +1,41 @@
 {
   "anime_id" : 17953,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 153286,
+      "name" : "Emilio",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153274,
+      "name" : "Eriks",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131330,
+      "name" : "Gray the Nine Lives",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153444,
+      "name" : "Highcliffe",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153445,
+      "name" : "Plato",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 127039,
+      "name" : "Rem Saverem",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 127041,
       "name" : "Vash the Stampede",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 131475,
+      "name" : "Brad",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 131331,
       "name" : "Elendira the Crimsonnail",
       "type" : "CHARACTER"
@@ -25,6 +54,10 @@
     }, {
       "character_id" : 152661,
       "name" : "Leonof the Puppet Master",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131474,
+      "name" : "Luida Leitner",
       "type" : "CHARACTER"
     }, {
       "character_id" : 127038,
@@ -91,8 +124,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.21,
-        "total" : 2
+        "rating" : 5.5,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -111,14 +144,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-17",
+      "description" : "When their home is attacked, Vash is the last hope for Brad, Jessica, and the others.\nSource: Crunchyroll",
       "episode_id" : 306423,
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 9.22,
-        "total" : 2
+        "rating" : 5.73,
+        "total" : 3
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU34EQQ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Unforgiven"
@@ -132,10 +169,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-24",
+      "description" : "The immediate threat is suppressed, but now there is no doubt that the threat from Knives is still real.\nSource: Crunchyroll",
       "episode_id" : 306424,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 5.49,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G9DU9EJ83" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Memento Mori"
@@ -152,10 +197,23 @@
       "episode_id" : 306425,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 5.49,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GX9U3QX5Z" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "From Order To Chaos"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "From Order to Chaos"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "From Order to Chaos"
       } ],
       "type" : "REGULAR"
     }, {
@@ -164,9 +222,18 @@
       "length" : 25,
       "number" : 5,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUWQ9N1" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "What a Wonderful World"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "What a Wonderful World"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "What a Wonderful World"
       } ],
       "type" : "REGULAR"
     }, {
@@ -177,7 +244,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Darkest Hour Is Just Before the Dawn"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "The Darkest Hour Is Just Before the Dawn"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "The Darkest Hour Is Just Before the Dawn"
       } ],
       "type" : "REGULAR"
     }, {
@@ -259,7 +332,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 3.1,
+        "rating" : 3.09,
         "total" : 1
       },
       "recap" : false,
@@ -272,12 +345,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.38,
-      "total" : 14
+      "rating" : 3.88,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 5.42,
-      "total" : 14
+      "rating" : 5.68,
+      "total" : 22
     }
   },
   "related" : {
@@ -326,6 +399,10 @@
     "language" : "ENGLISH",
     "title" : "Trigun Stargaze",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Trigun Stampede Season 2",
+    "type" : "SYNONYM"
   }, {
     "language" : "JAPANESE",
     "title" : "トライガン・スターゲイズ",

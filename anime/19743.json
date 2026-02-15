@@ -94,8 +94,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.55,
-        "total" : 1
+        "rating" : 6.88,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -115,8 +115,8 @@
       "length" : 30,
       "number" : 2,
       "rating" : {
-        "rating" : 3.55,
-        "total" : 1
+        "rating" : 6.88,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -135,6 +135,10 @@
       "episode_id" : 307093,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.88,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -152,6 +156,10 @@
       "episode_id" : 307094,
       "length" : 30,
       "number" : 4,
+      "rating" : {
+        "rating" : 6.09,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -169,6 +177,10 @@
       "episode_id" : 307095,
       "length" : 30,
       "number" : 5,
+      "rating" : {
+        "rating" : 5.57,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -186,6 +198,10 @@
       "episode_id" : 307096,
       "length" : 40,
       "number" : 6,
+      "rating" : {
+        "rating" : 7.54,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -203,6 +219,10 @@
       "episode_id" : 307097,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 6.76,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -220,6 +240,10 @@
       "episode_id" : 307098,
       "length" : 30,
       "number" : 8,
+      "rating" : {
+        "rating" : 5.57,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -237,6 +261,10 @@
       "episode_id" : 307099,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 5.4,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -254,6 +282,10 @@
       "episode_id" : 307100,
       "length" : 30,
       "number" : 10,
+      "rating" : {
+        "rating" : 9.52,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -288,6 +320,10 @@
       "episode_id" : 307102,
       "length" : 30,
       "number" : 12,
+      "rating" : {
+        "rating" : 1.17,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -442,6 +478,10 @@
       "episode_id" : 307161,
       "length" : 1,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.47,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -452,12 +492,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.8,
-      "total" : 2
+      "rating" : 6.08,
+      "total" : 27
     },
     "TEMPORARY" : {
-      "rating" : 5.0,
-      "total" : 2
+      "rating" : 6.67,
+      "total" : 28
     }
   },
   "resources" : {
@@ -467,8 +507,37 @@
     "WIKIPEDIA_EN" : [ "Love_Through_a_Prism" ],
     "WIKIPEDIA_JP" : [ "プリズム輪舞曲" ]
   },
+  "similar" : {
+    "2695" : {
+      "rating" : 10.0,
+      "total" : 3
+    }
+  },
   "start_date" : "2026-01-15",
   "tags" : {
+    "1049" : {
+      "info_box" : false,
+      "name" : "bicycling",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

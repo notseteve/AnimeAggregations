@@ -52,10 +52,16 @@
     "39048" : [ {
       "name" : "Nagae Akihiro",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Nagae Akihiro",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "45989" : [ {
       "name" : "Katou Fumi",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Katou Fumi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "83793" : [ {
       "name" : "Studio Chromato",
@@ -70,12 +76,28 @@
       "episode_id" : 304512,
       "length" : 145,
       "number" : 1,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Web"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-22",
+      "episode_id" : 307429,
+      "length" : 10,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2025-11-05",
@@ -113,22 +135,176 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 8.07,
+      "total" : 47
+    },
+    "TEMPORARY" : {
+      "rating" : 7.71,
+      "total" : 48
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "403117" ],
     "ANISON" : [ "26244" ],
     "ANN" : [ "37969" ],
+    "BANGUMI" : [ "604826" ],
+    "DOUBAN" : [ "37825206" ],
+    "IMDB" : [ "tt38872297" ],
     "MAL" : [ "62896" ],
     "NETFLIX" : [ "81756595" ],
     "TWITTER" : [ "Cho_KaguyaHime" ],
     "WEBSITE" : [ "https://www.cho-kaguyahime.com/" ],
     "WIKIPEDIA_EN" : [ "Cosmic_Princess_Kaguya!" ],
+    "WIKIPEDIA_JP" : [ "超かぐや姫!" ],
     "YOUTUBE" : [ "watch?v=RBZr5aT0qjc", "watch?v=TH-U3eQwcWM" ]
   },
   "start_date" : "2026-01-22",
   "tags" : {
+    "1528" : {
+      "info_box" : false,
+      "name" : "artificial intelligence",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1876" : {
+      "info_box" : false,
+      "name" : "musical band",
+      "parent_tag_id" : 2794,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2438" : {
+      "info_box" : true,
+      "name" : "idol",
+      "parent_tag_id" : 2794,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2794" : {
+      "info_box" : true,
+      "name" : "music",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2839" : {
+      "info_box" : true,
+      "name" : "virtual world",
+      "parent_tag_id" : 2628,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -137,6 +313,20 @@
       "info_box" : false,
       "name" : "Japanese production",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8242" : {
+      "info_box" : false,
+      "name" : "Mixed Media",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8243" : {
+      "info_box" : false,
+      "name" : "Primarily Female Cast",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

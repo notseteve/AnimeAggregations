@@ -290,7 +290,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.3,
+        "rating" : 3.29,
         "total" : 7
       },
       "recap" : false,
@@ -312,7 +312,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.75,
+        "rating" : 8.74,
         "total" : 9
       },
       "recap" : false,
@@ -334,7 +334,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.44,
+        "rating" : 7.43,
         "total" : 7
       },
       "recap" : false,
@@ -356,7 +356,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.92,
+        "rating" : 5.91,
         "total" : 6
       },
       "recap" : false,
@@ -422,7 +422,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.88,
+        "rating" : 5.87,
         "total" : 3
       },
       "recap" : false,
@@ -444,7 +444,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.44,
+        "rating" : 5.43,
         "total" : 4
       },
       "recap" : false,
@@ -503,7 +503,7 @@
       "length" : 1,
       "number" : 2,
       "rating" : {
-        "rating" : 8.89,
+        "rating" : 8.9,
         "total" : 4
       },
       "recap" : false,
@@ -670,8 +670,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.26,
-      "total" : 1329
+      "rating" : 6.25,
+      "total" : 1340
     },
     "REVIEW" : {
       "rating" : 6.0,
@@ -679,7 +679,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.99,
-      "total" : 1335
+      "total" : 1346
     }
   },
   "resources" : {
@@ -1173,6 +1173,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2866" : {
+      "info_box" : false,
+      "name" : "slavery",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2867" : {
       "info_box" : false,
       "name" : "politics",
@@ -1365,6 +1373,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3815" : {
       "info_box" : false,
       "name" : "human cannibalism",
@@ -1393,6 +1409,14 @@
       "info_box" : false,
       "name" : "kidnapping",
       "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4048" : {
+      "info_box" : false,
+      "name" : "Japanese mythology",
+      "parent_tag_id" : 3597,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1699,6 +1723,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6248" : {
+      "info_box" : false,
+      "name" : "thievery",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6254" : {
       "info_box" : false,
       "name" : "terrorism",
@@ -1723,6 +1755,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6840" : {
+      "info_box" : false,
+      "name" : "social media",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "7050" : {
       "info_box" : false,
       "name" : "speculative fiction",
@@ -1743,6 +1783,14 @@
       "info_box" : false,
       "name" : "Plus Ultra",
       "parent_tag_id" : 6153,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7398" : {
+      "info_box" : false,
+      "name" : "liberation of slaves",
+      "parent_tag_id" : 2866,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -270,7 +270,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.27,
+        "rating" : 5.26,
         "total" : 23
       },
       "recap" : false,
@@ -456,7 +456,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.61,
+        "rating" : 7.6,
         "total" : 17
       },
       "recap" : false,
@@ -704,7 +704,7 @@
       "length" : 25,
       "number" : 17,
       "rating" : {
-        "rating" : 5.87,
+        "rating" : 5.86,
         "total" : 10
       },
       "recap" : false,
@@ -794,7 +794,7 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 4.45,
+        "rating" : 4.44,
         "total" : 13
       },
       "recap" : false,
@@ -990,7 +990,7 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 3.18,
+        "rating" : 3.16,
         "total" : 1
       },
       "recap" : false,
@@ -1116,7 +1116,7 @@
       "length" : 15,
       "number" : 7,
       "rating" : {
-        "rating" : 3.18,
+        "rating" : 3.16,
         "total" : 1
       },
       "recap" : true,
@@ -1137,7 +1137,7 @@
       "length" : 20,
       "number" : 8,
       "rating" : {
-        "rating" : 3.18,
+        "rating" : 3.16,
         "total" : 1
       },
       "recap" : false,
@@ -1285,8 +1285,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.24,
-      "total" : 6691
+      "rating" : 7.23,
+      "total" : 6693
     },
     "REVIEW" : {
       "rating" : 6.64,
@@ -1294,7 +1294,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.02,
-      "total" : 6802
+      "total" : 6804
     }
   },
   "related" : {
@@ -1321,16 +1321,16 @@
   },
   "similar" : {
     "26" : {
-      "rating" : 4.888888888888888,
-      "total" : 45
+      "rating" : 5.0,
+      "total" : 46
     },
     "640" : {
       "rating" : 6.464646464646465,
       "total" : 99
     },
     "3302" : {
-      "rating" : 0.47619047619047616,
-      "total" : 21
+      "rating" : 0.9090909090909092,
+      "total" : 22
     },
     "4403" : {
       "rating" : 4.0740740740740735,
@@ -1390,6 +1390,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1589" : {
+      "info_box" : false,
+      "name" : "samurai",
+      "parent_tag_id" : 2622,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "1802" : {
       "info_box" : true,
       "name" : "seinen",
@@ -1414,6 +1430,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2257" : {
+      "info_box" : false,
+      "name" : "zombie",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2274" : {
       "info_box" : false,
       "name" : "robot",
@@ -1421,6 +1445,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2282" : {
+      "info_box" : false,
+      "name" : "martial arts",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2346" : {
       "info_box" : false,
@@ -1503,6 +1535,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2618" : {
+      "info_box" : false,
+      "name" : "collateral damage",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2622" : {
       "info_box" : true,
       "name" : "swordplay",
@@ -1510,6 +1550,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2626" : {
       "info_box" : false,
@@ -1526,6 +1574,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2636" : {
+      "info_box" : false,
+      "name" : "human enhancement",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2637" : {
       "info_box" : false,
@@ -1551,6 +1607,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "2649" : {
+      "info_box" : false,
+      "name" : "dark fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2653" : {
       "info_box" : false,
       "name" : "slapstick",
@@ -1567,6 +1631,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2750" : {
       "info_box" : true,
       "name" : "violence",
@@ -1574,6 +1646,46 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2772" : {
+      "info_box" : false,
+      "name" : "feudal warfare",
+      "parent_tag_id" : 36,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2778" : {
+      "info_box" : false,
+      "name" : "slow when it comes to love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2786" : {
+      "info_box" : false,
+      "name" : "love polygon",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2790" : {
       "info_box" : false,
@@ -1615,6 +1727,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2817" : {
+      "info_box" : false,
+      "name" : "skimpy clothing",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2841" : {
       "info_box" : true,
       "name" : "action",
@@ -1622,6 +1742,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2844" : {
+      "info_box" : false,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2846" : {
       "info_box" : true,
@@ -1639,6 +1767,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "2850" : {
+      "info_box" : false,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2851" : {
+      "info_box" : false,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2853" : {
       "info_box" : false,
       "name" : "comedy",
@@ -1647,13 +1791,21 @@
       "verified" : false,
       "weight" : 200
     },
+    "2854" : {
+      "info_box" : false,
+      "name" : "henshin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2856" : {
       "info_box" : false,
       "name" : "ecchi",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 200
+      "weight" : 100
     },
     "2858" : {
       "info_box" : false,
@@ -1671,6 +1823,30 @@
       "verified" : false,
       "weight" : 300
     },
+    "2866" : {
+      "info_box" : false,
+      "name" : "slavery",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2871" : {
+      "info_box" : false,
+      "name" : "anti-war",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2874" : {
       "info_box" : false,
       "name" : "disaster",
@@ -1678,6 +1854,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2876" : {
+      "info_box" : false,
+      "name" : "religion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2877" : {
+      "info_box" : false,
+      "name" : "revenge",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2879" : {
       "info_box" : false,
@@ -1694,6 +1886,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2907" : {
+      "info_box" : false,
+      "name" : "genetic modification",
+      "parent_tag_id" : 2636,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2923" : {
       "info_box" : true,
@@ -1734,9 +1934,113 @@
       "verified" : false,
       "weight" : 0
     },
+    "2983" : {
+      "info_box" : false,
+      "name" : "body sharing",
+      "parent_tag_id" : 6347,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3159" : {
+      "info_box" : false,
+      "name" : "emotions awaken superpowers",
+      "parent_tag_id" : 2623,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3245" : {
       "info_box" : false,
       "name" : "strategy",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3374" : {
+      "info_box" : false,
+      "name" : "civil war",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3435" : {
+      "info_box" : false,
+      "name" : "eating of humans",
+      "parent_tag_id" : 2851,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3436" : {
+      "info_box" : false,
+      "name" : "human experimentation",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3481" : {
+      "info_box" : false,
+      "name" : "recruiting teammates",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3504" : {
+      "info_box" : false,
+      "name" : "sake",
+      "parent_tag_id" : 2879,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3528" : {
+      "info_box" : false,
+      "name" : "reincarnation",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3554" : {
+      "info_box" : false,
+      "name" : "religious conflicts",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3581" : {
+      "info_box" : false,
+      "name" : "tactics",
       "parent_tag_id" : 2931,
       "spoiler" : false,
       "verified" : false,
@@ -1758,6 +2062,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "3663" : {
+      "info_box" : false,
+      "name" : "body takeover",
+      "parent_tag_id" : 6347,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3718" : {
+      "info_box" : false,
+      "name" : "love between enemies",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3779" : {
+      "info_box" : false,
+      "name" : "fight for peace",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3795" : {
       "info_box" : false,
       "name" : "remastered version available",
@@ -1766,10 +2094,50 @@
       "verified" : false,
       "weight" : 0
     },
+    "3818" : {
+      "info_box" : false,
+      "name" : "kids in war",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "3898" : {
       "info_box" : false,
       "name" : "science and magic coexist",
       "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3929" : {
+      "info_box" : false,
+      "name" : "sociocultural evolution",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4004" : {
+      "info_box" : false,
+      "name" : "organic mecha",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1786,6 +2154,30 @@
       "info_box" : false,
       "name" : "gore",
       "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4182" : {
+      "info_box" : false,
+      "name" : "hidden power",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4203" : {
+      "info_box" : false,
+      "name" : "rebellion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4215" : {
+      "info_box" : false,
+      "name" : "daikaijuu",
+      "parent_tag_id" : 7050,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1812,7 +2204,7 @@
       "parent_tag_id" : 6242,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 100
     },
     "4327" : {
       "info_box" : false,
@@ -1826,6 +2218,14 @@
       "info_box" : false,
       "name" : "large-scale war",
       "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4520" : {
+      "info_box" : false,
+      "name" : "betrayal",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1853,6 +2253,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "5150" : {
       "info_box" : false,
@@ -1886,10 +2294,58 @@
       "verified" : false,
       "weight" : 0
     },
+    "5838" : {
+      "info_box" : false,
+      "name" : "fire",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5842" : {
+      "info_box" : false,
+      "name" : "guerilla warfare",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6018" : {
       "info_box" : false,
       "name" : "predominantly adult cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6062" : {
+      "info_box" : false,
+      "name" : "heroic sacrifice",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6073" : {
+      "info_box" : false,
+      "name" : "age difference romance",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6083" : {
+      "info_box" : false,
+      "name" : "master-servant relationship",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1924,6 +2380,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6230" : {
       "info_box" : false,
       "name" : "cast",
@@ -1943,6 +2423,14 @@
     "6242" : {
       "info_box" : false,
       "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6347" : {
+      "info_box" : false,
+      "name" : "body and host",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,

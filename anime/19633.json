@@ -23,8 +23,8 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 5.7,
-        "total" : 3
+        "rating" : 4.99,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -44,8 +44,8 @@
       "length" : 15,
       "number" : 2,
       "rating" : {
-        "rating" : 4.61,
-        "total" : 4
+        "rating" : 4.29,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -65,8 +65,8 @@
       "length" : 15,
       "number" : 3,
       "rating" : {
-        "rating" : 5.34,
-        "total" : 4
+        "rating" : 4.85,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -86,8 +86,8 @@
       "length" : 15,
       "number" : 4,
       "rating" : {
-        "rating" : 5.51,
-        "total" : 4
+        "rating" : 4.99,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -107,8 +107,8 @@
       "length" : 15,
       "number" : 5,
       "rating" : {
-        "rating" : 5.28,
-        "total" : 4
+        "rating" : 4.81,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -128,8 +128,8 @@
       "length" : 15,
       "number" : 6,
       "rating" : {
-        "rating" : 5.28,
-        "total" : 4
+        "rating" : 4.81,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -149,8 +149,8 @@
       "length" : 15,
       "number" : 7,
       "rating" : {
-        "rating" : 3.48,
-        "total" : 3
+        "rating" : 3.39,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -170,8 +170,8 @@
       "length" : 15,
       "number" : 8,
       "rating" : {
-        "rating" : 4.37,
-        "total" : 2
+        "rating" : 3.92,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -191,8 +191,8 @@
       "length" : 15,
       "number" : 9,
       "rating" : {
-        "rating" : 4.15,
-        "total" : 3
+        "rating" : 3.88,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -212,8 +212,8 @@
       "length" : 15,
       "number" : 10,
       "rating" : {
-        "rating" : 4.76,
-        "total" : 3
+        "rating" : 4.32,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -233,8 +233,8 @@
       "length" : 15,
       "number" : 11,
       "rating" : {
-        "rating" : 4.37,
-        "total" : 2
+        "rating" : 3.92,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -254,8 +254,8 @@
       "length" : 15,
       "number" : 12,
       "rating" : {
-        "rating" : 4.37,
-        "total" : 2
+        "rating" : 3.92,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -273,12 +273,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.87,
-      "total" : 92
+      "rating" : 2.94,
+      "total" : 100
     },
     "TEMPORARY" : {
-      "rating" : 4.92,
-      "total" : 93
+      "rating" : 4.99,
+      "total" : 101
     }
   },
   "resources" : {
@@ -299,9 +299,79 @@
   },
   "start_date" : "2025-10-03",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "780" : {
+      "info_box" : false,
+      "name" : "fairy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "1077" : {
+      "info_box" : true,
+      "name" : "shoujo",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1609" : {
+      "info_box" : false,
+      "name" : "elf",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2355" : {
+      "info_box" : false,
+      "name" : "dragon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2535" : {
+      "info_box" : false,
+      "name" : "ghost",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -320,10 +390,80 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2850" : {
+      "info_box" : false,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2857" : {
+      "info_box" : true,
+      "name" : "anthropomorphism",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2866" : {
+      "info_box" : false,
+      "name" : "slavery",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -368,6 +508,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5939" : {
+      "info_box" : false,
+      "name" : "CAST MISSING",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6151" : {
       "info_box" : false,
       "name" : "technical aspects",
@@ -390,6 +538,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6494" : {
       "info_box" : true,
       "name" : "half-length episodes",
@@ -402,6 +558,14 @@
       "info_box" : true,
       "name" : "isekai",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

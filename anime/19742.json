@@ -14,6 +14,10 @@
       "name" : "Cure Arcana Shadow",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153358,
+      "name" : "Cure Eclair",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153051,
       "name" : "Cure Mystic",
       "type" : "CHARACTER"
@@ -28,15 +32,27 @@
     } ],
     "SECONDARY" : [ {
       "character_id" : 153052,
-      "name" : "Jet-senpai",
+      "name" : "Jett-senpai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153359,
+      "name" : "Jett-senpai",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153054,
       "name" : "Mashutan",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153361,
+      "name" : "Niji",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153053,
       "name" : "Pochitan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153360,
+      "name" : "Shushutan",
       "type" : "CHARACTER"
     } ]
   },
@@ -62,11 +78,129 @@
       "type" : "MUSIC"
     } ]
   },
+  "description" : "On her 14th birthday, http://anidb.net/ch153056 [Akechi Anna] meets a magical fairy and suddenly time-slips from 2027 to 1999! There, she befriends http://anidb.net/ch153055 [Mikuru], a spirited girl who dreams of becoming a detective. When mysterious thefts stir rumors of the Phantom Thieves, the two transform into Detective Precure, using courage, deduction, and friendship to solve cases and uncover the secret of Anna`s journey through time.\nSource: Crunchyroll",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-02-01",
+      "episode_id" : 307857,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Debut! Star Detective Precure!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tanjou! Meitantei Precure!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "誕生! 名探偵プリキュア!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-08",
+      "episode_id" : 307858,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Introducing the Genius, Jett-senpai!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tensai Toujou! Sono Na wa Jett-senpai!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "天才登場! その名はジェット先輩!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-15",
+      "episode_id" : 307859,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-22",
+      "episode_id" : 307860,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-01",
+      "episode_id" : 308102,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-08",
+      "episode_id" : 308103,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-15",
+      "episode_id" : 308104,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-22",
+      "episode_id" : 308105,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.59,
+      "total" : 3
+    },
+    "TEMPORARY" : {
+      "rating" : 6.33,
+      "total" : 3
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "403465" ],
+    "ANISON" : [ "26322" ],
     "ANN" : [ "38058" ],
+    "CRUNCHY_ROLL" : [ "GT00369409" ],
     "MAL" : [ "63042" ],
-    "WEBSITE" : [ "https://www.toei-anim.co.jp/tv/star-detective_precure/" ],
+    "SYOBOI" : [ "7731" ],
+    "TWITTER" : [ "tvanime_precure" ],
+    "WEBSITE" : [ "https://www.asahi.co.jp/precure/", "https://www.toei-anim.co.jp/tv/star-detective_precure/" ],
     "WIKIPEDIA_EN" : [ "Star_Detective_Precure!" ],
     "WIKIPEDIA_JP" : [ "名探偵プリキュア!" ]
   },
@@ -93,13 +227,13 @@
     "title" : "Meitantei Precure!",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Star Detective Precure!",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "名探偵プリキュア!",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Star Detective Precure!",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://www.toei-anim.co.jp/tv/star-detective_precure/"

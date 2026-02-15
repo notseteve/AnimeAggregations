@@ -49,9 +49,17 @@
       "name" : "Hamana Takayuki",
       "type" : "DIRECTOR"
     } ],
+    "9303" : [ {
+      "name" : "Kametani Kyouko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "9568" : [ {
       "name" : "Majiro",
       "type" : "CHARACTER_DESIGN"
+    } ],
+    "10833" : [ {
+      "name" : "Morimoto Hirofumi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "42509" : [ {
       "name" : "Houno Satoshi",
@@ -70,9 +78,14 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-11",
+      "description" : "Tiararose is shocked when her engagement is broken... but then the prince of another kingdom proposes to her.\nSource: Crunchyroll",
       "episode_id" : 306426,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 1.0,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00366377JAJP" ]
@@ -90,10 +103,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-18",
+      "description" : "As Aquasteed and Tiararose grow closer, Hartknights begins to feel guilty for what he did to Tiararose.\nSource: Crunchyroll",
       "episode_id" : 306427,
       "length" : 25,
       "number" : 2,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366378JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Aqua-sama wa Sugar ga Osuki?"
@@ -107,24 +124,103 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-25",
+      "description" : "Aquasteed recalls his first encounter with Tiararose and the events leading up to their engagement.\nSource: Crunchyroll",
       "episode_id" : 306428,
       "length" : 25,
       "number" : 3,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366379JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "A Proposal Sweeter Than Honey"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Propose wa Mitsu yori Amaku"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "プロポーズは蜜より甘く"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-01",
+      "description" : "After Akari uses the Holy Prayer, Tiararose worries that she`ll lose yet another fiancé to her.\nSource: Crunchyroll",
       "episode_id" : 306429,
       "length" : 25,
       "number" : 4,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366380JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sekai de Ichiban Amai Kiss o"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Sweetest Kiss in the World"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "世界で一番甘いキスを"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-08",
+      "episode_id" : 307268,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366381JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mermaid wa Koi o Shirazu"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Mermaid Knows Not of Love"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "マーメイドは恋を知らず"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-15",
+      "episode_id" : 307269,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nemureru Mori no Tiara"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Tiara in the Sleeping Forest"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "眠れる森のティアラ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-22",
+      "episode_id" : 307270,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-01",
+      "episode_id" : 307271,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -154,12 +250,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.49,
-      "total" : 8
+      "rating" : 2.25,
+      "total" : 25
     },
     "TEMPORARY" : {
-      "rating" : 3.87,
-      "total" : 8
+      "rating" : 4.07,
+      "total" : 25
     }
   },
   "resources" : {
@@ -220,6 +316,18 @@
     "language" : "JAPANESE",
     "title" : "悪役令嬢は隣国の王太子に溺愛される",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "被邻国王子溺爱的反派女主",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "被鄰國王太子溺愛的反派千金",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Akudeki",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://akudeki-anime.com/"

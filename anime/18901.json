@@ -2,8 +2,16 @@
   "anime_id" : 18901,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 132532,
+      "name" : "Akane no Haha",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153131,
       "name" : "Geinin Mizuno",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153223,
+      "name" : "Geinin Oosako",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153132,
@@ -26,8 +34,20 @@
       "name" : "Kotobuki Minami",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153308,
+      "name" : "Meiya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132336,
+      "name" : "Pieyon",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 131912,
       "name" : "Saitou Ichigo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133326,
+      "name" : "Samejima Abiko",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153133,
@@ -38,8 +58,16 @@
       "name" : "Shiranui Frill",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153222,
+      "name" : "Suzune Komimi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 150981,
       "name" : "Urushibara Tetsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153221,
+      "name" : "Yoshizumi Mimi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 150980,
@@ -85,6 +113,9 @@
     "1067" : [ {
       "name" : "Doga Kobo",
       "type" : "ANIMATION_WORK"
+    }, {
+      "name" : "Doga Kobo",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "9626" : [ {
       "name" : "Hiramaki Daisuke",
@@ -142,12 +173,13 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-14",
+      "description" : "Six months have passed since the release of B-Komachi`s music video, and lots of things have changed.\nSource: Crunchyroll",
       "episode_id" : 306525,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.19,
-        "total" : 6
+        "rating" : 7.32,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -160,30 +192,64 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Irekomi"
       }, {
+        "language" : "FRENCH",
+        "title" : "Obsession"
+      }, {
         "language" : "JAPANESE",
         "title" : "入れ込み"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-21",
+      "description" : "Ruby starts to make her mark as reporter on Dig Deep!\nSource: Crunchyroll",
       "episode_id" : 306526,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.02,
+        "total" : 8
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366820JAJP" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Calcul"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Calculating"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dasan"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "打算"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-28",
+      "description" : "Things go horribly wrong at the Comiket shoot. Can Dig Deep come back from this?\nSource: Crunchyroll",
       "episode_id" : 306527,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.49,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366821JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Compliance"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Correctness"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "コンプライアンス"
       } ],
       "type" : "REGULAR"
     }, {
@@ -197,6 +263,96 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-11",
+      "episode_id" : 307689,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-18",
+      "episode_id" : 307690,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-25",
+      "episode_id" : 307691,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-04",
+      "episode_id" : 307692,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-21",
+      "episode_id" : 307369,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 7.44,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-21",
+      "episode_id" : 307370,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 5.3,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-14",
+      "episode_id" : 307742,
+      "length" : 2,
+      "number" : 3,
+      "rating" : {
+        "rating" : 5.3,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening 1"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2024-10-06",
@@ -204,7 +360,7 @@
       "length" : 1,
       "number" : 1,
       "rating" : {
-        "rating" : 2.75,
+        "rating" : 2.74,
         "total" : 1
       },
       "recap" : false,
@@ -225,7 +381,7 @@
       "length" : 1,
       "number" : 2,
       "rating" : {
-        "rating" : 3.96,
+        "rating" : 3.95,
         "total" : 1
       },
       "recap" : false,
@@ -244,12 +400,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.44,
-      "total" : 12
+      "rating" : 7.82,
+      "total" : 31
     },
     "TEMPORARY" : {
-      "rating" : 7.89,
-      "total" : 14
+      "rating" : 7.86,
+      "total" : 33
     }
   },
   "related" : {
@@ -266,7 +422,7 @@
     "WEBSITE" : [ "https://ichigoproduction.com/Season3/" ],
     "WIKIPEDIA_EN" : [ "Oshi_no_Ko" ],
     "WIKIPEDIA_JP" : [ "【推しの子】_(アニメ)" ],
-    "YOUTUBE" : [ "watch?v=YMsDROPoe1o", "watch?v=wRiwe0FGzJU" ]
+    "YOUTUBE" : [ "watch?v=QgIQbeRzkkc", "watch?v=YMsDROPoe1o", "watch?v=ZWvFR00t-NE", "watch?v=wRiwe0FGzJU" ]
   },
   "start_date" : "2026-01-14",
   "tags" : {

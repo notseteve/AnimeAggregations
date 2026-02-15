@@ -69,6 +69,10 @@
       "name" : "Takayama Katsuhiko",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "6610" : [ {
+      "name" : "Hirayama Hidetsugu",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "8022" : [ {
       "name" : "Iwanaga Akira",
       "type" : "DIRECTOR"
@@ -84,6 +88,14 @@
       "name" : "Kojima Chika",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "9730" : [ {
+      "name" : "Tokuda Yumenosuke",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "11603" : [ {
+      "name" : "Watanabe Kanako",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "14228" : [ {
       "name" : "Miyazaki Makoto",
       "type" : "MUSIC"
@@ -97,11 +109,12 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-12-14",
+      "description" : "Rei Hitoma accepts a teaching job, only to learn that his students are demi-humans aiming to become human.\nSource: Crunchyroll",
       "episode_id" : 306495,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.21,
+        "rating" : 4.2,
         "total" : 3
       },
       "recap" : false,
@@ -121,9 +134,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-18",
+      "description" : "Rei learns why Kyoka wants to become a dancer. A mysterious yet familiar girl appears in the classroom.\nSource: Crunchyroll",
       "episode_id" : 306496,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.21,
+        "total" : 2
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00366088JAJP" ]
@@ -141,13 +159,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-25",
+      "description" : "Isaki stops attending class and refuses to leave her room, until Rei encounters her by chance one night.\nSource: Crunchyroll",
       "episode_id" : 306497,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 8.58,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366089JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ningengirai to Ichirin no Kojou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Misanthrope and the Lonely Castle Under the Full Moon"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "人間嫌いと一輪の孤城"
       } ],
       "type" : "REGULAR"
     }, {
@@ -155,10 +187,73 @@
       "episode_id" : 306498,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 9.91,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366090JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ningengirai to Tenshi no Houkiboshi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Misanthrope and the Angel`s Comet"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "人間嫌いと天使のほうき星"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-08",
+      "episode_id" : 307223,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ningengirai to Fukuin no Tobari"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Misanthrope and Tobari`s Hymn"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "人間嫌いと福音の帳"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-15",
+      "episode_id" : 307224,
+      "length" : 25,
+      "number" : 6,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-22",
+      "episode_id" : 307225,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-01",
+      "episode_id" : 307226,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -188,12 +283,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.99,
-      "total" : 14
+      "rating" : 2.74,
+      "total" : 23
     },
     "TEMPORARY" : {
-      "rating" : 4.35,
-      "total" : 14
+      "rating" : 4.73,
+      "total" : 23
     }
   },
   "resources" : {
@@ -238,6 +333,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "人外教室の人間嫌い教師",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "非人学生与厌世教师",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "非人學生與厭世教師",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

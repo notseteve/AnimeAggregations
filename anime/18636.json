@@ -1,6 +1,31 @@
 {
   "anime_id" : 18636,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 153363,
+      "name" : "Ashiya Claude Shizuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153453,
+      "name" : "Makita Takami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153452,
+      "name" : "Nanba Io",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153454,
+      "name" : "Nikaidou Mayumi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153451,
+      "name" : "Umeda Rio",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153249,
+      "name" : "Yujiro",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 150427,
       "name" : "Ashiya Mizuki",
@@ -17,6 +42,10 @@
     "SECONDARY" : [ {
       "character_id" : 150421,
       "name" : "Julia Maxwell",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153248,
+      "name" : "Kagurazaka Makoto",
       "type" : "CHARACTER"
     }, {
       "character_id" : 150428,
@@ -120,6 +149,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-11",
+      "description" : "After Sano stops his friend Rika from slapping Mizuki and yells at Rika, Mizuki and Sano get into a fight.\nSource: Crunchyroll",
       "episode_id" : 305995,
       "length" : 25,
       "number" : 3,
@@ -140,10 +170,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-18",
+      "description" : "Sano decides to rejoin the track team, but then his old rival Kagurazaka shows up to provoke him.\nSource: Crunchyroll",
       "episode_id" : 305996,
       "length" : 25,
       "number" : 4,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366175JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Genki no Moto"
@@ -157,24 +191,44 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-25",
+      "description" : "Sano doesn`t seem to remember the last night, but Mizuki also has other troubles: someone has it out for her.\nSource: Crunchyroll",
       "episode_id" : 306696,
       "length" : 25,
       "number" : 5,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366176JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Do They Hate Me?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kirawareten no ka naa"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "嫌われてんのかなぁ"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-01",
+      "description" : "Mizuki`s brother Shizuki unexpectedly comes to Japan. Can she keep her secret while he`s here?\nSource: Crunchyroll",
       "episode_id" : 306697,
       "length" : 25,
       "number" : 6,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366177JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "My Big Brother`s Coming!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nii-chan ga Kuru!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "兄ちゃんが来る!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -183,9 +237,18 @@
       "length" : 25,
       "number" : 7,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366178JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Because I`m a Guy!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ore, Otoko Desu kara!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "おれ, 男ですから!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -196,7 +259,57 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "It`s Not Like We Could Become Lovers"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Koibito ni Nanka, Narenai no ni"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "恋人になんか, なれないのに"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-22",
+      "episode_id" : 307877,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-01",
+      "episode_id" : 307878,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-08",
+      "episode_id" : 307879,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-15",
+      "episode_id" : 307880,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -226,12 +339,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.95,
-      "total" : 14
+      "rating" : 3.68,
+      "total" : 19
     },
     "TEMPORARY" : {
-      "rating" : 4.78,
-      "total" : 14
+      "rating" : 4.63,
+      "total" : 19
     }
   },
   "resources" : {

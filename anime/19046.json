@@ -19,12 +19,20 @@
       "name" : "Henri",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153218,
+      "name" : "Kaze no Mahoutsukai",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 152637,
       "name" : "Merino",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152636,
       "name" : "Minos",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153217,
+      "name" : "Neko no Majo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152635,
@@ -71,7 +79,7 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 8.64,
+        "rating" : 8.63,
         "total" : 7
       },
       "recap" : false,
@@ -96,7 +104,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.45,
+        "rating" : 7.43,
         "total" : 6
       },
       "recap" : false,
@@ -121,8 +129,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.75,
-        "total" : 5
+        "rating" : 8.11,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -141,10 +149,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-23",
+      "description" : "Luna pleads with the black witches for a chance to raise the boy and teach him magic so he can avoid his fate.\nSource: Crunchyroll",
       "episode_id" : 306398,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 6.41,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00367583JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kuromajo Kaigi"
@@ -158,13 +174,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-30",
+      "description" : "Luna remembers her times with the Cat Witch, a troubled girl who helped opened Luna`s eyes to new experiences.\nSource: Crunchyroll",
       "episode_id" : 306836,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 8.46,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00367584JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "I Cannot Return to the Cat Forest"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Neko no Mori ni wa Kaerenai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猫の森には帰れない"
       } ],
       "type" : "REGULAR"
     }, {
@@ -172,10 +202,20 @@
       "episode_id" : 306837,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 8.04,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ichinichime"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The First Day"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "一日目"
       } ],
       "type" : "REGULAR"
     }, {
@@ -185,8 +225,14 @@
       "number" : 7,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mahou Nikki"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "The Magic Diary"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "魔法日記"
       } ],
       "type" : "REGULAR"
     }, {
@@ -198,6 +244,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-27",
+      "episode_id" : 308031,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-06",
+      "episode_id" : 308032,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-13",
+      "episode_id" : 308033,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-20",
+      "episode_id" : 308034,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -227,12 +317,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.7,
-      "total" : 33
+      "rating" : 5.98,
+      "total" : 40
     },
     "TEMPORARY" : {
-      "rating" : 6.18,
-      "total" : 33
+      "rating" : 6.46,
+      "total" : 40
     }
   },
   "resources" : {

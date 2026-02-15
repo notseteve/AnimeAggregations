@@ -625,7 +625,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.4,
-      "total" : 1652
+      "total" : 1653
     },
     "REVIEW" : {
       "rating" : 5.94,
@@ -633,7 +633,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.24,
-      "total" : 1666
+      "total" : 1667
     }
   },
   "resources" : {
@@ -654,8 +654,8 @@
   },
   "similar" : {
     "3651" : {
-      "rating" : 4.5,
-      "total" : 20
+      "rating" : 4.761904761904762,
+      "total" : 21
     },
     "5083" : {
       "rating" : 1.5384615384615385,
@@ -691,6 +691,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2180" : {
       "info_box" : true,
       "name" : "cyborg",
@@ -698,6 +714,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2257" : {
+      "info_box" : false,
+      "name" : "zombie",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2604" : {
       "info_box" : false,
@@ -709,6 +733,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -748,6 +779,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
@@ -755,6 +794,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2619" : {
+      "info_box" : false,
+      "name" : "gunfights",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2622" : {
       "info_box" : true,
@@ -771,6 +818,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2630" : {
       "info_box" : false,
@@ -804,6 +867,22 @@
       "verified" : false,
       "weight" : 500
     },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2655" : {
+      "info_box" : false,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2672" : {
       "info_box" : false,
       "name" : "Japan",
@@ -812,10 +891,42 @@
       "verified" : false,
       "weight" : 600
     },
+    "2729" : {
+      "info_box" : false,
+      "name" : "BDSM",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2739" : {
+      "info_box" : false,
+      "name" : "brother-sister incest",
+      "parent_tag_id" : 2842,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2749" : {
       "info_box" : false,
       "name" : "nudity",
       "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2770" : {
+      "info_box" : false,
+      "name" : "violent retribution for accidental infringement",
+      "parent_tag_id" : 2653,
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
@@ -828,6 +939,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -835,6 +954,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2826" : {
+      "info_box" : false,
+      "name" : "pantsu",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2834" : {
       "info_box" : false,
@@ -845,12 +972,28 @@
       "weight" : 0
     },
     "2841" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "action",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 400
+    },
+    "2842" : {
+      "info_box" : false,
+      "name" : "incest",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2844" : {
+      "info_box" : true,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2846" : {
       "info_box" : false,
@@ -860,13 +1003,29 @@
       "verified" : false,
       "weight" : 0
     },
-    "2849" : {
+    "2848" : {
       "info_box" : false,
+      "name" : "pornography",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
       "name" : "fantasy",
       "parent_tag_id" : 7050,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 500
+    },
+    "2851" : {
+      "info_box" : false,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2853" : {
       "info_box" : true,
@@ -875,6 +1034,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2858" : {
       "info_box" : false,
@@ -892,6 +1059,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2878" : {
+      "info_box" : false,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2894" : {
       "info_box" : true,
       "name" : "female student",
@@ -900,9 +1075,25 @@
       "verified" : false,
       "weight" : 400
     },
+    "2901" : {
+      "info_box" : false,
+      "name" : "bondage",
+      "parent_tag_id" : 2729,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2979" : {
+      "info_box" : false,
+      "name" : "mutilation",
+      "parent_tag_id" : 2750,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -911,6 +1102,22 @@
       "info_box" : false,
       "name" : "boob cannon",
       "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3276" : {
+      "info_box" : false,
+      "name" : "plot twists",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3546" : {
+      "info_box" : false,
+      "name" : "experimental animation",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -939,6 +1146,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3867" : {
+      "info_box" : false,
+      "name" : "ED variety",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3909" : {
       "info_box" : false,
       "name" : "talking is a free action",
@@ -946,6 +1161,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4167" : {
+      "info_box" : false,
+      "name" : "air combat",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "4222" : {
       "info_box" : false,
@@ -987,10 +1210,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "4611" : {
+      "info_box" : false,
+      "name" : "nearly almighty protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4729" : {
+      "info_box" : false,
+      "name" : "colour coded",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4811" : {
       "info_box" : false,
       "name" : "internet",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5697" : {
+      "info_box" : false,
+      "name" : "randomness",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1007,6 +1254,14 @@
       "info_box" : false,
       "name" : "female protagonist",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5980" : {
+      "info_box" : false,
+      "name" : "live-action imagery",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1065,6 +1320,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6563" : {
+      "info_box" : false,
+      "name" : "spirit realm",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6623" : {
       "info_box" : false,
       "name" : "tank warfare",
@@ -1080,6 +1343,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7220" : {
+      "info_box" : false,
+      "name" : "sexual abuse",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7221" : {
+      "info_box" : false,
+      "name" : "psychological sexual abuse",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,

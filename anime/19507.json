@@ -83,7 +83,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.93,
+        "rating" : 6.95,
         "total" : 3
       },
       "recap" : false,
@@ -108,7 +108,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.16,
+        "rating" : 4.2,
         "total" : 2
       },
       "recap" : false,
@@ -128,6 +128,7 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-20",
+      "description" : "Commander Aresh just can`t leave Kondou alone. Is it just a sense of responsibility, or something more?\nSource: Crunchyroll",
       "episode_id" : 306307,
       "length" : 25,
       "number" : 3,
@@ -152,10 +153,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-27",
+      "description" : "Kondou gets assaulted by three knights. It`s the perfect chance to punish them and get some compensation.\nSource: Crunchyroll",
       "episode_id" : 306308,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 8.95,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366237JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Danzai Shimashita"
@@ -169,13 +178,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-03",
+      "description" : "Kondou gets dragged along to the purification.\nSource: Crunchyroll",
       "episode_id" : 307025,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366238JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ensei Shimashita"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "I Went on an Expedition"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "遠征しました"
       } ],
       "type" : "REGULAR"
     }, {
@@ -186,7 +209,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "I Made a Proposal"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Teian Shimashita"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "提案しました"
       } ],
       "type" : "REGULAR"
     }, {
@@ -209,6 +238,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-03",
+      "episode_id" : 308180,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-10",
+      "episode_id" : 308181,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-17",
+      "episode_id" : 308182,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-24",
+      "episode_id" : 308183,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -238,12 +311,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.86,
-      "total" : 24
+      "rating" : 3.22,
+      "total" : 32
     },
     "TEMPORARY" : {
-      "rating" : 4.3,
-      "total" : 25
+      "rating" : 4.59,
+      "total" : 33
     }
   },
   "resources" : {
@@ -261,6 +334,22 @@
   },
   "start_date" : "2026-01-06",
   "tags" : {
+    "1244" : {
+      "info_box" : false,
+      "name" : "summoning",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
@@ -313,6 +402,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2858" : {
       "info_box" : false,
       "name" : "romance",
@@ -321,10 +418,34 @@
       "verified" : false,
       "weight" : 100
     },
+    "2884" : {
+      "info_box" : false,
+      "name" : "psychoactive drugs",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "3040" : {
       "info_box" : false,
       "name" : "male protagonist",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3150" : {
+      "info_box" : false,
+      "name" : "social class issues",
+      "parent_tag_id" : 4522,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4522" : {
+      "info_box" : false,
+      "name" : "social commentary",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -348,6 +469,14 @@
       "info_box" : true,
       "name" : "isekai",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

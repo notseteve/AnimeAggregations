@@ -99,7 +99,7 @@
       "length" : 4,
       "number" : 5,
       "rating" : {
-        "rating" : 1.73,
+        "rating" : 1.74,
         "total" : 2
       },
       "recap" : false,
@@ -162,7 +162,7 @@
       "length" : 4,
       "number" : 8,
       "rating" : {
-        "rating" : 1.89,
+        "rating" : 1.9,
         "total" : 2
       },
       "recap" : false,
@@ -183,7 +183,7 @@
       "length" : 4,
       "number" : 9,
       "rating" : {
-        "rating" : 2.5,
+        "rating" : 2.51,
         "total" : 2
       },
       "recap" : false,
@@ -204,7 +204,7 @@
       "length" : 4,
       "number" : 10,
       "rating" : {
-        "rating" : 2.04,
+        "rating" : 2.05,
         "total" : 2
       },
       "recap" : false,
@@ -226,7 +226,7 @@
       "length" : 1,
       "number" : 1,
       "rating" : {
-        "rating" : 3.69,
+        "rating" : 3.7,
         "total" : 1
       },
       "recap" : false,
@@ -239,13 +239,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.37,
-      "total" : 190
+      "rating" : 3.36,
+      "total" : 191
     },
     "TEMPORARY" : {
-      "rating" : 5.42,
-      "total" : 191
+      "rating" : 5.41,
+      "total" : 192
     }
+  },
+  "related" : {
+    "PREQUEL" : [ 18515 ],
+    "SEQUEL" : [ 18423 ]
   },
   "resources" : {
     "ANISON" : [ "22868" ],
@@ -254,7 +258,8 @@
     "TMDB" : [ "tv/103180" ],
     "TWITTER" : [ "kashiwaanime" ],
     "WEBSITE" : [ "https://kashiden.dekimachi.com/" ],
-    "YOUTUBE" : [ "watch?v=Be-AL6Nkwpo", "watch?v=Ige9zIaStZ0", "watch?v=Jvg2oNr81qI", "watch?v=P560X5ReHt0", "watch?v=R1RVbePA33o", "watch?v=R2JjVuCkszo", "watch?v=VgxRH3DwqwE", "watch?v=eIvjpwfkIm8", "watch?v=j3Mhh3cFqSE", "watch?v=rgaFCnqH9zs" ]
+    "WIKIPEDIA_JP" : [ "超普通シリーズ" ],
+    "YOUTUBE" : [ "playlist?list=PLjA4aVnZl7mgydj6ft4BgndDSdGCRYvsi", "watch?v=Be-AL6Nkwpo", "watch?v=Ige9zIaStZ0", "watch?v=Jvg2oNr81qI", "watch?v=P560X5ReHt0", "watch?v=R1RVbePA33o", "watch?v=R2JjVuCkszo", "watch?v=VgxRH3DwqwE", "watch?v=eIvjpwfkIm8", "watch?v=j3Mhh3cFqSE", "watch?v=rgaFCnqH9zs" ]
   },
   "start_date" : "2020-07-06",
   "tags" : {
@@ -316,7 +321,7 @@
       "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
     },
     "2849" : {
       "info_box" : true,
@@ -438,13 +443,17 @@
     "title" : "超普通都市カシワ伝説R",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "The Legend of Super Normal City Kashiwa R",
-    "type" : "SYNONYM"
-  }, {
     "language" : "RUSSIAN",
     "title" : "Легенда о Касиве",
     "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Chou Futsuu Toshi Kashiwa Densetsu R The Legend of Super Normal City Kashiwa R",
+    "type" : "TITLE_CARD"
+  }, {
+    "language" : "JAPANESE",
+    "title" : "超普通都市カシワ伝説R The Legend of Super Normal City Kashiwa R",
+    "type" : "TITLE_CARD"
   } ],
   "type" : "SERIES",
   "url" : "https://kashiden.dekimachi.com/"

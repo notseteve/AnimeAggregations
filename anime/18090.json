@@ -2,12 +2,24 @@
   "anime_id" : 18090,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 131647,
+      "name" : "Aoki",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153121,
       "name" : "Dokuro Doushi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153313,
+      "name" : "Ginkakubou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 132454,
       "name" : "Gui Fa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153376,
+      "name" : "Hakusai Doushi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 132380,
@@ -16,6 +28,18 @@
     }, {
       "character_id" : 132282,
       "name" : "Ju Fa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153314,
+      "name" : "Kinkakubou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153375,
+      "name" : "Kumokiri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132738,
+      "name" : "Mu Dan",
       "type" : "CHARACTER"
     }, {
       "character_id" : 132838,
@@ -30,8 +54,20 @@
       "name" : "Sato no Chou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 132358,
+      "name" : "Shija",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131507,
+      "name" : "Takugawa Nariyoshi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 132283,
       "name" : "Tao Fa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131126,
+      "name" : "Yamada Asaemon Eizen",
       "type" : "CHARACTER"
     }, {
       "character_id" : 131496,
@@ -159,8 +195,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.51,
-        "total" : 3
+        "rating" : 5.5,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -179,12 +215,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-18",
+      "description" : "Aza Chobe and Gabimaru lose themselves in battle, but Mei stops their fight.\nSource: Crunchyroll",
       "episode_id" : 306492,
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.43,
-        "total" : 2
+        "rating" : 4.25,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -206,10 +243,23 @@
       "episode_id" : 306493,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.07,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00198975JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fuhen to Henka"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Immutability and Change"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "不変と変化"
       } ],
       "type" : "REGULAR"
     }, {
@@ -217,10 +267,67 @@
       "episode_id" : 306494,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 8.57,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00198976JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shidou to Shura"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Samurai Code and Carnage"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "士道と修羅"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-08",
+      "episode_id" : 307486,
+      "length" : 25,
+      "number" : 5,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-15",
+      "episode_id" : 307487,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-22",
+      "episode_id" : 307488,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-01",
+      "episode_id" : 307489,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -258,12 +365,50 @@
         "title" : "ちょびっと! じごくらく! -第二話- 弔兵衛の食べ郎供"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2026-01-26",
+      "episode_id" : 307656,
+      "length" : 3,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Bit of Hell`s Paradise Episode 3: Dive Deep Into the Shinsenkyo Part 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chobitto! Jigokuraku! Dai San Wa: Shinsenkyou Dai Kaibou - Sono Ichi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ちょびっと! じごくらく! -第三話- 神仙郷大解剖 ~其の一~"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2026-02-02",
+      "episode_id" : 307883,
+      "length" : 3,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Bit of Hell`s Paradise Episode 4: Yamada Clan Trivia Part 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chobitto! Jigokuraku! Dai Yon Wa: Yamada-ke no Mamechishiki - Sono Ichi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ちょびっと! じごくらく! -第四話- 山田家の豆知識 ~其の一~"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "CREDITS" : [ {
       "air_date" : "2026-01-11",
       "episode_id" : 306976,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.45,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -285,12 +430,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.65,
-      "total" : 20
+      "rating" : 6.8,
+      "total" : 30
     },
     "TEMPORARY" : {
-      "rating" : 6.85,
-      "total" : 20
+      "rating" : 7.06,
+      "total" : 30
     }
   },
   "related" : {
@@ -307,7 +452,7 @@
     "WEBSITE" : [ "https://www.jigokuraku.com/" ],
     "WIKIPEDIA_EN" : [ "Hell's_Paradise:_Jigokuraku" ],
     "WIKIPEDIA_JP" : [ "地獄楽" ],
-    "YOUTUBE" : [ "watch?v=5NS_3Rom9OU", "watch?v=N-Go4JtUw6U&pp=0gcJCU0KAYcqIYzv", "watch?v=Z9EKxKRa1uM", "watch?v=gHIA3Mhc618" ]
+    "YOUTUBE" : [ "watch?v=5NS_3Rom9OU", "watch?v=9eeUSeG9Dos", "watch?v=H9xaJAKWqYU", "watch?v=N-Go4JtUw6U&pp=0gcJCU0KAYcqIYzv", "watch?v=Z9EKxKRa1uM", "watch?v=gHIA3Mhc618" ]
   },
   "start_date" : "2026-01-11",
   "tags" : {
@@ -336,7 +481,7 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Jigokuraku Dai Ni Ki",
+    "title" : "Jigokuraku (2026)",
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
@@ -344,7 +489,7 @@
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
-    "title" : "地獄楽 第二期",
+    "title" : "地獄楽 (2026)",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

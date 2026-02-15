@@ -1,6 +1,95 @@
 {
   "anime_id" : 19260,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 153368,
+      "name" : "Chiwa Rintarou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153371,
+      "name" : "Gori Seiji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153370,
+      "name" : "Hakubi Arata",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145995,
+      "name" : "Inukai Souta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146465,
+      "name" : "Kago Kouichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146466,
+      "name" : "Kago Meiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146467,
+      "name" : "Kago You",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153295,
+      "name" : "Kanie Honami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153366,
+      "name" : "Kijita Shouya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153294,
+      "name" : "Kobuta Main",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153372,
+      "name" : "Kumanomi Misashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153299,
+      "name" : "Leonid Sorokin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153374,
+      "name" : "Niwatori Hina",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153367,
+      "name" : "Ryuuguu Akira",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145646,
+      "name" : "Sekoma Mamoru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153297,
+      "name" : "Takeda Momoga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153296,
+      "name" : "Tonakai Noto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153373,
+      "name" : "Umitsuki Waka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153369,
+      "name" : "Yamane Ami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146193,
+      "name" : "Yuitsuka Hironobu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145647,
+      "name" : "Yuitsuka Mika",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 145645,
+      "name" : "Yuitsuka Nozomi",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 135844,
       "name" : "Akeuraji Tsukasa",
@@ -55,6 +144,10 @@
       "name" : "Sonidori Shin`ichirou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 145640,
+      "name" : "Takamine Hitomi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 152506,
       "name" : "Ushikawa Yotsuha",
       "type" : "CHARACTER"
@@ -102,20 +195,24 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "Note: The first two episodes received an early screening at a special event on 17 January 2026 at Marunouchi Piccadilly in Tokyo and 48 additional venues across Japan. The regular TV broadcast started on 25 January 2026.",
+  "description" : "* Based on a sport drama manga by http://anidb.net/cr72107 [ Tsurumaikada].\nThe Chubu Block Tournament has begun! In the novice class, fierce competition awaits girls from prestigious clubs who have dedicated themselves to skating since childhood. http://anidb.net/ch135845 [Inori], who just advanced to the novice class last month, and her coach http://anidb.net/ch135844 [Tsukasa] are challenging the elite, aiming for the coveted All Japan Championship.\nThe beloved Kago family is also in the stands, watching their first match! Everyone is serious, everyone is a star as the skating begins...\nSource: Kodansha\nNote: The first two episodes received an early screening at a special event on 17 January 2026 at Marunouchi Piccadilly in Tokyo and 48 additional venues across Japan. The regular TV broadcast started on 25 January 2026.",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-25",
       "episode_id" : 305916,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.72,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Senshu Sensei"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Athlete`s Pledge"
       }, {
         "language" : "JAPANESE",
         "title" : "選手宣誓"
@@ -126,10 +223,20 @@
       "episode_id" : 305917,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.64,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "My Cards"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Watashi no Card"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "私のカード"
       } ],
       "type" : "REGULAR"
     }, {
@@ -189,7 +296,48 @@
         "title" : "第2期放送直前SP! メダリスト名場面杯"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-01-25",
+      "episode_id" : 307591,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 2.02,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-25",
+      "episode_id" : 307592,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 3.35,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.79,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 7.11,
+      "total" : 9
+    }
   },
   "related" : {
     "PREQUEL" : [ 18030 ],
@@ -205,7 +353,7 @@
     "WEBSITE" : [ "https://medalist-pr.com/" ],
     "WIKIPEDIA_EN" : [ "Medalist_(manga)" ],
     "WIKIPEDIA_JP" : [ "メダリスト_(漫画)" ],
-    "YOUTUBE" : [ "watch?v=KtmYLApEnCE" ]
+    "YOUTUBE" : [ "watch?v=-hPpXrlgncE", "watch?v=KtmYLApEnCE", "watch?v=o076YrFjZsA" ]
   },
   "start_date" : "2026-01-25",
   "tags" : {

@@ -1,6 +1,47 @@
 {
   "anime_id" : 19071,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 143466,
+      "name" : "Agnes Beckenbauer",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153434,
+      "name" : "Kaede Katagiri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153268,
+      "name" : "Kyoko Kurihara",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143462,
+      "name" : "Ren no Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143463,
+      "name" : "Saionji Mayuko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153316,
+      "name" : "Saionji obasan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143464,
+      "name" : "Sana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 129009,
+      "name" : "Satou Mami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144184,
+      "name" : "Sawamura Marie",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143465,
+      "name" : "Wakana",
+      "type" : "CHARACTER"
+    } ],
     "CAMEO" : [ {
       "character_id" : 129006,
       "name" : "Iketani Kouichirou",
@@ -12,6 +53,14 @@
     }, {
       "character_id" : 143650,
       "name" : "Nakamura Kenta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128992,
+      "name" : "Ryou Takahashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153435,
+      "name" : "Shuichi Matsumoto",
       "type" : "CHARACTER"
     }, {
       "character_id" : 129015,
@@ -60,6 +109,10 @@
       "name" : "Maezono Kazuhiro",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 128991,
+      "name" : "Michael Beckenbauer",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 129013,
       "name" : "Moroboshi Sena",
       "type" : "CHARACTER"
@@ -80,12 +133,16 @@
       "name" : "Sakamoto Yuudai",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 129009,
-      "name" : "Satou Mami",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 129007,
       "name" : "Sawatari Kouki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135566,
+      "name" : "Tanaka Youji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143461,
+      "name" : "Uehara",
       "type" : "CHARACTER"
     }, {
       "character_id" : 129004,
@@ -143,7 +200,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.23,
+        "rating" : 8.24,
         "total" : 1
       },
       "recap" : false,
@@ -163,11 +220,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-08",
+      "description" : "Kanata starts re-asserting himself despite his injury, but can he really make up so much lost ground?\nSource: Crunchyroll",
       "episode_id" : 306264,
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.23,
+        "rating" : 8.24,
         "total" : 1
       },
       "recap" : false,
@@ -187,10 +245,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-15",
+      "description" : "Kanata`s comeback continues, and finally brings him into conflict with the top three racers.\nSource: Crunchyroll",
       "episode_id" : 306265,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 8.24,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GQJUMGJE8" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Final Lap Totsunyuu"
@@ -204,24 +270,48 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-22",
+      "description" : "Kanata has fought his way back up to the top positions, as the Manazuru Peninsula race comes to a close.\nSource: Crunchyroll",
       "episode_id" : 306266,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UMZPE8" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "2人のファーストキス"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Futari no First Kiss"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Their First Kiss"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-29",
+      "description" : "Kanata joins Ren on her trip to Niigata, to visit her Grandma.\nSource: Crunchyroll",
       "episode_id" : 306820,
       "length" : 25,
       "number" : 5,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU78XPN" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Grandma`s Kei Truck"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Obaa-chan no Kei Tora"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "おばあちゃんの軽トラ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -230,9 +320,18 @@
       "length" : 25,
       "number" : 6,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX29DM" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "13 Ji 9 Fun no Kiseki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "13時09分の奇跡"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The 1:09 PM Miracle"
       } ],
       "type" : "REGULAR"
     }, {
@@ -243,7 +342,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "The End of Summer"
       } ],
       "type" : "REGULAR"
     }, {
@@ -257,16 +356,60 @@
         "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-26",
+      "episode_id" : 308048,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-05",
+      "episode_id" : 308049,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-12",
+      "episode_id" : 308050,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-19",
+      "episode_id" : 308051,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.83,
-      "total" : 15
+      "rating" : 7.91,
+      "total" : 25
     },
     "TEMPORARY" : {
-      "rating" : 7.83,
-      "total" : 15
+      "rating" : 7.64,
+      "total" : 25
     }
   },
   "related" : {
@@ -286,9 +429,179 @@
   },
   "start_date" : "2026-01-01",
   "tags" : {
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2759" : {
+      "info_box" : true,
+      "name" : "motorsport",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2817" : {
+      "info_box" : false,
+      "name" : "skimpy clothing",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2881" : {
+      "info_box" : true,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4258" : {
+      "info_box" : false,
+      "name" : "drifting",
+      "parent_tag_id" : 2759,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

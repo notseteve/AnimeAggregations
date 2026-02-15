@@ -99,8 +99,8 @@
       "length" : 40,
       "number" : 1,
       "rating" : {
-        "rating" : 7.93,
-        "total" : 17
+        "rating" : 7.28,
+        "total" : 18
       },
       "recap" : false,
       "resources" : {
@@ -124,8 +124,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.41,
-        "total" : 15
+        "rating" : 6.83,
+        "total" : 16
       },
       "recap" : false,
       "resources" : {
@@ -136,7 +136,7 @@
         "title" : "Takopi`s Salvation"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Takopii no Kyousai"
+        "title" : "Takopii no Kyuusai"
       }, {
         "language" : "JAPANESE",
         "title" : "タコピーの救済"
@@ -149,8 +149,8 @@
       "length" : 30,
       "number" : 3,
       "rating" : {
-        "rating" : 6.34,
-        "total" : 14
+        "rating" : 6.07,
+        "total" : 15
       },
       "recap" : false,
       "resources" : {
@@ -174,8 +174,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.93,
-        "total" : 14
+        "rating" : 6.79,
+        "total" : 15
       },
       "recap" : false,
       "resources" : {
@@ -199,8 +199,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.94,
-        "total" : 12
+        "rating" : 8.4,
+        "total" : 13
       },
       "recap" : false,
       "resources" : {
@@ -224,8 +224,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.48,
-        "total" : 12
+        "rating" : 6.17,
+        "total" : 13
       },
       "recap" : false,
       "resources" : {
@@ -264,7 +264,7 @@
       "length" : 1,
       "number" : 2,
       "rating" : {
-        "rating" : 6.0,
+        "rating" : 5.99,
         "total" : 4
       },
       "recap" : false,
@@ -277,16 +277,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.97,
-      "total" : 492
+      "rating" : 8.0,
+      "total" : 507
     },
     "REVIEW" : {
       "rating" : 4.16,
       "total" : 3
     },
     "TEMPORARY" : {
-      "rating" : 7.69,
-      "total" : 499
+      "rating" : 7.7,
+      "total" : 516
     }
   },
   "resources" : {
@@ -312,8 +312,8 @@
       "total" : 9
     },
     "782" : {
-      "rating" : 9.230769230769232,
-      "total" : 13
+      "rating" : 9.285714285714286,
+      "total" : 14
     },
     "3574" : {
       "rating" : 4.615384615384616,
@@ -324,20 +324,20 @@
       "total" : 8
     },
     "11292" : {
-      "rating" : 8.636363636363637,
-      "total" : 22
+      "rating" : 8.695652173913043,
+      "total" : 23
     },
     "13944" : {
-      "rating" : 8.0,
-      "total" : 5
+      "rating" : 8.333333333333334,
+      "total" : 6
     },
     "16033" : {
-      "rating" : 1.1111111111111112,
-      "total" : 9
+      "rating" : 0.9090909090909092,
+      "total" : 11
     },
     "17273" : {
       "rating" : 10.0,
-      "total" : 4
+      "total" : 5
     }
   },
   "start_date" : "2025-06-28",
@@ -726,6 +726,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4480" : {
+      "info_box" : false,
+      "name" : "happy ending",
+      "parent_tag_id" : 6246,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
     "4516" : {
       "info_box" : false,
       "name" : "animal abuse",
@@ -770,6 +778,14 @@
       "info_box" : false,
       "name" : "put right what once went wrong",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5505" : {
+      "info_box" : false,
+      "name" : "deus ex machina",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -880,6 +896,14 @@
       "info_box" : false,
       "name" : "death",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
