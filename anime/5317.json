@@ -85,11 +85,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.41,
-      "total" : 119
+      "total" : 122
     },
     "TEMPORARY" : {
-      "rating" : 4.9,
-      "total" : 121
+      "rating" : 4.87,
+      "total" : 124
     }
   },
   "resources" : {
@@ -115,10 +115,25 @@
       "verified" : false,
       "weight" : 300
     },
+    "1157" : {
+      "info_box" : false,
+      "name" : "horny nosebleed",
+      "parent_tag_id" : 2653,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2274" : {
       "info_box" : false,
       "name" : "robot",
       "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -138,6 +153,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2846" : {
       "info_box" : true,
       "name" : "science fiction",
@@ -146,10 +169,26 @@
       "verified" : false,
       "weight" : 400
     },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "4033" : {
       "info_box" : false,
       "name" : "discontinued",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -164,6 +203,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

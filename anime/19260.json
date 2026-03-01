@@ -2,6 +2,14 @@
   "anime_id" : 19260,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 147890,
+      "name" : "Ahiru Miku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153455,
+      "name" : "Ashikaga Setsuna",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153368,
       "name" : "Chiwa Rintarou",
       "type" : "CHARACTER"
@@ -28,6 +36,10 @@
     }, {
       "character_id" : 146467,
       "name" : "Kago You",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153539,
+      "name" : "Kamogawa Kouhei",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153295,
@@ -62,6 +74,10 @@
       "name" : "Sekoma Mamoru",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153537,
+      "name" : "Shiratori Juna",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153297,
       "name" : "Takeda Momoga",
       "type" : "CHARACTER"
@@ -72,6 +88,10 @@
     }, {
       "character_id" : 153373,
       "name" : "Umitsuki Waka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153538,
+      "name" : "Uobuchi Kakeru",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153369,
@@ -196,6 +216,7 @@
     } ]
   },
   "description" : "* Based on a sport drama manga by http://anidb.net/cr72107 [ Tsurumaikada].\nThe Chubu Block Tournament has begun! In the novice class, fierce competition awaits girls from prestigious clubs who have dedicated themselves to skating since childhood. http://anidb.net/ch135845 [Inori], who just advanced to the novice class last month, and her coach http://anidb.net/ch135844 [Tsukasa] are challenging the elite, aiming for the coveted All Japan Championship.\nThe beloved Kago family is also in the stands, watching their first match! Everyone is serious, everyone is a star as the skating begins...\nSource: Kodansha\nNote: The first two episodes received an early screening at a special event on 17 January 2026 at Marunouchi Piccadilly in Tokyo and 48 additional venues across Japan. The regular TV broadcast started on 25 January 2026.",
+  "end_date" : "2026-03-22",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-25",
@@ -224,8 +245,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 9.64,
-        "total" : 3
+        "rating" : 9.9,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -244,10 +265,20 @@
       "episode_id" : 305918,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 8.82,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Joou no Jump"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Queen`s Leap"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "女王のジャンプ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -255,10 +286,64 @@
       "episode_id" : 305919,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 9.93,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Ascendance"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gekokujou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "下剋上"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-02-22",
+      "episode_id" : 308098,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-01",
+      "episode_id" : 308099,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-08",
+      "episode_id" : 308100,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-15",
+      "episode_id" : 308101,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -303,7 +388,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.02,
+        "rating" : 3.36,
         "total" : 1
       },
       "recap" : false,
@@ -318,7 +403,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 3.35,
+        "rating" : 3.36,
         "total" : 1
       },
       "recap" : false,
@@ -331,12 +416,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.79,
-      "total" : 9
+      "rating" : 8.04,
+      "total" : 15
     },
     "TEMPORARY" : {
-      "rating" : 7.11,
-      "total" : 9
+      "rating" : 7.6,
+      "total" : 15
     }
   },
   "related" : {

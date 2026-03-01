@@ -9,7 +9,7 @@
       "length" : 40,
       "number" : 1,
       "rating" : {
-        "rating" : 6.22,
+        "rating" : 6.23,
         "total" : 2
       },
       "recap" : false,
@@ -39,7 +39,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.82,
+        "rating" : 4.83,
         "total" : 2
       },
       "recap" : false,
@@ -54,7 +54,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.82,
+        "rating" : 4.83,
         "total" : 2
       },
       "recap" : false,
@@ -69,7 +69,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.53,
+        "rating" : 5.54,
         "total" : 1
       },
       "recap" : false,
@@ -84,7 +84,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.03,
+        "rating" : 3.04,
         "total" : 1
       },
       "recap" : false,
@@ -99,7 +99,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 3.03,
+        "rating" : 3.04,
         "total" : 1
       },
       "recap" : false,
@@ -114,7 +114,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.03,
+        "rating" : 3.04,
         "total" : 1
       },
       "recap" : false,
@@ -129,7 +129,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 3.03,
+        "rating" : 3.04,
         "total" : 1
       },
       "recap" : false,
@@ -144,7 +144,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.53,
+        "rating" : 5.54,
         "total" : 1
       },
       "recap" : false,
@@ -159,7 +159,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.53,
+        "rating" : 5.54,
         "total" : 1
       },
       "recap" : false,
@@ -174,7 +174,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 4.82,
+        "rating" : 4.83,
         "total" : 2
       },
       "recap" : false,
@@ -188,11 +188,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.13,
-      "total" : 46
+      "total" : 47
     },
     "TEMPORARY" : {
-      "rating" : 7.07,
-      "total" : 47
+      "rating" : 7.09,
+      "total" : 48
     }
   },
   "resources" : {
@@ -207,6 +207,184 @@
   },
   "start_date" : "2025-05-01",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "566" : {
+      "info_box" : false,
+      "name" : "dinosaur",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1244" : {
+      "info_box" : false,
+      "name" : "summoning",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2257" : {
+      "info_box" : false,
+      "name" : "zombie",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2282" : {
+      "info_box" : true,
+      "name" : "martial arts",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2631" : {
+      "info_box" : false,
+      "name" : "island",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2776" : {
+      "info_box" : false,
+      "name" : "parasite",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2863" : {
+      "info_box" : true,
+      "name" : "proxy battles",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
@@ -222,10 +400,81 @@
       "verified" : false,
       "weight" : 0
     },
+    "3863" : {
+      "info_box" : false,
+      "name" : "competition",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4516" : {
+      "info_box" : false,
+      "name" : "animal abuse",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4564" : {
       "info_box" : false,
       "name" : "spirits",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4572" : {
+      "info_box" : false,
+      "name" : "human-animal relationship",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5355" : {
+      "info_box" : false,
+      "name" : "tournament",
+      "parent_tag_id" : 3863,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5789" : {
+      "info_box" : false,
+      "name" : "back to square one",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5939" : {
+      "info_box" : false,
+      "name" : "CAST MISSING",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6097" : {
+      "info_box" : false,
+      "name" : "3D CG animation",
+      "parent_tag_id" : 4064,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -244,6 +493,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6707" : {
+      "info_box" : false,
+      "name" : "wuxia",
+      "parent_tag_id" : 2282,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7438" : {
+      "info_box" : false,
+      "name" : "cultivation",
+      "parent_tag_id" : 2282,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     }
   },
   "titles" : [ {

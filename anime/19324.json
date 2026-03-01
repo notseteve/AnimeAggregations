@@ -1,6 +1,31 @@
 {
   "anime_id" : 19324,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 153531,
+      "name" : "Dragon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153399,
+      "name" : "Hajime (Shounen)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153528,
+      "name" : "Jessica Littledat",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153529,
+      "name" : "Sekihime",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153398,
+      "name" : "Sonchou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153530,
+      "name" : "Tanya",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 148538,
       "name" : "Rirui",
@@ -43,6 +68,9 @@
   "creators" : {
     "4938" : [ {
       "name" : "Nagamori Yoshihiro",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    }, {
+      "name" : "Nagamori Yoshihiro",
       "type" : "MAIN_CHARACTER_DESIGN"
     } ],
     "7764" : [ {
@@ -74,6 +102,7 @@
     } ]
   },
   "description" : "* Based on an adventure fantasy manga by http://anidb.net/cr81545 [Nara Ippei].\nHaving spent his childhood in the slums, http://anidb.net/ch148537 [Shinonome Hajime] desperately sought strength to survive. Now, he enjoys a peaceful and carefree life as a resident adventurer of the Komai Village. One day, during a quest, he ventured into a dungeon and finds a young girl being partially eaten by a weakest kind of monster, a slime! The girl`s name was http://anidb.net/ch148538 [Rirui]. Having been abandoned by her parents, she had no place to go and entered the dungeon alone in order to stay alive. Hajime couldn`t just leave her there, so he took her back to the village to live with him!\nSource: Crunchyroll\nNote: The first two episodes received an early screening at a special event on 12 December 2025 at Marunouchi Piccadilly in Tokyo. The regular TV broadcast started on 7 January 2026.",
+  "end_date" : "2026-03-25",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-07",
@@ -82,8 +111,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.94,
-        "total" : 3
+        "rating" : 4.72,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -107,8 +136,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.32,
-        "total" : 3
+        "rating" : 4.14,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -132,8 +161,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.75,
-        "total" : 2
+        "rating" : 7.54,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -160,8 +189,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.5,
-        "total" : 4
+        "rating" : 6.05,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -180,10 +209,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-04",
+      "description" : "Will Rirui`s egg hatch before Hajime turns it into breakfast?\nSource: Crunchyroll",
       "episode_id" : 307066,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 4.67,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366104JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Fuka Shita Mono wa"
@@ -197,13 +234,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-11",
+      "description" : "Veronica invites Hajime and Rirui to the city of Yanago to help her with some business trouble.\nSource: Crunchyroll",
       "episode_id" : 307067,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 5.2,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366105JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Decisive Battle in the Dungeon Attack!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kessen! Dungeon Attack"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "決戦! 迷宮攻略[ダンジョンアタック]"
       } ],
       "type" : "REGULAR"
     }, {
@@ -211,10 +262,23 @@
       "episode_id" : 307068,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 4.85,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366106JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Rirui and Cocko"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Rirui and Cocko"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "リルイとコッコ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -222,10 +286,73 @@
       "episode_id" : 307069,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 7.99,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366107JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Resident of the Village"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mura no Ichiin"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "村の一員"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-04",
+      "episode_id" : 308206,
+      "length" : 25,
+      "number" : 9,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "After the Battle"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tatakai Akete"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "戦い明けて"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-11",
+      "episode_id" : 308207,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-18",
+      "episode_id" : 308208,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-25",
+      "episode_id" : 308209,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -269,6 +396,10 @@
       "episode_id" : 307059,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 2.46,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -280,6 +411,10 @@
       "episode_id" : 307060,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 2.46,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -290,12 +425,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.04,
-      "total" : 37
+      "rating" : 4.82,
+      "total" : 43
     },
     "TEMPORARY" : {
-      "rating" : 6.31,
-      "total" : 37
+      "rating" : 6.21,
+      "total" : 43
     }
   },
   "resources" : {
@@ -313,12 +448,143 @@
   },
   "start_date" : "2026-01-07",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4669" : {
+      "info_box" : false,
+      "name" : "parenting",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "5205" : {
+      "info_box" : false,
+      "name" : "dungeon",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7199" : {
+      "info_box" : false,
+      "name" : "sexual humour",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "7885" : {
       "info_box" : false,

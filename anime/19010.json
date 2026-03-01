@@ -18,6 +18,10 @@
       "name" : "Morimo",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153512,
+      "name" : "Oka Rihito",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153184,
       "name" : "Tenpura",
       "type" : "CHARACTER"
@@ -70,8 +74,20 @@
       "name" : "Hayakawa Kazuko",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "14349" : [ {
+      "name" : "Imaoka Hiroshi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "16879" : [ {
       "name" : "Kozono Naho",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "22051" : [ {
+      "name" : "Ishihara Ayako",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "22639" : [ {
+      "name" : "Takemoto Miki",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "30794" : [ {
@@ -82,6 +98,10 @@
       "name" : "Sakimoto Sayuri",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "39987" : [ {
+      "name" : "Kurokawa Ayumi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "45418" : [ {
       "name" : "Lapin Track",
       "type" : "ANIMATION_WORK"
@@ -90,9 +110,17 @@
       "name" : "Tofubeats",
       "type" : "MUSIC"
     } ],
+    "49083" : [ {
+      "name" : "Izawa Tamami",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "59885" : [ {
       "name" : "Nagatomo Takakazu",
       "type" : "DIRECTOR"
+    } ],
+    "66383" : [ {
+      "name" : "Kaneko Miki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "79346" : [ {
       "name" : "Agasawa Koucha",
@@ -101,6 +129,10 @@
     "82180" : [ {
       "name" : "Miyako Mako",
       "type" : "CHARACTER_DESIGN"
+    } ],
+    "85105" : [ {
+      "name" : "Liu Lingying",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "* Based on a rom-com school manga by http://anidb.net/cr79346 [Agasawa Koucha].\nhttp://anidb.net/ch149504 [Suzuki]`s a high school girl in love, but the guy she`s fallen for is nothing like her! While she`s cheerful, outgoing, and always trying to fit in, her classmate http://anidb.net/ch149503 [Tani Yuusuke] is stoic, quiet, and doesn`t seem to care what people think of him. Will Suzuki be able to overcome her anxieties and ask him out, or will she discover that opposites really don`t attract?\nSource: Viz\nNote: The first episode received an early screening on 5 December 2025 at CCXP in Brazil, on 7 December 2025 at AGF Korea, on 13 December 2025 at Anime Frontier in the United States, on 20 December 2025 at Comic Fiesta in Malaysia, and at a special event on 21 December 2025 at Marunouchi Piccadilly in Tokyo. The regular TV broadcast started on 11 January 2026.",
@@ -112,7 +144,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.06,
+        "rating" : 8.04,
         "total" : 6
       },
       "recap" : false,
@@ -137,7 +169,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.0,
+        "rating" : 7.99,
         "total" : 4
       },
       "recap" : false,
@@ -162,7 +194,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 9.1,
+        "rating" : 9.09,
         "total" : 3
       },
       "recap" : false,
@@ -187,7 +219,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.45,
+        "rating" : 9.44,
         "total" : 3
       },
       "recap" : false,
@@ -211,6 +243,10 @@
       "episode_id" : 307494,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 8.32,
+        "total" : 4
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00366871JAJP" ]
@@ -231,10 +267,23 @@
       "episode_id" : 307495,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 8.58,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366872JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bunkasai!"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 6"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "文化祭!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -242,10 +291,23 @@
       "episode_id" : 307496,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 7.3,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366873JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Doki Moya"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 7"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ドキモヤ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -259,12 +321,60 @@
         "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-08",
+      "episode_id" : 308592,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-15",
+      "episode_id" : 308593,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-22",
+      "episode_id" : 308594,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-29",
+      "episode_id" : 308595,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
     } ],
     "CREDITS" : [ {
       "air_date" : "2026-01-11",
       "episode_id" : 307746,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.41,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -286,12 +396,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.08,
-      "total" : 46
+      "rating" : 7.2,
+      "total" : 59
     },
     "TEMPORARY" : {
-      "rating" : 7.13,
-      "total" : 46
+      "rating" : 7.22,
+      "total" : 59
     }
   },
   "resources" : {
@@ -317,6 +427,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "1651" : {
+      "info_box" : false,
+      "name" : "photography",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2043" : {
       "info_box" : true,
       "name" : "high school",
@@ -324,6 +442,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2606" : {
       "info_box" : false,
@@ -346,6 +471,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
@@ -353,10 +485,66 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2652" : {
       "info_box" : true,
       "name" : "super deformed",
       "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2779" : {
+      "info_box" : false,
+      "name" : "multiple couples",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
@@ -368,6 +556,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2853" : {
       "info_box" : true,
@@ -385,6 +581,22 @@
       "verified" : false,
       "weight" : 600
     },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2869" : {
       "info_box" : true,
       "name" : "school life",
@@ -392,6 +604,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2888" : {
+      "info_box" : false,
+      "name" : "coming of age",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "3023" : {
       "info_box" : false,
@@ -401,9 +629,64 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3103" : {
+      "info_box" : false,
+      "name" : "first love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7496" : {
+      "info_box" : false,
+      "name" : "preaired episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -433,6 +716,10 @@
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "相反的你和我",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "正相反的你与我",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://sh-anime.shochiku.co.jp/seihantai_anime/"

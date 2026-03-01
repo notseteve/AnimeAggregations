@@ -224,7 +224,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.08,
+        "rating" : 7.07,
         "total" : 3
       },
       "recap" : false,
@@ -274,7 +274,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.44,
+        "rating" : 3.43,
         "total" : 3
       },
       "recap" : false,
@@ -374,7 +374,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.45,
+        "rating" : 7.44,
         "total" : 2
       },
       "recap" : false,
@@ -446,12 +446,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.62,
-      "total" : 225
+      "rating" : 5.64,
+      "total" : 230
     },
     "TEMPORARY" : {
-      "rating" : 6.65,
-      "total" : 226
+      "rating" : 6.68,
+      "total" : 231
     }
   },
   "resources" : {
@@ -523,6 +523,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "2879" : {
       "info_box" : false,
       "name" : "alcohol",
@@ -561,6 +569,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "5984" : {
       "info_box" : false,

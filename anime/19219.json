@@ -2,12 +2,24 @@
   "anime_id" : 19219,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 153506,
+      "name" : "\"Morote no Kusabi\" Kyou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153301,
       "name" : "Arthur Pendragon",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153215,
       "name" : "Ed Cyrus",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153507,
+      "name" : "Id",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153508,
+      "name" : "Levi",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -66,6 +78,14 @@
       "name" : "Ushiro Shinji",
       "type" : "DIRECTOR"
     } ],
+    "16945" : [ {
+      "name" : "Ichii Ippei",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "46020" : [ {
+      "name" : "Kurube Hiroko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "58330" : [ {
       "name" : "Murakami Rika",
       "type" : "CHARACTER_DESIGN"
@@ -84,7 +104,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.42,
+        "rating" : 5.41,
         "total" : 6
       },
       "recap" : false,
@@ -109,7 +129,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.86,
+        "rating" : 6.85,
         "total" : 4
       },
       "recap" : false,
@@ -134,7 +154,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.77,
+        "rating" : 6.75,
         "total" : 4
       },
       "recap" : false,
@@ -154,12 +174,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-01",
+      "description" : "Yashiro finds himself reluctantly paired with Jogamine on an errand for Ishino.\nSource: Crunchyroll",
       "episode_id" : 306514,
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.27,
-        "total" : 2
+        "rating" : 6.33,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -178,13 +199,21 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-08",
+      "description" : "Sara comes to Yashiro needing supervision for an assignment from the academy.\nSource: Crunchyroll",
       "episode_id" : 307227,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 5.63,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00367927JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "A Brave Teacher"
+        "title" : "A Brave Sensei"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Yuusha no Sensei"
@@ -198,10 +227,23 @@
       "episode_id" : 307228,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 5.63,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00367928JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "A Brave`s Special Training"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yuusha no Tokkun"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "勇者の特訓"
       } ],
       "type" : "REGULAR"
     }, {
@@ -209,10 +251,23 @@
       "episode_id" : 307229,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 6.34,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00367929JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Death of a Brave"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yuusha no Shi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "勇者の死"
       } ],
       "type" : "REGULAR"
     }, {
@@ -223,7 +278,57 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "A Brave`s Sins"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yuusha no Tsumi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "勇者の罪"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-08",
+      "episode_id" : 308330,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-15",
+      "episode_id" : 308331,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-22",
+      "episode_id" : 308332,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-29",
+      "episode_id" : 308333,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -271,12 +376,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.17,
-      "total" : 34
+      "rating" : 5.05,
+      "total" : 40
     },
     "TEMPORARY" : {
-      "rating" : 6.36,
-      "total" : 34
+      "rating" : 6.27,
+      "total" : 40
     }
   },
   "resources" : {

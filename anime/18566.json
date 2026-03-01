@@ -2,6 +2,10 @@
   "anime_id" : 18566,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 139699,
+      "name" : "Aliotto Peschutz",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 138843,
       "name" : "Bruse",
       "type" : "CHARACTER"
@@ -10,12 +14,20 @@
       "name" : "Chacha-chan",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 139700,
+      "name" : "Extrac Peschutz",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153303,
       "name" : "Kobayashi-san (Otto)",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153302,
       "name" : "Kobayashi-san (Tsuma)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153400,
+      "name" : "Konko Kon",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137302,
@@ -57,7 +69,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 152724,
-      "name" : "Ham-chan",
+      "name" : "Hamcha Starham",
       "type" : "CHARACTER"
     }, {
       "character_id" : 136366,
@@ -132,6 +144,7 @@
     } ]
   },
   "description" : "* Based on a fantasy gag manga written by http://anidb.net/cr34717 [Haruhara Robinson] and drawn by http://anidb.net/cr72419 [Hirakei].\nThe battle between the Imperial Army and Hellhorde has continued for many years. The http://anidb.net/ch133242 [princess], who is also the Commander of the Third Legion of the Imperial Army, is now being captured by the Hellhorde.\"`Tis Time for \"Torture\", Princess\". Awaiting the imprisoned princess were numerous excruciating forms of \"Torture\". Fluffy freshly baked toast! Late-night ramen with hot steam rising! Playtime with adorable animals! The princess, relentlessly confronted with delicious meals and joyful activities, will she be able to overcome the \"tortures\" and protect the kingdom`s secrets?\nSource: Ani-One Asia",
+  "end_date" : "2026-03-30",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-12",
@@ -140,7 +153,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.85,
+        "rating" : 6.84,
         "total" : 5
       },
       "recap" : false,
@@ -178,7 +191,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.43,
+        "rating" : 6.42,
         "total" : 5
       },
       "recap" : false,
@@ -192,10 +205,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-02",
+      "description" : "The princess is tormented by hamsters, fried rice, and Vanilla`s perfect plan. Torture gets sticker shock.\nSource: Crunchyroll",
       "episode_id" : 305915,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 6.8,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00327910JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
@@ -203,10 +224,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-09",
+      "description" : "The princess takes on rice cooker meals. Inki shares her favorite movie. Sakura learns how to make pancakes.\nSource: Crunchyroll",
       "episode_id" : 307645,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 7.23,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00327913JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 5"
@@ -269,6 +298,10 @@
       "episode_id" : 307018,
       "length" : 2,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.44,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -281,8 +314,8 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 6.65,
-        "total" : 1
+        "rating" : 6.03,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -312,12 +345,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.37,
-      "total" : 10
+      "rating" : 6.34,
+      "total" : 15
     },
     "TEMPORARY" : {
-      "rating" : 6.63,
-      "total" : 11
+      "rating" : 6.93,
+      "total" : 16
     }
   },
   "related" : {
@@ -385,6 +418,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "himegou2",
     "type" : "SHORT"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "`Tis Time for \"Torture,\" Princess Season 2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://himesama-goumon.com/"

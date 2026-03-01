@@ -23,7 +23,7 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 6.08,
+        "rating" : 6.07,
         "total" : 4
       },
       "recap" : false,
@@ -63,8 +63,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.09,
-      "total" : 254
+      "rating" : 3.11,
+      "total" : 255
     },
     "REVIEW" : {
       "rating" : 6.16,
@@ -72,7 +72,7 @@
     },
     "TEMPORARY" : {
       "rating" : 5.27,
-      "total" : 261
+      "total" : 262
     }
   },
   "resources" : {
@@ -417,9 +417,25 @@
       "verified" : false,
       "weight" : 200
     },
+    "5805" : {
+      "info_box" : false,
+      "name" : "post-credits scene",
+      "parent_tag_id" : 6148,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5939" : {
       "info_box" : false,
       "name" : "CAST MISSING",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6148" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO EPISODE",
       "parent_tag_id" : 30,
       "spoiler" : false,
       "verified" : false,

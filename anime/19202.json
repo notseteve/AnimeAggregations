@@ -96,6 +96,7 @@
     } ]
   },
   "description" : "Note: The first five episodes received an early screening at a special event on 26 September 2025 at Shinjuku Wald 9 in Tokyo. Additionally, the first five episodes received a one-week theatrical run at Shinjuku Wald 9 and T-Joy Umeda, starting on 3 October 2025. The regular TV broadcast started on 5 October 2025.",
+  "end_date" : "2026-03-22",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-05",
@@ -154,7 +155,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.05,
+        "rating" : 8.06,
         "total" : 4
       },
       "recap" : false,
@@ -229,7 +230,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.16,
+        "rating" : 6.17,
         "total" : 3
       },
       "recap" : false,
@@ -499,12 +500,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-01",
+      "description" : "Tojima reels from the most recent battle, while Ito, Sato, and Ishige stumble onto Bat Man`s wicked plot...\nSource: Crunchyroll",
       "episode_id" : 307168,
       "length" : 25,
       "number" : 17,
       "rating" : {
-        "rating" : 7.36,
-        "total" : 1
+        "rating" : 6.46,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -523,10 +525,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-08",
+      "description" : "Nakao and his underlings find a surprising sanctuary, as the Bat Man`s Shocker idols continue to hunt them.\nSource: Crunchyroll",
       "episode_id" : 307169,
       "length" : 25,
       "number" : 18,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364981JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "I`ll Fight Shocker Too"
@@ -543,10 +553,23 @@
       "episode_id" : 307170,
       "length" : 25,
       "number" : 19,
+      "rating" : {
+        "rating" : 7.35,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364983JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 19"
+        "title" : "It`d Be an Honor to Die as a Rider"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Rider Toshite Shineru Nara Honmou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ライダーとして死ねるなら本望"
       } ],
       "type" : "REGULAR"
     }, {
@@ -556,8 +579,58 @@
       "number" : 20,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Choudo Shocker to Tatakaitakatta"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 20"
+        "title" : "I Was Craving a Battle with Shocker"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ちょうどショッカーと戦いたかった"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-01",
+      "episode_id" : 308108,
+      "length" : 25,
+      "number" : 21,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 21"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-08",
+      "episode_id" : 308109,
+      "length" : 25,
+      "number" : 22,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 22"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-15",
+      "episode_id" : 308110,
+      "length" : 25,
+      "number" : 23,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 23"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-22",
+      "episode_id" : 308111,
+      "length" : 25,
+      "number" : 24,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 24"
       } ],
       "type" : "REGULAR"
     } ],
@@ -582,12 +655,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.66,
-      "total" : 73
+      "rating" : 6.76,
+      "total" : 77
     },
     "TEMPORARY" : {
-      "rating" : 7.22,
-      "total" : 73
+      "rating" : 7.27,
+      "total" : 77
     }
   },
   "resources" : {
@@ -1275,6 +1348,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "7496" : {
+      "info_box" : false,
+      "name" : "preaired episodes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "7872" : {
       "info_box" : true,

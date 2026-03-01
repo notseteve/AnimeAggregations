@@ -6,6 +6,10 @@
       "name" : "Abigail O`Brian",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153694,
+      "name" : "Adolphus Castiel",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153228,
       "name" : "Aisha Huxley",
       "type" : "CHARACTER"
@@ -78,12 +82,20 @@
       "name" : "Kyle",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153695,
+      "name" : "Lucia O`Brian",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153230,
       "name" : "Margot Tudor",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153232,
       "name" : "Maximillian Castiel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153469,
+      "name" : "Miriam",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152984,
@@ -100,6 +112,18 @@
     }, {
       "character_id" : 152987,
       "name" : "Pelham-shishaku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153468,
+      "name" : "Rebekah",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153693,
+      "name" : "Sharon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153470,
+      "name" : "Shoshanna",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152989,
@@ -180,7 +204,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.03,
+        "rating" : 5.01,
         "total" : 4
       },
       "recap" : false,
@@ -205,7 +229,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.08,
+        "rating" : 6.05,
         "total" : 4
       },
       "recap" : false,
@@ -225,11 +249,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-22",
+      "description" : "Constance and Scarlett follow a tip to a masked ball with a sinister reputation.\nSource: Crunchyroll",
       "episode_id" : 306345,
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.12,
+        "rating" : 7.09,
         "total" : 3
       },
       "recap" : false,
@@ -249,11 +274,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-01-29",
+      "description" : "Constance receives a summons from an investigative committee determined to put her on trial.\nSource: Crunchyroll",
       "episode_id" : 306346,
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.11,
+        "rating" : 5.08,
         "total" : 3
       },
       "recap" : false,
@@ -272,36 +298,77 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-02-05",
+      "air_date" : "2026-02-06",
+      "description" : "Constance`s carriage suffers a shocking attack and an even more shocking rescue.\nSource: Crunchyroll",
       "episode_id" : 307335,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 5.59,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366357JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "And the Cock Crows to Herald the Dawn"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Soshite Yoake o Tsugeru Tori ga Naku"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "そして夜明けを告げる鳥が鳴く"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-02-12",
+      "air_date" : "2026-02-13",
+      "description" : "Both Constance and Randolph uncover fresh clues, but Lily`s last message remains shrouded in mystery.\nSource: Crunchyroll",
       "episode_id" : 307336,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 5.08,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366358JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Megami no Saihai"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Command of the Goddess"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "女神の采配"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-02-19",
+      "air_date" : "2026-02-20",
       "episode_id" : 307337,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 2.84,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366359JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "A Banquet of Insectivorous Plants"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shokuchuu Hana no En"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "食虫花の宴"
       } ],
       "type" : "REGULAR"
     }, {
@@ -313,6 +380,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-05",
+      "episode_id" : 308479,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-12",
+      "episode_id" : 308480,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-19",
+      "episode_id" : 308481,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-26",
+      "episode_id" : 308482,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -342,12 +453,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.93,
-      "total" : 26
+      "rating" : 4.19,
+      "total" : 35
     },
     "TEMPORARY" : {
-      "rating" : 5.55,
-      "total" : 26
+      "rating" : 5.48,
+      "total" : 35
     }
   },
   "resources" : {

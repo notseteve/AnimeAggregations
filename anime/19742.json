@@ -1,6 +1,19 @@
 {
   "anime_id" : 19742,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 153536,
+      "name" : "Asai Taira",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153534,
+      "name" : "Howa Kurea",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153535,
+      "name" : "Kurusu Eliza",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 153056,
       "name" : "Akechi Anna",
@@ -31,6 +44,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 153532,
+      "name" : "Ageseine",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153052,
       "name" : "Jett-senpai",
       "type" : "CHARACTER"
@@ -53,6 +70,10 @@
     }, {
       "character_id" : 153360,
       "name" : "Shushutan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153533,
+      "name" : "Usonoir",
       "type" : "CHARACTER"
     } ]
   },
@@ -82,10 +103,18 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-02-01",
+      "description" : "On Anna Akechi’s 14th birthday, she puts on a pendant and meets a fairy named Pochitan.\nSource: Crunchyroll",
       "episode_id" : 307857,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.53,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00369411JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Debut! Star Detective Precure!"
@@ -99,10 +128,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-08",
+      "description" : "Mikuru takes Anna to the CUREtto Detective Agency.\nSource: Crunchyroll",
       "episode_id" : 307858,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.53,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00369413JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Introducing the Genius, Jett-senpai!"
@@ -119,10 +156,23 @@
       "episode_id" : 307859,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.53,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00369415JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Everyone Come to the Curetto Detective Agency!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Minna Oide yo! Curetto Tantei Jimusho!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "みんなおいでよ! キュアット探偵事務所!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -131,9 +181,18 @@
       "length" : 25,
       "number" : 4,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00369417JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dokidoki! Hajimete no Irai!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Exciting! Our First Client!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ドキドキ! 初めての依頼!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -143,8 +202,14 @@
       "number" : 5,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Meitantei no Dai Pinch!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Star Detectives in Trouble?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "名探偵の大ピンチ!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -184,12 +249,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.59,
-      "total" : 3
+      "rating" : 5.83,
+      "total" : 4
     },
     "TEMPORARY" : {
-      "rating" : 6.33,
-      "total" : 3
+      "rating" : 5.75,
+      "total" : 4
     }
   },
   "resources" : {

@@ -14,8 +14,20 @@
       "name" : "Gojou Satoru",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153491,
+      "name" : "Haba",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153492,
+      "name" : "Hanyuu",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 113302,
       "name" : "Ieiri Shouko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 113137,
+      "name" : "Iguchi Takeshi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 113301,
@@ -66,6 +78,10 @@
       "name" : "Rika",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 113136,
+      "name" : "Sasaki Setsuko",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153336,
       "name" : "Takeru",
       "type" : "CHARACTER"
@@ -112,6 +128,10 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 153490,
+      "name" : "Amai Rin",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 152692,
       "name" : "Hakari Kinji",
       "type" : "CHARACTER"
@@ -122,6 +142,10 @@
     }, {
       "character_id" : 152691,
       "name" : "Hoshi Kirara",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153488,
+      "name" : "Kenjaku",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152687,
@@ -138,6 +162,10 @@
     }, {
       "character_id" : 152688,
       "name" : "Reggie Star",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153489,
+      "name" : "Remi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 113132,
@@ -197,6 +225,10 @@
       "name" : "Terui Yoshimasa",
       "type" : "MUSIC"
     } ],
+    "51578" : [ {
+      "name" : "Noda Tomomi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "55134" : [ {
       "name" : "Goshozono Shouta",
       "type" : "DIRECTOR"
@@ -218,6 +250,7 @@
     } ]
   },
   "description" : "* Based on a dark fantasy shounen manga by http://anidb.net/cr59303 [Akutami Gege].\nIn a world where cursed spirits feed on unsuspecting humans, fragments of the legendary and feared demon Sukuna Ryomen have been lost and scattered about. Should any demon consume Sukuna`s body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of jujutsu sorcerers who exist to protect the precarious existence of the living from the supernatural!\nHunted down by http://anidb.net/ch152976 [Okkotsu] and on the brink of death, http://anidb.net/ch107128 [Itadori] recalls a troubling family scene from his past. But why is the former form of Kamo Noritoshi there? As the sorcerers begin to take action toward suppressing the lethal culling game, http://anidb.net/ch152974 [Maki] pays the Zen`in clan a visit...\nSource: Viz\nNote: The first two episodes received an early premiere in cinemas worldwide as part of a season 2 recap movie titled Jujutsu Kaisen: Execution - Shibuya Incident x The Culling Game Begins starting on 7 November 2025 in Japan. The regular TV broadcast started on 9 January 2026.",
+  "end_date" : "2026-03-27",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-09",
@@ -226,7 +259,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.32,
+        "rating" : 7.11,
         "total" : 7
       },
       "recap" : false,
@@ -257,7 +290,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.17,
+        "rating" : 5.91,
         "total" : 6
       },
       "recap" : false,
@@ -288,8 +321,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.22,
-        "total" : 5
+        "rating" : 3.16,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -316,7 +349,7 @@
       "length" : 30,
       "number" : 4,
       "rating" : {
-        "rating" : 8.33,
+        "rating" : 8.32,
         "total" : 10
       },
       "recap" : false,
@@ -344,7 +377,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.5,
+        "rating" : 6.57,
         "total" : 4
       },
       "recap" : false,
@@ -368,8 +401,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.97,
-        "total" : 3
+        "rating" : 6.07,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -388,34 +421,48 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-13",
+      "description" : "Yuji`s group enters two of the colonies and fight the Culling Game`s newbie hunters.\nSource: Crunchyroll",
       "episode_id" : 306850,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 4.04,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00367574JAJP" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Tokyo Colony No. 1"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Tokyo Dai 1 Colony 1"
       }, {
+        "language" : "ENGLISH",
+        "title" : "Tokyo No. 1 Colony, Part 1"
+      }, {
         "language" : "JAPANESE",
-        "title" : "東京第1結界①"
+        "title" : "東京第1結界[コロニー]①"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-02-20",
+      "air_date" : "2026-02-27",
       "episode_id" : 306851,
       "length" : 25,
       "number" : 8,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tokyo Dai 1 Colony 2"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Tokyo No. 1 Colony, Part 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "東京第1結界[コロニー]②"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-02-27",
+      "air_date" : "2026-03-06",
       "episode_id" : 308035,
       "length" : 25,
       "number" : 9,
@@ -426,7 +473,7 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-03-06",
+      "air_date" : "2026-03-13",
       "episode_id" : 308036,
       "length" : 25,
       "number" : 10,
@@ -437,7 +484,7 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-03-13",
+      "air_date" : "2026-03-20",
       "episode_id" : 308037,
       "length" : 25,
       "number" : 11,
@@ -448,7 +495,7 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-03-20",
+      "air_date" : "2026-03-27",
       "episode_id" : 308038,
       "length" : 25,
       "number" : 12,
@@ -460,17 +507,34 @@
       "type" : "REGULAR"
     } ],
     "SPECIAL" : [ {
+      "air_date" : "2026-02-20",
+      "episode_id" : 308268,
+      "length" : 30,
+      "number" : 1,
+      "recap" : true,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kanwa"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "閑話"
+      } ],
+      "type" : "SPECIAL"
+    }, {
       "air_date" : "2025-12-27",
       "episode_id" : 306819,
       "length" : 25,
-      "number" : 1,
+      "number" : 2,
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "\"Shimetsu Kaiyuu\" Housou Chokuzen! Jujutsu Kaisen: Soufukushuu Special Tokuban!"
       }, {
         "language" : "ENGLISH",
-        "title" : "Episode S1"
+        "title" : "Episode S2"
       }, {
         "language" : "JAPANESE",
         "title" : "「死滅回游」放送直前! 呪術廻戦 総復習スペシャル特番!"
@@ -511,16 +575,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.2,
-      "total" : 56
+      "rating" : 7.07,
+      "total" : 59
     },
     "REVIEW" : {
       "rating" : 4.33,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 7.44,
-      "total" : 57
+      "rating" : 7.35,
+      "total" : 60
     }
   },
   "related" : {

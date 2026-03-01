@@ -200,7 +200,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.46,
+        "rating" : 6.47,
         "total" : 9
       },
       "recap" : false,
@@ -972,11 +972,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.44,
-      "total" : 837
+      "total" : 836
     },
     "TEMPORARY" : {
-      "rating" : 6.12,
-      "total" : 840
+      "rating" : 6.11,
+      "total" : 839
     }
   },
   "related" : {
@@ -1020,6 +1020,13 @@
       "info_box" : false,
       "name" : "amnesia",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1131,6 +1138,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2800" : {
       "info_box" : true,
       "name" : "game",
@@ -1162,6 +1177,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2844" : {
+      "info_box" : true,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2846" : {
       "info_box" : false,
@@ -1227,6 +1250,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3546" : {
+      "info_box" : false,
+      "name" : "experimental animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3809" : {
       "info_box" : false,
       "name" : "character driven",
@@ -1255,6 +1286,22 @@
       "info_box" : false,
       "name" : "strong female lead",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4227" : {
+      "info_box" : false,
+      "name" : "detailed landscapes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4228" : {
+      "info_box" : false,
+      "name" : "subtle OP ED sequence change",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1299,6 +1346,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5862" : {
+      "info_box" : false,
+      "name" : "melodrama",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5935" : {
       "info_box" : false,
       "name" : "ass-kicking girls",
@@ -1311,6 +1366,13 @@
       "info_box" : false,
       "name" : "mystery",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

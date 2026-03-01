@@ -468,7 +468,7 @@
   "similar" : {
     "1508" : {
       "rating" : 10.0,
-      "total" : 5
+      "total" : 6
     },
     "5535" : {
       "rating" : 3.0,
@@ -483,8 +483,8 @@
       "total" : 2
     },
     "12369" : {
-      "rating" : 8.571428571428571,
-      "total" : 14
+      "rating" : 8.666666666666668,
+      "total" : 15
     },
     "17651" : {
       "rating" : 10.0,
@@ -678,12 +678,12 @@
       "weight" : 200
     },
     "2750" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "violence",
       "parent_tag_id" : 2604,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 300
+      "weight" : 400
     },
     "2751" : {
       "info_box" : false,
@@ -736,6 +736,22 @@
     "2841" : {
       "info_box" : false,
       "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2844" : {
+      "info_box" : false,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2845" : {
+      "info_box" : false,
+      "name" : "blackmail",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
@@ -805,6 +821,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2897" : {
       "info_box" : false,
       "name" : "police",
@@ -828,6 +852,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "2952" : {
+      "info_box" : false,
+      "name" : "rotten world",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3150" : {
       "info_box" : false,
       "name" : "social class issues",
@@ -835,6 +875,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3504" : {
+      "info_box" : false,
+      "name" : "sake",
+      "parent_tag_id" : 2879,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "3865" : {
       "info_box" : true,
@@ -848,6 +920,14 @@
       "info_box" : false,
       "name" : "kidnapping",
       "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4223" : {
+      "info_box" : false,
+      "name" : "running gag",
+      "parent_tag_id" : 2853,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -884,6 +964,22 @@
       "verified" : false,
       "weight" : 0
     },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4520" : {
+      "info_box" : false,
+      "name" : "betrayal",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4522" : {
       "info_box" : false,
       "name" : "social commentary",
@@ -891,6 +987,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "4812" : {
       "info_box" : false,
@@ -900,10 +1004,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "5095" : {
+      "info_box" : false,
+      "name" : "slum",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5459" : {
+      "info_box" : false,
+      "name" : "poverty",
+      "parent_tag_id" : 6243,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5773" : {
       "info_box" : false,
       "name" : "secret organisation",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5792" : {
+      "info_box" : false,
+      "name" : "gangs",
+      "parent_tag_id" : 2872,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -962,9 +1090,41 @@
       "verified" : false,
       "weight" : 0
     },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6242" : {
       "info_box" : false,
       "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6243" : {
+      "info_box" : false,
+      "name" : "money",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
@@ -977,6 +1137,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6371" : {
       "info_box" : false,
