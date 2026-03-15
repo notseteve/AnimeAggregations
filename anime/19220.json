@@ -70,7 +70,7 @@
     "REGULAR" : [ {
       "air_date" : "2025-12-26",
       "episode_id" : 298602,
-      "length" : 0,
+      "length" : 25,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
@@ -81,7 +81,7 @@
     }, {
       "air_date" : "2026-01-30",
       "episode_id" : 298603,
-      "length" : 0,
+      "length" : 25,
       "number" : 2,
       "recap" : false,
       "titles" : [ {
@@ -92,7 +92,7 @@
     }, {
       "air_date" : "2026-03-06",
       "episode_id" : 298604,
-      "length" : 0,
+      "length" : 25,
       "number" : 3,
       "recap" : false,
       "titles" : [ {
@@ -111,16 +111,45 @@
         "title" : "Movie 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2025-12-26",
+      "episode_id" : 308974,
+      "length" : 5,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A New House Head Arrives!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "新家元, 登場です!"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2026-03-06",
+      "episode_id" : 308975,
+      "length" : 0,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Discovery of a New Tank!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "新戦車, 発見です!"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.28,
-      "total" : 1
+      "rating" : 9.01,
+      "total" : 2
     },
     "TEMPORARY" : {
-      "rating" : 7.0,
-      "total" : 1
+      "rating" : 8.0,
+      "total" : 2
     }
   },
   "related" : {
@@ -164,6 +193,10 @@
   }, {
     "language" : "UNKNOWN",
     "title" : "Girls und Panzer - MLLSD",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Girls und Panzer das Finale: Part 5",
     "type" : "SYNONYM"
   } ],
   "type" : "MOVIE",

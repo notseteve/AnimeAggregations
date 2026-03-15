@@ -93,12 +93,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.62,
-      "total" : 126
+      "rating" : 7.58,
+      "total" : 130
     },
     "TEMPORARY" : {
-      "rating" : 7.31,
-      "total" : 127
+      "rating" : 7.3,
+      "total" : 131
     }
   },
   "resources" : {
@@ -116,6 +116,21 @@
   },
   "start_date" : "2024-08-30",
   "tags" : {
+    "1876" : {
+      "info_box" : true,
+      "name" : "musical band",
+      "parent_tag_id" : 2794,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -131,10 +146,42 @@
       "verified" : false,
       "weight" : 600
     },
+    "2794" : {
+      "info_box" : true,
+      "name" : "music",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2869" : {
       "info_box" : false,
       "name" : "school life",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2883" : {
+      "info_box" : true,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2888" : {
+      "info_box" : false,
+      "name" : "coming of age",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -1,6 +1,11 @@
 {
   "anime_id" : 18986,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 139000,
+      "name" : "Ashigumo",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 139002,
       "name" : "Kokorowa-hime",
@@ -8,6 +13,31 @@
     }, {
       "character_id" : 139003,
       "name" : "Sakuna-hime",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 138997,
+      "name" : "Kaimaru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138998,
+      "name" : "Kinta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139005,
+      "name" : "Myrthe",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139004,
+      "name" : "Tama-jii",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139006,
+      "name" : "Tauemon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138999,
+      "name" : "Yui",
       "type" : "CHARACTER"
     } ]
   },
@@ -30,9 +60,14 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-02-15",
+      "description" : "Kokorowa needs to live new experiences for her new book, so she will grow rice on Hinoe Island.\nSource: Crunchyroll",
       "episode_id" : 307063,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.79,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G8WU7NZGQ" ]
@@ -44,10 +79,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-22",
+      "description" : "Insects are attacking the rice plants, jeopardizing the harvest.\nSource: Crunchyroll",
       "episode_id" : 307064,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.79,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GZ7UDVZ2W" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
@@ -71,7 +114,29 @@
         "title" : "放送記念 耕せ! ~米はチカラヂオ~ 出張版!"
       } ],
       "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-02-22",
+      "episode_id" : 308860,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.79,
+      "total" : 19
+    },
+    "TEMPORARY" : {
+      "rating" : 6.28,
+      "total" : 19
+    }
   },
   "related" : {
     "PREQUEL" : [ 18527 ]
@@ -110,13 +175,13 @@
     "title" : "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Sakuna: Of Rice and Ruin - Kokorowa`s Rice-Farming Diary",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "天穂のサクナヒメ ココロワ稲作日誌",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Sakuna: Of Rice and Ruin (2026)",
-    "type" : "SYNONYM"
   } ],
   "type" : "SPECIAL",
   "url" : "https://sakuna-anime.com/"

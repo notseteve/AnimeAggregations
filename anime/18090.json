@@ -26,8 +26,8 @@
       "name" : "Houko",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 132282,
-      "name" : "Ju Fa",
+      "character_id" : 153866,
+      "name" : "Ju Fa Tao Fa (Kishikai)",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153314,
@@ -42,8 +42,24 @@
       "name" : "Mu Dan",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 133198,
+      "name" : "Mu Dan (Kishikai)",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 132838,
       "name" : "Namekuji Doushi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153778,
+      "name" : "Osanai Ju Fa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153779,
+      "name" : "Osanai Tao Fa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153777,
+      "name" : "Ran (Kishikai)",
       "type" : "CHARACTER"
     }, {
       "character_id" : 131858,
@@ -56,10 +72,6 @@
     }, {
       "character_id" : 131507,
       "name" : "Takugawa Nariyoshi",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 132283,
-      "name" : "Tao Fa",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153478,
@@ -77,6 +89,10 @@
       "character_id" : 132452,
       "name" : "Zhu Jin",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 132736,
+      "name" : "Zhu Jin (Kishikai)",
+      "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 128772,
@@ -90,6 +106,10 @@
     "SECONDARY" : [ {
       "character_id" : 128766,
       "name" : "Aza Choubee",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132282,
+      "name" : "Ju Fa",
       "type" : "CHARACTER"
     }, {
       "character_id" : 132284,
@@ -110,6 +130,10 @@
     }, {
       "character_id" : 128771,
       "name" : "Tamiya Gantetsusai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132283,
+      "name" : "Tao Fa",
       "type" : "CHARACTER"
     }, {
       "character_id" : 128767,
@@ -169,6 +193,10 @@
       "name" : "Nishimura Rie",
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
+    "20778" : [ {
+      "name" : "Saita Hiroyuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "27448" : [ {
       "name" : "Itou Shinji",
       "type" : "CHIEF_ANIMATION_DIRECTION"
@@ -208,8 +236,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.39,
-        "total" : 6
+        "rating" : 5.85,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -233,8 +261,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.54,
-        "total" : 6
+        "rating" : 5.11,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -258,8 +286,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.05,
-        "total" : 7
+        "rating" : 5.79,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -283,8 +311,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.28,
-        "total" : 3
+        "rating" : 7.85,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -308,8 +336,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.28,
-        "total" : 3
+        "rating" : 6.32,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -328,12 +356,13 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-15",
+      "description" : "Gabimaru`s group finally enters the sacred mountain, but the Tensen can see everything they`re up to.\nSource: Crunchyroll",
       "episode_id" : 307487,
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.28,
-        "total" : 3
+        "rating" : 7.85,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -352,16 +381,24 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-22",
+      "description" : "Gantetsusai and Fuchi struggle against Tao Fa, but they seem to be enjoying themselves.\nSource: Crunchyroll",
       "episode_id" : 307488,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 9.01,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00198979JAJP" ]
+      },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 7"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Futari to Hitori"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Two People and One Person"
       }, {
         "language" : "JAPANESE",
         "title" : "二人と一人"
@@ -369,24 +406,52 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-01",
+      "description" : "When Tao Fa asks Ju Fa for help, Ju Fa recalls the time they spent together.\nSource: Crunchyroll",
       "episode_id" : 307489,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 7.54,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00198980JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Chrysanthemum and Peach"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kiku to Momo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "菊と桃"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-08",
+      "description" : "The expeditioners work together to take on Tao Fa and Ju Fa, who have undergone Kishikai transformations.\nSource: Crunchyroll",
       "episode_id" : 308584,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 7.72,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00198981JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ji to Gou"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Love and Karma"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "慈と業"
       } ],
       "type" : "REGULAR"
     }, {
@@ -525,6 +590,57 @@
         "title" : "ちょびっと! じごくらく! -第六話- 属性と性格"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2026-02-23",
+      "episode_id" : 308691,
+      "length" : 3,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Bit of Hell`s Paradise Episode 7: Memories of Siblings"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chobitto! Jigokuraku! Dai Shichi Wa: Kyoudai no Omoide"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ちょびっと! じごくらく! -第七話- 兄弟の思い出"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2026-03-02",
+      "episode_id" : 308849,
+      "length" : 3,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Bit of Hell`s Paradise Episode 8: Lesson of Kishikai"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chobitto! Jigokuraku! Dai Hachi Wa: Kishikai Kouza"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ちょびっと! じごくらく! -第八話- 鬼尸解講座"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2026-03-09",
+      "episode_id" : 309045,
+      "length" : 3,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Bit of Hell`s Paradise Episode 9: Chobe - Road to the Sage"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chobitto! Jigokuraku! Dai Kyuu Wa: Choubee! Sennin e no Michi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ちょびっと! じごくらく! -第九話- 弔兵衛! 仙人への道"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "CREDITS" : [ {
       "air_date" : "2026-01-11",
@@ -532,7 +648,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 5.42,
+        "rating" : 5.41,
         "total" : 1
       },
       "recap" : false,
@@ -556,12 +672,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.87,
-      "total" : 41
+      "rating" : 7.09,
+      "total" : 49
     },
     "TEMPORARY" : {
-      "rating" : 7.21,
-      "total" : 42
+      "rating" : 7.43,
+      "total" : 50
     }
   },
   "related" : {
@@ -578,7 +694,7 @@
     "WEBSITE" : [ "https://www.jigokuraku.com/" ],
     "WIKIPEDIA_EN" : [ "Hell's_Paradise:_Jigokuraku" ],
     "WIKIPEDIA_JP" : [ "地獄楽" ],
-    "YOUTUBE" : [ "watch?v=0uK-DXKMXkY", "watch?v=5NS_3Rom9OU", "watch?v=9eeUSeG9Dos", "watch?v=H9xaJAKWqYU", "watch?v=N-Go4JtUw6U&pp=0gcJCU0KAYcqIYzv", "watch?v=Z9EKxKRa1uM", "watch?v=gHIA3Mhc618", "watch?v=tfx0VKRPkn4" ]
+    "YOUTUBE" : [ "watch?v=0hDyeTdvfEA", "watch?v=0uK-DXKMXkY", "watch?v=5NS_3Rom9OU", "watch?v=9eeUSeG9Dos", "watch?v=GErS2TCDK48", "watch?v=H9xaJAKWqYU", "watch?v=N-Go4JtUw6U&pp=0gcJCU0KAYcqIYzv", "watch?v=YWyktoD4OPU", "watch?v=Z9EKxKRa1uM", "watch?v=gHIA3Mhc618", "watch?v=tfx0VKRPkn4" ]
   },
   "start_date" : "2026-01-11",
   "tags" : {

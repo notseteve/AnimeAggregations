@@ -146,6 +146,7 @@
     } ]
   },
   "description" : "* Based on a music youthful drama manga by http://anidb.net/cr66911 [Akui Makoto].\nWrapping up the summer concert, the final year students retire. The high school orchestra, now centered around second year students, begins preparations for the national competition. But some are more motivated than others, and discord reverberates throughout over how the pieces should be played. Even so, everyone strives to create a unique harmony all their own. http://anidb.net/ch130604 [Aono Hajime] also grows and changes his attitude towards music as well as his fellow orchestra members.\nSource: NHK Enterprises",
+  "end_date" : "2026-03-01",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-10-05",
@@ -153,7 +154,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.83,
+        "rating" : 6.79,
         "total" : 2
       },
       "recap" : false,
@@ -174,7 +175,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 9.11,
+        "rating" : 9.09,
         "total" : 2
       },
       "recap" : false,
@@ -195,7 +196,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 9.11,
+        "rating" : 9.09,
         "total" : 2
       },
       "recap" : false,
@@ -216,7 +217,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.11,
+        "rating" : 9.09,
         "total" : 2
       },
       "recap" : false,
@@ -237,8 +238,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 10.0,
-        "total" : 1
+        "rating" : 9.09,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -258,8 +259,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 10.0,
-        "total" : 1
+        "rating" : 9.09,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -279,8 +280,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 10.0,
-        "total" : 1
+        "rating" : 9.09,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -405,7 +406,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 9.11,
+        "rating" : 9.09,
         "total" : 2
       },
       "recap" : false,
@@ -447,7 +448,7 @@
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 9.11,
+        "rating" : 9.09,
         "total" : 2
       },
       "recap" : false,
@@ -468,7 +469,7 @@
       "length" : 25,
       "number" : 16,
       "rating" : {
-        "rating" : 9.11,
+        "rating" : 9.09,
         "total" : 2
       },
       "recap" : false,
@@ -510,8 +511,8 @@
       "length" : 25,
       "number" : 18,
       "rating" : {
-        "rating" : 10.0,
-        "total" : 1
+        "rating" : 9.09,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -532,7 +533,7 @@
       "number" : 19,
       "rating" : {
         "rating" : 10.0,
-        "total" : 1
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -551,6 +552,10 @@
       "episode_id" : 307087,
       "length" : 25,
       "number" : 20,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
@@ -568,10 +573,14 @@
       "episode_id" : 307088,
       "length" : 25,
       "number" : 21,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 21"
+        "title" : "Graduation"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Sotsugyou"
@@ -584,12 +593,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.0,
-      "total" : 21
+      "rating" : 7.95,
+      "total" : 40
     },
     "TEMPORARY" : {
-      "rating" : 7.8,
-      "total" : 21
+      "rating" : 7.61,
+      "total" : 40
     }
   },
   "related" : {
@@ -608,6 +617,13 @@
   },
   "start_date" : "2025-10-05",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -615,10 +631,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "2669" : {
+      "info_box" : true,
+      "name" : "school clubs",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -18,6 +18,10 @@
       "name" : "Extrac Peschutz",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 138296,
+      "name" : "Insuke",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153303,
       "name" : "Kobayashi-san (Otto)",
       "type" : "CHARACTER"
@@ -32,6 +36,10 @@
     }, {
       "character_id" : 137302,
       "name" : "Kyui",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 138297,
+      "name" : "Makki",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153189,
@@ -125,6 +133,9 @@
     "24888" : [ {
       "name" : "Kouno Toshiya",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Kouno Toshiya",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "34717" : [ {
       "name" : "Haruhara Robinson",
@@ -137,6 +148,14 @@
     "45917" : [ {
       "name" : "Kanamori Youko",
       "type" : "DIRECTOR"
+    } ],
+    "59930" : [ {
+      "name" : "Sakoe Sara",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "63849" : [ {
+      "name" : "Takaku Miya",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "72419" : [ {
       "name" : "Hirakei",
@@ -153,7 +172,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.84,
+        "rating" : 6.83,
         "total" : 5
       },
       "recap" : false,
@@ -172,7 +191,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.21,
+        "rating" : 7.2,
         "total" : 5
       },
       "recap" : false,
@@ -191,7 +210,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.42,
+        "rating" : 6.41,
         "total" : 5
       },
       "recap" : false,
@@ -210,7 +229,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.8,
+        "rating" : 6.78,
         "total" : 5
       },
       "recap" : false,
@@ -229,8 +248,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.23,
-        "total" : 4
+        "rating" : 7.2,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -243,10 +262,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-16",
+      "description" : "Maomao-chan tries her hand at balloon art. The Hell-Lord, the princess, and Torture are met with afflictions.\nSource: Crunchyroll",
       "episode_id" : 307646,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 6.99,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00327916JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 6"
@@ -254,10 +281,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-23",
+      "description" : "Sakura tackles her first torture. The princess sees a penguin show and goes on an adventure with Giant.\nSource: Crunchyroll",
       "episode_id" : 307647,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 7.4,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00327919JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 7"
@@ -265,13 +300,73 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-02",
+      "description" : "The princess is tortured by handbells and faces Youki in a festival game. Vanilla gives Sakura work advice.\nSource: Crunchyroll",
       "episode_id" : 307648,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 7.21,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00327922JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-09",
+      "description" : "The princess deals with fried chicken, cheap pastries, and an unexpected yet familiar face from her past.\nSource: Crunchyroll",
+      "episode_id" : 308683,
+      "length" : 25,
+      "number" : 9,
+      "rating" : {
+        "rating" : 7.35,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00327925JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-16",
+      "episode_id" : 308684,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-23",
+      "episode_id" : 308685,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-30",
+      "episode_id" : 308686,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -299,7 +394,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 5.44,
+        "rating" : 5.41,
         "total" : 1
       },
       "recap" : false,
@@ -314,7 +409,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 6.03,
+        "rating" : 6.0,
         "total" : 2
       },
       "recap" : false,
@@ -345,12 +440,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.34,
-      "total" : 15
+      "rating" : 6.04,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 6.93,
-      "total" : 16
+      "rating" : 7.0,
+      "total" : 21
     }
   },
   "related" : {

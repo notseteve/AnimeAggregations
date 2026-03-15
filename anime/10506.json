@@ -304,7 +304,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.52,
+        "rating" : 5.53,
         "total" : 6
       },
       "recap" : false,
@@ -536,7 +536,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.24,
+      "rating" : 2.25,
       "total" : 1441
     },
     "REVIEW" : {
@@ -545,7 +545,7 @@
     },
     "TEMPORARY" : {
       "rating" : 5.02,
-      "total" : 1464
+      "total" : 1465
     }
   },
   "resources" : {
@@ -568,6 +568,10 @@
     "9387" : {
       "rating" : 6.153846153846154,
       "total" : 52
+    },
+    "12605" : {
+      "rating" : 10.0,
+      "total" : 2
     }
   },
   "start_date" : "2014-07-03",
@@ -580,6 +584,30 @@
       "verified" : false,
       "weight" : 100
     },
+    "1298" : {
+      "info_box" : false,
+      "name" : "drawing",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1864" : {
+      "info_box" : false,
+      "name" : "extrasensory perception",
+      "parent_tag_id" : 2623,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2043" : {
       "info_box" : false,
       "name" : "high school",
@@ -588,9 +616,23 @@
       "verified" : false,
       "weight" : 200
     },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -639,6 +681,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2624" : {
       "info_box" : false,
       "name" : "present",
@@ -655,6 +705,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2672" : {
       "info_box" : false,
       "name" : "Japan",
@@ -662,6 +720,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2753" : {
       "info_box" : false,
@@ -679,6 +753,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "2779" : {
+      "info_box" : false,
+      "name" : "multiple couples",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2782" : {
+      "info_box" : false,
+      "name" : "shoujo ai",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2785" : {
       "info_box" : false,
       "name" : "unrequited love",
@@ -691,6 +781,22 @@
       "info_box" : true,
       "name" : "love polygon",
       "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2791" : {
+      "info_box" : false,
+      "name" : "stereotypes",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
@@ -710,6 +816,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2844" : {
+      "info_box" : false,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2855" : {
       "info_box" : false,
@@ -774,6 +896,54 @@
       "verified" : false,
       "weight" : 0
     },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3202" : {
+      "info_box" : false,
+      "name" : "adoring fan club",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3276" : {
+      "info_box" : false,
+      "name" : "plot twists",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3684" : {
+      "info_box" : false,
+      "name" : "literature",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3977" : {
+      "info_box" : false,
+      "name" : "dialogue driven",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4227" : {
       "info_box" : false,
       "name" : "detailed landscapes",
@@ -822,10 +992,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5884" : {
       "info_box" : false,
       "name" : "slow-paced",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6088" : {
+      "info_box" : false,
+      "name" : "unrequited shoujo ai",
+      "parent_tag_id" : 2785,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -852,10 +1038,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6233" : {
       "info_box" : false,
       "name" : "tropes",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

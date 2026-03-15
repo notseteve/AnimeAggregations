@@ -42,7 +42,7 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 2.65,
+        "rating" : 2.64,
         "total" : 4
       },
       "recap" : false,
@@ -51,7 +51,10 @@
         "title" : "Anvil, la pèlerine"
       }, {
         "language" : "PORTUGUESE",
-        "title" : "O Peregrino: Bigorna"
+        "title" : "Bigorna, a Peregrina"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "Bigorna, a Peregrina"
       }, {
         "language" : "ENGLISH",
         "title" : "The Pilgrim: Anvil"
@@ -75,7 +78,10 @@
       "recap" : false,
       "titles" : [ {
         "language" : "PORTUGUESE",
-        "title" : "A Bruxa Aprendiz: Jayda"
+        "title" : "Jada, a Aprendiza de Bruxa"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "Jada, a Aprendiza de Bruxa"
       }, {
         "language" : "FRENCH",
         "title" : "Jayda, l’apprentie-sorcière"
@@ -102,7 +108,10 @@
       "recap" : false,
       "titles" : [ {
         "language" : "PORTUGUESE",
-        "title" : "A Aventureira Novata: Ilari"
+        "title" : "Ilari, a Aventureira Novata"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "Ilari, a Aventureira Novata"
       }, {
         "language" : "FRENCH",
         "title" : "Ilari, l’aventurière néophyte"
@@ -132,7 +141,10 @@
       "recap" : false,
       "titles" : [ {
         "language" : "PORTUGUESE",
-        "title" : "A Samurai Feminina: Sayuki"
+        "title" : "Sayuki, a Samurai"
+      }, {
+        "language" : "PORTUGUESE_BRAZIL",
+        "title" : "Sayuki, a Samurai"
       }, {
         "language" : "FRENCH",
         "title" : "Sayuki, la samouraï imperturbable"
@@ -151,12 +163,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.77,
-      "total" : 96
+      "rating" : 2.79,
+      "total" : 98
     },
     "TEMPORARY" : {
-      "rating" : 4.61,
-      "total" : 97
+      "rating" : 4.64,
+      "total" : 99
     }
   },
   "resources" : {
@@ -779,6 +791,10 @@
     "title" : "Goblin no Suana",
     "type" : "MAIN"
   }, {
+    "language" : "PORTUGUESE",
+    "title" : "Covil dos Duendes",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ゴブリンの巣穴",
     "type" : "OFFICIAL"
@@ -787,8 +803,16 @@
     "title" : "Covil dos Goblins",
     "type" : "SYNONYM"
   }, {
+    "language" : "PORTUGUESE_BRAZIL",
+    "title" : "Covil dos Goblins",
+    "type" : "SYNONYM"
+  }, {
     "language" : "ENGLISH",
     "title" : "Goblin Den",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Goblin Lair",
     "type" : "SYNONYM"
   }, {
     "language" : "FRENCH",

@@ -26,6 +26,14 @@
       "name" : "Fern",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153820,
+      "name" : "Hemmung",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153822,
+      "name" : "Jung",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153495,
       "name" : "Milliarde",
       "type" : "CHARACTER"
@@ -38,16 +46,20 @@
       "name" : "Norm-shou Kaichou",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 153496,
-      "name" : "Revolte",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 137238,
       "name" : "Scharf",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153272,
       "name" : "Schlacht",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 137237,
+      "name" : "Serie",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153821,
+      "name" : "Solide",
       "type" : "CHARACTER"
     }, {
       "character_id" : 135761,
@@ -80,12 +92,24 @@
       "name" : "Eisen",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 137234,
+      "name" : "Genau",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 132898,
       "name" : "Heiter",
       "type" : "CHARACTER"
     }, {
       "character_id" : 132899,
       "name" : "Himmel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 137239,
+      "name" : "Methode",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153496,
+      "name" : "Revolte",
       "type" : "CHARACTER"
     } ]
   },
@@ -97,6 +121,9 @@
     "24504" : [ {
       "name" : "Kojima Keisuke",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Kojima Keisuke",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "28424" : [ {
       "name" : "Suzuki Tomohiro",
@@ -137,8 +164,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.33,
-        "total" : 20
+        "rating" : 8.48,
+        "total" : 21
       },
       "recap" : false,
       "resources" : {
@@ -168,8 +195,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.8,
-        "total" : 17
+        "rating" : 8.99,
+        "total" : 18
       },
       "recap" : false,
       "resources" : {
@@ -199,8 +226,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.79,
-        "total" : 14
+        "rating" : 7.77,
+        "total" : 16
       },
       "recap" : false,
       "resources" : {
@@ -230,8 +257,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.95,
-        "total" : 11
+        "rating" : 8.5,
+        "total" : 15
       },
       "recap" : false,
       "resources" : {
@@ -261,19 +288,25 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 9.13,
-        "total" : 7
+        "rating" : 8.37,
+        "total" : 12
       },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "G50UMZP14" ]
       },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Die Logistik der Nördlichen Hochebene"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Hokubu Kougen no Butsuryuu"
       }, {
         "language" : "ENGLISH",
         "title" : "Logistics in the Northern Plateau"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Логістика Північного Плато"
       }, {
         "language" : "JAPANESE",
         "title" : "北部高原の物流"
@@ -281,10 +314,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-02-27",
+      "description" : "A village on the Northern Plateau is wiped out, and the victims` distinctive wounds point to a certain demon.\nSource: Crunchyroll",
       "episode_id" : 307402,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 7.53,
+        "total" : 9
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU78XQG" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A Demon-Slaying Request"
@@ -292,19 +333,45 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Toubatsu Yousei"
       }, {
+        "language" : "GERMAN",
+        "title" : "Vernichtungsauftrag"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Запит на вбивство демона"
+      }, {
         "language" : "JAPANESE",
         "title" : "討伐要請"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-03-06",
+      "air_date" : "2026-03-07",
+      "description" : "Frieren, Fern, and Methode enter the woods to look for the four-armed Divine Revolte.\nSource: Crunchyroll",
       "episode_id" : 307403,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 8.69,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GG1UX29Z3" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Der unbezwingbare Revolte"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shingi no Revolte"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "The Divine Revolte"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Божественний Револьт"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "神技のレヴォルテ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -315,7 +382,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "A Magnificent End"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Rippa na Saigo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "立派な最期"
       } ],
       "type" : "REGULAR"
     }, {
@@ -400,7 +473,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Magic Episode 21"
+        "title" : "Magic Episode 21: Magic to Clean Clothes"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Marumaru no Mahou Dai 21 Kai: Osentaku no Mahou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "●●の魔法 第21回: お洗濯の魔法"
       } ],
       "type" : "SPECIAL"
     } ],
@@ -410,7 +489,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.13,
+        "rating" : 4.14,
         "total" : 2
       },
       "recap" : false,
@@ -425,7 +504,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 7.01,
+        "rating" : 7.03,
         "total" : 3
       },
       "recap" : false,
@@ -460,12 +539,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 9.68,
-      "total" : 111
+      "rating" : 9.3,
+      "total" : 133
     },
     "TEMPORARY" : {
-      "rating" : 8.75,
-      "total" : 114
+      "rating" : 8.52,
+      "total" : 136
     }
   },
   "related" : {
@@ -482,7 +561,7 @@
     "WEBSITE" : [ "https://frieren-anime.jp/" ],
     "WIKIPEDIA_EN" : [ "Frieren" ],
     "WIKIPEDIA_JP" : [ "葬送のフリーレン" ],
-    "YOUTUBE" : [ "watch?v=1_gk3UwnugY", "watch?v=C0BG3B7aksU", "watch?v=DddirskV5Vo", "watch?v=DknvOzqQCTo", "watch?v=FY4Bx2qtkRM", "watch?v=WTUkzIG8ZeE" ]
+    "YOUTUBE" : [ "watch?v=1_gk3UwnugY", "watch?v=C0BG3B7aksU", "watch?v=DddirskV5Vo", "watch?v=DknvOzqQCTo", "watch?v=FY4Bx2qtkRM", "watch?v=WTUkzIG8ZeE", "watch?v=dBafvwMBbGk" ]
   },
   "start_date" : "2026-01-16",
   "tags" : {

@@ -4,6 +4,9 @@
     "74149" : [ {
       "name" : "Tsukiumi Mitsuru",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Tsukiumi Mitsuru",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "81651" : [ {
       "name" : "Yakiniku Teishoku",
@@ -22,6 +25,7 @@
     } ]
   },
   "description" : "Beautiful, brainy Tsuda Akane is indispensable at the robotics manufacturer where she works, but her colleagues never saw her private side. At home, Akane`s a hot mess with an apartment that looks more like a landfill than a living space. When she drunkenly orders a maid to help her tidy up, the lady android who arrives is a horny hottie who`s about to give Akane more service than she bargained for!\nSource: Seven Seas Entertainment",
+  "end_date" : "2026-02-28",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-09",
@@ -29,7 +33,7 @@
       "length" : 5,
       "number" : 1,
       "rating" : {
-        "rating" : 6.82,
+        "rating" : 6.79,
         "total" : 1
       },
       "recap" : false,
@@ -46,7 +50,7 @@
       "length" : 5,
       "number" : 2,
       "rating" : {
-        "rating" : 6.82,
+        "rating" : 6.79,
         "total" : 1
       },
       "recap" : false,
@@ -63,7 +67,7 @@
       "length" : 5,
       "number" : 3,
       "rating" : {
-        "rating" : 6.82,
+        "rating" : 6.79,
         "total" : 1
       },
       "recap" : false,
@@ -104,48 +108,84 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 5"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "撫子が高機能すぎる件について"
       } ],
       "type" : "REGULAR"
     }, {
       "episode_id" : 306886,
       "length" : 5,
       "number" : 6,
+      "rating" : {
+        "rating" : 6.79,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 6"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あかね、オーナー交流会に突撃します"
       } ],
       "type" : "REGULAR"
     }, {
       "episode_id" : 306887,
       "length" : 5,
       "number" : 7,
+      "rating" : {
+        "rating" : 3.02,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 7"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "え、撫子お母さまいるの？"
       } ],
       "type" : "REGULAR"
     }, {
       "episode_id" : 306888,
       "length" : 5,
       "number" : 8,
+      "rating" : {
+        "rating" : 9.91,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "赤ちゃんじゃないもん！！！"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2026-03-06",
+      "episode_id" : 309016,
+      "length" : 5,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Five Days Running"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.41,
-      "total" : 16
+      "rating" : 3.09,
+      "total" : 50
     },
     "TEMPORARY" : {
-      "rating" : 5.68,
-      "total" : 16
+      "rating" : 5.63,
+      "total" : 51
     }
   },
   "resources" : {
@@ -160,6 +200,14 @@
   },
   "start_date" : "2026-01-10",
   "tags" : {
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
@@ -177,6 +225,14 @@
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2614" : {
+      "info_box" : true,
+      "name" : "josei",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -252,9 +308,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "6153" : {
+      "info_box" : false,
+      "name" : "multi-anime projects",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7134" : {
+      "info_box" : false,
+      "name" : "ComicFesta Anime Zone",
+      "parent_tag_id" : 6153,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -124,7 +124,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.48,
+        "rating" : 7.49,
         "total" : 11
       },
       "recap" : false,
@@ -152,7 +152,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.95,
+        "rating" : 6.96,
         "total" : 11
       },
       "recap" : false,
@@ -236,7 +236,7 @@
       "length" : 30,
       "number" : 6,
       "rating" : {
-        "rating" : 7.67,
+        "rating" : 7.68,
         "total" : 12
       },
       "recap" : false,
@@ -264,7 +264,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.95,
+        "rating" : 7.96,
         "total" : 13
       },
       "recap" : false,
@@ -292,7 +292,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.8,
+        "rating" : 7.81,
         "total" : 14
       },
       "recap" : false,
@@ -376,7 +376,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 6.74,
+        "rating" : 6.75,
         "total" : 3
       },
       "recap" : false,
@@ -421,7 +421,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.88,
-      "total" : 2269
+      "total" : 2282
     },
     "REVIEW" : {
       "rating" : 5.5,
@@ -429,7 +429,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.8,
-      "total" : 2288
+      "total" : 2301
     }
   },
   "related" : {
@@ -452,16 +452,40 @@
   },
   "similar" : {
     "61" : {
-      "rating" : 7.090909090909091,
-      "total" : 55
+      "rating" : 7.142857142857143,
+      "total" : 56
     }
   },
   "start_date" : "2022-09-13",
   "tags" : {
+    "36" : {
+      "info_box" : false,
+      "name" : "military",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "183" : {
+      "info_box" : false,
+      "name" : "boxing",
+      "parent_tag_id" : 2751,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "922" : {
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1528" : {
+      "info_box" : false,
+      "name" : "artificial intelligence",
+      "parent_tag_id" : 2846,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -489,6 +513,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2282" : {
+      "info_box" : false,
+      "name" : "martial arts",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2604" : {
       "info_box" : false,
@@ -555,6 +587,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2618" : {
+      "info_box" : false,
+      "name" : "collateral damage",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2619" : {
       "info_box" : false,
       "name" : "gunfights",
@@ -562,6 +602,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2621" : {
+      "info_box" : false,
+      "name" : "bullet time",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2626" : {
       "info_box" : false,
@@ -571,13 +619,29 @@
       "verified" : false,
       "weight" : 600
     },
+    "2627" : {
+      "info_box" : false,
+      "name" : "space",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2630" : {
       "info_box" : false,
       "name" : "Earth",
       "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
     },
     "2636" : {
       "info_box" : true,
@@ -586,6 +650,46 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2638" : {
+      "info_box" : false,
+      "name" : "mecha",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2643" : {
+      "info_box" : false,
+      "name" : "power suit",
+      "parent_tag_id" : 2638,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2659" : {
+      "info_box" : false,
+      "name" : "Moon",
+      "parent_tag_id" : 2660,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2660" : {
+      "info_box" : false,
+      "name" : "other planet",
+      "parent_tag_id" : 2627,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2748" : {
       "info_box" : true,
@@ -611,10 +715,58 @@
       "verified" : false,
       "weight" : 600
     },
+    "2751" : {
+      "info_box" : false,
+      "name" : "combat",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2779" : {
+      "info_box" : false,
+      "name" : "multiple couples",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2786" : {
+      "info_box" : false,
+      "name" : "love polygon",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2800" : {
       "info_box" : true,
       "name" : "game",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2801" : {
+      "info_box" : true,
+      "name" : "RPG",
+      "parent_tag_id" : 2800,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -627,13 +779,37 @@
       "verified" : false,
       "weight" : 400
     },
+    "2817" : {
+      "info_box" : false,
+      "name" : "skimpy clothing",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2821" : {
+      "info_box" : false,
+      "name" : "sudden naked girl appearance",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2832" : {
       "info_box" : false,
       "name" : "Americas",
       "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
+    },
+    "2839" : {
+      "info_box" : false,
+      "name" : "virtual world",
+      "parent_tag_id" : 2628,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2841" : {
       "info_box" : true,
@@ -642,6 +818,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2844" : {
+      "info_box" : false,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2846" : {
       "info_box" : true,
@@ -657,7 +841,15 @@
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 200
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2858" : {
       "info_box" : false,
@@ -674,6 +866,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2869" : {
       "info_box" : false,
@@ -699,6 +907,22 @@
       "verified" : false,
       "weight" : 100
     },
+    "2879" : {
+      "info_box" : false,
+      "name" : "alcohol",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2882" : {
       "info_box" : true,
       "name" : "dystopia",
@@ -706,6 +930,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2884" : {
+      "info_box" : false,
+      "name" : "psychoactive drugs",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2885" : {
       "info_box" : false,
@@ -747,6 +979,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2906" : {
+      "info_box" : false,
+      "name" : "nanomachines",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2925" : {
       "info_box" : false,
       "name" : "war",
@@ -755,10 +995,33 @@
       "verified" : false,
       "weight" : 100
     },
-    "2952" : {
+    "2926" : {
       "info_box" : false,
+      "name" : "post-war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2952" : {
+      "info_box" : true,
       "name" : "rotten world",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2979" : {
+      "info_box" : false,
+      "name" : "mutilation",
+      "parent_tag_id" : 2750,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -787,6 +1050,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3395" : {
+      "info_box" : false,
+      "name" : "promise",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3489" : {
       "info_box" : false,
       "name" : "car chases",
@@ -795,9 +1066,57 @@
       "verified" : false,
       "weight" : 0
     },
+    "3568" : {
+      "info_box" : false,
+      "name" : "gambling",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3606" : {
+      "info_box" : false,
+      "name" : "family without father",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3741" : {
       "info_box" : false,
       "name" : "bullying",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3759" : {
+      "info_box" : false,
+      "name" : "teamwork",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3915" : {
+      "info_box" : false,
+      "name" : "child abuse",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3929" : {
+      "info_box" : false,
+      "name" : "sociocultural evolution",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
@@ -827,6 +1146,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "4170" : {
+      "info_box" : false,
+      "name" : "police are useless",
+      "parent_tag_id" : 5626,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4203" : {
+      "info_box" : false,
+      "name" : "rebellion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4223" : {
+      "info_box" : false,
+      "name" : "running gag",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4316" : {
       "info_box" : false,
       "name" : "murder",
@@ -839,6 +1182,38 @@
       "info_box" : false,
       "name" : "hostage situation",
       "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4440" : {
+      "info_box" : false,
+      "name" : "boy meets girl",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4479" : {
+      "info_box" : false,
+      "name" : "sense of foreboding",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4520" : {
+      "info_box" : false,
+      "name" : "betrayal",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -859,10 +1234,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "4663" : {
+      "info_box" : false,
+      "name" : "tone changes",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "5459" : {
+      "info_box" : false,
+      "name" : "poverty",
+      "parent_tag_id" : 6243,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5604" : {
       "info_box" : false,
       "name" : "following one`s dream",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5626" : {
+      "info_box" : false,
+      "name" : "adults are useless",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -905,12 +1304,20 @@
       "parent_tag_id" : 2853,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 200
     },
     "6018" : {
       "info_box" : false,
       "name" : "predominantly adult cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6062" : {
+      "info_box" : false,
+      "name" : "heroic sacrifice",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -946,6 +1353,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "6243" : {
+      "info_box" : false,
+      "name" : "money",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6248" : {
+      "info_box" : false,
+      "name" : "thievery",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7050" : {
       "info_box" : false,
       "name" : "speculative fiction",
@@ -953,6 +1384,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7793" : {
+      "info_box" : false,
+      "name" : "American-Japanese co-production",
+      "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7854" : {
+      "info_box" : false,
+      "name" : "surveillance",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7955" : {
       "info_box" : false,

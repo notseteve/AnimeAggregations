@@ -10,6 +10,15 @@
       "name" : "Ellen",
       "type" : "CHARACTER"
     } ],
+    "CAMEO" : [ {
+      "character_id" : 1192,
+      "name" : "Fukuzawa Yumi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 1193,
+      "name" : "Ogasawara Sachiko",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 10615,
       "name" : "Kurauchi Anna",
@@ -302,7 +311,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.62,
+        "rating" : 6.63,
         "total" : 8
       },
       "recap" : false,
@@ -436,7 +445,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 5.76,
+        "rating" : 5.77,
         "total" : 2
       },
       "recap" : false,
@@ -503,7 +512,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.55,
-      "total" : 4392
+      "total" : 4394
     },
     "REVIEW" : {
       "rating" : 7.52,
@@ -511,7 +520,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.89,
-      "total" : 4434
+      "total" : 4436
     }
   },
   "resources" : {
@@ -637,6 +646,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2438" : {
+      "info_box" : false,
+      "name" : "idol",
+      "parent_tag_id" : 2794,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2535" : {
       "info_box" : false,
       "name" : "ghost",
@@ -656,6 +673,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -758,6 +782,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2655" : {
+      "info_box" : false,
+      "name" : "parody",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2672" : {
       "info_box" : false,
       "name" : "Japan",
@@ -765,6 +797,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2715" : {
+      "info_box" : false,
+      "name" : "rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2729" : {
+      "info_box" : false,
+      "name" : "BDSM",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2749" : {
       "info_box" : false,
@@ -814,6 +862,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2794" : {
+      "info_box" : false,
+      "name" : "music",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -857,6 +921,14 @@
     "2841" : {
       "info_box" : false,
       "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2848" : {
+      "info_box" : false,
+      "name" : "pornography",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
@@ -910,6 +982,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2887" : {
       "info_box" : false,
       "name" : "tragedy",
@@ -950,6 +1030,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3671" : {
+      "info_box" : false,
+      "name" : "footage reuse",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3751" : {
       "info_box" : false,
       "name" : "grandiose displays of wealth",
@@ -966,6 +1054,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4251" : {
+      "info_box" : false,
+      "name" : "ensemble cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4576" : {
       "info_box" : false,
       "name" : "summer",
@@ -974,10 +1070,26 @@
       "verified" : false,
       "weight" : 300
     },
+    "4606" : {
+      "info_box" : false,
+      "name" : "slide show animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5459" : {
       "info_box" : false,
       "name" : "poverty",
       "parent_tag_id" : 6243,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5697" : {
+      "info_box" : false,
+      "name" : "randomness",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -989,6 +1101,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "5993" : {
+      "info_box" : false,
+      "name" : "black humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "6083" : {
       "info_box" : false,
@@ -1014,6 +1134,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -1025,6 +1152,14 @@
       "info_box" : false,
       "name" : "season",
       "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1052,6 +1187,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7220" : {
+      "info_box" : false,
+      "name" : "sexual abuse",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7222" : {
+      "info_box" : false,
+      "name" : "groping",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "7238" : {
+      "info_box" : false,
+      "name" : "attempted rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,
