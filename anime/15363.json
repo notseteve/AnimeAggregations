@@ -10,6 +10,10 @@
       "name" : "Ashlyn",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 74225,
+      "name" : "Camus",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 73283,
       "name" : "Chun-Lu",
       "type" : "CHARACTER"
@@ -82,6 +86,10 @@
       "name" : "LaDieve",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 73281,
+      "name" : "Lasphere",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 114756,
       "name" : "Lelia Mofur",
       "type" : "CHARACTER"
@@ -108,6 +116,10 @@
     }, {
       "character_id" : 65979,
       "name" : "Nureha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 73280,
+      "name" : "Paps",
       "type" : "CHARACTER"
     }, {
       "character_id" : 127621,
@@ -503,7 +515,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.05,
+        "rating" : 4.04,
         "total" : 5
       },
       "recap" : false,
@@ -745,11 +757,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.78,
-      "total" : 1156
+      "total" : 1160
     },
     "TEMPORARY" : {
       "rating" : 6.57,
-      "total" : 1165
+      "total" : 1169
     }
   },
   "related" : {
@@ -770,6 +782,14 @@
   },
   "start_date" : "2021-01-13",
   "tags" : {
+    "7" : {
+      "info_box" : false,
+      "name" : "juujin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "1589" : {
       "info_box" : false,
       "name" : "samurai",
@@ -852,6 +872,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
@@ -895,6 +923,14 @@
     "2653" : {
       "info_box" : false,
       "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2655" : {
+      "info_box" : false,
+      "name" : "parody",
       "parent_tag_id" : 2853,
       "spoiler" : false,
       "verified" : false,
@@ -1012,6 +1048,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3759" : {
       "info_box" : false,
       "name" : "teamwork",
@@ -1084,10 +1128,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "4474" : {
+      "info_box" : false,
+      "name" : "self-parody",
+      "parent_tag_id" : 2655,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4565" : {
       "info_box" : false,
       "name" : "war-zone realities",
       "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1116,6 +1184,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5585" : {
+      "info_box" : false,
+      "name" : "curse",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "5948" : {
       "info_box" : false,
       "name" : "visible aura",
@@ -1132,12 +1208,52 @@
       "verified" : false,
       "weight" : 0
     },
+    "6019" : {
+      "info_box" : false,
+      "name" : "brainwashing",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6021" : {
+      "info_box" : false,
+      "name" : "gender bender",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6083" : {
+      "info_box" : false,
+      "name" : "master-servant relationship",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "6230" : {
       "info_box" : false,

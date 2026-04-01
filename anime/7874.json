@@ -657,7 +657,7 @@
       "length" : 25,
       "number" : 19,
       "rating" : {
-        "rating" : 5.16,
+        "rating" : 5.17,
         "total" : 12
       },
       "recap" : false,
@@ -1091,7 +1091,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.78,
-      "total" : 4145
+      "total" : 4150
     },
     "REVIEW" : {
       "rating" : 6.66,
@@ -1099,7 +1099,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.86,
-      "total" : 4163
+      "total" : 4168
     }
   },
   "related" : {
@@ -1132,6 +1132,10 @@
     "9525" : {
       "rating" : 4.166666666666667,
       "total" : 24
+    },
+    "9606" : {
+      "rating" : 10.0,
+      "total" : 2
     },
     "10325" : {
       "rating" : 9.09090909090909,
@@ -1302,6 +1306,14 @@
     "2749" : {
       "info_box" : false,
       "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
       "parent_tag_id" : 2604,
       "spoiler" : false,
       "verified" : false,

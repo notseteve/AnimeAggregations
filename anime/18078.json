@@ -293,12 +293,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.4,
-      "total" : 31
+      "rating" : 6.42,
+      "total" : 32
     },
     "TEMPORARY" : {
-      "rating" : 6.58,
-      "total" : 31
+      "rating" : 6.59,
+      "total" : 32
     }
   },
   "related" : {
@@ -310,11 +310,88 @@
     "DOUBAN" : [ "36117912" ],
     "IMDB" : [ "tt27497430" ],
     "MAL" : [ "55655" ],
-    "STREAM" : [ "https://so.youku.com/search_video/q_沧元图" ],
+    "STREAM" : [ "https://so.youku.com/search_video/q_沧元图", "https://www.youku.tv/v/v_show/id_XNTk3NTkxNjMwNA==.html" ],
     "TMDB" : [ "tv/229192" ]
   },
   "start_date" : "2023-06-22",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2282" : {
+      "info_box" : true,
+      "name" : "martial arts",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2467" : {
+      "info_box" : false,
+      "name" : "sword",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2646" : {
+      "info_box" : true,
+      "name" : "demon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6152" : {
       "info_box" : false,
       "name" : "Chinese production",
@@ -326,6 +403,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

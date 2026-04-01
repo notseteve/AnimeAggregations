@@ -38,6 +38,7 @@
       "type" : "MUSIC"
     } ]
   },
+  "end_date" : "2026-03-29",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2025-04-06",
@@ -845,8 +846,14 @@
       "number" : 48,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Final AiPri Contest Kaimaku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 48"
+        "title" : "The Final AiPri Contest Begins"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ファイナル・アイプリコンテスト開幕"
       } ],
       "type" : "REGULAR"
     }, {
@@ -857,7 +864,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 49"
+        "title" : "We`re AiPri"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "We`re AiPri"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "We`reアイプリ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -867,8 +880,25 @@
       "number" : 50,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tabidachi no Uta"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 50"
+        "title" : "The Song of Departure"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "旅だちのうた"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-29",
+      "episode_id" : 309015,
+      "length" : 25,
+      "number" : 51,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 51"
       } ],
       "type" : "REGULAR"
     } ]
@@ -891,7 +921,7 @@
     "ANN" : [ "34032" ],
     "MAL" : [ "61092" ],
     "SYOBOI" : [ "7379" ],
-    "TWITTER" : [ "PrettySeriesPR" ],
+    "TWITTER" : [ "PrettySeriesPR", "aipri_animepr" ],
     "WEBSITE" : [ "https://aipri.jp/anime/" ],
     "WIKIPEDIA_EN" : [ "Himitsu_no_AiPri" ],
     "WIKIPEDIA_JP" : [ "ひみつのアイプリ" ]
@@ -926,6 +956,10 @@
     "language" : "CHINESE_SIMPLIFIED",
     "title" : "秘密的偶像公主 第二季",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Himitsu no AiPri Season 2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://aipri.jp/anime/"

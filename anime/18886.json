@@ -14,6 +14,14 @@
       "name" : "Dach-hakushaku no Sousofu",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 137228,
+      "name" : "Denken",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 137244,
+      "name" : "Edel",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 137232,
       "name" : "Ehre",
       "type" : "CHARACTER"
@@ -26,12 +34,16 @@
       "name" : "Fern",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 153820,
-      "name" : "Hemmung",
+      "character_id" : 154088,
+      "name" : "Gehen",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 153822,
-      "name" : "Jung",
+      "character_id" : 137235,
+      "name" : "Lernen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153990,
+      "name" : "Macht",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153495,
@@ -58,12 +70,12 @@
       "name" : "Serie",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 153821,
-      "name" : "Solide",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 135761,
       "name" : "Stark (Youshouki)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 136316,
+      "name" : "Stolz",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153269,
@@ -73,6 +85,14 @@
       "character_id" : 137226,
       "name" : "Wirbel",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 138842,
+      "name" : "Frieren`s Party",
+      "type" : "ORGANIZATION"
+    }, {
+      "character_id" : 138841,
+      "name" : "Hero Party",
+      "type" : "ORGANIZATION"
     } ],
     "MAIN" : [ {
       "character_id" : 134379,
@@ -100,8 +120,16 @@
       "name" : "Heiter",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153820,
+      "name" : "Hemmung",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 132899,
       "name" : "Himmel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153822,
+      "name" : "Jung",
       "type" : "CHARACTER"
     }, {
       "character_id" : 137239,
@@ -110,6 +138,10 @@
     }, {
       "character_id" : 153496,
       "name" : "Revolte",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153821,
+      "name" : "Solide",
       "type" : "CHARACTER"
     } ]
   },
@@ -164,8 +196,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.48,
-        "total" : 21
+        "rating" : 8.34,
+        "total" : 22
       },
       "recap" : false,
       "resources" : {
@@ -195,8 +227,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.99,
-        "total" : 18
+        "rating" : 8.89,
+        "total" : 19
       },
       "recap" : false,
       "resources" : {
@@ -226,8 +258,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.77,
-        "total" : 16
+        "rating" : 7.71,
+        "total" : 17
       },
       "recap" : false,
       "resources" : {
@@ -257,8 +289,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.5,
-        "total" : 15
+        "rating" : 8.3,
+        "total" : 16
       },
       "recap" : false,
       "resources" : {
@@ -288,8 +320,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.37,
-        "total" : 12
+        "rating" : 8.42,
+        "total" : 14
       },
       "recap" : false,
       "resources" : {
@@ -319,8 +351,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.53,
-        "total" : 9
+        "rating" : 7.92,
+        "total" : 13
       },
       "recap" : false,
       "resources" : {
@@ -350,8 +382,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.69,
-        "total" : 7
+        "rating" : 8.63,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -376,16 +408,30 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-13",
+      "description" : "The Divine Revolte appears at the village, while Frieren, Fern, and Methode battle Solide and Hemmung.\nSource: Crunchyroll",
       "episode_id" : 307404,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 13
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G0DUMNPJ1" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A Magnificent End"
       }, {
+        "language" : "GERMAN",
+        "title" : "Ehrenhafter Tod"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Rippa na Saigo"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Неймовірний кінець"
       }, {
         "language" : "JAPANESE",
         "title" : "立派な最期"
@@ -393,13 +439,33 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-20",
+      "description" : "When Frieren`s party cannot afford the fare to cross Lake Korridor, the captain proposes a trade.\nSource: Crunchyroll",
       "episode_id" : 308314,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 9.22,
+        "total" : 8
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GEVUWZMNM" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Himmel no Jiden"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Himmel`s Memoirs"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Himmels Autobiografie"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Мемуари Гіммеля"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ヒンメルの自伝"
       } ],
       "type" : "REGULAR"
     }, {
@@ -407,10 +473,29 @@
       "episode_id" : 308315,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 9.79,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G7PU34EJQ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "A Beautiful Sight"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Ein herrlicher Anblick"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Utsukushii Koukei"
+      }, {
+        "language" : "UKRAINIAN",
+        "title" : "Прекрасне видовище"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "美しい光景"
       } ],
       "type" : "REGULAR"
     } ],
@@ -482,6 +567,40 @@
         "title" : "●●の魔法 第21回: お洗濯の魔法"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2026-03-16",
+      "episode_id" : 309274,
+      "length" : 2,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Magic Episode 22: Magic to Say What You Are Thinking (Part 2)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Marumaru no Mahou Dai 22 Kai: Kangaete Iru Koto o Itte Shimau Mahou Sono 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "●●の魔法 第22回: 考えていることを言ってしまう魔法その2"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2026-03-12",
+      "episode_id" : 309889,
+      "length" : 55,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "ABEMA出張特番 ~討伐せよ! 神技のレヴォルテ~"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Abema Shucchou Tokuban: Toubatsu Seyo! Shingi no Revolte"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode S10"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "CREDITS" : [ {
       "air_date" : "2026-01-16",
@@ -489,8 +608,8 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.14,
-        "total" : 2
+        "rating" : 5.07,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -504,8 +623,8 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 7.03,
-        "total" : 3
+        "rating" : 7.58,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -539,16 +658,21 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 9.3,
-      "total" : 133
+      "rating" : 9.49,
+      "total" : 234
+    },
+    "REVIEW" : {
+      "rating" : 5.83,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 8.52,
-      "total" : 136
+      "rating" : 8.49,
+      "total" : 237
     }
   },
   "related" : {
-    "PREQUEL" : [ 17617 ]
+    "PREQUEL" : [ 17617 ],
+    "SEQUEL" : [ 19977 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "399566" ],
@@ -561,10 +685,25 @@
     "WEBSITE" : [ "https://frieren-anime.jp/" ],
     "WIKIPEDIA_EN" : [ "Frieren" ],
     "WIKIPEDIA_JP" : [ "葬送のフリーレン" ],
-    "YOUTUBE" : [ "watch?v=1_gk3UwnugY", "watch?v=C0BG3B7aksU", "watch?v=DddirskV5Vo", "watch?v=DknvOzqQCTo", "watch?v=FY4Bx2qtkRM", "watch?v=WTUkzIG8ZeE", "watch?v=dBafvwMBbGk" ]
+    "YOUTUBE" : [ "watch?v=1_gk3UwnugY", "watch?v=C0BG3B7aksU", "watch?v=DddirskV5Vo", "watch?v=DknvOzqQCTo", "watch?v=FY4Bx2qtkRM", "watch?v=WTUkzIG8ZeE", "watch?v=dBafvwMBbGk", "watch?v=xvGmhEz0WHc" ]
   },
   "start_date" : "2026-01-16",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "382" : {
+      "info_box" : false,
+      "name" : "warrior",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "922" : {
       "info_box" : true,
       "name" : "shounen",
@@ -581,9 +720,69 @@
       "verified" : false,
       "weight" : 500
     },
+    "1994" : {
+      "info_box" : false,
+      "name" : "flying",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2008" : {
+      "info_box" : false,
+      "name" : "small breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2094" : {
+      "info_box" : true,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2302" : {
+      "info_box" : false,
+      "name" : "helpful",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -609,10 +808,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
       "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -625,6 +840,30 @@
       "verified" : false,
       "weight" : 600
     },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2774" : {
+      "info_box" : false,
+      "name" : "spellcasting",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -632,6 +871,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2849" : {
       "info_box" : true,
@@ -641,9 +888,209 @@
       "verified" : false,
       "weight" : 600
     },
+    "2850" : {
+      "info_box" : true,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2851" : {
+      "info_box" : false,
+      "name" : "horror",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2879" : {
+      "info_box" : false,
+      "name" : "alcohol",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2979" : {
+      "info_box" : false,
+      "name" : "mutilation",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3285" : {
+      "info_box" : false,
+      "name" : "journey",
+      "parent_tag_id" : 2850,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3435" : {
+      "info_box" : false,
+      "name" : "eating of humans",
+      "parent_tag_id" : 2851,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3759" : {
+      "info_box" : false,
+      "name" : "teamwork",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4223" : {
+      "info_box" : false,
+      "name" : "running gag",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4558" : {
+      "info_box" : false,
+      "name" : "long time span",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5213" : {
+      "info_box" : false,
+      "name" : "the effects of time and distance on human relationships",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5779" : {
+      "info_box" : false,
+      "name" : "anachronisms",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5875" : {
+      "info_box" : false,
+      "name" : "jealousy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5884" : {
+      "info_box" : false,
+      "name" : "slow-paced",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5948" : {
+      "info_box" : false,
+      "name" : "visible aura",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -656,10 +1103,40 @@
       "verified" : false,
       "weight" : 0
     },
+    "7842" : {
+      "info_box" : false,
+      "name" : "fictional religion",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7871" : {
+      "info_box" : false,
+      "name" : "medium breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8057" : {
+      "info_box" : false,
+      "name" : "medieval European aesthetic",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8154" : {
+      "info_box" : false,
+      "name" : "heroes party",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

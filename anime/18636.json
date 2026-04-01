@@ -166,7 +166,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.03,
+        "rating" : 6.0,
         "total" : 2
       },
       "recap" : false,
@@ -191,7 +191,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.5,
+        "rating" : 8.44,
         "total" : 1
       },
       "recap" : false,
@@ -216,7 +216,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.5,
+        "rating" : 8.44,
         "total" : 1
       },
       "recap" : false,
@@ -240,6 +240,10 @@
       "episode_id" : 306696,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 8.44,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00366176JAJP" ]
@@ -261,6 +265,10 @@
       "episode_id" : 306697,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 8.44,
+        "total" : 1
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00366177JAJP" ]
@@ -362,10 +370,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-08",
+      "description" : "Dorm 1 plays dirty in the chicken fight against Mizuki`s team. Later Nanba has a heated exchange with a woman.\nSource: Crunchyroll",
       "episode_id" : 307879,
       "length" : 25,
       "number" : 11,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366182JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Nanba-senpai?"
@@ -379,13 +391,23 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-15",
+      "description" : "Nakatsu finds out that Dorm 1 has a plot against Mizuki. He tells Sano, but Mizuki has already been kidnapped!\nSource: Crunchyroll",
       "episode_id" : 307880,
       "length" : 25,
       "number" : 12,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366183JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "I Was the Same"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ore mo Sou Datta Mono"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "おれもそうだったもの"
       } ],
       "type" : "REGULAR"
     } ],
@@ -415,13 +437,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.02,
-      "total" : 21
+      "rating" : 3.37,
+      "total" : 55
     },
     "TEMPORARY" : {
-      "rating" : 4.85,
-      "total" : 21
+      "rating" : 5.16,
+      "total" : 55
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 19961 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "402355" ],

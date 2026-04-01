@@ -11,7 +11,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 153434,
-      "name" : "Kaede Katagiri",
+      "name" : "Katagiri Kaede",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153268,
@@ -212,6 +212,7 @@
     } ]
   },
   "description" : "* Based on a sport manga by http://anidb.net/cr6396 [Shigeno Shuuichi].",
+  "end_date" : "2026-03-26",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-01-01",
@@ -320,7 +321,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 1.62,
+        "rating" : 1.61,
         "total" : 1
       },
       "recap" : false,
@@ -395,7 +396,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.55,
+        "rating" : 5.54,
         "total" : 1
       },
       "recap" : false,
@@ -445,7 +446,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.55,
+        "rating" : 5.54,
         "total" : 1
       },
       "recap" : false,
@@ -490,25 +491,50 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-19",
+      "description" : "Kanata and Beckenbauer continue their ascent, leading to an unlikely first-time matchup for Kanata...\nSource: Crunchyroll",
       "episode_id" : 308051,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 8.25,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G4VUWQ9M9" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kuuchuu Feint"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Midair Feint"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "空中フェイント"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-26",
+      "episode_id" : 309342,
+      "length" : 25,
+      "number" : 13,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "The Midair Feint"
+        "title" : "The Lead Group Splits"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.75,
-      "total" : 31
+      "rating" : 6.87,
+      "total" : 34
     },
     "TEMPORARY" : {
-      "rating" : 7.04,
-      "total" : 31
+      "rating" : 7.02,
+      "total" : 34
     }
   },
   "related" : {
@@ -689,6 +715,21 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "5916" : {
+      "info_box" : false,
+      "name" : "product placement",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

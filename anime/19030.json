@@ -403,27 +403,74 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.13,
-      "total" : 9
+      "rating" : 6.74,
+      "total" : 10
     },
     "TEMPORARY" : {
-      "rating" : 6.44,
-      "total" : 9
+      "rating" : 6.35,
+      "total" : 10
     }
   },
   "related" : {
-    "PREQUEL" : [ 18764 ]
+    "PREQUEL" : [ 18764 ],
+    "SEQUEL" : [ 19946 ]
   },
   "resources" : {
     "BAIDU_BAIKE" : [ "沧元图2" ],
     "BANGUMI" : [ "458935", "516413" ],
     "DOUBAN" : [ "36597131", "37060847" ],
     "MAL" : [ "60420" ],
-    "STREAM" : [ "https://v.youku.com/v_show/id_XNjQ0ODYwNzc1Mg==.html" ],
+    "STREAM" : [ "https://v.youku.com/v_show/id_XNjQ0ODYwNzc1Mg==.html", "https://www.youku.tv/v/v_show/id_XNjQ0Mjg4NDgwNA==.html" ],
     "TMDB" : [ "tv/229192" ]
   },
   "start_date" : "2024-12-06",
   "tags" : {
+    "2282" : {
+      "info_box" : true,
+      "name" : "martial arts",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3863" : {
+      "info_box" : false,
+      "name" : "competition",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6152" : {
       "info_box" : false,
       "name" : "Chinese production",
@@ -445,8 +492,12 @@
     "title" : "Cang Yuan Tu 2",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "The Demon Hunter 2",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "CHINESE_SIMPLIFIED",
-    "title" : "沧元图 第二季",
+    "title" : "沧元图2",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
@@ -462,11 +513,11 @@
     "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",
-    "title" : "The Demon Hunter 2",
+    "title" : "The Demon Hunter 2nd Season",
     "type" : "SYNONYM"
   }, {
-    "language" : "ENGLISH",
-    "title" : "The Demon Hunter 2nd Season",
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "沧元图 第二季",
     "type" : "SYNONYM"
   } ],
   "type" : "WEB"
