@@ -94,7 +94,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.5,
+      "rating" : 2.51,
       "total" : 74
     },
     "TEMPORARY" : {
@@ -120,6 +120,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2609" : {
       "info_box" : false,
@@ -230,6 +237,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4064" : {
       "info_box" : false,
       "name" : "CGI",
@@ -256,6 +271,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

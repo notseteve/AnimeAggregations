@@ -149,7 +149,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.02,
+        "rating" : 4.01,
         "total" : 11
       },
       "recap" : false,
@@ -224,7 +224,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.08,
+        "rating" : 6.07,
         "total" : 9
       },
       "recap" : false,
@@ -399,7 +399,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 4.44,
+        "rating" : 4.43,
         "total" : 9
       },
       "recap" : false,
@@ -695,11 +695,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.28,
-      "total" : 767
+      "total" : 770
     },
     "TEMPORARY" : {
       "rating" : 6.73,
-      "total" : 770
+      "total" : 773
     }
   },
   "related" : {
@@ -902,6 +902,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

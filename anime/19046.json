@@ -80,7 +80,7 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 8.12,
+        "rating" : 8.1,
         "total" : 8
       },
       "recap" : false,
@@ -105,7 +105,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.93,
+        "rating" : 6.91,
         "total" : 7
       },
       "recap" : false,
@@ -155,7 +155,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.37,
+        "rating" : 6.36,
         "total" : 5
       },
       "recap" : false,
@@ -180,7 +180,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.43,
+        "rating" : 8.42,
         "total" : 5
       },
       "recap" : false,
@@ -205,7 +205,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.07,
+        "rating" : 8.06,
         "total" : 5
       },
       "recap" : false,
@@ -230,7 +230,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.89,
+        "rating" : 6.87,
         "total" : 5
       },
       "recap" : false,
@@ -255,7 +255,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.0,
+        "rating" : 7.99,
         "total" : 6
       },
       "recap" : false,
@@ -280,7 +280,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.68,
+        "rating" : 7.67,
         "total" : 5
       },
       "recap" : false,
@@ -305,7 +305,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 4.68,
+        "rating" : 4.66,
         "total" : 6
       },
       "recap" : false,
@@ -330,8 +330,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.86,
-        "total" : 4
+        "rating" : 6.03,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -355,8 +355,8 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.76,
-        "total" : 2
+        "rating" : 6.51,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -400,12 +400,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.11,
-      "total" : 79
+      "rating" : 4.9,
+      "total" : 143
     },
     "TEMPORARY" : {
-      "rating" : 6.12,
-      "total" : 79
+      "rating" : 6.19,
+      "total" : 143
     }
   },
   "resources" : {
@@ -423,9 +423,133 @@
   },
   "start_date" : "2026-01-09",
   "tags" : {
+    "2094" : {
+      "info_box" : true,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2844" : {
+      "info_box" : true,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4244" : {
+      "info_box" : false,
+      "name" : "healthcare and medicine",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -434,6 +558,14 @@
       "info_box" : false,
       "name" : "Japanese production",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8057" : {
+      "info_box" : false,
+      "name" : "medieval European aesthetic",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

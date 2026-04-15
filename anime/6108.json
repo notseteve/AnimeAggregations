@@ -112,7 +112,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.92,
-      "total" : 1586
+      "total" : 1590
     },
     "REVIEW" : {
       "rating" : 4.99,
@@ -120,7 +120,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.76,
-      "total" : 1601
+      "total" : 1605
     }
   },
   "related" : {
@@ -166,6 +166,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -310,6 +317,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3435" : {
+      "info_box" : false,
+      "name" : "eating of humans",
+      "parent_tag_id" : 2851,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3795" : {
       "info_box" : false,
       "name" : "remastered version available",
@@ -358,6 +373,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6097" : {
       "info_box" : false,
       "name" : "3D CG animation",
@@ -376,6 +399,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

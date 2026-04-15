@@ -148,7 +148,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.35,
+        "rating" : 5.34,
         "total" : 10
       },
       "recap" : false,
@@ -198,7 +198,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.11,
+        "rating" : 4.1,
         "total" : 9
       },
       "recap" : false,
@@ -223,7 +223,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.75,
+        "rating" : 3.74,
         "total" : 8
       },
       "recap" : false,
@@ -298,7 +298,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.41,
+        "rating" : 6.4,
         "total" : 7
       },
       "recap" : false,
@@ -323,7 +323,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.75,
+        "rating" : 6.74,
         "total" : 6
       },
       "recap" : false,
@@ -373,7 +373,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 6.95,
+        "rating" : 6.94,
         "total" : 6
       },
       "recap" : false,
@@ -398,7 +398,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.04,
+        "rating" : 7.03,
         "total" : 5
       },
       "recap" : false,
@@ -451,6 +451,23 @@
         "title" : "TVアニメ『貴族転生』第6話放送直前! 貴族の優雅な生配信 ~最強の音楽とともに~"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2026-03-25",
+      "episode_id" : 309718,
+      "length" : 55,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Final Episode Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saishuu Wa Chokuzen! Kizoku no Yuuga na Tokuban: Tori Kizoku de Bansankai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "最終話直前! 貴族の優雅な特番 ~鳥貴族で晩餐会~"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "CREDITS" : [ {
       "air_date" : "2026-01-05",
@@ -458,7 +475,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.87,
+        "rating" : 2.86,
         "total" : 2
       },
       "recap" : false,
@@ -486,12 +503,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.56,
-      "total" : 190
+      "rating" : 3.53,
+      "total" : 248
     },
     "TEMPORARY" : {
       "rating" : 5.82,
-      "total" : 191
+      "total" : 250
     }
   },
   "resources" : {
@@ -505,12 +522,12 @@
     "WEBSITE" : [ "https://kizoku-tensei.com/" ],
     "WIKIPEDIA_EN" : [ "Noble_Reincarnation" ],
     "WIKIPEDIA_JP" : [ "貴族転生_〜恵まれた生まれから最強の力を得る〜" ],
-    "YOUTUBE" : [ "watch?v=iw0oJHZiP30", "watch?v=ohFsMWho5z4", "watch?v=tjYw4Zm1pZo", "watch?v=vVBSdhJJBrE" ]
+    "YOUTUBE" : [ "watch?v=XM5H-vhcoj4", "watch?v=iw0oJHZiP30", "watch?v=ohFsMWho5z4", "watch?v=tjYw4Zm1pZo", "watch?v=vVBSdhJJBrE" ]
   },
   "similar" : {
     "18026" : {
-      "rating" : 6.666666666666666,
-      "total" : 3
+      "rating" : 7.5,
+      "total" : 4
     }
   },
   "start_date" : "2026-01-05",
@@ -771,10 +788,42 @@
       "verified" : false,
       "weight" : 0
     },
+    "4397" : {
+      "info_box" : false,
+      "name" : "court politics",
+      "parent_tag_id" : 2867,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4455" : {
+      "info_box" : false,
+      "name" : "dysfunctional family",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4537" : {
       "info_box" : false,
       "name" : "time skip",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4611" : {
+      "info_box" : false,
+      "name" : "nearly almighty protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5093" : {
+      "info_box" : false,
+      "name" : "royal intrigue",
+      "parent_tag_id" : 2867,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -837,6 +886,14 @@
     "6242" : {
       "info_box" : false,
       "name" : "death",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,

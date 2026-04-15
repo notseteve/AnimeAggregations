@@ -208,7 +208,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.06,
+        "rating" : 7.05,
         "total" : 9
       },
       "recap" : false,
@@ -239,7 +239,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.35,
+        "rating" : 5.34,
         "total" : 6
       },
       "recap" : false,
@@ -270,7 +270,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.16,
+        "rating" : 6.15,
         "total" : 4
       },
       "recap" : false,
@@ -301,7 +301,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.61,
+        "rating" : 7.6,
         "total" : 5
       },
       "recap" : false,
@@ -670,7 +670,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.61,
-      "total" : 1696
+      "total" : 1700
     },
     "REVIEW" : {
       "rating" : 7.5,
@@ -678,7 +678,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.84,
-      "total" : 1701
+      "total" : 1705
     }
   },
   "related" : {
@@ -716,6 +716,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2606" : {
       "info_box" : false,
@@ -817,6 +824,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3610" : {
       "info_box" : false,
       "name" : "game references",
@@ -828,6 +843,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -1,6 +1,31 @@
 {
   "anime_id" : 18302,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 154249,
+      "name" : "Boniface",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154247,
+      "name" : "Georgine",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154246,
+      "name" : "Ingo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 107363,
+      "name" : "Justus",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154250,
+      "name" : "Veronica",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154248,
+      "name" : "Zack",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 101308,
       "name" : "Ferdinand",
@@ -15,8 +40,16 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 154241,
+      "name" : "Angelica",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 104917,
       "name" : "Benno",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154244,
+      "name" : "Brigitte",
       "type" : "CHARACTER"
     }, {
       "character_id" : 110818,
@@ -24,7 +57,15 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 104911,
-      "name" : "Eva",
+      "name" : "Effa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154242,
+      "name" : "Elvira",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154243,
+      "name" : "Florencia",
       "type" : "CHARACTER"
     }, {
       "character_id" : 108296,
@@ -62,6 +103,10 @@
       "character_id" : 109367,
       "name" : "Vilma",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 154245,
+      "name" : "Wilfried",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -81,6 +126,10 @@
       "name" : "Michiru",
       "type" : "MUSIC"
     } ],
+    "55482" : [ {
+      "name" : "Chang Shao-Wei",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "57580" : [ {
       "name" : "Kazuki Miya",
       "type" : "ORIGINAL_WORK"
@@ -93,17 +142,34 @@
   "description" : "* Based on a fantasy light novel series written by http://anidb.net/cr57580 [Kazuki Miya] and illustrated by http://anidb.net/cr49612 [Shiina Yuu].\nFollowing a disastrous encounter with a noble, http://anidb.net/ch101309 [Myne] finally resolves to say goodbye to her family and friends in the lower city, changing her name to \"http://anidb.net/ch149538 [Rozemyne]\" and beginning her new life as the adopted daughter of Ehrenfest`s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple`s book room as a reward. If she could get her hands on those, she`d be able to read all sorts of precious books! Her name may have changed, but Rozemyne`s passion for books remains the same as she charges into a whole new world!\nSource: J-Novel Club",
   "episodes" : {
     "REGULAR" : [ {
-      "air_date" : "2026-02-04",
+      "air_date" : "2026-04-04",
       "episode_id" : 308893,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.39,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G50UZ7Z5Q" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "I`ve Become a Noble"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Ich bin jetzt eine Adelige"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kizoku ni Natta Watashi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "貴族になったわたし"
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2026-04-11",
       "episode_id" : 308894,
       "length" : 25,
       "number" : 2,
@@ -111,9 +177,16 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shitamachi Kazoku to no Saikai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "下町家族との再会"
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2026-04-18",
       "episode_id" : 308895,
       "length" : 25,
       "number" : 3,
@@ -124,6 +197,7 @@
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2026-04-25",
       "episode_id" : 308896,
       "length" : 25,
       "number" : 4,
@@ -335,12 +409,23 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 7.6,
+      "total" : 22
+    },
+    "TEMPORARY" : {
+      "rating" : 7.29,
+      "total" : 22
+    }
+  },
   "related" : {
     "PREQUEL" : [ 15634 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "401486" ],
     "ANN" : [ "30955" ],
+    "CRUNCHY_ROLL" : [ "G6793XKZY" ],
     "MAL" : [ "57466" ],
     "SYOBOI" : [ "7794" ],
     "TWITTER" : [ "anime_booklove" ],
@@ -371,6 +456,18 @@
     "title" : "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ARABIC",
+    "title" : "هيمنة عثة كتب: ابنة أرشيدوق بالتبني",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "本好きの下剋上 司書になるためには手段を選んでいられません 領主の養女",
     "type" : "OFFICIAL"
@@ -383,8 +480,8 @@
     "title" : "Ascendance of a Bookworm S4",
     "type" : "SYNONYM"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Honzuki no Gekokujou S4",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

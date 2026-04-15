@@ -120,7 +120,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.81,
+        "rating" : 4.8,
         "total" : 5
       },
       "recap" : false,
@@ -145,7 +145,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.86,
+        "rating" : 5.84,
         "total" : 4
       },
       "recap" : false,
@@ -170,7 +170,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.1,
+        "rating" : 7.09,
         "total" : 4
       },
       "recap" : false,
@@ -195,7 +195,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.18,
+        "rating" : 7.17,
         "total" : 5
       },
       "recap" : false,
@@ -245,7 +245,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.76,
+        "rating" : 4.73,
         "total" : 2
       },
       "recap" : false,
@@ -270,7 +270,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 5.75,
+        "rating" : 5.73,
         "total" : 3
       },
       "recap" : false,
@@ -295,7 +295,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.21,
+        "rating" : 5.19,
         "total" : 2
       },
       "recap" : false,
@@ -320,7 +320,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.22,
+        "rating" : 6.19,
         "total" : 2
       },
       "recap" : false,
@@ -343,7 +343,14 @@
       "episode_id" : 305494,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 2.4,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364805JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Ame, Tokidoki,"
@@ -360,10 +367,23 @@
       "episode_id" : 305495,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 2.4,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364807JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tokidoki, Yume"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "With a Chance of Dreams"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ときどき, 夢"
       } ],
       "type" : "REGULAR"
     }, {
@@ -371,10 +391,23 @@
       "episode_id" : 309044,
       "length" : 25,
       "number" : 13,
+      "rating" : {
+        "rating" : 3.2,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00364809JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hidari Mimi no Yakusoku"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 13"
+        "title" : "The Left-Ear Promise"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "左耳の約束"
       } ],
       "type" : "REGULAR"
     } ],
@@ -533,12 +566,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.57,
-      "total" : 52
+      "rating" : 4.6,
+      "total" : 78
     },
     "TEMPORARY" : {
-      "rating" : 5.85,
-      "total" : 54
+      "rating" : 6.04,
+      "total" : 79
     }
   },
   "resources" : {
@@ -553,6 +586,12 @@
     "WIKIPEDIA_EN" : [ "Chitose_Is_in_the_Ramune_Bottle" ],
     "WIKIPEDIA_JP" : [ "千歳くんはラムネ瓶のなか" ],
     "YOUTUBE" : [ "watch?v=5FT2xcSvEAQ", "watch?v=Mwe7ENR8vCo", "watch?v=Uxg9z2rbLNo", "watch?v=ca7_nIyte3I", "watch?v=g39p59JtDfw", "watch?v=pjGmDIrNgHw", "watch?v=sWwmwBSFSC8", "watch?v=wC7FYPFHLeQ" ]
+  },
+  "similar" : {
+    "9310" : {
+      "rating" : 10.0,
+      "total" : 3
+    }
   },
   "start_date" : "2025-10-07",
   "tags" : {

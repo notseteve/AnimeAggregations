@@ -17,12 +17,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.38,
-      "total" : 9
+      "rating" : 4.37,
+      "total" : 10
     },
     "TEMPORARY" : {
-      "rating" : 5.22,
-      "total" : 9
+      "rating" : 5.2,
+      "total" : 10
     }
   },
   "resources" : {
@@ -33,6 +33,14 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2880" : {
+      "info_box" : false,
+      "name" : "Christmas",
+      "parent_tag_id" : 6148,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -48,6 +56,14 @@
     "5939" : {
       "info_box" : false,
       "name" : "CAST MISSING",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6148" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO EPISODE",
       "parent_tag_id" : 30,
       "spoiler" : false,
       "verified" : false,

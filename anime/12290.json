@@ -583,8 +583,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.11,
-      "total" : 2861
+      "rating" : 6.12,
+      "total" : 2870
     },
     "REVIEW" : {
       "rating" : 6.16,
@@ -592,7 +592,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.07,
-      "total" : 2873
+      "total" : 2882
     }
   },
   "resources" : {
@@ -1054,6 +1054,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

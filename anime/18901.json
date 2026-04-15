@@ -30,6 +30,10 @@
       "name" : "Geinin Yagi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154214,
+      "name" : "Hayashi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143372,
       "name" : "Hayashibara Kiiro",
       "type" : "CHARACTER"
@@ -40,6 +44,10 @@
     }, {
       "character_id" : 128519,
       "name" : "Hoshino Aquamarine (Youshouki)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128522,
+      "name" : "Hoshino Ruby (Youshouki)",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153498,
@@ -74,6 +82,10 @@
       "name" : "Narushima Melt",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154217,
+      "name" : "Okazaki",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 132336,
       "name" : "Pieyon",
       "type" : "CHARACTER"
@@ -84,6 +96,10 @@
     }, {
       "character_id" : 133326,
       "name" : "Samejima Abiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154213,
+      "name" : "Sasano",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153133,
@@ -98,12 +114,28 @@
       "name" : "Suzune Komimi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 153985,
+      "name" : "Tendouji Marina",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128517,
+      "name" : "Tendouji Sarina",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154215,
+      "name" : "Terabayashi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 143823,
       "name" : "Tsukuyomi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 133325,
       "name" : "Uehara Taiki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154216,
+      "name" : "Yamaguchi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153221,
@@ -287,8 +319,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.15,
-        "total" : 8
+        "rating" : 6.27,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -315,8 +347,8 @@
       "length" : 30,
       "number" : 4,
       "rating" : {
-        "rating" : 8.97,
-        "total" : 8
+        "rating" : 8.66,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -343,8 +375,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.51,
-        "total" : 7
+        "rating" : 7.88,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -371,8 +403,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.7,
-        "total" : 8
+        "rating" : 7.17,
+        "total" : 9
       },
       "recap" : false,
       "resources" : {
@@ -399,8 +431,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 9.99,
-        "total" : 9
+        "rating" : 9.72,
+        "total" : 10
       },
       "recap" : false,
       "resources" : {
@@ -427,8 +459,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 9.98,
-        "total" : 7
+        "rating" : 10.0,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -455,14 +487,17 @@
       "length" : 30,
       "number" : 9,
       "rating" : {
-        "rating" : 7.91,
-        "total" : 7
+        "rating" : 7.82,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00366827JAJP" ]
       },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Capitalisme et passion"
+      }, {
         "language" : "ENGLISH",
         "title" : "Greed and Passion"
       }, {
@@ -475,24 +510,58 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-18",
+      "description" : "How will Ruby and Akane act out the theme of liar? And how will the audition end?\nSource: Crunchyroll",
       "episode_id" : 308712,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 9.37,
+        "total" : 7
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366828JAJP" ]
+      },
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Casting privé"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kojinkan Audition"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Private Audition"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "個人間オーディション"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-25",
+      "description" : "Six months after the release of “POP IN 2,” B-Komachi nears a big break as Ruby hunts for the truth.\nSource: Crunchyroll",
       "episode_id" : 308713,
-      "length" : 25,
+      "length" : 55,
       "number" : 11,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366829JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sore ga Hajimari"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "The Beginning"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Tout commence ici"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "それが始まり"
       } ],
       "type" : "REGULAR"
     } ],
@@ -517,7 +586,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 4.7,
+        "rating" : 4.69,
         "total" : 4
       },
       "recap" : false,
@@ -588,16 +657,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.03,
-      "total" : 52
+      "rating" : 8.97,
+      "total" : 263
     },
     "TEMPORARY" : {
-      "rating" : 7.84,
-      "total" : 55
+      "rating" : 8.12,
+      "total" : 267
     }
   },
   "related" : {
-    "PREQUEL" : [ 18086 ]
+    "PREQUEL" : [ 18086 ],
+    "SEQUEL" : [ 19969 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "399210" ],

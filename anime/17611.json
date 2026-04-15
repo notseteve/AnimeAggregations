@@ -152,7 +152,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.82,
+        "rating" : 4.81,
         "total" : 10
       },
       "recap" : false,
@@ -177,7 +177,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.92,
+        "rating" : 5.91,
         "total" : 9
       },
       "recap" : false,
@@ -227,7 +227,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.0,
+        "rating" : 5.99,
         "total" : 8
       },
       "recap" : false,
@@ -252,7 +252,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.77,
+        "rating" : 6.76,
         "total" : 8
       },
       "recap" : false,
@@ -277,7 +277,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.85,
+        "rating" : 6.84,
         "total" : 7
       },
       "recap" : false,
@@ -327,7 +327,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.68,
+        "rating" : 6.67,
         "total" : 6
       },
       "recap" : false,
@@ -352,7 +352,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.04,
+        "rating" : 7.03,
         "total" : 6
       },
       "recap" : false,
@@ -402,7 +402,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 7.13,
+        "rating" : 7.12,
         "total" : 6
       },
       "recap" : false,
@@ -524,12 +524,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.36,
-      "total" : 891
+      "rating" : 3.38,
+      "total" : 904
     },
     "TEMPORARY" : {
       "rating" : 5.97,
-      "total" : 902
+      "total" : 915
     }
   },
   "resources" : {
@@ -654,6 +654,14 @@
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -817,6 +825,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "3822" : {
       "info_box" : false,
       "name" : "strong male lead",
@@ -884,6 +900,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

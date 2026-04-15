@@ -79,8 +79,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 9.97,
-        "total" : 1
+        "rating" : 7.64,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -104,8 +104,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.95,
-        "total" : 1
+        "rating" : 5.69,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -129,8 +129,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.5,
-        "total" : 1
+        "rating" : 4.83,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -154,8 +154,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.5,
-        "total" : 1
+        "rating" : 4.83,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -179,8 +179,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.5,
-        "total" : 1
+        "rating" : 4.83,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -204,8 +204,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.5,
-        "total" : 1
+        "rating" : 4.83,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -229,8 +229,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.5,
-        "total" : 1
+        "rating" : 4.83,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -254,8 +254,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.5,
-        "total" : 1
+        "rating" : 4.83,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -279,8 +279,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.5,
-        "total" : 1
+        "rating" : 5.94,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -304,8 +304,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.5,
-        "total" : 1
+        "rating" : 4.83,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -324,10 +324,18 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-19",
+      "description" : "Before welcoming Eleven into his party, Lizel must deal with the remnants of the Forky Gang.\nSource: Crunchyroll",
       "episode_id" : 308237,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 4.83,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366085JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Party e Youkoso"
@@ -341,13 +349,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-26",
+      "description" : "Lizel`s party accept a job to help produce healing potions.\nSource: Crunchyroll",
       "episode_id" : 308238,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 4.83,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366086JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "A Country Without Lizel"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Lizel no Inai Kuni"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "リゼルのいない国"
       } ],
       "type" : "REGULAR"
     } ],
@@ -377,12 +399,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.03,
-      "total" : 32
+      "rating" : 3.79,
+      "total" : 96
     },
     "TEMPORARY" : {
-      "rating" : 5.2,
-      "total" : 32
+      "rating" : 5.46,
+      "total" : 96
     }
   },
   "resources" : {
@@ -451,6 +473,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2783" : {
+      "info_box" : true,
+      "name" : "shounen ai",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -466,6 +496,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2862" : {
       "info_box" : false,

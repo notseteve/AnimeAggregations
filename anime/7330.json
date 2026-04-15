@@ -32,7 +32,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.56,
+      "rating" : 2.58,
       "total" : 6
     },
     "TEMPORARY" : {
@@ -69,6 +69,29 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3618" : {
+      "info_box" : false,
+      "name" : "ocean",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "5939" : {
       "info_box" : false,

@@ -1,6 +1,67 @@
 {
   "anime_id" : 19580,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 150296,
+      "name" : "Botan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133664,
+      "name" : "Gorth",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149490,
+      "name" : "Hajimari no Kaichou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149487,
+      "name" : "Hoxie",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149489,
+      "name" : "Inuiwayama no Kaichou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133663,
+      "name" : "Karios",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150295,
+      "name" : "Kuroyata",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150294,
+      "name" : "Meiro no Kaichou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133661,
+      "name" : "Munami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149488,
+      "name" : "Shakunetsu no Kaichou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133999,
+      "name" : "Shimelai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 134002,
+      "name" : "Shirley",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133660,
+      "name" : "Suori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150364,
+      "name" : "Yami no Shinrin Kaichou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 134000,
+      "name" : "Yumite",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 130926,
       "name" : "Hakkon",
@@ -138,13 +199,27 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-01",
+      "description" : "Boxxo and Kikoyu celebrate birthdays, and the party ventures to the Dog Mountain stratum.\nSource: Crunchyroll",
       "episode_id" : 309497,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.36,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00354759JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sorezore no Monogatari e"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "それぞれの物語へ"
       } ],
       "type" : "REGULAR"
     }, {
@@ -152,10 +227,20 @@
       "episode_id" : 309498,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.36,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kai no Jidouhanbaiki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "貝と自動販売機"
       } ],
       "type" : "REGULAR"
     }, {
@@ -167,6 +252,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tekichi Taizai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "敵地滞在"
       } ],
       "type" : "REGULAR"
     }, {
@@ -180,13 +271,47 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-04-01",
+      "episode_id" : 310127,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-04-01",
+      "episode_id" : 310128,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.31,
+      "total" : 10
+    },
+    "TEMPORARY" : {
+      "rating" : 4.2,
+      "total" : 10
+    }
   },
   "related" : {
     "PREQUEL" : [ 18204 ]
   },
   "resources" : {
     "ANN" : [ "37849" ],
+    "CRUNCHY_ROLL" : [ "GVDHX8504" ],
     "MAL" : [ "62512" ],
     "SYOBOI" : [ "7797" ],
     "TWITTER" : [ "jihanki_anime" ],
@@ -228,6 +353,14 @@
     "language" : "JAPANESE",
     "title" : "俺自販機3",
     "type" : "SHORT"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S3",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://jihanki-anime.com/"

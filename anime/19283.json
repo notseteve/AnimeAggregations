@@ -61,10 +61,73 @@
       "type" : "CHARACTER_DESIGN"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-03-29",
+      "episode_id" : 309485,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 9.15,
+        "total" : 3
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-05",
+      "episode_id" : 309486,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-12",
+      "episode_id" : 309487,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-19",
+      "episode_id" : 309488,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.46,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 4.88,
+      "total" : 9
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "403880" ],
     "ANN" : [ "35579" ],
+    "CRUNCHY_ROLL" : [ "GT00371636" ],
     "MAL" : [ "61443" ],
+    "SYOBOI" : [ "7768" ],
     "TWITTER" : [ "4seasons_anime" ],
     "WEBSITE" : [ "https://4seasons-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Agents_of_the_Four_Seasons" ],
@@ -93,9 +156,21 @@
     "title" : "Shunkashuutou Daikousha: Haru no Mai",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Agents of the Four Seasons: Dance of Spring",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "春夏秋冬代行者 春の舞",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "4seasons",
+    "type" : "SHORT"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Shunkashuutou Daikousha - Haru no Mai",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://4seasons-anime.com/"

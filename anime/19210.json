@@ -108,7 +108,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.15,
+        "rating" : 5.14,
         "total" : 5
       },
       "recap" : false,
@@ -158,7 +158,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.91,
+        "rating" : 3.9,
         "total" : 3
       },
       "recap" : false,
@@ -183,7 +183,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.57,
+        "rating" : 8.56,
         "total" : 3
       },
       "recap" : false,
@@ -208,7 +208,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.97,
+        "rating" : 6.96,
         "total" : 3
       },
       "recap" : false,
@@ -233,7 +233,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.18,
+        "rating" : 5.17,
         "total" : 3
       },
       "recap" : false,
@@ -258,8 +258,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.87,
-        "total" : 2
+        "rating" : 6.96,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -283,8 +283,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.8,
-        "total" : 1
+        "rating" : 6.96,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -308,8 +308,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.8,
-        "total" : 1
+        "rating" : 6.77,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -328,24 +328,48 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-17",
+      "description" : "Arisu must clear one final hurdle before Rikka can put on her street performance.\nSource: Crunchyroll",
       "episode_id" : 308419,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 6.93,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00368007JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sukoshi Me o Hanashita Suki ni / Secret Track / Tenjou no"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "While You Look Away / Secret Track / Celestial"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "少し目を離した隙に / SECRET TRACK / celestial[天上の]"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-24",
+      "description" : "Rikka`s park concert gets a rude interruption. Can she fight past it and still put on her show?\nSource: Crunchyroll",
       "episode_id" : 308420,
       "length" : 25,
       "number" : 12,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00368008JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "In Rikka`s Front Row / Symbol for Defiance"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Rikka no Saizenretsu de / Hangeki no Akashi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "六花の最前列で / 反撃の証"
       } ],
       "type" : "REGULAR"
     } ],
@@ -435,13 +459,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.4,
-      "total" : 37
+      "rating" : 4.93,
+      "total" : 116
     },
     "TEMPORARY" : {
-      "rating" : 6.32,
-      "total" : 38
+      "rating" : 6.35,
+      "total" : 117
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 19967 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "399729" ],

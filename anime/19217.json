@@ -68,7 +68,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.36,
+        "rating" : 7.34,
         "total" : 4
       },
       "recap" : false,
@@ -89,7 +89,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.94,
+        "rating" : 6.92,
         "total" : 4
       },
       "recap" : false,
@@ -110,7 +110,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.17,
+        "rating" : 5.14,
         "total" : 4
       },
       "recap" : false,
@@ -131,7 +131,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.74,
+        "rating" : 4.72,
         "total" : 4
       },
       "recap" : false,
@@ -152,7 +152,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.18,
+        "rating" : 7.16,
         "total" : 3
       },
       "recap" : false,
@@ -173,7 +173,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.83,
+        "rating" : 4.8,
         "total" : 3
       },
       "recap" : false,
@@ -194,7 +194,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.83,
+        "rating" : 4.8,
         "total" : 3
       },
       "recap" : false,
@@ -215,8 +215,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.33,
-        "total" : 2
+        "rating" : 4.8,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -236,8 +236,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.33,
-        "total" : 2
+        "rating" : 4.8,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -257,8 +257,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 8.46,
-        "total" : 1
+        "rating" : 5.37,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -277,6 +277,10 @@
       "episode_id" : 308308,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 4.8,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -294,22 +298,36 @@
       "episode_id" : 308309,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 8.42,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "I Looked to the Sky and Saw a Hero"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sora o Miagetara Yuusha Datta"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "空を見上げたら勇者だった"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.96,
-      "total" : 35
+      "rating" : 2.93,
+      "total" : 186
+    },
+    "REVIEW" : {
+      "rating" : 1.16,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 5.76,
-      "total" : 36
+      "rating" : 5.38,
+      "total" : 189
     }
   },
   "resources" : {
@@ -325,12 +343,12 @@
   },
   "similar" : {
     "13871" : {
-      "rating" : 7.142857142857143,
-      "total" : 7
+      "rating" : 7.272727272727273,
+      "total" : 11
     },
     "14201" : {
-      "rating" : 9.09090909090909,
-      "total" : 11
+      "rating" : 8.571428571428571,
+      "total" : 14
     }
   },
   "start_date" : "2026-01-10",
@@ -349,9 +367,23 @@
       "verified" : false,
       "weight" : 0
     },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2610" : {
       "info_box" : false,
       "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -360,6 +392,14 @@
       "info_box" : false,
       "name" : "place",
       "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -380,6 +420,21 @@
       "verified" : false,
       "weight" : 400
     },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2979" : {
       "info_box" : false,
       "name" : "mutilation",
@@ -388,10 +443,58 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3528" : {
+      "info_box" : false,
+      "name" : "reincarnation",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3703" : {
+      "info_box" : false,
+      "name" : "fist fight",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3721" : {
+      "info_box" : false,
+      "name" : "RPG aspects",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3968" : {
       "info_box" : false,
       "name" : "animal protagonist",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3977" : {
+      "info_box" : false,
+      "name" : "dialogue driven",
+      "parent_tag_id" : 3683,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -407,6 +510,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

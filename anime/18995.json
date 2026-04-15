@@ -107,12 +107,76 @@
     } ]
   },
   "description" : "* Based on a fantasy comedy shounen manga by http://anidb.net/cr57400 [Nishi Osamu].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-04",
+      "episode_id" : 310139,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374401JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Ein neuer Dämon in der Abnormalen Klasse"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Other Demon in the Misfit Class"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-11",
+      "episode_id" : 310146,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-18",
+      "episode_id" : 310377,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-25",
+      "episode_id" : 310378,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.82,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 5.77,
+      "total" : 9
+    }
+  },
   "related" : {
     "PREQUEL" : [ 16627 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "402228" ],
     "ANN" : [ "34035" ],
+    "CRUNCHY_ROLL" : [ "G6NVG970Y" ],
     "MAL" : [ "60310" ],
     "SYOBOI" : [ "7770" ],
     "TWITTER" : [ "nep_irumakun" ],
@@ -143,12 +207,20 @@
     "title" : "Mairimashita! Iruma-kun (2026)",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Welcome to Demon School! Iruma-kun (2026)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Welcome to Demon School! Iruma-kun Staffel 4",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "魔入りました! 入間くん (2026)",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Welcome to Demon School! Iruma-kun (2026)",
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Mairimashita! Iruma-kun S4",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

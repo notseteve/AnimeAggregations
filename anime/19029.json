@@ -6,10 +6,6 @@
       "name" : "Ageha",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 153014,
-      "name" : "Allen",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 153031,
       "name" : "Apoo",
       "type" : "CHARACTER"
@@ -20,10 +16,6 @@
     }, {
       "character_id" : 153035,
       "name" : "Buron",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 153013,
-      "name" : "Cecil",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153027,
@@ -38,16 +30,16 @@
       "name" : "Chuu",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 153011,
-      "name" : "Clena",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 153017,
       "name" : "Denka",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 153012,
+      "character_id" : 149879,
       "name" : "Dogora",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154130,
+      "name" : "Harami",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153029,
@@ -95,25 +87,29 @@
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
-      "character_id" : 149876,
+      "character_id" : 153014,
       "name" : "Allen",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 149878,
-      "name" : "Cecil",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 149877,
-      "name" : "Clena",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 149879,
-      "name" : "Dogora",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
       "character_id" : 152450,
       "name" : "Butler von Granvelle",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153013,
+      "name" : "Cecil",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153011,
+      "name" : "Clena",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153012,
+      "name" : "Dogora",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154131,
+      "name" : "Gerda",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152545,
@@ -124,12 +120,24 @@
       "name" : "Mash",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154132,
+      "name" : "Michiruda",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 152452,
       "name" : "Mihai Granvelle",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154129,
+      "name" : "Myura",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 152453,
       "name" : "Rodin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154133,
+      "name" : "Sebas",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152448,
@@ -325,7 +333,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.5,
+        "rating" : 5.49,
         "total" : 3
       },
       "recap" : false,
@@ -346,7 +354,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.04,
+        "rating" : 8.03,
         "total" : 4
       },
       "recap" : false,
@@ -388,7 +396,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.47,
+        "rating" : 7.46,
         "total" : 3
       },
       "recap" : false,
@@ -450,12 +458,40 @@
       "episode_id" : 308546,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 6.34,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "The Escape"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Touhikou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "逃避行"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2026-02-20",
+      "episode_id" : 309890,
+      "length" : 55,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode S1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "SP Tokuban"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "SP特番"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "CREDITS" : [ {
       "air_date" : "2026-01-10",
@@ -463,7 +499,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 3.38,
+        "rating" : 3.36,
         "total" : 1
       },
       "recap" : false,
@@ -472,17 +508,35 @@
         "title" : "Opening"
       } ],
       "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-01-24",
+      "episode_id" : 310206,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.23,
-      "total" : 54
+      "rating" : 4.75,
+      "total" : 241
+    },
+    "REVIEW" : {
+      "rating" : 7.83,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 5.95,
-      "total" : 57
+      "rating" : 6.37,
+      "total" : 244
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 19978 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "401592" ],

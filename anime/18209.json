@@ -1,6 +1,19 @@
 {
   "anime_id" : 18209,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 154296,
+      "name" : "Asanagi Sora",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154294,
+      "name" : "Maehara Masaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154295,
+      "name" : "Yagisawa Miki",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 148392,
       "name" : "Amami Yuu",
@@ -59,6 +72,70 @@
   },
   "description" : "* Based on a love comedy light novel series written by http://anidb.net/cr73610 [Takata] and illustrated by http://anidb.net/cr73611 [Hyuuga Azuri].\nMaehara Maki is a boy who has not made any friends or acquaintances at school. He makes his first friend Asanagi Umi — whom the gossip among male classmates have nicknamed the \"second cutest girl in class.\" She usually hangs out after school with the No. 1 cutest girl, the naive Amami Yuu. However, on Fridays, Asanagi would come to Maehara`s home instead, thanks to their shared hobbies like movies, games, and manga.\nSource: ANN",
   "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-07",
+      "episode_id" : 309477,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 6.86,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375307JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Asanagi Umi to Iu Onnanoko"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Girl Named Asanagi Umi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "朝凪海という女の子"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-14",
+      "episode_id" : 309478,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Asanagi Umi to Amami Yuu"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "朝凪海と天海夕"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-21",
+      "episode_id" : 309479,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-28",
+      "episode_id" : 309480,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2025-12-24",
       "episode_id" : 306311,
@@ -72,9 +149,20 @@
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.65,
+      "total" : 6
+    },
+    "TEMPORARY" : {
+      "rating" : 4.66,
+      "total" : 6
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "400381" ],
     "ANN" : [ "30079" ],
+    "CRUNCHY_ROLL" : [ "GT00371673" ],
     "MAL" : [ "56734" ],
     "SYOBOI" : [ "7761" ],
     "TWITTER" : [ "2ndinclass" ],
@@ -120,6 +208,10 @@
     "title" : "Class de 2 Banme ni Kawaii Onnanoko to Tomodachi ni Natta",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "I Made Friends with the Second Prettiest Girl in My Class",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "クラスで2番目に可愛い女の子と友だちになった",
     "type" : "OFFICIAL"
@@ -127,10 +219,6 @@
     "language" : "JAPANESE",
     "title" : "クラにか",
     "type" : "SHORT"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "I Made Friends with the Second Prettiest Girl in My Class",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://kuranika.asmik-ace.co.jp/"

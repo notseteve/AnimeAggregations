@@ -10,10 +10,6 @@
       "name" : "Hana",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 23473,
-      "name" : "Jjintta set",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 23472,
       "name" : "Moon",
       "type" : "CHARACTER"
@@ -29,6 +25,10 @@
       "character_id" : 23471,
       "name" : "Red-eye",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 23473,
+      "name" : "Jjintta set",
+      "type" : "ORGANIZATION"
     } ],
     "MAIN" : [ {
       "character_id" : 23470,
@@ -37,6 +37,19 @@
     }, {
       "character_id" : 23469,
       "name" : "Nabi",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 154007,
+      "name" : "Il-ho",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154009,
+      "name" : "Sam-ho",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154008,
+      "name" : "Yi-ho",
       "type" : "CHARACTER"
     } ]
   },
@@ -118,6 +131,18 @@
         "title" : "Imagine"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2020-08-18",
+      "description" : "Episode focuses on the Jjintta-set.",
+      "episode_id" : 309392,
+      "length" : 12,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "another step"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
@@ -132,9 +157,10 @@
   },
   "resources" : {
     "MAL" : [ "6505" ],
-    "WEBSITE" : [ "http://www.sambakza.net/works_tsi/tsi_main.html" ],
+    "WEBSITE" : [ "https://www.sambakza.net/" ],
     "WIKIPEDIA_EN" : [ "There_she_is!!" ],
-    "WIKIPEDIA_KO" : [ "떳다_그녀!!" ]
+    "WIKIPEDIA_KO" : [ "떳다_그녀!!" ],
+    "YOUTUBE" : [ "watch?v=3quYcNI3dOs&list=PLNW5VHgNAxrM9H44BqxegOXfdoHIfLIqt" ]
   },
   "similar" : {
     "3436" : {

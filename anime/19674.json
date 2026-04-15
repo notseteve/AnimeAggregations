@@ -48,8 +48,74 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "The year is 2045. Singing is forbidden, and an AI system called MiucS creates music in place of people. Seria Aiba, a high school girl who can see spirits, lives quietly under these rules—until one day, she hears a real human voice singing. Following the song, Seria discovers the source: a ghost. Now Seria must decide whether to stay silent or risk everything to bring music back to the world.\nSource: Crunchyroll",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-06",
+      "episode_id" : 309461,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.18,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374798JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-13",
+      "episode_id" : 309462,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-20",
+      "episode_id" : 309463,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-27",
+      "episode_id" : 309464,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.57,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 3.85,
+      "total" : 7
+    }
+  },
   "resources" : {
     "ANN" : [ "37935" ],
+    "CRUNCHY_ROLL" : [ "GT00374796" ],
     "MAL" : [ "62852" ],
     "SYOBOI" : [ "7755" ],
     "TWITTER" : [ "GHOSTCONCERT_PJ" ],
@@ -59,6 +125,29 @@
   },
   "start_date" : "2026-04-06",
   "tags" : {
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2626" : {
+      "info_box" : false,
+      "name" : "future",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -80,9 +169,17 @@
     "title" : "Ghost Concert: Missing Songs",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Ghost Concert: Missing Songs",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ゴーストコンサート: missing Songs",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Ghost Concert - missing Songs",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://ghostconcert-anime.com/"

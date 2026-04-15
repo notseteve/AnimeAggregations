@@ -66,11 +66,116 @@
       "type" : "STORY_COMPOSITION"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-01",
+      "episode_id" : 309493,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 5.85,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00350641JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ousama, Bouken Suru."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "王様, 冒険する."
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-08",
+      "episode_id" : 309494,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 5.32,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Oujo-sama, Bouken Suru."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "王女様, 冒険する."
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-15",
+      "episode_id" : 309495,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-22",
+      "episode_id" : 309496,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-04-01",
+      "episode_id" : 310092,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-04-01",
+      "episode_id" : 310093,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.58,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 4.73,
+      "total" : 16
+    }
+  },
   "related" : {
     "PREQUEL" : [ 18935 ]
   },
   "resources" : {
+    "CRUNCHY_ROLL" : [ "G24H1NWKE" ],
     "MAL" : [ "61831" ],
+    "SYOBOI" : [ "7805" ],
     "TWITTER" : [ "saikyo2dome" ],
     "WEBSITE" : [ "https://saikyo2dome-tbate.com/" ],
     "WIKIPEDIA_EN" : [ "The_Beginning_After_the_End" ],
@@ -106,6 +211,10 @@
     "language" : "JAPANESE",
     "title" : "最強の王様, 二度目の人生は何をする? (2026)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "The Beginning After the End S2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://saikyo2dome-tbate.com/"

@@ -332,7 +332,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.59,
+        "rating" : 7.58,
         "total" : 4
       },
       "recap" : false,
@@ -407,7 +407,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 5.79,
+        "rating" : 5.78,
         "total" : 3
       },
       "recap" : false,
@@ -487,12 +487,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.37,
-      "total" : 510
+      "rating" : 6.39,
+      "total" : 513
     },
     "TEMPORARY" : {
       "rating" : 6.93,
-      "total" : 511
+      "total" : 514
     }
   },
   "resources" : {
@@ -536,9 +536,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -612,6 +627,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,

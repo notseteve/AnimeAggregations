@@ -1,5 +1,16 @@
 {
   "anime_id" : 18736,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 154362,
+      "name" : "Elk von Luxel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154361,
+      "name" : "Lilia Carol",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "78024" : [ {
       "name" : "Umika",
@@ -19,7 +30,7 @@
       "length" : 3,
       "number" : 1,
       "rating" : {
-        "rating" : 2.91,
+        "rating" : 2.9,
         "total" : 3
       },
       "recap" : false,
@@ -34,7 +45,7 @@
       "length" : 3,
       "number" : 2,
       "rating" : {
-        "rating" : 3.6,
+        "rating" : 3.59,
         "total" : 3
       },
       "recap" : false,
@@ -49,7 +60,7 @@
       "length" : 3,
       "number" : 3,
       "rating" : {
-        "rating" : 2.91,
+        "rating" : 2.9,
         "total" : 3
       },
       "recap" : false,
@@ -64,7 +75,7 @@
       "length" : 3,
       "number" : 4,
       "rating" : {
-        "rating" : 4.4,
+        "rating" : 4.39,
         "total" : 3
       },
       "recap" : false,
@@ -197,12 +208,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.6,
-      "total" : 71
+      "rating" : 2.59,
+      "total" : 72
     },
     "TEMPORARY" : {
-      "rating" : 4.79,
-      "total" : 73
+      "rating" : 4.77,
+      "total" : 74
     }
   },
   "related" : {
@@ -224,6 +235,51 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2094" : {
+      "info_box" : true,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3528" : {
+      "info_box" : false,
+      "name" : "reincarnation",
+      "parent_tag_id" : 2931,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -254,6 +310,22 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

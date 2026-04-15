@@ -90,12 +90,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.5,
-      "total" : 57
+      "rating" : 2.51,
+      "total" : 58
     },
     "TEMPORARY" : {
-      "rating" : 4.49,
-      "total" : 57
+      "rating" : 4.52,
+      "total" : 58
     }
   },
   "resources" : {
@@ -128,6 +128,14 @@
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -188,9 +196,25 @@
       "verified" : false,
       "weight" : 100
     },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

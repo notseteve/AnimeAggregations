@@ -57,17 +57,114 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-05",
+      "episode_id" : 309517,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 8.6,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375043JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-12",
+      "episode_id" : 309518,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-19",
+      "episode_id" : 309519,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-26",
+      "episode_id" : 309520,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.2,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 3.72,
+      "total" : 9
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "403191" ],
     "ANN" : [ "37986" ],
+    "CRUNCHY_ROLL" : [ "GT00371863" ],
+    "IMDB" : [ "tt39403976" ],
     "MAL" : [ "62913" ],
+    "SYOBOI" : [ "7795" ],
     "TWITTER" : [ "x_angelkawaii_x" ],
+    "VNDB" : [ "v33493" ],
     "WEBSITE" : [ "https://needygirl-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Needy_Streamer_Overload" ],
     "WIKIPEDIA_JP" : [ "NEEDY_GIRL_OVERDOSE" ]
   },
+  "similar" : {
+    "154" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
+  },
   "start_date" : "2026-04-05",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2800" : {
+      "info_box" : true,
+      "name" : "game",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2804" : {
+      "info_box" : true,
+      "name" : "visual novel",
+      "parent_tag_id" : 2800,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -91,6 +188,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "NEEDY GIRL OVERDOSE",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Needy Girl Overdose",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

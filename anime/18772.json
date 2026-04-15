@@ -1,18 +1,75 @@
 {
   "anime_id" : 18772,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 153983,
+      "name" : "Chapatsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154239,
+      "name" : "Dai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153982,
+      "name" : "Hiroshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153979,
+      "name" : "Jiisan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153981,
+      "name" : "Mendori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153980,
+      "name" : "Obaasan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153992,
+      "name" : "Oda Yasuo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153984,
+      "name" : "Sara",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154240,
+      "name" : "Sei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153991,
+      "name" : "Tajima Yuusuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153977,
+      "name" : "Yuuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153978,
+      "name" : "Yuuki no Mama",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 142393,
       "name" : "Keiji",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 153976,
+      "name" : "Elizabeth",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142394,
       "name" : "Piyoko",
       "type" : "CHARACTER"
     } ]
   },
   "creators" : {
+    "4642" : [ {
+      "name" : "Takahashi Tetsuya",
+      "type" : "MUSIC"
+    } ],
     "5146" : [ {
       "name" : "Sanzigen",
       "type" : "ANIMATION_WORK"
@@ -21,9 +78,17 @@
       "name" : "Suzuki Daisuke",
       "type" : "DIRECTOR"
     } ],
+    "21644" : [ {
+      "name" : "Chanohara Takuya",
+      "type" : "CHARACTER_DESIGN"
+    } ],
     "37817" : [ {
       "name" : "Seko Hiroshi",
       "type" : "SERIES_COMPOSITION"
+    } ],
+    "66094" : [ {
+      "name" : "Joseph Shin",
+      "type" : "CHARACTER_DESIGN"
     } ],
     "77737" : [ {
       "name" : "Sakuratani Shuu",
@@ -36,28 +101,99 @@
       "episode_id" : 309261,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.54,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "A Rooster Among Cranes"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Kranich unter Hühnern"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "群鶏一鶴"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-22",
+      "episode_id" : 309278,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 3.52,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Der Goldene Käfig"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Caged Bird"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "籠鳥檻猿"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-03-29",
+      "episode_id" : 309950,
+      "length" : 25,
+      "number" : 3,
+      "rating" : {
+        "rating" : 3.52,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Die Parabel der drei Vögel"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Parable of the Three Birds"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "三鳥虫綱"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-05",
+      "episode_id" : 310173,
+      "length" : 25,
+      "number" : 4,
+      "rating" : {
+        "rating" : 3.52,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Homing in on Desire"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "禽息鳥視"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.58,
-      "total" : 5
+      "rating" : 4.02,
+      "total" : 15
     },
     "TEMPORARY" : {
-      "rating" : 4.7,
-      "total" : 5
+      "rating" : 5.9,
+      "total" : 16
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "404433" ],
     "ANN" : [ "32984" ],
     "MAL" : [ "59393" ],
+    "SYOBOI" : [ "7762" ],
     "TWITTER" : [ "niwatorifighte1" ],
     "WEBSITE" : [ "https://www.niwatori-fighter.net/" ],
     "WIKIPEDIA_EN" : [ "Rooster_Fighter" ]
@@ -189,13 +325,13 @@
     "title" : "Rooster Fighter",
     "type" : "OFFICIAL"
   }, {
+    "language" : "GERMAN",
+    "title" : "Rooster Fighter",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ニワトリ・ファイター",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "UNKNOWN",
-    "title" : "https://www.allcinema.net/cinema/404433",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://www.niwatori-fighter.net/"

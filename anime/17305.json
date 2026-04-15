@@ -41,6 +41,10 @@
       "name" : "Watanabe Ayumu",
       "type" : "DIRECTOR"
     } ],
+    "9388" : [ {
+      "name" : "Karasu Hiroaki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "32996" : [ {
       "name" : "Nakano Satoshi",
       "type" : "CHIEF_ANIMATION_DIRECTION"
@@ -70,10 +74,110 @@
     } ]
   },
   "description" : "* Based on a fantasy manga by http://anidb.net/cr51819 [Shirahama Kamome].\nIn a world where everyone takes wonders like magic spells and dragons for granted, http://anidb.net/ch152279 [Coco] is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch ... until the day she meets http://anidb.net/ch152278 [Qifrey], a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she`s never seen before, Coco soon learns what everybody \"knows\" might not be the truth, and discovers that her magical dream may not be as far away as it may seem...\nSource: Kodansha",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-06",
+      "episode_id" : 309465,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 8.75,
+        "total" : 8
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00258180JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Die erste Magie"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hajimari no Mahou"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Magic That Started Everything"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "はじまりの魔法"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-06",
+      "episode_id" : 309466,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 7.92,
+        "total" : 7
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00258181JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Die Lehrstätte im Grasland"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sougen no Manabiya"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The School of the Grassland"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "草原の学び舎"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-13",
+      "episode_id" : 309467,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dada Sanmyaku no Shiken"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Die Prüfung im Dada-Gebirge"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ダダ山脈の試験"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-20",
+      "episode_id" : 309468,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 8.55,
+      "total" : 31
+    },
+    "TEMPORARY" : {
+      "rating" : 7.73,
+      "total" : 32
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "395944" ],
     "ANN" : [ "25496" ],
+    "CRUNCHY_ROLL" : [ "GT00258001" ],
     "MAL" : [ "51553" ],
+    "SYOBOI" : [ "7741" ],
     "TWITTER" : [ "tongari_anime" ],
     "WEBSITE" : [ "https://tongari-anime.com/" ],
     "WEBSITE_EN" : [ "https://tongari-anime.com/en/" ],
@@ -82,6 +186,14 @@
   },
   "start_date" : "2026-04-06",
   "tags" : {
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2094" : {
       "info_box" : true,
       "name" : "magic",
@@ -90,6 +202,27 @@
       "verified" : false,
       "weight" : 600
     },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
@@ -97,10 +230,74 @@
       "verified" : false,
       "weight" : 0
     },
-    "2849" : {
+    "2613" : {
       "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2634" : {
+      "info_box" : false,
+      "name" : "countryside",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2647" : {
+      "info_box" : true,
+      "name" : "high fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
       "name" : "fantasy",
       "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2888" : {
+      "info_box" : true,
+      "name" : "coming of age",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "5384" : {
+      "info_box" : false,
+      "name" : "put right what once went wrong",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5543" : {
+      "info_box" : false,
+      "name" : "magic school",
+      "parent_tag_id" : 2094,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -133,6 +330,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Tongari Boushi no Atelier",
     "type" : "MAIN"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Atelier of Witch Hat",
+    "type" : "OFFICIAL"
   }, {
     "language" : "POLISH",
     "title" : "Atelier spiczastych kapeluszy",

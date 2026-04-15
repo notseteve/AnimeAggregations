@@ -1,6 +1,35 @@
 {
   "anime_id" : 19587,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 154368,
+      "name" : "Hakuba Touryuu (Shounen)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111748,
+      "name" : "Imai Miharu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154371,
+      "name" : "Mami no Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154370,
+      "name" : "Mami no Haha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 113234,
+      "name" : "Mami no Otouto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111749,
+      "name" : "Shimae Sonoko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154369,
+      "name" : "Urashima Tarou",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 107489,
       "name" : "Kinoshita Kazuya",
@@ -8,6 +37,19 @@
     }, {
       "character_id" : 107491,
       "name" : "Mizuhara Chizuru",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 110294,
+      "name" : "Kibe Yoshiaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 110293,
+      "name" : "Kinoshita Nagomi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 110295,
+      "name" : "Kuribayashi Shun",
       "type" : "CHARACTER"
     }, {
       "character_id" : 107487,
@@ -36,6 +78,10 @@
       "name" : "Hirota Mitsutaka",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "11483" : [ {
+      "name" : "Ono Hiromi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "15951" : [ {
       "name" : "Koga Kazuomi",
       "type" : "DIRECTOR"
@@ -54,13 +100,75 @@
     } ]
   },
   "description" : "* Based on a love comedy shounen manga by http://anidb.net/cr59435 [Miyajima Reiji].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-11",
+      "episode_id" : 309968,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375117JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-18",
+      "episode_id" : 309969,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-25",
+      "episode_id" : 309970,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-02",
+      "episode_id" : 309971,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.44,
+      "total" : 2
+    },
+    "TEMPORARY" : {
+      "rating" : 4.5,
+      "total" : 2
+    }
+  },
   "related" : {
     "PREQUEL" : [ 18753 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "402411" ],
     "ANN" : [ "37856" ],
+    "CRUNCHY_ROLL" : [ "G6QWV3976" ],
     "MAL" : [ "62485" ],
+    "SYOBOI" : [ "7799" ],
     "TWITTER" : [ "kanokari_anime" ],
     "WEBSITE" : [ "https://kanokari-official.com/" ],
     "WIKIPEDIA_EN" : [ "Rent-A-Girlfriend" ],
@@ -93,12 +201,16 @@
     "title" : "Dziewczyna do wynajęcia Sezon 5",
     "type" : "OFFICIAL"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Rent-a-Girlfriend (2026)",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "彼女, お借りします (2026)",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Rent-a-Girlfriend (2026)",
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Kanojo, Okarishimasu S5",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

@@ -285,8 +285,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.54,
-        "total" : 2
+        "rating" : 6.2,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -405,7 +405,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.11,
-      "total" : 1550
+      "total" : 1554
     },
     "REVIEW" : {
       "rating" : 7.16,
@@ -413,7 +413,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.48,
-      "total" : 1563
+      "total" : 1567
     }
   },
   "resources" : {
@@ -484,6 +484,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1835" : {
       "info_box" : false,
       "name" : "animal sidekick",
@@ -516,6 +524,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2072" : {
+      "info_box" : false,
+      "name" : "maid",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2274" : {
       "info_box" : false,
       "name" : "robot",
@@ -532,6 +548,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "2391" : {
+      "info_box" : false,
+      "name" : "bishoujo",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2396" : {
       "info_box" : false,
       "name" : "swimsuit",
@@ -539,6 +563,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2503" : {
+      "info_box" : false,
+      "name" : "magical girl",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2520" : {
       "info_box" : false,
@@ -566,6 +598,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -605,6 +644,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
@@ -612,6 +659,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2628" : {
       "info_box" : false,
@@ -651,7 +714,7 @@
       "parent_tag_id" : 2853,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 200
     },
     "2654" : {
       "info_box" : false,
@@ -684,6 +747,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2791" : {
+      "info_box" : false,
+      "name" : "stereotypes",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2800" : {
       "info_box" : true,
@@ -731,7 +810,15 @@
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 100
+    },
+    "2844" : {
+      "info_box" : false,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2846" : {
       "info_box" : false,
@@ -745,6 +832,14 @@
       "info_box" : false,
       "name" : "fantasy",
       "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2850" : {
+      "info_box" : false,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
@@ -820,6 +915,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3209" : {
       "info_box" : false,
       "name" : "table tennis",
@@ -827,6 +930,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "3285" : {
+      "info_box" : false,
+      "name" : "journey",
+      "parent_tag_id" : 2850,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4251" : {
+      "info_box" : false,
+      "name" : "ensemble cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "4479" : {
       "info_box" : false,
@@ -844,6 +971,38 @@
       "verified" : false,
       "weight" : 0
     },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4558" : {
+      "info_box" : false,
+      "name" : "long time span",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4582" : {
+      "info_box" : false,
+      "name" : "only the beginning",
+      "parent_tag_id" : 6247,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4606" : {
+      "info_box" : false,
+      "name" : "slide show animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5213" : {
       "info_box" : false,
       "name" : "the effects of time and distance on human relationships",
@@ -852,10 +1011,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "5518" : {
+      "info_box" : false,
+      "name" : "flat chest jokes",
+      "parent_tag_id" : 7199,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5835" : {
       "info_box" : false,
       "name" : "Gainax bounce",
       "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -884,6 +1059,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -899,10 +1081,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6247" : {
+      "info_box" : false,
+      "name" : "ending tags that need merging",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6249" : {
       "info_box" : false,
       "name" : "family life",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6399" : {
+      "info_box" : false,
+      "name" : "episodic",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -914,6 +1120,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7199" : {
+      "info_box" : false,
+      "name" : "sexual humour",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "7885" : {
       "info_box" : false,

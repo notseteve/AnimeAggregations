@@ -1,6 +1,19 @@
 {
   "anime_id" : 19293,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 154393,
+      "name" : "Takakiyo Mama",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154394,
+      "name" : "Takakiyo Papa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154395,
+      "name" : "Takakiyo Shoutarou",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 149586,
       "name" : "Kyougi Youji",
@@ -13,6 +26,10 @@
     "SECONDARY" : [ {
       "character_id" : 153122,
       "name" : "Ami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154234,
+      "name" : "Beelzebub",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153123,
@@ -33,6 +50,18 @@
     }, {
       "character_id" : 153125,
       "name" : "Milch Zebul",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154237,
+      "name" : "Reizen Ryouko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154236,
+      "name" : "Rorikawa Yui",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154235,
+      "name" : "Yurino Yuriko",
       "type" : "CHARACTER"
     } ]
   },
@@ -64,6 +93,67 @@
   },
   "description" : "Kanan is a demon hiding in a high school in the human world to feed on the souls of humans. She sets her sights on a single high school boy but somehow ends up in a lover`s contract with him. Kanan, who has never been in love, is now filled with new feelings. The romantic comedy of a pure-hearted demon`s first love begins.\nSource: M-U",
   "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-05",
+      "description" : "The devil Kanan has been cultivating humans to eat their souls... until one of them ends up as her boyfriend.\nSource: Crunchyroll",
+      "episode_id" : 309457,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 4.7,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375007JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Kanan`s Easy"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-12",
+      "description" : "Kanan`s maid, Ami, has come to check on her and snack on all the cute humans.\nSource: Crunchyroll",
+      "episode_id" : 309458,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 7.06,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375008JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ami Has Arrived"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-19",
+      "episode_id" : 309459,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-26",
+      "episode_id" : 309460,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
     "PROMOTION" : [ {
       "air_date" : "2025-10-15",
       "episode_id" : 303571,
@@ -71,20 +161,45 @@
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 1 Dan PV"
+      }, {
         "language" : "ENGLISH",
         "title" : "PV 1 (1:33)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第1弾PV"
       } ],
       "type" : "PROMOTION"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.19,
+      "total" : 19
+    },
+    "TEMPORARY" : {
+      "rating" : 5.21,
+      "total" : 19
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "400147" ],
     "ANN" : [ "35674" ],
+    "CRUNCHY_ROLL" : [ "GT00371860" ],
     "MAL" : [ "61501" ],
+    "SYOBOI" : [ "7742" ],
     "TWITTER" : [ "Kanan_Choroi" ],
     "WEBSITE" : [ "https://kanachoro-anime.com/" ],
-    "WIKIPEDIA_EN" : [ "Kanan-sama_wa_Akumade_Choroi" ],
-    "WIKIPEDIA_JP" : [ "カナン様はあくまでチョロい" ]
+    "WIKIPEDIA_EN" : [ "Mistress_Kanan_Is_Devilishly_Easy" ],
+    "WIKIPEDIA_JP" : [ "カナン様はあくまでチョロい" ],
+    "YOUTUBE" : [ "watch?v=Hb8SCy89G98" ]
+  },
+  "similar" : {
+    "7286" : {
+      "rating" : 10.0,
+      "total" : 2
+    }
   },
   "start_date" : "2026-04-05",
   "tags" : {
@@ -96,9 +211,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -110,6 +240,100 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2646" : {
+      "info_box" : false,
+      "name" : "demon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2770" : {
+      "info_box" : false,
+      "name" : "violent retribution for accidental infringement",
+      "parent_tag_id" : 2653,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2778" : {
+      "info_box" : false,
+      "name" : "slow when it comes to love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -118,9 +342,57 @@
       "verified" : false,
       "weight" : 0
     },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -139,6 +411,10 @@
     "title" : "Kanan-sama wa Akumade Choroi",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Mistress Kanan Is Devilishly Easy",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "カナン様はあくまでチョロい",
     "type" : "OFFICIAL"
@@ -146,10 +422,6 @@
     "language" : "KOREAN",
     "title" : "카난 님은 초보 악마",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Mistress Kanan Is Devilishly Easy",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://kanachoro-anime.com/"

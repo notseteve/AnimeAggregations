@@ -1,17 +1,75 @@
 {
   "anime_id" : 18241,
   "characters" : {
-    "MAIN" : [ {
-      "character_id" : 127591,
-      "name" : "Houjou Kaori",
+    "APPEARANCE" : [ {
+      "character_id" : 133092,
+      "name" : "Arnold von Arcelia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133093,
+      "name" : "Emilia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133094,
+      "name" : "Glena",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128746,
+      "name" : "Igarashi Ryou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128750,
+      "name" : "Kanzaki Rin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128751,
+      "name" : "Kazama Kaede",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128747,
+      "name" : "Kurata Shingo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 127589,
       "name" : "Lexia von Arcelia",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 131895,
+      "name" : "Owen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132105,
+      "name" : "Reigar",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 130522,
+      "name" : "Runa",
+      "type" : "CHARACTER"
+    } ],
+    "CAMEO" : [ {
+      "character_id" : 131692,
+      "name" : "Ichinose Akira",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133085,
+      "name" : "Ooiwa-sensei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 131689,
+      "name" : "Sawada-sensei",
+      "type" : "CHARACTER"
+    } ],
+    "MAIN" : [ {
+      "character_id" : 127591,
+      "name" : "Houjou Kaori",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 127590,
       "name" : "Tenjou Yuuya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 130521,
+      "name" : "Yuthi",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
@@ -23,16 +81,8 @@
       "name" : "Night",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 130522,
-      "name" : "Runa",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 130519,
       "name" : "Usagi",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 130521,
-      "name" : "Yuthi",
       "type" : "CHARACTER"
     } ]
   },
@@ -64,9 +114,16 @@
     "REGULAR" : [ {
       "air_date" : "2026-03-30",
       "episode_id" : 309245,
-      "length" : 0,
+      "length" : 50,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.08,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "G14UV4GZQ" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "TV Special"
@@ -74,13 +131,25 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.85,
+      "total" : 96
+    },
+    "TEMPORARY" : {
+      "rating" : 5.95,
+      "total" : 97
+    }
+  },
   "related" : {
     "OTHER" : [ 17580 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "403069" ],
     "ANN" : [ "35290" ],
+    "CRUNCHY_ROLL" : [ "GEXH3W49E" ],
     "MAL" : [ "56906" ],
+    "SYOBOI" : [ "7804" ],
     "TWITTER" : [ "iseleve_anime" ],
     "WEBSITE" : [ "https://www.iseleve.com/" ],
     "WIKIPEDIA_EN" : [ "I_Got_a_Cheat_Skill_in_Another_World_and_Became_Unrivaled_in_the_Real_World,_Too" ],
@@ -112,6 +181,10 @@
     "language" : "JAPANESE",
     "title" : "異世界でチート能力を手にした俺は, 現実世界をも無双する~レベルアップは人生を変えた~ (2026)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Iseleve - OVA",
+    "type" : "SHORT"
   }, {
     "language" : "ENGLISH",
     "title" : "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too (2026)",

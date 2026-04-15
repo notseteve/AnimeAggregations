@@ -457,15 +457,15 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.4,
-      "total" : 3345
+      "total" : 3355
     },
     "REVIEW" : {
       "rating" : 6.16,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.88,
-      "total" : 3360
+      "rating" : 6.87,
+      "total" : 3370
     }
   },
   "resources" : {
@@ -912,6 +912,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3138" : {
       "info_box" : false,
       "name" : "fictional language",
@@ -1026,6 +1034,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

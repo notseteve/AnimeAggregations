@@ -58,14 +58,82 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-03",
+      "episode_id" : 310076,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 7.33,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Dear Kirio-kun"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "拝啓、霧尾くん"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-10",
+      "episode_id" : 310077,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "When I Saw Your Tears That Day"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "あの日見た君の涙"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-17",
+      "episode_id" : 310078,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-24",
+      "episode_id" : 310364,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.56,
+      "total" : 10
+    },
+    "TEMPORARY" : {
+      "rating" : 4.2,
+      "total" : 10
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "403883" ],
+    "ANISON" : [ "26375" ],
     "ANN" : [ "33542" ],
     "MAL" : [ "59835" ],
     "SYOBOI" : [ "7751" ],
     "TWITTER" : [ "kirio_fc" ],
     "WEBSITE" : [ "https://kirio-fc.com/" ],
-    "WIKIPEDIA_EN" : [ "Kirio_Fanclub" ],
+    "WIKIPEDIA_EN" : [ "Kirio_Fan_Club" ],
     "WIKIPEDIA_JP" : [ "霧尾ファンクラブ" ]
   },
   "start_date" : "2026-04-03",
@@ -94,6 +162,10 @@
     "language" : "JAPANESE",
     "title" : "霧尾ファンクラブ",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Kirio Fanclub",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://kirio-fc.com/"

@@ -129,8 +129,8 @@
       "length" : 60,
       "number" : 1,
       "rating" : {
-        "rating" : 8.48,
-        "total" : 16
+        "rating" : 8.05,
+        "total" : 17
       },
       "recap" : false,
       "resources" : {
@@ -157,7 +157,7 @@
       "length" : 30,
       "number" : 2,
       "rating" : {
-        "rating" : 7.64,
+        "rating" : 7.63,
         "total" : 12
       },
       "recap" : false,
@@ -207,7 +207,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.81,
+        "rating" : 6.8,
         "total" : 9
       },
       "recap" : false,
@@ -307,8 +307,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.44,
-        "total" : 7
+        "rating" : 8.69,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -332,8 +332,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.88,
-        "total" : 7
+        "rating" : 8.8,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -357,8 +357,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 8.25,
-        "total" : 6
+        "rating" : 8.07,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -381,8 +381,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 8.82,
-        "total" : 5
+        "rating" : 8.59,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -401,9 +401,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-03-26",
+      "description" : "In the aftermath of the battle, revelations are made, and Kivia faces a haunting decision.\nSource: Crunchyroll",
       "episode_id" : 308478,
       "length" : 30,
       "number" : 12,
+      "rating" : {
+        "rating" : 9.35,
+        "total" : 7
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00356833JAJP" ]
@@ -423,17 +428,20 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.16,
-      "total" : 140
+      "rating" : 6.65,
+      "total" : 358
     },
     "REVIEW" : {
-      "rating" : 4.83,
-      "total" : 1
+      "rating" : 5.83,
+      "total" : 2
     },
     "TEMPORARY" : {
-      "rating" : 7.08,
-      "total" : 143
+      "rating" : 7.23,
+      "total" : 361
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 19979 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "398959" ],
@@ -450,6 +458,21 @@
   },
   "start_date" : "2026-01-03",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2467" : {
+      "info_box" : false,
+      "name" : "sword",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2568" : {
       "info_box" : true,
       "name" : "deity",
@@ -519,6 +542,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -556,6 +587,10 @@
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
+    "title" : "Sentenced to Be a Hero",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
     "title" : "Sentenced to Be a Hero",
     "type" : "OFFICIAL"
   }, {

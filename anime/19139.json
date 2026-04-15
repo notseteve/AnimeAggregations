@@ -17,6 +17,27 @@
       "character_id" : 151364,
       "name" : "Hino Youta",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 154198,
+      "name" : "Atagawa Akine",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154196,
+      "name" : "Azumi Yuuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154195,
+      "name" : "Igarashi Tsubasa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154197,
+      "name" : "Kuriki Momoka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154199,
+      "name" : "Shimojima Tsukiko",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -49,8 +70,70 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-02",
+      "episode_id" : 310075,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 5.55,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Lines and Walls"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-09",
+      "episode_id" : 310089,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-16",
+      "episode_id" : 310090,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-23",
+      "episode_id" : 310312,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.75,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 5.33,
+      "total" : 9
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "402529" ],
+    "ANISON" : [ "26405" ],
     "ANN" : [ "34506" ],
     "MAL" : [ "60852" ],
     "NETFLIX" : [ "82031882" ],
@@ -62,12 +145,65 @@
   },
   "start_date" : "2026-04-02",
   "tags" : {
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2798" : {
       "info_box" : true,
@@ -76,6 +212,46 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "6173" : {
       "info_box" : false,
@@ -98,13 +274,13 @@
     "title" : "Koori no Jouheki",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "The Ramparts of Ice",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "氷の城壁",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "The Ramparts of Ice",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://korinojoheki-pr.com/"

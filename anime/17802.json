@@ -201,7 +201,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.06,
+        "rating" : 5.07,
         "total" : 7
       },
       "recap" : false,
@@ -450,7 +450,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 3.96,
+        "rating" : 3.97,
         "total" : 7
       },
       "recap" : false,
@@ -757,11 +757,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 5.17,
-      "total" : 547
+      "total" : 552
     },
     "TEMPORARY" : {
-      "rating" : 6.49,
-      "total" : 553
+      "rating" : 6.5,
+      "total" : 558
     }
   },
   "resources" : {
@@ -1063,6 +1063,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "3931" : {
       "info_box" : false,
       "name" : "magical realism",
@@ -1193,6 +1201,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
