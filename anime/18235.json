@@ -1,6 +1,27 @@
 {
   "anime_id" : 18235,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 129863,
+      "name" : "Fujimiya Shihoko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154232,
+      "name" : "Hiiragi Kazuya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 130358,
+      "name" : "Kadowaki Yuuta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154230,
+      "name" : "Kido Ayaka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154231,
+      "name" : "Kokonoe Makoto",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 121479,
       "name" : "Fujimiya Amane",
@@ -47,13 +68,101 @@
     } ]
   },
   "description" : "* Based on a romantic comedy light novel series written by http://anidb.net/cr65928 [Saeki-san] and illustrated by http://anidb.net/cr65929 [Hanekoto].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-03",
+      "description" : "Now officially dating, Amane and Mahiru surprise their classmates when they go public with their relationship.\nSource: Crunchyroll",
+      "episode_id" : 309509,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 5.37,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375415JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Futari de no Toukou to Ohirome"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Going to School Together and Making a Debut"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "二人での登校とお披露目"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-10",
+      "description" : "Amane and Mahiru discuss their feelings and then spend a day at the pool, where Mahiru debuts a new swimsuit.\nSource: Crunchyroll",
+      "episode_id" : 309510,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 4.21,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375416JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Natsuyasumi no Hajimari"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Start of Summer Vacation"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "夏休みの始まり"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-17",
+      "episode_id" : 309511,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-24",
+      "episode_id" : 309512,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.68,
+      "total" : 17
+    },
+    "TEMPORARY" : {
+      "rating" : 6.05,
+      "total" : 17
+    }
+  },
   "related" : {
     "PREQUEL" : [ 17108 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "401243" ],
+    "ANISON" : [ "24684" ],
     "ANN" : [ "30219" ],
+    "CRUNCHY_ROLL" : [ "G9VHN91DJ" ],
     "MAL" : [ "56876" ],
+    "SYOBOI" : [ "7745" ],
     "TWITTER" : [ "tenshisama_PR" ],
     "WEBSITE" : [ "https://otonarino-tenshisama.jp/" ],
     "WIKIPEDIA_EN" : [ "The_Angel_Next_Door_Spoils_Me_Rotten" ],
@@ -82,12 +191,16 @@
     "title" : "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "The Angel Next Door Spoils Me Rotten 2",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "お隣の天使様にいつの間にか駄目人間にされていた件2",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "The Angel Next Door Spoils Me Rotten 2",
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken S2",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

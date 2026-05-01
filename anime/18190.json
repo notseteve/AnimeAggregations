@@ -45,22 +45,81 @@
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-11",
+      "episode_id" : 310399,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.06,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Der Schrei ihres Herzens"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Un cri du cœur"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-11",
+      "episode_id" : 310400,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Un lendemain meilleur"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Unsere Zukunft"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.5,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 4.5,
+      "total" : 8
+    }
+  },
   "related" : {
+    "ALTERNATIVE_SETTING" : [ 3038 ],
     "OTHER" : [ 386 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "401193" ],
+    "AMAZON" : [ "B0GPKRW9T5" ],
+    "ANISON" : [ "26435" ],
     "ANN" : [ "36755" ],
     "MAL" : [ "56646" ],
+    "SYOBOI" : [ "7841" ],
     "TWITTER" : [ "hokutonokeninfo" ],
     "WEBSITE" : [ "https://hokuto-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Fist_of_the_North_Star" ],
     "WIKIPEDIA_JP" : [ "北斗の拳_(テレビアニメ)" ]
   },
   "similar" : {
+    "7991" : {
+      "rating" : 5.0,
+      "total" : 2
+    },
     "9304" : {
       "rating" : 10.0,
-      "total" : 2
+      "total" : 4
     }
   },
   "start_date" : "2026-04-11",
@@ -85,6 +144,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Hokuto no Ken (2026)",
     "type" : "MAIN"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Fist of the North Star: HOKUTO NO KEN",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "北斗の拳  (2026)",

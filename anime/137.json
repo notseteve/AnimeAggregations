@@ -65,7 +65,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.17,
+        "rating" : 5.16,
         "total" : 4
       },
       "recap" : false,
@@ -292,7 +292,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 4.05,
+        "rating" : 4.06,
         "total" : 2
       },
       "recap" : false,
@@ -320,7 +320,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 4.05,
+        "rating" : 4.06,
         "total" : 2
       },
       "recap" : false,
@@ -432,7 +432,7 @@
       "length" : 25,
       "number" : 14,
       "rating" : {
-        "rating" : 4.05,
+        "rating" : 4.06,
         "total" : 2
       },
       "recap" : false,
@@ -488,7 +488,7 @@
       "length" : 25,
       "number" : 16,
       "rating" : {
-        "rating" : 4.05,
+        "rating" : 4.06,
         "total" : 2
       },
       "recap" : false,
@@ -1229,8 +1229,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.38,
-      "total" : 1527
+      "rating" : 5.37,
+      "total" : 1528
     },
     "REVIEW" : {
       "rating" : 5.55,
@@ -1238,7 +1238,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.99,
-      "total" : 1543
+      "total" : 1544
     }
   },
   "related" : {
@@ -1303,6 +1303,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2607" : {
       "info_box" : false,
@@ -1452,6 +1459,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3896" : {
       "info_box" : false,
       "name" : "bloodless wounds",
@@ -1463,6 +1478,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

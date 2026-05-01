@@ -15,6 +15,10 @@
       "name" : "Belka",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154301,
+      "name" : "Fido",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153405,
       "name" : "Haigamine Yuriu",
       "type" : "CHARACTER"
@@ -58,13 +62,27 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-03",
+      "description" : "A boy with a famous detective father goes on an adultery investigation on a cruise.\nSource: Crunchyroll",
       "episode_id" : 310082,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.23,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375367JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Queen Irie Gou Satsujin Jiken Zenpen"
+      }, {
         "language" : "ENGLISH",
         "title" : "The Queen Irie Murder Case, Part 1"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "クイーン・アイリィ号殺人事件・前編"
       } ],
       "type" : "REGULAR"
     }, {
@@ -72,10 +90,20 @@
       "episode_id" : 310083,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.23,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Queen Irie Gou Satsujin Jiken Kouhen"
+      }, {
         "language" : "ENGLISH",
         "title" : "The Queen Irie Murder Case, Part 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "クイーン・アイリィ号殺人事件・後編"
       } ],
       "type" : "REGULAR"
     }, {
@@ -83,22 +111,93 @@
       "episode_id" : 310084,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 2.74,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Crimson Theater no Satsujin"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Murder at the Crimson Theater"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "クリムゾン・シアターの殺人"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-24",
+      "episode_id" : 310367,
+      "length" : 25,
+      "number" : 4,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Episode 4"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kowloon Hotel no Satsujinki Zenpen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "クーロンズ・ホテルの殺人鬼・前編"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-01",
+      "episode_id" : 310638,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-08",
+      "episode_id" : 310639,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-15",
+      "episode_id" : 310640,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-22",
+      "episode_id" : 310641,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 1.85,
-      "total" : 3
+      "rating" : 2.17,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 1.66,
-      "total" : 3
+      "rating" : 4.02,
+      "total" : 21
     }
   },
   "resources" : {
@@ -114,9 +213,148 @@
   },
   "start_date" : "2026-04-03",
   "tags" : {
+    "308" : {
+      "info_box" : true,
+      "name" : "detective",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2642" : {
+      "info_box" : false,
+      "name" : "alternative present",
+      "parent_tag_id" : 2624,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3265" : {
+      "info_box" : false,
+      "name" : "death is cheap",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3755" : {
+      "info_box" : false,
+      "name" : "unintentional comedy",
+      "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4096" : {
+      "info_box" : false,
+      "name" : "gore",
+      "parent_tag_id" : 2750,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4308" : {
+      "info_box" : false,
+      "name" : "delayed death",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -141,6 +379,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "また殺されてしまったのですね, 探偵様",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "你又被殺了呢，偵探大人",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "又被杀掉了呢，侦探大人",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

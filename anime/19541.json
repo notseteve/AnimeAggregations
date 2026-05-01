@@ -65,13 +65,14 @@
   "description" : "What`s a maid to do when she finds herself suddenly stuck in Japan for a year? Eat, of course! Follow maid-in-training Tachibana Suzume as she tries all sorts of Japanese food, from sweets like taiyaki and melon bread to savory snacks like takoyaki and onigiri! Be warned, though-while Suzume sates her appetite through delicious treat after delicious treat, she might just end up whetting yours!\nSource: Kodansha",
   "episodes" : {
     "REGULAR" : [ {
-      "air_date" : "2026-04-05",
+      "air_date" : "2026-04-01",
+      "description" : "Suzume, a working maid from the UK, is told to stay in Japan for a year since Master`s mansion collapsed.\nSource: Crunchyroll",
       "episode_id" : 309525,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 1.66,
-        "total" : 1
+        "rating" : 4.21,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -89,29 +90,47 @@
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-04-12",
+      "air_date" : "2026-04-05",
+      "description" : "Sora is curious why Suzume stares at him. It turns out, she was eyeing the ice cream he was eating.\nSource: Crunchyroll",
       "episode_id" : 309526,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.79,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375440JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アイスクリーム / 甜茶 / ボーロ / 桔梗信玄餅 / メロンパン"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-04-19",
+      "air_date" : "2026-04-12",
       "episode_id" : 309527,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.59,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375441JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
       } ],
       "type" : "REGULAR"
     }, {
-      "air_date" : "2026-04-26",
+      "air_date" : "2026-04-19",
       "episode_id" : 309528,
       "length" : 25,
       "number" : 4,
@@ -125,12 +144,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.02,
-      "total" : 7
+      "rating" : 3.35,
+      "total" : 15
     },
     "TEMPORARY" : {
-      "rating" : 4.42,
-      "total" : 7
+      "rating" : 4.46,
+      "total" : 15
     }
   },
   "resources" : {
@@ -147,9 +166,163 @@
   },
   "start_date" : "2026-04-01",
   "tags" : {
+    "1973" : {
+      "info_box" : true,
+      "name" : "cooking",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2072" : {
+      "info_box" : true,
+      "name" : "maid",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "6349" : {
+      "info_box" : false,
+      "name" : "multi-segment episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

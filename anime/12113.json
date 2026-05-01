@@ -78,7 +78,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.4,
+        "rating" : 5.41,
         "total" : 4
       },
       "recap" : false,
@@ -125,11 +125,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.9,
-      "total" : 306
+      "total" : 313
     },
     "TEMPORARY" : {
       "rating" : 6.28,
-      "total" : 306
+      "total" : 313
     }
   },
   "related" : {
@@ -153,6 +153,13 @@
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -241,6 +248,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3955" : {
       "info_box" : false,
       "name" : "DESCRIPTION MISSING",
@@ -252,6 +267,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -6,6 +6,10 @@
       "name" : "Claude Sirius",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154391,
+      "name" : "Claude Sirius",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 150196,
       "name" : "Spica Virgo",
       "type" : "CHARACTER"
@@ -36,7 +40,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 152461,
-      "name" : "Hana Sasorijo",
+      "name" : "Hana Sasorijou",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152456,
@@ -73,9 +77,16 @@
       "name" : "Gotou Midori",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "21876" : [ {
+      "name" : "Oohara Hiroshi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "23800" : [ {
       "name" : "Onoda Takayuki",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Onoda Takayuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "35233" : [ {
       "name" : "Liden Films",
@@ -87,10 +98,92 @@
     } ]
   },
   "description" : "* Based on a magical academy fantasy manga by http://anidb.net/cr54172 [Kaneda Yousuke].\nWitch apprentice http://anidb.net/ch150196 [Spica Virgo] can`t use magic at all. To earn a place in the magic school she dreams of entering, she needs a mentor-but she has neither money nor connections. One day, a mysterious http://anidb.net/ch150195 [black cat] who speaks and wields magic appears before her! Spica wants to master sorcery, and the black cat longs to break a curse. The pair`s goals align. Thus begins their secret master-apprentice pact! And the key to breaking the curse is a kiss on the...?!\nSource: Official Website",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-12",
+      "episode_id" : 310513,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 4.41,
+        "total" : 7
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-19",
+      "episode_id" : 310514,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 6.16,
+        "total" : 4
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-26",
+      "episode_id" : 310515,
+      "length" : 25,
+      "number" : 3,
+      "rating" : {
+        "rating" : 7.33,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-03",
+      "episode_id" : 310516,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-10",
+      "episode_id" : 310517,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.63,
+      "total" : 24
+    },
+    "TEMPORARY" : {
+      "rating" : 5.02,
+      "total" : 26
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "401809" ],
     "ANN" : [ "37311" ],
+    "CRUNCHY_ROLL" : [ "GT00374357" ],
     "MAL" : [ "62171" ],
+    "SYOBOI" : [ "7785" ],
     "TWITTER" : [ "witch_classroom" ],
     "WEBSITE" : [ "https://witch-classroom.com/" ],
     "WIKIPEDIA_EN" : [ "The_Classroom_of_a_Black_Cat_and_a_Witch" ],
@@ -105,10 +198,33 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2826" : {
+      "info_box" : false,
+      "name" : "pantsu",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -134,6 +250,18 @@
     "title" : "Kuro Neko to Majo no Kyoushitsu",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "The Classroom of a Black Cat and a Witch",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "黑猫与魔女的教室",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "黑貓與魔女的教室",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "黒猫と魔女の教室",
     "type" : "OFFICIAL"
@@ -142,8 +270,8 @@
     "title" : "검은 고양이와 마녀의 교실",
     "type" : "OFFICIAL"
   }, {
-    "language" : "ENGLISH",
-    "title" : "The Classroom of a Black Cat and a Witch",
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Kuroneko to Majo no Kyoushitsu",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

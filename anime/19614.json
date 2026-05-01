@@ -1,6 +1,123 @@
 {
   "anime_id" : 19614,
+  "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 146518,
+      "name" : "Carlos Barrios",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 147433,
+      "name" : "Charlotte Bony",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149850,
+      "name" : "Leonard Maxwell",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135846,
+      "name" : "Matsukaze",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146517,
+      "name" : "Max Adams",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146400,
+      "name" : "Maya Biggs",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154464,
+      "name" : "Nanami Sai (Youshouki)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 132242,
+      "name" : "Ryuusui Youshouki",
+      "type" : "CHARACTER"
+    } ],
+    "MAIN" : [ {
+      "character_id" : 103217,
+      "name" : "Asagiri Gen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103219,
+      "name" : "Chrome",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 99322,
+      "name" : "Ishigami Senkuu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103220,
+      "name" : "Kohaku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 121249,
+      "name" : "Nanami Ryuusui",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 99858,
+      "name" : "Ooki Taiju",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 151052,
+      "name" : "Suika",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 106834,
+      "name" : "Akatsuki Hyouga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149849,
+      "name" : "Chelsea Childe",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144609,
+      "name" : "Dr. Xeno",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128773,
+      "name" : "Francois",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103224,
+      "name" : "Ginrou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 103218,
+      "name" : "Kaseki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146516,
+      "name" : "Luna Wright",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154212,
+      "name" : "Nanami Sai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 99859,
+      "name" : "Ogawa Yuzuriha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111112,
+      "name" : "Saionji Ukyou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 99860,
+      "name" : "Shishiou Tsukasa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 144610,
+      "name" : "Stanley Snyder",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
+    "917" : [ {
+      "name" : "TMS Entertainment",
+      "type" : "ANIMATION_WORK"
+    } ],
     "5893" : [ {
       "name" : "Inagaki Riichirou",
       "type" : "ORIGINAL_WORK"
@@ -13,10 +130,19 @@
   "description" : "* Based on an adventure sci-fi shounen manga series written by http://anidb.net/cr5893 [Inagaki Riichirou] and illustrated by http://anidb.net/cr56664 [Boichi].",
   "episodes" : {
     "REGULAR" : [ {
+      "air_date" : "2026-04-02",
+      "description" : "Senku and Dr. Xeno team up to gather the materials needed to make a rocket engine.\nSource: Crunchyroll",
       "episode_id" : 301711,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.06,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00346941JAJP" ]
+      },
       "titles" : [ {
         "language" : "JAPANESE",
         "title" : "FUTURE ENGINE"
@@ -24,27 +150,168 @@
         "language" : "ENGLISH",
         "title" : "Future Engine"
       }, {
+        "language" : "GERMAN",
+        "title" : "Future Engine"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Future Engine"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-09",
+      "description" : "The crew arrives in Spain, where they collect fluorite, olive oil and some treats.\nSource: Crunchyroll",
+      "episode_id" : 310138,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 2.84,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00346944JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "FIRE"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Fire"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Fire"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fire"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-16",
+      "description" : "The New Perseus sets out to India to recruit mathematicians for the space program.\nSource: Crunchyroll",
+      "episode_id" : 310175,
+      "length" : 25,
+      "number" : 3,
+      "rating" : {
+        "rating" : 5.55,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00346947JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "The Universe Is Written in the Language of Mathematics"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "宇宙は数学という言語で書かれている"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-23",
+      "episode_id" : 310176,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-30",
+      "episode_id" : 310177,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-07",
+      "episode_id" : 310178,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-14",
+      "episode_id" : 310179,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-21",
+      "episode_id" : 310180,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-04-02",
+      "episode_id" : 310181,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.37,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-04-02",
+      "episode_id" : 310182,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 3.37,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.77,
-      "total" : 1
+      "rating" : 6.58,
+      "total" : 25
     },
     "TEMPORARY" : {
-      "rating" : 10.0,
-      "total" : 1
+      "rating" : 6.78,
+      "total" : 25
     }
   },
   "related" : {
     "PREQUEL" : [ 19248 ]
   },
   "resources" : {
+    "ANISON" : [ "22098" ],
     "ANN" : [ "37873" ],
+    "CRUNCHY_ROLL" : [ "GYEXQKJG6" ],
     "MAL" : [ "62568" ],
     "SYOBOI" : [ "7774" ],
     "TWITTER" : [ "STONE_anime_off" ],
@@ -82,6 +349,10 @@
     "language" : "JAPANESE",
     "title" : "Dr.STONE SCIENCE FUTURE (2026)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Dr. Stone S4",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://dr-stone.jp/"

@@ -58,10 +58,144 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-11",
+      "episode_id" : 310412,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 4.85,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Spooky Scary Sensei"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "こわこわ先生"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-18",
+      "episode_id" : 310569,
+      "length" : 30,
+      "number" : 2,
+      "rating" : {
+        "rating" : 9.91,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "ver.(2)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "よわよわ放課後"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-25",
+      "episode_id" : 310570,
+      "length" : 30,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "ver.(3)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "よわよわ先生　超よわよわver.(3)"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-02",
+      "episode_id" : 310571,
+      "length" : 30,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "ver.(4)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "よわよわ先生　超よわよわver.(4)"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-09",
+      "episode_id" : 310573,
+      "length" : 30,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "ver.(5)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "よわよわ先生　超よわよわver.(5)"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-16",
+      "episode_id" : 310574,
+      "length" : 30,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "ver.(6)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "よわよわ先生　超よわよわver.(6)"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-23",
+      "episode_id" : 310575,
+      "length" : 30,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "ver.(7)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "よわよわ先生　超よわよわver.(7)"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-30",
+      "episode_id" : 310576,
+      "length" : 30,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "ver.(8)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "よわよわ先生　超よわよわver.(8)"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.76,
+      "total" : 19
+    },
+    "TEMPORARY" : {
+      "rating" : 3.39,
+      "total" : 19
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "403142" ],
     "ANN" : [ "34122" ],
     "MAL" : [ "60444" ],
+    "SYOBOI" : [ "7771" ],
     "TWITTER" : [ "yowayowa_anime" ],
     "WEBSITE" : [ "https://www.yowayowasensei-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Yowayowa_Sensei" ],
@@ -69,6 +203,21 @@
   },
   "start_date" : "2026-04-11",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -96,6 +245,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "よわよわ先生",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "弱弱老师",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "弱弱老師",
     "type" : "OFFICIAL"
   }, {
     "language" : "KOREAN",

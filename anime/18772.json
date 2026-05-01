@@ -2,6 +2,10 @@
   "anime_id" : 18772,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 154623,
+      "name" : "Ann",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153983,
       "name" : "Chapatsu",
       "type" : "CHARACTER"
@@ -14,12 +18,36 @@
       "name" : "Hiroshi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154386,
+      "name" : "Ibokura",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153979,
       "name" : "Jiisan",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154625,
+      "name" : "Ken",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154624,
+      "name" : "Marin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154626,
+      "name" : "Masa",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153981,
       "name" : "Mendori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154388,
+      "name" : "Misuzu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154390,
+      "name" : "Morio",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153980,
@@ -30,12 +58,16 @@
       "name" : "Oda Yasuo",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 153984,
-      "name" : "Sara",
+      "character_id" : 154387,
+      "name" : "Ojii-chan",
       "type" : "CHARACTER"
     }, {
       "character_id" : 154240,
       "name" : "Sei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154622,
+      "name" : "Seiko",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153991,
@@ -51,17 +83,37 @@
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
-      "character_id" : 142393,
-      "name" : "Keiji",
-      "type" : "CHARACTER"
-    } ],
-    "SECONDARY" : [ {
       "character_id" : 153976,
       "name" : "Elizabeth",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 142393,
+      "name" : "Keiji",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 142394,
       "name" : "Piyoko",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 154628,
+      "name" : "Hikari",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154630,
+      "name" : "Kugone",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154389,
+      "name" : "Morio",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153984,
+      "name" : "Sara",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154627,
+      "name" : "Yuuji",
       "type" : "CHARACTER"
     } ]
   },
@@ -102,8 +154,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.54,
-        "total" : 1
+        "rating" : 6.75,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -123,8 +175,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.52,
-        "total" : 1
+        "rating" : 6.13,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -144,8 +196,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.52,
-        "total" : 1
+        "rating" : 3.71,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -165,11 +217,14 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.52,
-        "total" : 1
+        "rating" : 3.71,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Ein Anflug von Lust"
+      }, {
         "language" : "ENGLISH",
         "title" : "Homing in on Desire"
       }, {
@@ -177,26 +232,81 @@
         "title" : "禽息鳥視"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-12",
+      "episode_id" : 310463,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Der Schwarm Schwärmt Aus"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Motley Flock Scatters"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "獸聚鳥散"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-19",
+      "episode_id" : 310544,
+      "length" : 25,
+      "number" : 6,
+      "rating" : {
+        "rating" : 3.51,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Von Echtem Schrot und Kamm"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-26",
+      "episode_id" : 310545,
+      "length" : 25,
+      "number" : 7,
+      "rating" : {
+        "rating" : 7.33,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Viel Vogellärm um Nichts"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.02,
-      "total" : 15
+      "rating" : 4.32,
+      "total" : 24
     },
     "TEMPORARY" : {
-      "rating" : 5.9,
-      "total" : 16
+      "rating" : 5.5,
+      "total" : 25
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "404433" ],
+    "ANISON" : [ "26417" ],
     "ANN" : [ "32984" ],
     "MAL" : [ "59393" ],
     "SYOBOI" : [ "7762" ],
     "TWITTER" : [ "niwatorifighte1" ],
     "WEBSITE" : [ "https://www.niwatori-fighter.net/" ],
-    "WIKIPEDIA_EN" : [ "Rooster_Fighter" ]
+    "WIKIPEDIA_EN" : [ "Rooster_Fighter" ],
+    "WIKIPEDIA_JP" : [ "ニワトリ・ファイター" ]
   },
   "start_date" : "2026-03-15",
   "tags" : {

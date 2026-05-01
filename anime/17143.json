@@ -315,7 +315,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.03,
+        "rating" : 5.04,
         "total" : 4
       },
       "recap" : false,
@@ -419,15 +419,15 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.8,
-      "total" : 417
+      "total" : 418
     },
     "REVIEW" : {
       "rating" : 4.66,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.13,
-      "total" : 417
+      "rating" : 6.12,
+      "total" : 418
     }
   },
   "related" : {
@@ -456,6 +456,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -585,6 +592,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3394" : {
       "info_box" : false,
       "name" : "environmentalism",
@@ -635,6 +650,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

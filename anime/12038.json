@@ -149,11 +149,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.65,
-      "total" : 632
+      "total" : 633
     },
     "TEMPORARY" : {
       "rating" : 7.6,
-      "total" : 637
+      "total" : 638
     }
   },
   "related" : {
@@ -176,6 +176,13 @@
       "info_box" : true,
       "name" : "seinen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -271,6 +278,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5150" : {
       "info_box" : false,
       "name" : "asymmetric warfare",
@@ -282,6 +297,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

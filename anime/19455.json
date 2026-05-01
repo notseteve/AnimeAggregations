@@ -17,6 +17,27 @@
       "character_id" : 152574,
       "name" : "Suzuki Marika",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 154532,
+      "name" : "Berna",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154531,
+      "name" : "Gao",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154530,
+      "name" : "Gouda Magical Momorin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154533,
+      "name" : "Morita Miori",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154529,
+      "name" : "Narumi Michika",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -60,10 +81,76 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-12",
+      "episode_id" : 310431,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.51,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-19",
+      "episode_id" : 310589,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 3.51,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-26",
+      "episode_id" : 310590,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-03",
+      "episode_id" : 310591,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.88,
+      "total" : 12
+    },
+    "TEMPORARY" : {
+      "rating" : 4.37,
+      "total" : 12
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "403615" ],
     "ANN" : [ "36923" ],
     "MAL" : [ "62018" ],
+    "SYOBOI" : [ "7784" ],
     "TWITTER" : [ "ichijyoma_anime" ],
     "WEBSITE" : [ "https://ichijyoma-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Ichijōma_Mankitsu_Gurashi!" ],
@@ -71,12 +158,255 @@
   },
   "start_date" : "2026-04-12",
   "tags" : {
+    "1279" : {
+      "info_box" : false,
+      "name" : "all-girls school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2043" : {
+      "info_box" : true,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2652" : {
+      "info_box" : false,
+      "name" : "super deformed",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2671" : {
+      "info_box" : false,
+      "name" : "school dormitory",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2817" : {
+      "info_box" : false,
+      "name" : "skimpy clothing",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2821" : {
+      "info_box" : false,
+      "name" : "sudden naked girl appearance",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2826" : {
+      "info_box" : false,
+      "name" : "pantsu",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3185" : {
+      "info_box" : false,
+      "name" : "wordplay",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3508" : {
+      "info_box" : false,
+      "name" : "school for the rich elite",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5420" : {
+      "info_box" : false,
+      "name" : "wealth-related humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "5463" : {
+      "info_box" : false,
+      "name" : "boarding school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "5515" : {
+      "info_box" : false,
+      "name" : "faceless background characters",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5518" : {
+      "info_box" : false,
+      "name" : "flat chest jokes",
+      "parent_tag_id" : 7199,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7146" : {
+      "info_box" : false,
+      "name" : "cute girls doing cute things",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "7199" : {
+      "info_box" : false,
+      "name" : "sexual humour",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,
@@ -89,12 +419,20 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Ichijouma Mankitsu Kurashi!",
+    "title" : "Ichijouma Mankitsu Gurashi!",
     "type" : "MAIN"
   }, {
     "language" : "JAPANESE",
     "title" : "一畳間まんきつ暮らし!",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Ichijyoma Mankitsu Gurashi!",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Living in a One-Tatami Room!",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://ichijyoma-anime.com/"

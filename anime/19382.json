@@ -41,13 +41,27 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-14",
+      "description" : "Yukiya and Miku are trapped in a game of their own making. The struggle continues until either admits defeat.\nSource: Crunchyroll",
       "episode_id" : 310000,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.78,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374846JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "My Childhood Friend Refuses to Accept Defeat"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Osananajimi wa Maketakunai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "幼なじみは負けたくない"
       } ],
       "type" : "REGULAR"
     }, {
@@ -59,6 +73,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Osananajimi wa Ryouri Suru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "幼なじみは料理する"
       } ],
       "type" : "REGULAR"
     }, {
@@ -85,8 +105,19 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.59,
+      "total" : 9
+    },
+    "TEMPORARY" : {
+      "rating" : 5.15,
+      "total" : 10
+    }
+  },
   "resources" : {
     "ANN" : [ "36531" ],
+    "CRUNCHY_ROLL" : [ "GT00371779" ],
     "MAL" : [ "61839" ],
     "SYOBOI" : [ "7793" ],
     "TWITTER" : [ "aishiterugame" ],
@@ -96,6 +127,21 @@
   },
   "start_date" : "2026-04-14",
   "tags" : {
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -128,6 +174,10 @@
     "language" : "JAPANESE",
     "title" : "愛してるゲームを終わらせたい",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Aishiteru Game wo Owarasetai",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://www.aishiteru-game.com/"

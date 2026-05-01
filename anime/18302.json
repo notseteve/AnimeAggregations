@@ -6,8 +6,40 @@
       "name" : "Boniface",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154479,
+      "name" : "Cornelius",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 107362,
+      "name" : "Eckehard",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 124007,
+      "name" : "Ella",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 104916,
+      "name" : "Frida",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 154247,
       "name" : "Georgine",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154477,
+      "name" : "Giebe Groschel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154478,
+      "name" : "Giebe Haldenzel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 104914,
+      "name" : "Gustav",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154480,
+      "name" : "Hartmut",
       "type" : "CHARACTER"
     }, {
       "character_id" : 154246,
@@ -16,6 +48,22 @@
     }, {
       "character_id" : 107363,
       "name" : "Justus",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 123887,
+      "name" : "Kamil",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154481,
+      "name" : "Lamprecht",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154602,
+      "name" : "Norbert",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154482,
+      "name" : "Richarda",
       "type" : "CHARACTER"
     }, {
       "character_id" : 154250,
@@ -114,6 +162,10 @@
       "name" : "Iwasaki Yoshiaki",
       "type" : "DIRECTOR"
     } ],
+    "3116" : [ {
+      "name" : "Noda Yasuyuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "9774" : [ {
       "name" : "Kunisawa Mariko",
       "type" : "SERIES_COMPOSITION"
@@ -143,12 +195,13 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-04",
+      "description" : "Myne begins her new life as Rosemyne. Her first challenge is to complete the baptism and adoption ceremonies!\nSource: Crunchyroll",
       "episode_id" : 308893,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.39,
-        "total" : 5
+        "rating" : 7.88,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -170,16 +223,27 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-04-11",
+      "description" : "After the baptism ceremony and adoption, Rosemyne returns to the cathedral to become the high bishop.\nSource: Crunchyroll",
       "episode_id" : 308894,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.08,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GWDU858DD" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Lower City Family Reunion"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Shitamachi Kazoku to no Saikai"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Wiedersehen mit der Unterstadt-Familie"
       }, {
         "language" : "JAPANESE",
         "title" : "下町家族との再会"
@@ -187,37 +251,79 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-04-18",
+      "description" : "Rosemyne officially moves into the castle and Sylvester finally eats at the Italian restaurant.\nSource: Crunchyroll",
       "episode_id" : 308895,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.66,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375180JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Archduke`s Castle and Italian Restaurant"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Das Schloss des Fürsten und ein italienisches Restaurant"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ryoushu no Shiro to Italian Restaurant"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "領主の城とイタリアンレストラン"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-04-25",
+      "description" : "Rosemyne tries to collect donations from the nobility, but finds it harder than she thought...\nSource: Crunchyroll",
       "episode_id" : 308896,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 6.56,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375181JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "How to Collect Donations"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kifukin no Atsumekata"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Wie man Spenden sammelt"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "寄付金の集め方"
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2026-05-02",
       "episode_id" : 308897,
       "length" : 25,
       "number" : 5,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ensoukai no Junbi"
+      }, {
         "language" : "ENGLISH",
         "title" : "Episode 5"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "演奏会の準備"
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2026-05-09",
       "episode_id" : 308898,
       "length" : 25,
       "number" : 6,
@@ -228,6 +334,7 @@
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2026-05-16",
       "episode_id" : 308899,
       "length" : 25,
       "number" : 7,
@@ -238,6 +345,7 @@
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2026-05-23",
       "episode_id" : 308900,
       "length" : 25,
       "number" : 8,
@@ -411,12 +519,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.6,
-      "total" : 22
+      "rating" : 7.67,
+      "total" : 40
     },
     "TEMPORARY" : {
-      "rating" : 7.29,
-      "total" : 22
+      "rating" : 7.49,
+      "total" : 40
     }
   },
   "related" : {

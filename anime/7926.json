@@ -95,7 +95,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.59,
+        "rating" : 5.58,
         "total" : 6
       },
       "recap" : false,
@@ -293,7 +293,7 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.75,
+      "rating" : 5.74,
       "total" : 1124
     },
     "TEMPORARY" : {
@@ -363,6 +363,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -560,6 +567,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3955" : {
       "info_box" : false,
       "name" : "DESCRIPTION MISSING",
@@ -619,6 +634,14 @@
       "info_box" : false,
       "name" : "season",
       "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -49,6 +49,13 @@
   },
   "start_date" : "2015-08-27",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
@@ -69,6 +76,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2797" : {
       "info_box" : true,
@@ -144,6 +159,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6877" : {
+      "info_box" : false,
+      "name" : "misleading beginning",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

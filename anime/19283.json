@@ -64,28 +64,40 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-03-29",
+      "description" : "Ten years ago, the balance of the seasons was broken. Now two girls set out to return spring to a frozen land.\nSource: Crunchyroll",
       "episode_id" : 309485,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 9.15,
-        "total" : 3
+        "rating" : 7.23,
+        "total" : 6
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375500JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Dance of Spring"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-04-05",
+      "description" : "The return of spring arouses painful memories and conflicting feelings in the Agent of Winter.\nSource: Crunchyroll",
       "episode_id" : 309486,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.31,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375501JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Lingering Snow"
       } ],
       "type" : "REGULAR"
     }, {
@@ -93,6 +105,10 @@
       "episode_id" : 309487,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 5.68,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -110,20 +126,65 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-26",
+      "episode_id" : 310417,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-03",
+      "episode_id" : 310418,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-10",
+      "episode_id" : 310419,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-17",
+      "episode_id" : 310420,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.46,
-      "total" : 8
+      "rating" : 4.24,
+      "total" : 18
     },
     "TEMPORARY" : {
-      "rating" : 4.88,
-      "total" : 9
+      "rating" : 5.1,
+      "total" : 19
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "403880" ],
+    "ANISON" : [ "26414" ],
     "ANN" : [ "35579" ],
     "CRUNCHY_ROLL" : [ "GT00371636" ],
     "MAL" : [ "61443" ],
@@ -135,9 +196,133 @@
   },
   "start_date" : "2026-03-29",
   "tags" : {
+    "2568" : {
+      "info_box" : true,
+      "name" : "deity",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3394" : {
+      "info_box" : false,
+      "name" : "environmentalism",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3896" : {
+      "info_box" : false,
+      "name" : "bloodless wounds",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5477" : {
+      "info_box" : false,
+      "name" : "global warming",
+      "parent_tag_id" : 3394,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -162,6 +347,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "春夏秋冬代行者 春の舞",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "春夏秋冬代行者 春之舞",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

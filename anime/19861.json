@@ -1,5 +1,57 @@
 {
   "anime_id" : 19861,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 154327,
+      "name" : "Asama Yoshitsune",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154317,
+      "name" : "Misumi Aoteru",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 154322,
+      "name" : "Fuji III",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154326,
+      "name" : "Hei Yayoyoshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154321,
+      "name" : "Higashimachi Saki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154323,
+      "name" : "Kaku Yasuaki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154318,
+      "name" : "Kuraaki Iwai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154325,
+      "name" : "Nagao Mutodun",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154328,
+      "name" : "Ryuumon Mitsuhide",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154319,
+      "name" : "Taira Denki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154320,
+      "name" : "Taira Tonotsugu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154324,
+      "name" : "Wajima Ouga",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "8115" : [ {
       "name" : "Abiru Takahiko",
@@ -36,28 +88,154 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 9.49,
-        "total" : 3
+        "rating" : 8.43,
+        "total" : 7
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "An Oath for Peace"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Ein Schwur für den Frieden"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Taihei no Chikai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "泰平の誓い"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-12",
+      "episode_id" : 310495,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 8.0,
+        "total" : 6
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Toryumon"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Toryumon"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Toryumon"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "登龍門"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-19",
+      "episode_id" : 310496,
+      "length" : 25,
+      "number" : 3,
+      "rating" : {
+        "rating" : 8.31,
+        "total" : 5
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chougi"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Imperial Council"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Kaiserliche Ratsversammlung"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "朝議"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-26",
+      "episode_id" : 310497,
+      "length" : 25,
+      "number" : 4,
+      "rating" : {
+        "rating" : 8.67,
+        "total" : 4
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Seii Seihen"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Staatsstreich in Seii"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Seii Coup"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "聖夷政変"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-03",
+      "episode_id" : 311023,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-10",
+      "episode_id" : 311024,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-17",
+      "episode_id" : 311025,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-24",
+      "episode_id" : 311026,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.07,
-      "total" : 6
+      "rating" : 6.83,
+      "total" : 18
     },
     "TEMPORARY" : {
-      "rating" : 8.0,
-      "total" : 6
+      "rating" : 7.0,
+      "total" : 18
     }
   },
   "resources" : {
+    "ANISON" : [ "26409" ],
     "ANN" : [ "38382" ],
     "MAL" : [ "63375" ],
     "SYOBOI" : [ "7756" ],
@@ -68,9 +246,219 @@
   },
   "start_date" : "2026-04-05",
   "tags" : {
+    "36" : {
+      "info_box" : true,
+      "name" : "military",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : true,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2626" : {
+      "info_box" : false,
+      "name" : "future",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2887" : {
+      "info_box" : true,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3909" : {
+      "info_box" : false,
+      "name" : "talking is a free action",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -91,6 +479,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Nippon Sangoku: The Three Nations of the Crimson Sun",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "POLISH",
+    "title" : "Nippon Sangoku: Trzy Narody Wschodzącego Słońca",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

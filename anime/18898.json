@@ -40,7 +40,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 153149,
-      "name" : "Sidius",
+      "name" : "Sidius de Lavillant",
       "type" : "CHARACTER"
     }, {
       "character_id" : 147417,
@@ -111,32 +111,68 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-09",
+      "description" : "Serafina, a knight from the Illdoren Kingdom fighting in an eastern expedition, meets her match.\nSource: Crunchyroll",
       "episode_id" : 309984,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.04,
+        "total" : 8
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362255JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hime Kishi wa Haiboku no Toriko"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "姫騎士は敗北の虜"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-04-16",
+      "description" : "Veor shows Serafina a small part of his life, leading to no small bit of culture shock.\nSource: Crunchyroll",
       "episode_id" : 309985,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.38,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362257JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Michi wa Roubai no Moto"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "未知は狼狽の素"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-04-23",
+      "description" : "Veor intends on introducing Sera to more of the tribe, but the cultural exchange is suddenly interrupted.\nSource: Crunchyroll",
       "episode_id" : 309986,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.43,
+        "total" : 5
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00362259JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
@@ -153,11 +189,110 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-07",
+      "episode_id" : 310899,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-14",
+      "episode_id" : 310900,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-21",
+      "episode_id" : 310901,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-28",
+      "episode_id" : 310902,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-04",
+      "episode_id" : 310903,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-11",
+      "episode_id" : 310904,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-18",
+      "episode_id" : 310905,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-25",
+      "episode_id" : 310906,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.18,
+      "total" : 26
+    },
+    "TEMPORARY" : {
+      "rating" : 4.65,
+      "total" : 26
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "397267" ],
     "ANN" : [ "33646" ],
+    "CRUNCHY_ROLL" : [ "GT00362253" ],
     "MAL" : [ "60028" ],
     "SYOBOI" : [ "7744" ],
     "TWITTER" : [ "himekishi_anime" ],
@@ -235,6 +370,14 @@
   }, {
     "language" : "ENGLISH",
     "title" : "The Warrior Princess and the Barbaric King",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "女騎士成為蠻族新娘",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "女骑士成为蛮族新娘",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",

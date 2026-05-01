@@ -144,7 +144,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.31,
+        "rating" : 3.29,
         "total" : 8
       },
       "recap" : false,
@@ -169,7 +169,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 2.59,
+        "rating" : 2.58,
         "total" : 7
       },
       "recap" : false,
@@ -194,7 +194,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.9,
+        "rating" : 3.87,
         "total" : 6
       },
       "recap" : false,
@@ -219,7 +219,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.99,
+        "rating" : 3.96,
         "total" : 5
       },
       "recap" : false,
@@ -244,7 +244,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.46,
+        "rating" : 3.43,
         "total" : 5
       },
       "recap" : false,
@@ -319,7 +319,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.65,
+        "rating" : 7.64,
         "total" : 4
       },
       "recap" : false,
@@ -369,7 +369,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 4.79,
+        "rating" : 4.8,
         "total" : 5
       },
       "recap" : false,
@@ -394,7 +394,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 2.78,
+        "rating" : 2.79,
         "total" : 5
       },
       "recap" : false,
@@ -465,12 +465,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.3,
-      "total" : 561
+      "rating" : 3.31,
+      "total" : 578
     },
     "TEMPORARY" : {
       "rating" : 5.7,
-      "total" : 562
+      "total" : 579
     }
   },
   "resources" : {
@@ -493,12 +493,12 @@
       "total" : 11
     },
     "15505" : {
-      "rating" : 2.5,
-      "total" : 4
+      "rating" : 2.0,
+      "total" : 5
     },
     "17140" : {
-      "rating" : 5.833333333333334,
-      "total" : 24
+      "rating" : 5.6000000000000005,
+      "total" : 25
     }
   },
   "start_date" : "2025-01-01",
@@ -562,6 +562,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -681,6 +688,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4096" : {
       "info_box" : false,
       "name" : "gore",
@@ -708,6 +723,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

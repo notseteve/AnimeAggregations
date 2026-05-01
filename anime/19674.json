@@ -1,6 +1,19 @@
 {
   "anime_id" : 19674,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 154427,
+      "name" : "Antonius",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154426,
+      "name" : "Caesar",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154428,
+      "name" : "Nasu no Yoichi",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 153595,
       "name" : "Aiba Seria",
@@ -8,6 +21,43 @@
     }, {
       "character_id" : 153594,
       "name" : "Cleopatra",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 154424,
+      "name" : "Aoki Riku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154419,
+      "name" : "Ichikawa Rui",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154417,
+      "name" : "MiucS",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154420,
+      "name" : "Murayama Akari",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154425,
+      "name" : "Nikola Tesla",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154418,
+      "name" : "Odysseus",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154422,
+      "name" : "Saionji Kaede",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154423,
+      "name" : "Settei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154421,
+      "name" : "Youtetsu",
       "type" : "CHARACTER"
     } ]
   },
@@ -52,12 +102,13 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-06",
+      "description" : "While out with her friends, Seria hears singing. The voice belongs to the ghost of the great Cleopatra.\nSource: Crunchyroll",
       "episode_id" : 309461,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.18,
-        "total" : 1
+        "rating" : 6.49,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -65,7 +116,10 @@
       },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Heartbreaking Goodbye"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "生離死別(せいりしべつ)[前編]"
       } ],
       "type" : "REGULAR"
     }, {
@@ -73,10 +127,17 @@
       "episode_id" : 309462,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.47,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "生離死別(せいりしべつ)[後編]"
       } ],
       "type" : "REGULAR"
     }, {
@@ -88,6 +149,9 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "剣山刀樹(けんざんとうじゅ)"
       } ],
       "type" : "REGULAR"
     }, {
@@ -99,21 +163,69 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "咫尺天涯(しせきてんがい)"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-04",
+      "episode_id" : 310754,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-11",
+      "episode_id" : 310755,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-18",
+      "episode_id" : 310756,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-25",
+      "episode_id" : 310757,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.57,
-      "total" : 7
+      "rating" : 3.0,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 3.85,
-      "total" : 7
+      "rating" : 4.64,
+      "total" : 21
     }
   },
   "resources" : {
+    "ANISON" : [ "26218" ],
     "ANN" : [ "37935" ],
     "CRUNCHY_ROLL" : [ "GT00374796" ],
     "MAL" : [ "62852" ],
@@ -125,9 +237,63 @@
   },
   "start_date" : "2026-04-06",
   "tags" : {
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1244" : {
+      "info_box" : false,
+      "name" : "summoning",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1528" : {
+      "info_box" : false,
+      "name" : "artificial intelligence",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2094" : {
+      "info_box" : true,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2535" : {
+      "info_box" : false,
+      "name" : "ghost",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2610" : {
       "info_box" : false,
       "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -148,9 +314,153 @@
       "verified" : false,
       "weight" : 600
     },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2794" : {
+      "info_box" : true,
+      "name" : "music",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2878" : {
+      "info_box" : true,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2883" : {
+      "info_box" : true,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3663" : {
+      "info_box" : false,
+      "name" : "body takeover",
+      "parent_tag_id" : 6347,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4335" : {
+      "info_box" : false,
+      "name" : "governmental censorship",
+      "parent_tag_id" : 2867,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5571" : {
+      "info_box" : false,
+      "name" : "Greek mythology",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5948" : {
+      "info_box" : false,
+      "name" : "visible aura",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6347" : {
+      "info_box" : false,
+      "name" : "body and host",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

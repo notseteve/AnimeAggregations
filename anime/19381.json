@@ -1,14 +1,71 @@
 {
   "anime_id" : 19381,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 154457,
+      "name" : "Cynthia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154461,
+      "name" : "Dwarf Bokensha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154458,
+      "name" : "Feyris Ibusar 2-sei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154460,
+      "name" : "Mura no Shoujo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154463,
+      "name" : "Mura no Shoujo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154462,
+      "name" : "Mura no Shounen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154456,
+      "name" : "Shiun",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154459,
+      "name" : "Vio",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 145131,
       "name" : "Arthur Leywin",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 154377,
+      "name" : "Arthur Leywin",
+      "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 146953,
+      "name" : "Adam Krensh",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146954,
+      "name" : "Alice Leywin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146955,
+      "name" : "Angela Rose",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153890,
       "name" : "Blardo Landon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146958,
+      "name" : "Durden Walker",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152424,
+      "name" : "Elena Leywin",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152423,
@@ -19,12 +76,20 @@
       "name" : "Grey",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 146960,
+      "name" : "Helen Shard",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 146957,
       "name" : "Jasmine Flamesworth",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152428,
       "name" : "Lucas Wykes",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 146961,
+      "name" : "Reynolds Leywin",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153889,
@@ -37,6 +102,14 @@
     }, {
       "character_id" : 146959,
       "name" : "Tessia Eralith",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154467,
+      "name" : "Tessia Eralith",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152429,
+      "name" : "Virion Eralith",
       "type" : "CHARACTER"
     } ]
   },
@@ -64,11 +137,16 @@
     "78870" : [ {
       "name" : "TurtleMe",
       "type" : "STORY_COMPOSITION"
+    } ],
+    "85377" : [ {
+      "name" : "Zio",
+      "type" : "MUSIC"
     } ]
   },
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-01",
+      "description" : "Arthur has been adventuring with Jasmine under the alias of Note, and they have a dangerous encounter.\nSource: Crunchyroll",
       "episode_id" : 309493,
       "length" : 25,
       "number" : 1,
@@ -117,10 +195,20 @@
       "episode_id" : 309495,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.37,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ousama, Sounan Suru."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "王様, 遭難する."
       } ],
       "type" : "REGULAR"
     }, {
@@ -128,10 +216,64 @@
       "episode_id" : 309496,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 5.32,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ousama, Kikyou Suru."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "王様, 帰郷する."
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-29",
+      "episode_id" : 310547,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-06",
+      "episode_id" : 310548,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-13",
+      "episode_id" : 310549,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-20",
+      "episode_id" : 310550,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -161,12 +303,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.58,
-      "total" : 16
+      "rating" : 2.53,
+      "total" : 32
     },
     "TEMPORARY" : {
-      "rating" : 4.73,
-      "total" : 16
+      "rating" : 4.55,
+      "total" : 33
     }
   },
   "related" : {

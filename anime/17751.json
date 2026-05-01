@@ -84,10 +84,18 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-08",
+      "description" : "Koichi Asakura, a graphic designer, recalls his brutal past encounter with Eren Yamagishi back in high school.\nSource: Crunchyroll",
       "episode_id" : 309956,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.7,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374633JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
@@ -98,6 +106,10 @@
       "episode_id" : 309957,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 1.86,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -128,9 +140,20 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.17,
+      "total" : 17
+    },
+    "TEMPORARY" : {
+      "rating" : 3.2,
+      "total" : 17
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "403235" ],
     "ANN" : [ "26678" ],
+    "CRUNCHY_ROLL" : [ "GT00371659" ],
     "MAL" : [ "53732" ],
     "SYOBOI" : [ "7775" ],
     "TWITTER" : [ "eren_anime_PR" ],
@@ -167,6 +190,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "左ききのエレン",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "左撇子艾伦",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "左撇子艾倫",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

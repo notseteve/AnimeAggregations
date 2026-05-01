@@ -280,7 +280,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.9,
+        "rating" : 4.91,
         "total" : 3
       },
       "recap" : false,
@@ -364,7 +364,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.9,
+        "rating" : 7.91,
         "total" : 3
       },
       "recap" : false,
@@ -420,7 +420,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.9,
+        "rating" : 7.91,
         "total" : 3
       },
       "recap" : false,
@@ -550,12 +550,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.03,
-      "total" : 670
+      "rating" : 6.02,
+      "total" : 674
     },
     "TEMPORARY" : {
       "rating" : 6.9,
-      "total" : 672
+      "total" : 676
     }
   },
   "related" : {
@@ -614,6 +614,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2607" : {
       "info_box" : false,
@@ -676,9 +683,25 @@
       "verified" : false,
       "weight" : 600
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

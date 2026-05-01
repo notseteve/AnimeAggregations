@@ -2,6 +2,10 @@
   "anime_id" : 19019,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 153056,
+      "name" : "Akechi Anna",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 147209,
       "name" : "Aokaze Hajime",
       "type" : "CHARACTER"
@@ -24,6 +28,10 @@
     }, {
       "character_id" : 153438,
       "name" : "Chokkirine",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153050,
+      "name" : "Cure Answer",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152307,
@@ -196,6 +204,10 @@
     }, {
       "character_id" : 152304,
       "name" : "Pas De Deux",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153053,
+      "name" : "Pochitan",
       "type" : "CHARACTER"
     }, {
       "character_id" : 151830,
@@ -412,7 +424,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.52,
+        "rating" : 8.42,
         "total" : 1
       },
       "recap" : false,
@@ -436,7 +448,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.51,
+        "rating" : 3.37,
         "total" : 1
       },
       "recap" : false,
@@ -480,7 +492,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.56,
+        "rating" : 6.41,
         "total" : 1
       },
       "recap" : false,
@@ -504,7 +516,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.51,
+        "rating" : 3.37,
         "total" : 1
       },
       "recap" : false,
@@ -1403,12 +1415,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.25,
-      "total" : 33
+      "rating" : 6.08,
+      "total" : 36
     },
     "TEMPORARY" : {
-      "rating" : 6.27,
-      "total" : 34
+      "rating" : 6.28,
+      "total" : 37
     }
   },
   "related" : {
@@ -1438,9 +1450,172 @@
   },
   "start_date" : "2025-02-02",
   "tags" : {
+    "1018" : {
+      "info_box" : true,
+      "name" : "middle school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "1077" : {
+      "info_box" : true,
+      "name" : "shoujo",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2438" : {
+      "info_box" : true,
+      "name" : "idol",
+      "parent_tag_id" : 2794,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2503" : {
+      "info_box" : true,
+      "name" : "magical girl",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2623" : {
+      "info_box" : false,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2794" : {
+      "info_box" : false,
+      "name" : "music",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2854" : {
+      "info_box" : false,
+      "name" : "henshin",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

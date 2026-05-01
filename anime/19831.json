@@ -1,12 +1,144 @@
 {
   "anime_id" : 19831,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 154364,
+      "name" : "Elyssia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154363,
+      "name" : "Rudd",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
+    "71920" : [ {
+      "name" : "Imageworks Studio",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "74961" : [ {
+      "name" : "Imagica Infos",
+      "type" : "ANIMATION_WORK"
+    } ],
     "84590" : [ {
       "name" : "Renkinou",
       "type" : "ORIGINAL_WORK"
     } ]
   },
   "description" : "Rudd’s a nobody--just an E-Rank adventurer with a seemingly useless talent of status immunity. An outcast in a city obsessed with labyrinth crawling, he`s stuck scraping by as a \"grubby forager,\" navigating guild politics and backstabbing adventurers just to survive. But when a betrayal leaves him for dead without any supplies or help, he does the unthinkable and consumes the flesh of fallen monsters...\nSource: Webtoon",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-04-03",
+      "episode_id" : 310086,
+      "length" : 15,
+      "number" : 1,
+      "rating" : {
+        "rating" : 4.41,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Miasma Scavenger"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-10",
+      "episode_id" : 310087,
+      "length" : 15,
+      "number" : 2,
+      "rating" : {
+        "rating" : 3.61,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-17",
+      "episode_id" : 310088,
+      "length" : 15,
+      "number" : 3,
+      "rating" : {
+        "rating" : 4.07,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-24",
+      "episode_id" : 310366,
+      "length" : 15,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-01",
+      "episode_id" : 310634,
+      "length" : 15,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-08",
+      "episode_id" : 310635,
+      "length" : 15,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-15",
+      "episode_id" : 310636,
+      "length" : 15,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-22",
+      "episode_id" : 310637,
+      "length" : 15,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.67,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 2.88,
+      "total" : 17
+    }
+  },
   "resources" : {
     "ANN" : [ "38287" ],
     "MAL" : [ "63304" ],
@@ -17,9 +149,24 @@
   },
   "start_date" : "2026-04-03",
   "tags" : {
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6494" : {
+      "info_box" : true,
+      "name" : "half-length episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -38,13 +185,21 @@
     "title" : "Mamonogurai no Boukensha: Ore dake Mamono o Kuratte Tsuyoku Naru",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Monster Eater",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "吞噬魔物的冒险者",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "吞噬魔物的冒險者",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "魔物喰らいの冒険者 ~俺だけ魔物を喰らって強くなる~",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Monster Eater",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://animationid.com/mamonogurai/"

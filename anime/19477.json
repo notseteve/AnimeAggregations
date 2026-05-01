@@ -11,12 +11,40 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 154406,
+      "name" : "Akagi Riko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154402,
+      "name" : "Izumi Nayuta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154403,
+      "name" : "Kinoe Otoichi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 152542,
       "name" : "Nogi Ao",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154404,
+      "name" : "Sagami Isseki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154405,
+      "name" : "Saionji Makoto",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154401,
+      "name" : "Sakurai Tamiya",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 152544,
       "name" : "Takimura Hagane",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154400,
+      "name" : "Uzuki Yuma",
       "type" : "CHARACTER"
     } ]
   },
@@ -61,14 +89,18 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-03",
+      "description" : "In 2025 AD, after a sudden invasion of intergalactic kaiju, a painfully shy boy, Tetsuo Yabusame, saves the autonomous bomb Yukio and becomes an unlikely defender of Earth. Ten years later, now hailed as a \"savior\", Tetsuo heads into space with Yukio for the Final Battle. With 20,000 kaiju closing in, humanity’s fate is on the line to bring an end to this relentless conflict!\nSource: Crunchyroll",
       "episode_id" : 309505,
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.75,
-        "total" : 2
+        "rating" : 5.18,
+        "total" : 5
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375391JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "The Savior Who Could Not Bring Salvation"
@@ -82,10 +114,14 @@
       "episode_id" : 309506,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 3.79,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Encounters"
       }, {
         "language" : "JAPANESE",
         "title" : "出会う"
@@ -113,16 +149,39 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-04-03",
+      "episode_id" : 310522,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-04-03",
+      "episode_id" : 310523,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.37,
-      "total" : 8
+      "rating" : 3.44,
+      "total" : 20
     },
     "TEMPORARY" : {
-      "rating" : 5.37,
-      "total" : 8
+      "rating" : 4.97,
+      "total" : 21
     }
   },
   "resources" : {
@@ -439,6 +498,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "スノウボールアース",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "冻结地球",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "凍結地球",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

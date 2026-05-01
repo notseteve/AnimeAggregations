@@ -38,7 +38,7 @@
       "length" : 35,
       "number" : 1,
       "rating" : {
-        "rating" : 6.89,
+        "rating" : 6.9,
         "total" : 1
       },
       "recap" : false,
@@ -53,7 +53,7 @@
       "length" : 0,
       "number" : 1,
       "rating" : {
-        "rating" : 6.89,
+        "rating" : 6.9,
         "total" : 1
       },
       "recap" : false,
@@ -91,6 +91,13 @@
   },
   "start_date" : "1991-07-20",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -137,6 +144,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3795" : {
       "info_box" : false,
       "name" : "remastered version available",
@@ -163,6 +178,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

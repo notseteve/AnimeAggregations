@@ -97,8 +97,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.27,
-        "total" : 3
+        "rating" : 8.0,
+        "total" : 6
       },
       "recap" : false,
       "titles" : [ {
@@ -117,10 +117,14 @@
       "episode_id" : 310164,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 6.03,
+        "total" : 6
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "First Performance"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Hatsu Kouza"
@@ -134,10 +138,20 @@
       "episode_id" : 310165,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.21,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Anideshi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Senior Apprentices"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "兄弟子"
       } ],
       "type" : "REGULAR"
     }, {
@@ -149,18 +163,68 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yorokobi no Saki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "喜びの先"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-02",
+      "episode_id" : 310685,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-09",
+      "episode_id" : 310686,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-16",
+      "episode_id" : 310687,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-23",
+      "episode_id" : 310688,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.2,
-      "total" : 10
+      "rating" : 7.19,
+      "total" : 21
     },
     "TEMPORARY" : {
-      "rating" : 6.4,
-      "total" : 10
+      "rating" : 6.23,
+      "total" : 21
     }
   },
   "resources" : {
@@ -176,7 +240,7 @@
   "similar" : {
     "10960" : {
       "rating" : 10.0,
-      "total" : 4
+      "total" : 7
     }
   },
   "start_date" : "2026-04-04",
@@ -224,6 +288,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2793" : {
       "info_box" : true,
       "name" : "performance",
@@ -246,7 +318,15 @@
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 200
+      "weight" : 300
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2883" : {
       "info_box" : true,
@@ -280,6 +360,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "3683" : {
       "info_box" : false,
       "name" : "storytelling",
@@ -292,6 +380,14 @@
       "info_box" : false,
       "name" : "dialogue driven",
       "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -351,6 +447,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "あかね噺",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "朱音落語",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "落语朱音",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
