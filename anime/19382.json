@@ -9,6 +9,23 @@
       "character_id" : 152089,
       "name" : "Sakura Miku",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 154612,
+      "name" : "Asagi Wakana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154613,
+      "name" : "Hanaba Hinako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154614,
+      "name" : "Moegi Natsuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154611,
+      "name" : "Shinonome Masaru",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -46,8 +63,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.78,
-        "total" : 1
+        "rating" : 6.09,
+        "total" : 2
       },
       "recap" : false,
       "resources" : {
@@ -69,10 +86,14 @@
       "episode_id" : 310001,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.49,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "My Childhood Friend Cooks"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Osananajimi wa Ryouri Suru"
@@ -86,10 +107,20 @@
       "episode_id" : 310002,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.37,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Childhood Friend Seduction"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Osananajimi wa Sasoi o Kakeru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "幼なじみは誘いをかける"
       } ],
       "type" : "REGULAR"
     }, {
@@ -97,29 +128,86 @@
       "episode_id" : 310003,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 6.74,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "My Childhood Friend Will Do Anything"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Osananajimi wa Nandemo Suru"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "幼なじみはなんでもする"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-12",
+      "episode_id" : 311059,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-19",
+      "episode_id" : 311060,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-26",
+      "episode_id" : 311061,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-02",
+      "episode_id" : 311062,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.59,
-      "total" : 9
+      "rating" : 3.29,
+      "total" : 28
     },
     "TEMPORARY" : {
-      "rating" : 5.15,
-      "total" : 10
+      "rating" : 4.91,
+      "total" : 29
     }
   },
   "resources" : {
+    "ALL_CINEMA" : [ "403104" ],
+    "ANISON" : [ "26381" ],
     "ANN" : [ "36531" ],
     "CRUNCHY_ROLL" : [ "GT00371779" ],
     "MAL" : [ "61839" ],
     "SYOBOI" : [ "7793" ],
+    "TMDB" : [ "tv/293697" ],
     "TWITTER" : [ "aishiterugame" ],
     "WEBSITE" : [ "https://www.aishiteru-game.com/" ],
     "WIKIPEDIA_EN" : [ "I_Want_to_End_This_Love_Game" ],
@@ -165,6 +253,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "I Want to End This Love Game",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "想結束這場的遊戲",
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",

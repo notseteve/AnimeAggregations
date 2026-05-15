@@ -1,6 +1,71 @@
 {
   "anime_id" : 19242,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 81578,
+      "name" : "Chin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 82453,
+      "name" : "Crusch Karsten",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154472,
+      "name" : "Eridna",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143688,
+      "name" : "Fred Thompson",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141329,
+      "name" : "Joshua Juukulius",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 81577,
+      "name" : "Kan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111387,
+      "name" : "Patrasche",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 84487,
+      "name" : "Petelgeuse Romanee-Conti",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143689,
+      "name" : "Rafiel Thompson",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 122607,
+      "name" : "Reala Thompson",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 111214,
+      "name" : "Regulus Corneas",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 84852,
+      "name" : "Ricardo Welkin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 141327,
+      "name" : "Sirius Romaneeconti",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 81579,
+      "name" : "Ton",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 112467,
+      "name" : "Typhon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 82457,
+      "name" : "Wilhelm van Astrea",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 78943,
       "name" : "Emilia",
@@ -19,12 +84,40 @@
       "name" : "Beatrice",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 82454,
+      "name" : "Felix Argyle",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 78946,
+      "name" : "Felt",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 84478,
+      "name" : "Frederica Baumann",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 110580,
+      "name" : "Garfiel Tinsel",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 82456,
       "name" : "Julius Juukulius",
       "type" : "CHARACTER"
     }, {
       "character_id" : 84473,
       "name" : "Meili Portroute",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 84488,
+      "name" : "Mimi Pearlbaton",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 84486,
+      "name" : "Otto Suwen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 84471,
+      "name" : "Petra Leyte",
       "type" : "CHARACTER"
     }, {
       "character_id" : 78949,
@@ -35,8 +128,16 @@
       "name" : "Reid Astrea",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 78948,
+      "name" : "Reinhard van Astrea",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 78950,
       "name" : "Rem",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 81522,
+      "name" : "Roswaal L Mathers",
       "type" : "CHARACTER"
     }, {
       "character_id" : 144132,
@@ -69,6 +170,10 @@
       "name" : "Yokotani Masahiro",
       "type" : "SERIES_COMPOSITION"
     } ],
+    "17983" : [ {
+      "name" : "Mishima Chie",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "32390" : [ {
       "name" : "Sagawa Haruka",
       "type" : "CHARACTER_DESIGN"
@@ -95,7 +200,7 @@
       "number" : 1,
       "rating" : {
         "rating" : 3.77,
-        "total" : 7
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -120,9 +225,14 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-04-15",
+      "description" : "Subaru and company struggle to cross the Auguria Dunes on the way to the Pleiades Watchtower.\nSource: Crunchyroll",
       "episode_id" : 309965,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 7.78,
+        "total" : 7
+      },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00345528JAJP" ]
@@ -146,13 +256,33 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-04-22",
+      "description" : "The party is separated just before reaching the Pleiades Watchtower. Subaru awakens to find he`s underground.\nSource: Crunchyroll",
       "episode_id" : 309966,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 7.53,
+        "total" : 8
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00345531JAJP" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Die Wächterin des Wachturms"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kanshitou no Bannin"
+      }, {
+        "language" : "POLISH",
+        "title" : "Strażniczka Wieży Plejad"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Keeper of the Watchtower"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "監視塔の番人"
       } ],
       "type" : "REGULAR"
     }, {
@@ -160,23 +290,57 @@
       "episode_id" : 309967,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.15,
+        "total" : 9
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00345534JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "A White Sky Asterism"
+      }, {
+        "language" : "POLISH",
+        "title" : "Asteryzm na białym niebie"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shiroi Hoshizora no Asterism"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "白い星空のアステリズム"
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2026-05-06",
       "episode_id" : 310333,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 5.74,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00345537JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Boufuri"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Stick Swinger"
+      }, {
+        "language" : "POLISH",
+        "title" : "Zawadiaka z pałeczkami"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "棒振り"
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2026-05-13",
       "episode_id" : 310334,
       "length" : 25,
       "number" : 6,
@@ -184,9 +348,19 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 6"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Julius Juukulius"
+      }, {
+        "language" : "POLISH",
+        "title" : "Julius Juukulius"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ユリウス・ユークリウス"
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2026-05-20",
       "episode_id" : 310335,
       "length" : 25,
       "number" : 7,
@@ -197,9 +371,14 @@
       } ],
       "type" : "REGULAR"
     }, {
+      "air_date" : "2026-05-27",
       "episode_id" : 310336,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -351,6 +530,57 @@
         "title" : "Re:ゼロから始める休憩時間[ブレイクタイム] #2 エミリア陣営奮闘記"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2026-04-22",
+      "episode_id" : 310836,
+      "length" : 3,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Re:Zero - Starting Break Time from Zero #3: Everyone Is Quite a Handful, I Suppose."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Re:Zero kara Hajimeru Break Time #3: Minna Komattamon Kashira"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Re:ゼロから始める休憩時間[ブレイクタイム] #3 みんな困ったもんかしら"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2026-04-29",
+      "episode_id" : 311100,
+      "length" : 3,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Re:Zero - Starting Break Time from Zero #4: Everyone Is Quite a Handful, I Suppose."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Re:Zero kara Hajimeru Break Time #4: Minna Komattamon Kashira"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Re:ゼロから始める休憩時間[ブレイクタイム] #4 みんな困ったもんかしら"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2026-05-06",
+      "episode_id" : 311352,
+      "length" : 3,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Re:Zero - Starting Break Time from Zero #5: Walk-the-Talk Log"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Re:Zero kara Hajimeru Break Time #5: Yuugenjikkou Bibouroku"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Re:ゼロから始める休憩時間[ブレイクタイム] #5 有言実行備忘録"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2025-03-27",
@@ -441,12 +671,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.47,
-      "total" : 20
+      "rating" : 7.92,
+      "total" : 37
     },
     "TEMPORARY" : {
-      "rating" : 7.15,
-      "total" : 20
+      "rating" : 7.64,
+      "total" : 37
     }
   },
   "related" : {
@@ -462,7 +692,7 @@
     "WEBSITE" : [ "https://re-zero-anime.jp/tv/" ],
     "WIKIPEDIA_EN" : [ "Re:Zero" ],
     "WIKIPEDIA_JP" : [ "Re:ゼロから始める異世界生活_(アニメ)" ],
-    "YOUTUBE" : [ "watch?v=01nLOU3J_Uo", "watch?v=8Sy0KUOK7os", "watch?v=Ndi1vPKZ4g4", "watch?v=R4-Tcr0-tO4", "watch?v=WADtzy2DYxY", "watch?v=i8EjBP85cCc", "watch?v=jqY7fWyEIMY" ]
+    "YOUTUBE" : [ "watch?v=-A2r2S8v6pg", "watch?v=01nLOU3J_Uo", "watch?v=8Sy0KUOK7os", "watch?v=Ndi1vPKZ4g4", "watch?v=R4-Tcr0-tO4", "watch?v=WADtzy2DYxY", "watch?v=WWMcoAGFTsU", "watch?v=d18TLuZzOWA", "watch?v=i8EjBP85cCc", "watch?v=jqY7fWyEIMY" ]
   },
   "start_date" : "2026-04-08",
   "tags" : {

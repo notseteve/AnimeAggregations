@@ -132,7 +132,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.73,
+        "rating" : 4.72,
         "total" : 13
       },
       "recap" : false,
@@ -228,7 +228,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.26,
+        "rating" : 5.25,
         "total" : 10
       },
       "recap" : false,
@@ -258,7 +258,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.52,
+        "rating" : 3.51,
         "total" : 10
       },
       "recap" : false,
@@ -348,7 +348,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.39,
+        "rating" : 6.38,
         "total" : 7
       },
       "recap" : false,
@@ -468,7 +468,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.53,
+        "rating" : 5.52,
         "total" : 5
       },
       "recap" : false,
@@ -720,11 +720,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.84,
-      "total" : 862
+      "total" : 870
     },
     "TEMPORARY" : {
       "rating" : 6.45,
-      "total" : 862
+      "total" : 870
     }
   },
   "resources" : {
@@ -782,6 +782,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -871,6 +878,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2817" : {
       "info_box" : false,

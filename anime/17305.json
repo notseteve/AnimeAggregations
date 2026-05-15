@@ -40,6 +40,10 @@
       "name" : "Alaira",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154746,
+      "name" : "Dagda",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153631,
       "name" : "Fudemushi",
       "type" : "CHARACTER"
@@ -103,8 +107,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.33,
-        "total" : 13
+        "rating" : 8.23,
+        "total" : 14
       },
       "recap" : false,
       "resources" : {
@@ -134,8 +138,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.6,
-        "total" : 12
+        "rating" : 6.76,
+        "total" : 13
       },
       "recap" : false,
       "resources" : {
@@ -165,8 +169,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.85,
-        "total" : 10
+        "rating" : 7.01,
+        "total" : 11
       },
       "recap" : false,
       "resources" : {
@@ -196,8 +200,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.76,
-        "total" : 7
+        "rating" : 7.65,
+        "total" : 10
       },
       "recap" : false,
       "resources" : {
@@ -225,7 +229,14 @@
       "episode_id" : 310464,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 8.6,
+        "total" : 12
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00258184JAJP" ]
+      },
       "titles" : [ {
         "language" : "GERMAN",
         "title" : "Das Drachenlabyrinth"
@@ -233,11 +244,11 @@
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Dragon no Meikyuu"
       }, {
-        "language" : "ENGLISH",
-        "title" : "Episode 5"
-      }, {
         "language" : "FRENCH",
         "title" : "Le dédale du dragon"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Dragon`s Labyrinth"
       }, {
         "language" : "JAPANESE",
         "title" : "巨鱗竜[ドラゴン]の迷宮"
@@ -248,10 +259,26 @@
       "episode_id" : 310465,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 7.6,
+        "total" : 6
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "A Light on a Rainy Day"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ame no Hi no Akari"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Das Licht eines Regentages"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Lumière de jour pluvieux"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "雨の日の灯"
       } ],
       "type" : "REGULAR"
     }, {
@@ -261,8 +288,11 @@
       "number" : 7,
       "recap" : false,
       "titles" : [ {
+        "language" : "FRENCH",
+        "title" : "Magie pour autrui"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Who Is Magic For?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -335,12 +365,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.42,
-      "total" : 62
+      "rating" : 8.24,
+      "total" : 79
     },
     "TEMPORARY" : {
-      "rating" : 7.96,
-      "total" : 64
+      "rating" : 7.82,
+      "total" : 82
     }
   },
   "resources" : {
@@ -349,11 +379,18 @@
     "CRUNCHY_ROLL" : [ "GT00258001" ],
     "MAL" : [ "51553" ],
     "SYOBOI" : [ "7741" ],
+    "TMDB" : [ "tv/196950" ],
     "TWITTER" : [ "tongari_anime" ],
     "WEBSITE" : [ "https://tongari-anime.com/" ],
     "WEBSITE_EN" : [ "https://tongari-anime.com/en/" ],
     "WIKIPEDIA_EN" : [ "Witch_Hat_Atelier" ],
     "WIKIPEDIA_JP" : [ "とんがり帽子のアトリエ" ]
+  },
+  "similar" : {
+    "979" : {
+      "rating" : 10.0,
+      "total" : 2
+    }
   },
   "start_date" : "2026-04-06",
   "tags" : {

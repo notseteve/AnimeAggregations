@@ -15,8 +15,44 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 154780,
+      "name" : "Doi Robert",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154784,
+      "name" : "Fujieda Shirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154781,
+      "name" : "Honma Chousuke",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153077,
       "name" : "Kanzaki Yutaka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154782,
+      "name" : "Kawarage",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154786,
+      "name" : "Kiryuu Ryouko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154779,
+      "name" : "Loulan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154783,
+      "name" : "Mishima Souichirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154785,
+      "name" : "Saionji Maki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154778,
+      "name" : "Sarah",
       "type" : "CHARACTER"
     } ]
   },
@@ -54,13 +90,21 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-10",
+      "description" : "A beer company employee is caught up in a game of wine after his father`s death.\nSource: Crunchyroll",
       "episode_id" : 309988,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.55,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374498JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Beginning of All Battles"
       } ],
       "type" : "REGULAR"
     }, {
@@ -68,10 +112,14 @@
       "episode_id" : 309989,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 8.26,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Prayers to a Fragrant Land"
       } ],
       "type" : "REGULAR"
     }, {
@@ -82,7 +130,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Thus Spoke the Will"
       } ],
       "type" : "REGULAR"
     }, {
@@ -93,20 +141,125 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Made by the Hand of Man"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-08",
+      "episode_id" : 310882,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-15",
+      "episode_id" : 310883,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-22",
+      "episode_id" : 310884,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-29",
+      "episode_id" : 310885,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-05",
+      "episode_id" : 310886,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-12",
+      "episode_id" : 310887,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-19",
+      "episode_id" : 310888,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-26",
+      "episode_id" : 310889,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.27,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 4.81,
+      "total" : 16
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "403369" ],
     "ANN" : [ "38028" ],
+    "CRUNCHY_ROLL" : [ "GT00371872" ],
     "MAL" : [ "62981" ],
     "SYOBOI" : [ "7776" ],
     "TWITTER" : [ "dropsofgodAnime" ],
     "WEBSITE" : [ "https://dropsofgod-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Drops_of_God" ],
     "WIKIPEDIA_JP" : [ "神の雫" ]
+  },
+  "similar" : {
+    "17673" : {
+      "rating" : 6.666666666666666,
+      "total" : 3
+    }
   },
   "start_date" : "2026-04-10",
   "tags" : {
@@ -137,6 +290,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "神の雫",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "神之水滴",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "神之雫",
     "type" : "OFFICIAL"
   } ],
   "type" : "SERIES",

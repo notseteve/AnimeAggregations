@@ -35,8 +35,16 @@
       "name" : "Kuriki Momoka",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154606,
+      "name" : "Ponta",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 154199,
       "name" : "Shimojima Tsukiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154607,
+      "name" : "Uppi",
       "type" : "CHARACTER"
     } ]
   },
@@ -78,11 +86,14 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.41,
+        "rating" : 6.4,
         "total" : 3
       },
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Grenzen und Mauern"
+      }, {
         "language" : "ENGLISH",
         "title" : "Lines and Walls"
       }, {
@@ -99,7 +110,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.74,
+        "rating" : 5.54,
         "total" : 2
       },
       "recap" : false,
@@ -109,6 +120,9 @@
       }, {
         "language" : "ENGLISH",
         "title" : "Locksmith"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Schlüsseldienst"
       }, {
         "language" : "JAPANESE",
         "title" : "鍵師"
@@ -120,19 +134,22 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.7,
+        "rating" : 9.51,
         "total" : 1
       },
       "recap" : false,
       "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "3+(&lt;-)1"
+      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "3+(&lt;-)1"
       }, {
-        "language" : "JAPANESE",
+        "language" : "GERMAN",
         "title" : "3+(←)1"
       }, {
-        "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "language" : "JAPANESE",
+        "title" : "3+(←)1"
       } ],
       "type" : "REGULAR"
     }, {
@@ -140,13 +157,20 @@
       "episode_id" : 310312,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 9.51,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 4"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Fukashin"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Impenetrable"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Undurchdringlich"
       }, {
         "language" : "JAPANESE",
         "title" : "不可侵"
@@ -157,10 +181,23 @@
       "episode_id" : 310581,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 7.7,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Change"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Henka"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Veränderungen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "変化"
       } ],
       "type" : "REGULAR"
     }, {
@@ -200,12 +237,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.84,
-      "total" : 18
+      "rating" : 7.31,
+      "total" : 32
     },
     "TEMPORARY" : {
-      "rating" : 6.16,
-      "total" : 18
+      "rating" : 7.21,
+      "total" : 32
     }
   },
   "resources" : {

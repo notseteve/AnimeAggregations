@@ -168,8 +168,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.07,
-        "total" : 5
+        "rating" : 6.1,
+        "total" : 6
       },
       "recap" : false,
       "titles" : [ {
@@ -190,8 +190,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.51,
-        "total" : 4
+        "rating" : 6.03,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -212,7 +212,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.61,
+        "rating" : 7.62,
         "total" : 5
       },
       "recap" : false,
@@ -410,7 +410,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.99,
+        "rating" : 8.0,
         "total" : 3
       },
       "recap" : false,
@@ -634,12 +634,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.91,
-      "total" : 352
+      "rating" : 6.9,
+      "total" : 355
     },
     "TEMPORARY" : {
-      "rating" : 7.26,
-      "total" : 355
+      "rating" : 7.25,
+      "total" : 358
     }
   },
   "resources" : {
@@ -681,6 +681,13 @@
       "verified" : false,
       "weight" : 600
     },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
@@ -695,12 +702,59 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2751" : {
       "info_box" : false,
@@ -722,6 +776,14 @@
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -750,6 +812,22 @@
       "verified" : false,
       "weight" : 600
     },
+    "3831" : {
+      "info_box" : false,
+      "name" : "training",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "3863" : {
+      "info_box" : false,
+      "name" : "competition",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4176" : {
       "info_box" : false,
       "name" : "OP and ED sung by cast",
@@ -757,6 +835,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4537" : {
+      "info_box" : false,
+      "name" : "time skip",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5826" : {
+      "info_box" : false,
+      "name" : "rivalry",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "6148" : {
       "info_box" : false,
@@ -769,6 +871,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

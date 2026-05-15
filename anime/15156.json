@@ -684,11 +684,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.02,
-      "total" : 592
+      "total" : 594
     },
     "TEMPORARY" : {
-      "rating" : 5.96,
-      "total" : 596
+      "rating" : 5.95,
+      "total" : 598
     }
   },
   "related" : {
@@ -765,6 +765,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2605" : {
       "info_box" : false,
@@ -847,6 +854,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 500
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2782" : {
       "info_box" : true,

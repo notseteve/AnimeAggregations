@@ -6,11 +6,23 @@
       "name" : "Asakura Kouichi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154497,
+      "name" : "Asakura Kouichi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 152211,
+      "name" : "Yamagishi Eren",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154498,
       "name" : "Yamagishi Eren",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 154495,
+      "name" : "Akane Yuuko",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153485,
       "name" : "Kamiya Yuusuke",
       "type" : "CHARACTER"
@@ -19,16 +31,28 @@
       "name" : "Katou Sayuri",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154499,
+      "name" : "Katou Sayuri",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153483,
       "name" : "Kishi Akari",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153481,
-      "name" : "Mihashi Yurina",
+      "name" : "Mitsuhashi Yurina",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154496,
+      "name" : "Rukawa Shun",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153484,
       "name" : "Ryuuichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154494,
+      "name" : "Sakuma Ifuu",
       "type" : "CHARACTER"
     } ]
   },
@@ -74,13 +98,10 @@
     "67775" : [ {
       "name" : "Pasocon Ongaku Club",
       "type" : "MUSIC"
-    } ],
-    "69536" : [ {
-      "name" : "Nifuni",
-      "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "Asakura Kouichi is a young designer working for an advertising agency. Lost and confused after being dropped from a project he worked hard to secure, he travels to the Yokohama Museum of Art. This is the place where, many years ago, he first encountered the talented \"Eren\"...\nSource: M-U",
+  "description" : "* Based on a drama manga by http://anidb.net/cr52230 [Kappy].\nAs high school reaches its midpoint, http://anidb.net/ch152212 [Asakura Kouichi]—who dreams of studying design at art school—has his plans shaken by explosive graffiti on a museum wall. The artist is http://anidb.net/ch152211 [Yamagishi Eren], a left-handed girl who buried her talent after a past incident. Drawn together by art, Kouichi pursues design as Eren returns to painting, but fear, ambition, and old scars threaten their paths.\nSource: Crunchyroll",
+  "end_date" : "2026-07-01",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-08",
@@ -89,8 +110,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.7,
-        "total" : 2
+        "rating" : 5.33,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -98,7 +119,10 @@
       },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Basquiat of Yokohama"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "横浜のバスキア"
       } ],
       "type" : "REGULAR"
     }, {
@@ -107,13 +131,13 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 1.86,
-        "total" : 1
+        "rating" : 4.82,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "There`s Something Beyond This, Y`Know"
       } ],
       "type" : "REGULAR"
     }, {
@@ -121,10 +145,14 @@
       "episode_id" : 309958,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.3,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "All I`ve Got is Guts, After All"
       } ],
       "type" : "REGULAR"
     }, {
@@ -132,26 +160,138 @@
       "episode_id" : 309959,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 2.01,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "When You Find Yourself The Best Team"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-06",
+      "episode_id" : 310828,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 5.35,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "The Life of the One Who Shines the Light"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-13",
+      "episode_id" : 310829,
+      "length" : 25,
+      "number" : 6,
+      "rating" : {
+        "rating" : 5.35,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-20",
+      "episode_id" : 310830,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-27",
+      "episode_id" : 310831,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-03",
+      "episode_id" : 311667,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-10",
+      "episode_id" : 311668,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-17",
+      "episode_id" : 311669,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-24",
+      "episode_id" : 311670,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-01",
+      "episode_id" : 311692,
+      "length" : 25,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 13"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.17,
-      "total" : 17
+      "rating" : 2.5,
+      "total" : 24
     },
     "TEMPORARY" : {
-      "rating" : 3.2,
-      "total" : 17
+      "rating" : 3.68,
+      "total" : 24
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "403235" ],
+    "ANISON" : [ "26389" ],
     "ANN" : [ "26678" ],
     "CRUNCHY_ROLL" : [ "GT00371659" ],
     "MAL" : [ "53732" ],
@@ -163,9 +303,109 @@
   },
   "start_date" : "2026-04-08",
   "tags" : {
+    "165" : {
+      "info_box" : false,
+      "name" : "painting",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "922" : {
+      "info_box" : true,
+      "name" : "shounen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2883" : {
+      "info_box" : true,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "5604" : {
+      "info_box" : false,
+      "name" : "following one`s dream",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

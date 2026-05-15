@@ -13,6 +13,23 @@
       "character_id" : 152365,
       "name" : "Usada Haruma",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 154749,
+      "name" : "Honda Kyou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154748,
+      "name" : "Kogi Shion",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154750,
+      "name" : "Takamine Hazuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154747,
+      "name" : "Usada Mao",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -43,7 +60,7 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "Office worker http://anidb.net/ch152363 [Rinko], 24, lives alone and is secretly an otaku. One day, her apartment gets connected to the two neighboring rooms through a \"hole\" in the wall. In the room on the left is a fresh-faced yet mysterious guy who is overly-sweet to Rinko. The room on the right is occupied by a guy with violent tendences who is similarly mysterious... But wait! \"I... I think I know him!\"\nRinko`s only source of solitude, her apartment, has been turned upside down. Now, every day is full of heart-pounding surprises!\nSource: MangaPlaza",
+  "description" : "* Based on a romantic comedy manga by http://anidb.net/cr84158 [Watomura].\nOffice worker http://anidb.net/ch152363 [Rinko], 24, lives alone and is secretly an otaku. One day, her apartment gets connected to the two neighboring rooms through a \"hole\" in the wall. In the room on the left is a fresh-faced yet mysterious guy who is overly-sweet to Rinko. The room on the right is occupied by a guy with violent tendences who is similarly mysterious... But wait! \"I... I think I know him!\"\nRinko`s only source of solitude, her apartment, has been turned upside down. Now, every day is full of heart-pounding surprises!\nSource: MangaPlaza",
   "episodes" : {
     "REGULAR" : [ {
       "episode_id" : 310292,
@@ -109,16 +126,86 @@
         "title" : "Episode 6"
       } ],
       "type" : "REGULAR"
+    }, {
+      "episode_id" : 310817,
+      "length" : 0,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 310818,
+      "length" : 0,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 310819,
+      "length" : 0,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 310820,
+      "length" : 0,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 310821,
+      "length" : 0,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 310822,
+      "length" : 0,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "episode_id" : 310823,
+      "length" : 0,
+      "number" : 13,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 13"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.66,
-      "total" : 10
+      "rating" : 3.16,
+      "total" : 17
     },
     "TEMPORARY" : {
-      "rating" : 4.5,
-      "total" : 10
+      "rating" : 4.32,
+      "total" : 17
     }
   },
   "resources" : {
@@ -134,9 +221,124 @@
   },
   "start_date" : "2026-04-08",
   "tags" : {
+    "1077" : {
+      "info_box" : true,
+      "name" : "shoujo",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2786" : {
+      "info_box" : true,
+      "name" : "love polygon",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6030" : {
+      "info_box" : false,
+      "name" : "otaku culture",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -161,6 +363,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "ただいま, おじゃまされます!",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "当前、正被打扰中！",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "我回來了，他又來打擾了！",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

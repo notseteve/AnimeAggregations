@@ -97,13 +97,16 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.0,
-        "total" : 6
+        "rating" : 8.32,
+        "total" : 8
       },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Ano Hi"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Jener Tag"
       }, {
         "language" : "ENGLISH",
         "title" : "That Day"
@@ -118,8 +121,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.03,
-        "total" : 6
+        "rating" : 6.6,
+        "total" : 7
       },
       "recap" : false,
       "titles" : [ {
@@ -139,8 +142,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.21,
-        "total" : 4
+        "rating" : 6.64,
+        "total" : 6
       },
       "recap" : false,
       "titles" : [ {
@@ -159,10 +162,14 @@
       "episode_id" : 310166,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 7.88,
+        "total" : 7
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Beyond Joy"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Yorokobi no Saki"
@@ -176,10 +183,20 @@
       "episode_id" : 310685,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 7.52,
+        "total" : 4
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Her Path Forward"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Susumu Michi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "進む道"
       } ],
       "type" : "REGULAR"
     }, {
@@ -191,6 +208,12 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 6"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Terakoya"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "寺子屋"
       } ],
       "type" : "REGULAR"
     }, {
@@ -219,12 +242,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.19,
-      "total" : 21
+      "rating" : 7.47,
+      "total" : 40
     },
     "TEMPORARY" : {
-      "rating" : 6.23,
-      "total" : 21
+      "rating" : 6.85,
+      "total" : 40
     }
   },
   "resources" : {
@@ -252,6 +275,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "1063" : {
+      "info_box" : false,
+      "name" : "elementary school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2605" : {
       "info_box" : false,
@@ -327,6 +366,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2883" : {
       "info_box" : true,

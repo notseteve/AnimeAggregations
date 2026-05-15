@@ -52,19 +52,22 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.06,
-        "total" : 2
+        "rating" : 3.73,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Cry from the Heart"
+      }, {
         "language" : "GERMAN",
         "title" : "Der Schrei ihres Herzens"
       }, {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "FRENCH",
         "title" : "Un cri du cœur"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "心の叫び"
       } ],
       "type" : "REGULAR"
     }, {
@@ -72,33 +75,139 @@
       "episode_id" : 310400,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.58,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "A Better Tomorrow"
       }, {
         "language" : "FRENCH",
         "title" : "Un lendemain meilleur"
       }, {
         "language" : "GERMAN",
         "title" : "Unsere Zukunft"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "今日より明日"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-18",
+      "episode_id" : 310695,
+      "length" : 25,
+      "number" : 3,
+      "rating" : {
+        "rating" : 6.13,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Southern Cross"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Southern Cross"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "サザンクロス"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-18",
+      "episode_id" : 310696,
+      "length" : 25,
+      "number" : 4,
+      "rating" : {
+        "rating" : 8.11,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Flames of Obsession"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Flamme der Besessenheit"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "執念の炎"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-25",
+      "episode_id" : 310934,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 6.9,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Bloody Cross"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Blutiges Kreuz"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-02",
+      "episode_id" : 310935,
+      "length" : 25,
+      "number" : 6,
+      "rating" : {
+        "rating" : 9.98,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "God`s Land"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Godland"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-09",
+      "episode_id" : 310936,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-16",
+      "episode_id" : 310937,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.5,
-      "total" : 7
+      "rating" : 3.26,
+      "total" : 15
     },
     "TEMPORARY" : {
-      "rating" : 4.5,
-      "total" : 8
+      "rating" : 4.4,
+      "total" : 16
     }
   },
   "related" : {
-    "ALTERNATIVE_SETTING" : [ 3038 ],
-    "OTHER" : [ 386 ]
+    "ALTERNATIVE_SETTING" : [ 386, 3038 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "401193" ],
@@ -115,11 +224,11 @@
   "similar" : {
     "7991" : {
       "rating" : 5.0,
-      "total" : 2
+      "total" : 4
     },
     "9304" : {
       "rating" : 10.0,
-      "total" : 4
+      "total" : 6
     }
   },
   "start_date" : "2026-04-11",

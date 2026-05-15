@@ -1,5 +1,41 @@
 {
   "anime_id" : 18618,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 154504,
+      "name" : "Tabata Wakana",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154505,
+      "name" : "Takehara Kinue",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 154506,
+      "name" : "Fujisawa Eri",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154501,
+      "name" : "Ibuki Katsurako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154503,
+      "name" : "Okabe Emi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154502,
+      "name" : "Takanashi Sara",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154500,
+      "name" : "Ueda Ryouko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154507,
+      "name" : "Utagawa Shizuka",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "731" : [ {
       "name" : "Madhouse",
@@ -16,6 +52,9 @@
     "7999" : [ {
       "name" : "Hamada Kunihiko",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Hamada Kunihiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "44194" : [ {
       "name" : "Nakanishi Yasuhiro",
@@ -30,10 +69,18 @@
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-10",
+      "description" : "Musicians fly into Awajima chasing a dream. The reality there is not so simple.\nSource: Crunchyroll",
       "episode_id" : 309976,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.91,
+        "total" : 6
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375069JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 1"
@@ -44,7 +91,14 @@
       "episode_id" : 309977,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 9.4,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375070JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 2"
@@ -55,7 +109,14 @@
       "episode_id" : 309978,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 8.35,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375071JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 3"
@@ -66,19 +127,84 @@
       "episode_id" : 309979,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 8.35,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-08",
+      "episode_id" : 310926,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 7.33,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-15",
+      "episode_id" : 310927,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-22",
+      "episode_id" : 310928,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-29",
+      "episode_id" : 310929,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.75,
+      "total" : 23
+    },
+    "TEMPORARY" : {
+      "rating" : 5.93,
+      "total" : 23
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "400552" ],
+    "ANISON" : [ "26398" ],
     "ANN" : [ "32716" ],
+    "CRUNCHY_ROLL" : [ "GT00374363" ],
     "MAL" : [ "58820" ],
     "SYOBOI" : [ "7760" ],
+    "TMDB" : [ "tv/291403" ],
     "TWITTER" : [ "awajima_anime" ],
     "WEBSITE" : [ "https://awajima-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Awajima_Hyakkei" ],
@@ -109,6 +235,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "A Hundred Scenes of Awajima",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "淡岛百景",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
