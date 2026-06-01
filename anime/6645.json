@@ -406,7 +406,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 6.68,
+        "rating" : 6.62,
         "total" : 4
       },
       "recap" : false,
@@ -421,7 +421,7 @@
       "length" : 1,
       "number" : 2,
       "rating" : {
-        "rating" : 7.03,
+        "rating" : 6.94,
         "total" : 3
       },
       "recap" : false,
@@ -450,7 +450,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.88,
-      "total" : 4609
+      "total" : 4618
     },
     "REVIEW" : {
       "rating" : 5.83,
@@ -458,7 +458,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.91,
-      "total" : 4633
+      "total" : 4642
     }
   },
   "related" : {
@@ -601,6 +601,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2715" : {
+      "info_box" : true,
+      "name" : "rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 400
     },
     "2749" : {
       "info_box" : false,
@@ -827,6 +835,14 @@
       "info_box" : false,
       "name" : "gun - TO BE SPLIT AND DELETED",
       "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7220" : {
+      "info_box" : false,
+      "name" : "sexual abuse",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

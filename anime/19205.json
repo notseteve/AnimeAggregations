@@ -911,16 +911,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.51,
-      "total" : 9
+      "rating" : 5.55,
+      "total" : 11
     },
     "TEMPORARY" : {
-      "rating" : 5.77,
-      "total" : 9
+      "rating" : 6.36,
+      "total" : 11
     }
   },
   "related" : {
-    "PREQUEL" : [ 18452 ]
+    "PREQUEL" : [ 18452 ],
+    "SIDE_STORY" : [ 19749 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "399067" ],
@@ -934,6 +935,21 @@
   },
   "start_date" : "2025-04-06",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3955" : {
+      "info_box" : false,
+      "name" : "DESCRIPTION MISSING",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

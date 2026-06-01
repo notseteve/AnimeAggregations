@@ -43,12 +43,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.91,
-      "total" : 336
+      "rating" : 4.9,
+      "total" : 338
     },
     "TEMPORARY" : {
-      "rating" : 6.07,
-      "total" : 337
+      "rating" : 6.06,
+      "total" : 339
     }
   },
   "related" : {
@@ -59,7 +59,9 @@
     "ANIME_NFO" : [ "3056,jwkugq" ],
     "ANISON" : [ "2997" ],
     "ANN" : [ "6964" ],
+    "IMDB" : [ "tt2443698" ],
     "MAL" : [ "3518" ],
+    "TMDB" : [ "movie/305896" ],
     "WEBSITE" : [ "http://www.tamurashigeru.com/imagebook5/gingadvd.html" ]
   },
   "similar" : {
@@ -78,6 +80,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "1032" : {
+      "info_box" : false,
+      "name" : "fishing",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "1973" : {
       "info_box" : false,
       "name" : "cooking",
@@ -85,6 +95,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2607" : {
       "info_box" : false,
@@ -96,6 +113,14 @@
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2616" : {
+      "info_box" : true,
+      "name" : "mina",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -124,10 +149,26 @@
       "verified" : false,
       "weight" : 200
     },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3234" : {
       "info_box" : false,
       "name" : "space is an ocean",
       "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3792" : {
+      "info_box" : false,
+      "name" : "iyashi-kei",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

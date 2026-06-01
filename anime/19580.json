@@ -6,6 +6,10 @@
       "name" : "Botan",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154834,
+      "name" : "Dungeon Master",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 134428,
       "name" : "Fia",
       "type" : "CHARACTER"
@@ -22,6 +26,10 @@
       "name" : "Hajimari no Kaichou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154901,
+      "name" : "Hayachi",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 149487,
       "name" : "Hoxie",
       "type" : "CHARACTER"
@@ -30,20 +38,44 @@
       "name" : "Inuiwayama no Kaichou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154900,
+      "name" : "Jessica",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 133663,
       "name" : "Karios",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 150534,
+      "name" : "Kayolings",
       "type" : "CHARACTER"
     }, {
       "character_id" : 150295,
       "name" : "Kuroyata",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 134001,
+      "name" : "May",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 135394,
+      "name" : "Meifu no Ou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 150294,
       "name" : "Meiro no Kaichou",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 154898,
+      "name" : "Moeder",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 133661,
       "name" : "Munami",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133662,
+      "name" : "Okami-san",
       "type" : "CHARACTER"
     }, {
       "character_id" : 149488,
@@ -56,6 +88,10 @@
     }, {
       "character_id" : 134002,
       "name" : "Shirley",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154899,
+      "name" : "Steck",
       "type" : "CHARACTER"
     }, {
       "character_id" : 133660,
@@ -204,6 +240,7 @@
     } ]
   },
   "description" : "* Based on an isekai fantasy light novel written by http://anidb.net/cr68410 [Hirukuma] and illustrated by http://anidb.net/cr68412 [Katou Itsuwa].",
+  "end_date" : "2026-06-17",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-01",
@@ -212,7 +249,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.35,
+        "rating" : 4.33,
         "total" : 3
       },
       "recap" : false,
@@ -221,7 +258,7 @@
       },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Each to Their Own Story"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Sorezore no Monogatari e"
@@ -236,16 +273,16 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.35,
+        "rating" : 4.33,
         "total" : 3
       },
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 2"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kai no Jidouhanbaiki"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Clam and the Vending Machine"
       }, {
         "language" : "JAPANESE",
         "title" : "貝と自動販売機"
@@ -257,13 +294,13 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.01,
+        "rating" : 7.0,
         "total" : 3
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "A Stay in Enemy Territory"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Tekichi Taizai"
@@ -278,16 +315,16 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.67,
+        "rating" : 5.66,
         "total" : 3
       },
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 4"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Kunan wa Tsuzuku yo Dokomademo"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Troubles Will Continue Forever"
       }, {
         "language" : "JAPANESE",
         "title" : "苦難は続くよどこまでも"
@@ -299,13 +336,13 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.35,
+        "rating" : 4.33,
         "total" : 3
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Another Uproar"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Souran Futatabi"
@@ -319,10 +356,20 @@
       "episode_id" : 310833,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 4.33,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kinou no Teki wa Kyou no"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Yesterday`s Enemies Are Today`s..."
+      }, {
+        "language" : "JAPANESE",
+        "title" : "昨日の敵は今日の"
       } ],
       "type" : "REGULAR"
     }, {
@@ -330,10 +377,20 @@
       "episode_id" : 310834,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 7.0,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 7"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Owari no Hajimari"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "終わりの始まり"
       } ],
       "type" : "REGULAR"
     }, {
@@ -341,10 +398,64 @@
       "episode_id" : 310835,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 5.63,
+        "total" : 3
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Deshi Toshite"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "弟子として"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-27",
+      "episode_id" : 311655,
+      "length" : 25,
+      "number" : 9,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-03",
+      "episode_id" : 311656,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-10",
+      "episode_id" : 311657,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-17",
+      "episode_id" : 311658,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -374,12 +485,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.35,
-      "total" : 15
+      "rating" : 2.5,
+      "total" : 16
     },
     "TEMPORARY" : {
-      "rating" : 4.56,
-      "total" : 15
+      "rating" : 4.65,
+      "total" : 16
     }
   },
   "related" : {
@@ -426,6 +537,10 @@
     "title" : "自動販売機に生まれ変わった俺は迷宮を彷徨う3rd season",
     "type" : "OFFICIAL"
   }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "转生成自动贩卖机的我今天也在迷宫徘徊 第三季",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "俺自販機3",
     "type" : "SHORT"
@@ -436,6 +551,10 @@
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S3",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

@@ -1,6 +1,31 @@
 {
   "anime_id" : 13226,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 154869,
+      "name" : "Kunikida Kanji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154868,
+      "name" : "Saitou Youichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154866,
+      "name" : "Shiba Shigeo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154867,
+      "name" : "Terada Kurumi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154870,
+      "name" : "Yasui Koutarou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154872,
+      "name" : "AV-98 Plus Ingram",
+      "type" : "MECH"
+    } ],
     "MAIN" : [ {
       "character_id" : 153201,
       "name" : "Atori Kippei",
@@ -8,6 +33,27 @@
     }, {
       "character_id" : 153200,
       "name" : "Kuga Towa",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 154865,
+      "name" : "Hazama Akihiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154862,
+      "name" : "Hirata Saki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154861,
+      "name" : "Saeki Kimika",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154864,
+      "name" : "Yanai Yuuta",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154863,
+      "name" : "Yuzuki Hachikuma",
       "type" : "CHARACTER"
     } ]
   },
@@ -77,16 +123,25 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "TEMPORARY" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
+  },
   "related" : {
     "OTHER" : [ 1518 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "365175", "404169", "404170" ],
+    "ANISON" : [ "26436" ],
     "ANN" : [ "33589" ],
     "MAL" : [ "59889" ],
     "SYOBOI" : [ "7808" ],
     "TWITTER" : [ "patlabor0810" ],
-    "WEBSITE" : [ "https://ezy.patlabor.tokyo/" ]
+    "WEBSITE" : [ "https://ezy.patlabor.tokyo/" ],
+    "WIKIPEDIA_EN" : [ "Patlabor" ],
+    "WIKIPEDIA_JP" : [ "機動警察パトレイバー" ]
   },
   "start_date" : "2026-05-15",
   "tags" : {

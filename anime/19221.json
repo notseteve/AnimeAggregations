@@ -105,11 +105,12 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "end_date" : "2026-09-11",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-24",
       "episode_id" : 304175,
-      "length" : 0,
+      "length" : 120,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
@@ -117,12 +118,26 @@
         "title" : "Movie 1"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-11",
+      "episode_id" : 310974,
+      "length" : 0,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Movie 2"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "related" : {
+    "FULL_STORY" : [ 14935 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "403061" ],
     "ANN" : [ "35181" ],
-    "MAL" : [ "61230" ],
+    "MAL" : [ "61230", "64019" ],
     "TWITTER" : [ "anime_eupho" ],
     "WEBSITE" : [ "https://anime-eupho.com/" ],
     "WIKIPEDIA_EN" : [ "Sound!_Euphonium" ],

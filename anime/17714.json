@@ -207,12 +207,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.62,
-      "total" : 15
+      "rating" : 4.55,
+      "total" : 16
     },
     "TEMPORARY" : {
-      "rating" : 5.03,
-      "total" : 16
+      "rating" : 4.97,
+      "total" : 17
     }
   },
   "resources" : {
@@ -221,10 +221,88 @@
     "BILI_BILI" : [ "bangumi/media/md28230733" ],
     "DOUBAN" : [ "35268307" ],
     "MAL" : [ "51549" ],
-    "STREAM" : [ "https://www.bilibili.tv/en/media/1063023" ]
+    "STREAM" : [ "https://www.bilibili.tv/en/media/1063023" ],
+    "TMDB" : [ "tv/204992" ]
   },
   "start_date" : "2022-11-02",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2641" : {
+      "info_box" : true,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "4616" : {
+      "info_box" : false,
+      "name" : "based on real events",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4665" : {
+      "info_box" : false,
+      "name" : "propaganda",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4814" : {
+      "info_box" : false,
+      "name" : "biographical film",
+      "parent_tag_id" : 4616,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6152" : {
       "info_box" : false,
       "name" : "Chinese production",

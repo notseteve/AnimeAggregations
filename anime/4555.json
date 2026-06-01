@@ -86,7 +86,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.65,
+        "rating" : 5.66,
         "total" : 6
       },
       "recap" : false,
@@ -95,7 +95,7 @@
         "title" : "L`hataraki-man donna"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Onna no Hataraki-man"
+        "title" : "Onna no Hataraki Man"
       }, {
         "language" : "ENGLISH",
         "title" : "The Female Hataraki Man"
@@ -146,7 +146,7 @@
         "title" : "Ramen Man"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
-        "title" : "Ramen-man"
+        "title" : "Ramen Man"
       }, {
         "language" : "JAPANESE",
         "title" : "ラーメンマン"
@@ -381,7 +381,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.13,
-      "total" : 1132
+      "total" : 1133
     },
     "REVIEW" : {
       "rating" : 6.41,
@@ -389,7 +389,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.1,
-      "total" : 1138
+      "total" : 1139
     }
   },
   "resources" : {
@@ -417,6 +417,13 @@
       "info_box" : true,
       "name" : "seinen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -503,6 +510,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2790" : {
       "info_box" : false,
       "name" : "plot continuity",
@@ -519,6 +534,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "2816" : {
+      "info_box" : false,
+      "name" : "sexual fantasies",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2817" : {
+      "info_box" : false,
+      "name" : "skimpy clothing",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2826" : {
+      "info_box" : false,
+      "name" : "pantsu",
+      "parent_tag_id" : 2856,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2834" : {
       "info_box" : false,
       "name" : "Asia",
@@ -534,6 +573,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2856" : {
+      "info_box" : false,
+      "name" : "ecchi",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2858" : {
       "info_box" : false,

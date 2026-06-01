@@ -168,7 +168,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.62,
+        "rating" : 3.61,
         "total" : 3
       },
       "recap" : false,
@@ -212,7 +212,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.13,
+        "rating" : 5.12,
         "total" : 2
       },
       "recap" : false,
@@ -234,8 +234,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.13,
-        "total" : 2
+        "rating" : 4.67,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -256,8 +256,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.04,
-        "total" : 2
+        "rating" : 2.42,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -278,7 +278,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.74,
+        "rating" : 4.73,
         "total" : 2
       },
       "recap" : false,
@@ -300,7 +300,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.13,
+        "rating" : 5.12,
         "total" : 2
       },
       "recap" : false,
@@ -344,7 +344,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.13,
+        "rating" : 5.12,
         "total" : 2
       },
       "recap" : false,
@@ -366,7 +366,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.13,
+        "rating" : 5.12,
         "total" : 2
       },
       "recap" : false,
@@ -388,7 +388,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.13,
+        "rating" : 5.12,
         "total" : 2
       },
       "recap" : false,
@@ -626,12 +626,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.05,
-      "total" : 201
+      "rating" : 4.01,
+      "total" : 205
     },
     "TEMPORARY" : {
-      "rating" : 5.9,
-      "total" : 203
+      "rating" : 5.88,
+      "total" : 207
     }
   },
   "related" : {
@@ -678,6 +678,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1876" : {
       "info_box" : false,
       "name" : "musical band",
@@ -721,6 +729,13 @@
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -914,17 +929,41 @@
       "weight" : 100
     },
     "2846" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "science fiction",
       "parent_tag_id" : 7050,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 400
     },
     "2849" : {
       "info_box" : false,
       "name" : "fantasy",
       "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
@@ -941,6 +980,14 @@
       "info_box" : false,
       "name" : "faceless alien invasion",
       "parent_tag_id" : 4831,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3421" : {
+      "info_box" : false,
+      "name" : "aviation",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -973,6 +1020,22 @@
       "info_box" : false,
       "name" : "predominantly female cast",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4498" : {
+      "info_box" : false,
+      "name" : "heart-warming",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4606" : {
+      "info_box" : false,
+      "name" : "slide show animation",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1022,6 +1085,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7146" : {
+      "info_box" : false,
+      "name" : "cute girls doing cute things",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "7885" : {
       "info_box" : false,

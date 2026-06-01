@@ -276,7 +276,7 @@
       "length" : 50,
       "number" : 2,
       "rating" : {
-        "rating" : 4.42,
+        "rating" : 4.43,
         "total" : 1
       },
       "recap" : true,
@@ -330,11 +330,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.72,
-      "total" : 294
+      "total" : 297
     },
     "TEMPORARY" : {
       "rating" : 6.23,
-      "total" : 296
+      "total" : 299
     }
   },
   "related" : {
@@ -372,6 +372,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 300
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2605" : {
       "info_box" : false,
@@ -464,6 +471,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2800" : {
       "info_box" : true,
       "name" : "game",
@@ -512,6 +527,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3411" : {
       "info_box" : false,
       "name" : "fighting",
@@ -552,6 +575,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4588" : {
+      "info_box" : false,
+      "name" : "fast-paced",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5851" : {
       "info_box" : false,
       "name" : "female protagonist",
@@ -587,6 +618,14 @@
       "info_box" : false,
       "name" : "tropes",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
