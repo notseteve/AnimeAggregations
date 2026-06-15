@@ -334,7 +334,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 4.2,
+        "rating" : 4.19,
         "total" : 2
       },
       "recap" : false,
@@ -384,7 +384,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 4.2,
+        "rating" : 4.19,
         "total" : 2
       },
       "recap" : false,
@@ -547,12 +547,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.84,
-      "total" : 448
+      "rating" : 3.85,
+      "total" : 450
     },
     "TEMPORARY" : {
       "rating" : 5.74,
-      "total" : 448
+      "total" : 450
     }
   },
   "resources" : {
@@ -571,9 +571,48 @@
   },
   "start_date" : "2021-03-29",
   "tags" : {
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1409" : {
+      "info_box" : true,
+      "name" : "vampire",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

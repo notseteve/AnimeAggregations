@@ -156,12 +156,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.43,
-      "total" : 179
+      "rating" : 3.45,
+      "total" : 180
     },
     "TEMPORARY" : {
       "rating" : 5.41,
-      "total" : 180
+      "total" : 181
     }
   },
   "resources" : {
@@ -185,6 +185,13 @@
     "2608" : {
       "info_box" : false,
       "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -282,6 +289,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2826" : {
       "info_box" : false,

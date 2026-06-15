@@ -94,7 +94,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.88,
+        "rating" : 6.87,
         "total" : 3
       },
       "recap" : false,
@@ -136,7 +136,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.88,
+        "rating" : 6.87,
         "total" : 3
       },
       "recap" : false,
@@ -283,7 +283,7 @@
       "length" : 30,
       "number" : 10,
       "rating" : {
-        "rating" : 6.88,
+        "rating" : 6.87,
         "total" : 3
       },
       "recap" : false,
@@ -304,7 +304,7 @@
       "length" : 30,
       "number" : 11,
       "rating" : {
-        "rating" : 4.38,
+        "rating" : 4.37,
         "total" : 2
       },
       "recap" : false,
@@ -346,7 +346,7 @@
       "length" : 30,
       "number" : 13,
       "rating" : {
-        "rating" : 6.74,
+        "rating" : 6.73,
         "total" : 2
       },
       "recap" : false,
@@ -367,7 +367,7 @@
       "length" : 30,
       "number" : 14,
       "rating" : {
-        "rating" : 5.54,
+        "rating" : 5.53,
         "total" : 2
       },
       "recap" : false,
@@ -388,7 +388,7 @@
       "length" : 25,
       "number" : 15,
       "rating" : {
-        "rating" : 4.38,
+        "rating" : 4.37,
         "total" : 2
       },
       "recap" : false,
@@ -409,7 +409,7 @@
       "length" : 25,
       "number" : 16,
       "rating" : {
-        "rating" : 5.54,
+        "rating" : 5.53,
         "total" : 2
       },
       "recap" : false,
@@ -430,7 +430,7 @@
       "length" : 25,
       "number" : 17,
       "rating" : {
-        "rating" : 4.38,
+        "rating" : 4.37,
         "total" : 2
       },
       "recap" : false,
@@ -451,7 +451,7 @@
       "length" : 30,
       "number" : 18,
       "rating" : {
-        "rating" : 4.38,
+        "rating" : 4.37,
         "total" : 2
       },
       "recap" : false,
@@ -472,7 +472,7 @@
       "length" : 30,
       "number" : 19,
       "rating" : {
-        "rating" : 4.38,
+        "rating" : 4.37,
         "total" : 2
       },
       "recap" : false,
@@ -493,7 +493,7 @@
       "length" : 40,
       "number" : 20,
       "rating" : {
-        "rating" : 5.35,
+        "rating" : 5.34,
         "total" : 1
       },
       "recap" : false,
@@ -538,12 +538,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.57,
-      "total" : 86
+      "rating" : 7.68,
+      "total" : 101
     },
     "TEMPORARY" : {
-      "rating" : 7.56,
-      "total" : 88
+      "rating" : 7.61,
+      "total" : 103
     }
   },
   "resources" : {
@@ -561,6 +561,14 @@
   },
   "start_date" : "2026-01-15",
   "tags" : {
+    "165" : {
+      "info_box" : false,
+      "name" : "painting",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "1049" : {
       "info_box" : false,
       "name" : "bicycling",
@@ -576,6 +584,100 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2666" : {
+      "info_box" : false,
+      "name" : "art school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2777" : {
+      "info_box" : false,
+      "name" : "London",
+      "parent_tag_id" : 2809,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2809" : {
+      "info_box" : false,
+      "name" : "United Kingdom",
+      "parent_tag_id" : 2831,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2831" : {
+      "info_box" : false,
+      "name" : "Europe",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2869" : {
+      "info_box" : true,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2881" : {
       "info_box" : false,
       "name" : "sports",
@@ -583,6 +685,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2883" : {
+      "info_box" : true,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2888" : {
+      "info_box" : true,
+      "name" : "coming of age",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "6173" : {
       "info_box" : false,

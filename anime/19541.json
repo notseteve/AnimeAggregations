@@ -29,10 +29,6 @@
     } ]
   },
   "creators" : {
-    "893" : [ {
-      "name" : "Magic Bus",
-      "type" : "ANIMATION_WORK"
-    } ],
     "1465" : [ {
       "name" : "Takahashi Natsuko",
       "type" : "SERIES_COMPOSITION"
@@ -41,6 +37,10 @@
       "name" : "Kitagawa Katsutoshi",
       "type" : "MUSIC"
     } ],
+    "11660" : [ {
+      "name" : "Yamauchi Daisuke",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "13079" : [ {
       "name" : "Senbo Ryousuke",
       "type" : "DIRECTOR"
@@ -48,6 +48,9 @@
     "18570" : [ {
       "name" : "Abe Chiaki",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Abe Chiaki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "43522" : [ {
       "name" : "EMT Squared",
@@ -63,6 +66,7 @@
     } ]
   },
   "description" : "What`s a maid to do when she finds herself suddenly stuck in Japan for a year? Eat, of course! Follow maid-in-training Tachibana Suzume as she tries all sorts of Japanese food, from sweets like taiyaki and melon bread to savory snacks like takoyaki and onigiri! Be warned, though-while Suzume sates her appetite through delicious treat after delicious treat, she might just end up whetting yours!\nSource: Kodansha",
+  "end_date" : "2026-06-14",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-01",
@@ -71,8 +75,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.21,
-        "total" : 4
+        "rating" : 4.1,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -96,8 +100,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.79,
-        "total" : 3
+        "rating" : 5.53,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -105,7 +109,7 @@
       },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Ice Cream / Tian Cha / Bolo / Kikyou Shingen Mochi / Melon Pan"
       }, {
         "language" : "JAPANESE",
         "title" : "アイスクリーム / 甜茶 / ボーロ / 桔梗信玄餅 / メロンパン"
@@ -113,11 +117,12 @@
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-04-12",
+      "description" : "Suzume visits her favorite prepared foods store, tries instant curry, and boils fava beans for the first time.\nSource: Crunchyroll",
       "episode_id" : 309527,
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.59,
+        "rating" : 6.52,
         "total" : 3
       },
       "recap" : false,
@@ -126,7 +131,10 @@
       },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Prepared Foods / Instant Curry / Fava Beans / Pickled Vegetables / Ion Supply Drink"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "惣菜 / レトルトカレー / そら豆 / 漬物 / イオン飲料"
       } ],
       "type" : "REGULAR"
     }, {
@@ -134,22 +142,198 @@
       "episode_id" : 309528,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 6.88,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375442JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Biscuits / Anpan / Lemonade / Fried Chicken"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ビスケット / あんぱん / レモネード / フライドチキン"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-04-26",
+      "episode_id" : 310788,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 6.59,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375443JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Soft Serve / Plum Wine / Barley Tea / Crepe / Raw Egg over Rice"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ソフトクリーム / 梅酒 / 麦茶 / クレープ / 卵かけご飯"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-03",
+      "episode_id" : 310789,
+      "length" : 25,
+      "number" : 6,
+      "rating" : {
+        "rating" : 7.13,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375444JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Eel / Cold Tofu / The Festival"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "うなぎ / 冷奴 / お祭り"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-10",
+      "episode_id" : 310790,
+      "length" : 25,
+      "number" : 7,
+      "rating" : {
+        "rating" : 7.65,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375445JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Shaved Ice / Cheesecake / Plain Hot Water / Cup Noodles"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-17",
+      "episode_id" : 310791,
+      "length" : 25,
+      "number" : 8,
+      "rating" : {
+        "rating" : 7.65,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375446JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "New Rice / Curry / Roasted Sweet Potato / Grapes / Menchi Katsu"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-24",
+      "episode_id" : 310864,
+      "length" : 25,
+      "number" : 9,
+      "rating" : {
+        "rating" : 9.14,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375447JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Miso Soup / Ginkgo / Halloween"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-05-31",
+      "episode_id" : 310865,
+      "length" : 25,
+      "number" : 10,
+      "rating" : {
+        "rating" : 8.75,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375448JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Thousand-Year Candy / Corn Soup / Hiking / Mikan / Meat Bun"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-07",
+      "episode_id" : 310866,
+      "length" : 25,
+      "number" : 11,
+      "rating" : {
+        "rating" : 8.13,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375449JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-14",
+      "episode_id" : 310867,
+      "length" : 25,
+      "number" : 12,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-04-01",
+      "episode_id" : 311804,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-04-01",
+      "episode_id" : 311805,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.35,
-      "total" : 15
+      "rating" : 3.99,
+      "total" : 29
     },
     "TEMPORARY" : {
-      "rating" : 4.46,
-      "total" : 15
+      "rating" : 5.22,
+      "total" : 29
     }
   },
   "resources" : {
@@ -163,6 +347,12 @@
     "WEBSITE" : [ "https://meitabe-anime.com/" ],
     "WIKIPEDIA_EN" : [ "The_Food_Diary_of_Miss_Maid" ],
     "WIKIPEDIA_JP" : [ "メイドさんは食べるだけ" ]
+  },
+  "similar" : {
+    "19083" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
   },
   "start_date" : "2026-04-01",
   "tags" : {
@@ -289,6 +479,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "6151" : {
       "info_box" : false,
       "name" : "technical aspects",
@@ -347,6 +545,14 @@
   }, {
     "language" : "JAPANESE",
     "title" : "メイドさんは食べるだけ",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "女仆小姐的贪吃日常",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "女僕小姐的貪吃日常",
     "type" : "OFFICIAL"
   }, {
     "language" : "KOREAN",

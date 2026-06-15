@@ -203,7 +203,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.79,
+        "rating" : 5.78,
         "total" : 7
       },
       "recap" : false,
@@ -227,7 +227,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.68,
+        "rating" : 4.66,
         "total" : 7
       },
       "recap" : false,
@@ -269,7 +269,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.66,
+        "rating" : 5.65,
         "total" : 6
       },
       "recap" : false,
@@ -290,7 +290,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.5,
+        "rating" : 3.49,
         "total" : 7
       },
       "recap" : false,
@@ -374,7 +374,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 3.85,
+        "rating" : 3.83,
         "total" : 4
       },
       "recap" : false,
@@ -395,7 +395,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 2.44,
+        "rating" : 2.43,
         "total" : 4
       },
       "recap" : false,
@@ -454,11 +454,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 2.49,
-      "total" : 486
+      "total" : 490
     },
     "TEMPORARY" : {
-      "rating" : 5.16,
-      "total" : 489
+      "rating" : 5.15,
+      "total" : 493
     }
   },
   "resources" : {
@@ -475,8 +475,8 @@
   },
   "similar" : {
     "18856" : {
-      "rating" : 4.285714285714286,
-      "total" : 7
+      "rating" : 3.75,
+      "total" : 8
     }
   },
   "start_date" : "2024-12-28",
@@ -500,6 +500,13 @@
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -632,6 +639,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

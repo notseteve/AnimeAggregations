@@ -10,24 +10,12 @@
       "name" : "Houjou Manaka",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 154820,
-      "name" : "Maehara Itsuki",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 154294,
-      "name" : "Maehara Masaki",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 154821,
       "name" : "Minato Kyouka",
       "type" : "CHARACTER"
     }, {
       "character_id" : 154683,
       "name" : "Nitori Sanae",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 154819,
-      "name" : "Seki Nozomu",
       "type" : "CHARACTER"
     }, {
       "character_id" : 154681,
@@ -52,8 +40,20 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 154820,
+      "name" : "Maehara Itsuki",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154294,
+      "name" : "Maehara Masaki",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 148393,
       "name" : "Nitta Nina",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154819,
+      "name" : "Seki Nozomu",
       "type" : "CHARACTER"
     } ]
   },
@@ -103,7 +103,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.64,
+        "rating" : 6.62,
         "total" : 5
       },
       "recap" : false,
@@ -128,7 +128,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.19,
+        "rating" : 6.17,
         "total" : 5
       },
       "recap" : false,
@@ -153,7 +153,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 9.17,
+        "rating" : 9.16,
         "total" : 5
       },
       "recap" : false,
@@ -177,7 +177,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.84,
+        "rating" : 6.82,
         "total" : 3
       },
       "recap" : false,
@@ -201,7 +201,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.44,
+        "rating" : 8.42,
         "total" : 4
       },
       "recap" : false,
@@ -225,8 +225,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.83,
-        "total" : 2
+        "rating" : 6.82,
+        "total" : 3
       },
       "recap" : false,
       "resources" : {
@@ -248,10 +248,23 @@
       "episode_id" : 310799,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 8.02,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375313JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "First Date with a Friend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tomodachi to no Hatsu Date"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "友達との初デート"
       } ],
       "type" : "REGULAR"
     }, {
@@ -259,10 +272,80 @@
       "episode_id" : 310800,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 8.61,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375314JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Family Sights"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kazoku no Fuukei"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "家族の風景"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-02",
+      "episode_id" : 311906,
+      "length" : 25,
+      "number" : 9,
+      "rating" : {
+        "rating" : 9.88,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375315JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kazoku no Fuukei Sono 2"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "家族の風景 その2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-09",
+      "episode_id" : 311907,
+      "length" : 25,
+      "number" : 10,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-16",
+      "episode_id" : 311908,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-23",
+      "episode_id" : 311909,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -281,12 +364,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.47,
-      "total" : 40
+      "rating" : 4.44,
+      "total" : 46
     },
     "TEMPORARY" : {
-      "rating" : 5.84,
-      "total" : 41
+      "rating" : 5.68,
+      "total" : 47
     }
   },
   "resources" : {

@@ -115,7 +115,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 9.69,
+        "rating" : 9.68,
         "total" : 3
       },
       "recap" : false,
@@ -137,7 +137,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 9.26,
+        "rating" : 9.25,
         "total" : 3
       },
       "recap" : false,
@@ -159,7 +159,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 9.01,
+        "rating" : 9.0,
         "total" : 3
       },
       "recap" : false,
@@ -220,6 +220,9 @@
         "total" : 2
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374566JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "An Observation Log of a Self-Proclaimed Villainess and the Resolution of the Matter."
@@ -231,10 +234,13 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.36,
+        "rating" : 8.35,
         "total" : 1
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374567JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "An Observation Log of a Self-Proclaimed Villainess and Hatred."
@@ -246,13 +252,16 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 9.18,
+        "rating" : 9.17,
         "total" : 1
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374568JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Observation Log of a Self-Proclaimed Villainess and Being Struck Speechless."
       } ],
       "type" : "REGULAR"
     }, {
@@ -260,10 +269,17 @@
       "episode_id" : 310890,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 5.54,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374569JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Observation Log of a Self-Proclaimed Villainess and a Doll."
       } ],
       "type" : "REGULAR"
     }, {
@@ -272,9 +288,12 @@
       "length" : 25,
       "number" : 10,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374570JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "An Observation Log of a Self-Proclaimed Villainess and Cecil Glo Alphasta."
       } ],
       "type" : "REGULAR"
     }, {
@@ -326,12 +345,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.19,
-      "total" : 34
+      "rating" : 6.26,
+      "total" : 38
     },
     "TEMPORARY" : {
-      "rating" : 6.35,
-      "total" : 34
+      "rating" : 6.36,
+      "total" : 38
     }
   },
   "resources" : {
@@ -348,9 +367,31 @@
   },
   "start_date" : "2026-04-03",
   "tags" : {
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2605" : {
       "info_box" : false,
       "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -366,6 +407,38 @@
       "info_box" : false,
       "name" : "parody",
       "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2778" : {
+      "info_box" : false,
+      "name" : "slow when it comes to love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2846" : {
+      "info_box" : false,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
@@ -426,10 +499,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "3314" : {
+      "info_box" : false,
+      "name" : "fate",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3683" : {
       "info_box" : false,
       "name" : "storytelling",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3805" : {
+      "info_box" : false,
+      "name" : "European stylised",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -458,6 +547,14 @@
       "verified" : false,
       "weight" : 400
     },
+    "4612" : {
+      "info_box" : false,
+      "name" : "Do Androids Dream of Electric Sheep?",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6075" : {
       "info_box" : false,
       "name" : "educational",
@@ -481,6 +578,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
@@ -488,6 +593,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "8173" : {
+      "info_box" : false,
+      "name" : "villainess",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     }
   },
   "titles" : [ {

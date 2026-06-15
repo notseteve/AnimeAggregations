@@ -342,8 +342,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.62,
-        "total" : 4
+        "rating" : 5.63,
+        "total" : 5
       },
       "recap" : false,
       "titles" : [ {
@@ -744,7 +744,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 8.59,
+        "rating" : 8.6,
         "total" : 1
       },
       "recap" : false,
@@ -1393,7 +1393,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 6.03,
-      "total" : 3043
+      "total" : 3049
     },
     "REVIEW" : {
       "rating" : 5.99,
@@ -1401,7 +1401,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.41,
-      "total" : 3075
+      "total" : 3081
     }
   },
   "resources" : {
@@ -1646,6 +1646,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2729" : {
+      "info_box" : false,
+      "name" : "BDSM",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2749" : {
       "info_box" : false,
       "name" : "nudity",
@@ -1734,6 +1742,22 @@
       "verified" : false,
       "weight" : 100
     },
+    "2844" : {
+      "info_box" : false,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2848" : {
+      "info_box" : false,
+      "name" : "pornography",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2849" : {
       "info_box" : true,
       "name" : "fantasy",
@@ -1782,12 +1806,36 @@
       "verified" : false,
       "weight" : 200
     },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2901" : {
+      "info_box" : false,
+      "name" : "bondage",
+      "parent_tag_id" : 2729,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2931" : {
       "info_box" : false,
       "name" : "unsorted",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2962" : {
+      "info_box" : false,
+      "name" : "neo-noir",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2983" : {
       "info_box" : false,

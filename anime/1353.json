@@ -144,12 +144,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.0,
-      "total" : 201
+      "rating" : 4.01,
+      "total" : 202
     },
     "TEMPORARY" : {
-      "rating" : 5.82,
-      "total" : 204
+      "rating" : 5.81,
+      "total" : 205
     }
   },
   "related" : {
@@ -161,7 +161,9 @@
     "ANISON" : [ "175" ],
     "ANN" : [ "97" ],
     "CRUNCHY_ROLL" : [ "GYNVD7Q0R" ],
+    "IMDB" : [ "tt0124971" ],
     "MAL" : [ "1344" ],
+    "TMDB" : [ "tv/67104" ],
     "WEBSITE" : [ "http://www.jcstaff.co.jp/sakuhin/nenpyo/1993/03_eightman/eightman.htm" ],
     "WIKIPEDIA_EN" : [ "8_Man" ],
     "WIKIPEDIA_JP" : [ "8マン" ]
@@ -359,9 +361,25 @@
       "verified" : false,
       "weight" : 600
     },
+    "5805" : {
+      "info_box" : false,
+      "name" : "post-credits scene",
+      "parent_tag_id" : 6148,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5939" : {
       "info_box" : false,
       "name" : "CAST MISSING",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6148" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO EPISODE",
       "parent_tag_id" : 30,
       "spoiler" : false,
       "verified" : false,
