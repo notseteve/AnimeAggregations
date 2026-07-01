@@ -71,7 +71,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.87,
+        "rating" : 5.8,
         "total" : 5
       },
       "recap" : false,
@@ -99,7 +99,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.03,
+        "rating" : 2.92,
         "total" : 3
       },
       "recap" : false,
@@ -127,7 +127,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.59,
+        "rating" : 6.5,
         "total" : 4
       },
       "recap" : false,
@@ -155,7 +155,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.27,
+        "rating" : 6.18,
         "total" : 2
       },
       "recap" : false,
@@ -183,7 +183,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.27,
+        "rating" : 6.18,
         "total" : 2
       },
       "recap" : false,
@@ -208,7 +208,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.49,
+        "rating" : 9.38,
         "total" : 1
       },
       "recap" : false,
@@ -233,7 +233,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.38,
+        "rating" : 8.24,
         "total" : 1
       },
       "recap" : false,
@@ -258,7 +258,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.38,
+        "rating" : 8.24,
         "total" : 1
       },
       "recap" : false,
@@ -283,7 +283,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.38,
+        "rating" : 8.24,
         "total" : 1
       },
       "recap" : false,
@@ -308,7 +308,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 8.38,
+        "rating" : 8.24,
         "total" : 1
       },
       "recap" : false,
@@ -333,7 +333,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 8.38,
+        "rating" : 8.24,
         "total" : 1
       },
       "recap" : false,
@@ -358,7 +358,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 3.29,
+        "rating" : 3.22,
         "total" : 2
       },
       "recap" : false,
@@ -383,7 +383,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 4.97,
+        "rating" : 4.98,
         "total" : 1
       },
       "recap" : false,
@@ -398,7 +398,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 4.97,
+        "rating" : 4.98,
         "total" : 1
       },
       "recap" : false,
@@ -412,11 +412,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.31,
-      "total" : 155
+      "total" : 157
     },
     "TEMPORARY" : {
-      "rating" : 5.45,
-      "total" : 157
+      "rating" : 5.46,
+      "total" : 159
     }
   },
   "resources" : {
@@ -433,6 +433,13 @@
   },
   "start_date" : "2025-06-28",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -455,10 +462,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8263" : {
+      "info_box" : false,
+      "name" : "delinquance",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -103,32 +103,72 @@
     "REGULAR" : [ {
       "air_date" : "2025-10-24",
       "episode_id" : 295825,
-      "length" : 120,
+      "length" : 125,
       "number" : 1,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMEE00364754JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Complete Movie"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "episode_id" : 312464,
+      "length" : 1,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Manners Movie"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ouenjouei Manner Eizou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "応援上映マナー映像"
+      } ],
+      "type" : "SPECIAL"
+    }, {
+      "air_date" : "2025-10-24",
+      "episode_id" : 312465,
+      "length" : 8,
+      "number" : 2,
+      "rating" : {
+        "rating" : 9.49,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "SPECIAL"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.81,
-      "total" : 8
+      "rating" : 7.45,
+      "total" : 18
     },
     "TEMPORARY" : {
-      "rating" : 6.62,
-      "total" : 8
+      "rating" : 6.8,
+      "total" : 18
     }
   },
   "related" : {
-    "OTHER" : [ 15028 ]
+    "PREQUEL" : [ 15028 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "399228" ],
     "ANN" : [ "34508" ],
+    "CRUNCHY_ROLL" : [ "GMTE00364754" ],
     "MAL" : [ "50159" ],
     "SYOBOI" : [ "7544" ],
     "TMDB" : [ "tv/82822" ],
@@ -166,6 +206,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Zombie Land Saga Movie",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Zombieland Saga Movie - Yumeginga Paradise",
     "type" : "SYNONYM"
   } ],
   "type" : "MOVIE",

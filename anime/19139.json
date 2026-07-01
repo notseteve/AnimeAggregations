@@ -1,6 +1,19 @@
 {
   "anime_id" : 19139,
   "characters" : {
+    "CAMEO" : [ {
+      "character_id" : 153059,
+      "name" : "Satou Aoi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 149504,
+      "name" : "Suzuki Miyu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153064,
+      "name" : "Watanabe Manami",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 151366,
       "name" : "Amamiya Minato",
@@ -110,7 +123,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.54,
+        "rating" : 5.53,
         "total" : 2
       },
       "recap" : false,
@@ -182,7 +195,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.7,
+        "rating" : 7.69,
         "total" : 1
       },
       "recap" : false,
@@ -262,11 +275,11 @@
         "language" : "GERMAN",
         "title" : "Auf Augenhöhe"
       }, {
-        "language" : "ENGLISH",
-        "title" : "Episode 8"
-      }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Hitoshinami"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "On Equal Footing"
       }, {
         "language" : "JAPANESE",
         "title" : "等し並み"
@@ -277,10 +290,23 @@
       "episode_id" : 311703,
       "length" : 25,
       "number" : 9,
+      "rating" : {
+        "rating" : 7.69,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Jikaku"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Selbstbewusstsein"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Self-awareness"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "自覚"
       } ],
       "type" : "REGULAR"
     }, {
@@ -288,10 +314,23 @@
       "episode_id" : 311704,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 9.51,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Frühling"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Haru"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Spring"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "春"
       } ],
       "type" : "REGULAR"
     }, {
@@ -299,10 +338,23 @@
       "episode_id" : 311705,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 9.51,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Inversion"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Inversion"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tenkai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "転回"
       } ],
       "type" : "REGULAR"
     }, {
@@ -310,22 +362,46 @@
       "episode_id" : 311706,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 7.69,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Donner"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hekireki"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Thunder"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "霹靂"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-06-25",
+      "episode_id" : 312742,
+      "length" : 25,
+      "number" : 13,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Episode 13"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.79,
-      "total" : 42
+      "rating" : 7.65,
+      "total" : 55
     },
     "TEMPORARY" : {
       "rating" : 7.59,
-      "total" : 42
+      "total" : 55
     }
   },
   "resources" : {
@@ -340,8 +416,37 @@
     "WIKIPEDIA_EN" : [ "The_Ramparts_of_Ice" ],
     "WIKIPEDIA_JP" : [ "氷の城壁" ]
   },
+  "similar" : {
+    "19010" : {
+      "rating" : 10.0,
+      "total" : 2
+    }
+  },
   "start_date" : "2026-04-02",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "215" : {
+      "info_box" : false,
+      "name" : "lonely",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1492" : {
+      "info_box" : false,
+      "name" : "mask",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2043" : {
       "info_box" : false,
       "name" : "high school",
@@ -450,6 +555,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "3741" : {
+      "info_box" : false,
+      "name" : "bullying",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -473,6 +594,10 @@
   }, {
     "language" : "CZECH",
     "title" : "Ledové hradby",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "PORTUGUESE_BRAZIL",
+    "title" : "Parede de Gelo",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

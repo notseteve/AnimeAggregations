@@ -50,7 +50,7 @@
       "length" : 65,
       "number" : 1,
       "rating" : {
-        "rating" : 4.96,
+        "rating" : 4.98,
         "total" : 2
       },
       "recap" : false,
@@ -90,7 +90,7 @@
     "SYOBOI" : [ "2642" ],
     "WEBSITE" : [ "http://www.junod.jp/" ],
     "WEBSITE_EN" : [ "http://junod.biz/" ],
-    "WIKIPEDIA_JP" : [ "ジュノー_(アニメ映画)" ]
+    "WIKIPEDIA_JP" : [ "ジュノー_(2010年の映画)" ]
   },
   "similar" : {
     "3620" : {
@@ -124,9 +124,37 @@
       "verified" : false,
       "weight" : 100
     },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -157,6 +185,14 @@
       "info_box" : false,
       "name" : "place",
       "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2616" : {
+      "info_box" : true,
+      "name" : "mina",
+      "parent_tag_id" : 2606,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -233,6 +269,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2797" : {
+      "info_box" : true,
+      "name" : "new",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2807" : {
       "info_box" : false,
       "name" : "France",
@@ -271,7 +323,7 @@
       "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 200
+      "weight" : 300
     },
     "2835" : {
       "info_box" : false,
@@ -285,6 +337,22 @@
       "info_box" : false,
       "name" : "science fiction",
       "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2864" : {
+      "info_box" : false,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2867" : {
+      "info_box" : false,
+      "name" : "politics",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
@@ -321,6 +389,14 @@
       "verified" : false,
       "weight" : 500
     },
+    "2876" : {
+      "info_box" : false,
+      "name" : "religion",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2887" : {
       "info_box" : true,
       "name" : "tragedy",
@@ -353,10 +429,58 @@
       "verified" : false,
       "weight" : 100
     },
+    "2952" : {
+      "info_box" : false,
+      "name" : "rotten world",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "3028" : {
       "info_box" : false,
       "name" : "real-world location",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3170" : {
+      "info_box" : false,
+      "name" : "occupation and career",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3217" : {
+      "info_box" : false,
+      "name" : "working life",
+      "parent_tag_id" : 2864,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3269" : {
+      "info_box" : false,
+      "name" : "genocide",
+      "parent_tag_id" : 4316,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3374" : {
+      "info_box" : false,
+      "name" : "civil war",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -377,6 +501,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3934" : {
+      "info_box" : false,
+      "name" : "non-linear",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4244" : {
       "info_box" : false,
       "name" : "healthcare and medicine",
@@ -388,6 +520,38 @@
     "4277" : {
       "info_box" : false,
       "name" : "nuclear weapons",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4278" : {
+      "info_box" : false,
+      "name" : "stand-alone movie",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4302" : {
+      "info_box" : false,
+      "name" : "Christianity",
+      "parent_tag_id" : 2876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4316" : {
+      "info_box" : false,
+      "name" : "murder",
+      "parent_tag_id" : 6242,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4342" : {
+      "info_box" : false,
+      "name" : "large-scale war",
       "parent_tag_id" : 2925,
       "spoiler" : false,
       "verified" : false,
@@ -409,6 +573,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "4606" : {
+      "info_box" : false,
+      "name" : "slide show animation",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4616" : {
       "info_box" : false,
       "name" : "based on real events",
@@ -425,6 +613,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "4814" : {
+      "info_box" : false,
+      "name" : "biographical film",
+      "parent_tag_id" : 4616,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5111" : {
       "info_box" : false,
       "name" : "Hiroshima",
@@ -433,10 +629,50 @@
       "verified" : false,
       "weight" : 600
     },
+    "5150" : {
+      "info_box" : false,
+      "name" : "asymmetric warfare",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5227" : {
+      "info_box" : false,
+      "name" : "alternating animation style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5547" : {
+      "info_box" : false,
+      "name" : "frame story",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5816" : {
+      "info_box" : false,
+      "name" : "massacre",
+      "parent_tag_id" : 4316,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5980" : {
       "info_box" : false,
       "name" : "live-action imagery",
       "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6075" : {
+      "info_box" : false,
+      "name" : "educational",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -451,6 +687,30 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6242" : {
+      "info_box" : false,
+      "name" : "death",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -470,6 +730,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6349" : {
+      "info_box" : false,
+      "name" : "multi-segment episodes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6623" : {
+      "info_box" : false,
+      "name" : "tank warfare",
+      "parent_tag_id" : 36,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7050" : {
       "info_box" : false,

@@ -215,7 +215,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.96,
+        "rating" : 6.95,
         "total" : 5
       },
       "recap" : false,
@@ -242,7 +242,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.91,
+        "rating" : 5.9,
         "total" : 5
       },
       "recap" : false,
@@ -269,7 +269,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 4.37,
+        "rating" : 4.36,
         "total" : 5
       },
       "recap" : false,
@@ -296,7 +296,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.15,
+        "rating" : 6.14,
         "total" : 5
       },
       "recap" : false,
@@ -481,12 +481,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.51,
-      "total" : 613
+      "rating" : 5.47,
+      "total" : 619
     },
     "TEMPORARY" : {
       "rating" : 6.72,
-      "total" : 616
+      "total" : 621
     }
   },
   "resources" : {
@@ -517,9 +517,31 @@
   },
   "start_date" : "2024-06-23",
   "tags" : {
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -531,6 +553,46 @@
       "verified" : false,
       "weight" : 0
     },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2676" : {
+      "info_box" : false,
+      "name" : "Tokyo",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -538,6 +600,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2858" : {
       "info_box" : true,
@@ -547,6 +617,14 @@
       "verified" : false,
       "weight" : 500
     },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "3092" : {
       "info_box" : false,
       "name" : "important haircut",
@@ -554,6 +632,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "6151" : {
       "info_box" : false,
@@ -565,6 +651,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

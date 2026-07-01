@@ -79,7 +79,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.32,
+        "rating" : 7.31,
         "total" : 1
       },
       "recap" : false,
@@ -100,7 +100,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.32,
+        "rating" : 7.31,
         "total" : 1
       },
       "recap" : false,
@@ -121,7 +121,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.32,
+        "rating" : 7.31,
         "total" : 1
       },
       "recap" : false,
@@ -142,7 +142,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 7.32,
+        "rating" : 7.31,
         "total" : 1
       },
       "recap" : false,
@@ -163,7 +163,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.32,
+        "rating" : 7.31,
         "total" : 1
       },
       "recap" : false,
@@ -184,7 +184,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.32,
+        "rating" : 7.31,
         "total" : 1
       },
       "recap" : false,
@@ -205,7 +205,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.32,
+        "rating" : 7.31,
         "total" : 1
       },
       "recap" : false,
@@ -226,7 +226,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.32,
+        "rating" : 7.31,
         "total" : 1
       },
       "recap" : false,
@@ -247,7 +247,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.32,
+        "rating" : 7.31,
         "total" : 1
       },
       "recap" : false,
@@ -265,7 +265,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.32,
+        "rating" : 7.31,
         "total" : 1
       },
       "recap" : false,
@@ -279,10 +279,14 @@
       "episode_id" : 311797,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 7.31,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "It Was All a Lie"
       } ],
       "type" : "REGULAR"
     }, {
@@ -293,19 +297,19 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Kirio Fan Club"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.2,
-      "total" : 20
+      "rating" : 4.58,
+      "total" : 54
     },
     "TEMPORARY" : {
-      "rating" : 4.77,
-      "total" : 20
+      "rating" : 5.6,
+      "total" : 54
     }
   },
   "resources" : {
@@ -390,6 +394,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2786" : {
+      "info_box" : true,
+      "name" : "love polygon",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2834" : {
       "info_box" : false,
       "name" : "Asia",
@@ -406,6 +426,22 @@
       "verified" : false,
       "weight" : 500
     },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "2869" : {
       "info_box" : true,
       "name" : "school life",
@@ -413,6 +449,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "6088" : {
+      "info_box" : false,
+      "name" : "unrequited shoujo ai",
+      "parent_tag_id" : 2785,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6173" : {
       "info_box" : false,

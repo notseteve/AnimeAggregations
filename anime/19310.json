@@ -114,8 +114,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.79,
-        "total" : 7
+        "rating" : 3.85,
+        "total" : 8
       },
       "recap" : false,
       "resources" : {
@@ -139,8 +139,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.13,
-        "total" : 6
+        "rating" : 5.02,
+        "total" : 7
       },
       "recap" : false,
       "resources" : {
@@ -164,8 +164,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 4.25,
-        "total" : 5
+        "rating" : 4.27,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -189,8 +189,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.29,
-        "total" : 5
+        "rating" : 4.75,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -214,8 +214,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.3,
-        "total" : 5
+        "rating" : 4.76,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -239,8 +239,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.75,
-        "total" : 5
+        "rating" : 4.31,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -264,8 +264,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.29,
-        "total" : 4
+        "rating" : 5.41,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -289,8 +289,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 6.29,
-        "total" : 4
+        "rating" : 4.93,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -314,8 +314,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.33,
-        "total" : 5
+        "rating" : 4.39,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -339,8 +339,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 4.83,
-        "total" : 4
+        "rating" : 3.86,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -364,8 +364,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 4.3,
-        "total" : 4
+        "rating" : 3.48,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -389,8 +389,8 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 8.23,
-        "total" : 3
+        "rating" : 6.15,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -414,7 +414,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 5.82,
+        "rating" : 5.88,
         "total" : 2
       },
       "recap" : false,
@@ -429,7 +429,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 4.96,
+        "rating" : 4.97,
         "total" : 1
       },
       "recap" : false,
@@ -442,12 +442,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.44,
-      "total" : 195
+      "rating" : 2.45,
+      "total" : 247
     },
     "TEMPORARY" : {
-      "rating" : 5.01,
-      "total" : 198
+      "rating" : 5.06,
+      "total" : 251
     }
   },
   "resources" : {
@@ -465,9 +465,70 @@
   },
   "start_date" : "2026-01-09",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2782" : {
+      "info_box" : true,
+      "name" : "shoujo ai",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2844" : {
+      "info_box" : true,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -488,9 +549,73 @@
       "verified" : false,
       "weight" : 600
     },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4333" : {
+      "info_box" : false,
+      "name" : "predominantly female cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4614" : {
+      "info_box" : false,
+      "name" : "narration",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6083" : {
+      "info_box" : false,
+      "name" : "master-servant relationship",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

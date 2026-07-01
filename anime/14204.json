@@ -190,7 +190,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.04,
+        "rating" : 3.02,
         "total" : 2
       },
       "recap" : false,
@@ -212,7 +212,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.12,
+        "rating" : 5.1,
         "total" : 2
       },
       "recap" : false,
@@ -234,7 +234,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.67,
+        "rating" : 4.66,
         "total" : 3
       },
       "recap" : false,
@@ -256,7 +256,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 2.42,
+        "rating" : 2.4,
         "total" : 3
       },
       "recap" : false,
@@ -278,8 +278,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 4.73,
-        "total" : 2
+        "rating" : 4.41,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -300,8 +300,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.12,
-        "total" : 2
+        "rating" : 5.3,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -322,8 +322,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.12,
-        "total" : 2
+        "rating" : 5.98,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -344,8 +344,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 5.12,
-        "total" : 2
+        "rating" : 5.3,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -366,8 +366,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 5.12,
-        "total" : 2
+        "rating" : 5.3,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -388,8 +388,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.12,
-        "total" : 2
+        "rating" : 5.3,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -410,8 +410,8 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 6.91,
-        "total" : 1
+        "rating" : 6.28,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -627,11 +627,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 4.01,
-      "total" : 205
+      "total" : 207
     },
     "TEMPORARY" : {
-      "rating" : 5.88,
-      "total" : 207
+      "rating" : 5.89,
+      "total" : 209
     }
   },
   "related" : {
@@ -678,6 +678,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "362" : {
+      "info_box" : false,
+      "name" : "dancing",
+      "parent_tag_id" : 2793,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "1802" : {
       "info_box" : true,
       "name" : "seinen",
@@ -693,6 +701,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "1996" : {
+      "info_box" : false,
+      "name" : "air force",
+      "parent_tag_id" : 36,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2094" : {
       "info_box" : false,
@@ -725,6 +741,13 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2605" : {
       "info_box" : false,
@@ -790,7 +813,7 @@
       "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
     },
     "2630" : {
       "info_box" : false,
@@ -848,6 +871,22 @@
       "verified" : false,
       "weight" : 100
     },
+    "2749" : {
+      "info_box" : false,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2763" : {
       "info_box" : false,
       "name" : "Paris",
@@ -863,6 +902,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2777" : {
+      "info_box" : false,
+      "name" : "London",
+      "parent_tag_id" : 2809,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2791" : {
+      "info_box" : false,
+      "name" : "stereotypes",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2793" : {
+      "info_box" : false,
+      "name" : "performance",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2794" : {
       "info_box" : false,
@@ -896,6 +967,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2810" : {
+      "info_box" : false,
+      "name" : "Italy",
+      "parent_tag_id" : 2831,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2812" : {
       "info_box" : false,
       "name" : "United States",
@@ -924,6 +1003,14 @@
       "info_box" : false,
       "name" : "Asia",
       "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
@@ -968,6 +1055,14 @@
       "verified" : false,
       "weight" : 200
     },
+    "2874" : {
+      "info_box" : false,
+      "name" : "disaster",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
     "2883" : {
       "info_box" : false,
       "name" : "the arts",
@@ -975,6 +1070,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2925" : {
+      "info_box" : false,
+      "name" : "war",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "2968" : {
       "info_box" : false,
@@ -1016,6 +1127,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4167" : {
+      "info_box" : false,
+      "name" : "air combat",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "4333" : {
       "info_box" : false,
       "name" : "predominantly female cast",
@@ -1023,6 +1142,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4353" : {
+      "info_box" : false,
+      "name" : "Rome",
+      "parent_tag_id" : 2810,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "4498" : {
       "info_box" : false,

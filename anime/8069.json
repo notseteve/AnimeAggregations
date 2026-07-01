@@ -356,7 +356,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.63,
+        "rating" : 8.62,
         "total" : 40
       },
       "recap" : false,
@@ -821,7 +821,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 8.59,
-      "total" : 9727
+      "total" : 9744
     },
     "REVIEW" : {
       "rating" : 7.51,
@@ -829,7 +829,7 @@
     },
     "TEMPORARY" : {
       "rating" : 8.25,
-      "total" : 9834
+      "total" : 9852
     }
   },
   "related" : {
@@ -1248,7 +1248,7 @@
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 200
     },
     "2844" : {
       "info_box" : true,
@@ -1278,6 +1278,14 @@
       "info_box" : true,
       "name" : "horror",
       "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2852" : {
+      "info_box" : true,
+      "name" : "thriller",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 500

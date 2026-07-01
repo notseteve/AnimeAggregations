@@ -14,7 +14,7 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
-  "description" : "The story follows a young girl and her family as they get trapped in Manchuria during the Russo-Japanese War.",
+  "description" : "The story follows a young girl and her family as they get trapped in Manchuria during the Russo-Japanese War in 1945.",
   "end_date" : "1991-04-23",
   "episodes" : {
     "REGULAR" : [ {
@@ -33,17 +33,18 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.41,
-      "total" : 52
+      "total" : 53
     },
     "TEMPORARY" : {
-      "rating" : 4.76,
-      "total" : 52
+      "rating" : 4.75,
+      "total" : 53
     }
   },
   "resources" : {
     "ALL_CINEMA" : [ "235870" ],
     "ANISON" : [ "2783" ],
     "ANN" : [ "24082" ],
+    "IMDB" : [ "tt34676864" ],
     "MAL" : [ "18747" ]
   },
   "similar" : {
@@ -67,7 +68,7 @@
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 200
+      "weight" : 100
     },
     "1996" : {
       "info_box" : false,
@@ -149,7 +150,7 @@
       "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 200
+      "weight" : 100
     },
     "2625" : {
       "info_box" : false,
@@ -157,7 +158,7 @@
       "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 400
+      "weight" : 500
     },
     "2628" : {
       "info_box" : false,
@@ -173,15 +174,15 @@
       "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 500
     },
     "2641" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "historical",
       "parent_tag_id" : 2625,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 300
+      "weight" : 400
     },
     "2672" : {
       "info_box" : false,
@@ -189,7 +190,15 @@
       "parent_tag_id" : 2834,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 200
+      "weight" : 100
+    },
+    "2673" : {
+      "info_box" : false,
+      "name" : "Korea",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2674" : {
       "info_box" : false,
@@ -197,7 +206,7 @@
       "parent_tag_id" : 2834,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 300
+      "weight" : 500
     },
     "2691" : {
       "info_box" : true,
@@ -208,12 +217,12 @@
       "weight" : 400
     },
     "2750" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "violence",
       "parent_tag_id" : 2604,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 300
+      "weight" : 400
     },
     "2834" : {
       "info_box" : false,
@@ -221,7 +230,7 @@
       "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 500
     },
     "2841" : {
       "info_box" : false,
@@ -229,7 +238,15 @@
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 200
+      "weight" : 100
+    },
+    "2844" : {
+      "info_box" : false,
+      "name" : "angst",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2849" : {
       "info_box" : false,
@@ -238,6 +255,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2850" : {
+      "info_box" : false,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2871" : {
       "info_box" : false,
@@ -253,7 +278,7 @@
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 300
     },
     "2887" : {
       "info_box" : false,
@@ -279,6 +304,14 @@
       "verified" : false,
       "weight" : 100
     },
+    "3285" : {
+      "info_box" : false,
+      "name" : "journey",
+      "parent_tag_id" : 2850,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3818" : {
       "info_box" : false,
       "name" : "kids in war",
@@ -303,6 +336,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4342" : {
+      "info_box" : false,
+      "name" : "large-scale war",
+      "parent_tag_id" : 2925,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4565" : {
       "info_box" : false,
       "name" : "war-zone realities",
@@ -311,10 +352,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "4665" : {
       "info_box" : false,
       "name" : "propaganda",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5547" : {
+      "info_box" : false,
+      "name" : "frame story",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -350,6 +407,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6230" : {
       "info_box" : false,
       "name" : "cast",
@@ -373,6 +438,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7509" : {
+      "info_box" : false,
+      "name" : "fall of a country",
+      "parent_tag_id" : 2874,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
     },
     "7885" : {
       "info_box" : false,

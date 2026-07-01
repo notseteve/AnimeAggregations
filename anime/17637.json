@@ -204,7 +204,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.87,
+        "rating" : 5.88,
         "total" : 5
       },
       "recap" : false,
@@ -332,7 +332,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 5.82,
+        "rating" : 5.83,
         "total" : 4
       },
       "recap" : false,
@@ -700,12 +700,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.45,
-      "total" : 1260
+      "rating" : 6.42,
+      "total" : 1274
     },
     "TEMPORARY" : {
-      "rating" : 7.24,
-      "total" : 1267
+      "rating" : 7.23,
+      "total" : 1281
     }
   },
   "resources" : {
@@ -726,16 +726,16 @@
       "total" : 4
     },
     "8606" : {
-      "rating" : 3.333333333333333,
-      "total" : 3
+      "rating" : 2.5,
+      "total" : 4
     },
     "13345" : {
       "rating" : 7.727272727272727,
       "total" : 22
     },
     "16250" : {
-      "rating" : 6.25,
-      "total" : 16
+      "rating" : 6.470588235294118,
+      "total" : 17
     }
   },
   "start_date" : "2023-04-02",
@@ -744,6 +744,13 @@
       "info_box" : true,
       "name" : "shoujo",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -823,6 +830,22 @@
       "verified" : false,
       "weight" : 600
     },
+    "2778" : {
+      "info_box" : false,
+      "name" : "slow when it comes to love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -838,6 +861,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2858" : {
       "info_box" : true,
