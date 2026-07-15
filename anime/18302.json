@@ -74,6 +74,14 @@
       "name" : "Marthe",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 133230,
+      "name" : "Monika",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155138,
+      "name" : "Moritz",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 155082,
       "name" : "Nicola",
       "type" : "CHARACTER"
@@ -86,6 +94,10 @@
       "name" : "Norbert",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 155137,
+      "name" : "Oswald",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 154482,
       "name" : "Richarda",
       "type" : "CHARACTER"
@@ -96,6 +108,10 @@
     }, {
       "character_id" : 155085,
       "name" : "Rick",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 133233,
+      "name" : "Riko",
       "type" : "CHARACTER"
     }, {
       "character_id" : 109103,
@@ -229,6 +245,9 @@
     "63258" : [ {
       "name" : "Minowa Aiko",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Minowa Aiko",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
   "description" : "* Based on a fantasy light novel series written by http://anidb.net/cr57580 [Kazuki Miya] and illustrated by http://anidb.net/cr49612 [Shiina Yuu].\nFollowing a disastrous encounter with a noble, http://anidb.net/ch101309 [Myne] finally resolves to say goodbye to her family and friends in the lower city, changing her name to \"http://anidb.net/ch149538 [Rozemyne]\" and beginning her new life as the adopted daughter of Ehrenfest`s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple`s book room as a reward. If she could get her hands on those, she`d be able to read all sorts of precious books! Her name may have changed, but Rozemyne`s passion for books remains the same as she charges into a whole new world!\nSource: J-Novel Club",
@@ -240,7 +259,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.85,
+        "rating" : 7.84,
         "total" : 7
       },
       "recap" : false,
@@ -268,7 +287,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.18,
+        "rating" : 6.22,
         "total" : 7
       },
       "recap" : false,
@@ -296,7 +315,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.6,
+        "rating" : 6.58,
         "total" : 6
       },
       "recap" : false,
@@ -324,7 +343,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.83,
+        "rating" : 5.81,
         "total" : 6
       },
       "recap" : false,
@@ -352,7 +371,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 5.67,
+        "rating" : 5.65,
         "total" : 6
       },
       "recap" : false,
@@ -376,7 +395,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.63,
+        "rating" : 7.62,
         "total" : 7
       },
       "recap" : false,
@@ -400,7 +419,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 7.22,
+        "rating" : 7.21,
         "total" : 6
       },
       "recap" : false,
@@ -424,8 +443,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.0,
-        "total" : 4
+        "rating" : 7.87,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -448,8 +467,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 8.46,
-        "total" : 3
+        "rating" : 6.97,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -471,10 +490,17 @@
       "episode_id" : 308902,
       "length" : 25,
       "number" : 10,
+      "rating" : {
+        "rating" : 6.89,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375187JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "First Material Gathering"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Hajimete no Sozai Saishuu"
@@ -488,10 +514,23 @@
       "episode_id" : 308903,
       "length" : 25,
       "number" : 11,
+      "rating" : {
+        "rating" : 7.65,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375188JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gutenberg no Tsudoi"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "The Gathering of Gutenbergs"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "グーテンベルクの集い"
       } ],
       "type" : "REGULAR"
     }, {
@@ -499,22 +538,121 @@
       "episode_id" : 308904,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 6.56,
+        "total" : 5
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375189JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fuyu no Shakoukai to Ohirome"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Winter Social Season and Debut"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "冬の社交界とお披露目"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-11",
+      "episode_id" : 312735,
+      "length" : 25,
+      "number" : 13,
+      "rating" : {
+        "rating" : 6.71,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375190JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 13"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fuyu no Sozai Saishuu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "冬の素材採集"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-18",
+      "episode_id" : 312736,
+      "length" : 25,
+      "number" : 14,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Episode 14"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hasse e no Batsu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ハッセへの罰"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-25",
+      "episode_id" : 312737,
+      "length" : 25,
+      "number" : 15,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 15"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-01",
+      "episode_id" : 312738,
+      "length" : 25,
+      "number" : 16,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 16"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-04-04",
+      "episode_id" : 313174,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-04-04",
+      "episode_id" : 313175,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.47,
-      "total" : 59
+      "rating" : 7.12,
+      "total" : 75
     },
     "TEMPORARY" : {
-      "rating" : 7.56,
-      "total" : 59
+      "rating" : 7.4,
+      "total" : 75
     }
   },
   "related" : {
@@ -522,6 +660,7 @@
   },
   "resources" : {
     "ALL_CINEMA" : [ "401486" ],
+    "ANISON" : [ "26377" ],
     "ANN" : [ "30955" ],
     "CRUNCHY_ROLL" : [ "G6793XKZY" ],
     "MAL" : [ "57466" ],
@@ -529,7 +668,7 @@
     "TWITTER" : [ "anime_booklove" ],
     "WEBSITE" : [ "https://booklove-anime.jp/" ],
     "WIKIPEDIA_EN" : [ "Ascendance_of_a_Bookworm" ],
-    "WIKIPEDIA_JP" : [ "本好きの下剋上" ]
+    "WIKIPEDIA_JP" : [ "本好きの下剋上_(アニメ)" ]
   },
   "start_date" : "2026-04-04",
   "tags" : {

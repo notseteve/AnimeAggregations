@@ -1,5 +1,57 @@
 {
   "anime_id" : 19909,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 155677,
+      "name" : "Elsa Royus",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155684,
+      "name" : "Julius Royus",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 155675,
+      "name" : "Aleksis Josef Ralt",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155682,
+      "name" : "Hannes Eukrainen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155683,
+      "name" : "Jarmo Parnilla",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155676,
+      "name" : "Jere Ekrous",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155685,
+      "name" : "Lucas Eukrainen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155686,
+      "name" : "Rebeka Rikkonen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155679,
+      "name" : "Serafiina Parnilla",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155680,
+      "name" : "Sofia Eukrainen",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155678,
+      "name" : "Stim",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155681,
+      "name" : "Tanja",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "3501" : [ {
       "name" : "Konparu Tomoko",
@@ -30,10 +82,83 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "An arranged marriage. Two complete strangers. One adorable romance! When cheerful noblewoman Elsa is suddenly wed to the reserved duke-to-be Julius, neither expects their political marriage to spark something more. As awkward misunderstandings, sweet gestures, and growing feelings pile up, these newlyweds discover that falling in love might be the easiest—and hardest—part of married life.\nSource: Crunchyroll",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-07-05",
+      "description" : "Elsa, the daughter of an impoverished noble family, receives a letter of marriage proposal from Julius, the eldest son of the ducal house of Royas. Though she is bewildered by the offer, she accepts for the sake of her family. However, after meeting the handsome Julius for the first time on their wedding day, he coldly declares to her, \"I have absolutely no intention of ever loving you.\"\nSource: Crunchyroll",
+      "episode_id" : 312896,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.91,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378549JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Marriage Just for Show"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-12",
+      "episode_id" : 312897,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378550JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-19",
+      "episode_id" : 312898,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-26",
+      "episode_id" : 312899,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.89,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 3.37,
+      "total" : 8
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "404704" ],
+    "ANISON" : [ "26559" ],
     "ANN" : [ "38533" ],
+    "CRUNCHY_ROLL" : [ "GT00378118" ],
+    "MAL" : [ "63537" ],
     "SYOBOI" : [ "7898" ],
+    "TMDB" : [ "tv/315054" ],
     "TWITTER" : [ "kimiai_official" ],
     "WEBSITE" : [ "https://kimiai-anime.com/" ],
     "WIKIPEDIA_EN" : [ "The_Duke's_Son_Claims_He_Won't_Love_Me_yet_Showers_Me_with_Adoration" ]
@@ -61,6 +186,10 @@
     "title" : "\"Kimi o Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai Shite Kimasu",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "The Duke`s Son Claims He Won`t Love Me, But Showers Me with Adoration",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます",
     "type" : "OFFICIAL"
@@ -73,8 +202,8 @@
     "title" : "きみ愛",
     "type" : "SHORT"
   }, {
-    "language" : "ENGLISH",
-    "title" : "The Duke`s Son Claims He Won`t Love Me Yet Showers Me with Adoration",
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Kimiai (2026)",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

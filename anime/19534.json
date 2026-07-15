@@ -1,6 +1,19 @@
 {
   "anime_id" : 19534,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 155666,
+      "name" : "Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155667,
+      "name" : "Karyuudo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155665,
+      "name" : "Musuko",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 150369,
       "name" : "Alice Barnesio",
@@ -13,6 +26,10 @@
     "SECONDARY" : [ {
       "character_id" : 153601,
       "name" : "Krull",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155515,
+      "name" : "Menou Abrashar",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153604,
@@ -58,42 +75,91 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except http://anidb.net/ch150370 [Kagami Kouji], who is Level...999?! On a monster hunt, he meets http://anidb.net/ch150369 [Alice], the Demon King`s daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.\nSource: Crunchyroll",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-07-02",
       "episode_id" : 312912,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.05,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378843JAJP" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Aufbau der Welt"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "How the World Works"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Sekai no Shikomi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "世界の仕組み"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-02",
+      "episode_id" : 312913,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 3.8,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378844JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Saikou ni Baka Dakara"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Ultimate Idiot"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Weil er der größte Idiot ist"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "最高に馬鹿だから"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-07-09",
-      "episode_id" : 312913,
+      "episode_id" : 312914,
       "length" : 25,
-      "number" : 2,
+      "number" : 3,
+      "rating" : {
+        "rating" : 1.65,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378845JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Demon and Human Coexistence"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Die Koexistenz von Dämonen und Menschen"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mazoku to Ningen no Kyouzon"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "魔族と人間の共存"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-07-16",
-      "episode_id" : 312914,
-      "length" : 25,
-      "number" : 3,
-      "recap" : false,
-      "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 3"
-      } ],
-      "type" : "REGULAR"
-    }, {
-      "air_date" : "2026-07-23",
       "episode_id" : 312915,
       "length" : 25,
       "number" : 4,
@@ -103,13 +169,93 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-23",
+      "episode_id" : 313714,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-30",
+      "episode_id" : 313715,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-06",
+      "episode_id" : 313716,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-13",
+      "episode_id" : 313717,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-07-02",
+      "episode_id" : 313718,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-07-02",
+      "episode_id" : 313719,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.2,
+      "total" : 24
+    },
+    "TEMPORARY" : {
+      "rating" : 4.11,
+      "total" : 24
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "402010" ],
+    "ANISON" : [ "26549" ],
     "ANN" : [ "37557" ],
+    "CRUNCHY_ROLL" : [ "GT00371878" ],
     "MAL" : [ "62322" ],
     "SYOBOI" : [ "7899" ],
+    "TMDB" : [ "tv/298994" ],
     "TWITTER" : [ "lv999_anime" ],
     "WEBSITE" : [ "https://lv999-anime.com/" ],
     "WIKIPEDIA_EN" : [ "The_Villager_of_Level_999" ],

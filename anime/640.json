@@ -428,7 +428,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.57,
+        "rating" : 6.58,
         "total" : 8
       },
       "recap" : false,
@@ -568,7 +568,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 8.23,
+        "rating" : 8.24,
         "total" : 10
       },
       "recap" : false,
@@ -792,7 +792,7 @@
       "length" : 25,
       "number" : 20,
       "rating" : {
-        "rating" : 8.51,
+        "rating" : 8.52,
         "total" : 8
       },
       "recap" : false,
@@ -1207,7 +1207,7 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 7.14,
-      "total" : 7316
+      "total" : 7320
     },
     "REVIEW" : {
       "rating" : 7.43,
@@ -1215,7 +1215,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.92,
-      "total" : 7373
+      "total" : 7377
     }
   },
   "resources" : {
@@ -1297,6 +1297,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "36" : {
+      "info_box" : false,
+      "name" : "military",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "569" : {
       "info_box" : false,
@@ -1528,7 +1536,7 @@
       "parent_tag_id" : 2853,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 100
     },
     "2661" : {
       "info_box" : false,
@@ -1650,6 +1658,22 @@
       "verified" : false,
       "weight" : 200
     },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2874" : {
       "info_box" : false,
       "name" : "disaster",
@@ -1769,10 +1793,34 @@
       "verified" : false,
       "weight" : 0
     },
+    "3993" : {
+      "info_box" : false,
+      "name" : "kidnapping",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4022" : {
       "info_box" : false,
       "name" : "strong female lead",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4215" : {
+      "info_box" : false,
+      "name" : "daikaijuu",
+      "parent_tag_id" : 7050,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1801,6 +1849,22 @@
       "verified" : false,
       "weight" : 100
     },
+    "4383" : {
+      "info_box" : false,
+      "name" : "hostage situation",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4431" : {
+      "info_box" : false,
+      "name" : "love at first sight",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4479" : {
       "info_box" : false,
       "name" : "sense of foreboding",
@@ -1817,6 +1881,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4520" : {
+      "info_box" : false,
+      "name" : "betrayal",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "4521" : {
       "info_box" : false,
       "name" : "lost technology",
@@ -1829,6 +1901,22 @@
       "info_box" : false,
       "name" : "Do Androids Dream of Electric Sheep?",
       "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5459" : {
+      "info_box" : false,
+      "name" : "poverty",
+      "parent_tag_id" : 6243,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5792" : {
+      "info_box" : false,
+      "name" : "gangs",
+      "parent_tag_id" : 2872,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1919,6 +2007,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6243" : {
+      "info_box" : false,
+      "name" : "money",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6246" : {
       "info_box" : false,
       "name" : "ending",
@@ -1931,6 +2027,13 @@
       "info_box" : false,
       "name" : "speculative fiction",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7842" : {
+      "info_box" : false,
+      "name" : "fictional religion",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

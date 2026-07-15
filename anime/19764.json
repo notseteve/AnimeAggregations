@@ -13,6 +13,27 @@
       "character_id" : 153800,
       "name" : "Yamatagimadara",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 155354,
+      "name" : "Anemiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155355,
+      "name" : "Fudegi Naomichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155353,
+      "name" : "Hasegawa Amane",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155352,
+      "name" : "Irako Miwa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155351,
+      "name" : "Orochi",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -46,10 +67,81 @@
     } ]
   },
   "description" : "Two young children stand before the veil of life and death, and a many-armed terror opens a breach, stretches wide its many-fanged maw...and invites them in for a sleepover! And that`s not all, folks! Dara-san`s gonna have some fun in the sun at summer festivals, try toy-model making, and more! Somehow, an unknowable horror from beyond the black woods of untold history has ended up as the straight man in this silly spookfest!\nSource: Yen Press",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-07-02",
+      "episode_id" : 312844,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 3.93,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377935JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Mataragi Madara aus dem verbotenen Gebiet"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Yamatagi-Madara of the Accursed Land"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-09",
+      "episode_id" : 312845,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-16",
+      "episode_id" : 312846,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-23",
+      "episode_id" : 312847,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.19,
+      "total" : 16
+    },
+    "TEMPORARY" : {
+      "rating" : 5.53,
+      "total" : 16
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "403639" ],
+    "ANISON" : [ "26548" ],
     "ANN" : [ "38122" ],
+    "CRUNCHY_ROLL" : [ "GT00377933" ],
+    "MAL" : [ "63082" ],
     "SYOBOI" : [ "7900" ],
+    "TMDB" : [ "tv/312507" ],
     "TWITTER" : [ "darasan_anime" ],
     "WEBSITE" : [ "https://darasan-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Dara-san_of_Reiwa" ],
@@ -78,13 +170,13 @@
     "title" : "Reiwa no Dara-san",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Dara-san of the Reiwa Era",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "令和のダラさん",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Dara-san of Reiwa",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://darasan-anime.com/"

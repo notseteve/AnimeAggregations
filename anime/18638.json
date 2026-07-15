@@ -208,11 +208,11 @@
         "CRUNCHY_ROLL" : [ "GPWU8KD0V" ]
       },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 1"
-      }, {
         "language" : "GERMAN",
         "title" : "In die Zukunft"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Up Ahead"
       }, {
         "language" : "JAPANESE",
         "title" : "その先へ"
@@ -234,7 +234,7 @@
       },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "For the Team"
       }, {
         "language" : "GERMAN",
         "title" : "Für das Team"
@@ -261,7 +261,7 @@
         "title" : "Der Weg des Siegers"
       }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Path of the Victor"
       }, {
         "language" : "JAPANESE",
         "title" : "勝者の道"
@@ -281,11 +281,11 @@
         "CRUNCHY_ROLL" : [ "GE00375466JAJP" ]
       },
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 4"
-      }, {
         "language" : "GERMAN",
         "title" : "Knall"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Roar"
       }, {
         "language" : "JAPANESE",
         "title" : "豪音"
@@ -306,7 +306,7 @@
       },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Something Off"
       } ],
       "type" : "REGULAR"
     }, {
@@ -324,7 +324,7 @@
       },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Unveiling"
       } ],
       "type" : "REGULAR"
     }, {
@@ -342,7 +342,7 @@
       },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "What`s Built Up"
       } ],
       "type" : "REGULAR"
     }, {
@@ -360,7 +360,7 @@
       },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "The Mentality of the Ace"
       } ],
       "type" : "REGULAR"
     }, {
@@ -378,7 +378,7 @@
       },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "High Voltage"
       } ],
       "type" : "REGULAR"
     }, {
@@ -396,7 +396,7 @@
       },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "My Fight"
       } ],
       "type" : "REGULAR"
     }, {
@@ -419,6 +419,10 @@
       "episode_id" : 311881,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 2.65,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -430,6 +434,10 @@
       "episode_id" : 312568,
       "length" : 25,
       "number" : 13,
+      "rating" : {
+        "rating" : 2.65,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -463,16 +471,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.37,
-      "total" : 16
+      "rating" : 7.9,
+      "total" : 50
     },
     "TEMPORARY" : {
-      "rating" : 8.18,
-      "total" : 16
+      "rating" : 7.69,
+      "total" : 50
     }
   },
   "related" : {
-    "PREQUEL" : [ 14504 ]
+    "PREQUEL" : [ 14504 ],
+    "SEQUEL" : [ 20143 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "400585" ],

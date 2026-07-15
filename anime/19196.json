@@ -33,6 +33,18 @@
       "name" : "Saitou Hisashi",
       "type" : "DIRECTOR"
     } ],
+    "9891" : [ {
+      "name" : "Fujita Masayuki",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "11027" : [ {
+      "name" : "Hagio Keita",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "12885" : [ {
+      "name" : "Koshiishi Akira",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "80371" : [ {
       "name" : "Shinjou Takuya",
       "type" : "ORIGINAL_WORK"
@@ -44,6 +56,9 @@
     "82075" : [ {
       "name" : "Tsukamoto Ryuusuke",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Tsukamoto Ryuusuke",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "82076" : [ {
       "name" : "Endou Chihiro",
@@ -64,7 +79,7 @@
       "length" : 15,
       "number" : 1,
       "rating" : {
-        "rating" : 4.76,
+        "rating" : 4.75,
         "total" : 5
       },
       "recap" : false,
@@ -89,7 +104,7 @@
       "length" : 15,
       "number" : 2,
       "rating" : {
-        "rating" : 4.02,
+        "rating" : 3.98,
         "total" : 6
       },
       "recap" : false,
@@ -114,7 +129,7 @@
       "length" : 15,
       "number" : 3,
       "rating" : {
-        "rating" : 4.71,
+        "rating" : 4.7,
         "total" : 4
       },
       "recap" : false,
@@ -139,7 +154,7 @@
       "length" : 15,
       "number" : 4,
       "rating" : {
-        "rating" : 2.62,
+        "rating" : 2.59,
         "total" : 5
       },
       "recap" : false,
@@ -164,7 +179,7 @@
       "length" : 15,
       "number" : 5,
       "rating" : {
-        "rating" : 2.26,
+        "rating" : 2.23,
         "total" : 5
       },
       "recap" : false,
@@ -189,7 +204,7 @@
       "length" : 15,
       "number" : 6,
       "rating" : {
-        "rating" : 3.89,
+        "rating" : 3.85,
         "total" : 5
       },
       "recap" : false,
@@ -214,7 +229,7 @@
       "length" : 15,
       "number" : 7,
       "rating" : {
-        "rating" : 2.77,
+        "rating" : 2.76,
         "total" : 4
       },
       "recap" : false,
@@ -239,7 +254,7 @@
       "length" : 15,
       "number" : 8,
       "rating" : {
-        "rating" : 3.0,
+        "rating" : 2.99,
         "total" : 4
       },
       "recap" : false,
@@ -264,7 +279,7 @@
       "length" : 15,
       "number" : 9,
       "rating" : {
-        "rating" : 5.66,
+        "rating" : 5.64,
         "total" : 3
       },
       "recap" : false,
@@ -289,7 +304,7 @@
       "length" : 15,
       "number" : 10,
       "rating" : {
-        "rating" : 4.37,
+        "rating" : 4.35,
         "total" : 3
       },
       "recap" : false,
@@ -314,7 +329,7 @@
       "length" : 15,
       "number" : 11,
       "rating" : {
-        "rating" : 4.37,
+        "rating" : 4.35,
         "total" : 3
       },
       "recap" : false,
@@ -339,7 +354,7 @@
       "length" : 15,
       "number" : 12,
       "rating" : {
-        "rating" : 5.66,
+        "rating" : 5.64,
         "total" : 3
       },
       "recap" : false,
@@ -566,12 +581,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.89,
-      "total" : 191
+      "rating" : 2.81,
+      "total" : 208
     },
     "TEMPORARY" : {
-      "rating" : 5.46,
-      "total" : 192
+      "rating" : 5.44,
+      "total" : 209
     }
   },
   "resources" : {
@@ -610,6 +625,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2608" : {
       "info_box" : false,
       "name" : "fetishes",
@@ -640,6 +662,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "2881" : {
+      "info_box" : true,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2894" : {
+      "info_box" : true,
+      "name" : "female student",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
     "3040" : {
       "info_box" : false,
       "name" : "male protagonist",
@@ -647,6 +693,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "4244" : {
+      "info_box" : false,
+      "name" : "healthcare and medicine",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
     },
     "4333" : {
       "info_box" : false,
@@ -693,6 +747,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7905" : {
+      "info_box" : true,
+      "name" : "large breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     }
   },
   "titles" : [ {

@@ -1,5 +1,69 @@
 {
   "anime_id" : 14236,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 155745,
+      "name" : "Harashima Suzu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155743,
+      "name" : "Kuga Kengo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155748,
+      "name" : "Masubuchi Izou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155741,
+      "name" : "Mizoe Yousuke",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155740,
+      "name" : "Momokawa Inako",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155744,
+      "name" : "Momokawa Noriko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155746,
+      "name" : "Ookura Kate",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155739,
+      "name" : "Sakamoto Kihachi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155742,
+      "name" : "Sakamoto Seiroku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155747,
+      "name" : "Yagura Yajirou",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 155749,
+      "name" : "Inari",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155751,
+      "name" : "Momokawa Jinemon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155752,
+      "name" : "Momokawa Naeko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155750,
+      "name" : "Tome",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155753,
+      "name" : "Yagura Bunshichi",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "736" : [ {
       "name" : "Kyoto Animation",
@@ -30,17 +94,418 @@
     } ]
   },
   "description" : "It is the summer of 1907. 15-year-old Momokawa Inako lives in the Fushimi area of Kyoto, and is the second daughter of a sake brewer. Nothing she does ever comes out right, and she receives a scolding from her father every day. Her only relief is the trust she places in her prayers to the gods. One day while at Fushimi Inari shrine, she meets a freewheeling young man named Sakamoto Kihachi. He rejects the gods, and boasts of the incoming age of electricity.\nThe topic of marriage suddenly comes up in Inako`s household. Her father is one-sidedly making all the decisions for her, and Inako is about to give up hope. It is then that Kihachi draws out Inako`s true feelings of wanting to run away from her family. The only way to stop her marriage is to find an unusual book called the \"Electricity Catalog\". The book is a prediction book about electricity that Kihachi wrote when he was a child, but his older brother Seiroku took the book, and its current whereabouts are unknown. Inako and Kihachi together go in search of the book across Kyoto and Shiga prefectures.\nSource: ANN",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-07-05",
+      "episode_id" : 313505,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 6.92,
+        "total" : 7
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Denki Shounen"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Der Junge und die Elektrizität"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Electric Boy"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "電氣少年"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-12",
+      "episode_id" : 313506,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 4.91,
+        "total" : 4
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Das Geheimnis des Katalogs"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Mokuroku no Nazo"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Mysteries of the Catalog"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "目録の謎"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-19",
+      "episode_id" : 313507,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-26",
+      "episode_id" : 313508,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2026-07-05",
+      "episode_id" : 313493,
+      "length" : 60,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Housou Chokuzen Namahaishin"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "放送直前生配信"
+      } ],
+      "type" : "SPECIAL"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.06,
+      "total" : 14
+    },
+    "TEMPORARY" : {
+      "rating" : 5.66,
+      "total" : 14
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "365164" ],
+    "ANISON" : [ "26528" ],
     "ANN" : [ "37941" ],
     "MAL" : [ "62856" ],
+    "NETFLIX" : [ "81698957" ],
+    "SYOBOI" : [ "7913" ],
     "TWITTER" : [ "denkimokuroku" ],
     "WEBSITE" : [ "https://denkimokuroku.jp/" ],
     "WIKIPEDIA_EN" : [ "20_Seiki_Denki_Mokuroku" ],
-    "WIKIPEDIA_JP" : [ "二十世紀電氣目録" ]
+    "WIKIPEDIA_JP" : [ "二十世紀電氣目録" ],
+    "YOUTUBE" : [ "watch?v=VZX_uTEusgI" ]
+  },
+  "similar" : {
+    "17480" : {
+      "rating" : 3.333333333333333,
+      "total" : 3
+    }
   },
   "start_date" : "2026-07-05",
   "tags" : {
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2640" : {
+      "info_box" : false,
+      "name" : "alternative past",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2641" : {
+      "info_box" : true,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2651" : {
+      "info_box" : false,
+      "name" : "absurdist humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2652" : {
+      "info_box" : false,
+      "name" : "super deformed",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2679" : {
+      "info_box" : false,
+      "name" : "Kyoto",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2692" : {
+      "info_box" : true,
+      "name" : "Bakumatsu - Meiji Period",
+      "parent_tag_id" : 2641,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2750" : {
+      "info_box" : false,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2785" : {
+      "info_box" : false,
+      "name" : "unrequited love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : true,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2870" : {
+      "info_box" : true,
+      "name" : "steampunk",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4227" : {
+      "info_box" : false,
+      "name" : "detailed landscapes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4570" : {
+      "info_box" : false,
+      "name" : "watercolour style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4588" : {
+      "info_box" : false,
+      "name" : "fast-paced",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4667" : {
+      "info_box" : false,
+      "name" : "hard science fiction",
+      "parent_tag_id" : 2846,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "5227" : {
+      "info_box" : false,
+      "name" : "alternating animation style",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5604" : {
+      "info_box" : false,
+      "name" : "following one`s dream",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5779" : {
+      "info_box" : false,
+      "name" : "anachronisms",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6004" : {
       "info_box" : false,
       "name" : "development hell",
@@ -49,9 +514,48 @@
       "verified" : false,
       "weight" : 0
     },
+    "6034" : {
+      "info_box" : false,
+      "name" : "Engrish",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -70,9 +574,25 @@
     "title" : "Nijuuseiki Denki Mokuroku: Eureka Evrika",
     "type" : "MAIN"
   }, {
+    "language" : "SPANISH",
+    "title" : "Destellos del mañana",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "SPANISH_LATIN",
+    "title" : "Destellos del mañana",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
+    "title" : "Sparks of Tomorrow",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "二十世紀電氣目録-ユーレカ・エヴリカ-",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Nijusseiki Denki Mokuroku: Eureka Evrika",
+    "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",
     "title" : "Sparks of Tomorrow",

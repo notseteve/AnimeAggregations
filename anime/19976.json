@@ -39,12 +39,31 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.24,
+      "total" : 14
+    },
+    "TEMPORARY" : {
+      "rating" : 6.53,
+      "total" : 15
+    }
+  },
   "resources" : {
     "MAL" : [ "63846" ],
+    "TMDB" : [ "tv/318048" ],
     "WEBSITE" : [ "https://www.lune-soft.jp/ova/31425", "https://www.lune-soft.jp/ova/31443" ]
   },
   "start_date" : "2026-05-29",
   "tags" : {
+    "2056" : {
+      "info_box" : false,
+      "name" : "cosplaying",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
@@ -59,9 +78,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2608" : {
+      "info_box" : false,
+      "name" : "fetishes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -73,6 +113,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2696" : {
+      "info_box" : false,
+      "name" : "threesome",
+      "parent_tag_id" : 7957,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2705" : {
+      "info_box" : false,
+      "name" : "creampie",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2717" : {
+      "info_box" : false,
+      "name" : "anal",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2725" : {
+      "info_box" : false,
+      "name" : "ahegao",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2748" : {
       "info_box" : true,
@@ -98,6 +170,30 @@
       "verified" : false,
       "weight" : 0
     },
+    "2842" : {
+      "info_box" : false,
+      "name" : "incest",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2848" : {
+      "info_box" : false,
+      "name" : "pornography",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2891" : {
+      "info_box" : false,
+      "name" : "breasts",
+      "parent_tag_id" : 2608,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -112,16 +208,40 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7905" : {
+      "info_box" : false,
+      "name" : "large breasts",
+      "parent_tag_id" : 2891,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "7957" : {
+      "info_box" : false,
+      "name" : "group sex",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     }
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "OVA Heart Mark Oome.",
+    "title" : "Heart Mark Motto Oome.",
     "type" : "MAIN"
   }, {
     "language" : "JAPANESE",
-    "title" : "OVA はーとまーく多め.",
+    "title" : "はーとまーく多め.",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "KOREAN",
+    "title" : "하트마크 듬뿍",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE",
+    "title" : "はーとまーく多[もっと]め.",
+    "type" : "TITLE_CARD"
   } ],
   "type" : "OVA",
   "url" : "https://www.lune-soft.jp/ova/31425"

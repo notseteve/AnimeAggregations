@@ -252,7 +252,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.41,
+        "rating" : 8.4,
         "total" : 5
       },
       "recap" : false,
@@ -280,7 +280,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.78,
+        "rating" : 8.77,
         "total" : 3
       },
       "recap" : false,
@@ -364,7 +364,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.78,
+        "rating" : 8.77,
         "total" : 3
       },
       "recap" : false,
@@ -392,7 +392,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.78,
+        "rating" : 8.77,
         "total" : 3
       },
       "recap" : false,
@@ -621,12 +621,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.79,
-      "total" : 602
+      "rating" : 5.8,
+      "total" : 606
     },
     "TEMPORARY" : {
-      "rating" : 6.83,
-      "total" : 604
+      "rating" : 6.84,
+      "total" : 608
     }
   },
   "resources" : {
@@ -759,6 +759,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3683" : {
       "info_box" : false,
       "name" : "storytelling",
@@ -815,6 +822,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "5965" : {
+      "info_box" : false,
+      "name" : "incomplete story",
+      "parent_tag_id" : 6247,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -834,6 +849,14 @@
       "info_box" : false,
       "name" : "tropes",
       "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6247" : {
+      "info_box" : false,
+      "name" : "ending tags that need merging",
+      "parent_tag_id" : 2931,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
