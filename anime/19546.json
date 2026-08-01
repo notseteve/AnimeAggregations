@@ -101,7 +101,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.27,
+        "rating" : 7.26,
         "total" : 4
       },
       "recap" : false,
@@ -123,7 +123,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.37,
+        "rating" : 6.36,
         "total" : 4
       },
       "recap" : false,
@@ -209,13 +209,19 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.04,
+        "rating" : 6.03,
         "total" : 3
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375337JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Doki-Doki Double Date"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Dokidoki Double Date"
       } ],
       "type" : "REGULAR"
     }, {
@@ -228,9 +234,15 @@
         "total" : 4
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375338JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Versus the Rindou Brothers"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Vs. Rindō-Brüder"
       } ],
       "type" : "REGULAR"
     }, {
@@ -239,11 +251,17 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 1.74,
+        "rating" : 1.75,
         "total" : 2
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375339JAJP" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Die unmögliche Aufräumaktion war echt unmöglich"
+      }, {
         "language" : "ENGLISH",
         "title" : "The Impossible Aftermath of an Impossible Game"
       } ],
@@ -258,9 +276,15 @@
         "total" : 1
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375340JAJP" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "DEATH or KISS"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Death or Kiss"
       } ],
       "type" : "REGULAR"
     }, {
@@ -269,13 +293,19 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 3.27,
-        "total" : 1
+        "rating" : 4.66,
+        "total" : 2
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375341JAJP" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Die erste Killerkonferenz"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "The First Hitman Summit"
       } ],
       "type" : "REGULAR"
     }, {
@@ -283,23 +313,36 @@
       "episode_id" : 310879,
       "length" : 25,
       "number" : 12,
+      "rating" : {
+        "rating" : 3.35,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00375342JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "Life Paths"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Zukunftspläne"
       } ],
       "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.66,
-      "total" : 36
+      "rating" : 5.2,
+      "total" : 138
     },
     "TEMPORARY" : {
-      "rating" : 5.87,
-      "total" : 36
+      "rating" : 6.15,
+      "total" : 138
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 20139 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "402137" ],
@@ -314,6 +357,29 @@
   },
   "start_date" : "2026-04-11",
   "tags" : {
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5863" : {
+      "info_box" : false,
+      "name" : "Weekly Shounen Jump",
+      "parent_tag_id" : 2798,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

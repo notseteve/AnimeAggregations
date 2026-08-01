@@ -101,14 +101,18 @@
       "type" : "CHIEF_ANIMATION_DIRECTION"
     } ]
   },
-  "description" : "* Based on a romantic comedy manga by http://anidb.net/cr14625 [Sakurai Norio].\nNote: The film version will be a compilation of the television series with some new footage added, and it will also depict the story of http://anidb.net/ch128291 [Ichikawa Kyoutarou] and http://anidb.net/ch128290 [Yamada Anna] after the series finale.",
+  "description" : "* Based on a romantic comedy manga by http://anidb.net/cr14625 [Sakurai Norio].\nNote: The film version is a compilation of the television series with some new footage added, and also depicts the story of http://anidb.net/ch128291 [Ichikawa Kyoutarou] and http://anidb.net/ch128290 [Yamada Anna] after the series finale.",
   "end_date" : "2026-02-13",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-02-13",
       "episode_id" : 305496,
-      "length" : 0,
+      "length" : 105,
       "number" : 1,
+      "rating" : {
+        "rating" : 9.88,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -119,12 +123,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.04,
-      "total" : 2
+      "rating" : 6.9,
+      "total" : 27
     },
     "TEMPORARY" : {
-      "rating" : 7.25,
-      "total" : 2
+      "rating" : 7.07,
+      "total" : 27
     }
   },
   "related" : {
@@ -132,6 +136,7 @@
   },
   "resources" : {
     "ALL_CINEMA" : [ "401277" ],
+    "ANISON" : [ "26336" ],
     "ANN" : [ "33630" ],
     "MAL" : [ "59985" ],
     "TWITTER" : [ "bokuyaba_anime" ],
@@ -284,6 +289,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "bokuyaba movie",
     "type" : "SHORT"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Boku no Kokoro no Yabai Yatsu Movie",
+    "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",
     "title" : "The Dangers in My Heart the Movie",

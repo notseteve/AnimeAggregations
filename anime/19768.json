@@ -1,5 +1,45 @@
 {
   "anime_id" : 19768,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 155482,
+      "name" : "Akiyama Jan",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 155479,
+      "name" : "Bitou Ryuuji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155475,
+      "name" : "Celene Yang",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155476,
+      "name" : "Gobanchou Kiriko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155483,
+      "name" : "Jun Tomohide",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155481,
+      "name" : "Kawahara Yuuji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155478,
+      "name" : "Okonogi Takao",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155477,
+      "name" : "Ootani Nichidou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155480,
+      "name" : "Sawada Kei",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "1540" : [ {
       "name" : "Uezu Makoto",
@@ -30,10 +70,103 @@
     } ]
   },
   "description" : "Young, arrogant Jan, determined to be named the best cook, competes in local and nationwide competitions and does not lose his focus, even when his cooking makes some sick and other chefs sabotage him.\nSource: ComicsOne",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-07-05",
+      "episode_id" : 313440,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 6.58,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00379326JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Die Begegnung mit dem Feuer"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Flames and Meetings"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-12",
+      "episode_id" : 313441,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "They`re Like Gunpowder"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-19",
+      "episode_id" : 313442,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Loser`s Cry of Victory"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-26",
+      "episode_id" : 313443,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-02",
+      "episode_id" : 313444,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-09",
+      "episode_id" : 313445,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.55,
+      "total" : 11
+    },
+    "TEMPORARY" : {
+      "rating" : 4.18,
+      "total" : 11
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "403718" ],
+    "ANISON" : [ "26570" ],
     "ANN" : [ "38131" ],
+    "CRUNCHY_ROLL" : [ "GT00378075" ],
     "MAL" : [ "63100" ],
+    "SYOBOI" : [ "7920" ],
+    "TMDB" : [ "tv/308403" ],
     "TWITTER" : [ "tetsujan1995" ],
     "WEBSITE" : [ "https://tetsujan.com/" ],
     "WIKIPEDIA_EN" : [ "Iron_Wok_Jan" ],
@@ -92,13 +225,13 @@
     "title" : "Tetsunabe no Jan!",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Iron Wok Jan!",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "鉄鍋のジャン!",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Iron Wok Jan!",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://tetsujan.com/"

@@ -6,6 +6,22 @@
       "name" : "Anis",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 155720,
+      "name" : "Boraqchin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155719,
+      "name" : "Chinqai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155717,
+      "name" : "Kirgistani",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155721,
+      "name" : "Moge",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 155501,
       "name" : "Oji",
       "type" : "CHARACTER"
@@ -42,6 +58,10 @@
     }, {
       "character_id" : 155001,
       "name" : "Shira",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155718,
+      "name" : "Sorghaghtani",
       "type" : "CHARACTER"
     }, {
       "character_id" : 155004,
@@ -91,16 +111,19 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.51,
-        "total" : 3
+        "rating" : 5.36,
+        "total" : 8
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "All That Is in the Heavens and All That Is in the Earth"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Ten ni Aru Mono Chi ni Aru Mono"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Tout ce qui est dans les cieux et sur la terre"
       }, {
         "language" : "JAPANESE",
         "title" : "天にあるもの 地にあるもの"
@@ -112,16 +135,19 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 10.0,
-        "total" : 1
+        "rating" : 7.24,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "language" : "FRENCH",
+        "title" : "Roses en fleurs au mois de Safar"
       }, {
         "language" : "JAPANESE_TRANSLITERATED",
         "title" : "Safar ni Saku Bara"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Roses That Bloom in Safar"
       }, {
         "language" : "JAPANESE",
         "title" : "サファルに咲く薔薇"
@@ -132,10 +158,23 @@
       "episode_id" : 312838,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 6.75,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "An Undying Flame"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Des flammes inextinguibles"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Keshienu Honoo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "消しえぬ炎"
       } ],
       "type" : "REGULAR"
     }, {
@@ -146,7 +185,54 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Otchigin"
+      }, {
+        "language" : "FRENCH",
+        "title" : "Otchigin, le prince de feu"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-25",
+      "episode_id" : 313785,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-01",
+      "episode_id" : 313786,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-08",
+      "episode_id" : 313787,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-15",
+      "episode_id" : 313788,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
     } ],
@@ -176,12 +262,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.28,
-      "total" : 11
+      "rating" : 6.83,
+      "total" : 31
     },
     "TEMPORARY" : {
-      "rating" : 6.18,
-      "total" : 11
+      "rating" : 6.56,
+      "total" : 32
     }
   },
   "resources" : {
@@ -199,9 +285,135 @@
   },
   "start_date" : "2026-07-04",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2641" : {
+      "info_box" : true,
+      "name" : "historical",
+      "parent_tag_id" : 2625,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2833" : {
+      "info_box" : false,
+      "name" : "Middle East",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "3683" : {
+      "info_box" : false,
+      "name" : "storytelling",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3977" : {
+      "info_box" : false,
+      "name" : "dialogue driven",
+      "parent_tag_id" : 3683,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -219,6 +431,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Tenmaku no Jaadugar",
     "type" : "MAIN"
+  }, {
+    "language" : "FRENCH",
+    "title" : "Jaadugar, la légende de Fatima",
+    "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
     "title" : "Jaadugar: A Witch in Mongolia",

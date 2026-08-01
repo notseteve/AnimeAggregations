@@ -99,6 +99,7 @@
     } ]
   },
   "description" : "* Based on an action-adventure comedy manga by http://anidb.net/cr69806 [Gondaira Hitsuji].",
+  "end_date" : "2026-06-28",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-12",
@@ -232,20 +233,60 @@
         "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
+    } ],
+    "SPECIAL" : [ {
+      "air_date" : "2026-04-05",
+      "episode_id" : 313129,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dai 2 Ki Chokuzen! Sakura Mankai Mission"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Pre-Broadcast Special"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "第2期直前! さくら満開MISSION"
+      } ],
+      "type" : "SPECIAL"
+    } ],
+    "CREDITS" : [ {
+      "episode_id" : 313130,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "episode_id" : 313131,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.09,
-      "total" : 8
+      "rating" : 5.2,
+      "total" : 39
     },
     "TEMPORARY" : {
-      "rating" : 4.56,
-      "total" : 8
+      "rating" : 6.23,
+      "total" : 39
     }
   },
   "related" : {
-    "PREQUEL" : [ 17773 ]
+    "PREQUEL" : [ 17773 ],
+    "SEQUEL" : [ 20142 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "398588" ],

@@ -9,6 +9,55 @@
       "character_id" : 136376,
       "name" : "Sakuragi Kana",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 155696,
+      "name" : "Akasaka Iroha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143445,
+      "name" : "Aoi Lily",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143442,
+      "name" : "Koga Kei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155697,
+      "name" : "Koshigaya Kenji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155694,
+      "name" : "Makino Akane",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155695,
+      "name" : "Manda-shochou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139457,
+      "name" : "Midorikawa Kaede",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139456,
+      "name" : "Nikoyama Kazuo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 139458,
+      "name" : "Shigemoto Kouji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155693,
+      "name" : "Tonomori Sakae",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 143443,
+      "name" : "Tsuchiba Mei",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155698,
+      "name" : "Yamimori Hibiki",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -16,9 +65,13 @@
       "name" : "J.C.Staff",
       "type" : "ANIMATION_WORK"
     } ],
+    "3465" : [ {
+      "name" : "Yokote Michiko",
+      "type" : "SERIES_COMPOSITION"
+    } ],
     "3744" : [ {
       "name" : "Fujii Masahiro",
-      "type" : "CHIEF_ANIMATION_DIRECTION"
+      "type" : "CHARACTER_DESIGN"
     } ],
     "7764" : [ {
       "name" : "Fukushima Toshinori",
@@ -37,6 +90,7 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "description" : "Magical Girls - they`re strong, cool and agile. Everyone wants to be one. Popular and high-paying, it`s a respectable line of work. http://anidb.net/ch136376 [Sakuragi Kana], http://anidb.net/ch136377 [Koshigaya Hitomi], and the members of Magilumiere work to promote the Alice System, which allows Magical Girls to order the magic they need to battle. But behind the scenes, factions seeking to ease magic regulations and make a profit are moving...\nSource: Prime Video",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-07-05",
@@ -44,7 +98,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.22,
+        "rating" : 3.21,
         "total" : 2
       },
       "recap" : false,
@@ -67,6 +121,10 @@
       "episode_id" : 313394,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 5.02,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "GERMAN",
@@ -87,10 +145,23 @@
       "episode_id" : 313395,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 3.21,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Es ist lang her, dass ich solche Belästigung ertragen musste."
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Haven`t Seen Delusion Like This in Ages"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kouiu Ichamon wa Hisabisa Da na"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "こういうイチャモンは久々だな"
       } ],
       "type" : "REGULAR"
     }, {
@@ -98,12 +169,106 @@
       "episode_id" : 313396,
       "length" : 25,
       "number" : 4,
+      "rating" : {
+        "rating" : 2.96,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "How Exceptional His Magical Girls Are"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Magische Mädchen sind außergewöhnlich."
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yoppodo Ii Mahou Shoujo to Hataraiterundesu yo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "よっぽどいい魔法少女と働いてるんですよ"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-02",
+      "episode_id" : 313765,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Can`t Keep Acting Like a Rookie"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Itsumademo Shinjin Kibun ja Irarenai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "いつまでも新人気分じゃいられない"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-09",
+      "episode_id" : 313766,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-16",
+      "episode_id" : 313767,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-23",
+      "episode_id" : 313768,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-07-05",
+      "episode_id" : 313836,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 1.01,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-07-05",
+      "episode_id" : 313837,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 6.72,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ],
     "PROMOTION" : [ {
       "air_date" : "2025-12-21",
@@ -126,12 +291,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.53,
-      "total" : 3
+      "rating" : 4.7,
+      "total" : 6
     },
     "TEMPORARY" : {
-      "rating" : 4.0,
-      "total" : 3
+      "rating" : 5.58,
+      "total" : 6
     }
   },
   "related" : {
@@ -140,6 +305,7 @@
   "resources" : {
     "ALL_CINEMA" : [ "401503" ],
     "AMAZON" : [ "B0H3LSX33Y" ],
+    "ANISON" : [ "25647" ],
     "ANN" : [ "34218" ],
     "MAL" : [ "60552" ],
     "SYOBOI" : [ "7892" ],
@@ -172,12 +338,16 @@
     "title" : "Kabushikigaisha Magilumiere (2026)",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Magilumiere Magical Girls Inc. (2026)",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "株式会社マジルミエ (2026)",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
-    "title" : "Magilumiere Magical Girls Inc. (2026)",
+    "title" : "Magilumiere Magical Girls Inc. Season 2",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

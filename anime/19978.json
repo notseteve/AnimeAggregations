@@ -1,6 +1,47 @@
 {
   "anime_id" : 19978,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 155660,
+      "name" : "Granvelle Shishaku",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155662,
+      "name" : "Hermios",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155664,
+      "name" : "Jijo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155659,
+      "name" : "Karlova",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155473,
+      "name" : "Mash",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155474,
+      "name" : "Myura",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155663,
+      "name" : "Rickel",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152453,
+      "name" : "Rodin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155661,
+      "name" : "Theodosir Gakuchou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152448,
+      "name" : "Theresia",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 149876,
       "name" : "Allen",
@@ -14,36 +55,179 @@
       "character_id" : 149877,
       "name" : "Clena",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 149879,
+      "name" : "Dogora",
+      "type" : "CHARACTER"
     } ]
   },
   "description" : "* Based on an isekai light novel series written by http://anidb.net/cr79421 [Hamuo] and illustrated by http://anidb.net/cr68398 [Mo].",
   "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-07-04",
+      "description" : "Allen`s new life in Academy City begins, but an appraisal ceremony unexpectedly puts him on Helmios the Hero`s radar.",
+      "episode_id" : 313283,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 4.42,
+        "total" : 3
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gakuentoshi e!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Off to Academy City!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "学園都市へ!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-11",
+      "episode_id" : 313495,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 3.63,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A New Friend"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Aratana Deai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "新たな出会い"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-18",
+      "episode_id" : 313496,
+      "length" : 25,
+      "number" : 3,
+      "rating" : {
+        "rating" : 2.66,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dungeon o Kouryaku Seyo"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ダンジョンを攻略せよ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-25",
+      "episode_id" : 313497,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-01",
+      "episode_id" : 313498,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-08",
+      "episode_id" : 313499,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-07-04",
+      "episode_id" : 313500,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-07-04",
+      "episode_id" : 313501,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ],
     "PROMOTION" : [ {
-      "air_date" : "2026-03-27",
+      "air_date" : "2026-03-28",
       "episode_id" : 309937,
       "length" : 1,
       "number" : 1,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Teaser PV"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Teaser PV (30s)"
+        "title" : "Teaser PV (0:30)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ティザーPV"
       } ],
       "type" : "PROMOTION"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.97,
+      "total" : 19
+    },
+    "TEMPORARY" : {
+      "rating" : 6.11,
+      "total" : 20
+    }
   },
   "related" : {
     "PREQUEL" : [ 19029 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "405235" ],
     "ANN" : [ "38839" ],
     "MAL" : [ "63817" ],
+    "SYOBOI" : [ "7895" ],
     "TWITTER" : [ "hellmode_anime" ],
     "WEBSITE" : [ "https://hellmode-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Hell_Mode" ],
     "WIKIPEDIA_JP" : [ "ヘルモード_〜やり込み好きのゲーマーは廃設定の異世界で無双する〜" ],
     "YOUTUBE" : [ "watch?v=HwrkfSaeJmg" ]
   },
-  "start_date" : "2026-07",
+  "start_date" : "2026-07-04",
   "tags" : {
     "6173" : {
       "info_box" : false,
@@ -66,12 +250,16 @@
     "title" : "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru (2026)",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing (2026)",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~ (2026)",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",
-    "title" : "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing (2026)",
+    "title" : "Hell Mode S2",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

@@ -85,10 +85,20 @@
       "episode_id" : 312860,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 6.73,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378192JAJP" ]
+      },
       "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Liebe liegt in der Luft"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "When Ryusei Met Meteor..."
       } ],
       "type" : "REGULAR"
     }, {
@@ -126,11 +136,24 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.02,
+      "total" : 11
+    },
+    "TEMPORARY" : {
+      "rating" : 5.58,
+      "total" : 12
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "402412" ],
     "ANISON" : [ "26545" ],
     "ANN" : [ "37858" ],
+    "CRUNCHY_ROLL" : [ "GT00378066" ],
+    "MAL" : [ "62535" ],
     "SYOBOI" : [ "7908" ],
+    "TMDB" : [ "tv/312266" ],
     "TWITTER" : [ "hanaori_anime" ],
     "WEBSITE" : [ "https://hanaorisan-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Hanaori-san_Still_Wants_to_Fight_in_the_Next_Life" ],
@@ -173,6 +196,10 @@
   }, {
     "language" : "ENGLISH",
     "title" : "Hanaori-san Wants to Have a Fight Even if She Reincarnates",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
     "type" : "SYNONYM"
   } ],
   "type" : "SERIES",

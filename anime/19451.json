@@ -14,8 +14,16 @@
       "name" : "Akishima",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 155910,
+      "name" : "Announcer",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 155591,
       "name" : "Aoi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155909,
+      "name" : "Aoi no Douryou",
       "type" : "CHARACTER"
     }, {
       "character_id" : 155639,
@@ -198,6 +206,10 @@
       "name" : "Oshira-sama no Aruji",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 155911,
+      "name" : "Oshira-sama no Aruji no Mago",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 155615,
       "name" : "Ou",
       "type" : "CHARACTER"
@@ -286,6 +298,14 @@
       "name" : "Tozan Kyaku no Otoko",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 155913,
+      "name" : "Uchuujin Teki na Tsugai (Onna)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155914,
+      "name" : "Uchuujin Teki na Tsugai (Otoko)",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 155596,
       "name" : "Usa-chan",
       "type" : "CHARACTER"
@@ -308,6 +328,31 @@
     }, {
       "character_id" : 155585,
       "name" : "Yuru (Younen)",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155912,
+      "name" : "Zashikiwarashi (Danji)",
+      "type" : "CHARACTER"
+    } ],
+    "CAMEO" : [ {
+      "character_id" : 10891,
+      "name" : "Alexander",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 5908,
+      "name" : "Alphonse Elric",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 5885,
+      "name" : "Edward Elric",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 10888,
+      "name" : "Nina Tucker",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 10887,
+      "name" : "Shou Tucker",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -387,7 +432,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.8,
+        "rating" : 7.81,
         "total" : 14
       },
       "recap" : false,
@@ -415,7 +460,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.57,
+        "rating" : 6.58,
         "total" : 12
       },
       "recap" : false,
@@ -443,7 +488,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.98,
+        "rating" : 5.99,
         "total" : 11
       },
       "recap" : false,
@@ -551,7 +596,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.64,
+        "rating" : 6.65,
         "total" : 10
       },
       "recap" : false,
@@ -605,7 +650,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.31,
+        "rating" : 6.3,
         "total" : 8
       },
       "recap" : false,
@@ -632,7 +677,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.19,
+        "rating" : 6.2,
         "total" : 8
       },
       "recap" : false,
@@ -686,7 +731,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.83,
+        "rating" : 5.84,
         "total" : 8
       },
       "recap" : false,
@@ -713,8 +758,8 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 5.0,
-        "total" : 5
+        "rating" : 4.52,
+        "total" : 6
       },
       "recap" : false,
       "resources" : {
@@ -737,8 +782,8 @@
       "length" : 25,
       "number" : 14,
       "rating" : {
-        "rating" : 8.54,
-        "total" : 2
+        "rating" : 6.71,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
@@ -763,7 +808,14 @@
       "episode_id" : 312456,
       "length" : 25,
       "number" : 15,
+      "rating" : {
+        "rating" : 6.12,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374599JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Yuru and Danji"
@@ -783,10 +835,23 @@
       "episode_id" : 312457,
       "length" : 25,
       "number" : 16,
+      "rating" : {
+        "rating" : 7.8,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374600JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 16"
+        "title" : "Kagemori and Shingo"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kagemori to Shingou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "影森と新郷"
       } ],
       "type" : "REGULAR"
     }, {
@@ -797,7 +862,16 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 17"
+        "title" : "Crybaby and Naughty Child"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Heulsuse und Lausbub"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Naku Ko to Warui Ko"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "泣く子と悪い子"
       } ],
       "type" : "REGULAR"
     }, {
@@ -840,7 +914,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.0,
+        "rating" : 1.97,
         "total" : 2
       },
       "recap" : false,
@@ -854,6 +928,10 @@
       "episode_id" : 313585,
       "length" : 2,
       "number" : 2,
+      "rating" : {
+        "rating" : 1.6,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -866,7 +944,7 @@
       "length" : 2,
       "number" : 3,
       "rating" : {
-        "rating" : 5.31,
+        "rating" : 5.26,
         "total" : 3
       },
       "recap" : false,
@@ -880,6 +958,10 @@
       "episode_id" : 313584,
       "length" : 2,
       "number" : 4,
+      "rating" : {
+        "rating" : 4.4,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -890,12 +972,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.71,
-      "total" : 116
+      "rating" : 7.55,
+      "total" : 124
     },
     "TEMPORARY" : {
-      "rating" : 7.68,
-      "total" : 119
+      "rating" : 7.58,
+      "total" : 127
     }
   },
   "resources" : {
@@ -918,9 +1000,586 @@
   },
   "start_date" : "2026-04-04",
   "tags" : {
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1777" : {
+      "info_box" : false,
+      "name" : "zashiki-warashi",
+      "parent_tag_id" : 2535,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1802" : {
+      "info_box" : true,
+      "name" : "seinen",
+      "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2282" : {
+      "info_box" : false,
+      "name" : "martial arts",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2535" : {
+      "info_box" : false,
+      "name" : "ghost",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2606" : {
+      "info_box" : false,
+      "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2623" : {
+      "info_box" : true,
+      "name" : "super power",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2625" : {
+      "info_box" : false,
+      "name" : "past",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2646" : {
+      "info_box" : true,
+      "name" : "demon",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2648" : {
+      "info_box" : true,
+      "name" : "contemporary fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2649" : {
+      "info_box" : true,
+      "name" : "dark fantasy",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2750" : {
+      "info_box" : true,
+      "name" : "violence",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2840" : {
+      "info_box" : false,
+      "name" : "mafia",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2850" : {
+      "info_box" : true,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
+    "2852" : {
+      "info_box" : false,
+      "name" : "thriller",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2863" : {
+      "info_box" : false,
+      "name" : "proxy battles",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2878" : {
+      "info_box" : false,
+      "name" : "conspiracy",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2887" : {
+      "info_box" : false,
+      "name" : "tragedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3040" : {
+      "info_box" : false,
+      "name" : "male protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3055" : {
+      "info_box" : false,
+      "name" : "fairy tale",
+      "parent_tag_id" : 3876,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3276" : {
+      "info_box" : false,
+      "name" : "plot twists",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3314" : {
+      "info_box" : false,
+      "name" : "fate",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3597" : {
+      "info_box" : false,
+      "name" : "mythology",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3759" : {
+      "info_box" : false,
+      "name" : "teamwork",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3822" : {
+      "info_box" : false,
+      "name" : "strong male lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3876" : {
+      "info_box" : false,
+      "name" : "folklore",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3931" : {
+      "info_box" : false,
+      "name" : "magical realism",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3993" : {
+      "info_box" : false,
+      "name" : "kidnapping",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4022" : {
+      "info_box" : false,
+      "name" : "strong female lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4048" : {
+      "info_box" : false,
+      "name" : "Japanese mythology",
+      "parent_tag_id" : 3597,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4083" : {
+      "info_box" : false,
+      "name" : "drastic change of life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4215" : {
+      "info_box" : false,
+      "name" : "daikaijuu",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4251" : {
+      "info_box" : false,
+      "name" : "ensemble cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4383" : {
+      "info_box" : false,
+      "name" : "hostage situation",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4394" : {
+      "info_box" : false,
+      "name" : "defeat means friendship",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4491" : {
+      "info_box" : false,
+      "name" : "children of destiny",
+      "parent_tag_id" : 3314,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4572" : {
+      "info_box" : false,
+      "name" : "human-animal relationship",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4611" : {
+      "info_box" : false,
+      "name" : "nearly almighty protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5773" : {
+      "info_box" : false,
+      "name" : "secret organisation",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5779" : {
+      "info_box" : false,
+      "name" : "anachronisms",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5792" : {
+      "info_box" : false,
+      "name" : "gangs",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5843" : {
+      "info_box" : false,
+      "name" : "sibling yin yang",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5935" : {
+      "info_box" : false,
+      "name" : "ass-kicking girls",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5948" : {
+      "info_box" : false,
+      "name" : "visible aura",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5993" : {
+      "info_box" : false,
+      "name" : "black humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "6070" : {
+      "info_box" : false,
+      "name" : "mystery",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6083" : {
+      "info_box" : false,
+      "name" : "master-servant relationship",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

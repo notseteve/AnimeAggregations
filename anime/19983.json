@@ -1,6 +1,39 @@
 {
   "anime_id" : 19983,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 154416,
+      "name" : "Hasegawa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153195,
+      "name" : "Mini",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153196,
+      "name" : "Morimo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 154415,
+      "name" : "Saotome",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153184,
+      "name" : "Tenpura",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156012,
+      "name" : "Watanabe Akemi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156013,
+      "name" : "Watanabe Akemi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153185,
+      "name" : "Yeti",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 149504,
       "name" : "Suzuki Miyu",
@@ -65,9 +98,17 @@
       "name" : "Tofubeats",
       "type" : "MUSIC"
     } ],
+    "49083" : [ {
+      "name" : "Izawa Tamami",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
     "59885" : [ {
       "name" : "Nagatomo Takakazu",
       "type" : "DIRECTOR"
+    } ],
+    "59930" : [ {
+      "name" : "Sakoe Sara",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
     } ],
     "79346" : [ {
       "name" : "Agasawa Koucha",
@@ -79,12 +120,196 @@
     } ]
   },
   "description" : "* Based on a rom-com school manga by http://anidb.net/cr79346 [Agasawa Koucha].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-07-05",
+      "episode_id" : 313428,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 8.58,
+        "total" : 5
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366879JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Christmas Eve"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Christmas Eve"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Heiligabend"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "クリスマスイヴ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-12",
+      "episode_id" : 313429,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 9.33,
+        "total" : 5
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366880JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Dilemma of a Winter`s Night"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Fuyu no Yoru no Dilemma"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Winternachtsdilemma"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "冬の夜のジレンマ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-19",
+      "episode_id" : 313430,
+      "length" : 25,
+      "number" : 3,
+      "rating" : {
+        "rating" : 9.04,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366881JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "The Year That`s Passed, and the Year to Come"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yukutoshi Kurutoshi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "行く年来る年"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-26",
+      "episode_id" : 313431,
+      "length" : 25,
+      "number" : 4,
+      "rating" : {
+        "rating" : 7.97,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00366882JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "New School Term"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shingakki"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "新学期"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-02",
+      "episode_id" : 313432,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-09",
+      "episode_id" : 313433,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-16",
+      "episode_id" : 314362,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-23",
+      "episode_id" : 314363,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-07-05",
+      "episode_id" : 313603,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-07-05",
+      "episode_id" : 313604,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 8.41,
+      "total" : 21
+    },
+    "TEMPORARY" : {
+      "rating" : 8.27,
+      "total" : 22
+    }
+  },
   "related" : {
     "PREQUEL" : [ 19010 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "405307" ],
+    "ANISON" : [ "26261" ],
     "ANN" : [ "38846" ],
+    "CRUNCHY_ROLL" : [ "GT00365624" ],
     "MAL" : [ "63832" ],
     "SYOBOI" : [ "7825" ],
     "TWITTER" : [ "seihantai_x" ],
@@ -122,6 +347,10 @@
     "language" : "JAPANESE",
     "title" : "正反対な君と僕 (2026)",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "You and I Are Polar Opposites Season 2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://sh-anime.shochiku.co.jp/seihantai_anime/"

@@ -90,7 +90,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.53,
+        "rating" : 7.58,
         "total" : 5
       },
       "recap" : false,
@@ -108,7 +108,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 8.93,
+        "rating" : 8.98,
         "total" : 4
       },
       "recap" : false,
@@ -126,7 +126,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 8.7,
+        "rating" : 8.76,
         "total" : 5
       },
       "recap" : false,
@@ -144,7 +144,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.84,
+        "rating" : 8.92,
         "total" : 4
       },
       "recap" : false,
@@ -162,13 +162,16 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.84,
+        "rating" : 8.92,
         "total" : 4
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 5"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "溯端竟委，守旧贵族究竟难堪其用"
       } ],
       "type" : "REGULAR"
     }, {
@@ -177,13 +180,16 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.4,
+        "rating" : 8.46,
         "total" : 6
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 6"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "星星之火，人民路线响起一声枪声"
       } ],
       "type" : "REGULAR"
     }, {
@@ -192,13 +198,16 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.97,
+        "rating" : 9.03,
         "total" : 6
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 7"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "人终一死，轻于鸿毛亦或重于泰山"
       } ],
       "type" : "REGULAR"
     }, {
@@ -207,13 +216,16 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.36,
+        "rating" : 8.42,
         "total" : 6
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "妙手回春，众人齐心共迎邪魔之月"
       } ],
       "type" : "REGULAR"
     } ],
@@ -243,12 +255,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.2,
-      "total" : 127
+      "rating" : 8.05,
+      "total" : 174
     },
     "TEMPORARY" : {
-      "rating" : 7.71,
-      "total" : 127
+      "rating" : 7.59,
+      "total" : 174
     }
   },
   "related" : {
@@ -292,6 +304,13 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -349,6 +368,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2849" : {
       "info_box" : false,

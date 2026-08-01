@@ -7,12 +7,28 @@
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
+      "character_id" : 155547,
+      "name" : "Christa Lakes Adler",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 154179,
       "name" : "Elna von Amsberg",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 155546,
+      "name" : "Erik Lakes Adler",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 154180,
       "name" : "Fine von Kleinert",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155548,
+      "name" : "Gordon Lakes Adler",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155553,
+      "name" : "Johannes Lakes Adler",
       "type" : "CHARACTER"
     }, {
       "character_id" : 154182,
@@ -21,6 +37,22 @@
     }, {
       "character_id" : 154181,
       "name" : "Lynfia",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155552,
+      "name" : "Mitsuba",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155550,
+      "name" : "Sebastian",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155551,
+      "name" : "Traugott Lakes Adler",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155549,
+      "name" : "Zandra Lakes Adler",
       "type" : "CHARACTER"
     } ]
   },
@@ -57,10 +89,26 @@
       "episode_id" : 312904,
       "length" : 25,
       "number" : 1,
+      "rating" : {
+        "rating" : 4.25,
+        "total" : 3
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378647JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Degarashi Ouji"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Der Insipide Prinz"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "The Insipid Prince"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "出涸らし皇子"
       } ],
       "type" : "REGULAR"
     }, {
@@ -68,10 +116,26 @@
       "episode_id" : 312905,
       "length" : 25,
       "number" : 2,
+      "rating" : {
+        "rating" : 4.02,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378648JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Date at the Capital?"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Ein Date in der Hauptstadt?"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Teito de Date?"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "帝都でデート?"
       } ],
       "type" : "REGULAR"
     }, {
@@ -79,10 +143,20 @@
       "episode_id" : 312906,
       "length" : 25,
       "number" : 3,
+      "rating" : {
+        "rating" : 2.23,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "Elna Attacks"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Elna Shuurai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "エルナ襲来"
       } ],
       "type" : "REGULAR"
     }, {
@@ -96,10 +170,65 @@
         "title" : "Episode 4"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-03",
+      "episode_id" : 313995,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-10",
+      "episode_id" : 313996,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-17",
+      "episode_id" : 313997,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-24",
+      "episode_id" : 313998,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 1.98,
+      "total" : 19
+    },
+    "TEMPORARY" : {
+      "rating" : 4.03,
+      "total" : 19
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "405348" ],
+    "ANISON" : [ "26575" ],
     "ANN" : [ "30080" ],
     "CRUNCHY_ROLL" : [ "GT00378119" ],
     "MAL" : [ "56736" ],

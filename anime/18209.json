@@ -115,7 +115,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.96,
+        "rating" : 6.95,
         "total" : 6
       },
       "recap" : false,
@@ -451,12 +451,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.55,
-      "total" : 190
+      "rating" : 4.56,
+      "total" : 222
     },
     "TEMPORARY" : {
-      "rating" : 6.16,
-      "total" : 191
+      "rating" : 6.19,
+      "total" : 223
     }
   },
   "resources" : {
@@ -627,6 +627,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "6030" : {
       "info_box" : false,
       "name" : "otaku culture",
@@ -638,6 +646,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -133,7 +133,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 5.53,
+        "rating" : 5.52,
         "total" : 4
       },
       "recap" : false,
@@ -308,7 +308,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.74,
+        "rating" : 6.73,
         "total" : 3
       },
       "recap" : false,
@@ -463,12 +463,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.16,
-      "total" : 183
+      "rating" : 5.2,
+      "total" : 188
     },
     "TEMPORARY" : {
-      "rating" : 6.48,
-      "total" : 185
+      "rating" : 6.51,
+      "total" : 190
     }
   },
   "related" : {
@@ -497,9 +497,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -511,10 +526,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "2669" : {
+      "info_box" : false,
+      "name" : "school clubs",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

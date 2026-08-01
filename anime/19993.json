@@ -16,7 +16,7 @@
       "type" : "CHARACTER"
     }, {
       "character_id" : 154208,
-      "name" : "Essei",
+      "name" : "Essay",
       "type" : "CHARACTER"
     }, {
       "character_id" : 154207,
@@ -68,9 +68,16 @@
     "REGULAR" : [ {
       "air_date" : "2026-07-10",
       "episode_id" : 313091,
-      "length" : 0,
+      "length" : 90,
       "number" : 1,
+      "rating" : {
+        "rating" : 5.82,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00367387JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Complete Movie"
@@ -85,7 +92,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Official Teaser (3:04)"
+        "title" : "News Flash (3:04)"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Tokuhou Eizou"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "特報映像"
       } ],
       "type" : "PROMOTION"
     }, {
@@ -95,11 +108,27 @@
       "number" : 2,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Game PV"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Game Trailer (1:43)"
+        "title" : "Game PV (1:43)"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ゲームPV"
       } ],
       "type" : "PROMOTION"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 4.56,
+      "total" : 31
+    },
+    "TEMPORARY" : {
+      "rating" : 6.18,
+      "total" : 32
+    }
   },
   "related" : {
     "PREQUEL" : [ 18845 ]
@@ -107,10 +136,13 @@
   "resources" : {
     "ALL_CINEMA" : [ "405193" ],
     "ANN" : [ "38841" ],
+    "CRUNCHY_ROLL" : [ "GT00365787" ],
+    "MAL" : [ "63819" ],
     "TWITTER" : [ "shibouyugi_" ],
     "WEBSITE" : [ "https://shiboyugi-anime.com/theater/" ],
     "WIKIPEDIA_EN" : [ "Playing_Death_Games_to_Put_Food_on_the_Table" ],
-    "WIKIPEDIA_JP" : [ "死亡遊戯で飯を食う。" ]
+    "WIKIPEDIA_JP" : [ "死亡遊戯で飯を食う。" ],
+    "YOUTUBE" : [ "watch?v=oaHLU_d2qbI", "watch?v=zrNCJLYqqO4" ]
   },
   "start_date" : "2026-07-10",
   "tags" : {

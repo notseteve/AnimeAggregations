@@ -51,6 +51,10 @@
       "type" : "REGULAR"
     } ]
   },
+  "resources" : {
+    "MAL" : [ "64530" ],
+    "WEBSITE" : [ "https://www.pinkpineapple.co.jp/detail.php?did=2730", "https://www.pinkpineapple.co.jp/detail.php?did=2732", "https://www.pinkpineapple.co.jp/detail.php?did=2734" ]
+  },
   "start_date" : "2026-09-25",
   "tags" : {
     "2604" : {
@@ -105,6 +109,21 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6173" : {
+      "info_box" : false,
+      "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7885" : {
+      "info_box" : false,
+      "name" : "Japanese production",
+      "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     }
   },
   "titles" : [ {
@@ -117,5 +136,5 @@
     "type" : "OFFICIAL"
   } ],
   "type" : "OVA",
-  "url" : "https://www.pinkpineapple.co.jp/detail.php?cid=4&did=2730 https://www.pinkpineapple.co.jp/detail.php?cid=4&did=2732 https://www.pinkpineapple.co.jp/detail.php?cid=4&did=2734"
+  "url" : "https://www.pinkpineapple.co.jp/detail.php?did=2730"
 }

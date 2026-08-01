@@ -1,6 +1,23 @@
 {
   "anime_id" : 19736,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 155467,
+      "name" : "Kirara",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155470,
+      "name" : "Miki Takeru",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155469,
+      "name" : "Mimimi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155468,
+      "name" : "Sukoko",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 152363,
       "name" : "Nakama Rinko",
@@ -194,7 +211,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 4.05,
+        "rating" : 4.03,
         "total" : 1
       },
       "recap" : false,
@@ -207,12 +224,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.37,
-      "total" : 42
+      "rating" : 3.65,
+      "total" : 53
     },
     "TEMPORARY" : {
-      "rating" : 5.08,
-      "total" : 42
+      "rating" : 5.3,
+      "total" : 53
     }
   },
   "resources" : {
@@ -264,9 +281,24 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -319,6 +351,22 @@
       "verified" : false,
       "weight" : 400
     },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "5834" : {
+      "info_box" : false,
+      "name" : "show within a show",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6018" : {
       "info_box" : false,
       "name" : "predominantly adult cast",
@@ -342,10 +390,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6230" : {
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -379,6 +443,10 @@
     "language" : "CHINESE_TRADITIONAL",
     "title" : "我回來了，他又來打擾了！",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "tadaoja",
+    "type" : "SHORT"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Tadaima, Ojamasaremasu!",

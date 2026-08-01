@@ -274,7 +274,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.49,
+        "rating" : 6.5,
         "total" : 8
       },
       "recap" : false,
@@ -406,7 +406,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.35,
+        "rating" : 5.36,
         "total" : 8
       },
       "recap" : false,
@@ -630,12 +630,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.4,
-      "total" : 1573
+      "rating" : 6.41,
+      "total" : 1586
     },
     "TEMPORARY" : {
-      "rating" : 7.02,
-      "total" : 1578
+      "rating" : 7.03,
+      "total" : 1591
     }
   },
   "resources" : {
@@ -675,6 +675,10 @@
     "9509" : {
       "rating" : 5.0,
       "total" : 10
+    },
+    "11998" : {
+      "rating" : 10.0,
+      "total" : 1
     },
     "12906" : {
       "rating" : 3.333333333333333,
@@ -828,6 +832,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2782" : {
+      "info_box" : false,
+      "name" : "shoujo ai",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2785" : {
       "info_box" : false,
@@ -1217,6 +1229,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "7220" : {
+      "info_box" : false,
+      "name" : "sexual abuse",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7221" : {
+      "info_box" : false,
+      "name" : "psychological sexual abuse",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7242" : {
       "info_box" : false,
