@@ -112,7 +112,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 3.38,
+        "rating" : 3.4,
         "total" : 12
       },
       "recap" : false,
@@ -137,7 +137,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.18,
+        "rating" : 4.21,
         "total" : 11
       },
       "recap" : false,
@@ -162,7 +162,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 2.62,
+        "rating" : 2.64,
         "total" : 9
       },
       "recap" : false,
@@ -212,7 +212,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.47,
+        "rating" : 3.49,
         "total" : 8
       },
       "recap" : false,
@@ -237,7 +237,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 3.74,
+        "rating" : 3.75,
         "total" : 7
       },
       "recap" : false,
@@ -262,7 +262,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 2.95,
+        "rating" : 2.97,
         "total" : 7
       },
       "recap" : false,
@@ -287,7 +287,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 2.75,
+        "rating" : 2.8,
         "total" : 7
       },
       "recap" : false,
@@ -312,7 +312,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 3.46,
+        "rating" : 3.47,
         "total" : 7
       },
       "recap" : false,
@@ -337,7 +337,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 3.53,
+        "rating" : 3.55,
         "total" : 7
       },
       "recap" : false,
@@ -362,7 +362,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 3.81,
+        "rating" : 3.85,
         "total" : 7
       },
       "recap" : false,
@@ -430,7 +430,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.41,
+        "rating" : 2.42,
         "total" : 3
       },
       "recap" : false,
@@ -445,7 +445,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 2.92,
+        "rating" : 2.93,
         "total" : 3
       },
       "recap" : false,
@@ -458,12 +458,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.11,
-      "total" : 475
+      "rating" : 2.12,
+      "total" : 492
     },
     "TEMPORARY" : {
-      "rating" : 5.0,
-      "total" : 477
+      "rating" : 5.02,
+      "total" : 494
     }
   },
   "resources" : {
@@ -540,9 +540,32 @@
       "verified" : false,
       "weight" : 0
     },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -554,6 +577,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 200
+    },
+    "2628" : {
+      "info_box" : false,
+      "name" : "fictional location",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2750" : {
       "info_box" : false,
@@ -570,6 +601,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2790" : {
+      "info_box" : false,
+      "name" : "plot continuity",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2798" : {
       "info_box" : true,
@@ -595,13 +634,21 @@
       "verified" : false,
       "weight" : 600
     },
+    "2850" : {
+      "info_box" : false,
+      "name" : "adventure",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2859" : {
-      "info_box" : true,
+      "info_box" : false,
       "name" : "harem",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 400
+      "weight" : 100
     },
     "2872" : {
       "info_box" : false,
@@ -622,6 +669,14 @@
       "info_box" : false,
       "name" : "manipulation",
       "parent_tag_id" : 2931,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -713,6 +768,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6610" : {
       "info_box" : false,
       "name" : "vandalism",
@@ -733,6 +796,14 @@
       "info_box" : false,
       "name" : "Japanese production",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8057" : {
+      "info_box" : false,
+      "name" : "medieval European aesthetic",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

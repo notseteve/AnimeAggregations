@@ -14,6 +14,10 @@
       "episode_id" : 307266,
       "length" : 20,
       "number" : 1,
+      "rating" : {
+        "rating" : 3.65,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -35,12 +39,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.03,
-      "total" : 11
+      "rating" : 2.83,
+      "total" : 19
     },
     "TEMPORARY" : {
-      "rating" : 3.63,
-      "total" : 11
+      "rating" : 4.57,
+      "total" : 19
     }
   },
   "resources" : {
@@ -50,6 +54,21 @@
   },
   "start_date" : "2026-04-10",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "775" : {
+      "info_box" : false,
+      "name" : "pregnant",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
@@ -191,8 +210,16 @@
     },
     "3800" : {
       "info_box" : false,
-      "name" : "oyakodon threesome",
-      "parent_tag_id" : 6572,
+      "name" : "oyakodon",
+      "parent_tag_id" : 2696,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

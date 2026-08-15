@@ -2,6 +2,15 @@
   "anime_id" : 19283,
   "characters" : {
     "MAIN" : [ {
+      "character_id" : 153259,
+      "name" : "Himedaka Sakura",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 153263,
+      "name" : "Kayou Hinagiku",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
       "character_id" : 153266,
       "name" : "Azami Rindou",
       "type" : "CHARACTER"
@@ -14,10 +23,6 @@
       "name" : "Hazakura Ruri",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 153259,
-      "name" : "Himedaka Sakura",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 153262,
       "name" : "Iwaizuki Nadeshiko",
       "type" : "CHARACTER"
@@ -28,10 +33,6 @@
     }, {
       "character_id" : 153261,
       "name" : "Kantsubaki Rousei",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 153263,
-      "name" : "Kayou Hinagiku",
       "type" : "CHARACTER"
     } ]
   },
@@ -71,7 +72,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.16,
+        "rating" : 7.15,
         "total" : 7
       },
       "recap" : false,
@@ -93,7 +94,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.99,
+        "rating" : 6.96,
         "total" : 6
       },
       "recap" : false,
@@ -114,7 +115,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.63,
+        "rating" : 6.61,
         "total" : 5
       },
       "recap" : false,
@@ -132,7 +133,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 9.47,
+        "rating" : 9.46,
         "total" : 3
       },
       "recap" : false,
@@ -150,7 +151,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 8.55,
+        "rating" : 8.49,
         "total" : 3
       },
       "recap" : false,
@@ -168,7 +169,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 7.6,
+        "rating" : 7.52,
         "total" : 3
       },
       "recap" : false,
@@ -186,7 +187,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.82,
+        "rating" : 8.81,
         "total" : 3
       },
       "recap" : false,
@@ -204,7 +205,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.31,
+        "rating" : 7.29,
         "total" : 1
       },
       "recap" : false,
@@ -240,7 +241,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 7.31,
+        "rating" : 7.29,
         "total" : 1
       },
       "recap" : false,
@@ -258,7 +259,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 7.31,
+        "rating" : 7.29,
         "total" : 1
       },
       "recap" : false,
@@ -276,7 +277,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 7.31,
+        "rating" : 7.29,
         "total" : 1
       },
       "recap" : false,
@@ -291,7 +292,7 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 7.31,
+        "rating" : 7.29,
         "total" : 1
       },
       "recap" : false,
@@ -315,16 +316,47 @@
         "title" : "Spring Flowers Bloom in Winter"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-04-05",
+      "episode_id" : 313919,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 4.38,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-04-05",
+      "episode_id" : 313920,
+      "length" : 2,
+      "number" : 2,
+      "rating" : {
+        "rating" : 6.61,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.94,
-      "total" : 81
+      "rating" : 5.08,
+      "total" : 110
     },
     "TEMPORARY" : {
-      "rating" : 6.0,
-      "total" : 82
+      "rating" : 6.1,
+      "total" : 111
     }
   },
   "resources" : {
@@ -341,13 +373,36 @@
   },
   "start_date" : "2026-03-29",
   "tags" : {
+    "362" : {
+      "info_box" : false,
+      "name" : "dancing",
+      "parent_tag_id" : 2793,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2568" : {
       "info_box" : true,
       "name" : "deity",
       "parent_tag_id" : 2849,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 400
+      "weight" : 600
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2607" : {
       "info_box" : false,
@@ -385,6 +440,70 @@
       "verified" : false,
       "weight" : 0
     },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2619" : {
+      "info_box" : false,
+      "name" : "gunfights",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2622" : {
+      "info_box" : false,
+      "name" : "swordplay",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2774" : {
+      "info_box" : false,
+      "name" : "spellcasting",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2778" : {
+      "info_box" : false,
+      "name" : "slow when it comes to love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2793" : {
+      "info_box" : false,
+      "name" : "performance",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2799" : {
       "info_box" : true,
       "name" : "novel",
@@ -393,13 +512,29 @@
       "verified" : false,
       "weight" : 0
     },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2840" : {
+      "info_box" : false,
+      "name" : "mafia",
+      "parent_tag_id" : 2872,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "2841" : {
       "info_box" : false,
       "name" : "action",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 200
     },
     "2849" : {
       "info_box" : true,
@@ -407,7 +542,7 @@
       "parent_tag_id" : 7050,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 400
+      "weight" : 600
     },
     "2858" : {
       "info_box" : true,
@@ -417,10 +552,58 @@
       "verified" : false,
       "weight" : 400
     },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2910" : {
+      "info_box" : false,
+      "name" : "parental abandonment",
+      "parent_tag_id" : 6249,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "3103" : {
+      "info_box" : false,
+      "name" : "first love",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3314" : {
+      "info_box" : false,
+      "name" : "fate",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3394" : {
       "info_box" : false,
       "name" : "environmentalism",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3489" : {
+      "info_box" : false,
+      "name" : "car chases",
+      "parent_tag_id" : 2841,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -433,10 +616,18 @@
       "verified" : false,
       "weight" : 200
     },
-    "3896" : {
+    "3836" : {
       "info_box" : false,
-      "name" : "bloodless wounds",
-      "parent_tag_id" : 2841,
+      "name" : "the chosen one!",
+      "parent_tag_id" : 3314,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3993" : {
+      "info_box" : false,
+      "name" : "kidnapping",
+      "parent_tag_id" : 2872,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -445,6 +636,30 @@
       "info_box" : false,
       "name" : "global warming",
       "parent_tag_id" : 3394,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5626" : {
+      "info_box" : false,
+      "name" : "adults are useless",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5824" : {
+      "info_box" : false,
+      "name" : "god is a girl",
+      "parent_tag_id" : 6233,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5851" : {
+      "info_box" : false,
+      "name" : "female protagonist",
+      "parent_tag_id" : 6230,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -464,6 +679,38 @@
       "verified" : false,
       "weight" : 0
     },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6249" : {
+      "info_box" : false,
+      "name" : "family life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7050" : {
       "info_box" : false,
       "name" : "speculative fiction",
@@ -471,6 +718,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "7220" : {
+      "info_box" : false,
+      "name" : "sexual abuse",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7238" : {
+      "info_box" : false,
+      "name" : "attempted rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "7885" : {
       "info_box" : false,

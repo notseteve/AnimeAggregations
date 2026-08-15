@@ -149,12 +149,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.44,
-      "total" : 10
+      "rating" : 5.02,
+      "total" : 12
     },
     "TEMPORARY" : {
-      "rating" : 5.4,
-      "total" : 10
+      "rating" : 5.08,
+      "total" : 12
     }
   },
   "related" : {
@@ -171,6 +171,29 @@
     "30" : {
       "info_box" : false,
       "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2857" : {
+      "info_box" : true,
+      "name" : "anthropomorphism",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "4259" : {
+      "info_box" : false,
+      "name" : "animal world",
+      "parent_tag_id" : 2857,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

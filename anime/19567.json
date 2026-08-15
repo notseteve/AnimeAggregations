@@ -151,9 +151,12 @@
     "REGULAR" : [ {
       "air_date" : "2026-03-20",
       "episode_id" : 300954,
-      "length" : 0,
+      "length" : 90,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMEE00376679JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Complete Movie"
@@ -161,12 +164,29 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.84,
+      "total" : 20
+    },
+    "TEMPORARY" : {
+      "rating" : 6.75,
+      "total" : 20
+    }
+  },
   "related" : {
     "PARENT" : [ 10702 ]
   },
   "resources" : {
+    "ALL_CINEMA" : [ "402235" ],
+    "ANISON" : [ "26343" ],
+    "ANN" : [ "37830" ],
+    "CRUNCHY_ROLL" : [ "GMTE00376679" ],
+    "MAL" : [ "62421" ],
     "TWITTER" : [ "ansatsu_anime" ],
-    "WEBSITE" : [ "https://ansatsu-anime.com/" ]
+    "WEBSITE" : [ "https://ansatsu-anime.com/" ],
+    "WIKIPEDIA_EN" : [ "Assassination_Classroom" ],
+    "WIKIPEDIA_JP" : [ "暗殺教室" ]
   },
   "start_date" : "2026-03-20",
   "tags" : {
@@ -195,8 +215,16 @@
     "title" : "劇場版 暗殺教室 みんなの時間",
     "type" : "OFFICIAL"
   }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Ansatsu Kyoushitsu Movie - Minna no Jikan",
+    "type" : "SYNONYM"
+  }, {
     "language" : "ENGLISH",
     "title" : "Assassination Classroom the Movie: Everybody`s Time",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Assassination Classroom the Movie: Our Time",
     "type" : "SYNONYM"
   } ],
   "type" : "MOVIE",

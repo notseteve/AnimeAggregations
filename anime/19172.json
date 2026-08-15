@@ -120,7 +120,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.1,
+        "rating" : 7.09,
         "total" : 5
       },
       "recap" : false,
@@ -131,8 +131,14 @@
         "language" : "GERMAN",
         "title" : "Die Katze und der Drache"
       }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Neko to Ryuu"
+      }, {
         "language" : "ENGLISH",
         "title" : "The Cat and the Dragon"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猫と竜"
       } ],
       "type" : "REGULAR"
     }, {
@@ -141,19 +147,25 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 6.17,
-        "total" : 4
+        "rating" : 6.42,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00378144JAJP" ]
       },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Haha Neko to Shoujo"
+      }, {
         "language" : "GERMAN",
         "title" : "Mamakatze und das Mädchen"
       }, {
         "language" : "ENGLISH",
         "title" : "The Mother Cat and the Girl"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "母猫と少女"
       } ],
       "type" : "REGULAR"
     }, {
@@ -162,13 +174,19 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.48,
-        "total" : 3
+        "rating" : 7.04,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Koneko-tachi to Hane no Oji-chan"
+      }, {
         "language" : "ENGLISH",
         "title" : "The Kittens and the Winged Uncle"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "子猫達と羽のおじちゃん"
       } ],
       "type" : "REGULAR"
     }, {
@@ -178,27 +196,41 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.91,
-        "total" : 2
+        "rating" : 5.1,
+        "total" : 4
       },
       "recap" : false,
       "resources" : {
         "CRUNCHY_ROLL" : [ "GE00378146JAJP" ]
       },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kuroneko to Ouji"
+      }, {
         "language" : "ENGLISH",
         "title" : "The Black Cat and the Prince"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "黒猫と王子"
       } ],
       "type" : "REGULAR"
     }, {
       "air_date" : "2026-07-25",
+      "description" : "A white cat named Shirotae befriends an orphan girl named Gallie, who is terrible at hunting.\nSource: Crunchyroll",
       "episode_id" : 313935,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 6.15,
+        "total" : 4
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378147JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "The White Cat and the Girl"
       } ],
       "type" : "REGULAR"
     }, {
@@ -206,10 +238,14 @@
       "episode_id" : 313936,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 7.82,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "The Evening of Foxtails"
       } ],
       "type" : "REGULAR"
     }, {
@@ -217,6 +253,10 @@
       "episode_id" : 313937,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 9.75,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -234,16 +274,60 @@
         "title" : "Episode 8"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-22",
+      "episode_id" : 314925,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-29",
+      "episode_id" : 314926,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-05",
+      "episode_id" : 314927,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-12",
+      "episode_id" : 314928,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.04,
-      "total" : 32
+      "rating" : 6.55,
+      "total" : 42
     },
     "TEMPORARY" : {
-      "rating" : 6.64,
-      "total" : 32
+      "rating" : 6.93,
+      "total" : 42
     }
   },
   "resources" : {

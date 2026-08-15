@@ -13,12 +13,33 @@
       "character_id" : 153140,
       "name" : "Iwamoto Kodou",
       "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 155726,
+      "name" : "Aonuma Shizuma",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155725,
+      "name" : "Awadama Mizuhi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155724,
+      "name" : "Kitsujou Boukyo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155723,
+      "name" : "Okuaki Yuuji",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155722,
+      "name" : "Sasame Ryuu",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
     "730" : [ {
       "name" : "Studio Deen",
-      "type" : "ANIMATION_WORK"
+      "type" : "WORK"
     } ],
     "1419" : [ {
       "name" : "Nakajima Atsuko",
@@ -45,13 +66,110 @@
       "type" : "MUSIC"
     } ]
   },
+  "description" : "1910s, Japan. A town with mysterious black snow. http://anidb.net/ch153140 [Iwamoto Kodou], a student at a military school dedicated to studying the paranormal, is sent to investigate. There, he meets a boy who believes he’s sick, but Kodou recognizes the illness as something else: supernatural abilities. Kodou recruits the boy to the school and sets off across the country, chasing mysteries and searching for others like him.\nSource: Crunchyroll",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-07-04",
+      "episode_id" : 313344,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 4.09,
+        "total" : 4
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378439JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Black Snow"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Schwarzer Schnee"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "黒イ雪"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-11",
+      "episode_id" : 313770,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 3.85,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "The Bond-Severing Sickles"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "縁切リノ鎌"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-18",
+      "episode_id" : 313983,
+      "length" : 25,
+      "number" : 3,
+      "rating" : {
+        "rating" : 7.48,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "The Lad Who Loved Insects"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "蟲愛ヅル君"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-25",
+      "episode_id" : 314382,
+      "length" : 25,
+      "number" : 4,
+      "rating" : {
+        "rating" : 8.3,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "The Legend of the Dead and the Gas Refinery"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "屍人伝説ト瓦斯工場"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.87,
+      "total" : 14
+    },
+    "TEMPORARY" : {
+      "rating" : 3.82,
+      "total" : 14
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "405336" ],
+    "ANISON" : [ "26534" ],
     "ANN" : [ "38308" ],
+    "CRUNCHY_ROLL" : [ "GT00378096" ],
+    "MAL" : [ "63324" ],
     "SYOBOI" : [ "7924" ],
+    "TMDB" : [ "tv/324335" ],
     "TWITTER" : [ "nura_gumi" ],
     "WEBSITE" : [ "https://iwamoto-anime.com/" ],
-    "WIKIPEDIA_EN" : [ "Iwamoto-senpai_no_Suisen" ]
+    "WIKIPEDIA_EN" : [ "Recommendations_from_Iwamoto-senpai" ],
+    "WIKIPEDIA_JP" : [ "岩元先輩ノ推薦" ]
   },
   "start_date" : "2026-07-04",
   "tags" : {
@@ -76,8 +194,20 @@
     "title" : "Iwamoto-senpai no Suisen",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Recommendations from Iwamoto-senpai",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "岩元先輩ノ推薦",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "岩元前輩的推薦",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "岩元前辈的推荐",
     "type" : "OFFICIAL"
   }, {
     "language" : "ENGLISH",

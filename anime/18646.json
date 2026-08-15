@@ -204,8 +204,8 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 8.03,
-        "total" : 3
+        "rating" : 8.31,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -225,8 +225,8 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.83,
-        "total" : 3
+        "rating" : 6.42,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -246,8 +246,8 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.16,
-        "total" : 3
+        "rating" : 7.68,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -267,8 +267,8 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 4.89,
-        "total" : 3
+        "rating" : 6.02,
+        "total" : 4
       },
       "recap" : false,
       "titles" : [ {
@@ -288,8 +288,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 3.64,
-        "total" : 2
+        "rating" : 5.46,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -309,8 +309,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 9.04,
-        "total" : 2
+        "rating" : 9.56,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -330,8 +330,8 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 9.04,
-        "total" : 2
+        "rating" : 8.74,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -351,8 +351,8 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 7.37,
-        "total" : 2
+        "rating" : 7.23,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -372,8 +372,8 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 9.04,
-        "total" : 2
+        "rating" : 8.42,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -393,8 +393,8 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 10.0,
-        "total" : 1
+        "rating" : 9.33,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -414,8 +414,8 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 7.37,
-        "total" : 2
+        "rating" : 7.23,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -435,8 +435,8 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 9.04,
-        "total" : 2
+        "rating" : 8.42,
+        "total" : 3
       },
       "recap" : false,
       "titles" : [ {
@@ -456,8 +456,8 @@
       "length" : 25,
       "number" : 13,
       "rating" : {
-        "rating" : 10.0,
-        "total" : 1
+        "rating" : 7.36,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -478,8 +478,8 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 2.65,
-        "total" : 1
+        "rating" : 5.77,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -493,8 +493,8 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 2.65,
-        "total" : 1
+        "rating" : 4.0,
+        "total" : 2
       },
       "recap" : false,
       "titles" : [ {
@@ -506,16 +506,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.26,
-      "total" : 102
+      "rating" : 5.12,
+      "total" : 112
     },
     "REVIEW" : {
       "rating" : 5.16,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 6.2,
-      "total" : 102
+      "rating" : 6.18,
+      "total" : 112
     }
   },
   "resources" : {
@@ -533,6 +533,61 @@
   },
   "start_date" : "2026-01-07",
   "tags" : {
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2612" : {
+      "info_box" : false,
+      "name" : "time",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2812" : {
+      "info_box" : false,
+      "name" : "United States",
+      "parent_tag_id" : 2832,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2832" : {
+      "info_box" : false,
+      "name" : "Americas",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

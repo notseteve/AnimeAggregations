@@ -116,7 +116,7 @@
       "length" : 30,
       "number" : 1,
       "rating" : {
-        "rating" : 8.37,
+        "rating" : 8.38,
         "total" : 8
       },
       "recap" : false,
@@ -200,7 +200,7 @@
       "length" : 30,
       "number" : 5,
       "rating" : {
-        "rating" : 8.69,
+        "rating" : 8.7,
         "total" : 8
       },
       "recap" : false,
@@ -221,7 +221,7 @@
       "length" : 30,
       "number" : 6,
       "rating" : {
-        "rating" : 8.97,
+        "rating" : 8.98,
         "total" : 7
       },
       "recap" : false,
@@ -263,7 +263,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 6.91,
+        "rating" : 6.92,
         "total" : 1
       },
       "recap" : false,
@@ -287,8 +287,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.55,
-      "total" : 1214
+      "rating" : 7.57,
+      "total" : 1229
     },
     "REVIEW" : {
       "rating" : 5.33,
@@ -296,7 +296,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.44,
-      "total" : 1219
+      "total" : 1234
     }
   },
   "related" : {
@@ -315,7 +315,9 @@
     "TMDB" : [ "tv/21738" ],
     "WEBSITE" : [ "http://www.production-ig.co.jp/contents/works_sp/0010_/index.html" ],
     "WIKIPEDIA_EN" : [ "Patlabor" ],
-    "WIKIPEDIA_JP" : [ "機動警察パトレイバー" ]
+    "WIKIPEDIA_JP" : [ "機動警察パトレイバー" ],
+    "WIKIPEDIA_KO" : [ "기동경찰_패트레이버" ],
+    "WIKIPEDIA_ZH" : [ "機動警察" ]
   },
   "start_date" : "1988-04-25",
   "tags" : {
@@ -537,6 +539,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "3813" : {
+      "info_box" : false,
+      "name" : "winter",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "3958" : {
       "info_box" : false,
       "name" : "coup d`etat",
@@ -569,6 +579,14 @@
       "verified" : false,
       "weight" : 300
     },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "4667" : {
       "info_box" : false,
       "name" : "hard science fiction",
@@ -587,6 +605,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6185" : {
+      "info_box" : false,
+      "name" : "season",
+      "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
