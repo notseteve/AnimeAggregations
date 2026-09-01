@@ -39,6 +39,10 @@
       "name" : "Nylea",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 156288,
+      "name" : "Radil",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153149,
       "name" : "Sidius de Lavillant",
       "type" : "CHARACTER"
@@ -51,8 +55,16 @@
       "name" : "Vass",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 156289,
+      "name" : "Vidal",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 153155,
       "name" : "Vufmek",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156287,
+      "name" : "Wysteresia de Illdoren",
       "type" : "CHARACTER"
     }, {
       "character_id" : 153153,
@@ -117,7 +129,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.15,
+        "rating" : 6.14,
         "total" : 10
       },
       "recap" : false,
@@ -145,7 +157,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 5.95,
+        "rating" : 5.93,
         "total" : 7
       },
       "recap" : false,
@@ -173,7 +185,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.47,
+        "rating" : 6.43,
         "total" : 6
       },
       "recap" : false,
@@ -194,7 +206,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 6.77,
+        "rating" : 6.74,
         "total" : 6
       },
       "recap" : false,
@@ -215,7 +227,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 6.89,
+        "rating" : 6.85,
         "total" : 5
       },
       "recap" : false,
@@ -236,7 +248,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 6.96,
+        "rating" : 6.92,
         "total" : 5
       },
       "recap" : false,
@@ -249,6 +261,9 @@
       }, {
         "language" : "ENGLISH",
         "title" : "Man-Made Disasters"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "逢魔は人の業"
       } ],
       "type" : "REGULAR"
     }, {
@@ -257,7 +272,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 8.24,
+        "rating" : 8.22,
         "total" : 5
       },
       "recap" : false,
@@ -270,6 +285,9 @@
       }, {
         "language" : "GERMAN",
         "title" : "Hinfort wäscht die Läuterung den Stillstand"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "流るるは澱みの祓"
       } ],
       "type" : "REGULAR"
     }, {
@@ -278,7 +296,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 8.37,
+        "rating" : 8.36,
         "total" : 4
       },
       "recap" : false,
@@ -300,7 +318,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 6.89,
+        "rating" : 6.85,
         "total" : 5
       },
       "recap" : false,
@@ -321,7 +339,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 6.66,
+        "rating" : 6.61,
         "total" : 4
       },
       "recap" : false,
@@ -334,6 +352,9 @@
       }, {
         "language" : "GERMAN",
         "title" : "Wasserdampf ist der Vorhang unter dem Berg"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "湯煙は麓下の帳"
       } ],
       "type" : "REGULAR"
     }, {
@@ -342,7 +363,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 5.37,
+        "rating" : 5.28,
         "total" : 4
       },
       "recap" : false,
@@ -364,7 +385,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 5.2,
+        "rating" : 5.14,
         "total" : 3
       },
       "recap" : false,
@@ -377,22 +398,129 @@
       }, {
         "language" : "ENGLISH",
         "title" : "The Crimson Warrior of Glory"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "紅蓮きは強者の威風"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-04-16",
+      "episode_id" : 314692,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-04-09",
+      "episode_id" : 314693,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ],
+    "PROMOTION" : [ {
+      "episode_id" : 314684,
+      "length" : 1,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1 Preview"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "episode_id" : 314685,
+      "length" : 1,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2 Preview"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "episode_id" : 314686,
+      "length" : 1,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3 Preview"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "episode_id" : 314687,
+      "length" : 1,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4 Preview"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "episode_id" : 314688,
+      "length" : 1,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5 Preview"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "episode_id" : 314689,
+      "length" : 1,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6 Preview"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "episode_id" : 314690,
+      "length" : 1,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7 Preview"
+      } ],
+      "type" : "PROMOTION"
+    }, {
+      "episode_id" : 314691,
+      "length" : 1,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8 Preview"
+      } ],
+      "type" : "PROMOTION"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.23,
-      "total" : 235
+      "rating" : 4.32,
+      "total" : 279
     },
     "REVIEW" : {
       "rating" : 2.66,
       "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 5.87,
-      "total" : 237
+      "rating" : 5.97,
+      "total" : 282
     }
   },
   "resources" : {
@@ -443,6 +571,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2750" : {
       "info_box" : false,
       "name" : "violence",
@@ -459,9 +594,57 @@
       "verified" : false,
       "weight" : 0
     },
+    "2849" : {
+      "info_box" : true,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "3718" : {
+      "info_box" : false,
+      "name" : "love between enemies",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3898" : {
+      "info_box" : false,
+      "name" : "science and magic coexist",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -477,7 +660,7 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Hime Kishi wa Barbaroi no Yome",
+    "title" : "Himekishi wa Barbaroi no Yome",
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
@@ -499,10 +682,6 @@
     "language" : "KOREAN",
     "title" : "공주 기사는 야만족의 신부",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Himekishi wa Barbaroi no Yome",
-    "type" : "SYNONYM"
   }, {
     "language" : "ENGLISH",
     "title" : "The Barbarian’s Bride",

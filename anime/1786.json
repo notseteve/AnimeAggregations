@@ -1354,12 +1354,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.76,
-      "total" : 29
+      "rating" : 5.8,
+      "total" : 32
     },
     "TEMPORARY" : {
-      "rating" : 5.91,
-      "total" : 29
+      "rating" : 5.92,
+      "total" : 32
     }
   },
   "related" : {
@@ -1375,6 +1375,13 @@
   },
   "start_date" : "1986-10-04",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2611" : {
       "info_box" : false,
       "name" : "elements",
@@ -1398,9 +1405,33 @@
       "verified" : false,
       "weight" : 600
     },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "4610" : {
+      "info_box" : false,
+      "name" : "commercial",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5852" : {
       "info_box" : true,
       "name" : "short episodes",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5980" : {
+      "info_box" : false,
+      "name" : "live-action imagery",
       "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,

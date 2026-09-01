@@ -30,7 +30,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Revitalizing the Island in Another World! The Harem Island Filled with Beautiful Women"
       }, {
         "language" : "JAPANESE",
         "title" : "異世界で島おこし! 美女だらけのハーレムン島"
@@ -44,7 +44,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "We Can Do It if We Try!? The Annoying but Cute Busty Junior Chiyo"
       }, {
         "language" : "JAPANESE",
         "title" : "ヤればデキる!? ウザかわ爆乳後輩チヨ"
@@ -52,8 +52,19 @@
       "type" : "REGULAR"
     } ]
   },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 2.86,
+      "total" : 8
+    },
+    "TEMPORARY" : {
+      "rating" : 4.83,
+      "total" : 9
+    }
+  },
   "resources" : {
     "MAL" : [ "64095" ],
+    "TMDB" : [ "tv/320889" ],
     "WEBSITE" : [ "https://www.a1c.jp/~collabo/product/haremisland_01.html" ]
   },
   "start_date" : "2026-07-31",
@@ -68,6 +79,13 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -96,6 +114,22 @@
       "verified" : false,
       "weight" : 600
     },
+    "2800" : {
+      "info_box" : true,
+      "name" : "game",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2803" : {
+      "info_box" : true,
+      "name" : "erotic game",
+      "parent_tag_id" : 2800,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -114,12 +148,21 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Harem Shima e Youkoso!",
+    "title" : "Harem-tou e Youkoso!",
     "type" : "MAIN"
   }, {
     "language" : "JAPANESE",
     "title" : "ハーレム島へようこそ!",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Harem Shima e Youkoso!",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "KOREAN",
+    "title" : "하렘섬에 어서오세요",
+    "type" : "SYNONYM"
   } ],
-  "type" : "OVA"
+  "type" : "OVA",
+  "url" : "https://www.a1c.jp/~collabo/product/haremisland_01.html"
 }

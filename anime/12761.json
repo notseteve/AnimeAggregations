@@ -164,7 +164,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 4.49,
+        "rating" : 4.5,
         "total" : 12
       },
       "recap" : false,
@@ -304,7 +304,7 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.75,
+        "rating" : 5.74,
         "total" : 9
       },
       "recap" : false,
@@ -388,7 +388,7 @@
       "length" : 25,
       "number" : 9,
       "rating" : {
-        "rating" : 7.46,
+        "rating" : 7.45,
         "total" : 11
       },
       "recap" : false,
@@ -416,7 +416,7 @@
       "length" : 25,
       "number" : 10,
       "rating" : {
-        "rating" : 8.6,
+        "rating" : 8.61,
         "total" : 11
       },
       "recap" : false,
@@ -472,7 +472,7 @@
       "length" : 25,
       "number" : 12,
       "rating" : {
-        "rating" : 9.95,
+        "rating" : 9.96,
         "total" : 12
       },
       "recap" : false,
@@ -527,7 +527,7 @@
       "length" : 15,
       "number" : 2,
       "rating" : {
-        "rating" : 6.26,
+        "rating" : 6.27,
         "total" : 3
       },
       "recap" : false,
@@ -702,8 +702,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.42,
-      "total" : 2204
+      "rating" : 7.43,
+      "total" : 2226
     },
     "REVIEW" : {
       "rating" : 6.41,
@@ -711,7 +711,7 @@
     },
     "TEMPORARY" : {
       "rating" : 7.56,
-      "total" : 2213
+      "total" : 2235
     }
   },
   "resources" : {
@@ -957,6 +957,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4480" : {
+      "info_box" : false,
+      "name" : "happy ending",
+      "parent_tag_id" : 6246,
+      "spoiler" : true,
+      "verified" : false,
+      "weight" : 0
+    },
     "5768" : {
       "info_box" : false,
       "name" : "intact family",
@@ -975,6 +983,14 @@
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

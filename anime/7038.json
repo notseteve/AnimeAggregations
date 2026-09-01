@@ -18,15 +18,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.65,
-      "total" : 12
+      "rating" : 3.79,
+      "total" : 13
     },
     "TEMPORARY" : {
-      "rating" : 2.79,
-      "total" : 12
+      "rating" : 2.96,
+      "total" : 13
     }
   },
   "resources" : {
+    "IMDB" : [ "tt44469949" ],
     "MAL" : [ "9304" ],
     "WEBSITE" : [ "http://web.archive.org/web/20020720045634/http://happyday.cinero.com/" ]
   },
@@ -49,6 +50,20 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -77,10 +92,42 @@
       "verified" : false,
       "weight" : 600
     },
+    "2848" : {
+      "info_box" : false,
+      "name" : "pornography",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2883" : {
+      "info_box" : false,
+      "name" : "the arts",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3946" : {
+      "info_box" : false,
+      "name" : "filmmaking",
+      "parent_tag_id" : 2883,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 500
+    },
     "3955" : {
       "info_box" : false,
       "name" : "DESCRIPTION MISSING",
       "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4318" : {
+      "info_box" : false,
+      "name" : "plot with porn",
+      "parent_tag_id" : 2848,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

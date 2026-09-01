@@ -6,8 +6,20 @@
       "name" : "Karasu",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 156151,
+      "name" : "Koneko",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 155848,
       "name" : "Kyokan no Mono no Kai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156152,
+      "name" : "Mono no Kai Dai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156153,
+      "name" : "Mono no Kai Shou",
       "type" : "CHARACTER"
     }, {
       "character_id" : 155850,
@@ -16,6 +28,18 @@
     }, {
       "character_id" : 155851,
       "name" : "Noraneko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156156,
+      "name" : "Noumen Kijin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156155,
+      "name" : "Noumen Okina",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156154,
+      "name" : "Noumen Onna",
       "type" : "CHARACTER"
     }, {
       "character_id" : 155849,
@@ -104,7 +128,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 5.8,
+        "rating" : 5.84,
         "total" : 7
       },
       "recap" : false,
@@ -128,7 +152,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.5,
+        "rating" : 3.55,
         "total" : 5
       },
       "recap" : false,
@@ -153,7 +177,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 3.79,
+        "rating" : 3.89,
         "total" : 3
       },
       "recap" : false,
@@ -178,7 +202,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 3.92,
+        "rating" : 3.93,
         "total" : 1
       },
       "recap" : false,
@@ -206,6 +230,9 @@
         "total" : 1
       },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377913JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Young Gunz"
@@ -219,10 +246,20 @@
       "episode_id" : 313901,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 6.15,
+        "total" : 2
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377914JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Turn Up"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "Turn Up"
       } ],
       "type" : "REGULAR"
     }, {
@@ -230,10 +267,17 @@
       "episode_id" : 313902,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 8.32,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377915JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "On Three"
       } ],
       "type" : "REGULAR"
     }, {
@@ -241,10 +285,64 @@
       "episode_id" : 313903,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 8.32,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377916JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Underdog"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-29",
+      "episode_id" : 315277,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377917JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "One"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-05",
+      "episode_id" : 315278,
+      "length" : 25,
+      "number" : 10,
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-12",
+      "episode_id" : 315279,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-19",
+      "episode_id" : 315280,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -274,12 +372,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.42,
-      "total" : 34
+      "rating" : 4.08,
+      "total" : 42
     },
     "TEMPORARY" : {
-      "rating" : 5.31,
-      "total" : 35
+      "rating" : 5.4,
+      "total" : 43
     }
   },
   "resources" : {

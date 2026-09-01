@@ -35,7 +35,7 @@
       "length" : 4,
       "number" : 1,
       "rating" : {
-        "rating" : 1.91,
+        "rating" : 1.89,
         "total" : 2
       },
       "recap" : false,
@@ -226,7 +226,7 @@
       "length" : 4,
       "number" : 12,
       "rating" : {
-        "rating" : 4.05,
+        "rating" : 4.02,
         "total" : 1
       },
       "recap" : false,
@@ -253,7 +253,7 @@
         "title" : "\"Saioshi no Gikei o Mederu Tame, Namahaishin Shimasu!\" Main Cast Dai Shuugou Tokuban"
       }, {
         "language" : "ENGLISH",
-        "title" : "Episode S1"
+        "title" : "Main Cast Stream"
       }, {
         "language" : "JAPANESE",
         "title" : "「最推しの義兄を愛でるため, 生配信します!」メインキャスト大集合特番"
@@ -263,12 +263,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.05,
-      "total" : 17
+      "rating" : 2.19,
+      "total" : 20
     },
     "TEMPORARY" : {
-      "rating" : 3.55,
-      "total" : 17
+      "rating" : 3.65,
+      "total" : 20
     }
   },
   "resources" : {
@@ -280,10 +280,27 @@
     "SYOBOI" : [ "7723" ],
     "TMDB" : [ "tv/304023" ],
     "WEBSITE" : [ "https://animationid.com/saioshi/" ],
+    "WIKIPEDIA_EN" : [ "I'll_Live_a_Long_Life_to_Dote_on_My_Favorite_Stepbrother!" ],
+    "WIKIPEDIA_JP" : [ "最推しの義兄を愛でるため、長生きします!" ],
     "YOUTUBE" : [ "watch?v=op0q5ROBBwU" ]
   },
   "start_date" : "2026-01-03",
   "tags" : {
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5852" : {
       "info_box" : true,
       "name" : "short episodes",
@@ -306,10 +323,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "7885" : {
       "info_box" : false,
       "name" : "Japanese production",
       "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "8277" : {
+      "info_box" : true,
+      "name" : "light anime",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

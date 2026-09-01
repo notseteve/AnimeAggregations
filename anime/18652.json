@@ -6,12 +6,24 @@
       "name" : "Annapuna",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 156403,
+      "name" : "Hidaka-gaimudaijin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156322,
+      "name" : "Kanshiki-kan",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 156197,
       "name" : "Krolden",
       "type" : "CHARACTER"
     }, {
       "character_id" : 156093,
       "name" : "Kubonuma-buchou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156404,
+      "name" : "Lee",
       "type" : "CHARACTER"
     }, {
       "character_id" : 155967,
@@ -24,6 +36,14 @@
     }, {
       "character_id" : 155880,
       "name" : "Nakajima",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156319,
+      "name" : "Nakamura Buchou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156321,
+      "name" : "Ningyoutsukai",
       "type" : "CHARACTER"
     }, {
       "character_id" : 156258,
@@ -52,6 +72,10 @@
     }, {
       "character_id" : 156200,
       "name" : "Unipuma",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156320,
+      "name" : "Willis-hakase",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
@@ -142,7 +166,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 7.55,
+        "rating" : 7.52,
         "total" : 13
       },
       "recap" : false,
@@ -163,7 +187,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.4,
+        "rating" : 7.36,
         "total" : 10
       },
       "recap" : false,
@@ -184,7 +208,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 7.78,
+        "rating" : 7.75,
         "total" : 10
       },
       "recap" : false,
@@ -205,7 +229,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 8.21,
+        "rating" : 8.17,
         "total" : 8
       },
       "recap" : false,
@@ -226,8 +250,8 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 7.34,
-        "total" : 5
+        "rating" : 6.25,
+        "total" : 6
       },
       "recap" : false,
       "titles" : [ {
@@ -247,8 +271,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 8.78,
-        "total" : 3
+        "rating" : 8.69,
+        "total" : 6
       },
       "recap" : false,
       "titles" : [ {
@@ -267,6 +291,10 @@
       "episode_id" : 313822,
       "length" : 25,
       "number" : 7,
+      "rating" : {
+        "rating" : 10.0,
+        "total" : 5
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "JAPANESE",
@@ -284,10 +312,20 @@
       "episode_id" : 313823,
       "length" : 25,
       "number" : 8,
+      "rating" : {
+        "rating" : 9.82,
+        "total" : 3
+      },
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "INTERMISSION / BRAIN DRAIN i"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "Intermission / Brain Drain I"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Intermission / Brain Drain I"
       } ],
       "type" : "REGULAR"
     }, {
@@ -297,8 +335,14 @@
       "number" : 9,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE",
+        "title" : "BRAIN DRAIN ii"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Brain Drain II"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Brain Drain II"
       } ],
       "type" : "REGULAR"
     }, {
@@ -341,7 +385,7 @@
       "length" : 2,
       "number" : 1,
       "rating" : {
-        "rating" : 3.46,
+        "rating" : 3.45,
         "total" : 2
       },
       "recap" : false,
@@ -356,7 +400,7 @@
       "length" : 2,
       "number" : 2,
       "rating" : {
-        "rating" : 1.43,
+        "rating" : 1.42,
         "total" : 2
       },
       "recap" : false,
@@ -369,12 +413,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 8.07,
-      "total" : 73
+      "rating" : 8.3,
+      "total" : 86
     },
     "TEMPORARY" : {
-      "rating" : 7.9,
-      "total" : 73
+      "rating" : 8.01,
+      "total" : 86
     }
   },
   "related" : {
@@ -391,12 +435,16 @@
     "TWITTER" : [ "thegits_anime" ],
     "WEBSITE" : [ "https://www.theghostintheshell-anime.jp/" ],
     "WIKIPEDIA_EN" : [ "The_Ghost_in_the_Shell_(2026_TV_series)" ],
-    "WIKIPEDIA_JP" : [ "攻殻機動隊" ]
+    "WIKIPEDIA_JP" : [ "攻殻機動隊_THE_GHOST_IN_THE_SHELL" ]
   },
   "similar" : {
+    "786" : {
+      "rating" : 10.0,
+      "total" : 3
+    },
     "14992" : {
       "rating" : 10.0,
-      "total" : 2
+      "total" : 3
     }
   },
   "start_date" : "2026-07-07",
@@ -423,6 +471,10 @@
     "type" : "MAIN"
   }, {
     "language" : "FRENCH",
+    "title" : "The Ghost in the Shell",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "GERMAN",
     "title" : "The Ghost in the Shell",
     "type" : "OFFICIAL"
   }, {

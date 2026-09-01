@@ -40,17 +40,17 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.43,
-      "total" : 57
+      "rating" : 3.47,
+      "total" : 58
     },
     "TEMPORARY" : {
-      "rating" : 4.64,
-      "total" : 57
+      "rating" : 4.67,
+      "total" : 58
     }
   },
   "resources" : {
     "MAL" : [ "12993" ],
-    "WEBSITE" : [ "http://www.studiofantasia.co.jp/work02.html#g17" ],
+    "WEBSITE" : [ "https://web.archive.org/web/20120220143630/https://www.studiofantasia.co.jp/work02.html#g17" ],
     "WIKIPEDIA_EN" : [ "Beyond_the_Beyond_(manga)" ],
     "WIKIPEDIA_JP" : [ "その向こうの向こう側" ]
   },
@@ -60,6 +60,14 @@
       "info_box" : true,
       "name" : "shounen",
       "parent_tag_id" : 2606,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2094" : {
+      "info_box" : false,
+      "name" : "magic",
+      "parent_tag_id" : 2849,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -78,6 +86,21 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2773" : {
+      "info_box" : false,
+      "name" : "magic circles",
+      "parent_tag_id" : 2094,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
@@ -86,9 +109,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "2849" : {
+      "info_box" : false,
+      "name" : "fantasy",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -106,6 +145,10 @@
     "language" : "JAPANESE_TRANSLITERATED",
     "title" : "Sono Mukou no Mukougawa",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "The Other Side of the Other Side",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "その向こうの向こう側",

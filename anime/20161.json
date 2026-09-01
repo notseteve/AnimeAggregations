@@ -1,23 +1,74 @@
 {
   "anime_id" : 20161,
+  "episodes" : {
+    "REGULAR" : [ {
+      "episode_id" : 314185,
+      "length" : 20,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.69,
-      "total" : 1
+      "rating" : 3.84,
+      "total" : 7
     },
     "TEMPORARY" : {
-      "rating" : 6.0,
-      "total" : 1
+      "rating" : 4.78,
+      "total" : 7
     }
   },
   "resources" : {
+    "MAL" : [ "64542" ],
+    "TMDB" : [ "tv/327371" ],
     "WEBSITE" : [ "https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_766695/" ]
   },
   "start_date" : "2026-07-03",
   "tags" : {
+    "30" : {
+      "info_box" : false,
+      "name" : "maintenance tags",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "1492" : {
+      "info_box" : false,
+      "name" : "mask",
+      "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2604" : {
+      "info_box" : false,
+      "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -30,12 +81,100 @@
       "verified" : false,
       "weight" : 0
     },
+    "2707" : {
+      "info_box" : false,
+      "name" : "internal shots",
+      "parent_tag_id" : 2848,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2715" : {
+      "info_box" : true,
+      "name" : "rape",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2748" : {
+      "info_box" : true,
+      "name" : "sex",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2749" : {
+      "info_box" : true,
+      "name" : "nudity",
+      "parent_tag_id" : 2604,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2848" : {
+      "info_box" : false,
+      "name" : "pornography",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "6019" : {
+      "info_box" : false,
+      "name" : "brainwashing",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6149" : {
+      "info_box" : false,
+      "name" : "TO BE MOVED TO CHARACTER",
+      "parent_tag_id" : 30,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6730" : {
+      "info_box" : false,
+      "name" : "torture",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "7220" : {
+      "info_box" : false,
+      "name" : "sexual abuse",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7221" : {
+      "info_box" : false,
+      "name" : "psychological sexual abuse",
+      "parent_tag_id" : 7220,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "7885" : {
       "info_box" : false,

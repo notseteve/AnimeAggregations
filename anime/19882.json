@@ -1,14 +1,175 @@
 {
   "anime_id" : 19882,
+  "characters" : {
+    "MAIN" : [ {
+      "character_id" : 118452,
+      "name" : "Cheng Xiaoshi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 118453,
+      "name" : "Lu Guang",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 119082,
+      "name" : "Qiao Ling",
+      "type" : "CHARACTER"
+    } ]
+  },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-08-14",
+      "episode_id" : 315236,
+      "length" : 25,
+      "number" : 1,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00380274ZHCN" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "The Forgotten Past"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "遗忘的过去"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-14",
+      "episode_id" : 315237,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00380275ZHCN" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "The Caged Beast"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "困兽"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-21",
+      "episode_id" : 315251,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00380276ZHCN" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Bloodbath in Laos"
+      }, {
+        "language" : "CHINESE_SIMPLIFIED",
+        "title" : "血洗缅挝"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-28",
+      "episode_id" : 315252,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-04",
+      "episode_id" : 315253,
+      "length" : 25,
+      "number" : 5,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 5"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-11",
+      "episode_id" : 315254,
+      "length" : 25,
+      "number" : 6,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 6"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-18",
+      "episode_id" : 315255,
+      "length" : 25,
+      "number" : 7,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 7"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-25",
+      "episode_id" : 315256,
+      "length" : 25,
+      "number" : 8,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-08-14",
+      "episode_id" : 315517,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-08-14",
+      "episode_id" : 315518,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.7,
+      "total" : 2
+    },
+    "TEMPORARY" : {
+      "rating" : 5.5,
+      "total" : 2
+    }
+  },
   "related" : {
-    "PREQUEL" : [ 19078 ]
+    "PREQUEL" : [ 16531 ]
   },
   "resources" : {
     "BAIDU_BAIKE" : [ "时光代理人/54614428" ],
     "BANGUMI" : [ "555710" ],
     "BILI_BILI" : [ "bangumi/media/md26949780" ],
+    "CRUNCHY_ROLL" : [ "GP5HJ8E81" ],
     "DOUBAN" : [ "37192944" ],
     "MAL" : [ "61607" ],
+    "STREAM" : [ "https://www.bilibili.tv/en/media/2410703" ],
+    "TMDB" : [ "tv/123542" ],
     "TWITTER" : [ "sgdlr_offical" ],
     "WEBSITE" : [ "https://link-click.jp/" ],
     "WIKIPEDIA_ZH" : [ "时光代理人" ]
@@ -37,7 +198,27 @@
     "type" : "MAIN"
   }, {
     "language" : "ENGLISH",
+    "title" : "Link Click (2026)",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "时光代理人III -LINK CLICK-",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "LINK CLICK 3",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
     "title" : "Link Click III Part One",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Link Click S3",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Link Click Season 3",
     "type" : "SYNONYM"
   }, {
     "language" : "CHINESE_SIMPLIFIED",

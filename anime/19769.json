@@ -18,7 +18,7 @@
       "length" : 20,
       "number" : 1,
       "rating" : {
-        "rating" : 3.62,
+        "rating" : 3.65,
         "total" : 1
       },
       "recap" : false,
@@ -31,12 +31,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 6.14,
-      "total" : 19
+      "rating" : 5.94,
+      "total" : 20
     },
     "TEMPORARY" : {
-      "rating" : 6.39,
-      "total" : 19
+      "rating" : 6.37,
+      "total" : 20
     }
   },
   "resources" : {
@@ -53,9 +53,23 @@
       "verified" : false,
       "weight" : 0
     },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -107,6 +121,14 @@
       "verified" : false,
       "weight" : 600
     },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2848" : {
       "info_box" : false,
       "name" : "pornography",
@@ -131,9 +153,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "6018" : {
+      "info_box" : false,
+      "name" : "predominantly adult cast",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

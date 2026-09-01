@@ -1,13 +1,50 @@
 {
   "anime_id" : 18885,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 156127,
+      "name" : "Arlos",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 101861,
+      "name" : "Diablo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 136043,
+      "name" : "Jaune",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155930,
+      "name" : "Katana Samurai no Akuma",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 99097,
+      "name" : "Leon Cromwell",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156273,
+      "name" : "Suiryuu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155931,
+      "name" : "Youkaku no Akuma",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
+      "character_id" : 97711,
+      "name" : "Gobta",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 96306,
       "name" : "Rimuru Tempest",
       "type" : "CHARACTER"
     }, {
       "character_id" : 96309,
       "name" : "Rimuru Tempest",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 152277,
+      "name" : "Yura",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
@@ -17,10 +54,6 @@
     }, {
       "character_id" : 118717,
       "name" : "Beretta",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 101861,
-      "name" : "Diablo",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152275,
@@ -43,10 +76,6 @@
       "name" : "Gido",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 97711,
-      "name" : "Gobta",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 96303,
       "name" : "Hakurou",
       "type" : "CHARACTER"
@@ -59,12 +88,20 @@
       "name" : "Kaval",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 156272,
+      "name" : "Lete-ou",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 119764,
       "name" : "Luminus Valentine",
       "type" : "CHARACTER"
     }, {
       "character_id" : 96305,
       "name" : "Milim Nava",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156145,
+      "name" : "Mio",
       "type" : "CHARACTER"
     }, {
       "character_id" : 99972,
@@ -99,8 +136,8 @@
       "name" : "Veldora",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 152277,
-      "name" : "Yura",
+      "character_id" : 156146,
+      "name" : "Yori",
       "type" : "CHARACTER"
     }, {
       "character_id" : 152276,
@@ -152,33 +189,54 @@
     "REGULAR" : [ {
       "air_date" : "2026-02-27",
       "episode_id" : 298887,
-      "length" : 0,
+      "length" : 105,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.21,
+        "total" : 1
+      },
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GMEE00374450JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Complete Movie"
       } ],
       "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-02-27",
+      "episode_id" : 314665,
+      "length" : 4,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
     } ]
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.41,
-      "total" : 13
+      "rating" : 4.15,
+      "total" : 124
     },
     "TEMPORARY" : {
-      "rating" : 5.69,
-      "total" : 13
+      "rating" : 6.12,
+      "total" : 125
     }
   },
   "related" : {
-    "OTHER" : [ 17709 ]
+    "PREQUEL" : [ 17709 ],
+    "SEQUEL" : [ 18884 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "399215" ],
     "ANISON" : [ "26344" ],
     "ANN" : [ "34556" ],
+    "CRUNCHY_ROLL" : [ "GMTE00374450" ],
     "MAL" : [ "59971" ],
     "SYOBOI" : [ "7740" ],
     "TWITTER" : [ "ten_sura_anime" ],
@@ -281,6 +339,10 @@
     "title" : "Meine Wiedergeburt als Schleim in einer anderen Welt the Movie: Tears of the Azure Sea",
     "type" : "OFFICIAL"
   }, {
+    "language" : "POLISH",
+    "title" : "Odrodzony jako galareta. Film: Łzy Morza Lazuroweg",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "SPANISH",
     "title" : "That Time I Got Reincarnated as a Slime La Película: Lágrimas del mar celeste",
     "type" : "OFFICIAL"
@@ -296,6 +358,10 @@
     "language" : "KOREAN",
     "title" : "극장판 전생했더니 슬라임이었던 건에 대하여 창해의 눈물편",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Tensei shitara Slime Datta Ken Movie 2 - Soukai no Namida-hen",
+    "type" : "SYNONYM"
   } ],
   "type" : "MOVIE",
   "url" : "https://movie02.ten-sura.com/"
