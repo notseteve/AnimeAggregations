@@ -74,7 +74,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.17,
+        "rating" : 3.18,
         "total" : 1
       },
       "recap" : false,
@@ -89,7 +89,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 2.55,
+        "rating" : 2.56,
         "total" : 1
       },
       "recap" : false,
@@ -104,13 +104,13 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 2.06,
+        "rating" : 2.07,
         "total" : 1
       },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Overheat"
       } ],
       "type" : "REGULAR"
     }, {
@@ -118,10 +118,14 @@
       "episode_id" : 314165,
       "length" : 25,
       "number" : 5,
+      "rating" : {
+        "rating" : 6.61,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 5"
+        "title" : "Girls` Roar"
       } ],
       "type" : "REGULAR"
     }, {
@@ -129,10 +133,14 @@
       "episode_id" : 314166,
       "length" : 25,
       "number" : 6,
+      "rating" : {
+        "rating" : 2.56,
+        "total" : 1
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 6"
+        "title" : "Shin-Shin-Koiwa"
       } ],
       "type" : "REGULAR"
     }, {
@@ -143,7 +151,7 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 7"
+        "title" : "Restored Memory"
       } ],
       "type" : "REGULAR"
     }, {
@@ -155,6 +163,50 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Episode 8"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-03",
+      "episode_id" : 315680,
+      "length" : 25,
+      "number" : 9,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 9"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-10",
+      "episode_id" : 315681,
+      "length" : 25,
+      "number" : 10,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 10"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-17",
+      "episode_id" : 315682,
+      "length" : 25,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-24",
+      "episode_id" : 315683,
+      "length" : 25,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ],
@@ -179,12 +231,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 2.11,
-      "total" : 15
+      "rating" : 2.26,
+      "total" : 20
     },
     "TEMPORARY" : {
-      "rating" : 3.46,
-      "total" : 15
+      "rating" : 4.0,
+      "total" : 20
     }
   },
   "resources" : {
@@ -198,10 +250,19 @@
     "TWITTER" : [ "ANIMA_info" ],
     "WEBSITE" : [ "https://mebiusdust.asmik-ace.co.jp/" ],
     "WIKIPEDIA_EN" : [ "Mebius_Dust" ],
+    "WIKIPEDIA_JP" : [ "メビウス・ダスト" ],
     "YOUTUBE" : [ "watch?v=ytRFJainaic" ]
   },
   "start_date" : "2026-07-09",
   "tags" : {
+    "6004" : {
+      "info_box" : false,
+      "name" : "development hell",
+      "parent_tag_id" : 6173,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",

@@ -1,6 +1,71 @@
 {
   "anime_id" : 19698,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 156365,
+      "name" : "Bram Stoker",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156000,
+      "name" : "Carl",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114770,
+      "name" : "Edogawa Ranpo",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114758,
+      "name" : "Elise",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114777,
+      "name" : "Gin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156363,
+      "name" : "Herman Melville",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114769,
+      "name" : "Higuchi Ichiyou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114766,
+      "name" : "Hirotsu Ryuurou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114767,
+      "name" : "Kajii Motojirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156364,
+      "name" : "Kouda Aya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156362,
+      "name" : "Mark Twain",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114768,
+      "name" : "Mori Ougai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114765,
+      "name" : "Ozaki Kouyou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156410,
+      "name" : "Yokomizo Seishi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114759,
+      "name" : "Yosano Akiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156354,
+      "name" : "Yumeno Kyuusaku",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 114763,
       "name" : "Dazai Osamu",
@@ -15,16 +80,88 @@
       "name" : "Akutagawa Ryuunosuke",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 155834,
+      "name" : "Francis",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155846,
+      "name" : "Fukuchi Ouchi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114772,
+      "name" : "Fukuzawa Yukichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155838,
+      "name" : "Fyodor",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 114771,
       "name" : "Izumi Kyouka",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155843,
+      "name" : "Jouno Saigiku",
       "type" : "CHARACTER"
     }, {
       "character_id" : 114762,
       "name" : "Kunikida Doppo",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 155837,
+      "name" : "Louisa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155835,
+      "name" : "Lucy",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114764,
+      "name" : "Miyazawa Kenji",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 114760,
       "name" : "Nakahara Chuuya",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155839,
+      "name" : "Nikolai",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155841,
+      "name" : "Oguri Mushitarou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155845,
+      "name" : "Ookura Teruko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155836,
+      "name" : "Poe",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155842,
+      "name" : "Sakaguchi Ango",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155840,
+      "name" : "Sigma",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155844,
+      "name" : "Suehiro Tecchou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114773,
+      "name" : "Tachihara Michizou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114776,
+      "name" : "Tanizaki Jun`ichirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 114775,
+      "name" : "Tanizaki Naomi",
       "type" : "CHARACTER"
     } ]
   },
@@ -32,6 +169,14 @@
     "677" : [ {
       "name" : "Machida Touko",
       "type" : "SERIES_COMPOSITION"
+    } ],
+    "755" : [ {
+      "name" : "Bones",
+      "type" : "ANIMATION_WORK"
+    } ],
+    "1055" : [ {
+      "name" : "Nomad",
+      "type" : "ANIMATION_WORK"
     } ],
     "1414" : [ {
       "name" : "Iwasaki Taku",
@@ -50,6 +195,7 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "end_date" : "2026-09-17",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-07-02",
@@ -57,9 +203,18 @@
       "length" : 15,
       "number" : 1,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377860JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 1"
+        "title" : "Bungo Stray Dogs Wan! The Real Returns! / Atsushi`s Sweet Recipe / Relativistic Dazai"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bungou Stray Dogs Wan! The Real Returns! / Atsushi no Sweets Cooking / Soutairontekisei Dazai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "文豪ストレイドッグス わん! THE REAL RETURNS! / 敦のスイーツ☆クッキング / 相対論的太宰"
       } ],
       "type" : "REGULAR"
     }, {
@@ -68,9 +223,18 @@
       "length" : 15,
       "number" : 2,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377861JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 2"
+        "title" : "Late Night Summons and Service / Between Freedom and Duty / Atsushi-kun and the Angel and Devil / Wan! Shorts: Won`t Stop Counting Up"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Shin`ya no Yobidashi Omotenashi / Jiyuu to Gimu no Hazama de / Atsushi-kun to Tenshi to Akuma / Wan! Koneta: Count up ga Tomaranai"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "深夜の呼び出しおもてなし / 自由と義務のはざまで / 敦君と天使と悪魔 / わん! 小ネタ カウントアップが 止まらない"
       } ],
       "type" : "REGULAR"
     }, {
@@ -79,9 +243,18 @@
       "length" : 15,
       "number" : 3,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377862JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ryouken ga Kita! / Sagure! Gunkei Saikyou Butai / Gunkei Saikyou Kagaku (Parallel) Butai Ryouken (Kowai Wanwan) Kenkyuujo"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 3"
+        "title" : "The Hunting Dogs Are Here! / Investigate the Strongest Military Police Squad! / The Ultimate Military Police Science Squad`s (Super Scary) Hunting Dog Reasearch Lab"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "猟犬が来た! / 探れ! 軍警最強部隊 / 軍警最強科学 (ぱられる) 部隊猟犬 (こわいわんわん) 研究所"
       } ],
       "type" : "REGULAR"
     }, {
@@ -90,19 +263,182 @@
       "length" : 15,
       "number" : 4,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377863JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 4"
+        "title" : "Laid-Back Guild / We Intelligent Men / Kyou-chan and Lu-chan"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yuru Guild / Atama no Yoi Bokutachi wa / Kyou-chan to Lu-chan"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ゆるぎるど / 頭の善い僕たちは / きょーちゃんとルーちゃん"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-30",
+      "episode_id" : 313884,
+      "length" : 15,
+      "number" : 5,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377864JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Bun Suto Hoikuen 2!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Bungo Stray Dogs Preschool 2!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "文ストほいくえん2!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-06",
+      "episode_id" : 313885,
+      "length" : 15,
+      "number" : 6,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377865JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Reclaim Your Bygone Youth! / Oddly Incompatible / Wan! Shorts: The Cat, Akutagawa, and the Suspicious Gaze"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Torimodose! Seishun! Sugisatta! Seishun! / Bimyou ni Kamiawanai Futari / Wan! Koneta: Cat! to Yatsugare Giwaku no Manazashi"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "取り戻せ! 青春! 過ぎ去った! 青春! / 微妙に嚙み合わない二人 / わん! 小ネタ キャッ! とやつがれ疑惑の眼差し"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-13",
+      "episode_id" : 313886,
+      "length" : 15,
+      "number" : 7,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377866JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chikara Koso Subete! Ikinokore Night! / Sigma-kun no Himitsu"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Strength Is Everything! Survive the Night! / Sigma`s Secret"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "力こそ全て! 生き残れNight! / シグマくんのひ・み・つ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-20",
+      "episode_id" : 313887,
+      "length" : 15,
+      "number" : 8,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377867JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Clash! At a Dangerous Field Day!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gekitotsu! Kiken na Undoukai!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "激突! 危険な運動会!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-27",
+      "episode_id" : 315134,
+      "length" : 15,
+      "number" : 9,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377868JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kimyou de Yukai na Machiawase / Kami no Miezaru Te o Tsukamu / Toaru Himitsu no Kaigou / Setsuritsu Hoyahoya Monogatari"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Oddly Delightful Meeting / Seize the Invisible Hand of God / A Certain Secret Meeting / Early Days"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "奇妙で愉快な待ち合わせ / 神の見えざる手を掴む / とある秘密の会合 / 設立ほやほや物語"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-03",
+      "episode_id" : 315135,
+      "length" : 15,
+      "number" : 10,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00377869JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Dazai, Chuuya, Age 14 (Edgelord Era): Personal Tastes / Dazai, Chuuya, Age 14: Hypothetically Speaking / An Ambitious Age / Wan! Shorts: New Teacher Atsushi-sensei!!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Dazai, Chuuya, Juuyonsai (Chuunibyou): Shumi no Shou / Dazai, Chuuya, Juuyonsai: Moshimo Chikara ga Atta Nara / Senobi Shitai Otoshigoro-tachi / Wan! Koneta: Shinnin Kyoushi - Atsushi-sensei!!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "太宰, 中也, 十四歳 (中二病) ~ 趣味の章 / 太宰, 中也, 十四歳 ~ もしも力があったなら / 背伸びしたいお年頃たち / わん! 小ネタ 新任教師 敦先生!!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-10",
+      "episode_id" : 315136,
+      "length" : 15,
+      "number" : 11,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 11"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-17",
+      "episode_id" : 315137,
+      "length" : 15,
+      "number" : 12,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12"
       } ],
       "type" : "REGULAR"
     } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 3.36,
+      "total" : 7
+    },
+    "TEMPORARY" : {
+      "rating" : 4.57,
+      "total" : 7
+    }
   },
   "related" : {
     "PREQUEL" : [ 15602 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "403105" ],
+    "ANISON" : [ "23291" ],
     "ANN" : [ "37954" ],
+    "CRUNCHY_ROLL" : [ "GMEHMEN75" ],
     "MAL" : [ "62883" ],
     "SYOBOI" : [ "7922" ],
     "TWITTER" : [ "bungosd_anime" ],
@@ -112,9 +448,24 @@
   },
   "start_date" : "2026-07-02",
   "tags" : {
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6494" : {
+      "info_box" : true,
+      "name" : "half-length episodes",
+      "parent_tag_id" : 6151,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -140,6 +491,10 @@
     "language" : "JAPANESE",
     "title" : "文豪ストレイドッグス わん! 2",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Bungou Stray Dogs Wan! S2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://wan2.bungo-stray-dogs-wan.com/"

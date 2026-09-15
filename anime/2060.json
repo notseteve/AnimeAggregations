@@ -305,12 +305,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.6,
-      "total" : 91
+      "rating" : 7.62,
+      "total" : 90
     },
     "TEMPORARY" : {
-      "rating" : 7.12,
-      "total" : 92
+      "rating" : 7.14,
+      "total" : 91
     }
   },
   "related" : {
@@ -341,6 +341,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "183" : {
+      "info_box" : false,
+      "name" : "boxing",
+      "parent_tag_id" : 2751,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "922" : {
       "info_box" : true,
       "name" : "shounen",
@@ -350,12 +358,12 @@
       "weight" : 0
     },
     "2043" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "high school",
       "parent_tag_id" : 2869,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 300
+      "weight" : 400
     },
     "2069" : {
       "info_box" : false,
@@ -363,11 +371,18 @@
       "parent_tag_id" : 2869,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 500
+      "weight" : 600
     },
     "2604" : {
       "info_box" : false,
       "name" : "content indicators",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -429,7 +444,7 @@
       "parent_tag_id" : 2612,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 300
+      "weight" : 600
     },
     "2630" : {
       "info_box" : false,
@@ -437,7 +452,23 @@
       "parent_tag_id" : 2613,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
+    },
+    "2652" : {
+      "info_box" : false,
+      "name" : "super deformed",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2655" : {
       "info_box" : true,
@@ -447,13 +478,29 @@
       "verified" : false,
       "weight" : 400
     },
+    "2658" : {
+      "info_box" : false,
+      "name" : "toilet humour",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2672" : {
       "info_box" : false,
       "name" : "Japan",
       "parent_tag_id" : 2834,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 500
+      "weight" : 600
+    },
+    "2679" : {
+      "info_box" : false,
+      "name" : "Kyoto",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2750" : {
       "info_box" : true,
@@ -462,6 +509,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2751" : {
+      "info_box" : false,
+      "name" : "combat",
+      "parent_tag_id" : 2881,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2779" : {
+      "info_box" : false,
+      "name" : "multiple couples",
+      "parent_tag_id" : 2858,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
     },
     "2798" : {
       "info_box" : true,
@@ -477,7 +540,7 @@
       "parent_tag_id" : 2630,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 600
     },
     "2841" : {
       "info_box" : true,
@@ -488,17 +551,113 @@
       "weight" : 400
     },
     "2853" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "comedy",
       "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 0
+      "weight" : 400
+    },
+    "2858" : {
+      "info_box" : false,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2862" : {
+      "info_box" : false,
+      "name" : "friendship",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2869" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "school life",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2872" : {
+      "info_box" : false,
+      "name" : "crime",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2881" : {
+      "info_box" : false,
+      "name" : "sports",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2888" : {
+      "info_box" : false,
+      "name" : "coming of age",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "3028" : {
+      "info_box" : false,
+      "name" : "real-world location",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3411" : {
+      "info_box" : false,
+      "name" : "fighting",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3741" : {
+      "info_box" : false,
+      "name" : "bullying",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3822" : {
+      "info_box" : false,
+      "name" : "strong male lead",
+      "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4522" : {
+      "info_box" : false,
+      "name" : "social commentary",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -511,10 +670,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "5285" : {
+      "info_box" : false,
+      "name" : "street fighting",
+      "parent_tag_id" : 3411,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5746" : {
       "info_box" : false,
       "name" : "bousouzoku",
       "parent_tag_id" : 6149,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5792" : {
+      "info_box" : false,
+      "name" : "gangs",
+      "parent_tag_id" : 2872,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -540,6 +715,30 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6230" : {
+      "info_box" : false,
+      "name" : "cast",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7089" : {
+      "info_box" : false,
+      "name" : "Kamakura",
+      "parent_tag_id" : 2672,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "7885" : {
       "info_box" : false,

@@ -2,54 +2,115 @@
   "anime_id" : 13705,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 1906,
+      "name" : "Archer",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 1911,
+      "name" : "Assassin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 1907,
+      "name" : "Berserker",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 1910,
+      "name" : "Caster",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 1919,
+      "name" : "Emiya Kiritsugu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 46265,
+      "name" : "Emiya Shirou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 46284,
+      "name" : "Fujimura Taiga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 1932,
+      "name" : "Himuro Kane",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 70772,
       "name" : "Hotaruzuka Otoko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 1917,
+      "name" : "Kuzuki Souichirou",
       "type" : "CHARACTER"
     }, {
       "character_id" : 1908,
       "name" : "Lancer",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 1905,
-      "name" : "Matou Sakura",
+      "character_id" : 1939,
+      "name" : "Leysritt",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 1929,
+      "name" : "Makidera Kaede",
       "type" : "CHARACTER"
     }, {
       "character_id" : 1914,
       "name" : "Matou Shinji",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 1909,
-      "name" : "Rider",
+      "character_id" : 1922,
+      "name" : "Mitsuzuri Ayako",
       "type" : "CHARACTER"
     }, {
       "character_id" : 1924,
       "name" : "Ryuudou Issei",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 241,
-      "name" : "Toosaka Rin",
+      "character_id" : 156205,
+      "name" : "Ryuudou Reikan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 1931,
+      "name" : "Saegusa Yukika",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 1934,
+      "name" : "Sella",
+      "type" : "CHARACTER"
+    } ],
+    "CAMEO" : [ {
+      "character_id" : 122561,
+      "name" : "Fionn mac Cumhaill",
       "type" : "CHARACTER"
     } ],
     "MAIN" : [ {
       "character_id" : 1904,
       "name" : "Emiya Shirou",
       "type" : "CHARACTER"
-    }, {
-      "character_id" : 38,
-      "name" : "Saber",
-      "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
-      "character_id" : 1910,
-      "name" : "Caster",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 1921,
       "name" : "Fujimura Taiga",
       "type" : "CHARACTER"
     }, {
       "character_id" : 1913,
       "name" : "Illyasviel von Einzbern",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 1905,
+      "name" : "Matou Sakura",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 1909,
+      "name" : "Rider",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 38,
+      "name" : "Saber",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 241,
+      "name" : "Toosaka Rin",
       "type" : "CHARACTER"
     } ]
   },
@@ -124,7 +185,7 @@
       "length" : 15,
       "number" : 2,
       "rating" : {
-        "rating" : 6.79,
+        "rating" : 6.78,
         "total" : 7
       },
       "recap" : false,
@@ -149,7 +210,7 @@
       "length" : 15,
       "number" : 3,
       "rating" : {
-        "rating" : 5.57,
+        "rating" : 5.56,
         "total" : 7
       },
       "recap" : false,
@@ -787,12 +848,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.08,
-      "total" : 943
+      "rating" : 7.07,
+      "total" : 953
     },
     "TEMPORARY" : {
       "rating" : 7.26,
-      "total" : 946
+      "total" : 956
     }
   },
   "related" : {
@@ -805,6 +866,7 @@
     "CRUNCHY_ROLL" : [ "GRP8KG9VR" ],
     "MAL" : [ "37033" ],
     "SYOBOI" : [ "4833" ],
+    "TMDB" : [ "tv/76047" ],
     "TWITTER" : [ "emiya_gohan" ],
     "WEBSITE" : [ "http://emiya-gohan.com/" ],
     "WIKIPEDIA_EN" : [ "Today's_Menu_for_the_Emiya_Family" ],
@@ -822,6 +884,10 @@
     "15005" : {
       "rating" : 6.0,
       "total" : 5
+    },
+    "15476" : {
+      "rating" : 10.0,
+      "total" : 1
     }
   },
   "start_date" : "2017-12-31",
@@ -835,12 +901,20 @@
       "weight" : 0
     },
     "1973" : {
-      "info_box" : false,
+      "info_box" : true,
       "name" : "cooking",
       "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 600
+    },
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2605" : {
       "info_box" : false,
@@ -877,6 +951,13 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2612" : {
       "info_box" : false,
       "name" : "time",
@@ -884,6 +965,38 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2624" : {
+      "info_box" : false,
+      "name" : "present",
+      "parent_tag_id" : 2612,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
     },
     "2798" : {
       "info_box" : true,
@@ -893,10 +1006,50 @@
       "verified" : false,
       "weight" : 0
     },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "2864" : {
+      "info_box" : true,
+      "name" : "daily life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "3792" : {
       "info_box" : false,
       "name" : "iyashi-kei",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3809" : {
+      "info_box" : false,
+      "name" : "character driven",
+      "parent_tag_id" : 2605,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -907,7 +1060,47 @@
       "parent_tag_id" : 6185,
       "spoiler" : false,
       "verified" : false,
-      "weight" : 100
+      "weight" : 200
+    },
+    "4055" : {
+      "info_box" : false,
+      "name" : "facial distortion",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4498" : {
+      "info_box" : false,
+      "name" : "heart-warming",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4576" : {
+      "info_box" : false,
+      "name" : "summer",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
+    "6075" : {
+      "info_box" : false,
+      "name" : "educational",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6083" : {
+      "info_box" : false,
+      "name" : "master-servant relationship",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "6151" : {
       "info_box" : false,
@@ -923,6 +1116,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6184" : {
+      "info_box" : false,
+      "name" : "autumn",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
+    },
     "6185" : {
       "info_box" : false,
       "name" : "season",
@@ -930,6 +1131,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
+    },
+    "6186" : {
+      "info_box" : false,
+      "name" : "spring",
+      "parent_tag_id" : 6185,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "6399" : {
       "info_box" : false,
@@ -975,6 +1184,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "衛宮さんちの今日のごはん",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "衛宮家今天的餐桌風景",
     "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE_TRANSLITERATED",

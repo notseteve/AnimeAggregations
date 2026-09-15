@@ -119,12 +119,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.16,
-      "total" : 15
+      "rating" : 4.06,
+      "total" : 16
     },
     "TEMPORARY" : {
-      "rating" : 5.16,
-      "total" : 15
+      "rating" : 5.15,
+      "total" : 16
     }
   },
   "resources" : {
@@ -164,6 +164,13 @@
       "info_box" : false,
       "name" : "amnesia",
       "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2605" : {
+      "info_box" : false,
+      "name" : "dynamic",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -216,6 +223,14 @@
       "info_box" : false,
       "name" : "body sharing",
       "parent_tag_id" : 6347,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3148" : {
+      "info_box" : false,
+      "name" : "open-ended",
+      "parent_tag_id" : 6246,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -282,6 +297,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "6246" : {
+      "info_box" : false,
+      "name" : "ending",
+      "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6347" : {
       "info_box" : false,
       "name" : "body and host",
@@ -343,13 +366,13 @@
     "title" : "Mirai no Kuromaku-kei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho",
     "type" : "MAIN"
   }, {
-    "language" : "ENGLISH",
-    "title" : "Moriarty`s Perfect Crime",
-    "type" : "OFFICIAL"
-  }, {
     "language" : "JAPANESE",
     "title" : "未来の黒幕系悪役令嬢モリアーティーの異世界完全犯罪白書",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Moriarty`s Perfect Crime",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://animationid.com/kuromori/"
