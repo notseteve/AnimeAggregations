@@ -1,5 +1,86 @@
 {
   "anime_id" : 19782,
+  "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 156459,
+      "name" : "Akae",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156019,
+      "name" : "Alex",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156020,
+      "name" : "Clyde",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156448,
+      "name" : "Gouda",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155401,
+      "name" : "Harugon",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156450,
+      "name" : "Katsuragi Seina",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156265,
+      "name" : "Minami Moa",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155403,
+      "name" : "Miyuu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155402,
+      "name" : "Nagiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156223,
+      "name" : "Okada",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156361,
+      "name" : "Takamine Touko",
+      "type" : "CHARACTER"
+    } ],
+    "MAIN" : [ {
+      "character_id" : 155389,
+      "name" : "Akaishi Kuroe",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155385,
+      "name" : "Minami Arata",
+      "type" : "CHARACTER"
+    } ],
+    "SECONDARY" : [ {
+      "character_id" : 155388,
+      "name" : "Akaishi Rinko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155390,
+      "name" : "Hibino Koutarou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155384,
+      "name" : "Jumbo King",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155387,
+      "name" : "Kouno Raimu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155386,
+      "name" : "Tomosato Manatsu",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155404,
+      "name" : "Yoneyama Daichi",
+      "type" : "CHARACTER"
+    } ]
+  },
   "creators" : {
     "21486" : [ {
       "name" : "Ayana Yuniko",
@@ -16,26 +97,514 @@
     "55581" : [ {
       "name" : "Nakayama Mitomi",
       "type" : "CHARACTER_DESIGN"
+    }, {
+      "name" : "Nakayama Mitomi",
+      "type" : "CHIEF_ANIMATION_DIRECTION"
+    } ],
+    "79561" : [ {
+      "name" : "Furuhashi Yuuki",
+      "type" : "MUSIC"
     } ],
     "84330" : [ {
       "name" : "Aoki Spica",
       "type" : "ORIGINAL_WORK"
+    } ],
+    "86266" : [ {
+      "name" : "Shinnosuke Nakasone",
+      "type" : "MUSIC"
     } ]
+  },
+  "description" : "http://anidb.net/ch155389 [Akaishi Kuroe] just wants a normal high school life—but that`s impossible with a rare condition that turns her into a giant kaiju whenever her emotions spike! Things get even worse when she falls for http://anidb.net/ch155385 [Minami Arata], the most popular boy in class. Now every blush, heartbeat, and crush could trigger a monster transformation. Can Kuroe survive high school love before it destroys everything around her?!\nSource: Crunchyroll",
+  "end_date" : "2026-09-18",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-07-03",
+      "episode_id" : 312864,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 6.52,
+        "total" : 5
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378395JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Das Kaijū-Mädchen taucht in Tokyo auf"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Otome Kaijuu Tokyo ni Arawaru"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Kaiju Girl Appears in Tokyo"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "乙女怪獣東京に現る"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-10",
+      "episode_id" : 312865,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 7.2,
+        "total" : 3
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378396JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Die zugesperrte Tür"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Hirakanai Tobira"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Unopened Door"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "開かない扉"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-17",
+      "episode_id" : 312866,
+      "length" : 25,
+      "number" : 3,
+      "rating" : {
+        "rating" : 7.02,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378397JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Sparkling Weekend: Where Dreams Come True"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Ein glitzerndes Wochenende ~ Auf ins Märchenland ~"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kirameku Shuumatsu: Yume no Kuni e"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "キラメク週末 ~夢の国へ~"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-24",
+      "episode_id" : 312867,
+      "length" : 25,
+      "number" : 4,
+      "rating" : {
+        "rating" : 8.77,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378398JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Das Kaijū-Festival des Grauens"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kyoufu no Kaijuu Fes"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "The Scary Kaiju Fest"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "恐怖の怪獣フェス"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-07-31",
+      "episode_id" : 313868,
+      "length" : 25,
+      "number" : 5,
+      "rating" : {
+        "rating" : 8.77,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378399JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "A Gyaru and Lipstick"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gal to Kuchibeni"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Gals und Lippenstift"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ギャルと口紅"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-07",
+      "episode_id" : 313869,
+      "length" : 25,
+      "number" : 6,
+      "rating" : {
+        "rating" : 7.02,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378400JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Rairi no Mori"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Rairi`s Forest"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Rairis Wald"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "らいりの森"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-14",
+      "episode_id" : 313870,
+      "length" : 25,
+      "number" : 7,
+      "rating" : {
+        "rating" : 7.02,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378401JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "All Eyes on Arata"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Arata im Visier"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nerawareta Arata"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "狙われた新汰"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-21",
+      "episode_id" : 313871,
+      "length" : 25,
+      "number" : 8,
+      "rating" : {
+        "rating" : 8.77,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378402JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "GERMAN",
+        "title" : "Ab auf Manatsus Kaijū-Insel!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Fly to Manatsu`s Kaiju Island!!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Manatsu no Kaijuutou e Tobe!!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "マ夏の怪獣島へ飛べ!!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-08-28",
+      "episode_id" : 315146,
+      "length" : 25,
+      "number" : 9,
+      "rating" : {
+        "rating" : 8.77,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378403JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Otome Kaijuu Guchi o Hake!"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Release the Torrent of Complaints, Kaiju Girl!"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Speie deinen Unmut hinaus, Kaijūmädchen!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "乙女怪獣愚痴を吐け!"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-04",
+      "episode_id" : 315147,
+      "length" : 25,
+      "number" : 10,
+      "rating" : {
+        "rating" : 7.02,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378404JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Don`t Cry, Heartbroken Kaiju"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Nakuna Shitsuren Kaijuu"
+      }, {
+        "language" : "GERMAN",
+        "title" : "Weine nicht, Kaijū mit Liebeskummer"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "泣くな失恋怪獣"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-11",
+      "episode_id" : 315148,
+      "length" : 25,
+      "number" : 11,
+      "rating" : {
+        "rating" : 8.77,
+        "total" : 2
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378405JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kuroe vs Akae"
+      }, {
+        "language" : "ENGLISH",
+        "title" : "Kuroe vs. Akae"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "クロエVSアカエ"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-18",
+      "episode_id" : 315149,
+      "length" : 25,
+      "number" : 12,
+      "rating" : {
+        "rating" : 9.85,
+        "total" : 1
+      },
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00378406JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Charge This One Strike with Love"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Kono Ichigeki ni Ai o Komete"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "この一撃に愛をこめて"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-07-10",
+      "episode_id" : 313420,
+      "length" : 2,
+      "number" : 1,
+      "rating" : {
+        "rating" : 1.29,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.01,
+      "total" : 136
+    },
+    "TEMPORARY" : {
+      "rating" : 6.82,
+      "total" : 138
+    }
   },
   "resources" : {
     "ALL_CINEMA" : [ "403881" ],
+    "ANISON" : [ "26547" ],
     "ANN" : [ "38166" ],
+    "CRUNCHY_ROLL" : [ "GT00378081" ],
     "MAL" : [ "63150" ],
+    "SYOBOI" : [ "7903" ],
+    "TMDB" : [ "tv/308874" ],
     "TWITTER" : [ "Otome_Kaiju" ],
     "WEBSITE" : [ "https://otomekaiju.com/" ],
     "WIKIPEDIA_EN" : [ "Kaiju_Girl_Caramelise" ],
     "WIKIPEDIA_JP" : [ "乙女怪獣キャラメリゼ" ]
   },
-  "start_date" : "2026-07",
+  "start_date" : "2026-07-03",
   "tags" : {
+    "2043" : {
+      "info_box" : false,
+      "name" : "high school",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 300
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2610" : {
+      "info_box" : false,
+      "name" : "setting",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2613" : {
+      "info_box" : false,
+      "name" : "place",
+      "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2630" : {
+      "info_box" : false,
+      "name" : "Earth",
+      "parent_tag_id" : 2613,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2672" : {
+      "info_box" : false,
+      "name" : "Japan",
+      "parent_tag_id" : 2834,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2834" : {
+      "info_box" : false,
+      "name" : "Asia",
+      "parent_tag_id" : 2630,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2858" : {
+      "info_box" : true,
+      "name" : "romance",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3023" : {
+      "info_box" : false,
+      "name" : "funny expressions",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3028" : {
+      "info_box" : false,
+      "name" : "real-world location",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4215" : {
+      "info_box" : false,
+      "name" : "daikaijuu",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -54,9 +623,29 @@
     "title" : "Otome Kaijuu Caramelise",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Kaiju Girl Caramelise",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "乙女怪獣キャラメリゼ",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_SIMPLIFIED",
+    "title" : "少女怪兽焦糖味",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "少女怪獸焦糖戀心",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Otome Kaijuu",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Otome Kaijuu Carameliser",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://otomekaiju.com/"

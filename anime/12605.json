@@ -116,7 +116,7 @@
       "length" : 5,
       "number" : 1,
       "rating" : {
-        "rating" : 8.41,
+        "rating" : 8.4,
         "total" : 3
       },
       "recap" : false,
@@ -135,12 +135,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.79,
-      "total" : 961
+      "rating" : 3.81,
+      "total" : 973
+    },
+    "REVIEW" : {
+      "rating" : 2.33,
+      "total" : 1
     },
     "TEMPORARY" : {
-      "rating" : 5.91,
-      "total" : 966
+      "rating" : 5.92,
+      "total" : 978
     }
   },
   "resources" : {
@@ -151,6 +155,7 @@
     "MAL" : [ "34498", "36125" ],
     "NETFLIX" : [ "81000505" ],
     "SYOBOI" : [ "5270" ],
+    "TMDB" : [ "movie/431819" ],
     "TWITTER" : [ "uchiage_movie" ],
     "WEBSITE" : [ "http://www.uchiagehanabi.jp/" ],
     "WIKIPEDIA_EN" : [ "Fireworks_(2017_film)" ],
@@ -159,8 +164,8 @@
   },
   "similar" : {
     "335" : {
-      "rating" : 10.0,
-      "total" : 2
+      "rating" : 6.666666666666666,
+      "total" : 3
     },
     "4151" : {
       "rating" : 7.894736842105264,
@@ -187,8 +192,8 @@
       "total" : 2
     },
     "13363" : {
-      "rating" : 10.0,
-      "total" : 2
+      "rating" : 6.666666666666666,
+      "total" : 3
     }
   },
   "start_date" : "2017-08-18",
@@ -641,6 +646,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "打ち上げ花火, 下から見るか? 横から見るか?",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "煙花",
     "type" : "OFFICIAL"
   }, {
     "language" : "KOREAN",

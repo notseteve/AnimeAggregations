@@ -35,15 +35,78 @@
     "ALL_CINEMA" : [ "405118" ],
     "ANN" : [ "34592" ],
     "MAL" : [ "60948" ],
+    "SYOBOI" : [ "8035" ],
     "TWITTER" : [ "saikyosoubi" ],
     "WEBSITE" : [ "https://saikyosoubi.com/" ],
-    "WIKIPEDIA_EN" : [ "Reborn_as_a_Space_Mercenary" ]
+    "WIKIPEDIA_EN" : [ "Reborn_as_a_Space_Mercenary" ],
+    "WIKIPEDIA_JP" : [ "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい" ]
   },
-  "start_date" : "2026-10",
+  "start_date" : "2026-10-04",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2846" : {
+      "info_box" : true,
+      "name" : "science fiction",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2859" : {
+      "info_box" : true,
+      "name" : "harem",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6744" : {
+      "info_box" : true,
+      "name" : "isekai",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "7050" : {
+      "info_box" : false,
+      "name" : "speculative fiction",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -62,6 +125,10 @@
     "title" : "Mezametara Saikyou Soubi to Uchuusen Mochi Datta no de, Ikkodate Mezashite Youhei to Shite Jiyuu ni Ikitai",
     "type" : "MAIN"
   }, {
+    "language" : "ENGLISH",
+    "title" : "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "JAPANESE",
     "title" : "目覚めたら最強装備と宇宙船持ちだったので, 一戸建て目指して傭兵として自由に生きたい",
     "type" : "OFFICIAL"
@@ -73,10 +140,6 @@
     "language" : "JAPANESE",
     "title" : "最強宇宙船",
     "type" : "SHORT"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://saikyosoubi.com/"

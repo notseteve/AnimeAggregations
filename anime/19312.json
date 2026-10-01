@@ -46,12 +46,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.23,
-      "total" : 45
+      "rating" : 3.14,
+      "total" : 47
     },
     "TEMPORARY" : {
-      "rating" : 5.25,
-      "total" : 47
+      "rating" : 5.32,
+      "total" : 50
     }
   },
   "related" : {
@@ -74,6 +74,13 @@
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -187,6 +194,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "4656" : {
+      "info_box" : false,
+      "name" : "infidelity",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
@@ -221,6 +236,7 @@
     "8097" : {
       "info_box" : false,
       "name" : "netorase",
+      "parent_tag_id" : 4656,
       "spoiler" : false,
       "verified" : false,
       "weight" : 600

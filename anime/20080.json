@@ -255,17 +255,101 @@
         "title" : "Episode 23"
       } ],
       "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-01",
+      "episode_id" : 316051,
+      "length" : 7,
+      "number" : 24,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 24"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-04",
+      "episode_id" : 316132,
+      "length" : 7,
+      "number" : 25,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 25"
+      } ],
+      "type" : "REGULAR"
     } ]
   },
   "resources" : {
     "BILI_BILI" : [ "bangumi/media/md436901507" ],
     "DOUBAN" : [ "37842527" ],
+    "MAL" : [ "64384" ],
     "STREAM" : [ "https://v.qq.com/x/cover/mzc003lzcjfnlab/w327369o3qd.html", "https://www.iqiyi.com/v_283s5b3hz2s.html" ],
     "TMDB" : [ "tv/331064" ],
     "YOUTUBE" : [ "playlist?list=PLLAr5GYz8LF41dbVJCJmLqoA3gK56JKxL" ]
   },
   "start_date" : "2026-06-02",
   "tags" : {
+    "2282" : {
+      "info_box" : true,
+      "name" : "martial arts",
+      "parent_tag_id" : 2841,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2799" : {
+      "info_box" : true,
+      "name" : "novel",
+      "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2841" : {
+      "info_box" : true,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 600
+    },
+    "4064" : {
+      "info_box" : false,
+      "name" : "CGI",
+      "parent_tag_id" : 6151,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6097" : {
+      "info_box" : false,
+      "name" : "3D CG animation",
+      "parent_tag_id" : 4064,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6151" : {
+      "info_box" : false,
+      "name" : "technical aspects",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6152" : {
       "info_box" : false,
       "name" : "Chinese production",

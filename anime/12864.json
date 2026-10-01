@@ -31,16 +31,13 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 3.46,
-      "total" : 70
+      "rating" : 3.45,
+      "total" : 71
     },
     "TEMPORARY" : {
-      "rating" : 4.58,
-      "total" : 70
+      "rating" : 4.59,
+      "total" : 71
     }
-  },
-  "related" : {
-    "ALTERNATIVE_SETTING" : [ 6945 ]
   },
   "resources" : {
     "IMDB" : [ "tt0419115" ],
@@ -50,9 +47,24 @@
   },
   "start_date" : "1927-05",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "6173" : {
       "info_box" : false,
       "name" : "origin",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6397" : {
+      "info_box" : false,
+      "name" : "tales",
+      "parent_tag_id" : 2607,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -68,6 +80,7 @@
     "7962" : {
       "info_box" : false,
       "name" : "The Crab and the Monkey",
+      "parent_tag_id" : 6397,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

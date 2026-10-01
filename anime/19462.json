@@ -2,8 +2,28 @@
   "anime_id" : 19462,
   "characters" : {
     "APPEARANCE" : [ {
+      "character_id" : 156479,
+      "name" : "Hiura Takashi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 155960,
+      "name" : "Igarashi Gou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156332,
+      "name" : "Jii-chan",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156331,
+      "name" : "Mikasa Taisei",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 156083,
       "name" : "Nikaidou Taiga",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156333,
+      "name" : "Sacchan",
       "type" : "CHARACTER"
     }, {
       "character_id" : 155383,
@@ -60,6 +80,10 @@
       "name" : "Atsushi",
       "type" : "CHARACTER"
     }, {
+      "character_id" : 156334,
+      "name" : "Death MC",
+      "type" : "CHARACTER"
+    }, {
       "character_id" : 155194,
       "name" : "Elda",
       "type" : "CHARACTER"
@@ -96,10 +120,6 @@
       "name" : "Ichigeki Misato",
       "type" : "CHARACTER"
     }, {
-      "character_id" : 155960,
-      "name" : "Igarashi Gou",
-      "type" : "CHARACTER"
-    }, {
       "character_id" : 155031,
       "name" : "Igarashi Juri",
       "type" : "CHARACTER"
@@ -110,6 +130,10 @@
     }, {
       "character_id" : 155186,
       "name" : "Kobayakawa Rin",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156478,
+      "name" : "Kobotoke Aiko",
       "type" : "CHARACTER"
     }, {
       "character_id" : 154093,
@@ -142,6 +166,10 @@
     }, {
       "character_id" : 154713,
       "name" : "Nikaidou Peiko",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156477,
+      "name" : "Nishi",
       "type" : "CHARACTER"
     }, {
       "character_id" : 155196,
@@ -222,6 +250,7 @@
       "type" : "ANIMATION_WORK"
     } ]
   },
+  "end_date" : "2026-09-21",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-07-06",
@@ -350,7 +379,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 8"
+        "title" : "A Superpowered Clash of the Titans!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Choujou Taiketsu! Kyojin vs Kyojin!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "超常対決!巨人vs巨人!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -361,7 +396,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 9"
+        "title" : "Chilling Memories and Devastating Dodgeball!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Senritsu no Kioku! Shura no Dodge!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "戦慄の記憶!修羅のドッジ!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -371,8 +412,14 @@
       "number" : 10,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ikinokore! Dangerous Time!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 10"
+        "title" : "Survive the Danger Time!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "生き残れ!デンジャラス・タイム!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -383,7 +430,13 @@
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 11"
+        "title" : "Blast Away the Darkness with the Legendary Shot!"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Yami o Nagiharae! Densetsu no Shoot!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "闇をなぎ払え!伝説のシュート!"
       } ],
       "type" : "REGULAR"
     }, {
@@ -393,8 +446,14 @@
       "number" : 12,
       "recap" : false,
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Honoo no Kecchaku! Saigo Kessen!"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 12"
+        "title" : "The Battle Reaches Its Blazing Conclusion!"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "炎の決着!最終決戦!"
       } ],
       "type" : "REGULAR"
     } ],
@@ -476,12 +535,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.49,
-      "total" : 10
+      "rating" : 6.53,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 5.2,
-      "total" : 10
+      "rating" : 6.07,
+      "total" : 14
     }
   },
   "related" : {
@@ -537,10 +596,25 @@
       "verified" : false,
       "weight" : 0
     },
+    "2611" : {
+      "info_box" : false,
+      "name" : "elements",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2613" : {
       "info_box" : false,
       "name" : "place",
       "parent_tag_id" : 2610,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2617" : {
+      "info_box" : false,
+      "name" : "calling your attacks",
+      "parent_tag_id" : 2841,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -552,6 +626,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "2653" : {
+      "info_box" : false,
+      "name" : "slapstick",
+      "parent_tag_id" : 2853,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 400
     },
     "2672" : {
       "info_box" : false,
@@ -585,6 +667,22 @@
       "verified" : false,
       "weight" : 600
     },
+    "2841" : {
+      "info_box" : false,
+      "name" : "action",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2853" : {
+      "info_box" : false,
+      "name" : "comedy",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2881" : {
       "info_box" : true,
       "name" : "sports",
@@ -592,6 +690,22 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 600
+    },
+    "3759" : {
+      "info_box" : false,
+      "name" : "teamwork",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "3863" : {
+      "info_box" : false,
+      "name" : "competition",
+      "parent_tag_id" : 2611,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "4333" : {
       "info_box" : false,
@@ -601,10 +715,26 @@
       "verified" : false,
       "weight" : 0
     },
+    "5355" : {
+      "info_box" : false,
+      "name" : "tournament",
+      "parent_tag_id" : 3863,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "5851" : {
       "info_box" : false,
       "name" : "female protagonist",
       "parent_tag_id" : 6230,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "5948" : {
+      "info_box" : false,
+      "name" : "visible aura",
+      "parent_tag_id" : 6233,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -620,6 +750,14 @@
       "info_box" : false,
       "name" : "cast",
       "parent_tag_id" : 2605,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "6233" : {
+      "info_box" : false,
+      "name" : "tropes",
+      "parent_tag_id" : 2611,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
