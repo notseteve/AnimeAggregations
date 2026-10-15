@@ -128,8 +128,8 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.35,
-      "total" : 392
+      "rating" : 5.38,
+      "total" : 393
     },
     "REVIEW" : {
       "rating" : 7.0,
@@ -137,7 +137,7 @@
     },
     "TEMPORARY" : {
       "rating" : 6.59,
-      "total" : 397
+      "total" : 398
     }
   },
   "resources" : {
@@ -173,6 +173,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 100
+    },
+    "1152" : {
+      "info_box" : false,
+      "name" : "undead",
+      "parent_tag_id" : 2849,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "1244" : {
       "info_box" : false,
@@ -221,6 +229,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2535" : {
+      "info_box" : false,
+      "name" : "ghost",
+      "parent_tag_id" : 1152,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 200
     },
     "2604" : {
       "info_box" : false,

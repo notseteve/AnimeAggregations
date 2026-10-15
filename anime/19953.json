@@ -26,15 +26,84 @@
       "type" : "ORIGINAL_WORK"
     } ]
   },
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-10-05",
+      "episode_id" : 316902,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 7.2,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 1"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-10-12",
+      "episode_id" : 316903,
+      "length" : 25,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 2"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-10-19",
+      "episode_id" : 316904,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-10-26",
+      "episode_id" : 316905,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 5.02,
+      "total" : 4
+    },
+    "TEMPORARY" : {
+      "rating" : 5.5,
+      "total" : 4
+    }
+  },
   "resources" : {
     "ALL_CINEMA" : [ "405045" ],
+    "ANISON" : [ "26708" ],
     "ANN" : [ "38727" ],
+    "CRUNCHY_ROLL" : [ "GT00384000" ],
     "MAL" : [ "63753" ],
     "SYOBOI" : [ "8032" ],
     "TWITTER" : [ "kanatakara_anm" ],
     "WEBSITE" : [ "https://kanatakara-anime.com/" ],
     "WIKIPEDIA_EN" : [ "From_Far_Away" ],
     "WIKIPEDIA_JP" : [ "彼方から" ]
+  },
+  "similar" : {
+    "87" : {
+      "rating" : 10.0,
+      "total" : 1
+    }
   },
   "start_date" : "2026-10-05",
   "tags" : {
@@ -56,16 +125,16 @@
   },
   "titles" : [ {
     "language" : "JAPANESE_TRANSLITERATED",
-    "title" : "Kanata Kara",
+    "title" : "Kanata kara",
     "type" : "MAIN"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "From Far Away",
+    "type" : "OFFICIAL"
   }, {
     "language" : "JAPANESE",
     "title" : "彼方から",
     "type" : "OFFICIAL"
-  }, {
-    "language" : "ENGLISH",
-    "title" : "From Far Away",
-    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://kanatakara-anime.com/"

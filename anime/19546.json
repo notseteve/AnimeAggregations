@@ -76,7 +76,7 @@
       "length" : 25,
       "number" : 1,
       "rating" : {
-        "rating" : 6.26,
+        "rating" : 6.24,
         "total" : 5
       },
       "recap" : false,
@@ -101,7 +101,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 7.25,
+        "rating" : 7.22,
         "total" : 4
       },
       "recap" : false,
@@ -123,7 +123,7 @@
       "length" : 25,
       "number" : 3,
       "rating" : {
-        "rating" : 6.35,
+        "rating" : 6.32,
         "total" : 4
       },
       "recap" : false,
@@ -145,7 +145,7 @@
       "length" : 25,
       "number" : 4,
       "rating" : {
-        "rating" : 5.36,
+        "rating" : 5.34,
         "total" : 4
       },
       "recap" : false,
@@ -167,7 +167,7 @@
       "length" : 25,
       "number" : 5,
       "rating" : {
-        "rating" : 4.87,
+        "rating" : 4.83,
         "total" : 4
       },
       "recap" : false,
@@ -188,8 +188,8 @@
       "length" : 25,
       "number" : 6,
       "rating" : {
-        "rating" : 5.38,
-        "total" : 4
+        "rating" : 5.69,
+        "total" : 5
       },
       "recap" : false,
       "resources" : {
@@ -209,7 +209,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 6.02,
+        "rating" : 5.97,
         "total" : 3
       },
       "recap" : false,
@@ -230,7 +230,7 @@
       "length" : 25,
       "number" : 8,
       "rating" : {
-        "rating" : 3.26,
+        "rating" : 3.23,
         "total" : 4
       },
       "recap" : false,
@@ -293,7 +293,7 @@
       "length" : 25,
       "number" : 11,
       "rating" : {
-        "rating" : 4.94,
+        "rating" : 4.89,
         "total" : 3
       },
       "recap" : false,
@@ -333,12 +333,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 5.23,
-      "total" : 167
+      "rating" : 5.16,
+      "total" : 215
     },
     "TEMPORARY" : {
       "rating" : 6.27,
-      "total" : 167
+      "total" : 215
     }
   },
   "related" : {
@@ -350,6 +350,7 @@
     "CRUNCHY_ROLL" : [ "GT00371896" ],
     "MAL" : [ "62391" ],
     "SYOBOI" : [ "7779" ],
+    "TMDB" : [ "tv/300131" ],
     "TWITTER" : [ "KILLBLUE_PR" ],
     "WEBSITE" : [ "https://kill-blue.jp/" ],
     "WIKIPEDIA_EN" : [ "Kill_Blue" ],
@@ -357,6 +358,13 @@
   },
   "start_date" : "2026-04-11",
   "tags" : {
+    "2607" : {
+      "info_box" : false,
+      "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "2609" : {
       "info_box" : false,
       "name" : "original work",
@@ -364,10 +372,41 @@
       "verified" : false,
       "weight" : 0
     },
+    "2669" : {
+      "info_box" : false,
+      "name" : "school clubs",
+      "parent_tag_id" : 2869,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
     "2798" : {
       "info_box" : true,
       "name" : "manga",
       "parent_tag_id" : 2609,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2869" : {
+      "info_box" : false,
+      "name" : "school life",
+      "parent_tag_id" : 2607,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 100
+    },
+    "2931" : {
+      "info_box" : false,
+      "name" : "unsorted",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "4951" : {
+      "info_box" : false,
+      "name" : "age change",
+      "parent_tag_id" : 2931,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

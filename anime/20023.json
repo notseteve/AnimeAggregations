@@ -1,6 +1,43 @@
 {
   "anime_id" : 20023,
   "characters" : {
+    "APPEARANCE" : [ {
+      "character_id" : 156375,
+      "name" : "Endou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156377,
+      "name" : "Hakobe",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156376,
+      "name" : "Nazuna",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156635,
+      "name" : "Ou",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156636,
+      "name" : "Ouhi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156638,
+      "name" : "Pine Chichi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156637,
+      "name" : "Pine Haha",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156446,
+      "name" : "Roba no Kishi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156374,
+      "name" : "Senburi",
+      "type" : "CHARACTER"
+    } ],
     "MAIN" : [ {
       "character_id" : 156234,
       "name" : "Pine",
@@ -12,6 +49,10 @@
     }, {
       "character_id" : 156233,
       "name" : "Sapphire",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 156241,
+      "name" : "Zirco",
       "type" : "CHARACTER"
     } ],
     "SECONDARY" : [ {
@@ -41,10 +82,6 @@
     }, {
       "character_id" : 156235,
       "name" : "Velvet",
-      "type" : "CHARACTER"
-    }, {
-      "character_id" : 156241,
-      "name" : "Zirco",
       "type" : "CHARACTER"
     } ]
   },
@@ -81,6 +118,10 @@
       "episode_id" : 312184,
       "length" : 110,
       "number" : 1,
+      "rating" : {
+        "rating" : 7.6,
+        "total" : 2
+      },
       "recap" : false,
       "titles" : [ {
         "language" : "ENGLISH",
@@ -91,12 +132,12 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.25,
-      "total" : 14
+      "rating" : 4.45,
+      "total" : 42
     },
     "TEMPORARY" : {
-      "rating" : 5.5,
-      "total" : 15
+      "rating" : 5.81,
+      "total" : 43
     }
   },
   "related" : {
@@ -104,9 +145,11 @@
   },
   "resources" : {
     "ALL_CINEMA" : [ "406013" ],
+    "ANISON" : [ "26662" ],
     "ANN" : [ "39225" ],
     "MAL" : [ "64012" ],
     "NETFLIX" : [ "81493703" ],
+    "TMDB" : [ "movie/1679730" ],
     "TWITTER" : [ "the_ribbon_hero" ],
     "WEBSITE" : [ "https://www.theribbonhero.com/" ],
     "WIKIPEDIA_EN" : [ "The_Ribbon_Hero" ]

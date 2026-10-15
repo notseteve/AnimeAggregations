@@ -115,6 +115,7 @@
     } ]
   },
   "description" : "* Based on a suspense manga by http://anidb.net/cr9046 [Kaitani Shinobu].\nA Mysterious Invitation. One Hundred Million Yen. The Game Begins.\nCollege student Kanzaki Nao suddenly receives a strange letter and a suitcase containing 100 million yen. She`s been chosen to participate in the  LIAR GAME — a high-stakes psychological battle where lies, deception, and betrayal reign supreme. Naïve and painfully honest, Nao quickly finds herself cornered. To survive, she turns to Akiyama Shin`ichi, a brilliant former con artist with unmatched intellect. As they dive deeper into the twisted game, the two must outwit opponents in a world where trusting others could be fatal.\nIn a game built on lies, can honesty prevail?\nSource: Official Website",
+  "end_date" : "2026-09-29",
   "episodes" : {
     "REGULAR" : [ {
       "air_date" : "2026-04-07",
@@ -148,7 +149,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 4.43,
+        "rating" : 4.44,
         "total" : 4
       },
       "recap" : false,
@@ -581,9 +582,18 @@
       "length" : 25,
       "number" : 22,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374939JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 22"
+        "title" : "Trap"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Wana"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "罠"
       } ],
       "type" : "REGULAR"
     }, {
@@ -592,9 +602,18 @@
       "length" : 25,
       "number" : 23,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374940JAJP" ]
+      },
       "titles" : [ {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Chuuken Sen"
+      }, {
         "language" : "ENGLISH",
-        "title" : "Episode 23"
+        "title" : "Core Match"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "中堅戦"
       } ],
       "type" : "REGULAR"
     }, {
@@ -603,9 +622,58 @@
       "length" : 25,
       "number" : 24,
       "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374941JAJP" ]
+      },
       "titles" : [ {
         "language" : "ENGLISH",
-        "title" : "Episode 24"
+        "title" : "Counterattack"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Gyakushuu"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "逆襲"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-22",
+      "episode_id" : 316525,
+      "length" : 25,
+      "number" : 25,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374942JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "General Match"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Taishou Sen"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "大将戦"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-09-29",
+      "episode_id" : 316526,
+      "length" : 25,
+      "number" : 26,
+      "recap" : false,
+      "resources" : {
+        "CRUNCHY_ROLL" : [ "GE00374943JAJP" ]
+      },
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Determination"
+      }, {
+        "language" : "JAPANESE_TRANSLITERATED",
+        "title" : "Ketsui"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "決意"
       } ],
       "type" : "REGULAR"
     } ],
@@ -692,13 +760,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 4.93,
-      "total" : 76
+      "rating" : 5.22,
+      "total" : 133
     },
     "TEMPORARY" : {
-      "rating" : 6.14,
-      "total" : 77
+      "rating" : 6.27,
+      "total" : 134
     }
+  },
+  "related" : {
+    "SEQUEL" : [ 20426 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "402039" ],
@@ -714,8 +785,8 @@
   },
   "similar" : {
     "5427" : {
-      "rating" : 10.0,
-      "total" : 1
+      "rating" : 7.5,
+      "total" : 4
     }
   },
   "start_date" : "2026-04-07",
@@ -723,6 +794,21 @@
     "2607" : {
       "info_box" : false,
       "name" : "themes",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2609" : {
+      "info_box" : false,
+      "name" : "original work",
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
+    "2798" : {
+      "info_box" : true,
+      "name" : "manga",
+      "parent_tag_id" : 2609,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

@@ -326,7 +326,7 @@
       "length" : 25,
       "number" : 7,
       "rating" : {
-        "rating" : 2.81,
+        "rating" : 2.8,
         "total" : 3
       },
       "recap" : false,
@@ -644,11 +644,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 2.51,
-      "total" : 925
+      "total" : 926
     },
     "TEMPORARY" : {
       "rating" : 5.35,
-      "total" : 937
+      "total" : 938
     }
   },
   "resources" : {
@@ -758,13 +758,6 @@
       "verified" : false,
       "weight" : 0
     },
-    "2605" : {
-      "info_box" : false,
-      "name" : "dynamic",
-      "spoiler" : false,
-      "verified" : false,
-      "weight" : 0
-    },
     "2606" : {
       "info_box" : false,
       "name" : "target audience",
@@ -807,6 +800,14 @@
       "spoiler" : false,
       "verified" : false,
       "weight" : 400
+    },
+    "2637" : {
+      "info_box" : false,
+      "name" : "time travel",
+      "parent_tag_id" : 7050,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
     },
     "2750" : {
       "info_box" : true,
@@ -930,7 +931,7 @@
     "6055" : {
       "info_box" : false,
       "name" : "time loop",
-      "parent_tag_id" : 2605,
+      "parent_tag_id" : 2637,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0

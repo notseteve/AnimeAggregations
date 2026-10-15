@@ -14,6 +14,14 @@
       "character_id" : 128858,
       "name" : "Jean du Vix",
       "type" : "CHARACTER"
+    }, {
+      "character_id" : 156291,
+      "name" : "Ricchi",
+      "type" : "CHARACTER"
+    }, {
+      "character_id" : 128786,
+      "name" : "Urushi",
+      "type" : "CHARACTER"
     } ]
   },
   "creators" : {
@@ -43,19 +51,118 @@
     } ]
   },
   "description" : "* Based on a fantasy isekai light novel series written by http://anidb.net/cr64951 [Tanaka Yuu] and illustrated by http://anidb.net/cr9167 [Llo].",
+  "episodes" : {
+    "REGULAR" : [ {
+      "air_date" : "2026-10-01",
+      "episode_id" : 316835,
+      "length" : 25,
+      "number" : 1,
+      "rating" : {
+        "rating" : 8.77,
+        "total" : 2
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "The Floating Island"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "空に浮かんでるのは島でした"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-10-08",
+      "episode_id" : 316836,
+      "length" : 25,
+      "number" : 2,
+      "rating" : {
+        "rating" : 6.45,
+        "total" : 1
+      },
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Jean du Vix Knows His Stuff"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "ジャン・ドゥービーは優秀でした"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-10-15",
+      "episode_id" : 316837,
+      "length" : 25,
+      "number" : 3,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 3"
+      }, {
+        "language" : "JAPANESE",
+        "title" : "アンデッドはガチガチでした"
+      } ],
+      "type" : "REGULAR"
+    }, {
+      "air_date" : "2026-10-22",
+      "episode_id" : 316838,
+      "length" : 25,
+      "number" : 4,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 4"
+      } ],
+      "type" : "REGULAR"
+    } ],
+    "CREDITS" : [ {
+      "air_date" : "2026-10-01",
+      "episode_id" : 317133,
+      "length" : 2,
+      "number" : 1,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Opening"
+      } ],
+      "type" : "CREDITS"
+    }, {
+      "air_date" : "2026-10-01",
+      "episode_id" : 317134,
+      "length" : 2,
+      "number" : 2,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Ending"
+      } ],
+      "type" : "CREDITS"
+    } ]
+  },
+  "ratings" : {
+    "PERMANENT" : {
+      "rating" : 6.1,
+      "total" : 29
+    },
+    "TEMPORARY" : {
+      "rating" : 7.22,
+      "total" : 29
+    }
+  },
   "related" : {
     "PREQUEL" : [ 16785 ]
   },
   "resources" : {
     "ALL_CINEMA" : [ "401370" ],
+    "ANISON" : [ "24566" ],
     "ANN" : [ "26756" ],
     "MAL" : [ "53913" ],
+    "SYOBOI" : [ "7981" ],
     "TWITTER" : [ "tenken_official" ],
     "WEBSITE" : [ "https://www.tenken-anime.com/" ],
     "WIKIPEDIA_EN" : [ "Reincarnated_as_a_Sword" ],
     "WIKIPEDIA_JP" : [ "転生したら剣でした" ]
   },
-  "start_date" : "2026-10",
+  "start_date" : "2026-10-01",
   "tags" : {
     "7" : {
       "info_box" : true,
@@ -654,6 +761,14 @@
     "language" : "KOREAN",
     "title" : "전생했더니 검이었습니다 Ⅱ",
     "type" : "OFFICIAL"
+  }, {
+    "language" : "ENGLISH",
+    "title" : "Reincarnated as a Sword Season 2",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "JAPANESE_TRANSLITERATED",
+    "title" : "Tensei shitara Ken deshita S2",
+    "type" : "SYNONYM"
   } ],
   "type" : "SERIES",
   "url" : "https://www.tenken-anime.com/"

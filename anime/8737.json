@@ -643,6 +643,17 @@
         "title" : "Queen`s Blade Rebellion CD Drama Episode 6: The Mushroom Girl Meeting"
       } ],
       "type" : "SPECIAL"
+    }, {
+      "air_date" : "2012-06-19",
+      "episode_id" : 148212,
+      "length" : 2,
+      "number" : 19,
+      "recap" : false,
+      "titles" : [ {
+        "language" : "ENGLISH",
+        "title" : "Episode 12 Ending"
+      } ],
+      "type" : "SPECIAL"
     } ],
     "CREDITS" : [ {
       "air_date" : "2012-04-10",
@@ -686,17 +697,6 @@
       "titles" : [ {
         "language" : "ENGLISH",
         "title" : "Ending 3"
-      } ],
-      "type" : "CREDITS"
-    }, {
-      "air_date" : "2012-06-19",
-      "episode_id" : 148212,
-      "length" : 2,
-      "number" : 5,
-      "recap" : false,
-      "titles" : [ {
-        "language" : "ENGLISH",
-        "title" : "Ending 4"
       } ],
       "type" : "CREDITS"
     } ],
@@ -874,11 +874,11 @@
   "ratings" : {
     "PERMANENT" : {
       "rating" : 3.27,
-      "total" : 694
+      "total" : 696
     },
     "TEMPORARY" : {
       "rating" : 5.8,
-      "total" : 706
+      "total" : 708
     }
   },
   "related" : {
@@ -893,6 +893,7 @@
     "HIDIVE" : [ "tv/queens-blade-rebellion" ],
     "MAL" : [ "11859", "13855" ],
     "SYOBOI" : [ "2473" ],
+    "TMDB" : [ "tv/45502", "tv/254227" ],
     "WEBSITE" : [ "http://queensblade.tv/", "http://queensblade.tv/pv.html?file=qbr_pv_fuyucomi.f4v" ],
     "WIKIPEDIA_EN" : [ "Queen's_Blade_Rebellion" ],
     "WIKIPEDIA_JP" : [ "クイーンズブレイド_リベリオン" ]
@@ -1155,6 +1156,14 @@
       "verified" : false,
       "weight" : 0
     },
+    "2905" : {
+      "info_box" : false,
+      "name" : "erotic torture",
+      "parent_tag_id" : 2729,
+      "spoiler" : false,
+      "verified" : false,
+      "weight" : 0
+    },
     "3411" : {
       "info_box" : false,
       "name" : "fighting",
@@ -1182,7 +1191,7 @@
     "5527" : {
       "info_box" : false,
       "name" : "spanking",
-      "parent_tag_id" : 2729,
+      "parent_tag_id" : 2905,
       "spoiler" : false,
       "verified" : false,
       "weight" : 0
@@ -1285,6 +1294,10 @@
   }, {
     "language" : "JAPANESE",
     "title" : "クイーンズブレイド リベリオン",
+    "type" : "OFFICIAL"
+  }, {
+    "language" : "CHINESE_TRADITIONAL",
+    "title" : "女王之刃 叛亂",
     "type" : "OFFICIAL"
   }, {
     "language" : "CHINESE_SIMPLIFIED",

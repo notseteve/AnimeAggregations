@@ -52,7 +52,7 @@
       "length" : 8,
       "number" : 1,
       "rating" : {
-        "rating" : 5.28,
+        "rating" : 5.29,
         "total" : 3
       },
       "recap" : false,
@@ -66,7 +66,7 @@
       "length" : 25,
       "number" : 2,
       "rating" : {
-        "rating" : 3.32,
+        "rating" : 3.35,
         "total" : 1
       },
       "recap" : false,
@@ -129,16 +129,16 @@
   },
   "ratings" : {
     "PERMANENT" : {
-      "rating" : 7.01,
-      "total" : 7632
+      "rating" : 7.0,
+      "total" : 7655
     },
     "REVIEW" : {
-      "rating" : 7.45,
-      "total" : 13
+      "rating" : 7.07,
+      "total" : 14
     },
     "TEMPORARY" : {
-      "rating" : 7.69,
-      "total" : 7664
+      "rating" : 7.68,
+      "total" : 7687
     }
   },
   "resources" : {
@@ -150,6 +150,7 @@
     "MAL" : [ "256" ],
     "MEDIA_ART_DATABASE" : [ "8110" ],
     "SYOBOI" : [ "1923" ],
+    "TMDB" : [ "movie/37910" ],
     "WEBSITE" : [ "http://shinkaimakoto.jp/distantstar" ],
     "WIKIPEDIA_EN" : [ "Voices_of_a_Distant_Star" ],
     "WIKIPEDIA_JP" : [ "ほしのこえ" ],
@@ -158,20 +159,24 @@
   },
   "similar" : {
     "469" : {
-      "rating" : 9.587628865979381,
-      "total" : 97
+      "rating" : 9.591836734693878,
+      "total" : 98
     },
     "4158" : {
-      "rating" : 7.8125,
-      "total" : 64
+      "rating" : 7.727272727272727,
+      "total" : 66
     },
     "4556" : {
       "rating" : 0.8333333333333333,
       "total" : 12
     },
     "4568" : {
-      "rating" : 9.536423841059602,
-      "total" : 151
+      "rating" : 9.539473684210527,
+      "total" : 152
+    },
+    "17229" : {
+      "rating" : 10.0,
+      "total" : 1
     }
   },
   "start_date" : "2002-02-02",
@@ -510,6 +515,10 @@
     "title" : "Voices of a Distant Star",
     "type" : "OFFICIAL"
   }, {
+    "language" : "PORTUGUESE",
+    "title" : "Vozes de Uma Estrela Distante",
+    "type" : "OFFICIAL"
+  }, {
     "language" : "RUSSIAN",
     "title" : "Голос далёкой звезды",
     "type" : "OFFICIAL"
@@ -556,6 +565,10 @@
   }, {
     "language" : "SPANISH",
     "title" : "Voces de una Estrella Lejana",
+    "type" : "SYNONYM"
+  }, {
+    "language" : "PORTUGUESE_BRAZIL",
+    "title" : "Vozes de Uma Estrela Distante",
     "type" : "SYNONYM"
   }, {
     "language" : "BULGARIAN",
